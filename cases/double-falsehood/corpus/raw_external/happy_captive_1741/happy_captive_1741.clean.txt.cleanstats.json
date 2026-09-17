@@ -1,0 +1,60 @@
+{
+ "stats": {
+  "noise": 685,
+  "pagenum": 108,
+  "sig": 35,
+  "hyphen_join": 6,
+  "auto": 7,
+  "override": 9,
+  "words_out": 6985,
+  "lines_out": 1937
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   6
+  ],
+  [
+   "whilft>whilst",
+   1
+  ],
+  [
+   "fondnefs>fondness",
+   1
+  ],
+  [
+   "blifs>bliss",
+   1
+  ],
+  [
+   "earlieft>earliest",
+   1
+  ],
+  [
+   "bleffing>blessing",
+   1
+  ],
+  [
+   "fave>save",
+   1
+  ],
+  [
+   "thefe>these",
+   1
+  ],
+  [
+   "fome>some",
+   1
+  ],
+  [
+   "fign>sign",
+   1
+  ],
+  [
+   "faid>said",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

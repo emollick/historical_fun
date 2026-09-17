@@ -1,0 +1,37 @@
+{
+ "stats": {
+  "noise": 40,
+  "sig": 1,
+  "runhead": 4,
+  "pagenum": 2,
+  "hyphen_join": 1,
+  "override": 3,
+  "auto": 3,
+  "words_out": 1801,
+  "lines_out": 534
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   2
+  ],
+  [
+   "fee>see",
+   1
+  ],
+  [
+   "breaft>breast",
+   1
+  ],
+  [
+   "pleafures>pleasures",
+   1
+  ],
+  [
+   "confent>consent",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

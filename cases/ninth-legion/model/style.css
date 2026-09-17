@@ -1,0 +1,83 @@
+/* Design tokens: cool limestone ground, iron-oxide red accent (used once per section at most), verdigris for the second series. */
+:root{
+  --bg:#E9EBE8; --surface:#F6F7F4; --surface-2:#DFE3DF; --text:#1B2028; --muted:#5A6370; --rule:#C6CCC8;
+  --accent:#963727; --accent-soft:#B9573F; --green:#356E5C; --green-soft:#6FA893; --band:#C9B8A6; --scen:#D9DDD9;
+  --fixed:#1B2028;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181D; --surface:#1C2229; --surface-2:#242C34; --text:#E5E8EB; --muted:#9AA4AE; --rule:#323B44;
+    --accent:#E2836C; --accent-soft:#C96A55; --green:#6FBFA0; --green-soft:#4F8F79; --band:#6B5E52; --scen:#1F262D;
+    --fixed:#E5E8EB;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14181D; --surface:#1C2229; --surface-2:#242C34; --text:#E5E8EB; --muted:#9AA4AE; --rule:#323B44;
+  --accent:#E2836C; --accent-soft:#C96A55; --green:#6FBFA0; --green-soft:#4F8F79; --band:#6B5E52; --scen:#1F262D;
+  --fixed:#E5E8EB;
+  color-scheme:dark;
+}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55;padding-inline:clamp(16px,4vw,40px);padding-block:32px 64px}
+.wrap{max-width:72rem;margin:0 auto}
+.prose{max-width:68ch}
+h1,h2,h3{text-wrap:balance;line-height:1.15;margin:0}
+h1{font-family:"Cinzel",Georgia,serif;font-weight:600;font-size:clamp(1.9rem,4.5vw,3rem);letter-spacing:.02em}
+h2{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:1.55rem;margin-top:2.6rem;margin-bottom:.8rem;padding-top:.9rem;border-top:1px solid var(--rule)}
+h3{font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif;font-weight:600;font-size:1.05rem;margin-top:1.6rem;margin-bottom:.4rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+p{margin:.65rem 0}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.eyebrow{font-family:"Source Sans 3",Arial,sans-serif;text-transform:uppercase;letter-spacing:.14em;font-size:.78rem;color:var(--muted);margin-bottom:.6rem}
+.lede{font-size:1.12rem;color:var(--text);max-width:68ch;margin-top:1rem}
+.verdict{margin-top:1.8rem;border-left:4px solid var(--accent);background:var(--surface);padding:1rem 1.3rem;max-width:68ch}
+.verdict .big{font-family:"Source Serif 4",Georgia,serif;font-size:1.35rem;font-weight:600;line-height:1.3;margin:0 0 .5rem}
+.probs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:1.2rem 0 0;padding:0;list-style:none;max-width:60rem}
+.probs li{background:var(--surface);border:1px solid var(--rule);padding:.7rem .9rem}
+.probs .num{font-family:"Source Sans 3",Arial,sans-serif;font-variant-numeric:tabular-nums;font-size:1.6rem;font-weight:600;color:var(--text);line-height:1}
+.probs .lab{font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted);margin-top:.3rem}
+.probs li.lead .num{color:var(--accent)}
+table{border-collapse:collapse;width:100%;font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif;font-size:.92rem;line-height:1.35}
+.tablewrap{overflow-x:auto;margin:1rem 0 1.4rem;border-top:2px solid var(--text)}
+th{text-align:left;font-weight:600;padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:bottom;white-space:nowrap;font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+td{padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.ref{white-space:nowrap}
+tr.total td{font-weight:600;border-top:2px solid var(--text)}
+.latin{font-family:"Source Serif 4",Georgia,serif;font-style:normal}
+.latin .cap{text-transform:uppercase;letter-spacing:.08em;font-size:.9em}
+blockquote{margin:1rem 0;padding:.2rem 0 .2rem 1rem;border-left:2px solid var(--rule);color:var(--text)}
+blockquote .src{display:block;font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted);margin-top:.3rem}
+.chart{display:block;max-width:100%;height:auto;margin:.8rem 0 .3rem}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.chart .tick,.chart .axis,.chart .rowlab,.chart .note,.chart .scenlab{fill:var(--muted);font-family:"Source Sans 3",Arial,sans-serif;font-size:12px}
+.chart .rowlab{fill:var(--text);font-size:13px}
+.chart .note{font-size:11.5px}
+.chart .scen{fill:var(--scen)}
+.chart .scenlab{font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+.chart .band{fill:var(--band)}
+.chart .band.alt{fill:var(--surface-2);stroke:var(--band);stroke-width:1;stroke-dasharray:3 2}
+.chart .median{stroke:var(--accent);stroke-width:2.5}
+.chart .fixed{fill:var(--fixed)}
+.chart .line{fill:none;stroke-width:2.5;stroke-linejoin:round}
+.chart .line.main{stroke:var(--accent)}
+.chart .line.alt{stroke:var(--green);stroke-dasharray:6 4}
+.caption{font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted);max-width:68ch;margin:.2rem 0 1rem}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:1rem 0}
+.card{background:var(--surface);border:1px solid var(--rule);padding:.9rem 1.1rem}
+.card h4{margin:0 0 .4rem;font-family:"Source Sans 3",Arial,sans-serif;font-size:.95rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.card .pct{font-family:"Source Sans 3",Arial,sans-serif;font-size:1.5rem;font-weight:600;font-variant-numeric:tabular-nums}
+.card.lead{border-color:var(--accent)}
+.card.lead .pct{color:var(--accent)}
+ul.tight{padding-left:1.2rem;margin:.4rem 0}
+ul.tight li{margin:.25rem 0}
+.biblio{font-family:"Source Sans 3",Arial,sans-serif;font-size:.9rem;padding-left:1.2rem}
+.biblio li{margin:.3rem 0}
+.toc{font-family:"Source Sans 3",Arial,sans-serif;font-size:.9rem;display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:1.4rem 0 0;padding:0;list-style:none}
+.toc a{color:var(--muted)}
+.foot{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--rule);font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted)}
+sup{font-size:.72em;line-height:0}
+.small{font-size:.9rem;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

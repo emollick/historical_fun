@@ -1,0 +1,771 @@
+{
+ "features": {
+  "semicolons": {
+   "letters": 1.472211998527788,
+   "narrative": 7.095793208312215,
+   "morriss": 6.976744186046512,
+   "z_letters": -0.8764781359792667,
+   "z_narrative": -0.111461395020623,
+   "ctrl_mean": 7.915137639741095,
+   "ctrl_sd": 7.350925683975893,
+   "early_mean": 7.249499805600706,
+   "late_mean": 8.692880026428057
+  },
+  "colons": {
+   "letters": 1.104158998895841,
+   "narrative": 2.0273694880892044,
+   "morriss": 0.0,
+   "z_letters": -0.3019487059711839,
+   "z_narrative": 0.2249090698176256,
+   "ctrl_mean": 1.6332623458733018,
+   "ctrl_sd": 1.7522954611633779,
+   "early_mean": 1.6457883872688868,
+   "late_mean": 1.6035612276724567
+  },
+  "dashes": {
+   "letters": 2.208317997791682,
+   "narrative": 0.7602635580334516,
+   "morriss": 0.0,
+   "z_letters": -0.33296300526315975,
+   "z_narrative": -0.5958407202592418,
+   "ctrl_mean": 4.042435271877648,
+   "ctrl_sd": 5.508471647282129,
+   "early_mean": 2.210357487443612,
+   "late_mean": 5.52275208620579
+  },
+  "parentheses": {
+   "letters": 0.0,
+   "narrative": 0.0,
+   "morriss": 0.0,
+   "z_letters": -0.7358404388126359,
+   "z_narrative": -0.7358404388126359,
+   "ctrl_mean": 0.9870809200917628,
+   "ctrl_sd": 1.34143337064287,
+   "early_mean": 0.8067558613634324,
+   "late_mean": 1.1418425569104627
+  },
+  "commas": {
+   "letters": 97.9020979020979,
+   "narrative": 95.03294475418144,
+   "morriss": 102.32558139534883,
+   "z_letters": 0.41616882488520535,
+   "z_narrative": 0.32020303874358025,
+   "ctrl_mean": 85.45962082780066,
+   "ctrl_sd": 29.8976673174146,
+   "early_mean": 85.45377363670809,
+   "late_mean": 85.4699334940163
+  },
+  "exclamations": {
+   "letters": 0.0,
+   "narrative": 0.0,
+   "morriss": 0.0,
+   "z_letters": -0.4084879448241719,
+   "z_narrative": -0.4084879448241719,
+   "ctrl_mean": 1.158616087994879,
+   "ctrl_sd": 2.8363531964048283,
+   "early_mean": 0.5596995001653503,
+   "late_mean": 1.7167312722788144
+  },
+  "questions": {
+   "letters": 0.0,
+   "narrative": 0.0,
+   "morriss": 0.0,
+   "z_letters": -0.5783652135241167,
+   "z_narrative": -0.5783652135241167,
+   "ctrl_mean": 1.3774048842726816,
+   "ctrl_sd": 2.3815486340885306,
+   "early_mean": 0.6960482344590047,
+   "late_mean": 1.7787982910323354
+  },
+  "etc_&c": {
+   "letters": 0.736105999263894,
+   "narrative": 0.0,
+   "morriss": 0.0,
+   "z_letters": 1.1070170514820539,
+   "z_narrative": -0.27802630449494503,
+   "ctrl_mean": 0.14776203922333955,
+   "ctrl_sd": 0.5314678389577563,
+   "early_mean": 0.24959458012570407,
+   "late_mean": 0.053845321850796775
+  },
+  "quotation_marks": {
+   "letters": 0.736105999263894,
+   "narrative": 2.534211860111505,
+   "morriss": 9.30232558139535,
+   "z_letters": -0.5748764803811391,
+   "z_narrative": -0.46296079271869656,
+   "ctrl_mean": 9.972423000277733,
+   "ctrl_sd": 16.066611378656898,
+   "early_mean": 3.922081633434376,
+   "late_mean": 15.202688575192935
+  },
+  "relativisers_which_who": {
+   "letters": 11.409642988590358,
+   "narrative": 13.431322858590978,
+   "morriss": 10.465116279069768,
+   "z_letters": 0.5891914705002238,
+   "z_narrative": 1.0951054368834554,
+   "ctrl_mean": 9.055178366864416,
+   "ctrl_sd": 3.996094206399493,
+   "early_mean": 10.583229789246113,
+   "late_mean": 7.580853820026911
+  },
+  "which": {
+   "letters": 8.097165991902834,
+   "narrative": 8.616320324379117,
+   "morriss": 5.813953488372093,
+   "z_letters": 0.8123923731036155,
+   "z_narrative": 0.9839385404009244,
+   "ctrl_mean": 5.638603222403715,
+   "ctrl_sd": 3.0263242872487495,
+   "early_mean": 6.896847353817127,
+   "late_mean": 4.362913041932823
+  },
+  "that": {
+   "letters": 8.465218991534782,
+   "narrative": 15.205271160669032,
+   "morriss": 10.465116279069768,
+   "z_letters": -0.5057063458749911,
+   "z_narrative": 0.8573516837161661,
+   "ctrl_mean": 10.965836778498737,
+   "ctrl_sd": 4.944802072114198,
+   "early_mean": 10.952006289471111,
+   "late_mean": 10.977536563901998
+  },
+  "infinitives": {
+   "letters": 23.18733897681266,
+   "narrative": 19.51343132285859,
+   "morriss": 10.465116279069768,
+   "z_letters": 1.1009405788661657,
+   "z_narrative": 0.4480273429664653,
+   "ctrl_mean": 16.992405566293808,
+   "ctrl_sd": 5.626946203489817,
+   "early_mean": 16.614142456620435,
+   "late_mean": 17.25275249310285
+  },
+  "coordinators_and_but_or_nor": {
+   "letters": 48.214942951785055,
+   "narrative": 47.89660415610745,
+   "morriss": 66.27906976744185,
+   "z_letters": 0.4969862612898869,
+   "z_narrative": 0.45610201425713087,
+   "ctrl_mean": 44.3452371513925,
+   "ctrl_sd": 7.786343611087054,
+   "early_mean": 43.63493760153391,
+   "late_mean": 45.72417205619215
+  },
+  "and": {
+   "letters": 38.64556496135444,
+   "narrative": 35.732387227572225,
+   "morriss": 51.16279069767442,
+   "z_letters": 0.4312186854129239,
+   "z_narrative": 0.041548399063202575,
+   "ctrl_mean": 35.42177111116506,
+   "ctrl_sd": 7.476006859726774,
+   "early_mean": 34.32005327486098,
+   "late_mean": 37.25185707544335
+  },
+  "however": {
+   "letters": 1.104158998895841,
+   "narrative": 2.0273694880892044,
+   "morriss": 1.1627906976744187,
+   "z_letters": 0.8777297728593486,
+   "z_narrative": 2.353779270148355,
+   "ctrl_mean": 0.5551737958458387,
+   "ctrl_sd": 0.6254603865852618,
+   "early_mean": 0.6557461450408946,
+   "late_mean": 0.4235968819289875
+  },
+  "doubtless": {
+   "letters": 1.104158998895841,
+   "narrative": 0.25342118601115055,
+   "morriss": 0.0,
+   "z_letters": 5.342465706263969,
+   "z_narrative": 0.9931699633200857,
+   "ctrl_mean": 0.059153586759369936,
+   "ctrl_sd": 0.1956035788701865,
+   "early_mean": 0.016692898029344313,
+   "late_mean": 0.10478321763721891
+  },
+  "upon": {
+   "letters": 2.944423997055576,
+   "narrative": 3.2944754181449567,
+   "morriss": 2.3255813953488373,
+   "z_letters": 0.6722304484869688,
+   "z_narrative": 0.8729000331684085,
+   "ctrl_mean": 1.7717738210661502,
+   "ctrl_sd": 1.7444169311711228,
+   "early_mean": 1.9665998851147677,
+   "late_mean": 1.4382878941901112
+  },
+  "until": {
+   "letters": 2.208317997791682,
+   "narrative": 2.787633046122656,
+   "morriss": 6.976744186046512,
+   "z_letters": 2.656900932568097,
+   "z_narrative": 3.5694637506672797,
+   "ctrl_mean": 0.5216585573300065,
+   "ctrl_sd": 0.6348221041239165,
+   "early_mean": 0.5058241300560379,
+   "late_mean": 0.5309378770483926
+  },
+  "passive_be_+_ed": {
+   "letters": 18.034596981965404,
+   "narrative": 13.93816523061328,
+   "morriss": 13.953488372093023,
+   "z_letters": 1.9398619937979438,
+   "z_narrative": 0.948142162482992,
+   "ctrl_mean": 10.021736884070004,
+   "ctrl_sd": 4.130634098463615,
+   "early_mean": 9.913957067333042,
+   "late_mean": 10.372883505938216
+  },
+  "negative_passive": {
+   "letters": 1.104158998895841,
+   "narrative": 2.2807906741003547,
+   "morriss": 1.1627906976744187,
+   "z_letters": 0.6446716126728911,
+   "z_narrative": 2.3626479710749773,
+   "ctrl_mean": 0.6626272887146665,
+   "ctrl_sd": 0.6848939855603807,
+   "early_mean": 0.6107426287445171,
+   "late_mean": 0.7500098391516729
+  },
+  "never_or_not_to_be_+_participle": {
+   "letters": 0.368052999631947,
+   "narrative": 0.5068423720223011,
+   "morriss": 0.0,
+   "z_letters": 2.991234156518958,
+   "z_narrative": 4.214737610860786,
+   "ctrl_mean": 0.028739277400420305,
+   "ctrl_sd": 0.11343602823337717,
+   "early_mean": 0.041651077711407476,
+   "late_mean": 0.017367081235884232
+  },
+  "reflexive_pronouns": {
+   "letters": 4.784688995215311,
+   "narrative": 3.0410542321338063,
+   "morriss": 3.488372093023256,
+   "z_letters": 2.4763742957238124,
+   "z_narrative": 1.0358357549423176,
+   "ctrl_mean": 1.7872736632499107,
+   "ctrl_sd": 1.2104047991215698,
+   "early_mean": 1.974765089240344,
+   "late_mean": 1.583169166440474
+  },
+  "untriggered_reflexives": {
+   "letters": 3.68052999631947,
+   "narrative": 2.2807906741003547,
+   "morriss": 3.488372093023256,
+   "z_letters": 6.62436806335989,
+   "z_narrative": 3.810874845252961,
+   "ctrl_mean": 0.3848446172104734,
+   "ctrl_sd": 0.4975093997777381,
+   "early_mean": 0.4004891661612853,
+   "late_mean": 0.33787809707953065
+  },
+  "the_pct": {
+   "letters": 5.410379094589621,
+   "narrative": 6.1327927014698425,
+   "morriss": 4.534883720930233,
+   "z_letters": -1.0521719253533732,
+   "z_narrative": -0.6295158017785397,
+   "ctrl_mean": 7.208775647379793,
+   "ctrl_sd": 1.7092230931614885,
+   "early_mean": 7.3593505461502735,
+   "late_mean": 7.1332279413604756
+  },
+  "and_pct": {
+   "letters": 3.8645564961354437,
+   "narrative": 3.5732387227572224,
+   "morriss": 5.116279069767442,
+   "z_letters": 0.4312186854129219,
+   "z_narrative": 0.04154839906320045,
+   "ctrl_mean": 3.5421771111165072,
+   "ctrl_sd": 0.7476006859726771,
+   "early_mean": 3.4320053274860984,
+   "late_mean": 3.725185707544335
+  },
+  "of_pct": {
+   "letters": 3.4965034965034967,
+   "narrative": 3.674607197161683,
+   "morriss": 2.558139534883721,
+   "z_letters": -0.46041444257955305,
+   "z_narrative": -0.3353937226092378,
+   "ctrl_mean": 4.152406902589822,
+   "ctrl_sd": 1.4245934649910426,
+   "early_mean": 4.529986095107232,
+   "late_mean": 3.822269317429114
+  },
+  "sentence_len_mean": {
+   "letters": 30.18888888888889,
+   "narrative": 35.232142857142854,
+   "morriss": 27.741935483870968,
+   "z_letters": 0.4084960642549647,
+   "z_narrative": 1.10773304191509,
+   "ctrl_mean": 27.242606780119544,
+   "ctrl_sd": 7.2125103925858385,
+   "early_mean": 28.869941476096493,
+   "late_mean": 25.90659388302685
+  },
+  "sentence_len_sd": {
+   "letters": 14.724354543717311,
+   "narrative": 18.509302332726453,
+   "morriss": 12.917604891350107,
+   "z_letters": -0.46936160987807657,
+   "z_narrative": 0.043854418237921126,
+   "ctrl_mean": 18.1858777429738,
+   "ctrl_sd": 7.374960214909077,
+   "early_mean": 18.7018940853099,
+   "late_mean": 17.816833371666103
+  },
+  "sentence_len_median": {
+   "letters": 28.0,
+   "narrative": 32.0,
+   "morriss": 22.0,
+   "z_letters": 0.6827329830175035,
+   "z_narrative": 1.2764138378153325,
+   "ctrl_mean": 23.4,
+   "ctrl_sd": 6.7376267361058035,
+   "early_mean": 25.107142857142858,
+   "late_mean": 21.982142857142858
+  },
+  "long_sentences_40plus_pct": {
+   "letters": 23.333333333333332,
+   "narrative": 28.57142857142857,
+   "morriss": 12.903225806451612,
+   "z_letters": 0.30050518206182614,
+   "z_narrative": 0.7651514276594972,
+   "ctrl_mean": 19.9456490937754,
+   "ctrl_sd": 11.273297240048747,
+   "early_mean": 21.998010758394685,
+   "late_mean": 18.344242066372885
+  },
+  "paragraph_len_mean": {
+   "letters": 100.5925925925926,
+   "narrative": 106.86486486486487,
+   "morriss": 123.57142857142857,
+   "z_letters": -0.11940763603726379,
+   "z_narrative": -0.03406918281059464,
+   "ctrl_mean": 109.36890826619391,
+   "ctrl_sd": 73.49878085571072,
+   "early_mean": 124.59352880853926,
+   "late_mean": 96.99142950903612
+  },
+  "word_len_mean": {
+   "letters": 4.47073978652926,
+   "narrative": 4.642929548910289,
+   "morriss": 4.561627906976744,
+   "z_letters": -0.025796259649768755,
+   "z_narrative": 0.667531328914729,
+   "ctrl_mean": 4.477146356659564,
+   "ctrl_sd": 0.2483526766005947,
+   "early_mean": 4.476670303628978,
+   "late_mean": 4.490860400196516
+  },
+  "long_words_7plus_pct": {
+   "letters": 20.316525579683475,
+   "narrative": 23.568170299037,
+   "morriss": 20.46511627906977,
+   "z_letters": -0.018157741210153348,
+   "z_narrative": 0.760632601851541,
+   "ctrl_mean": 20.39233869658637,
+   "ctrl_sd": 4.17525043591345,
+   "early_mean": 20.46578935114076,
+   "late_mean": 20.460598156082373
+  },
+  "type_token_ratio_first1000": {
+   "letters": 0.434,
+   "narrative": 0.441,
+   "morriss": 0.436046511627907,
+   "z_letters": -0.13236774964097153,
+   "z_narrative": 0.062077576017747535,
+   "ctrl_mean": 0.43876521739130453,
+   "ctrl_sd": 0.03599983685021086,
+   "early_mean": 0.4334821428571428,
+   "late_mean": 0.4440535714285714
+  }
+ },
+ "pairs": {
+  "beale_letters|narrative": {
+   "distance": 1.159961433306192,
+   "pct_diff_closer": 0.3350125944584383,
+   "pct_same_closer": 0.6945812807881774,
+   "LR": 0.7584263068635088
+  },
+  "beale_letter1|narrative_A": {
+   "distance": 1.5102152488818297,
+   "pct_diff_closer": 0.7364609571788413,
+   "pct_same_closer": 0.8866995073891626,
+   "LR": 0.3273126654186222
+  },
+  "beale_letters|narrative_A": {
+   "distance": 1.2002373493934013,
+   "pct_diff_closer": 0.3879093198992443,
+   "pct_same_closer": 0.7339901477832512,
+   "LR": 0.6747337664652473
+  },
+  "beale_letters|narrative_B": {
+   "distance": 1.3039383171010055,
+   "pct_diff_closer": 0.5253463476070529,
+   "pct_same_closer": 0.8177339901477833,
+   "LR": 0.5060263338727681
+  },
+  "narrative_A|narrative_B": {
+   "distance": 0.9541046855701804,
+   "pct_diff_closer": 0.10532115869017632,
+   "pct_same_closer": 0.43349753694581283,
+   "LR": 1.6145495104791263
+  },
+  "morriss|narrative": {
+   "distance": 1.7547298794912585,
+   "pct_diff_closer": 0.8624055415617129,
+   "pct_same_closer": 0.9064039408866995,
+   "LR": 0.3288091905796065
+  },
+  "morriss|beale_letters": {
+   "distance": 1.9113734885279738,
+   "pct_diff_closer": 0.9014483627204031,
+   "pct_same_closer": 0.9261083743842364,
+   "LR": 0.5206453972977971
+  }
+ },
+ "shared_deviations": [
+  [
+   "parentheses",
+   -0.7358404388126359,
+   -0.7358404388126359
+  ],
+  [
+   "questions",
+   -0.5783652135241167,
+   -0.5783652135241167
+  ],
+  [
+   "relativisers_which_who",
+   0.5891914705002238,
+   1.0951054368834554
+  ],
+  [
+   "which",
+   0.8123923731036155,
+   0.9839385404009244
+  ],
+  [
+   "however",
+   0.8777297728593486,
+   2.353779270148355
+  ],
+  [
+   "doubtless",
+   5.342465706263969,
+   0.9931699633200857
+  ],
+  [
+   "upon",
+   0.6722304484869688,
+   0.8729000331684085
+  ],
+  [
+   "until",
+   2.656900932568097,
+   3.5694637506672797
+  ],
+  [
+   "passive_be_+_ed",
+   1.9398619937979438,
+   0.948142162482992
+  ],
+  [
+   "negative_passive",
+   0.6446716126728911,
+   2.3626479710749773
+  ],
+  [
+   "never_or_not_to_be_+_participle",
+   2.991234156518958,
+   4.214737610860786
+  ],
+  [
+   "reflexive_pronouns",
+   2.4763742957238124,
+   1.0358357549423176
+  ],
+  [
+   "untriggered_reflexives",
+   6.62436806335989,
+   3.810874845252961
+  ],
+  [
+   "the_pct",
+   -1.0521719253533732,
+   -0.6295158017785397
+  ],
+  [
+   "sentence_len_median",
+   0.6827329830175035,
+   1.2764138378153325
+  ]
+ ],
+ "opposite_deviations": [
+  [
+   "that",
+   -0.5057063458749911,
+   0.8573516837161661
+  ]
+ ],
+ "rarity": {
+  "parentheses": {
+   "n_samples": 50,
+   "authors": [
+    "bagby",
+    "biddle",
+    "cabell",
+    "cable",
+    "christian",
+    "cooke",
+    "davis",
+    "eggleston",
+    "ejames",
+    "flint",
+    "gregg",
+    "hall",
+    "irving",
+    "jefferson",
+    "jqadams",
+    "lee",
+    "page",
+    "pattie",
+    "paulding",
+    "pike",
+    "tjames",
+    "twain"
+   ]
+  },
+  "questions": {
+   "n_samples": 54,
+   "authors": [
+    "biddle",
+    "cabell",
+    "christian",
+    "cooke",
+    "davis",
+    "eggleston",
+    "ejames",
+    "flint",
+    "gregg",
+    "hall",
+    "irving",
+    "jefferson",
+    "jqadams",
+    "lee",
+    "page",
+    "pattie",
+    "paulding",
+    "pike",
+    "pollock",
+    "shsp",
+    "tjames",
+    "twain"
+   ]
+  },
+  "relativisers_which_who": {
+   "n_samples": 30,
+   "authors": [
+    "bagby",
+    "biddle",
+    "davis",
+    "eggleston",
+    "flint",
+    "gregg",
+    "hall",
+    "jackson",
+    "jefferson",
+    "jqadams",
+    "page",
+    "paulding",
+    "pike",
+    "poe",
+    "tjames"
+   ]
+  },
+  "which": {
+   "n_samples": 22,
+   "authors": [
+    "biddle",
+    "davis",
+    "eggleston",
+    "ejames",
+    "flint",
+    "gregg",
+    "hall",
+    "jackson",
+    "jefferson",
+    "jqadams",
+    "page",
+    "pattie",
+    "pike",
+    "poe",
+    "twain"
+   ]
+  },
+  "however": {
+   "n_samples": 17,
+   "authors": [
+    "biddle",
+    "cooke",
+    "gregg",
+    "irving",
+    "jackson",
+    "jefferson",
+    "lee",
+    "page",
+    "paulding",
+    "poe",
+    "shsp"
+   ]
+  },
+  "doubtless": {
+   "n_samples": 12,
+   "authors": [
+    "cabell",
+    "cooke",
+    "eggleston",
+    "flint",
+    "jefferson",
+    "pollock"
+   ]
+  },
+  "upon": {
+   "n_samples": 24,
+   "authors": [
+    "cable",
+    "cooke",
+    "davis",
+    "eggleston",
+    "ejames",
+    "flint",
+    "gregg",
+    "hall",
+    "jackson",
+    "jqadams",
+    "pattie",
+    "poe"
+   ]
+  },
+  "until": {
+   "n_samples": 5,
+   "authors": [
+    "christian",
+    "ejames",
+    "irving",
+    "randolph"
+   ]
+  },
+  "passive_be_+_ed": {
+   "n_samples": 15,
+   "authors": [
+    "cabell",
+    "christian",
+    "davis",
+    "gregg",
+    "hall",
+    "page",
+    "shsp",
+    "twain"
+   ]
+  },
+  "negative_passive": {
+   "n_samples": 22,
+   "authors": [
+    "cabell",
+    "cable",
+    "christian",
+    "cooke",
+    "davis",
+    "eggleston",
+    "ejames",
+    "flint",
+    "gregg",
+    "hall",
+    "jackson",
+    "jqadams",
+    "lee",
+    "page",
+    "pike",
+    "pollock",
+    "twain"
+   ]
+  },
+  "never_or_not_to_be_+_participle": {
+   "n_samples": 7,
+   "authors": [
+    "ejames",
+    "jackson",
+    "jefferson",
+    "lee",
+    "page",
+    "paulding",
+    "pike"
+   ]
+  },
+  "reflexive_pronouns": {
+   "n_samples": 13,
+   "authors": [
+    "cabell",
+    "cable",
+    "eggleston",
+    "gregg",
+    "irving",
+    "jefferson",
+    "jqadams",
+    "lee",
+    "pattie",
+    "pike",
+    "twain"
+   ]
+  },
+  "untriggered_reflexives": {
+   "n_samples": 1,
+   "authors": [
+    "jefferson"
+   ]
+  },
+  "the_pct": {
+   "n_samples": 25,
+   "authors": [
+    "bagby",
+    "cabell",
+    "cable",
+    "jackson",
+    "lee",
+    "pattie",
+    "paulding",
+    "poe",
+    "pollock",
+    "randolph",
+    "tjames",
+    "twain"
+   ]
+  },
+  "sentence_len_median": {
+   "n_samples": 31,
+   "authors": [
+    "biddle",
+    "cabell",
+    "cooke",
+    "davis",
+    "eggleston",
+    "ejames",
+    "flint",
+    "gregg",
+    "hall",
+    "irving",
+    "jackson",
+    "jefferson",
+    "paulding",
+    "pollock"
+   ]
+  }
+ }
+}

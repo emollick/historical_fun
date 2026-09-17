@@ -1,0 +1,864 @@
+{
+ "base": {
+  "identity": {
+   "Nefertiti": 0.8881242573185387,
+   "Meritaten": 0.09741512762547021,
+   "Male": 0.008868684203998013,
+   "Tasherit": 0.0055919308519923674
+  },
+  "smenkhkare": {
+   "before_coreg": 0.48228463744604194,
+   "before_sole": 0.3177641905451448,
+   "after": 0.14090797274045527,
+   "same": 0.05904319926835737
+  },
+  "coregency": {
+   "yes": 0.6802265674113579,
+   "no": 0.3197734325886415
+  },
+  "kv55": {
+   "Smenkhkare": 0.6140988761227448,
+   "Akhenaten": 0.21408941959256364,
+   "AnotherSon": 0.17181170428469095
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.6825536766255211,
+   "Tutankhamun": 0.20576217878031242,
+   "Smenkhkare": 0.11168414459416579
+  },
+  "dahamunzu": {
+   "Nefertiti": 0.4379077933318949,
+   "Meritaten": 0.3563300278877921,
+   "Ankhesenamun": 0.20576217878031242
+  },
+  "models": {
+   "N-SB-coreg": 0.43023080270823044,
+   "N-SB-sole": 0.2831910411015176,
+   "N-SA": 0.12564275005432374,
+   "M-SB-coreg": 0.04935474701066563,
+   "N-SI": 0.049059663454466954,
+   "M-SB": 0.03278046762062428,
+   "M-SA": 0.014473692620924758,
+   "X-SI": 0.008868684203998013,
+   "T-SB-coreg": 0.0026990877271457765,
+   "T-SB-sole": 0.0017926818230028902,
+   "M-SI": 0.0008062203732555212,
+   "T-SA": 0.0007915300652068226,
+   "T-SI": 0.0003086312366368791
+  },
+  "separate_smenkhkare": 0.9409568007316413,
+  "smenkhkare_before": 0.8000488279911862,
+  "smenkhkare_after": 0.14090797274045527
+ },
+ "sceptical": {
+  "identity": {
+   "Nefertiti": 0.4968573841824781,
+   "Meritaten": 0.2579074498659795,
+   "Male": 0.2098494042114856,
+   "Tasherit": 0.03538576174005736
+  },
+  "smenkhkare": {
+   "before_coreg": 0.38956310935750876,
+   "before_sole": 0.2774590695565964,
+   "same": 0.27531175208166747,
+   "after": 0.057666069004227875
+  },
+  "coregency": {
+   "yes": 0.5936399023015497,
+   "no": 0.40636009769845066
+  },
+  "kv55": {
+   "Smenkhkare": 0.43767471161896737,
+   "Akhenaten": 0.3236009060124665,
+   "AnotherSon": 0.2387243823685667
+  },
+  "nibhururiya": {
+   "Tutankhamun": 0.7988364800376263,
+   "Akhenaten": 0.16945269133150484,
+   "Smenkhkare": 0.031710828630869325
+  },
+  "dahamunzu": {
+   "Ankhesenamun": 0.7988364800376263,
+   "Meritaten": 0.10734180149951147,
+   "Nefertiti": 0.0938217184628627
+  },
+  "models": {
+   "N-SB-coreg": 0.2377616494020633,
+   "X-SI": 0.2098494042114856,
+   "N-SB-sole": 0.16868000679008208,
+   "M-SB-coreg": 0.13493463107150702,
+   "M-SB": 0.09669250023690167,
+   "N-SI": 0.055233523723049655,
+   "N-SA": 0.03518220426728299,
+   "M-SA": 0.01998565754395101,
+   "T-SB-coreg": 0.01686682888393838,
+   "T-SB-sole": 0.01208656252961271,
+   "M-SI": 0.006294661013619831,
+   "T-SI": 0.003934163133512395,
+   "T-SA": 0.002498207192993876
+  },
+  "separate_smenkhkare": 0.7246882479183334,
+  "smenkhkare_before": 0.6670221789141056,
+  "smenkhkare_after": 0.057666069004227875
+ },
+ "generous": {
+  "identity": {
+   "Nefertiti": 0.9709785201931688,
+   "Meritaten": 0.02789617724349039,
+   "Tasherit": 0.0009534029127708862,
+   "Male": 0.00017189965057000825
+  },
+  "smenkhkare": {
+   "before_coreg": 0.4727127753992249,
+   "before_sole": 0.3061950400032476,
+   "after": 0.19417648285583158,
+   "same": 0.026915701741696087
+  },
+  "coregency": {
+   "yes": 0.81943238098008,
+   "no": 0.18056761901991994
+  },
+  "kv55": {
+   "Smenkhkare": 0.768052578543008,
+   "AnotherSon": 0.11851364701936087,
+   "Akhenaten": 0.11343377443763143
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.8944901057099783,
+   "Smenkhkare": 0.08631574411132611,
+   "Tutankhamun": 0.019194150178695524
+  },
+  "dahamunzu": {
+   "Nefertiti": 0.6111250687144947,
+   "Meritaten": 0.3696807811068101,
+   "Ankhesenamun": 0.019194150178695524
+  },
+  "models": {
+   "N-SB-coreg": 0.45875699302116263,
+   "N-SB-sole": 0.2971432588421862,
+   "N-SA": 0.1884390455186399,
+   "N-SI": 0.026639222811179974,
+   "M-SB-coreg": 0.013505595849737569,
+   "M-SB": 0.008759788220381974,
+   "M-SA": 0.005552358713411266,
+   "T-SB-coreg": 0.00045018652832458573,
+   "T-SB-sole": 0.0002919929406793992,
+   "T-SA": 0.0001850786237803755,
+   "X-SI": 0.00017189965057000825,
+   "M-SI": 7.843445995957823e-05,
+   "T-SI": 2.6144819986526083e-05
+  },
+  "separate_smenkhkare": 0.9730842982583043,
+  "smenkhkare_before": 0.7789078154024729,
+  "smenkhkare_after": 0.19417648285583158
+ },
+ "prior_literature": {
+  "identity": {
+   "Nefertiti": 0.914502450300301,
+   "Meritaten": 0.07213363325491416,
+   "Male": 0.009827220538692276,
+   "Tasherit": 0.0035366959060939285
+  },
+  "smenkhkare": {
+   "before_coreg": 0.5055705146945776,
+   "before_sole": 0.3511152464496627,
+   "after": 0.07850726400126751,
+   "same": 0.06480697485449295
+  },
+  "coregency": {
+   "yes": 0.6796439242469563,
+   "no": 0.3203560757530446
+  },
+  "kv55": {
+   "Smenkhkare": 0.6110467154489748,
+   "Akhenaten": 0.21572699937799447,
+   "AnotherSon": 0.17322628517303154
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.6806970603442253,
+   "Tutankhamun": 0.2096764822253463,
+   "Smenkhkare": 0.10962645743042954
+  },
+  "dahamunzu": {
+   "Nefertiti": 0.4490226029565395,
+   "Meritaten": 0.3413009148181153,
+   "Ankhesenamun": 0.2096764822253463
+  },
+  "models": {
+   "N-SB-coreg": 0.4767305818428413,
+   "N-SB-sole": 0.3137986144812678,
+   "N-SA": 0.06961117260861636,
+   "N-SI": 0.054362081367575164,
+   "M-SB": 0.03632341362703101,
+   "M-SB-coreg": 0.027344528926090697,
+   "X-SI": 0.009827220538692276,
+   "M-SA": 0.008019011959572896,
+   "T-SB-coreg": 0.0014954039256455849,
+   "T-SB-sole": 0.0009932183413641294,
+   "T-SA": 0.0008770794330782858,
+   "M-SI": 0.0004466787422195706,
+   "T-SI": 0.00017099420600592935
+  },
+  "separate_smenkhkare": 0.9351930251455085,
+  "smenkhkare_before": 0.8566857611442411,
+  "smenkhkare_after": 0.07850726400126751
+ },
+ "prior_nefertiti_sceptical": {
+  "identity": {
+   "Nefertiti": 0.7778883400420502,
+   "Meritaten": 0.19908874953544475,
+   "Male": 0.01812506220786459,
+   "Tasherit": 0.004897848214640214
+  },
+  "smenkhkare": {
+   "before_coreg": 0.48006072217684637,
+   "before_sole": 0.3166048531856096,
+   "after": 0.14032108340288882,
+   "same": 0.06301334123465525
+  },
+  "coregency": {
+   "yes": 0.6840876451377139,
+   "no": 0.315912354862286
+  },
+  "kv55": {
+   "Smenkhkare": 0.6171283211320998,
+   "Akhenaten": 0.21259921449457986,
+   "AnotherSon": 0.1702724643733204
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.6815320095813501,
+   "Tutankhamun": 0.20533533377410051,
+   "Smenkhkare": 0.11313265664454925
+  },
+  "dahamunzu": {
+   "Meritaten": 0.39865284837013737,
+   "Nefertiti": 0.3960118178557622,
+   "Ankhesenamun": 0.20533533377410051
+  },
+  "models": {
+   "N-SB-coreg": 0.37682961837358026,
+   "N-SB-sole": 0.24804075225053662,
+   "N-SA": 0.11004769825020291,
+   "M-SB-coreg": 0.10086703272380199,
+   "M-SB": 0.06699393068465147,
+   "N-SI": 0.042970271167730584,
+   "M-SA": 0.029580101523235015,
+   "X-SI": 0.01812506220786459,
+   "T-SB-coreg": 0.0023640710794641095,
+   "M-SI": 0.00164768460375629,
+   "T-SB-sole": 0.0015701702504215182,
+   "T-SA": 0.0006932836294508206,
+   "T-SI": 0.00027032325530376624
+  },
+  "separate_smenkhkare": 0.9369866587653446,
+  "smenkhkare_before": 0.7966655753624559,
+  "smenkhkare_after": 0.14032108340288882
+ },
+ "prior_one_person_half": {
+  "identity": {
+   "Nefertiti": 0.8820817295677778,
+   "Meritaten": 0.08856879799412878,
+   "Male": 0.023796061419595536,
+   "Tasherit": 0.005553411018497636
+  },
+  "smenkhkare": {
+   "before_coreg": 0.4313482733331053,
+   "before_sole": 0.2842036098113845,
+   "same": 0.15842210229628848,
+   "after": 0.12602601455922127
+  },
+  "coregency": {
+   "yes": 0.6799942662479072,
+   "no": 0.32000573375209274
+  },
+  "kv55": {
+   "Smenkhkare": 0.5591436760600274,
+   "Akhenaten": 0.24248699037840246,
+   "AnotherSon": 0.19836933356156974
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.6849003645156506,
+   "Tutankhamun": 0.21232992905505801,
+   "Smenkhkare": 0.10276970642929092
+  },
+  "dahamunzu": {
+   "Nefertiti": 0.44311133520998375,
+   "Meritaten": 0.3445587357349579,
+   "Ankhesenamun": 0.21232992905505801
+  },
+  "models": {
+   "N-SB-coreg": 0.3847920905497923,
+   "N-SB-sole": 0.25328189437966625,
+   "N-SI": 0.13163472031859083,
+   "N-SA": 0.11237302431972841,
+   "M-SB-coreg": 0.044142158490844914,
+   "M-SB": 0.02931836722414782,
+   "X-SI": 0.023796061419595536,
+   "M-SA": 0.012945057412259974,
+   "T-SB-coreg": 0.0024140242924680813,
+   "M-SI": 0.0021632148668760884,
+   "T-SB-sole": 0.0016033482075705834,
+   "T-SI": 0.0008281056912260022,
+   "T-SA": 0.0007079328272329674
+  },
+  "separate_smenkhkare": 0.8415778977037113,
+  "smenkhkare_before": 0.7155518831444899,
+  "smenkhkare_after": 0.12602601455922127
+ },
+ "prior_tut_favouring": {
+  "identity": {
+   "Nefertiti": 0.8891587615075023,
+   "Meritaten": 0.09708129765551697,
+   "Male": 0.008148518176874196,
+   "Tasherit": 0.005611422660105073
+  },
+  "smenkhkare": {
+   "before_coreg": 0.5082082712112646,
+   "before_sole": 0.29718312555603704,
+   "after": 0.12938314531473466,
+   "same": 0.0652254579179623
+  },
+  "coregency": {
+   "yes": 0.6946406705896279,
+   "no": 0.30535932941037064
+  },
+  "kv55": {
+   "Smenkhkare": 0.6188481451271698,
+   "Akhenaten": 0.2142663716520092,
+   "AnotherSon": 0.16688548322081956
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.6033324555164191,
+   "Tutankhamun": 0.36376040398664367,
+   "Smenkhkare": 0.032907140496936056
+  },
+  "dahamunzu": {
+   "Nefertiti": 0.38708162198599144,
+   "Ankhesenamun": 0.36376040398664367,
+   "Meritaten": 0.24915797402736334
+  },
+  "models": {
+   "N-SB-coreg": 0.45317163480541794,
+   "N-SB-sole": 0.2648266115924612,
+   "N-SA": 0.11535750840278988,
+   "N-SI": 0.055803006706833094,
+   "M-SB-coreg": 0.05218288488850635,
+   "M-SB": 0.030678768795094093,
+   "M-SA": 0.013298381664658689,
+   "X-SI": 0.008148518176874196,
+   "T-SB-coreg": 0.00285375151734019,
+   "T-SB-sole": 0.0016777451684817082,
+   "M-SI": 0.0009212623072578699,
+   "T-SA": 0.0007272552472860216,
+   "T-SI": 0.0003526707269971531
+  },
+  "separate_smenkhkare": 0.9347745420820363,
+  "smenkhkare_before": 0.8053913967673016,
+  "smenkhkare_after": 0.12938314531473466
+ },
+ "leave_one_out": {
+  "E01": {
+   "title": "Feminine grammatical forms attached to the extended-prenomen titulary",
+   "P_Nefertiti": 0.845626553143897,
+   "P_separate": 0.8959310023379059,
+   "P_coreg": 0.68184940368934,
+   "P_kv55_Akh": 0.21399433375805121,
+   "P_nib_Tut": 0.2035969584314296
+  },
+  "E02": {
+   "title": "The nomen Neferneferuaten is Nefertiti's own cartouche name (Neferneferuaten-Nefertiti from about year 5), written with the same reversed Aten group",
+   "P_Nefertiti": 0.7595916113411165,
+   "P_separate": 0.9306555703340356,
+   "P_coreg": 0.6847451989250348,
+   "P_kv55_Akh": 0.21244537428734572,
+   "P_nib_Tut": 0.20501640519647618
+  },
+  "E03": {
+   "title": "Epithets tying the ruler to Akhenaten as his beloved and to a husband: mery-Waenre, mery-Neferkheperure, akhet-en-hies 'effective for her husband'",
+   "P_Nefertiti": 0.8171469235273904,
+   "P_separate": 0.9363584021763075,
+   "P_coreg": 0.6827141090408131,
+   "P_kv55_Akh": 0.21333389309751236,
+   "P_nib_Tut": 0.20546850688474685
+  },
+  "E04": {
+   "title": "Stela UC 410 + Cairo JE 64959: the double cartouche of Neferneferuaten is cut over Nefertiti's single queenly cartouche and a king's-daughter caption",
+   "P_Nefertiti": 0.8488478104307915,
+   "P_separate": 0.934210521120274,
+   "P_coreg": 0.6816137405619597,
+   "P_kv55_Akh": 0.2138057340608316,
+   "P_nib_Tut": 0.20544285705185722
+  },
+  "E05": {
+   "title": "Paired-ruler scenes: an adult woman in the blue crown beside a male king, both with uraeus, interacting as living rulers; the Hermopolis pillar join names Neferneferuaten and King's Daughter Ankhesenpaaten",
+   "P_Nefertiti": 0.8618968431316003,
+   "P_separate": 0.9336334417145764,
+   "P_coreg": 0.42802536737531666,
+   "P_kv55_Akh": 0.20447748523362486,
+   "P_nib_Tut": 0.17572946486292879
+  },
+  "E06": {
+   "title": "Box Carter 1k: Akhenaten 'great in his lifetime', then Ankhkheperure-mery-Neferkheperure Neferneferuaten-mery-Waenre, then King's Great Wife Meritaten 'may she live', as three entries in one protocol",
+   "P_Nefertiti": 0.691401728282482,
+   "P_separate": 0.9522257488757467,
+   "P_coreg": 0.5686273835155242,
+   "P_kv55_Akh": 0.20673674704375047,
+   "P_nib_Tut": 0.19195355752787482
+  },
+  "E07": {
+   "title": "Tomb of Meryre II (Amarna tomb 2) and the Memphis block: King Ankhkheperure Smenkhkare Djeserkheperu with King's Great Wife Meritaten, under the Aten, in a tomb whose dated decoration ends with the year-12 durbar",
+   "P_Nefertiti": 0.8851367895237352,
+   "P_separate": 0.8617372641238108,
+   "P_coreg": 0.6801147136702885,
+   "P_kv55_Akh": 0.24205618406901225,
+   "P_nib_Tut": 0.20931090238138073
+  },
+  "E08": {
+   "title": "Calcite jar Carter 405: Akhenaten's cartouches followed by Smenkhkare's, both later erased; the only object joining the two names",
+   "P_Nefertiti": 0.8895813459969775,
+   "P_separate": 0.9397801875185792,
+   "P_coreg": 0.6815350792493777,
+   "P_kv55_Akh": 0.21813325987665147,
+   "P_nib_Tut": 0.2018385992567169
+  },
+  "E09": {
+   "title": "Complementary distribution of the names: the plain prenomen only with the nomen Smenkhkare, the extended prenomen only with the nomen Neferneferuaten, with no crossed example among hundreds of bezels and moulds",
+   "P_Nefertiti": 0.8859575219471013,
+   "P_separate": 0.9053214187777697,
+   "P_coreg": 0.6801432686383218,
+   "P_kv55_Akh": 0.22427224764441953,
+   "P_nib_Tut": 0.2081172489459835
+  },
+  "E10": {
+   "title": "Pairi graffito TT 139: 'Year 3, III Akhet 10' of Ankhkheperure-mery-[...] Neferneferuaten-mery-[...], with Amun worshipped and a 'House of Ankhkheperure in Thebes' staffed by priests of Amun; Smenkhkare is otherwise attested only in Aten contexts",
+   "P_Nefertiti": 0.8874387558654041,
+   "P_separate": 0.9297096598862155,
+   "P_coreg": 0.6803075144798711,
+   "P_kv55_Akh": 0.217755851227461,
+   "P_nib_Tut": 0.20502769349410496
+  },
+  "E11": {
+   "title": "Amarna jar dockets: Akhenaten's highest year 17; a year-17 docket relabelled 'year 1' (COA III 279); years 1-3 of a successor at Amarna; 'House of Smenkhkare, [justified]' in a year 1 (no. 35); 'House of Ankhkheperure' as a separate estate (no. 36)",
+   "P_Nefertiti": 0.8882291060087621,
+   "P_separate": 0.9429703539874487,
+   "P_coreg": 0.681379196556647,
+   "P_kv55_Akh": 0.21535523956582953,
+   "P_nib_Tut": 0.2067995809983667
+  },
+  "E12": {
+   "title": "Manetho according to Josephus: Orus, then 'his daughter Akencheres, 12 years 1 month', then 'her brother Rathotis, 9 years'",
+   "P_Nefertiti": 0.9164443276535221,
+   "P_separate": 0.9394191806130479,
+   "P_coreg": 0.6792432294376823,
+   "P_kv55_Akh": 0.21447428393748472,
+   "P_nib_Tut": 0.20574336776979749
+  },
+  "E13": {
+   "title": "A shabti of Nefertiti with queenly titles only (Louvre AF 9904 + Brooklyn 33.51)",
+   "P_Nefertiti": 0.9297299487210866,
+   "P_separate": 0.942371314249983,
+   "P_coreg": 0.6787704966990322,
+   "P_kv55_Akh": 0.21461739067328867,
+   "P_nib_Tut": 0.2059047738155443
+  },
+  "E14": {
+   "title": "Masculine references beside the extended names: 'my lord' with a masculine article on Ranefer's door jamb; the North Riverside Palace prenomen painted with r, not t, under mer",
+   "P_Nefertiti": 0.8893073051660132,
+   "P_separate": 0.9422102254731672,
+   "P_coreg": 0.6801813910188272,
+   "P_kv55_Akh": 0.21409206658477262,
+   "P_nib_Tut": 0.2058224540192412
+  },
+  "E15": {
+   "title": "Age of Neferneferuaten-tasherit: fourth daughter, shown as a child at the year-12 durbar, so at most about ten years old in year 17",
+   "P_Nefertiti": 0.8608461033096885,
+   "P_separate": 0.941075080161479,
+   "P_coreg": 0.6811663513715199,
+   "P_kv55_Akh": 0.2141727863214437,
+   "P_nib_Tut": 0.20589930643566168
+  },
+  "E16": {
+   "title": "Dayr Abu Hinnis graffito: Nefertiti still King's Great Wife on day 15 of a month of Akhet in year 16, about a year before Akhenaten's death",
+   "P_Nefertiti": 0.8988462313837907,
+   "P_separate": 0.9413639241897229,
+   "P_coreg": 0.7108730897833625,
+   "P_kv55_Akh": 0.2153891004638297,
+   "P_nib_Tut": 0.20946728079962476
+  },
+  "E17": {
+   "title": "A full kingly burial outfit made for the female king was left unused and re-inscribed for Tutankhamun (coffinettes, pectoral, trappings, middle coffin, mask, second shrine, statuettes)",
+   "P_Nefertiti": 0.8881242573185387,
+   "P_separate": 0.9409568007316413,
+   "P_coreg": 0.6802265674113579,
+   "P_kv55_Akh": 0.21408941959256364,
+   "P_nib_Tut": 0.20576217878031242
+  },
+  "E18": {
+   "title": "Two rulers with one prenomen: Ankhkheperure is shared by the Smenkhkare name-set and the Neferneferuaten name-set, which has no parallel for two successive kings",
+   "P_Nefertiti": 0.8904076101444168,
+   "P_separate": 0.978510140727962,
+   "P_coreg": 0.6803143494687847,
+   "P_kv55_Akh": 0.20335853407966498,
+   "P_nib_Tut": 0.20328035465503366
+  },
+  "K01": {
+   "title": "Age at death of the KV55 body: six hands-on examiners give 19-26; Harris and Wente 30-35 and Hawass 2010 (CT, criteria unpublished) 35-45; Akhenaten had a daughter by about year 2 and reigned 17 years",
+   "P_Nefertiti": 0.8908411056064154,
+   "P_separate": 0.9067490206070657,
+   "P_coreg": 0.6977848396685349,
+   "P_kv55_Akh": 0.5766383873298555,
+   "P_nib_Tut": 0.24477105055014048
+  },
+  "K02": {
+   "title": "Inscribed material in KV55: magic bricks of Akhenaten, Kiya's coffin re-worked with Akhenaten's epithets (cartouches later cut out), Kiya's canopic jars, Tiye's shrine, sealings of Tutankhamun; no name of Smenkhkare",
+   "P_Nefertiti": 0.8877790704397968,
+   "P_separate": 0.9458838506180705,
+   "P_coreg": 0.67580983872006,
+   "P_kv55_Akh": 0.09219875987458546,
+   "P_nib_Tut": 0.1947640396754983
+  },
+  "K03": {
+   "title": "2010 STR pedigree (8 loci): KV55 a son of Amenhotep III and KV35EL (Tiye) and the father of Tutankhamun with KV35YL; no independent replication; Gad et al. 2020 same team",
+   "P_Nefertiti": 0.8881242573185387,
+   "P_separate": 0.9409568007316413,
+   "P_coreg": 0.6802265674113579,
+   "P_kv55_Akh": 0.21408941959256364,
+   "P_nib_Tut": 0.20576217878031242
+  },
+  "K04": {
+   "title": "Tutankhaten was 'King's Son of his body' at Amarna; if the pedigree holds, his father is the KV55 man, who must therefore have been a king",
+   "P_Nefertiti": 0.8896838714833861,
+   "P_separate": 0.9232498895574361,
+   "P_coreg": 0.683041783876431,
+   "P_kv55_Akh": 0.1702205860914876,
+   "P_nib_Tut": 0.20807674705820442
+  },
+  "D01": {
+   "title": "The name: Ni-ip-hu-ru-ri-ia-as (KBo 14.12 iv 18) against Nebkheperure (Tutankhamun) and Neferkheperure (Akhenaten); EA 9 addressed to Nibhurrereya",
+   "P_Nefertiti": 0.8838158146591186,
+   "P_separate": 0.9588323913101316,
+   "P_coreg": 0.7204596800096401,
+   "P_kv55_Akh": 0.3001491898281507,
+   "P_nib_Tut": 0.0836365974568909
+  },
+  "D02": {
+   "title": "The Armaa synchronism: Horemheb acts in Syria as a non-king in years 7-9 of Mursili II (KUB 19.15 + KBo 50.24), which sits badly with a Nibhururiya who died only four years before Horemheb's accession",
+   "P_Nefertiti": 0.8887559351102453,
+   "P_separate": 0.934146029647325,
+   "P_coreg": 0.7276950836078895,
+   "P_kv55_Akh": 0.24767086156680904,
+   "P_nib_Tut": 0.5089071705149874
+  },
+  "D03": {
+   "title": "Season: the death message reached Suppiluliuma during the Carchemish campaign (late summer or autumn) and Hani came back in spring; Tutankhamun's burial flowers point to a death in winter; Akhenaten died after the year-17 vintage",
+   "P_Nefertiti": 0.8884628410014361,
+   "P_separate": 0.9373061801345918,
+   "P_coreg": 0.7056700217270458,
+   "P_kv55_Akh": 0.2320893056894683,
+   "P_nib_Tut": 0.368249999471756
+  },
+  "D04": {
+   "title": "The widow's plea: 'my husband died, a son I have not, I will never take a servant of mine and make him my husband'; Ankhesenamun was later paired with Ay on a ring; Nefertiti and Meritaten each had daughters and a boy in the family",
+   "P_Nefertiti": 0.8881820606738307,
+   "P_separate": 0.9414745403481302,
+   "P_coreg": 0.6700377456987987,
+   "P_kv55_Akh": 0.20458182544714426,
+   "P_nib_Tut": 0.15582801881963204
+  },
+  "D05": {
+   "title": "Lupakki's raid on Amka at the time of the king's death (Deeds) matches EA 170 from the Amarna archive, and the envoy Hani of the Deeds appears in EA 161, 162 and 369",
+   "P_Nefertiti": 0.8882902713990658,
+   "P_separate": 0.938397286241661,
+   "P_coreg": 0.7025036280131775,
+   "P_kv55_Akh": 0.23140020639370074,
+   "P_nib_Tut": 0.3378213560577738
+  },
+  "D06": {
+   "title": "Hittite relative chronology: the plague prayers, the 20-year plague, and the solar omen of Mursili's year 10 (eclipse of 24 June 1312 if that is the omen)",
+   "P_Nefertiti": 0.888258373841918,
+   "P_separate": 0.9395107518894181,
+   "P_coreg": 0.6903049846769386,
+   "P_kv55_Akh": 0.22121936195678396,
+   "P_nib_Tut": 0.27012529697898574
+  },
+  "D07": {
+   "title": "Consistency of the plea with the Egyptian succession: a widow writes that Egypt has no king; a coregent already on the throne, or an Egyptian king who acceded after months of negotiation for a Hittite prince, fit that less well",
+   "P_Nefertiti": 0.8868772294279331,
+   "P_separate": 0.949541832113078,
+   "P_coreg": 0.8046650298401836,
+   "P_kv55_Akh": 0.17910578539643565,
+   "P_nib_Tut": 0.10594049537389787
+  },
+  "D08": {
+   "title": "'A son he has not' against Tutankhaten's existence: if the dead king was Tutankhaten's father, the statement is false for the royal house",
+   "P_Nefertiti": 0.889989972847369,
+   "P_separate": 0.9195740350703361,
+   "P_coreg": 0.6756026465769176,
+   "P_kv55_Akh": 0.30261641546970036,
+   "P_nib_Tut": 0.15490296476869173
+  }
+ },
+ "egyptian_items_only": {
+  "identity": {
+   "Nefertiti": 0.889773533226304,
+   "Meritaten": 0.09637302344718891,
+   "Male": 0.008140215863750248,
+   "Tasherit": 0.005713227462756163
+  },
+  "smenkhkare": {
+   "before_sole": 0.4291586029504107,
+   "before_coreg": 0.3532169571608319,
+   "after": 0.12715810457789953,
+   "same": 0.09046633531085667
+  },
+  "coregency": {
+   "yes": 0.8045938981002408,
+   "no": 0.195406101899757
+  },
+  "kv55": {
+   "Akhenaten": 0.34705435324118394,
+   "AnotherSon": 0.34705435324118394,
+   "Smenkhkare": 0.3058912935176308
+  },
+  "nibhururiya": {
+   "Tutankhamun": 0.40592384610132254,
+   "Akhenaten": 0.40592384610132254,
+   "Smenkhkare": 0.18815230779735362
+  },
+  "dahamunzu": {
+   "Ankhesenamun": 0.40592384610132254,
+   "Meritaten": 0.3332619409097763,
+   "Nefertiti": 0.26081421298889934
+  },
+  "models": {
+   "N-SB-sole": 0.38187030832566515,
+   "N-SB-coreg": 0.3142965500622762,
+   "N-SA": 0.11314675802241936,
+   "N-SI": 0.08045991681594265,
+   "M-SB": 0.04483630897753633,
+   "M-SB-coreg": 0.0369023119156678,
+   "M-SA": 0.013284832289640407,
+   "X-SI": 0.008140215863750248,
+   "T-SB-sole": 0.002451985647209021,
+   "T-SB-coreg": 0.0020180951828880815,
+   "M-SI": 0.001349570264344422,
+   "T-SA": 0.0007265142658397091,
+   "T-SI": 0.0005166323668193488
+  },
+  "separate_smenkhkare": 0.9095336646891418,
+  "smenkhkare_before": 0.7823755601112423,
+  "smenkhkare_after": 0.12715810457789953
+ },
+ "hittite_items_only": {
+  "identity": {
+   "Nefertiti": 0.2988492080286062,
+   "Meritaten": 0.2988492080286062,
+   "Tasherit": 0.2988492080286062,
+   "Male": 0.10345237591418124
+  },
+  "smenkhkare": {
+   "after": 0.310357127742544,
+   "before_coreg": 0.25028566591899776,
+   "same": 0.23298247311112855,
+   "before_sole": 0.2063747332273296
+  },
+  "coregency": {
+   "no": 0.6479749460408819,
+   "yes": 0.352025053959118
+  },
+  "kv55": {
+   "Smenkhkare": 0.3674768763430998,
+   "AnotherSon": 0.3673640206713973,
+   "Akhenaten": 0.26515910298550277
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.690549748190782,
+   "Tutankhamun": 0.1692835075542767,
+   "Smenkhkare": 0.14016674425494088
+  },
+  "dahamunzu": {
+   "Meritaten": 0.49228490414321335,
+   "Nefertiti": 0.3384315883025094,
+   "Ankhesenamun": 0.1692835075542767
+  },
+  "models": {
+   "N-SA": 0.10345237591418124,
+   "M-SA": 0.10345237591418124,
+   "T-SA": 0.10345237591418124,
+   "X-SI": 0.10345237591418124,
+   "N-SB-coreg": 0.08342855530633256,
+   "M-SB-coreg": 0.08342855530633256,
+   "T-SB-coreg": 0.08342855530633256,
+   "N-SB-sole": 0.06879157774244316,
+   "M-SB": 0.06879157774244316,
+   "T-SB-sole": 0.06879157774244316,
+   "N-SI": 0.043176699065649055,
+   "M-SI": 0.043176699065649055,
+   "T-SI": 0.043176699065649055
+  },
+  "separate_smenkhkare": 0.7670175268888714,
+  "smenkhkare_before": 0.45666039914632744,
+  "smenkhkare_after": 0.310357127742544
+ },
+ "kv55_items_only": {
+  "identity": {
+   "Nefertiti": 0.29716853142011324,
+   "Meritaten": 0.29716853142011324,
+   "Tasherit": 0.29716853142011324,
+   "Male": 0.10849440573966061
+  },
+  "smenkhkare": {
+   "after": 0.32548321721898177,
+   "before_coreg": 0.27840563662884116,
+   "before_sole": 0.20708488527646696,
+   "same": 0.18902626087571042
+  },
+  "coregency": {
+   "no": 0.6570634698647014,
+   "yes": 0.3429365301352985
+  },
+  "kv55": {
+   "Smenkhkare": 0.602158889256178,
+   "Akhenaten": 0.21724892259729378,
+   "AnotherSon": 0.18059218814652833
+  },
+  "nibhururiya": {
+   "Akhenaten": 0.7329628593686071,
+   "Tutankhamun": 0.15718945258773154,
+   "Smenkhkare": 0.10984768804366173
+  },
+  "dahamunzu": {
+   "Meritaten": 0.4823436947380829,
+   "Nefertiti": 0.3604668526741858,
+   "Ankhesenamun": 0.15718945258773154
+  },
+  "models": {
+   "N-SA": 0.10849440573966061,
+   "M-SA": 0.10849440573966061,
+   "T-SA": 0.10849440573966061,
+   "X-SI": 0.10849440573966061,
+   "N-SB-coreg": 0.09280187887628037,
+   "M-SB-coreg": 0.09280187887628037,
+   "T-SB-coreg": 0.09280187887628037,
+   "N-SB-sole": 0.06902829509215563,
+   "M-SB": 0.06902829509215563,
+   "T-SB-sole": 0.06902829509215563,
+   "N-SI": 0.0268439517120166,
+   "M-SI": 0.0268439517120166,
+   "T-SI": 0.0268439517120166
+  },
+  "separate_smenkhkare": 0.8109737391242898,
+  "smenkhkare_before": 0.4854905219053077,
+  "smenkhkare_after": 0.32548321721898177
+ },
+ "top_states": [
+  {
+   "id": "Nefertiti",
+   "sk": "before_coreg",
+   "cg": "yes",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.15866778225161174,
+   "model": "N-SB-coreg  Dodson 2009/2020, Belmonte 2013, Kawai 2023"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_coreg",
+   "cg": "no",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.09800068903776017,
+   "model": "N-SB-coreg  Dodson 2009/2020, Belmonte 2013, Kawai 2023"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_sole",
+   "cg": "yes",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.06426045181190274,
+   "model": "N-SB-sole   Allen 2016 (as reported), Eaton-Krauss"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_sole",
+   "cg": "no",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.03969027906029288,
+   "model": "N-SB-sole   Allen 2016 (as reported), Eaton-Krauss"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "after",
+   "cg": "yes",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.03808026774038682,
+   "model": "N-SA        (Allen 1994 order with Nefertiti; no named champion)"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_coreg",
+   "cg": "yes",
+   "kv": "Smenkhkare",
+   "nb": "Tutankhamun",
+   "p": 0.0367286532989842,
+   "model": "N-SB-coreg  Dodson 2009/2020, Belmonte 2013, Kawai 2023"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_sole",
+   "cg": "yes",
+   "kv": "Smenkhkare",
+   "nb": "Tutankhamun",
+   "p": 0.029750209172177196,
+   "model": "N-SB-sole   Allen 2016 (as reported), Eaton-Krauss"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_coreg",
+   "cg": "yes",
+   "kv": "AnotherSon",
+   "nb": "Akhenaten",
+   "p": 0.028560200805290113,
+   "model": "N-SB-coreg  Dodson 2009/2020, Belmonte 2013, Kawai 2023"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_coreg",
+   "cg": "yes",
+   "kv": "Akhenaten",
+   "nb": "Akhenaten",
+   "p": 0.027766861894032054,
+   "model": "N-SB-coreg  Dodson 2009/2020, Belmonte 2013, Kawai 2023"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "before_sole",
+   "cg": "yes",
+   "kv": "Akhenaten",
+   "nb": "Smenkhkare",
+   "p": 0.02754019363367261,
+   "model": "N-SB-sole   Allen 2016 (as reported), Eaton-Krauss"
+  },
+  {
+   "id": "Nefertiti",
+   "sk": "after",
+   "cg": "no",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.023520165369062446,
+   "model": "N-SA        (Allen 1994 order with Nefertiti; no named champion)"
+  },
+  {
+   "id": "Meritaten",
+   "sk": "before_coreg",
+   "cg": "yes",
+   "kv": "Smenkhkare",
+   "nb": "Akhenaten",
+   "p": 0.019200134995153023,
+   "model": "M-SB-coreg  (no named champion)"
+  }
+ ]
+}

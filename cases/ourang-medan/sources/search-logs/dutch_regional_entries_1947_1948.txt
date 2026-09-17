@@ -1,0 +1,68 @@
+########## 1947
+-- quarters present:
+-- flag abbreviations sample (count):
+     95 Amr. 
+     22 Nor. 
+     11 Pan. 
+     10 Swd. 
+     10 Chn. 
+      7 Fin. 
+      5 Arg. 
+-- Dutch/NEI entries with context:
+2480-Empire  ’45 
+2481-
+2482-683 
+2483-
+2484-G.B.I. 
+2485-
+2486-Tw.Sc. 
+2487-
+2488:Singapore — 
+2489-
+2490-1 
+2491-
+2492-I 
+2493-
+2494-Broke  from  tow  during  heavy 
+2495-
+2496-—  Jan 
+2497-
+2498-Grassland 
+########## 1948
+-- quarters present:
+-- flag abbreviations sample (count):
+     56 Amr. 
+     17 Nor. 
+     16 Swd. 
+     12 Pan. 
+     11 Chn. 
+      3 Arg. 
+      2 Fin. 
+-- Dutch/NEI entries with context:
+9669-Kiang  Peng  ...’40 
+9670-
+9671-167 
+9672-
+9673-Dom. 
+9674-
+9675-W.m.s. 
+9676-
+9677:Singapore — 
+9678-
+9679-Pekan  Baroe. 
+9680-
+9681-Foodstuffs 
+9682-&  textiles 
+9683-
+9684-Sunk  by  aircraft  1  mile  off 
+9685:Pekan  Baroe,  N.E.  Sumatra. 
+9686-
+9687-31st  Dec. 
+9688-
+9689-90159 
+9690-
+9691-(Supp.) 
+9692-
+9693-Chinthe . ’41 
+9694-
+9695-668 

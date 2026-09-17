@@ -1,0 +1,231 @@
+{
+ "lincoln": {
+  "n": 63,
+  "wrong_c4_10": 30,
+  "ties": 0,
+  "wrong_all17": 10,
+  "wrong_ids": [
+   "basler-VII-0654#0 L1/H6",
+   "basler-VII-0654#2 L2/H5",
+   "basler-VII-0654#4 L3/H4",
+   "basler-VII-0765 L0/H7",
+   "basler-VIII-0334 L3/H4",
+   "basler-VIII-0657 L3/H4",
+   "L6-0134 L3/H4",
+   "L6-0135#3 L1/H6",
+   "L6-0135#5 L3/H4",
+   "L6-0204#0 L3/H4",
+   "L6-0204#1 L3/H4",
+   "L6-0204#3 L0/H7",
+   "L6-0204#5 L3/H4",
+   "L6-0232#0 L3/H4",
+   "L6-0232#1 L3/H4",
+   "L6-0294#0 L3/H4",
+   "L6-0476 L3/H4",
+   "L6-0481 L2/H5",
+   "L7-0276#0 L3/H4",
+   "L7-0276#1 L1/H6",
+   "L7-0276#2 L3/H4",
+   "sp_gettysburg#0 L2/H5",
+   "sp_gettysburg#1 L2/H5",
+   "sp_second_inaugural#2 L3/H4",
+   "sp_second_inaugural#3 L0/H7",
+   "sp_second_inaugural#4 L0/H7",
+   "sp_mccullough L3/H4",
+   "sp_ellsworth#0 L0/H7",
+   "sp_ellsworth#1 L1/H6",
+   "sp_gurney#0 L2/H5"
+  ],
+  "acc": {
+   "w1": 0.444,
+   "w2": 0.762,
+   "w3": 0.937,
+   "c3": 0.413,
+   "c4": 0.222,
+   "c5": 0.206,
+   "c6": 0.429,
+   "c7": 0.524,
+   "c8": 0.746,
+   "c9": 0.857,
+   "c10": 0.873,
+   "c11": 0.889,
+   "c12": 0.873,
+   "c13": 0.873,
+   "c14": 0.857,
+   "c15": 0.857,
+   "c16": 0.841
+  }
+ },
+ "hay": {
+  "n": 57,
+  "wrong_c4_10": 1,
+  "ties": 0,
+  "wrong_all17": 5,
+  "wrong_ids": [
+   "hay_baker_07 L6/H1"
+  ],
+  "acc": {
+   "w1": 0.947,
+   "w2": 0.93,
+   "w3": 0.807,
+   "c3": 0.912,
+   "c4": 0.912,
+   "c5": 0.965,
+   "c6": 0.965,
+   "c7": 0.982,
+   "c8": 0.982,
+   "c9": 0.93,
+   "c10": 0.93,
+   "c11": 0.877,
+   "c12": 0.842,
+   "c13": 0.807,
+   "c14": 0.649,
+   "c15": 0.649,
+   "c16": 0.632
+  }
+ },
+ "bixby": {
+  "c4_10": {
+   "hay": 7
+  },
+  "all17": {
+   "hay": 17
+  },
+  "margins": {
+   "w1": -0.0645,
+   "w2": -0.1348,
+   "w3": -0.0477,
+   "c3": -0.0001,
+   "c4": -0.0135,
+   "c5": -0.0402,
+   "c6": -0.0733,
+   "c7": -0.0902,
+   "c8": -0.0957,
+   "c9": -0.1011,
+   "c10": -0.0969,
+   "c11": -0.0786,
+   "c12": -0.0538,
+   "c13": -0.048,
+   "c14": -0.0343,
+   "c15": -0.0279,
+   "c16": -0.02
+  }
+ },
+ "specials": {
+  "bixby": {
+   "truth": null,
+   "c4_10": {
+    "hay": 7
+   },
+   "all17": {
+    "hay": 17
+   }
+  },
+  "gettysburg": {
+   "truth": "lincoln",
+   "c4_10": {
+    "lincoln": 3,
+    "hay": 4
+   },
+   "all17": {
+    "hay": 5,
+    "lincoln": 11,
+    "tie": 1
+   }
+  },
+  "second_inaugural": {
+   "truth": "lincoln",
+   "c4_10": {
+    "lincoln": 5,
+    "hay": 2
+   },
+   "all17": {
+    "lincoln": 14,
+    "hay": 3
+   }
+  },
+  "mccullough": {
+   "truth": "lincoln",
+   "c4_10": {
+    "lincoln": 3,
+    "hay": 4
+   },
+   "all17": {
+    "hay": 8,
+    "lincoln": 9
+   }
+  },
+  "ellsworth": {
+   "truth": "lincoln",
+   "c4_10": {
+    "hay": 7
+   },
+   "all17": {
+    "hay": 13,
+    "lincoln": 4
+   }
+  },
+  "gurney": {
+   "truth": "lincoln",
+   "c4_10": {
+    "hay": 2,
+    "lincoln": 5
+   },
+   "all17": {
+    "lincoln": 15,
+    "hay": 2
+   }
+  },
+  "boker_1863": {
+   "truth": "hay_for_lincoln",
+   "c4_10": {
+    "hay": 7
+   },
+   "all17": {
+    "hay": 17
+   }
+  },
+  "hay_condolence_1864": {
+   "truth": "hay",
+   "c4_10": {
+    "hay": 7
+   },
+   "all17": {
+    "hay": 16,
+    "tie": 1
+   }
+  },
+  "garrison_1865": {
+   "truth": "hay_for_lincoln",
+   "c4_10": {
+    "hay": 7
+   },
+   "all17": {
+    "hay": 17
+   }
+  },
+  "driggs_1865": {
+   "truth": "hay_for_lincoln",
+   "c4_10": {
+    "lincoln": 5,
+    "hay": 2
+   },
+   "all17": {
+    "hay": 11,
+    "tie": 1,
+    "lincoln": 5
+   }
+  },
+  "charles_butler_1864": {
+   "truth": "hay_for_lincoln",
+   "c4_10": {
+    "lincoln": 7
+   },
+   "all17": {
+    "lincoln": 12,
+    "hay": 4,
+    "tie": 1
+   }
+  }
+ }
+}

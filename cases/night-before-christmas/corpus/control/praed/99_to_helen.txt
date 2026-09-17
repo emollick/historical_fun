@@ -1,0 +1,17 @@
+title: To Helen
+author: Winthrop Mackworth Praed
+date: c. 1823-1839
+source: https://www.gutenberg.org/ebooks/71008 (The Poems of Winthrop Mackworth Praed [selected], ed. Frederick Cooper, London: Walter Scott)
+form: iambic tetrameter
+lines: 8
+attribution: certain
+notes: light verse (vers de societe)
+
+If, wand’ring in a wizard’s car
+Through yon blue ether, I were able
+To fashion of a little star
+A taper for my Helen’s table,--
+“What then?” she asks me, with a laugh:--
+Why then, with all Heaven’s lustre glowing,
+It would not gild her path with half
+The light her love o’er mine is throwing!

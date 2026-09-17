@@ -1,0 +1,44 @@
+{
+ "stats": {
+  "noise": 450,
+  "pagenum": 38,
+  "sig": 10,
+  "hyphen_join": 22,
+  "auto": 6,
+  "override": 6,
+  "words_out": 2910,
+  "lines_out": 879
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   3
+  ],
+  [
+   "neceffarily>necessarily",
+   1
+  ],
+  [
+   "eftablish>establish",
+   1
+  ],
+  [
+   "fhall>shall",
+   1
+  ],
+  [
+   "fee>see",
+   1
+  ],
+  [
+   "flow>slow",
+   1
+  ],
+  [
+   "confort>consort",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

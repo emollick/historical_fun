@@ -1,0 +1,8029 @@
+[
+ {
+  "key": "ad_bonduca_1696",
+  "act": 1,
+  "scene": 0,
+  "n_words": 2943,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 0.9456691512763626,
+   "SH": 1.054330848723636
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8515841175300121,
+   "SH": 0.1484158824699879
+  },
+  "svm_pred": "FL",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.1095,
+  "ret2": 0.3936,
+  "adapter": "Powell?",
+  "date": 1696
+ },
+ {
+  "key": "ad_bonduca_1696",
+  "act": 2,
+  "scene": 0,
+  "n_words": 2688,
+  "head": "ACT. II. SCENE I.",
+  "delta": {
+   "FL": 0.8537004704402823,
+   "SH": 1.1462995295597151
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8652893328231259,
+   "SH": 0.13471066717687402
+  },
+  "svm_pred": "FL",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.1404,
+  "ret2": 0.4276,
+  "adapter": "Powell?",
+  "date": 1696
+ },
+ {
+  "key": "ad_bonduca_1696",
+  "act": 3,
+  "scene": 0,
+  "n_words": 663,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 0.7698151301385778,
+   "SH": 1.2301848698614197
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9518283326108288,
+   "SH": 0.0481716673891713
+  },
+  "svm_pred": "FL",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.3273,
+  "ret2": 0.6239,
+  "adapter": "Powell?",
+  "date": 1696
+ },
+ {
+  "key": "ad_bonduca_1696",
+  "act": 3,
+  "scene": 1,
+  "n_words": 1970,
+  "head": "ACT III. SCENE I. | SCENE the Temple.",
+  "delta": {
+   "FL": 0.9971151435248437,
+   "SH": 1.0028848564751565
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8017770880866981,
+   "SH": 0.1982229119133019
+  },
+  "svm_pred": "FL",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.3625,
+  "ret2": 0.5962,
+  "adapter": "Powell?",
+  "date": 1696
+ },
+ {
+  "key": "ad_bonduca_1696",
+  "act": 4,
+  "scene": 0,
+  "n_words": 1874,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.9579604030271437,
+   "SH": 1.0420395969728553
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.707068606341074,
+   "SH": 0.2929313936589259
+  },
+  "svm_pred": "FL",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.194,
+  "ret2": 0.4645,
+  "adapter": "Powell?",
+  "date": 1696
+ },
+ {
+  "key": "ad_bonduca_1696",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3492,
+  "head": "ACT V. SCENE, 1.",
+  "delta": {
+   "FL": 0.8240058616013017,
+   "SH": 1.175994138398695
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8897202857815014,
+   "SH": 0.11027971421849858
+  },
+  "svm_pred": "FL",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.399,
+  "ret2": 0.6233,
+  "adapter": "Powell?",
+  "date": 1696
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 1,
+  "scene": 1,
+  "n_words": 3507,
+  "head": "ACT I. | SCENE 1.",
+  "delta": {
+   "FL": 1.0768497776486117,
+   "SH": 0.9231502223513887
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.4697228790398179,
+   "SH": 0.5302771209601821
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0106,
+  "ret2": 0.2305,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 2,
+  "scene": 0,
+  "n_words": 1819,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 0.9712881254185294,
+   "SH": 1.0287118745814698
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.4356164056687393,
+   "SH": 0.5643835943312607
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0958,
+  "ret2": 0.4422,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1474,
+  "head": "ACT II. | SCENE A walled Garden belonging to Metel",
+  "delta": {
+   "FL": 1.0924893903402886,
+   "SH": 0.9075106096597128
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.48884335919865957,
+   "SH": 0.5111566408013404
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.2332,
+  "ret2": 0.5241,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 2,
+  "scene": 2,
+  "n_words": 921,
+  "head": "ACT II. | SCENE the Forum.",
+  "delta": {
+   "FL": 0.9779371652010554,
+   "SH": 1.0220628347989449
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.49132022135010145,
+   "SH": 0.5086797786498987
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0033,
+  "ret2": 0.2489,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 3,
+  "scene": 0,
+  "n_words": 2181,
+  "head": "ACT III.",
+  "delta": {
+   "FL": 0.9992921765267451,
+   "SH": 1.0007078234732543
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.32995912700263946,
+   "SH": 0.6700408729973606
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0712,
+  "ret2": 0.3358,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 3,
+  "scene": 1,
+  "n_words": 617,
+  "head": "ACT III. | SCENE Metellus house.",
+  "delta": {
+   "FL": 1.0176408683022655,
+   "SH": 0.9823591316977345
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.09704920269918275,
+   "SH": 0.9029507973008173
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.2671,
+  "ret2": 0.5536,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1223,
+  "head": "ACT III. | SCENE the Forum.",
+  "delta": {
+   "FL": 1.024709552092233,
+   "SH": 0.975290447907767
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.5903142358237705,
+   "SH": 0.4096857641762295
+  },
+  "svm_pred": "FL",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0098,
+  "ret2": 0.2602,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 4,
+  "scene": 1,
+  "n_words": 1517,
+  "head": "ACT IV. | SCENE the Garden.",
+  "delta": {
+   "FL": 0.9510407292865154,
+   "SH": 1.0489592707134836
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.4607113308980161,
+   "SH": 0.5392886691019838
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0601,
+  "ret2": 0.3582,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 4,
+  "scene": 2,
+  "n_words": 2511,
+  "head": "ACT IV. | SCENE changes to the Country.",
+  "delta": {
+   "FL": 0.9911063252040355,
+   "SH": 1.0088936747959643
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.3670093963925912,
+   "SH": 0.6329906036074087
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0012,
+  "ret2": 0.2781,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 4,
+  "scene": 3,
+  "n_words": 528,
+  "head": "ACT IV. | SCENE Metellus House.",
+  "delta": {
+   "FL": 0.9818526675376855,
+   "SH": 1.018147332462314
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7474784343682965,
+   "SH": 0.25252156563170347
+  },
+  "svm_pred": "FL",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.2229,
+  "ret2": 0.5294,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 5,
+  "scene": 1,
+  "n_words": 839,
+  "head": "ACT V. | SCENE Cinna's Camp before the Walls of Ro",
+  "delta": {
+   "FL": 0.953608252958511,
+   "SH": 1.0463917470414883
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7196691705203875,
+   "SH": 0.2803308294796124
+  },
+  "svm_pred": "FL",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0012,
+  "ret2": 0.2005,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 5,
+  "scene": 2,
+  "n_words": 426,
+  "head": "ACT V. | SCENE Metellus House.",
+  "delta": {
+   "FL": 1.0077008332677464,
+   "SH": 0.9922991667322533
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.30350429380117505,
+   "SH": 0.696495706198825
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.1064,
+  "ret2": 0.3976,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 5,
+  "scene": 3,
+  "n_words": 784,
+  "head": "ACT V. | SCENE changes to the Forum, where is plac",
+  "delta": {
+   "FL": 0.9802576752787263,
+   "SH": 1.0197423247212734
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.43258213708045545,
+   "SH": 0.5674178629195445
+  },
+  "svm_pred": "SH",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.2759,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_caius_marius_1680",
+  "act": 5,
+  "scene": 4,
+  "n_words": 2074,
+  "head": "ACT V. | SCENE a Church-yard.",
+  "delta": {
+   "FL": 1.0047358889939393,
+   "SH": 0.9952641110060603
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.5336706120245214,
+   "SH": 0.46632938797547857
+  },
+  "svm_pred": "FL",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.1217,
+  "ret2": 0.438,
+  "adapter": "Otway",
+  "date": 1680
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 1,
+  "n_words": 536,
+  "head": "ACT I. | Scene I.",
+  "delta": {
+   "FL": 0.8242380562558871,
+   "SH": 1.1757619437441118
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9960201201176153,
+   "SH": 0.003979879882384662
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.788,
+  "ret2": 0.9009,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 2,
+  "n_words": 450,
+  "head": "ACT I. | SCENE II.",
+  "delta": {
+   "FL": 0.7968552065857823,
+   "SH": 1.203144793414216
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9997608255805194,
+   "SH": 0.00023917441948052154
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8568,
+  "ret2": 0.9354,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 3,
+  "n_words": 276,
+  "head": "ACT I. | SCENE III.",
+  "delta": {
+   "FL": 0.8412464345566408,
+   "SH": 1.1587535654433574
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.988323508547903,
+   "SH": 0.011676491452097055
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7399,
+  "ret2": 0.88,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 4,
+  "n_words": 78,
+  "head": "ACT I. | SCENE IV.",
+  "delta": {
+   "FL": 0.8378318423605317,
+   "SH": 1.1621681576394671
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9998415329377286,
+   "SH": 0.0001584670622713115
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7733,
+  "ret2": 0.8831,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 5,
+  "n_words": 79,
+  "head": "ACT I. | SCENE V.",
+  "delta": {
+   "FL": 0.8528970038032285,
+   "SH": 1.147102996196772
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9976271232985654,
+   "SH": 0.0023728767014345154
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8158,
+  "ret2": 0.9103,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 6,
+  "n_words": 419,
+  "head": "ACT I. | SCENE. VI.",
+  "delta": {
+   "FL": 0.9071819645052825,
+   "SH": 1.0928180354947166
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8776921112384836,
+   "SH": 0.12230788876151648
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8221,
+  "ret2": 0.9163,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 7,
+  "n_words": 255,
+  "head": "ACT I. | SCENE VII.",
+  "delta": {
+   "FL": 0.7554034416282376,
+   "SH": 1.2445965583717604
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9999945056796514,
+   "SH": 5.494320348641247e-06
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7817,
+  "ret2": 0.9016,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 8,
+  "n_words": 234,
+  "head": "ACT I. | SCENE VIII.",
+  "delta": {
+   "FL": 0.8766531755690714,
+   "SH": 1.1233468244309288
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9783095672672351,
+   "SH": 0.021690432732765046
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.6104,
+  "ret2": 0.794,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 9,
+  "n_words": 878,
+  "head": "ACT I. | SCENE IX.",
+  "delta": {
+   "FL": 0.7996790086527691,
+   "SH": 1.2003209913472281
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7882911828891899,
+   "SH": 0.21170881711081
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.76,
+  "ret2": 0.9042,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 10,
+  "n_words": 348,
+  "head": "ACT I. | SCENE. X.",
+  "delta": {
+   "FL": 0.9132743545709943,
+   "SH": 1.0867256454290048
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8701354935494343,
+   "SH": 0.12986450645056558
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7275,
+  "ret2": 0.8732,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 1,
+  "scene": 11,
+  "n_words": 514,
+  "head": "ACT I. | SCENE XI.",
+  "delta": {
+   "FL": 0.6807417795537252,
+   "SH": 1.3192582204462713
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9999512392535367,
+   "SH": 4.876074646320643e-05
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8767,
+  "ret2": 0.9415,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1185,
+  "head": "ACT II. | SCENE I.",
+  "delta": {
+   "FL": 0.639330114364208,
+   "SH": 1.3606698856357875
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9995008709087193,
+   "SH": 0.0004991290912807938
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.758,
+  "ret2": 0.9029,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 2,
+  "scene": 2,
+  "n_words": 1378,
+  "head": "ACT II. | SCENE. II.",
+  "delta": {
+   "FL": 0.695945829484567,
+   "SH": 1.3040541705154287
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9776501632213161,
+   "SH": 0.0223498367786839
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7833,
+  "ret2": 0.9034,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 2,
+  "scene": 3,
+  "n_words": 712,
+  "head": "ACT II. | SCENE. III.",
+  "delta": {
+   "FL": 0.7956594179574744,
+   "SH": 1.2043405820425228
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9975301189318972,
+   "SH": 0.002469881068102655
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.4711,
+  "ret2": 0.7257,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 3,
+  "scene": 1,
+  "n_words": 1031,
+  "head": "ACT III. | SCENE I.",
+  "delta": {
+   "FL": 0.6538541432217,
+   "SH": 1.3461458567782945
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9989078865676225,
+   "SH": 0.0010921134323774236
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.6965,
+  "ret2": 0.8592,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 3,
+  "scene": 2,
+  "n_words": 355,
+  "head": "ACT III. | SCENE II.",
+  "delta": {
+   "FL": 0.824766202314511,
+   "SH": 1.175233797685487
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9701397383219863,
+   "SH": 0.029860261678013627
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.3097,
+  "ret2": 0.6469,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 3,
+  "scene": 3,
+  "n_words": 300,
+  "head": "ACT III. | SCENE III.",
+  "delta": {
+   "FL": 0.7912278310338353,
+   "SH": 1.2087721689661628
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9953239181349979,
+   "SH": 0.0046760818650022394
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7912,
+  "ret2": 0.8997,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 3,
+  "scene": 4,
+  "n_words": 1226,
+  "head": "ACT III. | SCENE IV.",
+  "delta": {
+   "FL": 0.6857548518455658,
+   "SH": 1.3142451481544288
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.998338739748084,
+   "SH": 0.001661260251915982
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.5568,
+  "ret2": 0.7845,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 3,
+  "scene": 5,
+  "n_words": 207,
+  "head": "ACT III. | SCENE. V.",
+  "delta": {
+   "FL": 0.8188521430348548,
+   "SH": 1.1811478569651441
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9999382882975848,
+   "SH": 6.171170241518458e-05
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.4363,
+  "ret2": 0.7718,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 3,
+  "scene": 6,
+  "n_words": 431,
+  "head": "ACT III. | SCENE VI.",
+  "delta": {
+   "FL": 0.8788845668869788,
+   "SH": 1.1211154331130204
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9006333493286203,
+   "SH": 0.0993666506713796
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.5164,
+  "ret2": 0.7791,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 4,
+  "scene": 1,
+  "n_words": 688,
+  "head": "ACT IV. | SCENE I.",
+  "delta": {
+   "FL": 0.887757891910325,
+   "SH": 1.1122421080896734
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6700178978864526,
+   "SH": 0.32998210211354745
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0015,
+  "ret2": 0.3493,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 4,
+  "scene": 2,
+  "n_words": 959,
+  "head": "ACT IV. | SCENE II.",
+  "delta": {
+   "FL": 0.7657236251635758,
+   "SH": 1.2342763748364214
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9694051747664366,
+   "SH": 0.03059482523356342
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0063,
+  "ret2": 0.4301,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 4,
+  "scene": 3,
+  "n_words": 1039,
+  "head": "ACT IV. | SCENE III.",
+  "delta": {
+   "FL": 0.8406394074659007,
+   "SH": 1.1593605925340968
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5284946477130195,
+   "SH": 0.47150535228698043
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0058,
+  "ret2": 0.4066,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 4,
+  "scene": 4,
+  "n_words": 876,
+  "head": "ACT IV. | SCENE IV.",
+  "delta": {
+   "FL": 0.8540269132833516,
+   "SH": 1.1459730867166458
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.71447883564409,
+   "SH": 0.28552116435591013
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0034,
+  "ret2": 0.3931,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 5,
+  "scene": 1,
+  "n_words": 147,
+  "head": "ACT V. | SCENE I.",
+  "delta": {
+   "FL": 0.8030755978422518,
+   "SH": 1.1969244021577474
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9988162846292905,
+   "SH": 0.001183715370709398
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0,
+  "ret2": 0.2877,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 5,
+  "scene": 2,
+  "n_words": 428,
+  "head": "ACT V. | SCENE II.",
+  "delta": {
+   "FL": 0.8340432943941527,
+   "SH": 1.1659567056058455
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9659822409955744,
+   "SH": 0.0340177590044256
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0,
+  "ret2": 0.3466,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 5,
+  "scene": 3,
+  "n_words": 1084,
+  "head": "ACT V. | SCENE III.",
+  "delta": {
+   "FL": 0.8801259698285937,
+   "SH": 1.1198740301714047
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8140635546285061,
+   "SH": 0.18593644537149379
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0019,
+  "ret2": 0.3518,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_chances_1682",
+  "act": 5,
+  "scene": 4,
+  "n_words": 1726,
+  "head": "ACT V. | SCENE IV.",
+  "delta": {
+   "FL": 0.824378324213925,
+   "SH": 1.1756216757860718
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9454325505335703,
+   "SH": 0.05456744946642973
+  },
+  "svm_pred": "FL",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0035,
+  "ret2": 0.3687,
+  "adapter": "Buckingham",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 1,
+  "scene": 1,
+  "n_words": 1603,
+  "head": "ACT THE FIRST. | Scene, The City Rome.",
+  "delta": {
+   "FL": 1.033959978689228,
+   "SH": 0.9660400213107723
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.17202525392475584,
+   "SH": 0.8279747460752441
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.3069,
+  "ret2": 0.6261,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 1,
+  "scene": 2,
+  "n_words": 961,
+  "head": "ACT THE FIRST. | SCENE II. A Palace.",
+  "delta": {
+   "FL": 1.0103640577477608,
+   "SH": 0.989635942252239
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2702197738579046,
+   "SH": 0.7297802261420954
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.0532,
+  "ret2": 0.3521,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 1,
+  "scene": 3,
+  "n_words": 465,
+  "head": "ACT THE FIRST. | SCENE III.",
+  "delta": {
+   "FL": 0.9448969301303897,
+   "SH": 1.05510306986961
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6997629272840747,
+   "SH": 0.3002370727159253
+  },
+  "svm_pred": "FL",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.4654,
+  "ret2": 0.7177,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 1,
+  "scene": 4,
+  "n_words": 615,
+  "head": "ACT THE FIRST. | SCENE Changes to a Camp or Field,",
+  "delta": {
+   "FL": 1.0099687730643279,
+   "SH": 0.9900312269356711
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.19065198424570687,
+   "SH": 0.8093480157542932
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.3431,
+  "ret2": 0.6319,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1113,
+  "head": "ACT the Second. | FLOURISH.",
+  "delta": {
+   "FL": 1.0502873100648458,
+   "SH": 0.9497126899351549
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.27178302256857817,
+   "SH": 0.7282169774314218
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2459,
+  "ret2": 0.5638,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 2,
+  "scene": 2,
+  "n_words": 1494,
+  "head": "ACT the Second. | SCENE the Street.",
+  "delta": {
+   "FL": 0.9702762943777872,
+   "SH": 1.029723705622212
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.20332057334286358,
+   "SH": 0.7966794266571364
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2985,
+  "ret2": 0.6752,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 3,
+  "scene": 0,
+  "n_words": 3394,
+  "head": "ACT the Third.",
+  "delta": {
+   "FL": 1.0568733450335024,
+   "SH": 0.9431266549664993
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.07148744415525483,
+   "SH": 0.9285125558447452
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2395,
+  "ret2": 0.5612,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 4,
+  "scene": 1,
+  "n_words": 4067,
+  "head": "ACT the Fourth. | SCENE, The City of Corioles.",
+  "delta": {
+   "FL": 1.1511064507381397,
+   "SH": 0.848893549261863
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.08407294189676721,
+   "SH": 0.9159270581032327
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2266,
+  "ret2": 0.5598,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 5,
+  "scene": 1,
+  "n_words": 1610,
+  "head": "ACT the Fifth. | SCENE Rome.",
+  "delta": {
+   "FL": 1.07249630632828,
+   "SH": 0.9275036936717216
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.3328817899729283,
+   "SH": 0.6671182100270718
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.0498,
+  "ret2": 0.3207,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_coriolanus_1682",
+  "act": 5,
+  "scene": 2,
+  "n_words": 1866,
+  "head": "ACT the Fifth. | SCENE, A Palace.",
+  "delta": {
+   "FL": 1.1378653657071738,
+   "SH": 0.8621346342928283
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2279266543033966,
+   "SH": 0.7720733456966034
+  },
+  "svm_pred": "SH",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.0574,
+  "ret2": 0.3147,
+  "adapter": "Tate",
+  "date": 1682
+ },
+ {
+  "key": "ad_hamlet_1676",
+  "act": 1,
+  "scene": 0,
+  "n_words": 6532,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 1.3343682707558713,
+   "SH": 0.6656317292441367
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.002324576532042877,
+   "SH": 0.9976754234679571
+  },
+  "svm_pred": "SH",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.6097,
+  "ret2": 0.8169,
+  "adapter": "Davenant(cuts)",
+  "date": 1676
+ },
+ {
+  "key": "ad_hamlet_1676",
+  "act": 2,
+  "scene": 0,
+  "n_words": 5111,
+  "head": "ACT II. SCENE I.",
+  "delta": {
+   "FL": 1.2994616779838009,
+   "SH": 0.700538322016207
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0017910239224333546,
+   "SH": 0.9982089760775666
+  },
+  "svm_pred": "SH",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.6543,
+  "ret2": 0.8485,
+  "adapter": "Davenant(cuts)",
+  "date": 1676
+ },
+ {
+  "key": "ad_hamlet_1676",
+  "act": 3,
+  "scene": 0,
+  "n_words": 6931,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 1.3097071659730264,
+   "SH": 0.6902928340269818
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0026558814576511437,
+   "SH": 0.9973441185423487
+  },
+  "svm_pred": "SH",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.6374,
+  "ret2": 0.8255,
+  "adapter": "Davenant(cuts)",
+  "date": 1676
+ },
+ {
+  "key": "ad_hamlet_1676",
+  "act": 4,
+  "scene": 0,
+  "n_words": 4953,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 1.332278015686551,
+   "SH": 0.6677219843134572
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0027822724720738545,
+   "SH": 0.9972177275279261
+  },
+  "svm_pred": "SH",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.5432,
+  "ret2": 0.7678,
+  "adapter": "Davenant(cuts)",
+  "date": 1676
+ },
+ {
+  "key": "ad_hamlet_1676",
+  "act": 5,
+  "scene": 0,
+  "n_words": 5166,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 1.2763138864842354,
+   "SH": 0.7236861135157708
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.004911088260710428,
+   "SH": 0.9950889117392896
+  },
+  "svm_pred": "SH",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.5508,
+  "ret2": 0.7876,
+  "adapter": "Davenant(cuts)",
+  "date": 1676
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 1,
+  "scene": 1,
+  "n_words": 600,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 1.2437855760183691,
+   "SH": 0.7562144239816323
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.011540447127849785,
+   "SH": 0.9884595528721503
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7672,
+  "ret2": 0.8932,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 1,
+  "scene": 2,
+  "n_words": 1660,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 1.2066585241383467,
+   "SH": 0.7933414758616559
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0015731827748867832,
+   "SH": 0.9984268172251133
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8063,
+  "ret2": 0.912,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 1,
+  "scene": 3,
+  "n_words": 2307,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.3312623810011281,
+   "SH": 0.6687376189988774
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.014133376170595069,
+   "SH": 0.9858666238294049
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8069,
+  "ret2": 0.912,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 2,
+  "scene": 1,
+  "n_words": 720,
+  "head": "ACT. II. SCENE. I.",
+  "delta": {
+   "FL": 1.0706372098968593,
+   "SH": 0.9293627901031412
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.01455674026086784,
+   "SH": 0.9854432597391322
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.795,
+  "ret2": 0.9138,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 2,
+  "scene": 2,
+  "n_words": 822,
+  "head": "SCENE. II.",
+  "delta": {
+   "FL": 0.9774606773258455,
+   "SH": 1.0225393226741548
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.2805259879478325,
+   "SH": 0.7194740120521675
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7497,
+  "ret2": 0.8904,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 2,
+  "scene": 3,
+  "n_words": 852,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.1061950890412664,
+   "SH": 0.8938049109587347
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.003715753719270798,
+   "SH": 0.9962842462807291
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8563,
+  "ret2": 0.9518,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 2,
+  "scene": 4,
+  "n_words": 4023,
+  "head": "SCENE IV.",
+  "delta": {
+   "FL": 1.212001734699943,
+   "SH": 0.7879982653000616
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.00768112247915671,
+   "SH": 0.9923188775208432
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8261,
+  "ret2": 0.9192,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 3,
+  "scene": 1,
+  "n_words": 1090,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 1.175529255826099,
+   "SH": 0.8244707441739029
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.006296846320311311,
+   "SH": 0.9937031536796888
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8362,
+  "ret2": 0.9265,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1024,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 1.2125042844394271,
+   "SH": 0.7874957155605748
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.005905421236915953,
+   "SH": 0.9940945787630839
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8276,
+  "ret2": 0.9169,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 3,
+  "scene": 3,
+  "n_words": 1618,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.01613621121578,
+   "SH": 0.9838637887842214
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.01287176821236109,
+   "SH": 0.9871282317876389
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8625,
+  "ret2": 0.9412,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 4,
+  "scene": 1,
+  "n_words": 1043,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 1.2294985402231462,
+   "SH": 0.770501459776857
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.007264895547196027,
+   "SH": 0.992735104452804
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7856,
+  "ret2": 0.9088,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 4,
+  "scene": 2,
+  "n_words": 680,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.9650515833110986,
+   "SH": 1.0349484166889014
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.17134620820196683,
+   "SH": 0.8286537917980332
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8966,
+  "ret2": 0.9485,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 4,
+  "scene": 3,
+  "n_words": 888,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.2602624337523793,
+   "SH": 0.7397375662476238
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0013370097344401533,
+   "SH": 0.9986629902655599
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8056,
+  "ret2": 0.9177,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 5,
+  "scene": 1,
+  "n_words": 990,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 1.1591188938327126,
+   "SH": 0.8408811061672896
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.004904666447454131,
+   "SH": 0.9950953335525459
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8511,
+  "ret2": 0.9343,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 5,
+  "scene": 2,
+  "n_words": 1211,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 1.1774122068422668,
+   "SH": 0.8225877931577358
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.008343862620915955,
+   "SH": 0.9916561373790842
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7964,
+  "ret2": 0.9157,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 5,
+  "scene": 3,
+  "n_words": 908,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.127606776878391,
+   "SH": 0.8723932231216107
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.007462019669575359,
+   "SH": 0.9925379803304246
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8475,
+  "ret2": 0.9416,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry4_1700",
+  "act": 5,
+  "scene": 4,
+  "n_words": 156,
+  "head": "SCENE IV.",
+  "delta": {
+   "FL": 1.0668423033613368,
+   "SH": 0.9331576966386632
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.024682418398102722,
+   "SH": 0.9753175816018972
+  },
+  "svm_pred": "SH",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.719,
+  "ret2": 0.8839,
+  "adapter": "Betterton",
+  "date": 1700
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 1,
+  "scene": 0,
+  "n_words": 3791,
+  "head": "ACT. I.",
+  "delta": {
+   "FL": 1.11102542546659,
+   "SH": 0.8889745745334122
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.08772493770135706,
+   "SH": 0.9122750622986431
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0681,
+  "ret2": 0.4166,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 2,
+  "scene": 0,
+  "n_words": 5004,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 1.09197952766521,
+   "SH": 0.9080204723347925
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.11479883330098206,
+   "SH": 0.8852011666990179
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.1212,
+  "ret2": 0.4571,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 3,
+  "scene": 1,
+  "n_words": 302,
+  "head": "ACT III. | The SCENE the Duke of York's House, lon",
+  "delta": {
+   "FL": 1.0922141467047353,
+   "SH": 0.9077858532952658
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.12320983005415023,
+   "SH": 0.8767901699458498
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.2709,
+  "ret2": 0.6179,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1890,
+  "head": "ACT III. | The SCENE the Court.",
+  "delta": {
+   "FL": 1.0436064490927384,
+   "SH": 0.9563935509072623
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.4372417763597932,
+   "SH": 0.5627582236402067
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0164,
+  "ret2": 0.3584,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 3,
+  "scene": 3,
+  "n_words": 1279,
+  "head": "ACT III. | The SCENE a Street.",
+  "delta": {
+   "FL": 1.0126828579970353,
+   "SH": 0.9873171420029652
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.22668688256551994,
+   "SH": 0.7733131174344801
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.1975,
+  "ret2": 0.5329,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 4,
+  "scene": 0,
+  "n_words": 8404,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 1.0482393640651273,
+   "SH": 0.951760635934874
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.18925331634247566,
+   "SH": 0.8107466836575241
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0568,
+  "ret2": 0.3915,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_henry6_1681",
+  "act": 4,
+  "scene": 1,
+  "n_words": 2120,
+  "head": "ACT IV. | The SCENE the Cardinals Apartment.",
+  "delta": {
+   "FL": 1.1590707355809342,
+   "SH": 0.8409292644190682
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.043592947540733305,
+   "SH": 0.9564070524592667
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0316,
+  "ret2": 0.369,
+  "adapter": "Crowne",
+  "date": 1681
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 1,
+  "scene": 1,
+  "n_words": 3099,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 0.6116526421574953,
+   "SH": 1.3883473578424956
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9935917776609633,
+   "SH": 0.006408222339036642
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8547,
+  "ret2": 0.9396,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 1,
+  "scene": 2,
+  "n_words": 688,
+  "head": "ACT I. SCENE I. | Scaene 2.",
+  "delta": {
+   "FL": 0.6949546989005317,
+   "SH": 1.305045301099464
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9994837637144259,
+   "SH": 0.0005162362855740336
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8891,
+  "ret2": 0.9578,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 2,
+  "scene": 1,
+  "n_words": 360,
+  "head": "ACT II. SCENE I.",
+  "delta": {
+   "FL": 0.8511228360495268,
+   "SH": 1.1488771639504707
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9856354612023057,
+   "SH": 0.014364538797694174
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8711,
+  "ret2": 0.9499,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 2,
+  "scene": 2,
+  "n_words": 1002,
+  "head": "ACT II. SCENE I. | Seaene. 2.",
+  "delta": {
+   "FL": 0.715589036352398,
+   "SH": 1.2844109636475969
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9957600049843836,
+   "SH": 0.0042399950156164976
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8498,
+  "ret2": 0.9411,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 2,
+  "scene": 3,
+  "n_words": 1018,
+  "head": "ACT II. SCENE I. | Scaene 3.",
+  "delta": {
+   "FL": 0.848940193261527,
+   "SH": 1.1510598067384707
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.692290915460177,
+   "SH": 0.30770908453982304
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8374,
+  "ret2": 0.939,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 2,
+  "scene": 4,
+  "n_words": 1683,
+  "head": "ACT II. SCENE I. | Scaene. 4.",
+  "delta": {
+   "FL": 0.6463002400131769,
+   "SH": 1.3536997599868166
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9964506747545508,
+   "SH": 0.003549325245449189
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8607,
+  "ret2": 0.9417,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 2,
+  "scene": 5,
+  "n_words": 285,
+  "head": "ACT II. SCENE I. | Scaene. 5.",
+  "delta": {
+   "FL": 0.8401783869344246,
+   "SH": 1.1598216130655739
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9964437098622868,
+   "SH": 0.0035562901377130182
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.9504,
+  "ret2": 0.9859,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 3,
+  "scene": 1,
+  "n_words": 242,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 0.8746055001510662,
+   "SH": 1.1253944998489325
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9880629242823638,
+   "SH": 0.011937075717636308
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8828,
+  "ret2": 0.9544,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1056,
+  "head": "ACT III. SCENE I. | Seaene 2.",
+  "delta": {
+   "FL": 0.6715871582904126,
+   "SH": 1.3284128417095817
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9988787093181557,
+   "SH": 0.0011212906818443432
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8547,
+  "ret2": 0.946,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 3,
+  "scene": 3,
+  "n_words": 877,
+  "head": "ACT III. SCENE I. | Scaene 3.",
+  "delta": {
+   "FL": 0.6414145798572668,
+   "SH": 1.3585854201427288
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9979877556469938,
+   "SH": 0.0020122443530061858
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8307,
+  "ret2": 0.9361,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 3,
+  "scene": 4,
+  "n_words": 793,
+  "head": "ACT III. SCENE I. | Scaene 4.",
+  "delta": {
+   "FL": 0.6800047717305908,
+   "SH": 1.319995228269405
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9998020920635323,
+   "SH": 0.00019790793646762032
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8595,
+  "ret2": 0.9444,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 3,
+  "scene": 5,
+  "n_words": 988,
+  "head": "ACT III. SCENE I. | Scaene 5.",
+  "delta": {
+   "FL": 0.7432380007292804,
+   "SH": 1.2567619992707175
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9748459409588763,
+   "SH": 0.02515405904112373
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8234,
+  "ret2": 0.9291,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 3,
+  "scene": 6,
+  "n_words": 1251,
+  "head": "ACT III. SCENE I. | Scaene 6.",
+  "delta": {
+   "FL": 0.7439603053263171,
+   "SH": 1.256039694673679
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9967893858685575,
+   "SH": 0.0032106141314426073
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8966,
+  "ret2": 0.9536,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 1,
+  "n_words": 1437,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 0.6413521893494201,
+   "SH": 1.358647810650573
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9996700958743592,
+   "SH": 0.0003299041256408912
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8396,
+  "ret2": 0.9401,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 2,
+  "n_words": 1335,
+  "head": "ACT IV. SCENE I. | Scaene 2.",
+  "delta": {
+   "FL": 0.7527163175376684,
+   "SH": 1.247283682462328
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9967693923526708,
+   "SH": 0.0032306076473292296
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8093,
+  "ret2": 0.9183,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 3,
+  "n_words": 2059,
+  "head": "ACT IV. SCENE I. | Scaene 3.",
+  "delta": {
+   "FL": 0.673721001806225,
+   "SH": 1.3262789981937688
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.971101216335328,
+   "SH": 0.02889878366467194
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7724,
+  "ret2": 0.9067,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 4,
+  "n_words": 843,
+  "head": "ACT IV. SCENE I. | Scaene 5.",
+  "delta": {
+   "FL": 0.7119329775762537,
+   "SH": 1.2880670224237418
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9990960943307344,
+   "SH": 0.0009039056692656255
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7548,
+  "ret2": 0.9074,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 5,
+  "n_words": 285,
+  "head": "ACT IV. SCENE I. | Scaene 6.",
+  "delta": {
+   "FL": 0.8663775502599669,
+   "SH": 1.1336224497400331
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8677438722480092,
+   "SH": 0.13225612775199078
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7447,
+  "ret2": 0.912,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 6,
+  "n_words": 102,
+  "head": "ACT IV. SCENE I. | Scaene 7.",
+  "delta": {
+   "FL": 0.9247265390089908,
+   "SH": 1.0752734609910088
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9919828136976887,
+   "SH": 0.008017186302311241
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8788,
+  "ret2": 0.9703,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 4,
+  "scene": 7,
+  "n_words": 1628,
+  "head": "ACT IV. SCENE I. | Scaene 8.",
+  "delta": {
+   "FL": 0.6912295872626393,
+   "SH": 1.3087704127373554
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9988545699894905,
+   "SH": 0.0011454300105095566
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7926,
+  "ret2": 0.9262,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 5,
+  "scene": 1,
+  "n_words": 475,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 0.7775522939630649,
+   "SH": 1.2224477060369325
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.997021905454323,
+   "SH": 0.002978094545677064
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7966,
+  "ret2": 0.9409,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 5,
+  "scene": 2,
+  "n_words": 519,
+  "head": "ACT V. SCENE I. | Scaene 2.",
+  "delta": {
+   "FL": 0.8217890926377512,
+   "SH": 1.178210907362247
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9629195828002605,
+   "SH": 0.037080417199739514
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7926,
+  "ret2": 0.9151,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 5,
+  "scene": 3,
+  "n_words": 763,
+  "head": "ACT V. SCENE I. | Scaene 3.",
+  "delta": {
+   "FL": 0.6378604814189994,
+   "SH": 1.3621395185809966
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9999372371616175,
+   "SH": 6.276283838247275e-05
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.85,
+  "ret2": 0.9541,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 5,
+  "scene": 4,
+  "n_words": 334,
+  "head": "ACT V. SCENE I. | Scaene 4.",
+  "delta": {
+   "FL": 0.8982930439423129,
+   "SH": 1.1017069560576864
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6751389061810533,
+   "SH": 0.3248610938189467
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8066,
+  "ret2": 0.9309,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_humorous_lieutenant_1697",
+  "act": 5,
+  "scene": 5,
+  "n_words": 591,
+  "head": "ACT V. SCENE I. | Scaene 5.",
+  "delta": {
+   "FL": 0.7263972601172484,
+   "SH": 1.2736027398827483
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9998115437188378,
+   "SH": 0.00018845628116221692
+  },
+  "svm_pred": "FL",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8299,
+  "ret2": 0.9356,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 1,
+  "scene": 1,
+  "n_words": 2238,
+  "head": "ACT I.",
+  "delta": {
+   "FL": 1.0237753054898542,
+   "SH": 0.976224694510146
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.16904117088352613,
+   "SH": 0.8309588291164738
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0497,
+  "ret2": 0.3487,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 1,
+  "scene": 2,
+  "n_words": 1496,
+  "head": "ACT I. | SCENE II.",
+  "delta": {
+   "FL": 0.9197217365472514,
+   "SH": 1.080278263452748
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.518602683606069,
+   "SH": 0.4813973163939311
+  },
+  "svm_pred": "FL",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.3188,
+  "ret2": 0.6595,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 2,
+  "scene": 1,
+  "n_words": 893,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 1.0592782925208069,
+   "SH": 0.9407217074791933
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.28691236507742346,
+   "SH": 0.7130876349225765
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0551,
+  "ret2": 0.3173,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 2,
+  "scene": 2,
+  "n_words": 2037,
+  "head": "ACT II. | SCENE II.",
+  "delta": {
+   "FL": 1.0296829770804692,
+   "SH": 0.9703170229195303
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.22611717141873103,
+   "SH": 0.7738828285812691
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.1234,
+  "ret2": 0.4312,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 2,
+  "scene": 3,
+  "n_words": 892,
+  "head": "ACT II. | SCENE IV.",
+  "delta": {
+   "FL": 0.9892434787835613,
+   "SH": 1.010756521216439
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.14082689183055624,
+   "SH": 0.8591731081694439
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.1429,
+  "ret2": 0.4624,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 3,
+  "scene": 1,
+  "n_words": 1490,
+  "head": "ACT III. | SCENE II.",
+  "delta": {
+   "FL": 0.9412178415215917,
+   "SH": 1.058782158478407
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.32702923970671904,
+   "SH": 0.672970760293281
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.232,
+  "ret2": 0.5547,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1841,
+  "head": "ACT III. | SCENE III. A Rocky Cave.",
+  "delta": {
+   "FL": 1.0582142053000552,
+   "SH": 0.9417857946999452
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.3000721000604712,
+   "SH": 0.6999278999395289
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0729,
+  "ret2": 0.362,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 4,
+  "scene": 1,
+  "n_words": 444,
+  "head": "ACT IV. | SCENE I.",
+  "delta": {
+   "FL": 1.0287906153861095,
+   "SH": 0.9712093846138911
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.14107447299735373,
+   "SH": 0.8589255270026463
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.316,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 4,
+  "scene": 2,
+  "n_words": 979,
+  "head": "ACT IV. | SCENE II. The Cave.",
+  "delta": {
+   "FL": 0.9899770771909122,
+   "SH": 1.0100229228090876
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.12275693735253916,
+   "SH": 0.8772430626474609
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0891,
+  "ret2": 0.3742,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 4,
+  "scene": 3,
+  "n_words": 613,
+  "head": "ACT IV. | SCENE III.",
+  "delta": {
+   "FL": 0.9818584418925446,
+   "SH": 1.0181415581074542
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.4768919492643907,
+   "SH": 0.5231080507356093
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0049,
+  "ret2": 0.3154,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 4,
+  "scene": 4,
+  "n_words": 1557,
+  "head": "ACT IV. | SCENE IV.",
+  "delta": {
+   "FL": 1.0400134992738765,
+   "SH": 0.9599865007261231
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.14677179323473843,
+   "SH": 0.8532282067652617
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.1403,
+  "ret2": 0.4659,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 5,
+  "scene": 1,
+  "n_words": 1796,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 1.0750837908434427,
+   "SH": 0.9249162091565584
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.3309955874178125,
+   "SH": 0.6690044125821875
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0156,
+  "ret2": 0.3053,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_injured_princess_1682",
+  "act": 5,
+  "scene": 2,
+  "n_words": 1348,
+  "head": "ACT V. | SCENE III. Palace backward.",
+  "delta": {
+   "FL": 1.018736325693451,
+   "SH": 0.9812636743065487
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.29902837031287166,
+   "SH": 0.7009716296871283
+  },
+  "svm_pred": "SH",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0714,
+  "ret2": 0.392,
+  "adapter": "DUrfey",
+  "date": 1682
+ },
+ {
+  "key": "ad_island_princess_1669",
+  "act": 1,
+  "scene": 1,
+  "n_words": 3512,
+  "head": "Actus primus. Scena prima.",
+  "delta": {
+   "FL": 0.6328474239037656,
+   "SH": 1.367152576096227
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9928921221217675,
+   "SH": 0.0071078778782324185
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7432,
+  "ret2": 0.8884,
+  "adapter": "anon",
+  "date": 1669
+ },
+ {
+  "key": "ad_island_princess_1669",
+  "act": 2,
+  "scene": 1,
+  "n_words": 5089,
+  "head": "Actus secundus. Scena prima.",
+  "delta": {
+   "FL": 0.630002355317324,
+   "SH": 1.369997644682667
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9873998774934266,
+   "SH": 0.01260012250657343
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.639,
+  "ret2": 0.8211,
+  "adapter": "anon",
+  "date": 1669
+ },
+ {
+  "key": "ad_island_princess_1669",
+  "act": 3,
+  "scene": 1,
+  "n_words": 2819,
+  "head": "Actus tertius Scena prima.",
+  "delta": {
+   "FL": 0.5361008882584016,
+   "SH": 1.4638991117415885
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9956106260789266,
+   "SH": 0.0043893739210733185
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7145,
+  "ret2": 0.89,
+  "adapter": "anon",
+  "date": 1669
+ },
+ {
+  "key": "ad_island_princess_1669",
+  "act": 4,
+  "scene": 1,
+  "n_words": 3403,
+  "head": "Actus quartus. Scena prima.",
+  "delta": {
+   "FL": 0.6444941278212784,
+   "SH": 1.3555058721787137
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9669029608290934,
+   "SH": 0.03309703917090666
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7218,
+  "ret2": 0.8883,
+  "adapter": "anon",
+  "date": 1669
+ },
+ {
+  "key": "ad_island_princess_1669",
+  "act": 5,
+  "scene": 1,
+  "n_words": 3780,
+  "head": "Actus quintus. Scena prima.",
+  "delta": {
+   "FL": 0.5930125767041412,
+   "SH": 1.4069874232958506
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9925162116720921,
+   "SH": 0.007483788327907874
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.6587,
+  "ret2": 0.8357,
+  "adapter": "anon",
+  "date": 1669
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 1,
+  "scene": 1,
+  "n_words": 1837,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 0.7455945954790486,
+   "SH": 1.2544054045209456
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9864663201071497,
+   "SH": 0.013533679892850262
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.2285,
+  "ret2": 0.5485,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 1,
+  "scene": 2,
+  "n_words": 720,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 0.928267526735818,
+   "SH": 1.0717324732641815
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5887244778929088,
+   "SH": 0.4112755221070912
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4268,
+  "ret2": 0.7232,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1566,
+  "head": "ACT II. SCENE I.",
+  "delta": {
+   "FL": 0.7743480646338021,
+   "SH": 1.2256519353661937
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9716154767009714,
+   "SH": 0.028384523299028568
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3768,
+  "ret2": 0.6147,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 2,
+  "scene": 2,
+  "n_words": 776,
+  "head": "Scene changes to the Isle of Tedore.",
+  "delta": {
+   "FL": 0.8122623192847113,
+   "SH": 1.1877376807152857
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9608965353164235,
+   "SH": 0.03910346468357655
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3532,
+  "ret2": 0.6942,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 3,
+  "scene": 1,
+  "n_words": 626,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 0.7951708253633543,
+   "SH": 1.2048291746366426
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.891984399586684,
+   "SH": 0.108015600413316
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3884,
+  "ret2": 0.7232,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 3,
+  "scene": 2,
+  "n_words": 634,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.9437864609361282,
+   "SH": 1.0562135390638707
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8837039855383333,
+   "SH": 0.11629601446166674
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7702,
+  "ret2": 0.9021,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 3,
+  "scene": 3,
+  "n_words": 1113,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 0.8563104618846646,
+   "SH": 1.1436895381153325
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5341178577520331,
+   "SH": 0.46588214224796687
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1784,
+  "ret2": 0.5252,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 4,
+  "scene": 1,
+  "n_words": 639,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 0.8033571582934573,
+   "SH": 1.1966428417065398
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9983404394147545,
+   "SH": 0.0016595605852454342
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4119,
+  "ret2": 0.7241,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 4,
+  "scene": 2,
+  "n_words": 1077,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.7860349965467588,
+   "SH": 1.213965003453238
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.855244196994172,
+   "SH": 0.14475580300582797
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7272,
+  "ret2": 0.8829,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 4,
+  "scene": 3,
+  "n_words": 162,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 0.8904450602967103,
+   "SH": 1.1095549397032887
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.37010515800994287,
+   "SH": 0.6298948419900572
+  },
+  "svm_pred": "SH",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4151,
+  "ret2": 0.764,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 4,
+  "scene": 4,
+  "n_words": 1441,
+  "head": "SCENE IV.",
+  "delta": {
+   "FL": 0.9244296642081575,
+   "SH": 1.0755703357918414
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5971341855796637,
+   "SH": 0.4028658144203363
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1287,
+  "ret2": 0.4194,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1687",
+  "act": 5,
+  "scene": 1,
+  "n_words": 2806,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 0.7338160595844909,
+   "SH": 1.266183940415503
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8869742637863156,
+   "SH": 0.11302573621368436
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4299,
+  "ret2": 0.6827,
+  "adapter": "Tate",
+  "date": 1687
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 1,
+  "scene": 1,
+  "n_words": 1524,
+  "head": "ACT I. | SCENE I. The Entrance to the Temple in th",
+  "delta": {
+   "FL": 0.8571833734499468,
+   "SH": 1.1428166265500506
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9611408851745369,
+   "SH": 0.03885911482546315
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1473,
+  "ret2": 0.4662,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 2,
+  "scene": 1,
+  "n_words": 256,
+  "head": "ACT II. | SCENE I. A Vault under the Castle.",
+  "delta": {
+   "FL": 0.965923390341915,
+   "SH": 1.0340766096580845
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6865237486347511,
+   "SH": 0.3134762513652489
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0632,
+  "ret2": 0.3843,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 2,
+  "scene": 2,
+  "n_words": 215,
+  "head": "ACT II. | Scene the Town of Ternate.",
+  "delta": {
+   "FL": 0.855672580619078,
+   "SH": 1.1443274193809214
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.981540576501757,
+   "SH": 0.018459423498243026
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3019,
+  "ret2": 0.6215,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 2,
+  "scene": 3,
+  "n_words": 1583,
+  "head": "ACT II. | SCENE changes to a Prison, and a prospec",
+  "delta": {
+   "FL": 0.8537830677610736,
+   "SH": 1.146216932238924
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.921288505139243,
+   "SH": 0.0787114948607571
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1184,
+  "ret2": 0.4362,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 3,
+  "scene": 0,
+  "n_words": 267,
+  "head": "ACT. III. The Palace.",
+  "delta": {
+   "FL": 0.8972053219092655,
+   "SH": 1.1027946780907327
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.21687966647780352,
+   "SH": 0.7831203335221965
+  },
+  "svm_pred": "SH",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.178,
+  "ret2": 0.5977,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 3,
+  "scene": 1,
+  "n_words": 328,
+  "head": "ACT. III. The Palace. | SCENE II.",
+  "delta": {
+   "FL": 0.9757618644168772,
+   "SH": 1.0242381355831227
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8113795601806686,
+   "SH": 0.18862043981933135
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3108,
+  "ret2": 0.6147,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1412,
+  "head": "ACT. III. The Palace. | SCENE III, The Princesses ",
+  "delta": {
+   "FL": 0.9033691566716119,
+   "SH": 1.096630843328387
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7128101894939778,
+   "SH": 0.2871898105060222
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0362,
+  "ret2": 0.3551,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 4,
+  "scene": 0,
+  "n_words": 885,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.8873513265177173,
+   "SH": 1.112648673482282
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7176242901202734,
+   "SH": 0.2823757098797267
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.042,
+  "ret2": 0.3439,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 4,
+  "scene": 1,
+  "n_words": 2303,
+  "head": "ACT IV. | SCENE the Temple.",
+  "delta": {
+   "FL": 0.9386923476522142,
+   "SH": 1.0613076523477858
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6048368046334713,
+   "SH": 0.39516319536652855
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0096,
+  "ret2": 0.2754,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 5,
+  "scene": 0,
+  "n_words": 370,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 0.945634803168307,
+   "SH": 1.0543651968316932
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6518030561403136,
+   "SH": 0.3481969438596864
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0,
+  "ret2": 0.2791,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 5,
+  "scene": 1,
+  "n_words": 344,
+  "head": "ACT V. | SCENE. The Temple.",
+  "delta": {
+   "FL": 0.8725611053264913,
+   "SH": 1.1274388946735074
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.903497336106055,
+   "SH": 0.09650266389394502
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0205,
+  "ret2": 0.3294,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 5,
+  "scene": 2,
+  "n_words": 539,
+  "head": "ACT V. | SCENE. The Town.",
+  "delta": {
+   "FL": 1.025612519213899,
+   "SH": 0.9743874807861013
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.01717405786129993,
+   "SH": 0.9828259421387001
+  },
+  "svm_pred": "SH",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0205,
+  "ret2": 0.3662,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 5,
+  "scene": 3,
+  "n_words": 464,
+  "head": "ACT V. | SCENE. A Field or broad place near the Fo",
+  "delta": {
+   "FL": 0.8551486269029125,
+   "SH": 1.1448513730970875
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9337253574945089,
+   "SH": 0.06627464250549123
+  },
+  "svm_pred": "FL",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0108,
+  "ret2": 0.3002,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_island_princess_1699",
+  "act": 5,
+  "scene": 4,
+  "n_words": 126,
+  "head": "ACT V. | The SCENE changes to a Palace.",
+  "delta": {
+   "FL": 1.028782572913086,
+   "SH": 0.9712174270869137
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.39161484462734897,
+   "SH": 0.608385155372651
+  },
+  "svm_pred": "SH",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0,
+  "ret2": 0.184,
+  "adapter": "Motteux",
+  "date": 1699
+ },
+ {
+  "key": "ad_julius_caesar_1684",
+  "act": 1,
+  "scene": 0,
+  "n_words": 4500,
+  "head": "Actus Primus. Scoena Prima.",
+  "delta": {
+   "FL": 1.2369821460852024,
+   "SH": 0.7630178539148025
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.008054871596961166,
+   "SH": 0.9919451284030387
+  },
+  "svm_pred": "SH",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.9008,
+  "ret2": 0.9567,
+  "adapter": "anon(light)",
+  "date": 1684
+ },
+ {
+  "key": "ad_julius_caesar_1684",
+  "act": 2,
+  "scene": 0,
+  "n_words": 4173,
+  "head": "Actus Secundus.",
+  "delta": {
+   "FL": 1.2684650112891762,
+   "SH": 0.7315349887108286
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.003978737152314627,
+   "SH": 0.9960212628476854
+  },
+  "svm_pred": "SH",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.858,
+  "ret2": 0.941,
+  "adapter": "anon(light)",
+  "date": 1684
+ },
+ {
+  "key": "ad_julius_caesar_1684",
+  "act": 3,
+  "scene": 0,
+  "n_words": 4677,
+  "head": "Actus Tertius.",
+  "delta": {
+   "FL": 1.1763850236207793,
+   "SH": 0.8236149763792241
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.021903777063394726,
+   "SH": 0.9780962229366054
+  },
+  "svm_pred": "SH",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.8562,
+  "ret2": 0.9416,
+  "adapter": "anon(light)",
+  "date": 1684
+ },
+ {
+  "key": "ad_julius_caesar_1684",
+  "act": 4,
+  "scene": 0,
+  "n_words": 3149,
+  "head": "Actus Quartus.",
+  "delta": {
+   "FL": 1.2154358187799135,
+   "SH": 0.7845641812200906
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0012857831604340397,
+   "SH": 0.9987142168395658
+  },
+  "svm_pred": "SH",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.8312,
+  "ret2": 0.9314,
+  "adapter": "anon(light)",
+  "date": 1684
+ },
+ {
+  "key": "ad_julius_caesar_1684",
+  "act": 5,
+  "scene": 0,
+  "n_words": 2779,
+  "head": "Actus Quintus.",
+  "delta": {
+   "FL": 1.1873083449447521,
+   "SH": 0.8126916550552509
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.011716057934955471,
+   "SH": 0.9882839420650444
+  },
+  "svm_pred": "SH",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.8548,
+  "ret2": 0.9388,
+  "adapter": "anon(light)",
+  "date": 1684
+ },
+ {
+  "key": "ad_lear_1681",
+  "act": 1,
+  "scene": 0,
+  "n_words": 3153,
+  "head": "KING LEAR. A TRAGEDY.",
+  "delta": {
+   "FL": 1.0936098583267524,
+   "SH": 0.9063901416732487
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.24899208164924916,
+   "SH": 0.7510079183507508
+  },
+  "svm_pred": "SH",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.1413,
+  "ret2": 0.4603,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_lear_1681",
+  "act": 2,
+  "scene": 0,
+  "n_words": 2789,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 1.064607408584857,
+   "SH": 0.9353925914151434
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.10730171132927531,
+   "SH": 0.8926982886707246
+  },
+  "svm_pred": "SH",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.2861,
+  "ret2": 0.5983,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_lear_1681",
+  "act": 3,
+  "scene": 0,
+  "n_words": 4293,
+  "head": "ACT III.",
+  "delta": {
+   "FL": 0.985313592620809,
+   "SH": 1.0146864073791901
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5509638090925437,
+   "SH": 0.44903619090745633
+  },
+  "svm_pred": "FL",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.183,
+  "ret2": 0.4595,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_lear_1681",
+  "act": 4,
+  "scene": 0,
+  "n_words": 3882,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.9870555975808484,
+   "SH": 1.012944402419151
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.17495000428028135,
+   "SH": 0.8250499957197187
+  },
+  "svm_pred": "SH",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.2895,
+  "ret2": 0.5761,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_lear_1681",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3377,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 1.0748439112195862,
+   "SH": 0.9251560887804139
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.30441712476620963,
+   "SH": 0.6955828752337904
+  },
+  "svm_pred": "SH",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.0744,
+  "ret2": 0.3525,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 1,
+  "scene": 1,
+  "n_words": 685,
+  "head": "ACT I. | Scene I.",
+  "delta": {
+   "FL": 0.9027568345070572,
+   "SH": 1.0972431654929409
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.998563099618579,
+   "SH": 0.0014369003814209836
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8842,
+  "ret2": 0.9415,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 1,
+  "scene": 2,
+  "n_words": 1183,
+  "head": "ACT I. | Scene II.",
+  "delta": {
+   "FL": 0.6594960604546258,
+   "SH": 1.3405039395453686
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9998496837753473,
+   "SH": 0.00015031622465276636
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8678,
+  "ret2": 0.9433,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 1,
+  "scene": 3,
+  "n_words": 2342,
+  "head": "ACT I. | Scene 3.",
+  "delta": {
+   "FL": 0.6283448590057761,
+   "SH": 1.3716551409942161
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9976748211781541,
+   "SH": 0.002325178821845923
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.897,
+  "ret2": 0.9526,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 1,
+  "scene": 4,
+  "n_words": 306,
+  "head": "ACT I. | SCENE IV.",
+  "delta": {
+   "FL": 0.8636178027157966,
+   "SH": 1.1363821972842019
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9983569655158145,
+   "SH": 0.0016430344841853548
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8812,
+  "ret2": 0.9475,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 1,
+  "scene": 5,
+  "n_words": 836,
+  "head": "ACT I. | Scene. V.",
+  "delta": {
+   "FL": 0.7873960118216408,
+   "SH": 1.2126039881783557
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9908830040801855,
+   "SH": 0.009116995919814495
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.886,
+  "ret2": 0.9521,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 2,
+  "scene": 1,
+  "n_words": 3232,
+  "head": "ACT II. | Scene I.",
+  "delta": {
+   "FL": 0.5548200792159083,
+   "SH": 1.4451799207840814
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.99869443864933,
+   "SH": 0.001305561350669868
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8675,
+  "ret2": 0.9443,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 2,
+  "scene": 2,
+  "n_words": 604,
+  "head": "ACT II. | Scene II.",
+  "delta": {
+   "FL": 0.8364466342522967,
+   "SH": 1.1635533657477004
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9068426288324265,
+   "SH": 0.09315737116757364
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8652,
+  "ret2": 0.942,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 2,
+  "scene": 3,
+  "n_words": 548,
+  "head": "ACT II. | Scene III.",
+  "delta": {
+   "FL": 0.7514479209487425,
+   "SH": 1.2485520790512554
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9995736779577333,
+   "SH": 0.0004263220422666602
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8679,
+  "ret2": 0.9543,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 2,
+  "scene": 4,
+  "n_words": 322,
+  "head": "ACT II. | Scene IV.",
+  "delta": {
+   "FL": 0.7865065796041424,
+   "SH": 1.2134934203958547
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9991623988571183,
+   "SH": 0.0008376011428816476
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8464,
+  "ret2": 0.9346,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 2,
+  "scene": 5,
+  "n_words": 1114,
+  "head": "ACT II. | Scene V.",
+  "delta": {
+   "FL": 0.659778083936443,
+   "SH": 1.340221916063552
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9998586137919713,
+   "SH": 0.0001413862080288369
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8992,
+  "ret2": 0.9578,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 3,
+  "scene": 1,
+  "n_words": 211,
+  "head": "ACT III. | Scene I.",
+  "delta": {
+   "FL": 0.7970505264084096,
+   "SH": 1.2029494735915884
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9997701650924048,
+   "SH": 0.0002298349075953058
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7885,
+  "ret2": 0.9,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 3,
+  "scene": 2,
+  "n_words": 1379,
+  "head": "ACT III. | Scene II.",
+  "delta": {
+   "FL": 0.6514620079772588,
+   "SH": 1.348537992022735
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.990416244876936,
+   "SH": 0.009583755123063845
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8968,
+  "ret2": 0.9557,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 3,
+  "scene": 3,
+  "n_words": 1085,
+  "head": "ACT III. | Scene III.",
+  "delta": {
+   "FL": 0.6480299340244955,
+   "SH": 1.3519700659754992
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9993483544573193,
+   "SH": 0.0006516455426806901
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8752,
+  "ret2": 0.9539,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 3,
+  "scene": 4,
+  "n_words": 722,
+  "head": "ACT III. | Scene 4.",
+  "delta": {
+   "FL": 0.6556066673189249,
+   "SH": 1.3443933326810706
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9994122146223626,
+   "SH": 0.0005877853776373183
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7844,
+  "ret2": 0.9182,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 3,
+  "scene": 5,
+  "n_words": 448,
+  "head": "ACT III. | SCENE V.",
+  "delta": {
+   "FL": 0.7760436786512304,
+   "SH": 1.223956321348767
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9973216457672918,
+   "SH": 0.002678354232708264
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.782,
+  "ret2": 0.9105,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 3,
+  "scene": 6,
+  "n_words": 1106,
+  "head": "ACT III. | SCENE VI.",
+  "delta": {
+   "FL": 0.6421141951050079,
+   "SH": 1.3578858048949858
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9998410892974992,
+   "SH": 0.00015891070250090373
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8749,
+  "ret2": 0.9557,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 4,
+  "scene": 0,
+  "n_words": 530,
+  "head": "ACT. IV.",
+  "delta": {
+   "FL": 0.8077397256731599,
+   "SH": 1.1922602743268376
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9926422900129299,
+   "SH": 0.0073577099870700685
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7875,
+  "ret2": 0.9338,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 4,
+  "scene": 1,
+  "n_words": 829,
+  "head": "ACT. IV. | SCENE II.",
+  "delta": {
+   "FL": 0.7410680472439111,
+   "SH": 1.2589319527560845
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9812674741113137,
+   "SH": 0.018732525888686298
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8329,
+  "ret2": 0.93,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 4,
+  "scene": 2,
+  "n_words": 1454,
+  "head": "ACT. IV. | Scene 3.",
+  "delta": {
+   "FL": 0.6232366639321916,
+   "SH": 1.3767633360678022
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9975835308465179,
+   "SH": 0.002416469153482082
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8215,
+  "ret2": 0.9332,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 4,
+  "scene": 3,
+  "n_words": 512,
+  "head": "ACT. IV. | Scene 4.",
+  "delta": {
+   "FL": 0.8471020964730858,
+   "SH": 1.1528979035269122
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7567582430919867,
+   "SH": 0.2432417569080132
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.89,
+  "ret2": 0.9569,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 4,
+  "scene": 4,
+  "n_words": 1382,
+  "head": "ACT. IV. | SCENE V.",
+  "delta": {
+   "FL": 0.8046733416116769,
+   "SH": 1.1953266583883186
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9954918408607231,
+   "SH": 0.004508159139276869
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8238,
+  "ret2": 0.9261,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 4,
+  "scene": 5,
+  "n_words": 1019,
+  "head": "ACT. IV. | SCENE VI.",
+  "delta": {
+   "FL": 0.7722643241591611,
+   "SH": 1.2277356758408349
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9929764758694407,
+   "SH": 0.007023524130559187
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7569,
+  "ret2": 0.9165,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 5,
+  "scene": 0,
+  "n_words": 265,
+  "head": "ACT. V.",
+  "delta": {
+   "FL": 0.8584404055074317,
+   "SH": 1.1415595944925665
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9991448862783885,
+   "SH": 0.0008551137216115749
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8397,
+  "ret2": 0.9356,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 5,
+  "scene": 1,
+  "n_words": 1011,
+  "head": "ACT. V. | Scene 2.",
+  "delta": {
+   "FL": 0.7172645486919114,
+   "SH": 1.2827354513080846
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.999833183020735,
+   "SH": 0.00016681697926483266
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8393,
+  "ret2": 0.9356,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 5,
+  "scene": 2,
+  "n_words": 240,
+  "head": "ACT. V. | Scene 3.",
+  "delta": {
+   "FL": 0.795766281375415,
+   "SH": 1.204233718624584
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9997860739876498,
+   "SH": 0.00021392601235002982
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8143,
+  "ret2": 0.9205,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 5,
+  "scene": 3,
+  "n_words": 305,
+  "head": "ACT. V. | SCENE 4.",
+  "delta": {
+   "FL": 0.8781810614459429,
+   "SH": 1.1218189385540565
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9965647536287479,
+   "SH": 0.0034352463712520633
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.894,
+  "ret2": 0.9474,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 5,
+  "scene": 4,
+  "n_words": 631,
+  "head": "ACT. V. | SCENE V.",
+  "delta": {
+   "FL": 0.7577015350001658,
+   "SH": 1.2422984649998305
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9793533051563331,
+   "SH": 0.02064669484366679
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7994,
+  "ret2": 0.9238,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_loyal_subject_1700",
+  "act": 5,
+  "scene": 5,
+  "n_words": 1065,
+  "head": "ACT. V. | SCENE VI.",
+  "delta": {
+   "FL": 0.7450850930252324,
+   "SH": 1.2549149069747638
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9929903679324733,
+   "SH": 0.007009632067526611
+  },
+  "svm_pred": "FL",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.855,
+  "ret2": 0.9389,
+  "adapter": "anon",
+  "date": 1700
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 1,
+  "scene": 0,
+  "n_words": 4002,
+  "head": "ACT, I.",
+  "delta": {
+   "FL": 1.1245389692898267,
+   "SH": 0.8754610307101763
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.12660738688941836,
+   "SH": 0.8733926131105816
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2686,
+  "ret2": 0.5591,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 2,
+  "scene": 0,
+  "n_words": 2856,
+  "head": "ACT, II.",
+  "delta": {
+   "FL": 1.1235843164546528,
+   "SH": 0.876415683545349
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.04409556842559559,
+   "SH": 0.9559044315744044
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2093,
+  "ret2": 0.4862,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 3,
+  "scene": 0,
+  "n_words": 3968,
+  "head": "ACT, III.",
+  "delta": {
+   "FL": 1.1653088611292908,
+   "SH": 0.8346911388707127
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.07985110101699547,
+   "SH": 0.9201488989830044
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2726,
+  "ret2": 0.55,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 4,
+  "scene": 0,
+  "n_words": 3033,
+  "head": "ACT the 4th.",
+  "delta": {
+   "FL": 1.0114749057534231,
+   "SH": 0.9885250942465771
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.41188811482258914,
+   "SH": 0.588111885177411
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2267,
+  "ret2": 0.5069,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 5,
+  "scene": 1,
+  "n_words": 267,
+  "head": "ACT. V. | Scen. I.",
+  "delta": {
+   "FL": 0.9956473280834713,
+   "SH": 1.0043526719165283
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.09162694877461915,
+   "SH": 0.9083730512253808
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.4773,
+  "ret2": 0.7519,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 5,
+  "scene": 2,
+  "n_words": 177,
+  "head": "ACT. V. | Scen. II.",
+  "delta": {
+   "FL": 1.083286304096952,
+   "SH": 0.9167136959030486
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.11257314918251302,
+   "SH": 0.887426850817487
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.0115,
+  "ret2": 0.3693,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 5,
+  "scene": 3,
+  "n_words": 379,
+  "head": "ACT. V. | Scene III.",
+  "delta": {
+   "FL": 0.933868249652975,
+   "SH": 1.0661317503470238
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9404121203941512,
+   "SH": 0.059587879605848736
+  },
+  "svm_pred": "FL",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.0585,
+  "ret2": 0.3942,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 5,
+  "scene": 4,
+  "n_words": 637,
+  "head": "ACT. V. | Scen. IV.",
+  "delta": {
+   "FL": 1.1310053284910375,
+   "SH": 0.8689946715089641
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.03458758222263825,
+   "SH": 0.9654124177773618
+  },
+  "svm_pred": "SH",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2145,
+  "ret2": 0.489,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_macbeth_1674",
+  "act": 5,
+  "scene": 5,
+  "n_words": 1029,
+  "head": "ACT. V. | Scene. VI.",
+  "delta": {
+   "FL": 1.0434530266840734,
+   "SH": 0.956546973315927
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.7654951196745851,
+   "SH": 0.23450488032541492
+  },
+  "svm_pred": "FL",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.0828,
+  "ret2": 0.3628,
+  "adapter": "Davenant",
+  "date": 1674
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 1,
+  "scene": 1,
+  "n_words": 2419,
+  "head": "ACT. I. | SCENE I. A Large HALL in the Palace.",
+  "delta": {
+   "FL": 0.9503758041460988,
+   "SH": 1.0496241958538997
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7313676481735529,
+   "SH": 0.268632351826447
+  },
+  "svm_pred": "FL",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1064,
+  "ret2": 0.385,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1126,
+  "head": "ACT II. | SCENE I. A ROOM in the Pallace.",
+  "delta": {
+   "FL": 1.0084348841900055,
+   "SH": 0.9915651158099952
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.33536428263998835,
+   "SH": 0.6646357173600117
+  },
+  "svm_pred": "SH",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1407,
+  "ret2": 0.4969,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 2,
+  "scene": 2,
+  "n_words": 2084,
+  "head": "ACT II. | SCENE II. Changes to the great Hall.",
+  "delta": {
+   "FL": 1.024339814493615,
+   "SH": 0.9756601855063847
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.6804893141584931,
+   "SH": 0.3195106858415069
+  },
+  "svm_pred": "FL",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0259,
+  "ret2": 0.302,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 3,
+  "scene": 1,
+  "n_words": 2252,
+  "head": "ACT III. | SCENE I. The Prison.",
+  "delta": {
+   "FL": 1.019611604897785,
+   "SH": 0.9803883951022151
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.31928170488745933,
+   "SH": 0.6807182951125407
+  },
+  "svm_pred": "SH",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0925,
+  "ret2": 0.398,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 4,
+  "scene": 1,
+  "n_words": 761,
+  "head": "ACT IV. | SCENE I. A Room in Angelo's Apartment.",
+  "delta": {
+   "FL": 0.8854415602280118,
+   "SH": 1.1145584397719863
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8962059811069141,
+   "SH": 0.10379401889308593
+  },
+  "svm_pred": "FL",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.3171,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 4,
+  "scene": 2,
+  "n_words": 450,
+  "head": "ACT IV. | SCENE II. A Garden.",
+  "delta": {
+   "FL": 1.0043138686420683,
+   "SH": 0.9956861313579316
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.5544314736792628,
+   "SH": 0.4455685263207371
+  },
+  "svm_pred": "FL",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1521,
+  "ret2": 0.4477,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 4,
+  "scene": 3,
+  "n_words": 1874,
+  "head": "ACT IV. | SCENE III. The Prison.",
+  "delta": {
+   "FL": 1.0408559454532365,
+   "SH": 0.9591440545467641
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.10986447716404417,
+   "SH": 0.890135522835956
+  },
+  "svm_pred": "SH",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0647,
+  "ret2": 0.409,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_measure_1700",
+  "act": 5,
+  "scene": 1,
+  "n_words": 2673,
+  "head": "ACT 5. | SCENE 1. The Great Hall in the Palace.",
+  "delta": {
+   "FL": 1.053428703139434,
+   "SH": 0.9465712968605663
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.3264834474392959,
+   "SH": 0.6735165525607042
+  },
+  "svm_pred": "SH",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1206,
+  "ret2": 0.4218,
+  "adapter": "Gildon",
+  "date": 1700
+ },
+ {
+  "key": "ad_misery_civil_war_1680",
+  "act": 1,
+  "scene": 1,
+  "n_words": 4053,
+  "head": "ACT. I. SCENE. I.",
+  "delta": {
+   "FL": 0.938142277839481,
+   "SH": 1.061857722160518
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5036455257509809,
+   "SH": 0.4963544742490191
+  },
+  "svm_pred": "FL",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0346,
+  "ret2": 0.3727,
+  "adapter": "Crowne",
+  "date": 1680
+ },
+ {
+  "key": "ad_misery_civil_war_1680",
+  "act": 2,
+  "scene": 0,
+  "n_words": 4106,
+  "head": "ACT. II.",
+  "delta": {
+   "FL": 1.1457526834548895,
+   "SH": 0.8542473165451131
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.10710207892076143,
+   "SH": 0.8928979210792386
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0088,
+  "ret2": 0.3559,
+  "adapter": "Crowne",
+  "date": 1680
+ },
+ {
+  "key": "ad_misery_civil_war_1680",
+  "act": 3,
+  "scene": 0,
+  "n_words": 4579,
+  "head": "ACT. III.",
+  "delta": {
+   "FL": 1.0468604108763757,
+   "SH": 0.9531395891236261
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.13096540707970444,
+   "SH": 0.8690345929202955
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.002,
+  "ret2": 0.3504,
+  "adapter": "Crowne",
+  "date": 1680
+ },
+ {
+  "key": "ad_misery_civil_war_1680",
+  "act": 4,
+  "scene": 0,
+  "n_words": 4746,
+  "head": "ACT. IV.",
+  "delta": {
+   "FL": 1.0339517783421028,
+   "SH": 0.9660482216578977
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.21955743415053958,
+   "SH": 0.7804425658494605
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0025,
+  "ret2": 0.337,
+  "adapter": "Crowne",
+  "date": 1680
+ },
+ {
+  "key": "ad_misery_civil_war_1680",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3406,
+  "head": "ACT. V.",
+  "delta": {
+   "FL": 1.0445806367624584,
+   "SH": 0.9554193632375427
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.27646614784402235,
+   "SH": 0.7235338521559775
+  },
+  "svm_pred": "SH",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0021,
+  "ret2": 0.3101,
+  "adapter": "Crowne",
+  "date": 1680
+ },
+ {
+  "key": "ad_misery_civil_war_1680",
+  "act": 6,
+  "scene": 0,
+  "n_words": 737,
+  "head": "",
+  "delta": {
+   "FL": 1.0200169606894136,
+   "SH": 0.9799830393105867
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.6928583643581805,
+   "SH": 0.30714163564181945
+  },
+  "svm_pred": "FL",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.303,
+  "adapter": "Crowne",
+  "date": 1680
+ },
+ {
+  "key": "ad_pilgrim_1700",
+  "act": 1,
+  "scene": 1,
+  "n_words": 978,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 0.782289889919196,
+   "SH": 1.2177101100808014
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.951984869584361,
+   "SH": 0.048015130415639075
+  },
+  "svm_pred": "FL",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.1179,
+  "ret2": 0.4811,
+  "adapter": "Vanbrugh",
+  "date": 1700
+ },
+ {
+  "key": "ad_pilgrim_1700",
+  "act": 1,
+  "scene": 2,
+  "n_words": 1575,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.6644459824329214,
+   "SH": 1.3355540175670733
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9989340083298849,
+   "SH": 0.001065991670115074
+  },
+  "svm_pred": "FL",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.2933,
+  "ret2": 0.6537,
+  "adapter": "Vanbrugh",
+  "date": 1700
+ },
+ {
+  "key": "ad_pilgrim_1700",
+  "act": 2,
+  "scene": 0,
+  "n_words": 3201,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 0.735237961702593,
+   "SH": 1.2647620382974016
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8288953186715444,
+   "SH": 0.17110468132845563
+  },
+  "svm_pred": "FL",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.2076,
+  "ret2": 0.5666,
+  "adapter": "Vanbrugh",
+  "date": 1700
+ },
+ {
+  "key": "ad_pilgrim_1700",
+  "act": 3,
+  "scene": 0,
+  "n_words": 3821,
+  "head": "ACT III.",
+  "delta": {
+   "FL": 0.6579591143341585,
+   "SH": 1.3420408856658346
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9680218771649501,
+   "SH": 0.0319781228350499
+  },
+  "svm_pred": "FL",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.2658,
+  "ret2": 0.6346,
+  "adapter": "Vanbrugh",
+  "date": 1700
+ },
+ {
+  "key": "ad_pilgrim_1700",
+  "act": 4,
+  "scene": 0,
+  "n_words": 4398,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.6544246085348298,
+   "SH": 1.3455753914651631
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9697440482459608,
+   "SH": 0.030255951754039008
+  },
+  "svm_pred": "FL",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.1925,
+  "ret2": 0.536,
+  "adapter": "Vanbrugh",
+  "date": 1700
+ },
+ {
+  "key": "ad_pilgrim_1700",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3215,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 0.6730675116385096,
+   "SH": 1.3269324883614828
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9810169910337365,
+   "SH": 0.018983008966263627
+  },
+  "svm_pred": "FL",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.1283,
+  "ret2": 0.4804,
+  "adapter": "Vanbrugh",
+  "date": 1700
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 1,
+  "scene": 1,
+  "n_words": 1202,
+  "head": "ACT I.",
+  "delta": {
+   "FL": 1.2061048362859752,
+   "SH": 0.7938951637140269
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.037686546836154376,
+   "SH": 0.9623134531638456
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2377,
+  "ret2": 0.5762,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 1,
+  "scene": 2,
+  "n_words": 484,
+  "head": "ACT I. | SCENE the Second.",
+  "delta": {
+   "FL": 1.0382819430691081,
+   "SH": 0.961718056930892
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.4768896672334061,
+   "SH": 0.5231103327665939
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1081,
+  "ret2": 0.3996,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 1,
+  "scene": 3,
+  "n_words": 1325,
+  "head": "ACT I. | SCENE the Third.",
+  "delta": {
+   "FL": 1.1224295769183714,
+   "SH": 0.8775704230816298
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.25003858953921493,
+   "SH": 0.749961410460785
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2443,
+  "ret2": 0.5491,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 2,
+  "scene": 1,
+  "n_words": 2044,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 1.1252682199316784,
+   "SH": 0.8747317800683228
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.18391049389599085,
+   "SH": 0.816089506104009
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1347,
+  "ret2": 0.4254,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 2,
+  "scene": 2,
+  "n_words": 713,
+  "head": "ACT II. | SCENE the Third.",
+  "delta": {
+   "FL": 1.1269250086964622,
+   "SH": 0.8730749913035405
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.059893199677210275,
+   "SH": 0.9401068003227898
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2085,
+  "ret2": 0.5239,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 2,
+  "scene": 3,
+  "n_words": 1212,
+  "head": "ACT II. | SCENE the Fourth.",
+  "delta": {
+   "FL": 1.043602663180244,
+   "SH": 0.9563973368197572
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2704801109585893,
+   "SH": 0.7295198890414107
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.0017,
+  "ret2": 0.2742,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 3,
+  "scene": 1,
+  "n_words": 335,
+  "head": "ACT the Third. | SCENE the First.",
+  "delta": {
+   "FL": 1.1441711653679583,
+   "SH": 0.8558288346320431
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.03419178016679099,
+   "SH": 0.9658082198332091
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.253,
+  "ret2": 0.512,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 3,
+  "scene": 2,
+  "n_words": 389,
+  "head": "ACT the Third. | SCENE The Second.",
+  "delta": {
+   "FL": 1.0121257155773122,
+   "SH": 0.987874284422688
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.4922108255240357,
+   "SH": 0.5077891744759643
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.0803,
+  "ret2": 0.3428,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 3,
+  "scene": 3,
+  "n_words": 1404,
+  "head": "ACT the Third. | SCENE the Third.",
+  "delta": {
+   "FL": 1.1582872323108706,
+   "SH": 0.8417127676891318
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.04547294174947869,
+   "SH": 0.9545270582505212
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2605,
+  "ret2": 0.5182,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 3,
+  "scene": 4,
+  "n_words": 956,
+  "head": "ACT the Third. | SCENE the Fourth.",
+  "delta": {
+   "FL": 1.145186012426062,
+   "SH": 0.854813987573939
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.050839645831042654,
+   "SH": 0.9491603541689573
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2267,
+  "ret2": 0.5455,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 4,
+  "scene": 1,
+  "n_words": 1375,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 1.21375731265216,
+   "SH": 0.7862426873478432
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.015547576863996637,
+   "SH": 0.9844524231360033
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.0015,
+  "ret2": 0.2744,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 4,
+  "scene": 2,
+  "n_words": 1332,
+  "head": "ACT IV. | SCENE the Parliament.",
+  "delta": {
+   "FL": 1.0490728305652768,
+   "SH": 0.950927169434724
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.41788206987052606,
+   "SH": 0.5821179301294739
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2656,
+  "ret2": 0.5537,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 5,
+  "scene": 1,
+  "n_words": 692,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 1.1519677904836074,
+   "SH": 0.848032209516394
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.015995723786641557,
+   "SH": 0.9840042762133583
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2946,
+  "ret2": 0.5774,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 5,
+  "scene": 2,
+  "n_words": 818,
+  "head": "ACT V. | SCENE the Second.",
+  "delta": {
+   "FL": 1.095353089557907,
+   "SH": 0.9046469104420933
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2954068847761926,
+   "SH": 0.7045931152238074
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2086,
+  "ret2": 0.4578,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 5,
+  "scene": 3,
+  "n_words": 738,
+  "head": "ACT V. | SCENE the Third.",
+  "delta": {
+   "FL": 1.1704824698394718,
+   "SH": 0.8295175301605292
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.024130199178509316,
+   "SH": 0.9758698008214907
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2204,
+  "ret2": 0.5685,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 5,
+  "scene": 4,
+  "n_words": 500,
+  "head": "ACT V. | SCENE, A Prison.",
+  "delta": {
+   "FL": 1.1537190446348198,
+   "SH": 0.8462809553651811
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.009697037015951792,
+   "SH": 0.9903029629840482
+  },
+  "svm_pred": "SH",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1489,
+  "ret2": 0.4008,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_richard2_1681",
+  "act": 5,
+  "scene": 5,
+  "n_words": 312,
+  "head": "ACT V. | SCENE a Palace.",
+  "delta": {
+   "FL": 1.0582860811622117,
+   "SH": 0.9417139188377884
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.558739080871827,
+   "SH": 0.44126091912817306
+  },
+  "svm_pred": "FL",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1521,
+  "ret2": 0.463,
+  "adapter": "Tate",
+  "date": 1681
+ },
+ {
+  "key": "ad_rule_a_wife_1697",
+  "act": 1,
+  "scene": 0,
+  "n_words": 3073,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 0.5352745676382371,
+   "SH": 1.4647254323617516
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9868337109961294,
+   "SH": 0.01316628900387069
+  },
+  "svm_pred": "FL",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.8313,
+  "ret2": 0.9229,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_rule_a_wife_1697",
+  "act": 2,
+  "scene": 0,
+  "n_words": 2925,
+  "head": "ACT II. SCENE I.",
+  "delta": {
+   "FL": 0.5724933656506359,
+   "SH": 1.4275066343493548
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9969850082426392,
+   "SH": 0.003014991757360701
+  },
+  "svm_pred": "FL",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.8084,
+  "ret2": 0.9135,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_rule_a_wife_1697",
+  "act": 3,
+  "scene": 0,
+  "n_words": 4808,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 0.5764272937858871,
+   "SH": 1.4235727062141028
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9834817454914233,
+   "SH": 0.016518254508576705
+  },
+  "svm_pred": "FL",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.7619,
+  "ret2": 0.8881,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_rule_a_wife_1697",
+  "act": 4,
+  "scene": 0,
+  "n_words": 3740,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 0.5661182076719227,
+   "SH": 1.4338817923280662
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.983191832420822,
+   "SH": 0.016808167579177986
+  },
+  "svm_pred": "FL",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.7792,
+  "ret2": 0.9002,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_rule_a_wife_1697",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3713,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 0.5437938961652404,
+   "SH": 1.4562061038347494
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9815665433351372,
+   "SH": 0.01843345666486281
+  },
+  "svm_pred": "FL",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.831,
+  "ret2": 0.9184,
+  "adapter": "anon",
+  "date": 1697
+ },
+ {
+  "key": "ad_sauny_scot_1698",
+  "act": 1,
+  "scene": 0,
+  "n_words": 1358,
+  "head": "",
+  "delta": {
+   "FL": 0.7962643093910275,
+   "SH": 1.2037356906089693
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8797989418011699,
+   "SH": 0.12020105819883001
+  },
+  "svm_pred": "FL",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.1004,
+  "ret2": 0.4466,
+  "adapter": "Lacy",
+  "date": 1698
+ },
+ {
+  "key": "ad_sauny_scot_1698",
+  "act": 2,
+  "scene": 0,
+  "n_words": 4353,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 0.6912504483092061,
+   "SH": 1.308749551690789
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9323964850560198,
+   "SH": 0.06760351494398026
+  },
+  "svm_pred": "FL",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0657,
+  "ret2": 0.3982,
+  "adapter": "Lacy",
+  "date": 1698
+ },
+ {
+  "key": "ad_sauny_scot_1698",
+  "act": 3,
+  "scene": 0,
+  "n_words": 4556,
+  "head": "ACT. III.",
+  "delta": {
+   "FL": 0.6865507501888699,
+   "SH": 1.313449249811124
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9020969573340922,
+   "SH": 0.09790304266590769
+  },
+  "svm_pred": "FL",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0901,
+  "ret2": 0.4248,
+  "adapter": "Lacy",
+  "date": 1698
+ },
+ {
+  "key": "ad_sauny_scot_1698",
+  "act": 4,
+  "scene": 0,
+  "n_words": 5310,
+  "head": "ACT. IV.",
+  "delta": {
+   "FL": 0.788342800742841,
+   "SH": 1.2116571992571556
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.4146726384998196,
+   "SH": 0.5853273615001803
+  },
+  "svm_pred": "SH",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0624,
+  "ret2": 0.4195,
+  "adapter": "Lacy",
+  "date": 1698
+ },
+ {
+  "key": "ad_sauny_scot_1698",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3585,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 0.6795680324144214,
+   "SH": 1.3204319675855742
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9428477221073359,
+   "SH": 0.05715227789266414
+  },
+  "svm_pred": "FL",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0064,
+  "ret2": 0.3315,
+  "adapter": "Lacy",
+  "date": 1698
+ },
+ {
+  "key": "ad_sham_lawyer_1697",
+  "act": 1,
+  "scene": 1,
+  "n_words": 5400,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 0.8169952576177673,
+   "SH": 1.1830047423822285
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8117003727091248,
+   "SH": 0.18829962729087513
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0059,
+  "ret2": 0.296,
+  "adapter": "Drake",
+  "date": 1697
+ },
+ {
+  "key": "ad_sham_lawyer_1697",
+  "act": 2,
+  "scene": 0,
+  "n_words": 6286,
+  "head": "ACT II. Scene, Wrangle's House.",
+  "delta": {
+   "FL": 0.8330955439500249,
+   "SH": 1.1669044560499697
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6740864180647199,
+   "SH": 0.32591358193528014
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0011,
+  "ret2": 0.2538,
+  "adapter": "Drake",
+  "date": 1697
+ },
+ {
+  "key": "ad_sham_lawyer_1697",
+  "act": 3,
+  "scene": 0,
+  "n_words": 6240,
+  "head": "ACT III.",
+  "delta": {
+   "FL": 0.8359540319086849,
+   "SH": 1.1640459680913104
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5612793633301478,
+   "SH": 0.4387206366698522
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.003,
+  "ret2": 0.2765,
+  "adapter": "Drake",
+  "date": 1697
+ },
+ {
+  "key": "ad_sham_lawyer_1697",
+  "act": 4,
+  "scene": 0,
+  "n_words": 4363,
+  "head": "ACT IV. Friendly's House.",
+  "delta": {
+   "FL": 0.874772129805083,
+   "SH": 1.1252278701949132
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6859798602251435,
+   "SH": 0.31402013977485654
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0011,
+  "ret2": 0.2632,
+  "adapter": "Drake",
+  "date": 1697
+ },
+ {
+  "key": "ad_sham_lawyer_1697",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3784,
+  "head": "ACT V. SCENE Wrangle's House.",
+  "delta": {
+   "FL": 0.804618447063312,
+   "SH": 1.195381552936683
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.762938316408535,
+   "SH": 0.2370616835914649
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0019,
+  "ret2": 0.3045,
+  "adapter": "Drake",
+  "date": 1697
+ },
+ {
+  "key": "ad_tempest_1670",
+  "act": 1,
+  "scene": 0,
+  "n_words": 3597,
+  "head": "THE Enchanted Island.",
+  "delta": {
+   "FL": 1.166378518363147,
+   "SH": 0.8336214816368562
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.02476254168404457,
+   "SH": 0.9752374583159554
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3069,
+  "ret2": 0.5901,
+  "adapter": "Dryden+Davenant",
+  "date": 1670
+ },
+ {
+  "key": "ad_tempest_1670",
+  "act": 2,
+  "scene": 0,
+  "n_words": 4802,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 0.9243301714350054,
+   "SH": 1.0756698285649917
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.595693426116503,
+   "SH": 0.40430657388349694
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0738,
+  "ret2": 0.3672,
+  "adapter": "Dryden+Davenant",
+  "date": 1670
+ },
+ {
+  "key": "ad_tempest_1670",
+  "act": 3,
+  "scene": 0,
+  "n_words": 5789,
+  "head": "ACT III.",
+  "delta": {
+   "FL": 0.8939330362532519,
+   "SH": 1.1060669637467444
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.27556478915226357,
+   "SH": 0.7244352108477365
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0923,
+  "ret2": 0.4114,
+  "adapter": "Dryden+Davenant",
+  "date": 1670
+ },
+ {
+  "key": "ad_tempest_1670",
+  "act": 4,
+  "scene": 0,
+  "n_words": 6175,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.8233020321647553,
+   "SH": 1.17669796783524
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6927664232297756,
+   "SH": 0.30723357677022445
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0041,
+  "ret2": 0.3204,
+  "adapter": "Dryden+Davenant",
+  "date": 1670
+ },
+ {
+  "key": "ad_tempest_1670",
+  "act": 5,
+  "scene": 0,
+  "n_words": 2735,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 0.9260462286326745,
+   "SH": 1.0739537713673242
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6459908115478759,
+   "SH": 0.3540091884521241
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0443,
+  "ret2": 0.3526,
+  "adapter": "Dryden+Davenant",
+  "date": 1670
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 1,
+  "scene": 1,
+  "n_words": 152,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 1.1011890486479574,
+   "SH": 0.8988109513520435
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.009547035363273105,
+   "SH": 0.9904529646367269
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2148,
+  "ret2": 0.4305,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 1,
+  "scene": 2,
+  "n_words": 482,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 1.189834401307464,
+   "SH": 0.8101655986925378
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.01764794756991479,
+   "SH": 0.9823520524300852
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2067,
+  "ret2": 0.5073,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 1,
+  "scene": 3,
+  "n_words": 354,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.1290730439456442,
+   "SH": 0.8709269560543565
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0173140665761514,
+   "SH": 0.9826859334238487
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2934,
+  "ret2": 0.5921,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 1,
+  "scene": 4,
+  "n_words": 346,
+  "head": "SCENE IV.",
+  "delta": {
+   "FL": 0.9997921937450497,
+   "SH": 1.0002078062549506
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.610362763105447,
+   "SH": 0.38963723689455293
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2274,
+  "ret2": 0.513,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 1,
+  "scene": 5,
+  "n_words": 265,
+  "head": "SCENE V.",
+  "delta": {
+   "FL": 0.9274800601195814,
+   "SH": 1.0725199398804186
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8522576193392579,
+   "SH": 0.14774238066074205
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.2197,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 1,
+  "scene": 6,
+  "n_words": 303,
+  "head": "SCENE VI.",
+  "delta": {
+   "FL": 0.9856050637437527,
+   "SH": 1.0143949362562483
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.3002563093374313,
+   "SH": 0.6997436906625687
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.01,
+  "ret2": 0.2848,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 0,
+  "n_words": 97,
+  "head": "",
+  "delta": {
+   "FL": 1.0280545436017698,
+   "SH": 0.9719454563982306
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.21120051639805096,
+   "SH": 0.7887994836019491
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.2708,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 1,
+  "n_words": 408,
+  "head": "ACT II. SCENE I.",
+  "delta": {
+   "FL": 0.986606110012394,
+   "SH": 1.0133938899876065
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.21644335297315073,
+   "SH": 0.7835566470268492
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4173,
+  "ret2": 0.6413,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 2,
+  "n_words": 109,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.9963052676468307,
+   "SH": 1.003694732353169
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9157395418078551,
+   "SH": 0.08426045819214487
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2264,
+  "ret2": 0.4907,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 3,
+  "n_words": 87,
+  "head": "SCENE III. [A banquet rises.",
+  "delta": {
+   "FL": 0.9494794217840221,
+   "SH": 1.0505205782159779
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9643627702527876,
+   "SH": 0.035637229747212465
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0833,
+  "ret2": 0.2558,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 4,
+  "n_words": 120,
+  "head": "SCENE IV. [The banquet vanishes.",
+  "delta": {
+   "FL": 0.9996917479476284,
+   "SH": 1.0003082520523714
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.01265454666389112,
+   "SH": 0.9873454533361088
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.1849,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 5,
+  "n_words": 287,
+  "head": "SCENE VI.",
+  "delta": {
+   "FL": 1.075269927231441,
+   "SH": 0.9247300727685598
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.000485372783723359,
+   "SH": 0.9995146272162765
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2711,
+  "ret2": 0.549,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 2,
+  "scene": 6,
+  "n_words": 540,
+  "head": "SCENE VII.",
+  "delta": {
+   "FL": 0.9764006606097694,
+   "SH": 1.0235993393902303
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8332637283782036,
+   "SH": 0.16673627162179638
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.121,
+  "ret2": 0.41,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 1,
+  "n_words": 202,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 1.002695107621306,
+   "SH": 0.9973048923786936
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.017531933619124952,
+   "SH": 0.9824680663808751
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3367,
+  "ret2": 0.5473,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 2,
+  "n_words": 199,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 1.2048055596079035,
+   "SH": 0.7951944403920982
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.00012162793308143627,
+   "SH": 0.9998783720669187
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4133,
+  "ret2": 0.6566,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 3,
+  "n_words": 92,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.0244881400517896,
+   "SH": 0.975511859948211
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.009855042857977359,
+   "SH": 0.9901449571420227
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3371,
+  "ret2": 0.5824,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 4,
+  "n_words": 226,
+  "head": "SCENE IV.",
+  "delta": {
+   "FL": 1.0828333418441805,
+   "SH": 0.9171666581558201
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.25745885857435846,
+   "SH": 0.7425411414256415
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4753,
+  "ret2": 0.6178,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 5,
+  "n_words": 212,
+  "head": "SCENE V.",
+  "delta": {
+   "FL": 1.0173633710997718,
+   "SH": 0.9826366289002284
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2044770527319703,
+   "SH": 0.7955229472680296
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4928,
+  "ret2": 0.7867,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 6,
+  "n_words": 78,
+  "head": "SCENE VI.",
+  "delta": {
+   "FL": 0.9454736412369212,
+   "SH": 1.0545263587630793
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8274610351971177,
+   "SH": 0.1725389648028822
+  },
+  "svm_pred": "FL",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2533,
+  "ret2": 0.4416,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_tempest_opera_1756",
+  "act": 3,
+  "scene": 7,
+  "n_words": 500,
+  "head": "SCENE VII.",
+  "delta": {
+   "FL": 1.0249783510000967,
+   "SH": 0.9750216489999031
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.21196505118377199,
+   "SH": 0.788034948816228
+  },
+  "svm_pred": "SH",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3581,
+  "ret2": 0.5431,
+  "adapter": "Garrick",
+  "date": 1756
+ },
+ {
+  "key": "ad_timon_1678",
+  "act": 1,
+  "scene": 0,
+  "n_words": 4322,
+  "head": "Timon of Athens, OR THE MAN-HATER.",
+  "delta": {
+   "FL": 0.9140609412239552,
+   "SH": 1.085939058776043
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5947053520519459,
+   "SH": 0.4052946479480541
+  },
+  "svm_pred": "FL",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0579,
+  "ret2": 0.3615,
+  "adapter": "Shadwell",
+  "date": 1678
+ },
+ {
+  "key": "ad_timon_1678",
+  "act": 2,
+  "scene": 0,
+  "n_words": 4819,
+  "head": "ACT II.",
+  "delta": {
+   "FL": 0.9412365221202444,
+   "SH": 1.0587634778797546
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.47421436358320557,
+   "SH": 0.5257856364167945
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0569,
+  "ret2": 0.3713,
+  "adapter": "Shadwell",
+  "date": 1678
+ },
+ {
+  "key": "ad_timon_1678",
+  "act": 3,
+  "scene": 0,
+  "n_words": 5126,
+  "head": "ACT III.",
+  "delta": {
+   "FL": 0.9630088951008531,
+   "SH": 1.0369911048991456
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.3313953755404598,
+   "SH": 0.6686046244595403
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0711,
+  "ret2": 0.4176,
+  "adapter": "Shadwell",
+  "date": 1678
+ },
+ {
+  "key": "ad_timon_1678",
+  "act": 4,
+  "scene": 0,
+  "n_words": 4688,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.9550426139172276,
+   "SH": 1.0449573860827712
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.3088399653870648,
+   "SH": 0.6911600346129352
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0988,
+  "ret2": 0.418,
+  "adapter": "Shadwell",
+  "date": 1678
+ },
+ {
+  "key": "ad_timon_1678",
+  "act": 5,
+  "scene": 0,
+  "n_words": 3880,
+  "head": "ACT V.",
+  "delta": {
+   "FL": 0.9798227646696659,
+   "SH": 1.0201772353303333
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.3280475952163434,
+   "SH": 0.6719524047836566
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0678,
+  "ret2": 0.3882,
+  "adapter": "Shadwell",
+  "date": 1678
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 1,
+  "scene": 1,
+  "n_words": 483,
+  "head": "ACT. I. | SCENE. I.",
+  "delta": {
+   "FL": 1.1055137027936819,
+   "SH": 0.8944862972063189
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.013939607698223444,
+   "SH": 0.9860603923017767
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.6542,
+  "ret2": 0.8465,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 1,
+  "scene": 2,
+  "n_words": 741,
+  "head": "ACT. I. | SCENE. II.",
+  "delta": {
+   "FL": 1.052535342781592,
+   "SH": 0.9474646572184088
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.020918065005848762,
+   "SH": 0.9790819349941513
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.584,
+  "ret2": 0.8189,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 1,
+  "scene": 3,
+  "n_words": 184,
+  "head": "ACT. I. | SCENE. III.",
+  "delta": {
+   "FL": 0.9971330299923024,
+   "SH": 1.0028669700076973
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.301939244220032,
+   "SH": 0.698060755779968
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.5856,
+  "ret2": 0.8087,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 1,
+  "scene": 4,
+  "n_words": 519,
+  "head": "ACT. I. | SCENE IV.",
+  "delta": {
+   "FL": 1.0274733544693346,
+   "SH": 0.9725266455306663
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.04708281542048531,
+   "SH": 0.9529171845795148
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.3837,
+  "ret2": 0.6409,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 2,
+  "scene": 1,
+  "n_words": 295,
+  "head": "ACT II. | SCENE I.",
+  "delta": {
+   "FL": 0.9827838856676963,
+   "SH": 1.017216114332304
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6367846586522378,
+   "SH": 0.3632153413477623
+  },
+  "svm_pred": "FL",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.7637,
+  "ret2": 0.8844,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 2,
+  "scene": 2,
+  "n_words": 261,
+  "head": "ACT II. | SCENE, II.",
+  "delta": {
+   "FL": 1.0495331512868449,
+   "SH": 0.9504668487131553
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.1277320330147947,
+   "SH": 0.8722679669852053
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.2962,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 2,
+  "scene": 3,
+  "n_words": 238,
+  "head": "ACT II. | SCENE. III.",
+  "delta": {
+   "FL": 1.0006844604018614,
+   "SH": 0.9993155395981386
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.4210789253624753,
+   "SH": 0.5789210746375246
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.2616,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 2,
+  "scene": 4,
+  "n_words": 276,
+  "head": "ACT II. | SCENE IV.",
+  "delta": {
+   "FL": 0.9875492167462923,
+   "SH": 1.0124507832537073
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.4994567924965937,
+   "SH": 0.5005432075034063
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0,
+  "ret2": 0.2764,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 2,
+  "scene": 5,
+  "n_words": 371,
+  "head": "ACT II. | SCENE V.",
+  "delta": {
+   "FL": 0.9862510050612778,
+   "SH": 1.0137489949387222
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.41109264516174926,
+   "SH": 0.5889073548382506
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0054,
+  "ret2": 0.227,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 2,
+  "scene": 6,
+  "n_words": 1156,
+  "head": "ACT II. | SCENE V continues.",
+  "delta": {
+   "FL": 1.1627256573207583,
+   "SH": 0.8372743426792434
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.0028174286577137496,
+   "SH": 0.9971825713422863
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.6592,
+  "ret2": 0.8338,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 3,
+  "scene": 1,
+  "n_words": 488,
+  "head": "ACT III. | SCENE I.",
+  "delta": {
+   "FL": 1.0406560787364307,
+   "SH": 0.9593439212635692
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.06295909882293915,
+   "SH": 0.9370409011770608
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.7649,
+  "ret2": 0.885,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 3,
+  "scene": 2,
+  "n_words": 310,
+  "head": "ACT III. | SCENE II.",
+  "delta": {
+   "FL": 0.9805792813333052,
+   "SH": 1.0194207186666948
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.343336943815249,
+   "SH": 0.656663056184751
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0945,
+  "ret2": 0.4142,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 3,
+  "scene": 3,
+  "n_words": 508,
+  "head": "ACT III. | SCENE III.",
+  "delta": {
+   "FL": 0.880132635942463,
+   "SH": 1.119867364057536
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9848590891501378,
+   "SH": 0.015140910849862296
+  },
+  "svm_pred": "FL",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0693,
+  "ret2": 0.3116,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 3,
+  "scene": 4,
+  "n_words": 326,
+  "head": "ACT III. | SCENE IV.",
+  "delta": {
+   "FL": 0.9185065183251209,
+   "SH": 1.0814934816748785
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.924295636508287,
+   "SH": 0.07570436349171303
+  },
+  "svm_pred": "FL",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0186,
+  "ret2": 0.2923,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 3,
+  "scene": 5,
+  "n_words": 799,
+  "head": "ACT III. | SCENE V.",
+  "delta": {
+   "FL": 1.0393560472127594,
+   "SH": 0.9606439527872406
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.030058400747420964,
+   "SH": 0.969941599252579
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.5264,
+  "ret2": 0.7619,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 3,
+  "scene": 6,
+  "n_words": 713,
+  "head": "ACT III. | SCENE returns to Timon's house..",
+  "delta": {
+   "FL": 1.0231468581425638,
+   "SH": 0.9768531418574369
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.026456831413530613,
+   "SH": 0.9735431685864693
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.7155,
+  "ret2": 0.8596,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 4,
+  "scene": 1,
+  "n_words": 696,
+  "head": "ACT. IV. | SCENE. I.",
+  "delta": {
+   "FL": 1.0762064092430794,
+   "SH": 0.9237935907569216
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.11433225365425248,
+   "SH": 0.8856677463457476
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0014,
+  "ret2": 0.236,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 4,
+  "scene": 2,
+  "n_words": 1661,
+  "head": "ACT. IV. | SCENE, the WOODS.",
+  "delta": {
+   "FL": 1.0722634049070137,
+   "SH": 0.9277365950929869
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.06187170667833615,
+   "SH": 0.9381282933216639
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.5585,
+  "ret2": 0.7675,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 5,
+  "scene": 1,
+  "n_words": 718,
+  "head": "ACT. V. | SCENE changes to the Walls of Athens.",
+  "delta": {
+   "FL": 1.0579875070054732,
+   "SH": 0.9420124929945269
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.17064284884798864,
+   "SH": 0.8293571511520114
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.2909,
+  "ret2": 0.5202,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 5,
+  "scene": 2,
+  "n_words": 896,
+  "head": "ACT. V. | SCENE, changes to a street in Athens.",
+  "delta": {
+   "FL": 1.026826749317205,
+   "SH": 0.973173250682796
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.17962699407280322,
+   "SH": 0.8203730059271968
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0022,
+  "ret2": 0.2648,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_timon_1772",
+  "act": 5,
+  "scene": 3,
+  "n_words": 1231,
+  "head": "ACT. V. | SCENE.",
+  "delta": {
+   "FL": 1.112779494097559,
+   "SH": 0.887220505902443
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.04977273746204149,
+   "SH": 0.9502272625379586
+  },
+  "svm_pred": "SH",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0016,
+  "ret2": 0.2569,
+  "adapter": "Cumberland",
+  "date": 1772
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 1,
+  "scene": 1,
+  "n_words": 434,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 1.1074338797471028,
+   "SH": 0.8925661202528976
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.07631455529070026,
+   "SH": 0.9236854447092997
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.6937,
+  "ret2": 0.8568,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 1,
+  "scene": 2,
+  "n_words": 1000,
+  "head": "ACT I. Scene II.",
+  "delta": {
+   "FL": 1.1808788962939056,
+   "SH": 0.8191211037060958
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.031641478097973595,
+   "SH": 0.9683585219020264
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3771,
+  "ret2": 0.6256,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 1,
+  "scene": 3,
+  "n_words": 954,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 1.1284264314642178,
+   "SH": 0.8715735685357842
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.1157373590986915,
+   "SH": 0.8842626409013086
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3743,
+  "ret2": 0.6474,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 2,
+  "scene": 1,
+  "n_words": 2675,
+  "head": "ACT II. Scene I.",
+  "delta": {
+   "FL": 1.067654823237611,
+   "SH": 0.9323451767623906
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.14397099220217846,
+   "SH": 0.8560290077978217
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3372,
+  "ret2": 0.6013,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 3,
+  "scene": 1,
+  "n_words": 2735,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 1.1993233990940841,
+   "SH": 0.8006766009059199
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.01972373459974004,
+   "SH": 0.9802762654002599
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.2145,
+  "ret2": 0.4879,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 4,
+  "scene": 1,
+  "n_words": 3305,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 1.183377445386603,
+   "SH": 0.8166225546133996
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.021593443926693535,
+   "SH": 0.9784065560733065
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3546,
+  "ret2": 0.6323,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_titus_1687",
+  "act": 5,
+  "scene": 1,
+  "n_words": 5864,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 1.1249285531116313,
+   "SH": 0.8750714468883718
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.08755958944296154,
+   "SH": 0.9124404105570385
+  },
+  "svm_pred": "SH",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.1708,
+  "ret2": 0.4779,
+  "adapter": "Ravenscroft",
+  "date": 1687
+ },
+ {
+  "key": "ad_trick_for_trick_1678",
+  "act": 1,
+  "scene": 1,
+  "n_words": 2959,
+  "head": "ACT III. | SCENE I.",
+  "delta": {
+   "FL": 0.7059829037070482,
+   "SH": 1.294017096292945
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.874678249818013,
+   "SH": 0.12532175018198702
+  },
+  "svm_pred": "FL",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.1773,
+  "ret2": 0.525,
+  "adapter": "DUrfey",
+  "date": 1678
+ },
+ {
+  "key": "ad_trick_for_trick_1678",
+  "act": 1,
+  "scene": 2,
+  "n_words": 725,
+  "head": "ACT III. | SCENE II.",
+  "delta": {
+   "FL": 0.7991247518112865,
+   "SH": 1.2008752481887108
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7652596155743423,
+   "SH": 0.23474038442565764
+  },
+  "svm_pred": "FL",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.1122,
+  "ret2": 0.5069,
+  "adapter": "DUrfey",
+  "date": 1678
+ },
+ {
+  "key": "ad_trick_for_trick_1678",
+  "act": 2,
+  "scene": 1,
+  "n_words": 2371,
+  "head": "ACT IV. | SCENE I.",
+  "delta": {
+   "FL": 0.7881842752149093,
+   "SH": 1.211815724785087
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8529335510753594,
+   "SH": 0.14706644892464057
+  },
+  "svm_pred": "FL",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.1829,
+  "ret2": 0.53,
+  "adapter": "DUrfey",
+  "date": 1678
+ },
+ {
+  "key": "ad_trick_for_trick_1678",
+  "act": 2,
+  "scene": 2,
+  "n_words": 2492,
+  "head": "ACT IV. | SCENE II. A Chamber.",
+  "delta": {
+   "FL": 0.7946938513047629,
+   "SH": 1.205306148695234
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7585557685707743,
+   "SH": 0.24144423142922564
+  },
+  "svm_pred": "FL",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.0566,
+  "ret2": 0.4147,
+  "adapter": "DUrfey",
+  "date": 1678
+ },
+ {
+  "key": "ad_trick_for_trick_1678",
+  "act": 3,
+  "scene": 1,
+  "n_words": 3074,
+  "head": "ACT V. | SCNE I.",
+  "delta": {
+   "FL": 0.8293674277355927,
+   "SH": 1.1706325722644053
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5898643034796155,
+   "SH": 0.4101356965203845
+  },
+  "svm_pred": "FL",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.0049,
+  "ret2": 0.4107,
+  "adapter": "DUrfey",
+  "date": 1678
+ },
+ {
+  "key": "ad_trick_for_trick_1678",
+  "act": 3,
+  "scene": 2,
+  "n_words": 2338,
+  "head": "ACT V. | SCENE II. A Chamber.",
+  "delta": {
+   "FL": 0.7540596150024389,
+   "SH": 1.2459403849975572
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.899846632133402,
+   "SH": 0.10015336786659801
+  },
+  "svm_pred": "FL",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.0111,
+  "ret2": 0.3885,
+  "adapter": "DUrfey",
+  "date": 1678
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 1,
+  "scene": 1,
+  "n_words": 804,
+  "head": "ACT I. SCENE I. A Camp.",
+  "delta": {
+   "FL": 1.1738757582525277,
+   "SH": 0.8261242417474739
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.06910087844507203,
+   "SH": 0.930899121554928
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.1186,
+  "ret2": 0.3935,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 1,
+  "scene": 2,
+  "n_words": 2222,
+  "head": "SCENE II. Troy.",
+  "delta": {
+   "FL": 0.9452567143962817,
+   "SH": 1.0547432856037176
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.20903158994103918,
+   "SH": 0.7909684100589609
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.205,
+  "ret2": 0.5709,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1512,
+  "head": "ACT II. SCENE I. Troy.",
+  "delta": {
+   "FL": 1.0129904961730436,
+   "SH": 0.987009503826957
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.17902908662723238,
+   "SH": 0.8209709133727676
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.1312,
+  "ret2": 0.4494,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 2,
+  "scene": 2,
+  "n_words": 1532,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.9138549345837443,
+   "SH": 1.0861450654162557
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.08084307211759072,
+   "SH": 0.9191569278824092
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0517,
+  "ret2": 0.4428,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 2,
+  "scene": 3,
+  "n_words": 1957,
+  "head": "SCENE III. The Camp.",
+  "delta": {
+   "FL": 1.0486273267846538,
+   "SH": 0.9513726732153466
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.12522482159566872,
+   "SH": 0.8747751784043313
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0768,
+  "ret2": 0.3676,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 3,
+  "scene": 1,
+  "n_words": 1534,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 1.0850486064009237,
+   "SH": 0.9149513935990776
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.012103825123230938,
+   "SH": 0.987896174876769
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.2913,
+  "ret2": 0.6327,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 3,
+  "scene": 2,
+  "n_words": 3686,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.9556666308074346,
+   "SH": 1.044333369192565
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.21460756524119512,
+   "SH": 0.7853924347588048
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.1187,
+  "ret2": 0.4619,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 4,
+  "scene": 1,
+  "n_words": 975,
+  "head": "ACT IV. SCENE I.",
+  "delta": {
+   "FL": 1.0206485144369202,
+   "SH": 0.979351485563081
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.09221209427536911,
+   "SH": 0.907787905724631
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.2202,
+  "ret2": 0.5339,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 4,
+  "scene": 2,
+  "n_words": 4159,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 1.0099826937917737,
+   "SH": 0.9900173062082264
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2889070276198626,
+   "SH": 0.7110929723801374
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.2067,
+  "ret2": 0.5149,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 5,
+  "scene": 1,
+  "n_words": 1504,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 1.109792476839487,
+   "SH": 0.8902075231605152
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.049193804373503666,
+   "SH": 0.9508061956264964
+  },
+  "svm_pred": "SH",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0187,
+  "ret2": 0.3387,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_troilus_1679",
+  "act": 5,
+  "scene": 2,
+  "n_words": 2709,
+  "head": "SCENE II. The Camp.",
+  "delta": {
+   "FL": 0.897453797070263,
+   "SH": 1.1025462029297353
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7471447764147963,
+   "SH": 0.25285522358520385
+  },
+  "svm_pred": "FL",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0159,
+  "ret2": 0.2914,
+  "adapter": "Dryden",
+  "date": 1679
+ },
+ {
+  "key": "ad_unhappy_kindness_1697",
+  "act": 1,
+  "scene": 0,
+  "n_words": 2890,
+  "head": "ACT I. SCENE I.",
+  "delta": {
+   "FL": 1.0136801951999623,
+   "SH": 0.986319804800038
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.4087219446677829,
+   "SH": 0.5912780553322171
+  },
+  "svm_pred": "SH",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.0031,
+  "ret2": 0.2759,
+  "adapter": "Scott",
+  "date": 1697
+ },
+ {
+  "key": "ad_unhappy_kindness_1697",
+  "act": 2,
+  "scene": 0,
+  "n_words": 3644,
+  "head": "ACT II. SCENE I.",
+  "delta": {
+   "FL": 0.8370823390090538,
+   "SH": 1.162917660990942
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7459962869168123,
+   "SH": 0.25400371308318775
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.2725,
+  "ret2": 0.555,
+  "adapter": "Scott",
+  "date": 1697
+ },
+ {
+  "key": "ad_unhappy_kindness_1697",
+  "act": 3,
+  "scene": 0,
+  "n_words": 2545,
+  "head": "ACT III. SCENE I.",
+  "delta": {
+   "FL": 0.8423048065587259,
+   "SH": 1.1576951934412707
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.5491563761741735,
+   "SH": 0.45084362382582654
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.5566,
+  "ret2": 0.7862,
+  "adapter": "Scott",
+  "date": 1697
+ },
+ {
+  "key": "ad_unhappy_kindness_1697",
+  "act": 4,
+  "scene": 0,
+  "n_words": 4343,
+  "head": "ACT IV.",
+  "delta": {
+   "FL": 0.8004205434903268,
+   "SH": 1.1995794565096674
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8449817296248521,
+   "SH": 0.15501827037514798
+  },
+  "svm_pred": "FL",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.3986,
+  "ret2": 0.6467,
+  "adapter": "Scott",
+  "date": 1697
+ },
+ {
+  "key": "ad_unhappy_kindness_1697",
+  "act": 5,
+  "scene": 0,
+  "n_words": 2805,
+  "head": "ACT. V. Scene 1st.",
+  "delta": {
+   "FL": 1.0622831306863463,
+   "SH": 0.9377168693136547
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2112185241952959,
+   "SH": 0.788781475804704
+  },
+  "svm_pred": "SH",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.1031,
+  "ret2": 0.362,
+  "adapter": "Scott",
+  "date": 1697
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 1,
+  "scene": 1,
+  "n_words": 3747,
+  "head": "ACT. I. SCEN. I.",
+  "delta": {
+   "FL": 0.9548093894294045,
+   "SH": 1.0451906105705937
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.6263602580889068,
+   "SH": 0.37363974191109317
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.3128,
+  "ret2": 0.563,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 2,
+  "scene": 1,
+  "n_words": 1500,
+  "head": "ACT. II. SCEN. I.",
+  "delta": {
+   "FL": 0.8593819212591888,
+   "SH": 1.1406180787408084
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8595391286023049,
+   "SH": 0.14046087139769523
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.4796,
+  "ret2": 0.6758,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 2,
+  "scene": 2,
+  "n_words": 1437,
+  "head": "SCENE 2 A GARDEN.",
+  "delta": {
+   "FL": 0.7650784723592262,
+   "SH": 1.2349215276407695
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9696807712327746,
+   "SH": 0.030319228767225294
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.6555,
+  "ret2": 0.8579,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 3,
+  "scene": 1,
+  "n_words": 521,
+  "head": "ACT. III. SCEN. I.",
+  "delta": {
+   "FL": 0.8688397266127876,
+   "SH": 1.13116027338721
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9087593567607891,
+   "SH": 0.09124064323921079
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.1448,
+  "ret2": 0.5019,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 3,
+  "scene": 2,
+  "n_words": 454,
+  "head": "SCENE 2. GROVE and FOREST.",
+  "delta": {
+   "FL": 1.079454936148101,
+   "SH": 0.9205450638519003
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2718991216773584,
+   "SH": 0.7281008783226416
+  },
+  "svm_pred": "SH",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0022,
+  "ret2": 0.2428,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 3,
+  "scene": 3,
+  "n_words": 1722,
+  "head": "SCENE 3. Dance of Satyrs.",
+  "delta": {
+   "FL": 1.0518918068619632,
+   "SH": 0.9481081931380381
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.6674330765685591,
+   "SH": 0.3325669234314409
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0122,
+  "ret2": 0.2493,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 3,
+  "scene": 4,
+  "n_words": 874,
+  "head": "SCENE 4.",
+  "delta": {
+   "FL": 0.9180312656936602,
+   "SH": 1.0819687343063384
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8625190964176583,
+   "SH": 0.13748090358234155
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.6028,
+  "ret2": 0.8362,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 4,
+  "scene": 1,
+  "n_words": 1829,
+  "head": "ACT. IV. SCEN. II.",
+  "delta": {
+   "FL": 0.853705282068197,
+   "SH": 1.1462947179317997
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.42393522111599297,
+   "SH": 0.576064778884007
+  },
+  "svm_pred": "SH",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.1742,
+  "ret2": 0.5268,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 4,
+  "scene": 2,
+  "n_words": 3293,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 0.7502057236032115,
+   "SH": 1.2497942763967833
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.7258933816807571,
+   "SH": 0.27410661831924293
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.4584,
+  "ret2": 0.7084,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 5,
+  "scene": 1,
+  "n_words": 642,
+  "head": "ACT V. SCENE I.",
+  "delta": {
+   "FL": 0.9780216044903188,
+   "SH": 1.0219783955096806
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.1814486175853649,
+   "SH": 0.8185513824146351
+  },
+  "svm_pred": "SH",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0031,
+  "ret2": 0.3042,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 5,
+  "scene": 2,
+  "n_words": 1341,
+  "head": "SCENE II.",
+  "delta": {
+   "FL": 0.7652726826907146,
+   "SH": 1.2347273173092796
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9875519031358808,
+   "SH": 0.01244809686411921
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.3662,
+  "ret2": 0.6149,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 5,
+  "scene": 3,
+  "n_words": 353,
+  "head": "SCENE III.",
+  "delta": {
+   "FL": 0.8478407205093375,
+   "SH": 1.1521592794906614
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.9214153433147555,
+   "SH": 0.07858465668524456
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.68,
+  "ret2": 0.875,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 5,
+  "scene": 4,
+  "n_words": 2129,
+  "head": "SCENE IV.",
+  "delta": {
+   "FL": 0.7714191697484015,
+   "SH": 1.228580830251594
+  },
+  "delta_pred": "FL",
+  "svm_prob": {
+   "FL": 0.8961584444737399,
+   "SH": 0.10384155552626007
+  },
+  "svm_pred": "FL",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.683,
+  "ret2": 0.8665,
+  "adapter": "Rochester",
+  "date": 1685
+ },
+ {
+  "key": "ad_valentinian_1685",
+  "act": 5,
+  "scene": 5,
+  "n_words": 2182,
+  "head": "SCENE V.",
+  "delta": {
+   "FL": 1.0771791003776006,
+   "SH": 0.9228208996224009
+  },
+  "delta_pred": "SH",
+  "svm_prob": {
+   "FL": 0.2415283494173351,
+   "SH": 0.758471650582665
+  },
+  "svm_pred": "SH",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0014,
+  "ret2": 0.2976,
+  "adapter": "Rochester",
+  "date": 1685
+ }
+]

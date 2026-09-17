@@ -1,0 +1,23 @@
+title: Mutation a Sonnet
+author: William Cullen Bryant
+date: c. 1821-1832
+source: https://www.gutenberg.org/ebooks/16341 (Poems by William Cullen Bryant, authorized edition, Dessau: Katz Brothers, 1854; "Poems" section = poems of 1814-1832)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+They talk of short-lived pleasure--be it so--
+Pain dies as quickly: stern, hard-featured pain
+Expires, and lets her weary prisoner go.
+The fiercest agonies have shortest reign;
+And after dreams of horror, comes again
+The welcome morning with its rays of peace;
+Oblivion, softly wiping out the stain,
+Makes the strong secret pangs of shame to cease:
+Remorse is virtue's root; its fair increase
+Are fruits of innocence and blessedness:
+Thus joy, o'erborne and bound, doth still release
+His young limbs from the chains that round him press.
+Weep not that the world changes--did it keep
+A stable, changeless state, 'twere cause indeed to weep.

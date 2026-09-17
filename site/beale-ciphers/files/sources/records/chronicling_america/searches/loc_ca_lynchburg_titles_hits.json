@@ -1,0 +1,820 @@
+{
+ "source_file": "loc_ca_lynchburg_titles.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=title&fo=json",
+ "total_hits": 4688,
+ "results_in_capture": 100,
+ "results": [
+  {
+   "date": "1863",
+   "title": "dollar weekly mirror and new hampshire journal of agriculture (manchester, n.h.) 1863-1865",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023819/"
+  },
+  {
+   "date": "1941",
+   "title": "arkansas state press (little rock, ark.) 1941-1959",
+   "state": [
+    "arkansas"
+   ],
+   "url": "http://www.loc.gov/item/sn84025840/"
+  },
+  {
+   "date": "1841",
+   "title": "south carolina temperance advocate and register of agriculture and general literature (columbia, s.c.) 1841-1851",
+   "state": [
+    "south carolina"
+   ],
+   "url": "http://www.loc.gov/item/sn95079550/"
+  },
+  {
+   "date": "1850",
+   "title": "grant county herald (lancaster, wis.) 1850-1968",
+   "state": [
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/item/sn85033133/"
+  },
+  {
+   "date": "1899",
+   "title": "the afro-american advance (minneapolis, minn. ; st. paul, minn.) 1899-19??",
+   "state": [
+    "minnesota"
+   ],
+   "url": "http://www.loc.gov/item/sn86058061/"
+  },
+  {
+   "date": "1910",
+   "title": "brownsville herald (brownsville, tex.) 1910-current",
+   "state": [
+    "texas"
+   ],
+   "url": "http://www.loc.gov/item/sn86063730/"
+  },
+  {
+   "date": "1843",
+   "title": "grant county herald (lancaster, w.t. [i.e. wis.]) 1843-1844",
+   "state": [
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/item/sn87082160/"
+  },
+  {
+   "date": "1844",
+   "title": "wisconsin herald, and grant county advertiser (lancaster, wis.) 1844-1845",
+   "state": [
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/item/sn87082161/"
+  },
+  {
+   "date": "1846",
+   "title": "wisconsin herald (lancaster, wis.) 1846-1849",
+   "state": [
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/item/sn87082162/"
+  },
+  {
+   "date": "1839",
+   "title": "south-carolina temperance advocate (columbia, s.c.) 1839-1841",
+   "state": [
+    "south carolina"
+   ],
+   "url": "http://www.loc.gov/item/sn93067937/"
+  },
+  {
+   "date": "1907",
+   "title": "the mountain eagle (whitesburg, letcher county, ky.) 1907-current",
+   "state": [
+    "kentucky"
+   ],
+   "url": "http://www.loc.gov/item/sn83025555/"
+  },
+  {
+   "date": "1865",
+   "title": "the black republican (new orleans [la.]) 1865-186?",
+   "state": [
+    "louisiana"
+   ],
+   "url": "http://www.loc.gov/item/sn83016563/"
+  },
+  {
+   "date": "1890",
+   "title": "the boston courant (boston, mass.) 1890-19??",
+   "state": [
+    "massachusetts"
+   ],
+   "url": "http://www.loc.gov/item/sn84025817/"
+  },
+  {
+   "date": "1801",
+   "title": "the monitor, or, delaware federalist (wilmington, del.) 1801-1802",
+   "state": [
+    "delaware"
+   ],
+   "url": "http://www.loc.gov/item/sn84038116/"
+  },
+  {
+   "date": "1876",
+   "title": "the teller (lewiston, north idaho) 1876-1878",
+   "state": [
+    "idaho"
+   ],
+   "url": "http://www.loc.gov/item/sn82007025/"
+  },
+  {
+   "date": "1814",
+   "title": "delaware gazette and peninsula advertiser (wilmington, del.) 1814-1820",
+   "state": [
+    "delaware"
+   ],
+   "url": "http://www.loc.gov/item/sn82014384/"
+  },
+  {
+   "date": "1884",
+   "title": "the democratic leader (cheyenne, wyo.) 1884-1887",
+   "state": [
+    "wyoming"
+   ],
+   "url": "http://www.loc.gov/item/sn88067211/"
+  },
+  {
+   "date": "1881",
+   "title": "daily inter mountain (butte, mont.) 1881-1901",
+   "state": [
+    "montana"
+   ],
+   "url": "http://www.loc.gov/item/sn85053057/"
+  },
+  {
+   "date": "1904",
+   "title": "bonners ferry herald (bonners ferry, idaho) 1904-current",
+   "state": [
+    "idaho"
+   ],
+   "url": "http://www.loc.gov/item/sn86091084/"
+  },
+  {
+   "date": "1930",
+   "title": "florida labor advocate (tampa, fla.) 1930-1958",
+   "state": [
+    "florida"
+   ],
+   "url": "http://www.loc.gov/item/sn95047430/"
+  },
+  {
+   "date": "1922",
+   "title": "la gaceta (tampa, fla.) 1922-current",
+   "state": [
+    "florida"
+   ],
+   "url": "http://www.loc.gov/item/sn86002403/"
+  },
+  {
+   "date": "1867",
+   "title": "the frontier index (kearney [i.e. fort kearny], neb.) 1867-18??",
+   "state": [
+    "wyoming",
+    "nebraska",
+    "colorado"
+   ],
+   "url": "http://www.loc.gov/item/sn84022156/"
+  },
+  {
+   "date": "1899",
+   "title": "the courier (genoa, nev.) 1899-1904",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/item/sn86091326/"
+  },
+  {
+   "date": "1892",
+   "title": "the wadsworth dispatch (wadsworth, nev.) 1892-1899",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/item/sn86076126/"
+  },
+  {
+   "date": "1899",
+   "title": "wadsworth semi-weekly dispatch (wadsworth, nev.) 1899-1904",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/item/sn86076138/"
+  },
+  {
+   "date": "1904",
+   "title": "the wadsworth dispatch (wadsworth, nev.) 1904-1904",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/item/sn86076139/"
+  },
+  {
+   "date": "1883",
+   "title": "walker lake bulletin (hawthorne, nev.) 1883-1926",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/item/sn86091319/"
+  },
+  {
+   "date": "1891",
+   "title": "daily camera (boulder, colo.) 1891-1928",
+   "state": [
+    "colorado"
+   ],
+   "url": "http://www.loc.gov/item/sn84002889/"
+  },
+  {
+   "date": "1954",
+   "title": "greenbelt news review (greenbelt, md.) 1954-current",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/item/sn89061522/"
+  },
+  {
+   "date": "1877",
+   "title": "the republican (oakland, md.) 1877-current",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/item/sn88065202/"
+  },
+  {
+   "date": "1861",
+   "title": "prescott journal (prescott, wis.) 1861-1871",
+   "state": [
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/item/sn85033221/"
+  },
+  {
+   "date": "192?",
+   "title": "the laredo times (laredo, tex.) 192?-1982",
+   "state": [
+    "texas"
+   ],
+   "url": "http://www.loc.gov/item/sn86089568/"
+  },
+  {
+   "date": "1792",
+   "title": "the phoenix (dover [n.h.]) 1792-1795",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023045/"
+  },
+  {
+   "date": "1877",
+   "title": "baptist courier (columbia, s.c.) 1877-2013",
+   "state": [
+    "south carolina"
+   ],
+   "url": "http://www.loc.gov/item/sn82004649/"
+  },
+  {
+   "date": "1826",
+   "title": "morning star (limerick, me.) 1826-1904",
+   "state": [
+    "massachusetts",
+    "maine",
+    "new hampshire",
+    "new york",
+    "illinois"
+   ],
+   "url": "http://www.loc.gov/item/sn84024361/"
+  },
+  {
+   "date": "1895",
+   "title": "congregational record and new hampshire journal (concord, n.h.) 1895-1898",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn91063284/"
+  },
+  {
+   "date": "1845",
+   "title": "watchman and observer (richmond, va.) 1845-1855",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn94059319/"
+  },
+  {
+   "date": "1837",
+   "title": "watchman of the south (richmond, va.) 1837-1845",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn91099193/"
+  },
+  {
+   "date": "1914",
+   "title": "zgoda = unity (chicago, illinois) 1914-current",
+   "state": [
+    "illinois"
+   ],
+   "url": "http://www.loc.gov/item/2017218622/"
+  },
+  {
+   "date": "1881",
+   "title": "zgoda = unity (milwaukee, wis.) 1881-1901",
+   "state": [
+    "wisconsin",
+    "illinois"
+   ],
+   "url": "http://www.loc.gov/item/sn91037345/"
+  },
+  {
+   "date": "1845",
+   "title": "the herald of freedom (concord, n.h.) 1845-1846",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn90062625/"
+  },
+  {
+   "date": "1826",
+   "title": "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+   "state": [
+    "illinois",
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/item/83642426/"
+  },
+  {
+   "date": "1897",
+   "title": "the indian leader (lawrence, kan.) 1897-????",
+   "state": [
+    "kansas"
+   ],
+   "url": "http://www.loc.gov/item/ca06001655/"
+  },
+  {
+   "date": "1880",
+   "title": "eadle keatah toh (carlisle barracks, pa.) 1880-1882",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/item/sn83025935/"
+  },
+  {
+   "date": "1888",
+   "title": "the red man (carlisle, pa.) 1888-1900",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/item/2025200871/"
+  },
+  {
+   "date": "1882",
+   "title": "the morning star (carlisle, pa.) 1882-1887",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/item/sn88084115/"
+  },
+  {
+   "date": "1962",
+   "title": "the fort apache scout (whiteriver, ariz.) 1962-current",
+   "state": [
+    "arizona"
+   ],
+   "url": "http://www.loc.gov/item/sn90051719/"
+  },
+  {
+   "date": "1902",
+   "title": "the chippeway herald (white earth, minn.) 1902-19??",
+   "state": [
+    "minnesota"
+   ],
+   "url": "http://www.loc.gov/item/2020271953/"
+  },
+  {
+   "date": "1919",
+   "title": "capital journal (salem, or.) 1919-1980",
+   "state": [
+    "oregon"
+   ],
+   "url": "http://www.loc.gov/item/sn90066132/"
+  },
+  {
+   "date": "1933",
+   "title": "midland cooperator (minneapolis, minn.) 1933-1981",
+   "state": [
+    "minnesota",
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/item/47042911/"
+  },
+  {
+   "date": "1936",
+   "title": "united automobile worker (detroit, mich.) 1936-1957",
+   "state": [
+    "michigan"
+   ],
+   "url": "http://www.loc.gov/item/42047197/"
+  },
+  {
+   "date": "1947",
+   "title": "trainman news (indianapolis, ind.) 1947-1968",
+   "state": [
+    "ohio",
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/item/56022775/"
+  },
+  {
+   "date": "1925",
+   "title": "the prison mirror (stillwater, minn.) 1925-1978",
+   "state": [
+    "minnesota"
+   ],
+   "url": "http://www.loc.gov/item/sn90060766/"
+  },
+  {
+   "date": "1820",
+   "title": "the grafton & coos intelligencer (haverhill, new hampshire) 1820-1821",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023166/"
+  },
+  {
+   "date": "1803",
+   "title": "kentucky gazette and general advertiser (lexington [ky.]) 1803-1809",
+   "state": [
+    "kentucky"
+   ],
+   "url": "http://www.loc.gov/item/sn84038147/"
+  },
+  {
+   "date": "1896",
+   "title": "grand rapids herald-review (grand rapids, itasca county, minn) 1896-current",
+   "state": [
+    "minnesota"
+   ],
+   "url": "http://www.loc.gov/item/sn82002441/"
+  },
+  {
+   "date": "19??",
+   "title": "das deutsche blatt des west virginia state college ([institute, west virginia]) 19??-????",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/item/2024270775/"
+  },
+  {
+   "date": "1930",
+   "title": "the seldovia herald (seldovia, alaska) 1930-1933",
+   "state": [
+    "alaska"
+   ],
+   "url": "http://www.loc.gov/item/sn95060105/"
+  },
+  {
+   "date": "1915",
+   "title": "the tri-county news (grand rapids, ohio) 1915-1949",
+   "state": [
+    "ohio"
+   ],
+   "url": "http://www.loc.gov/item/sn89075140/"
+  },
+  {
+   "date": "1907",
+   "title": "pocahontas star herald (pocahontas, randolph county, ark.;pocahontas, ar) 1907-current",
+   "state": [
+    "arkansas"
+   ],
+   "url": "http://www.loc.gov/item/sn89051210/"
+  },
+  {
+   "date": "1897",
+   "title": "the west virginia news (ronceverte, w. va.) 1897-1967",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn85059663/"
+  },
+  {
+   "date": "1901",
+   "title": "the advocate (charleston, w. va.) 1901-1913",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn85059812/"
+  },
+  {
+   "date": "1873",
+   "title": "the honesdale citizen (honesdale, pa.) 1873-1908",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/item/sn86053536/"
+  },
+  {
+   "date": "192?",
+   "title": "atlanta world (atlanta, ga.) 192?-1932",
+   "state": [
+    "georgia"
+   ],
+   "url": "http://www.loc.gov/item/sn85047544/"
+  },
+  {
+   "date": "1850",
+   "title": "lewisburg chronicle, and west branch farmer (lewisburg, pa.) 1850-1850",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/item/sn86083440/"
+  },
+  {
+   "date": "1906",
+   "title": "tucker democrat (parsons, w. va.) 1906-1936",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn86092319/"
+  },
+  {
+   "date": "1839",
+   "title": "the connecticut observer, and new-york congregationalist (hartford [conn.]) 1839-1840",
+   "state": [
+    "connecticut"
+   ],
+   "url": "http://www.loc.gov/item/sn85038311/"
+  },
+  {
+   "date": "1946",
+   "title": "the augusta courier (augusta, ga.) 1946-1974",
+   "state": [
+    "georgia"
+   ],
+   "url": "http://www.loc.gov/item/sn88071001/"
+  },
+  {
+   "date": "1960",
+   "title": "the atlanta inquirer (atlanta, ga.) 1960-current",
+   "state": [
+    "georgia"
+   ],
+   "url": "http://www.loc.gov/item/sn88063050/"
+  },
+  {
+   "date": "1884",
+   "title": "the manning times (manning, clarendon county, s.c.) 1884-current [online resource]",
+   "state": [
+    "south carolina"
+   ],
+   "url": "http://www.loc.gov/item/2013218963/"
+  },
+  {
+   "date": "1896",
+   "title": "the douglas miner (douglas, alaska) 1896-1897",
+   "state": [
+    "alaska"
+   ],
+   "url": "http://www.loc.gov/item/sn94050001/"
+  },
+  {
+   "date": "1890",
+   "title": "the buffalo bulletin (buffalo, johnson county, wyo.;buffalo, wy) 1890-current",
+   "state": [
+    "wyoming"
+   ],
+   "url": "http://www.loc.gov/item/sn92067106/"
+  },
+  {
+   "date": "1883",
+   "title": "puget sound weekly argus (port townsend, jefferson county, wash. terr. [wash.]) 1883-188?",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/item/sn96061107/"
+  },
+  {
+   "date": "188?",
+   "title": "weekly puget sound argus (port townsend, jefferson county, wash. terr. [wash.]) 188?-1888",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/item/sn96061108/"
+  },
+  {
+   "date": "1888",
+   "title": "puget sound weekly argus (port townsend, jefferson county, wash. terr. [wash.]) 1888-1???",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/item/sn96061109/"
+  },
+  {
+   "date": "1882",
+   "title": "puget sound argus (port townsend, w.t. [wash.]) 1882-1883",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/item/sn96061106/"
+  },
+  {
+   "date": "1899",
+   "title": "the newport miner (newport, wa) 1899-current",
+   "state": [
+    "washington",
+    "idaho"
+   ],
+   "url": "http://www.loc.gov/item/sn87008085/"
+  },
+  {
+   "date": "1900",
+   "title": "the red man and helper (carlisle, pa.) 1900-1904",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/item/2025200882/"
+  },
+  {
+   "date": "1840",
+   "title": "the amulet (hanover [n.h]) 1840-184?",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023633/"
+  },
+  {
+   "date": "1865",
+   "title": "the mirror and farmer (manchester, n.h.) 1865-1918",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023820/"
+  },
+  {
+   "date": "1883",
+   "title": "the woman's tribune ([beatrice, nebraska]) 1883-1909",
+   "state": [
+    "oregon",
+    "nebraska"
+   ],
+   "url": "http://www.loc.gov/item/sn85038008/"
+  },
+  {
+   "date": "1892",
+   "title": "hot springs weekly star (hot springs, s.d.) 1892-1917",
+   "state": [
+    "south dakota"
+   ],
+   "url": "http://www.loc.gov/item/sn96090259/"
+  },
+  {
+   "date": "1886",
+   "title": "clarksville evening chronicle (clarksville, tenn) 1886-1890",
+   "state": [
+    "tennessee"
+   ],
+   "url": "http://www.loc.gov/item/sn88061070/"
+  },
+  {
+   "date": "1862",
+   "title": "the nashville weekly union (nashville, tenn.) 1862-1866",
+   "state": [
+    "tennessee"
+   ],
+   "url": "http://www.loc.gov/item/sn85038522/"
+  },
+  {
+   "date": "1793",
+   "title": "the columbian informer, or, cheshire journal (keene, n.h.) 1793-1795",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023313/"
+  },
+  {
+   "date": "1860",
+   "title": "lamoille newsdealer (hyde park, vt.) 1860-1877",
+   "state": [
+    "vermont"
+   ],
+   "url": "http://www.loc.gov/item/sn84023428/"
+  },
+  {
+   "date": "1848",
+   "title": "the middlebury galaxy (middlebury, vt.) 1848-1850",
+   "state": [
+    "vermont"
+   ],
+   "url": "http://www.loc.gov/item/sn84023643/"
+  },
+  {
+   "date": "1838",
+   "title": "the people's press, and addison county democrat (middlebury, vt.) 1838-1841",
+   "state": [
+    "vermont"
+   ],
+   "url": "http://www.loc.gov/item/sn84023646/"
+  },
+  {
+   "date": "1841",
+   "title": "the middlebury people's press (middlebury, vt.) 1841-1843",
+   "state": [
+    "vermont"
+   ],
+   "url": "http://www.loc.gov/item/sn84023647/"
+  },
+  {
+   "date": "1843",
+   "title": "the northern galaxy, and middlebury people's press (middlebury, vt.) 1843-1844",
+   "state": [
+    "vermont"
+   ],
+   "url": "http://www.loc.gov/item/sn84023648/"
+  },
+  {
+   "date": "1844",
+   "title": "the northern galaxy (middlebury, vt.) 1844-1848",
+   "state": [
+    "vermont"
+   ],
+   "url": "http://www.loc.gov/item/sn84023649/"
+  },
+  {
+   "date": "1839",
+   "title": "amoskeag representative (manchester, n.h.) 1839-1841",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023853/"
+  },
+  {
+   "date": "1841",
+   "title": "manchester representative (manchester, n.h.) 1841-1842",
+   "state": [
+    "new hampshire"
+   ],
+   "url": "http://www.loc.gov/item/sn84023854/"
+  },
+  {
+   "date": "1778",
+   "title": "the connecticut courant, and the weekly intelligencer (hartford [conn.]) 1778-1791",
+   "state": [
+    "connecticut"
+   ],
+   "url": "http://www.loc.gov/item/sn84023855/"
+  },
+  {
+   "date": "1833",
+   "title": "indiana american (brookville, ind.) 1833-1861",
+   "state": [
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/item/sn84023881/"
+  },
+  {
+   "date": "1865",
+   "title": "indiana american (brookville, ind.) 1865-1872",
+   "state": [
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/item/sn84023882/"
+  },
+  {
+   "date": "1834",
+   "title": "the evansville journal (evansville, ind.) 1834-184?",
+   "state": [
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/item/sn84023914/"
+  },
+  {
+   "date": "1858",
+   "title": "the jasper weekly courier (jasper, ind.) 1858-1922",
+   "state": [
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/item/sn84023963/"
+  },
+  {
+   "date": "1800",
+   "title": "alexandria advertiser and commercial intelligencer (alexandria [va.]) 1800-1803",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn84024011/"
+  },
+  {
+   "date": "1803",
+   "title": "alexandria daily advertiser (alexandria [va.]) 1803-1808",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn84024012/"
+  }
+ ]
+}

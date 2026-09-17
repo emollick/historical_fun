@@ -1,0 +1,97 @@
+cipher,key,relation,start_pos_1based,length,letters,numbers
+B1,gillogly_table1,nondecreasing,11,6,CDOTTU,94 63 132 16 111 95
+B1,gillogly_table1,nondecreasing,38,5,AABBP,485 604 230 436 664
+B1,gillogly_table1,nondecreasing,44,5,AAABW,150 251 284 308 231
+B1,gillogly_table1,nondecreasing,62,5,AABPW,88 208 193 145 1
+B1,gillogly_table1,nondecreasing,84,6,AABBCC,25 485 18 436 65 84
+B1,gillogly_table1,nondecreasing,90,5,ACDDE,200 283 118 320 138
+B1,gillogly_table1,nondecreasing,113,5,BCDDL,134 92 63 246 486
+B1,gillogly_table1,nondecreasing,134,6,BTTTTT,18 64 581 34 69 128
+B1,gillogly_table1,nondecreasing,180,5,AAACP,28 170 88 4 30
+B1,gillogly_table1,nondecreasing,191,14,DEFGHIIJKLMMNO,320 37 122 113 6 140 8 120 305 42 58 461 44 106
+B1,gillogly_table1,nondecreasing,278,5,AHHTT,232 431 960 50 29
+B1,gillogly_table1,nondecreasing,323,5,AASTW,294 875 78 14 23
+B1,gillogly_table1,nondecreasing,476,5,HTTTT,936 447 55 86 34
+B1,gillogly_table1,step01,84,6,AABBCC,25 485 18 436 65 84
+B1,gillogly_table1,step01,135,5,TTTTT,64 581 34 69 128
+B1,gillogly_table1,step01,191,14,DEFGHIIJKLMMNO,320 37 122 113 6 140 8 120 305 42 58 461 44 106
+B3,gillogly_table1,nondecreasing,57,6,AABMPS,317 28 90 82 304 71
+B3,gillogly_table1,nondecreasing,74,5,EIINR,37 319 2 44 53
+B3,gillogly_table1,nondecreasing,84,5,EEHMT,37 85 107 117 64
+B3,gillogly_table1,nondecreasing,111,6,AACCTT,28 103 84 65 26 41
+B3,gillogly_table1,nondecreasing,150,7,ACCSTTT,27 21 84 35 54 109 128
+B3,gillogly_table1,nondecreasing,203,5,AGISW,81 299 314 337 351
+B3,gillogly_table1,nondecreasing,289,5,AENTT,27 33 44 50 61
+B3,gillogly_table1,nondecreasing,449,5,GITTW,127 139 34 128 129
+B3,gillogly_table1,nondecreasing,475,5,MOOOR,461 235 890 312 413
+B3,gillogly_table1,nondecreasing,494,5,AAITT,24 83 67 97 109
+B3,gillogly_table1,nondecreasing,529,5,BDMTW,134 186 175 119 213
+B3,gillogly_table1,nondecreasing,590,5,AOOOO,821 934 922 416 975
+B3,gillogly_table1,nondecreasing,604,6,AAEOST,103 116 138 164 212 218
+B1,nara_straight,nondecreasing,11,6,CDOTTU,94 63 132 16 111 95
+B1,nara_straight,nondecreasing,44,5,AAABW,150 251 284 308 231
+B1,nara_straight,nondecreasing,62,5,AABPW,88 208 193 145 1
+B1,nara_straight,nondecreasing,84,6,AABBCC,25 485 18 436 65 84
+B1,nara_straight,nondecreasing,90,5,ACDDE,200 283 118 320 138
+B1,nara_straight,nondecreasing,113,6,BCDDLU,134 92 63 246 486 682
+B1,nara_straight,nondecreasing,159,5,AAAAR,890 346 36 150 59
+B1,nara_straight,nondecreasing,180,5,AAACP,28 170 88 4 30
+B1,nara_straight,nondecreasing,191,14,DEFGHIIJKLMMNO,320 37 122 113 6 140 8 120 305 42 58 461 44 106
+B1,nara_straight,nondecreasing,278,5,AHHTT,232 431 960 50 29
+B1,nara_straight,nondecreasing,476,5,HTTTT,936 447 55 86 34
+B1,nara_straight,step01,84,6,AABBCC,25 485 18 436 65 84
+B1,nara_straight,step01,191,14,DEFGHIIJKLMMNO,320 37 122 113 6 140 8 120 305 42 58 461 44 106
+B3,nara_straight,nondecreasing,57,6,AABMPS,317 28 90 82 304 71
+B3,nara_straight,nondecreasing,74,5,EIINR,37 319 2 44 53
+B3,nara_straight,nondecreasing,84,5,EEHMT,37 85 107 117 64
+B3,nara_straight,nondecreasing,111,6,AACCTT,28 103 84 65 26 41
+B3,nara_straight,nondecreasing,150,7,ACCSTTT,27 21 84 35 54 109 128
+B3,nara_straight,nondecreasing,203,5,AGISW,81 299 314 337 351
+B3,nara_straight,nondecreasing,289,5,AENTT,27 33 44 50 61
+B3,nara_straight,nondecreasing,449,5,GITTW,127 139 34 128 129
+B3,nara_straight,nondecreasing,494,5,AAITT,24 83 67 97 109
+B3,nara_straight,nondecreasing,511,5,AAOTU,382 675 684 717 864
+B3,nara_straight,nondecreasing,529,5,BDMTW,134 186 175 119 213
+B3,nara_straight,nondecreasing,590,5,AOOOO,821 934 922 416 975
+B3,nara_straight,nondecreasing,604,6,AAEOST,103 116 138 164 212 218
+B1,pamphlet_encoder_key,nondecreasing,11,6,CDOTTU,94 63 132 16 111 95
+B1,pamphlet_encoder_key,nondecreasing,44,11,AAABBCDEFFI,150 251 284 308 231 124 211 486 225 401 370
+B1,pamphlet_encoder_key,nondecreasing,62,5,AMNPW,88 208 193 145 1
+B1,pamphlet_encoder_key,nondecreasing,67,5,CHOOO,94 73 416 918 263
+B1,pamphlet_encoder_key,nondecreasing,84,11,ABBBCCCCDDE,25 485 18 436 65 84 200 283 118 320 138
+B1,pamphlet_encoder_key,nondecreasing,113,6,BCDDEL,134 92 63 246 486 682
+B1,pamphlet_encoder_key,nondecreasing,188,17,ABCDEFGHIIJKLMMNO,147 436 195 320 37 122 113 6 140 8 120 305 42 58 461 44 106
+B1,pamphlet_encoder_key,nondecreasing,354,5,EEITT,33 191 67 104 86
+B1,pamphlet_encoder_key,nondecreasing,476,5,ETTTT,936 447 55 86 34
+B1,pamphlet_encoder_key,step01,44,10,AAABBCDEFF,150 251 284 308 231 124 211 486 225 401
+B1,pamphlet_encoder_key,step01,84,11,ABBBCCCCDDE,25 485 18 436 65 84 200 283 118 320 138
+B1,pamphlet_encoder_key,step01,113,5,BCDDE,134 92 63 246 486
+B1,pamphlet_encoder_key,step01,188,17,ABCDEFGHIIJKLMMNO,147 436 195 320 37 122 113 6 140 8 120 305 42 58 461 44 106
+B3,pamphlet_encoder_key,nondecreasing,57,6,AABMPS,317 28 90 82 304 71
+B3,pamphlet_encoder_key,nondecreasing,74,5,EIINR,37 319 2 44 53
+B3,pamphlet_encoder_key,nondecreasing,84,5,EEHMT,37 85 107 117 64
+B3,pamphlet_encoder_key,nondecreasing,111,6,AACCTT,28 103 84 65 26 41
+B3,pamphlet_encoder_key,nondecreasing,150,7,ACCSTTT,27 21 84 35 54 109 128
+B3,pamphlet_encoder_key,nondecreasing,203,5,AGISW,81 299 314 337 351
+B3,pamphlet_encoder_key,nondecreasing,289,5,AENTT,27 33 44 50 61
+B3,pamphlet_encoder_key,nondecreasing,382,5,ADTTT,216 118 29 55 109
+B3,pamphlet_encoder_key,nondecreasing,449,5,GITTW,127 139 34 128 129
+B3,pamphlet_encoder_key,nondecreasing,494,5,AAITT,24 83 67 97 109
+B3,pamphlet_encoder_key,nondecreasing,546,5,AEOOT,209 49 617 856 924
+B1,pamphlet_straight,nondecreasing,11,5,CDOTT,94 63 132 16 111
+B1,pamphlet_straight,nondecreasing,17,5,CCITW,84 341 975 14 40
+B1,pamphlet_straight,nondecreasing,62,5,AMNPW,88 208 193 145 1
+B1,pamphlet_straight,nondecreasing,192,8,EFGHIIJP,37 122 113 6 140 8 120 305
+B1,pamphlet_straight,nondecreasing,337,6,AASSSW,24 150 1000 162 286 19
+B1,pamphlet_straight,nondecreasing,354,5,EEITT,33 191 67 104 86
+B1,pamphlet_straight,step01,192,7,EFGHIIJ,37 122 113 6 140 8 120
+B3,pamphlet_straight,nondecreasing,74,5,EHINR,37 319 2 44 53
+B3,pamphlet_straight,nondecreasing,84,5,EEHMT,37 85 107 117 64
+B3,pamphlet_straight,nondecreasing,111,6,AACCTT,28 103 84 65 26 41
+B3,pamphlet_straight,nondecreasing,150,7,ACCSTTT,27 21 84 35 54 109 128
+B3,pamphlet_straight,nondecreasing,289,5,AENTT,27 33 44 50 61
+B3,pamphlet_straight,nondecreasing,363,5,AEOTT,316 245 303 86 97
+B3,pamphlet_straight,nondecreasing,382,5,ADTTT,216 118 29 55 109
+B3,pamphlet_straight,nondecreasing,449,5,GITTW,127 139 34 128 129
+B3,pamphlet_straight,nondecreasing,494,5,AAITT,24 83 67 97 109
+B3,pamphlet_straight,nondecreasing,535,5,HHOTW,312 343 264 119 186

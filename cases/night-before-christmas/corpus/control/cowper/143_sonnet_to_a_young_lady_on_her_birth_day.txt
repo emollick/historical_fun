@@ -1,0 +1,23 @@
+title: Sonnet to a Young Lady on Her Birth-Day
+author: William Cowper
+date: 1792
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+Deem not, sweet rose, that bloom'st 'midst many a thorn,
+Thy friend, tho' to a cloister's shade consign'd,
+Can e'er forget the charms he left behind,
+Or pass unheeded this auspicious morn!
+In happier days to brighter prospects born,
+O tell thy thoughtless sex, the virtuous mind,
+Like thee, content in every state may find,
+And look on Folly's pageantry with scorn.
+To steer with nicest art betwixt th' extreme
+Of idle mirth, and affectation coy;
+To blend good sense with elegance and ease;
+To bid Affliction's eye no longer stream;
+Is thine; best gift, the unfailing source of joy,
+The guide to pleasures which can never cease!

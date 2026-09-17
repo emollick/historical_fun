@@ -1,0 +1,23 @@
+title: Stanzas for Music
+author: George Gordon, Lord Byron
+date: c. 1814-1816
+source: https://www.gutenberg.org/ebooks/21811 (The Works of Lord Byron, Poetry vol. III, ed. E. H. Coleridge, London: John Murray, 1900)
+form: iambic tetrameter
+lines: 12
+attribution: certain
+notes: occasional piece (Poems 1814-1816)
+
+They say that Hope is happiness;
+But genuine Love must prize the past,
+And Memory wakes the thoughts that bless:
+They rose the first--they set the last;
+
+And all that Memory loves the most
+Was once our only Hope to be,
+And all that Hope adored and lost
+Hath melted into Memory.
+
+Alas! it is delusion all:
+The future cheats us from afar,
+Nor can we be what we recall,
+Nor dare we think on what we are.

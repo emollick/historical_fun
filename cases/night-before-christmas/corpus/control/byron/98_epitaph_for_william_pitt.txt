@@ -1,0 +1,15 @@
+title: Epitaph for William Pitt
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: anapestic dimeter
+lines: 5
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+WITH Death doomed to grapple,
+Beneath this cold slab, he
+Who lied in the Chapel
+Now lies in the Abbey.
+
+January 2, 1820.

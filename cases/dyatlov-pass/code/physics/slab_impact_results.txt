@@ -1,0 +1,121 @@
+== A. Slab impact velocity, v = sqrt(2 g s (sin a - tan(phi_bed) cos a)) ==
+alpha=21 phi_bed=22.0: v(s=1 m)=0.00  v(2 m)=0.00  v(5 m)=0.00 m/s
+alpha=21 phi_bed=17.0: v(s=1 m)=1.20  v(2 m)=1.69  v(5 m)=2.68 m/s
+alpha=23 phi_bed=22.0: v(s=1 m)=0.61  v(2 m)=0.86  v(5 m)=1.36 m/s
+alpha=23 phi_bed=17.0: v(s=1 m)=1.46  v(2 m)=2.07  v(5 m)=3.27 m/s
+alpha=25 phi_bed=22.0: v(s=1 m)=1.05  v(2 m)=1.49  v(5 m)=2.35 m/s
+alpha=25 phi_bed=17.0: v(s=1 m)=1.69  v(2 m)=2.39  v(5 m)=3.78 m/s
+alpha=28 phi_bed=22.0: v(s=1 m)=1.49  v(2 m)=2.10  v(5 m)=3.33 m/s
+alpha=28 phi_bed=17.0: v(s=1 m)=1.98  v(2 m)=2.80  v(5 m)=4.42 m/s
+alpha=30 phi_bed=22.0: v(s=1 m)=1.72  v(2 m)=2.43  v(5 m)=3.84 m/s
+alpha=30 phi_bed=17.0: v(s=1 m)=2.15  v(2 m)=3.04  v(5 m)=4.80 m/s
+
+== B. Thorax impact (fixed back), lumped model calibrated to the paper's 10 kg @ 7 m/s -> C = 0.49 ==
+calibrated k1 = 15761 N/m (c1 = 300.0 Ns/m, k3 = 1.0e+06 N/m^3): 10 kg @ 7 m/s -> C = 0.490, peak force 10.70 kN
+   NOTE: the paper (Methods, 'Impact simulations') calibrates its body modulus so that a 10 kg rigid block at 7 m/s
+   gives C = 0.49 'in line with' Kroell et al. 1974.  The Kroell fixed-back series used 19.5-23.1 kg pendulums at
+   4.9-7.2 m/s (secondary sources; the SAE report itself is paywalled and was not read), i.e. 2-2.5 x more energy.
+   With the paper's calibration point those real Kroell energies over-compress the model thorax:
+   rigid  23.1 kg @  7.2 m/s -> C = 0.70, F = 14.3 kN, AIS~6.0
+   rigid  19.5 kg @  4.9 m/s -> C = 0.53, F = 7.6 kN, AIS~6.0
+   rigid  23.1 kg @  4.9 m/s -> C = 0.58, F = 7.6 kN, AIS~6.0
+   rigid   1.6 kg @ 14.0 m/s -> C = 0.25, F = 19.1 kN, AIS~1.0
+   ALTERNATIVE calibration 23.1 kg @ 7.2 m/s -> C = 0.49: k1 = 84156 N/m (check C = 0.490, F = 11.2 kN); 10 kg @ 7 m/s then gives C = 0.29
+
+Snow blocks against the chest (contact area 0.12 m^2). F_cap = sigma_c * A:
+ volume  rho   v    sigma_c |   C    AIS  Fpeak  crushed  E_kin  E_crush   | C with the stiffer (23.1 kg) calibration
+ 0.125  400  2.0      30 | 0.41  4.1    3.1    0.0cm     100J      0J   | C_alt = 0.21
+ 0.125  400  3.0      30 | 0.57  6.0    3.6    0.0cm     225J      1J   | C_alt = 0.21
+ 0.250  400  2.0      30 | 0.57  6.0    3.3    0.0cm     200J      0J   | C_alt = 0.21
+ 0.250  400  3.0      30 | 0.60  6.0    3.6    5.3cm     450J    192J   | C_alt = 0.21
+ 0.500  400  1.0      30 | 0.45  4.9    2.1    0.0cm     100J      0J   | C_alt = 0.21
+ 0.500  400  2.0      30 | 0.60  6.0    3.6    4.8cm     400J    172J   | C_alt = 0.21
+ 0.500  400  3.0      30 | 0.60  6.0    3.6   16.7cm     900J    601J   | C_alt = 0.21
+ 0.500  400  4.0      30 | 0.60  6.0    3.6   30.2cm    1600J   1087J   | C_alt = 0.21
+ 1.000  400  2.0      30 | 0.60  6.0    3.6   11.2cm     800J    402J   | C_alt = 0.21
+ 1.000  400  3.0      30 | 0.60  6.0    3.6   24.8cm    1800J    892J   | C_alt = 0.21
+ 0.125  400  2.0     100 | 0.41  4.1    3.1    0.0cm     100J      0J   | C_alt = 0.22
+ 0.125  400  3.0     100 | 0.57  6.0    4.7    0.0cm     225J      0J   | C_alt = 0.32
+ 0.250  400  2.0     100 | 0.57  6.0    3.3    0.0cm     200J      0J   | C_alt = 0.31
+ 0.250  400  3.0     100 | 0.68  6.0   12.0    0.4cm     450J     52J   | C_alt = 0.46
+ 0.500  400  1.0     100 | 0.45  4.9    2.1    0.0cm     100J      0J   | C_alt = 0.23
+ 0.500  400  2.0     100 | 0.68  6.0   12.0    0.3cm     400J     36J   | C_alt = 0.45
+ 0.500  400  3.0     100 | 0.68  6.0   12.0    4.1cm     900J    492J   | C_alt = 0.60
+ 0.500  400  4.0     100 | 0.68  6.0   12.0    9.6cm    1600J   1148J   | C_alt = 0.61
+ 1.000  400  2.0     100 | 0.68  6.0   12.0    3.6cm     800J    429J   | C_alt = 0.60
+ 1.000  400  3.0     100 | 0.68  6.0   12.0   11.6cm    1800J   1387J   | C_alt = 0.61
+ 0.125  400  2.0     300 | 0.41  4.1    3.1    0.0cm     100J      0J   | C_alt = 0.22
+ 0.125  400  3.0     300 | 0.57  6.0    4.7    0.0cm     225J      0J   | C_alt = 0.32
+ 0.250  400  2.0     300 | 0.57  6.0    3.3    0.0cm     200J      0J   | C_alt = 0.31
+ 0.250  400  3.0     300 | 0.69  6.0   14.0    0.0cm     450J      0J   | C_alt = 0.46
+ 0.500  400  1.0     300 | 0.45  4.9    2.1    0.0cm     100J      0J   | C_alt = 0.23
+ 0.500  400  2.0     300 | 0.69  6.0   13.4    0.0cm     400J      0J   | C_alt = 0.45
+ 0.500  400  3.0     300 | 0.79  6.0   25.4    0.0cm     900J      0J   | C_alt = 0.64
+ 0.500  400  4.0     300 | 0.88  6.0   36.0    0.1cm    1600J     36J   | C_alt = 0.76
+ 1.000  400  2.0     300 | 0.78  6.0   24.2    0.0cm     800J      0J   | C_alt = 0.62
+ 1.000  400  3.0     300 | 0.88  6.0   36.0    0.8cm    1800J    275J   | C_alt = 0.79
+ 0.125  400  2.0     inf | 0.41  4.1    3.1    0.0cm     100J      0J   | C_alt = 0.22
+ 0.125  400  3.0     inf | 0.57  6.0    4.7    0.0cm     225J      0J   | C_alt = 0.32
+ 0.250  400  2.0     inf | 0.57  6.0    3.3    0.0cm     200J      0J   | C_alt = 0.31
+ 0.250  400  3.0     inf | 0.69  6.0   14.0    0.0cm     450J      0J   | C_alt = 0.46
+ 0.500  400  1.0     inf | 0.45  4.9    2.1    0.0cm     100J      0J   | C_alt = 0.23
+ 0.500  400  2.0     inf | 0.69  6.0   13.4    0.0cm     400J      0J   | C_alt = 0.45
+ 0.500  400  3.0     inf | 0.79  6.0   25.4    0.0cm     900J      0J   | C_alt = 0.64
+ 0.500  400  4.0     inf | 0.88  6.0   36.4    0.0cm    1600J      0J   | C_alt = 0.76
+ 1.000  400  2.0     inf | 0.78  6.0   24.2    0.0cm     800J      0J   | C_alt = 0.62
+ 1.000  400  3.0     inf | 0.91  6.0   39.9    0.0cm    1800J      0J   | C_alt = 0.79
+
+Threshold velocities for a 0.125 m^3, 400 kg/m^3 block (50 kg), paper calibration 10 kg@7 m/s:
+  sigma_c=   30 kPa: C>=0.2: 1.0 m/s; C>=0.3: 1.5 m/s; C>=0.34: 1.7 m/s; C>=0.4: 2.0 m/s; C>=0.49: 2.5 m/s
+  sigma_c=  100 kPa: C>=0.2: 1.0 m/s; C>=0.3: 1.5 m/s; C>=0.34: 1.7 m/s; C>=0.4: 2.0 m/s; C>=0.49: 2.5 m/s
+  sigma_c=  300 kPa: C>=0.2: 1.0 m/s; C>=0.3: 1.5 m/s; C>=0.34: 1.7 m/s; C>=0.4: 2.0 m/s; C>=0.49: 2.5 m/s
+  sigma_c=  inf kPa: C>=0.2: 1.0 m/s; C>=0.3: 1.5 m/s; C>=0.34: 1.7 m/s; C>=0.4: 2.0 m/s; C>=0.49: 2.5 m/s
+
+Threshold velocities for a 0.125 m^3, 400 kg/m^3 block (50 kg), stiffer calibration 23.1 kg@7.2 m/s:
+  sigma_c=   30 kPa: C>=0.2: 1.9 m/s; C>=0.3: never (<8 m/s); C>=0.34: never (<8 m/s); C>=0.4: never (<8 m/s); C>=0.49: never (<8 m/s)
+  sigma_c=  100 kPa: C>=0.2: 1.9 m/s; C>=0.3: 2.9 m/s; C>=0.34: 3.2 m/s; C>=0.4: 3.8 m/s; C>=0.49: 4.7 m/s
+  sigma_c=  300 kPa: C>=0.2: 1.9 m/s; C>=0.3: 2.9 m/s; C>=0.34: 3.2 m/s; C>=0.4: 3.8 m/s; C>=0.49: 4.7 m/s
+  sigma_c=  inf kPa: C>=0.2: 1.9 m/s; C>=0.3: 2.9 m/s; C>=0.34: 3.2 m/s; C>=0.4: 3.8 m/s; C>=0.49: 4.7 m/s
+
+Threshold velocities for a 0.5 m^3, 400 kg/m^3 block (200 kg), paper calibration 10 kg@7 m/s:
+  sigma_c=   30 kPa: C>=0.2: 0.5 m/s; C>=0.3: 0.7 m/s; C>=0.34: 0.8 m/s; C>=0.4: 0.9 m/s; C>=0.49: 1.2 m/s
+  sigma_c=  100 kPa: C>=0.2: 0.5 m/s; C>=0.3: 0.7 m/s; C>=0.34: 0.8 m/s; C>=0.4: 0.9 m/s; C>=0.49: 1.2 m/s
+  sigma_c=  300 kPa: C>=0.2: 0.5 m/s; C>=0.3: 0.7 m/s; C>=0.34: 0.8 m/s; C>=0.4: 0.9 m/s; C>=0.49: 1.2 m/s
+  sigma_c=  inf kPa: C>=0.2: 0.5 m/s; C>=0.3: 0.7 m/s; C>=0.34: 0.8 m/s; C>=0.4: 0.9 m/s; C>=0.49: 1.2 m/s
+
+Threshold velocities for a 0.5 m^3, 400 kg/m^3 block (200 kg), stiffer calibration 23.1 kg@7.2 m/s:
+  sigma_c=   30 kPa: C>=0.2: 0.9 m/s; C>=0.3: never (<8 m/s); C>=0.34: never (<8 m/s); C>=0.4: never (<8 m/s); C>=0.49: never (<8 m/s)
+  sigma_c=  100 kPa: C>=0.2: 0.9 m/s; C>=0.3: 1.4 m/s; C>=0.34: 1.6 m/s; C>=0.4: 1.8 m/s; C>=0.49: 2.3 m/s
+  sigma_c=  300 kPa: C>=0.2: 0.9 m/s; C>=0.3: 1.4 m/s; C>=0.34: 1.6 m/s; C>=0.4: 1.8 m/s; C>=0.49: 2.3 m/s
+  sigma_c=  inf kPa: C>=0.2: 0.9 m/s; C>=0.3: 1.4 m/s; C>=0.34: 1.6 m/s; C>=0.4: 1.8 m/s; C>=0.49: 2.3 m/s
+
+Contact pressure at the chest = F / A_contact: a 3-6 kN chest force spread over 0.12 m^2 is 25-50 kPa, i.e. of the order of the snow's own crushing strength and two to three orders of magnitude below skin-laceration pressures -- the classic 'fractures without external wounds' signature of a broad, soft, heavy impactor.
+
+== C. Quasi-static burial: chest load under H m of snow ==
+ H(m)  rho   pressure(kPa)  force on 0.12 m^2 (kN)   static C (paper calib.)   static C (stiffer calib.)
+  1.0   300       2.9         0.35                  0.11                    0.02
+  1.0   400       3.9         0.47                  0.14                    0.03
+  1.0   500       4.9         0.59                  0.17                    0.03
+  2.0   300       5.9         0.71                  0.20                    0.04
+  2.0   400       7.8         0.94                  0.26                    0.06
+  2.0   500       9.8         1.18                  0.30                    0.07
+  3.0   300       8.8         1.06                  0.28                    0.06
+  3.0   400      11.8         1.41                  0.34                    0.08
+  3.0   500      14.7         1.77                  0.40                    0.10
+  4.0   300      11.8         1.41                  0.34                    0.08
+  4.0   400      15.7         1.88                  0.42                    0.11
+  4.0   500      19.6         2.35                  0.47                    0.14
+Quasi-static chest stiffness in vivo is ~5-25 kN/m at 3-6 cm compression (CPR studies: ~400-500 N for 5 cm), and 5-6 cm CPR compressions fracture ribs in roughly a third of (mostly elderly) patients; young adults tolerate more. 3-4 m of 400 kg/m3 snow gives ~1.4-1.9 kN on a 0.12 m^2 chest: enough for 20-40 % quasi-static compression on the soft (paper) calibration, only ~10 % on the stiff one -- so a static burial of that depth can, but need not, break ribs, and does so more easily if the load is concentrated (rock or ledge under the back).
+
+== D. Skull: force available from a snow block vs. fracture tolerance ==
+Temporo-parietal fracture forces (Allsop et al. 1991, flat 5x10 cm plate / 2.54 cm disc, 10.6-12 kg drop): 2.5-10 kN, mean 5.2 kN; Yoganandan et al. 2004 review: 5.6-9.9 kN, mean 7.7 kN.
+  crushing   30 kPa over    20 cm^2 -> max force  0.06 kN
+  crushing   30 kPa over    50 cm^2 -> max force  0.15 kN
+  crushing   30 kPa over   100 cm^2 -> max force  0.30 kN
+  crushing  100 kPa over    20 cm^2 -> max force  0.20 kN
+  crushing  100 kPa over    50 cm^2 -> max force  0.50 kN
+  crushing  100 kPa over   100 cm^2 -> max force  1.00 kN
+  crushing  300 kPa over    20 cm^2 -> max force  0.60 kN
+  crushing  300 kPa over    50 cm^2 -> max force  1.50 kN
+  crushing  300 kPa over   100 cm^2 -> max force  3.00 kN
+A snow block cannot transmit more than sigma_c * A_contact; to reach 2.5-5 kN on a temporal bone the load must be concentrated (head on a hard object, e.g. a camera used as a pillow as Buyanov suggests) or the snow must be very hard.

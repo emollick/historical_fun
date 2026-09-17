@@ -1,0 +1,26 @@
+title: Hark! the Vesper Hymn Is Stealing
+author: Thomas Moore
+date: c. 1818-1827
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: trochaic tetrameter
+lines: 16
+attribution: certain
+notes: song (National Airs, 1818-1827)
+
+Hark! the vesper hymn is stealing
+O'er the waters soft and clear;
+Nearer yet and nearer pealing,
+And now bursts upon the ear:
+Jubilate, Amen.
+Farther now, now farther stealing
+Soft it fades upon the ear:
+Jubilate, Amen.
+
+Now, like moonlight waves retreating
+To the shore it dies along;
+Now, like angry surges meeting,
+Breaks the mingled tide of song
+Jubilate, Amen.
+Hush! again, like waves, retreating
+To the shore, it dies along:
+Jubilate, Amen.

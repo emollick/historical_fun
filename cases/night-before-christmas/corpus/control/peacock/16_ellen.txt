@@ -1,0 +1,17 @@
+title: Ellen
+author: Thomas Love Peacock
+date: c. 1806-1837
+source: https://archive.org/details/worksofthomaslov03peacuoft (The Works of Thomas Love Peacock, ed. Henry Cole, London: Bentley, 1875, vol. III: Poetry; OCR text)
+form: iambic pentameter
+lines: 8
+attribution: certain
+notes: OCR source (archive.org); stanza breaks approximate; poems 1806-1837; satirical/light pieces included; OCR titles may be garbled
+
+THE marble tomb, in sculptured state display'd.
+Decks the Tile earth where wealthy vice is laid;.
+But no vain pomp its hollow splendour throws,
+Where Beauty, Virtue, Innocence, repose.
+The cypress tow'rs, the waving willows weep,
+Where ELLEN sleeps the everlasting sleep,
+Where with a sigh the passing stranger sees
+The long rank grave-grass bending in the breeze.

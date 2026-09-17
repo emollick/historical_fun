@@ -1,0 +1,18 @@
+
+n=3: DF phrases absent from the play corpus: 9267
+  shelton   words= 75859 hits= 16 per1000=0.211 unique=15
+     unique: after a man; and turned a; ask him forgiveness; down in his; fear if the; his desire i; in the hollowness; much more grateful; read it here; soul he had; the hollowness of; this affair shall; where the night; wife that were; without doubt that
+  phillips  words= 70654 hits=  5 per1000=0.071 unique=3
+     unique: indulgent to their; the idols of; to have enjoyed
+  motteux   words= 71306 hits= 13 per1000=0.182 unique=10
+     unique: absence from the; but i wander; can say can; fixed his eyes; left the city; of virtue which; so i conjure; that man was; with business of; world occasion to
+  shared by all three: 
+
+n=4: DF phrases absent from the play corpus: 13560
+  shelton   words= 75859 hits= 12 per1000=0.158 unique=9
+     unique: all the time that; be not at the; for want of the; he could do the; how much more grateful; in the hollowness of; not be found in; possible that you are; that she would do
+  phillips  words= 70654 hits=  3 per1000=0.042 unique=1
+     unique: had been so kind
+  motteux   words= 71306 hits=  9 per1000=0.126 unique=4
+     unique: as pale as death; be so i conjure; so i conjure you; you can say can
+  shared by all three: 

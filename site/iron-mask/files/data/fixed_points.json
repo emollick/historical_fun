@@ -1,0 +1,64 @@
+[
+  {
+    "id": "a",
+    "label": "Arrested near Dunkirk or Calais in late July 1669; delivered to Saint-Mars at Pignerol by Captain de Vauroy on 20 to 24 August 1669; described by Louvois as 'only a valet'",
+    "documents": [
+      {"date": "1669-07-19", "who": "Louvois to Saint-Mars", "quote": "Le Roy m'ayant comandé de faire conduire à Pignerol le nommé Eustache d'Auger ... comme ce n'est qu'un valet, il ne luy en faut pas de bien considérables", "edition": "Delort, Histoire de la détention des philosophes (1829), t. I, pp. 155-157", "archive": "Arch. nat. K 120 no. 67 (Lair 1890, t. II, p. 453 n.)"},
+      {"date": "1669-07-28", "who": "Louis XIV to Vauroy; to Saint-Mars; to Piennes", "quote": "étant mal satisfait de la conduite du nommé ...., et voulant m'assurer de sa personne", "edition": "Iung, La Vérité sur le Masque de fer (1873), pp. 187-188", "archive": "Dépôt de la guerre, vol. 234, fols 271, 272, 274 (minutes; name left blank)"},
+      {"date": "1669-08-21", "who": "Saint-Mars to Louvois", "quote": "M. de Vauroy a remis entre mes mains le nommé Eustache d'Auger", "edition": "Roux-Fazillac, Recherches historiques (1801), pièces, pp. 103-104; Laloy 1913, p. 104", "archive": "not given by the editors"},
+      {"date": "1669-09-10", "who": "Louvois to Saint-Mars", "quote": "J'ay reçeu vos lettres des 24 et dernier du mois passé. Vous pouvez donner à vostre nouveau prisonnier un livre de prières", "edition": "Delort 1829, t. I, p. 157", "archive": "Arch. nat. K 120 no. 68"}
+    ]
+  },
+  {
+    "id": "b",
+    "label": "Allowed in 1675 to serve Nicolas Fouquet as a valet",
+    "documents": [
+      {"date": "1675-01-30", "who": "Louvois to Saint-Mars", "quote": "le prisonnier que le sieur de Vauroy vous a conduit", "edition": "Delort 1829, t. I, pp. 233-234", "archive": "Arch. nat. K 120"},
+      {"date": "1675-03-02", "who": "Louvois to Saint-Mars", "quote": "le prisonnier amené par le sieur de Vauroy", "edition": "Delort 1829, t. I, p. 234", "archive": "Arch. nat. K 120"}
+    ]
+  },
+  {
+    "id": "c",
+    "label": "Shut up with Fouquet's valet La Rivière after Fouquet's death (23 March 1680) as 'the two prisoners of the lower tower'",
+    "documents": [
+      {"date": "1680-04-08", "who": "Louvois to Saint-Mars", "quote": "les nommés Eustache d'Angers [Iung: Dauger] et ledit La Rivière", "edition": "Iung 1873; transcription from the original by Dabos, masque-de-fer.com", "archive": "Arch. nat. K 120 no. 302"},
+      {"date": "1681-05-12", "who": "Louvois to Saint-Mars", "quote": "les deux prisonniers de la tour d'en-bas ... vous n'avez qu'à les marquer de ce nom, sans y mettre autre chose", "edition": "Delort 1825, p. 268; Iung 1873, pp. 396-397", "archive": "Dépôt de la guerre, P. 232, v. 684 (Iung); Arch. du royaume K 129 (Delort)"}
+    ]
+  },
+  {
+    "id": "d",
+    "label": "Taken by Saint-Mars to Exilles in October 1681 as one of the two 'merles' of the lower tower, while Mattioli stayed at Pignerol",
+    "documents": [
+      {"date": "1681-06-09", "who": "Louvois to Saint-Mars", "quote": "garder sûrement les deux prisonniers de la Tour d'en bas ... vous les fassiez sortir de la citadelle de Pignerol dans une litière", "edition": "Delort 1825, p. 269; Iung 1873, p. 397", "archive": "Arch. du royaume K 129"},
+      {"date": "1681-06-25", "who": "Saint-Mars to the abbé d'Estrades", "quote": "j'aurai en garde deux merles que j'ai ici, lesquels n'ont point d'autres noms que messieurs de la tour d'en bas; Matthioli restera ici avec deux autres prisonniers", "edition": "Ravaisson, Archives de la Bastille, t. III (1866), pp. 212-213", "archive": "Bibliothèque impériale, papiers d'Estrades"},
+      {"date": "1681-07-22", "who": "Louvois to Saint-Mars", "quote": "vers les premiers jours du mois d'octobre; observant de vous conduire de manière qu'il ne paroisse point d'affectation", "edition": "Delort 1825, p. 274", "archive": "Arch. du royaume K 129"}
+    ]
+  },
+  {
+    "id": "e",
+    "label": "The survivor of the two Exilles prisoners after one died in January 1687; carried to the île Sainte-Marguerite in a covered chair, arriving 30 April 1687",
+    "documents": [
+      {"date": "1687-01-13", "who": "Louvois to Saint-Mars", "quote": "J'ai reçu votre lettre du 5 de ce mois, par laquelle j'apprends la mort d'un de vos prisonniers", "edition": "Iung 1873, p. 405", "archive": "Dépôt de la guerre, P. 231, v. 779"},
+      {"date": "1687-01-20", "who": "Saint-Mars to Louvois", "quote": "Je donnerai si bien mes ordres pour la garde de mon prisonnier ... une chaise, couverte de toile cirée, de manière qu'il auroit assez d'air sans que personne le pût voir", "edition": "Roux-Fazillac 1801, pp. 114-115; Delort 1825, p. 282; Iung 1873, pp. 405-406", "archive": "Archives des Affaires étrangères (per Lacroix)"},
+      {"date": "1687-05-03", "who": "Saint-Mars to Louvois", "quote": "Je suis arrivé ici le 30 du mois passé ... personne au monde ne l'a vu ... chacun cherche à deviner qui peut être mon prisonnier", "edition": "Iung 1873, pp. 408-409; Roux-Fazillac 1801, pp. 116-117", "archive": "not given"}
+    ]
+  },
+  {
+    "id": "f",
+    "label": "Brought by Saint-Mars to the Bastille on 18 September 1698 as 'an old prisoner he had at Pignerol', always masked",
+    "documents": [
+      {"date": "1691-08-13", "who": "Barbezieux to Saint-Mars", "quote": "du prisonnier qui est sous vostre garde depuis vingt ans", "edition": "Topin 1883, p. 333 n.; Iung 1873, p. 412", "archive": "Dépôt de la guerre, P. 246, v. 1034"},
+      {"date": "1697-11-17", "who": "Barbezieux to Saint-Mars", "quote": "sans vous expliquer à qui que ce soit de ce qu'a fait vostre ancien prisonnier", "edition": "Topin 1883, p. 353; Iung 1873, p. 418", "archive": "Dépôt de la guerre, P. 171, v. 1392"},
+      {"date": "1698-07-19", "who": "Barbezieux to Saint-Mars", "quote": "venir à la Bastille avec vostre ancien prisonnier, prenant vos précautions pour empescher qu'il ne soit veu ny conneu de personne", "edition": "Topin 1883, p. 355; Iung 1873", "archive": "Dépôt de la guerre, P. 129, v. 1432"},
+      {"date": "1698-09-18", "who": "du Junca, register of entries", "quote": "un ensien prisonnier qu'il avet à pignerol lequel il fait tenir touiours masqué dont le nom ne se dit pas", "edition": "Topin 1883, pp. 476-477; Funck-Brentano, Revue historique 56 (1894), p. 254", "archive": "Bibliothèque de l'Arsenal, ms. 5133, fol. 37 v° (F.-B.) / 57 v° (Topin)"}
+    ]
+  },
+  {
+    "id": "g",
+    "label": "Died at the Bastille on 19 November 1703; buried at Saint-Paul on 20 November as 'Marchioly', 'aged forty-five years or thereabouts'",
+    "documents": [
+      {"date": "1703-11-19", "who": "du Junca, register of exits", "quote": "le prisonnier inconeu touiours masqué d'un masque de velours noir ... est mort cejourd'huy sur les dix hures du soir", "edition": "Topin 1883, pp. 477-478; Iung 1873, p. 424", "archive": "Bibliothèque de l'Arsenal, ms. 5134, fol. 80 v°"},
+      {"date": "1703-11-20", "who": "Register of burials, Saint-Paul", "quote": "Le 19e, Marchioly, âgé de quarante-cinq ans ou environ, est décédé dans la bastille", "edition": "Funck-Brentano 1894, p. 296 (from the facsimile in Topin, 5th ed., 1878)", "archive": "original destroyed in 1871; facsimile only"}
+    ]
+  }
+]

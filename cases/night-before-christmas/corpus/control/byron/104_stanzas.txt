@@ -1,0 +1,20 @@
+title: Stanzas
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: anapestic mixed
+lines: 9
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+WHEN a man hath no freedom to fight for at home,
+Let him combat for that of his neighbours;
+Let him think of the glories of Greece and of Rome,
+And get knocked on the head for his labours.
+
+To do good to Mankind is the chivalrous plan,
+And is always as nobly requited;
+Then battle for Freedom wherever you can,
+And, if not shot or hanged, you'll get knighted.
+
+November 5, 1820.

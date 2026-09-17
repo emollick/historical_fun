@@ -1,0 +1,25 @@
+title: Sonnet Vii
+author: Robert Southey
+date: 1797
+source: https://www.gutenberg.org/ebooks/8212 (Poems, Bristol: Cottle, 1797)
+form: iambic pentameter
+lines: 15
+attribution: certain
+notes: 
+
+to the evening rainbow.
+
+Mild arch of promise! on the evening sky
+Thou shinest fair with many a lovely ray
+Each in the other melting. Much mine eye
+Delights to linger on thee; for the day,
+Changeful and many-weather'd, seem'd to smile
+Flashing brief splendor thro' its clouds awhile,
+That deepen'd dark anon and fell in rain:
+But pleasant is it now to pause, and view
+Thy various tints of frail and watery hue,
+And think the storm shall not return again.
+Such is the smile that Piety bestows
+On the good man's pale cheek, when he in peace
+Departing gently from a world of woes,
+Anticipates the realm where sorrows cease.

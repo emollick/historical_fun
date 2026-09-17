@@ -1,0 +1,312 @@
+REF ID:A69983 
+
+
+
+
+
+424 N. George tfaeon Drive 
+Arlington, Virginia 
+15 August 1949 
+
+
+
+Mr. Alfred Percy 
+Sion 1'oad 
+
+Madison Heights, Virginia 
+
+Dear Mr. fercy: . : 
+
+/ 
+
+I must hasten to acknowledge receipt of your most interesting 
+letter of 5 August and to indicate my sincere appreciation of your 
+taking the trouble to write me in such detail. 
+
+At the moment I am much engrossed with other matters and have 
+found it necessary to put off dealing rith The Beale Papers. How- 
+ever, I do not intend by any means to drop the study which I initiated 
+on them sometime ago. Should I have soon an opportunity to make a 
+visit in your neighborhood, I hope that it will include the making 
+of your personal acquaintance and discussing the matter over a dinner 
+table at which I trust that you would be sufficiently gracious to be 
+my guest. 
+
+Thanking you again for your courtesy, I am 
+
+Sincerely yours. 
+
+
+
+WILLIAM F. FRIEDMAN 
+
+
+
+/ I 
+
+
+
+Approved for Release bv MSA on 04-02-2014 pursuant to E.Q. 13529 
+
+
+
+
+
+REF ID: A699 && 
+
+
+
+
+
+
+
+424 R. George liason Drive 
+Arlington/ Virginia 
+16 June 1949 
+
+
+
+iVIrs. .artha Rivers Adams 
+c/o The News 
+Lynchburg, Virginia 
+
+Dear Krs. Adams: 
+
+I sent a, letter addressed to Ur. Alfred Percy, Jr. , at Elon, 
+N.C., and then on its return by the post office I sent it to 
+Elon, Va. The latter has also been returned and I, therefore, 
+am writing to ask you if you cannot give me a more complete 
+address so that I might reach Ur. Percy and ask him a few 
+questions. 
+
+I am enclosing a self-addressed stamped envelope for your 
+convenience in replying. 
+
+With cordial greetings, I am 
+
+Sincerely yours, 
+
+. Y7ILLIAM F. FRIFDfdAN 
+
+Incl 
+
+
+
+
+REF ID:A69%|$ 
+
+
+
+
+ttareh 23, 1943 
+
+
+
+Hr, Walter 3, Payne 
+The Todd Company 
+
+Rochester, How York . 
+
+Dear Hr, Payne: 
+
+I hopo you will forgive ry tardinoss in replying to your 
+letter of 1'arch 11. 1 know tliat you will understand how 
+
+pressed we aro, 
+
+I recall quite well that you had proposed a simple 
+cryptographic device at tho time of my contact with the 
+Todd Company in 1937, 
+
+I.Iy first impression with regard to tho possible 
+utility of a device such as you desorlbe is that it would 
+probably not bo useful because of its comparative slownoss 
+of operation. Iloroovor, I very touch doubt that it presents 
+elements of novelty in tho field. However in ordor to insure 
+that wo do not overlook anything tliat might be useful, I 
+suggest that you send the model for examination and we will 
+be glad to make a recommendation. I believe it would be 
+best if you would address tho letter and package officially 
+to the Commanding Officer, Signal Socurity Service, Arlington 
+Ball Station, Arlington, Virginia. Upon its receipt and 
+thorough examination you will be promptly informed of our 
+conclusions. 
+
+With cordial greetings to you and your associates, 1 am 
+
+Sincerely yours. 
+
+
+
+\ 
+
+
+
+William F. Friodman 
+Direotor of Communications 
+Research 
+
+
+
+REF ID : A6998; 
+
+
+
+THE TODD COMPANY 
+
+
+
+ROCHESTER v NEW YORK 
+
+March 11, 1943 
+
+
+
+Col. William F. Friedman 
+3932 Military Road 
+Washington, D. C. 
+
+Dear Col. Friedman: 
+
+Perhaps you will recall that during your visit to Rochester in 
+October 1937, when you presented your plans for a check sorting 
+machine, you met the writer of this letter, and showed a crypto- 
+graphic device on which you had applied for patent. On October 
+13, 1938 this patent was issued, bearing No. 2,144,204. 
+
+This cryptographic device showed two gears of unequal diameters, 
+having arranged around their circumferences letters and cor- 
+responding symbols. 
+
+Shortly after you were here, I conceived the idea of running two 
+photographic film tapes over sprockets arranged side by side on 
+the same shaft so that in coding a message, letters were selected 
+on one tape and corresponding symbols on the adjacent tape were 
+selected to make the code. It is obvious in this arrangement that 
+the letters on the second tape could be scrambled in an endless 
+sequence by making the tapes of a sufficient length. 
+
+During the early part of last year, a War Research Committee was 
+formed in the Rochester Chamber of Commerce, of which committee 
+I became a member. 
+
+It has occurred to me that a simple cryptographic device might 
+be of use in the communicat ion?- organizations of the Army and Navy. 
+I have made a model, elaborating somewhat on my original plan, 
+which I should be pleased to forward to you in order to get your 
+opinion on its practicability. 
+
+This model embodies four 16 mm. film sprockets fixed side by side 
+on a shaft and adapted to carry four film strips. Each film strip 
+carries a group of letters of the alphabet as shown in the ac- 
+companying sketch. In this particular instance, each group con- 
+sists of five letters. Consequently, the number of permutations 
+of each letter group could be 120; and with the four tapes the 
+possible permutations would be 120^ or 2.07 x 10 8 * 
+
+
+
+
+PROTOD'CKEENII AC unci St PFR-SAFETY CHECKS • V H K ABC St STEM • BANK SI PPL1FS • PR O T ECTOC K A I'll S • CHECK S 1 V. \ h K S 
+
+
+
+
+
+REF ID : A6 9 983 ^ 
+
+Th't iuuu CJUMPAIW 
+
+
+
+Col, William F. Friedman -2-2 
+
+
+
+Mar oh 11, 1943 
+
+
+
+The rows running across the four films can be brought into registrat- 
+ion with two stationary series of letters comprising the alphabet, 
+figures from 0 to 9, and a few punctuation marks. The stationary 
+letters, forty in all, may be divided into groups of five each and 
+the eight groups can be arranged in factorial 8 different ways 
+amounting to 40,320. With the film tapes set in proper registration 
+according to a known code number, and the stationary alphabet groups 
+also arranged according to a known code number, it would be possible 
+to obtain a very large number of settings which would be almost im- 
+possible to find by trial unless one could guess correctly certain 
+words in the message. This would be quite a remote contingency. 
+
+Inasmuch as the device which prompted this investigation was shown 
+me by you, I think it proper to take the matter up with you before 
+submitting it to the War Research Committee for their consideration. 
+
+I should consider it a favor if you would give me your frank judgment 
+on the merits of this device, and if you think that it is a waste of 
+time to put further effort on it, please do not hesitate to so advise 
+me. The model I have made, while it is quite crude, operates well 
+and you could tell by an inspection of same whether there are any 
+possibilities for a device of this nature, 
+
+I have shown this model to Mr. Walter Todd and he advised me to take 
+the matter up with you, which I am pleased to do as I rely implicitly 
+on your judgment. 
+
+Very truly yours 
+
+Chief Designer ' 
+
+Walter B. Payne 
+MB 
+
+
+
+^ ^REF ID : A69983 Q. ^ 
+
+TH* TODD COMPAm 
+
+Inter-Office Correspondence 
+
+
+
+"?w// £?<« 
+
+
+
+TO DATE FROM OFFICE 
+
+AT 
+
+ATTENTION OF -■ ” SUBJECT 
+
+1 ■ 
+
+ANSWERING YOURS OF DICTATED BY 
+
+I." 
+
+EVERY INTEROFFICE LETTER MUST HAVE A SUBJECT. WRITE OF ONLY ONE SUBJECT IN THIS LETTER. 
+
+
+
+NO faAt I fTATiON OR SIGNATURE IS NECESSARY OR DESIRED. 
+
+
+
+
+^ y ■ ; nm - i yn l ■ ■ ^ — — I ■■ M , - . ' 
+
+f 7 f to in a ussmpG Pot sahg as /a skeftbh 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+title: Sonnet
+author: Thomas Hood
+date: c. 1821-1827
+source: https://www.gutenberg.org/ebooks/15652 (The Poetical Works of Thomas Hood, ed. W. M. Rossetti, New York: A. L. Burt)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+Love, dearest Lady, such as I would speak,
+Lives not within the humor of the eye;--
+Not being but an outward phantasy,
+That skims the surface of a tinted cheek,--
+Else it would wane with beauty, and grow weak,
+As if the rose made summer,--and so lie
+Amongst the perishable things that die,
+Unlike the love which I would give and seek:
+Whose health is of no hue--to feel decay
+With cheeks' decay, that have a rosy prime.
+Love is its own great loveliness alway,
+And takes new lustre from the touch of time;
+Its bough owns no December and no May,
+But bears its blossom into Winter's clime.

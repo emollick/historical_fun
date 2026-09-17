@@ -1,0 +1,275 @@
+<title>Bixby Letter Rerun</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono&display=swap">
+<style>
+:root{--bg:#F5F6F8;--ink:#1B2230;--muted:#5C6675;--rule:#D5DAE2;--card:#FFFFFF;--lincoln:#1F4E79;--hay:#8A4B22;--ok:#2E7D5B;--diff:#7A5CB0;--okbg:#E3F1EA;--diffbg:#ECE6F6;--codebg:#EDEFF3}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#14181F;--ink:#E6E9EF;--muted:#A0A8B5;--rule:#2C3441;--card:#1C2129;--lincoln:#7FB0E0;--hay:#E0A070;--ok:#6CC59A;--diff:#B59BE0;--okbg:#1B3128;--diffbg:#2A2440;--codebg:#1C2129}}
+:root[data-theme="dark"]{--bg:#14181F;--ink:#E6E9EF;--muted:#A0A8B5;--rule:#2C3441;--card:#1C2129;--lincoln:#7FB0E0;--hay:#E0A070;--ok:#6CC59A;--diff:#B59BE0;--okbg:#1B3128;--diffbg:#2A2440;--codebg:#1C2129}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:Spectral,Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55;padding-inline:clamp(16px,4vw,32px);padding-block:2.5rem 5rem}
+.wrap{max-width:46rem;margin-inline:auto}
+.eyebrow,.chip,figcaption,table,code,pre,.meta,.ledger .k,.src{font-family:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif}
+.eyebrow{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 .6rem}
+h1{font-size:2.3rem;line-height:1.1;font-weight:600;margin:0 0 .8rem;text-wrap:balance;letter-spacing:-.01em}
+h2{font-size:1.35rem;font-weight:600;margin:2.6rem 0 .8rem;text-wrap:balance}
+h3{font-size:1.05rem;font-weight:600;margin:1.6rem 0 .5rem}
+p{margin:0 0 1rem}
+.lede{font-size:1.12rem;line-height:1.5;color:var(--ink);margin-bottom:1rem}
+.meta{font-size:.82rem;color:var(--muted);margin:0 0 2rem}
+a{color:var(--lincoln);text-decoration-thickness:1px;text-underline-offset:2px}
+.ledger{border-top:2px solid var(--ink);margin:1.2rem 0 1.4rem}
+.ledger .row{display:grid;grid-template-columns:5.2rem 1fr 11rem;gap:.4rem 1.2rem;padding:.85rem 0;border-bottom:1px solid var(--rule)}
+.ledger .k{font-size:.78rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);padding-top:.25rem}
+.ledger .q{font-weight:600}
+.ledger .r{margin:.15rem 0 0;font-size:.98rem}
+.ledger .prior{color:var(--muted);font-size:.92rem}
+.chip{display:inline-block;font-size:.7rem;letter-spacing:.05em;text-transform:uppercase;padding:.22rem .5rem;border-radius:3px;font-weight:600;line-height:1.2;white-space:nowrap;justify-self:start;align-self:start;margin-top:.15rem}
+.chip.ok{color:var(--ok);background:var(--okbg)}
+.chip.part{color:var(--diff);background:var(--diffbg)}
+@media (max-width:600px){.ledger .row{grid-template-columns:1fr}}
+.tw{overflow-x:auto;margin:1rem 0 1.4rem}
+table{border-collapse:collapse;width:100%;font-size:.84rem;line-height:1.35;font-variant-numeric:tabular-nums}
+th{text-align:left;font-weight:600;border-bottom:1.5px solid var(--ink);padding:.45rem .5rem;vertical-align:bottom}
+td{border-bottom:1px solid var(--rule);padding:.42rem .5rem;vertical-align:top}
+td.n,th.n{text-align:right}
+figure{margin:1.4rem 0 1.8rem;background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:1rem 1rem .6rem}
+figcaption{font-size:.8rem;color:var(--muted);margin-top:.5rem;line-height:1.4}
+figure h3{margin:0 0 .6rem;font-size:.95rem}
+svg.fig{width:100%;height:auto;display:block;max-width:100%}
+.fig text{font-family:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;font-size:12px;fill:var(--ink)}
+.fig .mut{fill:var(--muted)}
+.fig .grid{stroke:var(--rule);stroke-width:1}
+.bar-hay{fill:var(--hay)}
+.bar-here{fill:var(--lincoln)}
+.bar-first{fill:var(--diff)}
+.bar-base{fill:var(--muted)}
+.legend{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;font-family:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;font-size:.78rem;color:var(--muted);margin:.4rem 0 0}
+.legend i{display:inline-block;width:.8rem;height:.8rem;border-radius:2px;vertical-align:-.1rem;margin-right:.35rem}
+code{font-family:"IBM Plex Mono",Menlo,Consolas,monospace;font-size:.85em;background:var(--codebg);padding:.05em .3em;border-radius:3px}
+pre{font-family:"IBM Plex Mono",Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;background:var(--codebg);padding:.8rem 1rem;border-radius:4px;overflow-x:auto;margin:0 0 1rem}
+pre code{background:none;padding:0;font-size:inherit}
+.src{font-size:.8rem;color:var(--muted)}
+hr{border:0;border-top:1px solid var(--rule);margin:2.4rem 0}
+:focus-visible{outline:2px solid var(--lincoln);outline-offset:2px}
+</style>
+<div class="wrap">
+<p class="eyebrow">An independent check of The Bixby Letter</p>
+<h1>Bixby Letter Rerun</h1>
+<p class="lede">The Bixby letter is the condolence Abraham Lincoln signed on 21 November 1864 to Lydia Bixby of Boston, who was reported to have lost five sons in the war. No manuscript survives, and since the 1920s some have held that his secretary John Hay wrote it. In 2019 a team of forensic linguists led by Jack Grieve tested the question with a statistical method. The method, n-gram tracing, asks which of two writers' known works contains more of the letter's short strings of letters and words. By that measure the letter matched Hay's known writing more closely than Lincoln's.</p>
+<p><a href="https://historical-mysteries.netlify.app/bixby-letter/report">The Bixby Letter</a>, a report on this site, reran that study and added a test the study's authors had not run: it tested the method on prose Lincoln is known to have written in the letter's own years and in its register, the elevated prose of condolence and ceremony rather than the business notes that fill most of his papers. Under the study's design, 30 of 63 such pieces, the Gettysburg Address of 1863 among them, were attributed to Hay. A result like that should be checked by an independent implementation before it is relied on.</p>
+<p>This page is that check: a new implementation of n-gram tracing, written from the published paper without sight of the code behind The Bixby Letter (called the first implementation below), run on the same texts and then on texts chosen afresh. It asks whether the tests reproduce. It does not ask who wrote the letter.</p>
+<p>The tests reproduce, with one difference of degree. The attribution to Hay reproduces at every n-gram length the study used, and so does the method's accuracy on the two men's ordinary writings. The misattribution of Lincoln's war-time prose also reproduces, at 25 to 30 percent of pieces rather than 48. The first implementation has since traced that difference to 83,000 words of Lincoln's 1858 campaign speeches which it kept and this one left out. A run here with those speeches restored gives 27 of 63. None of the results is evidence that Lincoln wrote the letter.</p>
+<p class="meta">The page proceeds in this order: what was read and what was deliberately not read; the method as reimplemented; the writing samples; the four tests in turn (the letter, the method's accuracy on known writings, the first implementation's 63 war-time pieces, and 97 pieces chosen here); what the results do and do not show; the limits of the check; and where the code and data are.</p>
+
+<h2>The four tests at a glance</h2>
+<div class="ledger">
+<div class="row"><div class="k">Test 1</div><div><div class="q">Whether the 2019 attribution to Hay reproduces</div><p class="r">It does. The letter goes to Hay at all 17 n-gram lengths the study used, by margins (Hay's share of the letter's n-grams minus Lincoln's) of 0.002 at character length 3 to 0.145 at word length 2. Word 5 goes to Lincoln on the phrase "may be found in the", as in the study.</p><p class="prior">2019 study: all 17 to Hay. First implementation: all 17 to Hay.</p></div><span class="chip ok">Reproduces</span></div>
+<div class="row"><div class="k">Test 2</div><div><div class="q">Whether the study's validation on the two men's known writings reproduces</div><p class="r">It does in outline. Attributing each of 1,397 known texts with itself left out of its author's pool, the character vote is right for 1,380 (98.8 percent), where the study reports none wrong. The scores rise and fall with n-gram length as the study's do: useless at 1 and 2 characters, highest at 7 and 8 (F1 0.96 to 0.99 at character lengths 4 to 10, where 1.00 would be perfect), lower at longer lengths.</p><p class="prior">2019 study: 1,662 of 1,662 right by the character vote.</p></div><span class="chip ok">Reproduces, with more errors</span></div>
+<div class="row"><div class="k">Test 3</div><div><div class="q">Whether Lincoln's war-time prose is misattributed to Hay at the rate the first implementation found</div><p class="r">Partly. The misattribution appears, but in 19 of its 63 Lincoln pieces (30 percent) under the study's sample rule with 50 random sequences, and in 15 plus one tie (25 percent) under the first implementation's own rule, rather than in 30 of 63. Of its 57 Hay pieces, 2 go to Lincoln.</p><p class="prior">First implementation: 30 of 63 (48 percent); Hay 1 of 57 wrong.</p></div><span class="chip part">Reproduces at a lower rate</span></div>
+<div class="row"><div class="k">Test 4</div><div><div class="q">Whether the effect holds on Lincoln texts chosen independently</div><p class="r">It does. 27 of 97 pieces (28 percent) from 38 documents go to Hay under the study's design. With pools drawn from the same years and each parent document left out, 1 of 97 is wrong, and the letter splits 5 to 2 for Lincoln on the character vote and 9 to 8 for Hay on all 17, which is evidence for neither man.</p><p class="prior">There is no earlier figure for these pieces; they are new to this report.</p></div><span class="chip ok">Reproduces on new texts</span></div>
+</div>
+<p>The study's design misattributes Lincoln's elevated war-time prose at a rate well above its 2.6 percent error on his ordinary pre-1860 texts. The rate depends on what is in the Lincoln pool: 25, 28, 30 and 43 percent in four runs here (the last with the first implementation's 1858 speeches restored), 48 percent in the first implementation. The higher figures alone might suggest that the 2019 attribution fails validation. The numbers support only this: the attribution reproduces, and its validation does not transfer to texts of the letter's period and register, where the design misattributes between a quarter and a half of Lincoln's known pieces. The 2019 result should therefore be given little weight in either direction. The evidence does not reverse it.</p>
+
+<h2>What was read, and what was not</h2>
+<p>The following were read in full: the study, Jack Grieve, Emily Chiang, Isobelle Clarke, Hannah Gideon, Annina Heini, Andrea Nini and Emily Waibel, "Attributing the Bixby Letter using n-gram tracing", <em>Digital Scholarship in the Humanities</em> 34(3), 2019, pp. 493 to 512, in the <a href="https://pure-oai.bham.ac.uk/ws/files/53402456/Bixby_PREPRINT.pdf">accepted manuscript</a> (the version of record at academic.oup.com refused the connection); the authors' <a href="https://sites.google.com/view/grievejw/presentations">2016 and 2017 slide decks</a> and the 2017 conference abstract; and <a href="https://historical-mysteries.netlify.app/bixby-letter/report">The Bixby Letter</a> with the notes that accompany its files. From those files only data was taken: the collections of Lincoln's and Hay's writings it assembled (<code>lincoln_basler.jsonl</code>, <code>hay.jsonl</code>, <code>lapsley.jsonl</code>), its lists of test pieces (<code>register.json</code>, <code>specials.json</code>), and two cleaned essay texts, used only to check this report's own extractions of the same essays.</p>
+<p>The following were not opened, so that the two implementations stay independent: the first implementation's Python files, its results and its logs. The method here was written from the study's section 3 and sections 5 and 6, and the war-time test from the first implementation's description of its design (the 63 and 57 pieces, taken as given).</p>
+
+<h2>The method</h2>
+<p>An n-gram is a run of n consecutive characters or words. "Solemn pride" contains the character 4-grams "sole", "olem", "lemn", "emn " and so on, and the word 2-gram "solemn pride". N-gram tracing lists every distinct n-gram of one length in the questioned text, draws for each candidate a random sample from a pool of his known writing (the pools are described in the next section), and scores him by the share of the questioned text's n-grams that occur anywhere in his sample. The candidate with the larger share is taken to be the author. The idea is that a writer's habitual strings, down to spelling and punctuation, turn up in his other work more often than another writer's do.</p>
+<p>The details follow the study. Each candidate's sample is a random sequence of his texts, taken until its words reach the size of the smaller candidate's whole sample, so that the two are compared at equal length. Scores are averaged over random sequences: 50 for the letter and the war-time pieces, 10 for the validation. Word n-grams ignore case and punctuation; character n-grams are case-insensitive and keep punctuation and spaces; no n-gram crosses a sentence boundary. Two majority rules decide: at least 4 of the 7 analyses at character lengths 4 to 10, or at least 2 of the 3 at word lengths 1 to 3. A tie counts as wrong for both authors. Below, "the character vote" means the first of these rules, and a text "goes to" the candidate it is attributed to.</p>
+<p>Choices the study leaves open were decided here and are documented with the code: where sentences and words begin and end, how a text left out of its own author's sample is replaced (by the next text in the random order, so the sample keeps its size), and an option that scales the sample size (1.0 is the study's rule; 0.95, samples of 95 percent of the smaller pool, reproduces the first implementation's rule).</p>
+
+<h2>The writing samples</h2>
+<div class="tw"><table>
+<tr><th>Pool</th><th class="n">Texts</th><th class="n">Words</th><th>Built from</th></tr>
+<tr><td>Lincoln before 18 May 1860 (the study's cut-off, the day of his nomination for President), this implementation</td><td class="n">505</td><td class="n">192,404</td><td>Volume I of Roy P. Basler's <em>Collected Works of Abraham Lincoln</em> (1953), the standard edition (363 of its 410 items; dropped: documents only signed by Lincoln and items in another hand), plus Arthur Brooks Lapsley's older edition, <em>The Writings of Abraham Lincoln</em> (1905), for 1849 to 17 May 1860 (142 items; the two volumes of speeches from the 1858 Senate campaign against Stephen A. Douglas left out, see Test 3)</td></tr>
+<tr><td>Hay, everything, this implementation</td><td class="n">892</td><td class="n">499,867</td><td>Every item of at least 5 words in the Hay collection assembled for The Bixby Letter: <em>Letters of John Hay and Extracts from Diary</em> (1908), the letters printed in William Roscoe Thayer's 1915 biography, <em>Addresses of John Hay</em> (1906), his 1902 memorial address on President McKinley, his book on Spain <em>Castilian Days</em> (1871), his novel <em>The Bread-Winners</em> (1883), and his verse</td></tr>
+<tr><td class="src">The 2019 study</td><td class="n src">1,085 / 577</td><td class="n src">400,747 / 261,126</td><td class="src">Basler's volumes I to IV, from the University of Michigan's online edition (which refused this implementation's connection); Thayer's biography and four Project Gutenberg texts</td></tr>
+<tr><td class="src">The first implementation</td><td class="n src">580 / 891</td><td class="n src">243,000 / 495,000</td><td class="src">Basler's volumes I and IV plus Lapsley, the 1858 campaign speeches included; the same Hay collection</td></tr>
+</table></div>
+<p>The Lincoln side here is half the study's and a fifth smaller than the first implementation's, and the Hay side is twice the study's. Tests 1 and 2 therefore reproduce the study's result with a reconstruction of its design; they do not use its data. <code>data/pools_manifest.csv</code> lists every candidate document, whether it was kept or dropped, and the reason.</p>
+
+<h2>Test 1: the letter</h2>
+<figure>
+<h3>Hay's overlap with the letter exceeds Lincoln's at all 17 n-gram lengths the study used</h3>
+<svg class="fig" viewBox="0 0 640 354" role="img" aria-label="Hay minus Lincoln overlap at each of the 17 n-gram lengths, all positive">
+<line class="grid" x1="64.0" y1="10" x2="64.0" y2="322"/>
+<text class="mut" x="64.0" y="338" text-anchor="middle">0.00</text>
+<line class="grid" x1="236.0" y1="10" x2="236.0" y2="322"/>
+<text class="mut" x="236.0" y="338" text-anchor="middle">0.05</text>
+<line class="grid" x1="408.0" y1="10" x2="408.0" y2="322"/>
+<text class="mut" x="408.0" y="338" text-anchor="middle">0.10</text>
+<line class="grid" x1="580.0" y1="10" x2="580.0" y2="322"/>
+<text class="mut" x="580.0" y="338" text-anchor="middle">0.15</text>
+<text class="mut" x="322" y="352" text-anchor="middle">Hay minus Lincoln, share of the letter's n-gram types</text>
+<text x="56" y="27.0" text-anchor="end">word 1</text>
+<rect class="bar-hay" x="64" y="17" width="224.6" height="12" rx="1"/>
+<text class="mut" x="294.6" y="27.0">0.065</text>
+<text x="56" y="45.0" text-anchor="end">word 2</text>
+<rect class="bar-hay" x="64" y="35" width="497.8" height="12" rx="1"/>
+<text class="mut" x="567.8" y="45.0">0.145</text>
+<text x="56" y="63.0" text-anchor="end">word 3</text>
+<rect class="bar-hay" x="64" y="53" width="162.7" height="12" rx="1"/>
+<text class="mut" x="232.7" y="63.0">0.047</text>
+<text x="56" y="81.0" text-anchor="end">char 3</text>
+<rect class="bar-hay" x="64" y="71" width="7.6" height="12" rx="1"/>
+<text class="mut" x="77.6" y="81.0">0.002</text>
+<text x="56" y="99.0" text-anchor="end">char 4</text>
+<rect class="bar-hay" x="64" y="89" width="46.4" height="12" rx="1"/>
+<text class="mut" x="116.4" y="99.0">0.013</text>
+<text x="56" y="117.0" text-anchor="end">char 5</text>
+<rect class="bar-hay" x="64" y="107" width="135.9" height="12" rx="1"/>
+<text class="mut" x="205.9" y="117.0">0.040</text>
+<text x="56" y="135.0" text-anchor="end">char 6</text>
+<rect class="bar-hay" x="64" y="125" width="269.4" height="12" rx="1"/>
+<text class="mut" x="339.4" y="135.0">0.078</text>
+<text x="56" y="153.0" text-anchor="end">char 7</text>
+<rect class="bar-hay" x="64" y="143" width="314.1" height="12" rx="1"/>
+<text class="mut" x="384.1" y="153.0">0.091</text>
+<text x="56" y="171.0" text-anchor="end">char 8</text>
+<rect class="bar-hay" x="64" y="161" width="295.2" height="12" rx="1"/>
+<text class="mut" x="365.2" y="171.0">0.086</text>
+<text x="56" y="189.0" text-anchor="end">char 9</text>
+<rect class="bar-hay" x="64" y="179" width="312.4" height="12" rx="1"/>
+<text class="mut" x="382.4" y="189.0">0.091</text>
+<text x="56" y="207.0" text-anchor="end">char 10</text>
+<rect class="bar-hay" x="64" y="197" width="343.3" height="12" rx="1"/>
+<text class="mut" x="413.3" y="207.0">0.100</text>
+<text x="56" y="225.0" text-anchor="end">char 11</text>
+<rect class="bar-hay" x="64" y="215" width="289.3" height="12" rx="1"/>
+<text class="mut" x="359.3" y="225.0">0.084</text>
+<text x="56" y="243.0" text-anchor="end">char 12</text>
+<rect class="bar-hay" x="64" y="233" width="235.0" height="12" rx="1"/>
+<text class="mut" x="305.0" y="243.0">0.068</text>
+<text x="56" y="261.0" text-anchor="end">char 13</text>
+<rect class="bar-hay" x="64" y="251" width="214.0" height="12" rx="1"/>
+<text class="mut" x="284.0" y="261.0">0.062</text>
+<text x="56" y="279.0" text-anchor="end">char 14</text>
+<rect class="bar-hay" x="64" y="269" width="160.0" height="12" rx="1"/>
+<text class="mut" x="230.0" y="279.0">0.046</text>
+<text x="56" y="297.0" text-anchor="end">char 15</text>
+<rect class="bar-hay" x="64" y="287" width="132.1" height="12" rx="1"/>
+<text class="mut" x="202.1" y="297.0">0.038</text>
+<text x="56" y="315.0" text-anchor="end">char 16</text>
+<rect class="bar-hay" x="64" y="305" width="99.4" height="12" rx="1"/>
+<text class="mut" x="169.4" y="315.0">0.029</text>
+</svg>
+<figcaption>Figure 1. Hay's overlap with the letter minus Lincoln's at the 17 n-gram lengths of the 2019 study, under the study's design with 50 random sequences and a sample size of 192,404 words. Character lengths 1 and 2 tie at 100 percent; word 4 and character 17 to 20 go to Hay; word 5 goes to Lincoln by 0.003. Made for this report from this implementation's Test 1 results (<code>results/test1_letter_by_type.csv</code>).</figcaption>
+</figure>
+<p>The first implementation reports the same 17 to Hay, character 3 by 0.00004 and the rest by 0.01 to 0.14. The margins here are 0.04 to 0.10 at character lengths 5 to 12 and 0.145 at word 2, against its 0.04 to 0.10 and 0.14. The same 17 go to Hay under the first implementation's 0.95 sample rule with 10 sequences.</p>
+
+<h2>Test 2: the study's validation</h2>
+<p>All 1,397 pool texts, each attributed with itself removed from its author's pool (the study's leave-one-out validation), 10 random sequences, 25 n-gram lengths. The score is F1, which combines how many of an author's texts are recovered with how many of the texts assigned to him are his; 1.00 is perfect. The table sets this implementation's scores beside the study's Tables 3 and 4.</p>
+<div class="tw"><table>
+<tr><th>Length</th><th class="n">Hay F1 here</th><th class="n">Hay F1 study</th><th class="n">Lincoln F1 here</th><th class="n">Lincoln F1 study</th><th class="n">Accuracy here</th><th class="n">Accuracy study</th></tr>
+<tr><td>word 1</td><td class="n">0.97</td><td class="n">0.93</td><td class="n">0.95</td><td class="n">0.95</td><td class="n">0.96</td><td class="n">0.94</td></tr>
+<tr><td>word 2</td><td class="n">0.98</td><td class="n">0.94</td><td class="n">0.97</td><td class="n">0.97</td><td class="n">0.98</td><td class="n">0.96</td></tr>
+<tr><td>word 3</td><td class="n">0.97</td><td class="n">0.91</td><td class="n">0.94</td><td class="n">0.95</td><td class="n">0.95</td><td class="n">0.93</td></tr>
+<tr><td>word 4</td><td class="n">0.92</td><td class="n">0.80</td><td class="n">0.87</td><td class="n">0.92</td><td class="n">0.89</td><td class="n">0.85</td></tr>
+<tr><td>word 5</td><td class="n">0.85</td><td class="n">0.55</td><td class="n">0.77</td><td class="n">0.85</td><td class="n">0.76</td><td class="n">0.68</td></tr>
+<tr><td>char 1</td><td class="n">0.17</td><td class="n">0.59</td><td class="n">0.10</td><td class="n">0.21</td><td class="n">0.08</td><td class="n">0.23</td></tr>
+<tr><td>char 2</td><td class="n">0.66</td><td class="n">0.74</td><td class="n">0.73</td><td class="n">0.70</td><td class="n">0.58</td><td class="n">0.58</td></tr>
+<tr><td>char 3</td><td class="n">0.95</td><td class="n">0.89</td><td class="n">0.94</td><td class="n">0.88</td><td class="n">0.93</td><td class="n">0.85</td></tr>
+<tr><td>char 4</td><td class="n">0.98</td><td class="n">0.94</td><td class="n">0.96</td><td class="n">0.96</td><td class="n">0.97</td><td class="n">0.95</td></tr>
+<tr><td>char 5</td><td class="n">0.98</td><td class="n">0.95</td><td class="n">0.96</td><td class="n">0.97</td><td class="n">0.97</td><td class="n">0.96</td></tr>
+<tr><td>char 6</td><td class="n">0.98</td><td class="n">0.96</td><td class="n">0.97</td><td class="n">0.97</td><td class="n">0.98</td><td class="n">0.97</td></tr>
+<tr><td>char 7</td><td class="n">0.99</td><td class="n">0.96</td><td class="n">0.98</td><td class="n">0.98</td><td class="n">0.98</td><td class="n">0.98</td></tr>
+<tr><td>char 8</td><td class="n">0.99</td><td class="n">0.96</td><td class="n">0.98</td><td class="n">0.98</td><td class="n">0.99</td><td class="n">0.98</td></tr>
+<tr><td>char 9</td><td class="n">0.99</td><td class="n">0.96</td><td class="n">0.97</td><td class="n">0.98</td><td class="n">0.98</td><td class="n">0.97</td></tr>
+<tr><td>char 10</td><td class="n">0.98</td><td class="n">0.95</td><td class="n">0.97</td><td class="n">0.97</td><td class="n">0.97</td><td class="n">0.97</td></tr>
+<tr><td>char 12</td><td class="n">0.97</td><td class="n">0.93</td><td class="n">0.95</td><td class="n">0.96</td><td class="n">0.96</td><td class="n">0.96</td></tr>
+<tr><td>char 16</td><td class="n">0.94</td><td class="n">0.86</td><td class="n">0.90</td><td class="n">0.94</td><td class="n">0.92</td><td class="n">0.91</td></tr>
+<tr><td>char 20</td><td class="n">0.89</td><td class="n">0.71</td><td class="n">0.84</td><td class="n">0.90</td><td class="n">0.85</td><td class="n">0.80</td></tr>
+</table></div>
+<p>The character vote at lengths 4 to 10 is wrong for 17 texts of 1,397 (F1 0.99 for Hay, 0.98 for Lincoln); the study reports all 1,662 of its texts right. The word vote at lengths 1 to 3 is wrong for 25. The 13 Lincoln texts the character vote misses are an 1830 appraisal signed with others, a reporter's third-person account of an 1836 speech, a 70-word note, the 1842 eulogy on Benjamin Ferguson, the 1842 Temperance Address, two letters about poetry and the verse "The Bear Hunt", a 617-word letter to Mary Todd Lincoln, a letter to John D. Johnston, the reported Rock Island Bridge argument, a 109-word letter, and the verse "To Linnie". The 4 Hay texts are a 27-word note and three official letters to senators. The study's authors removed doubtful documents by hand, which would take out several of these. Per-text margins are in <code>results/test2_loo_margins.csv</code>.</p>
+
+<h2>Test 3: Lincoln's war-time prose, the first implementation's pieces</h2>
+<p>The first implementation cut 63 pieces of about 150 words from 30 documents Lincoln wrote in 1861 to 1865 in the letter's register (condolence, ceremony, elevated public prose), and 57 pieces from Hay's prose of the same kind: his two magazine essays of 1861 on officers killed early in the war, "Ellsworth" (Atlantic Monthly, July) and "Colonel Baker" (Harper's, December), and the one condolence letter of his own from the war years that survives in print, 55 words from 1864. Those 120 pieces were taken as given and attributed under the study's design. No parent document is in either pool.</p>
+<div class="tw"><table>
+<tr><th>Run</th><th class="n">Lincoln pieces to Hay, character vote</th><th class="n">Lincoln pieces to Hay, all 17</th><th class="n">Hay pieces to Lincoln, character vote</th></tr>
+<tr><td>This implementation, the study's sample rule, 50 sequences</td><td class="n">19 of 63 (30%)</td><td class="n">7 of 63 (11%)</td><td class="n">2 of 57</td></tr>
+<tr><td>This implementation, the first implementation's 0.95 rule, 10 sequences</td><td class="n">15 of 63 plus 1 tie (25%)</td><td class="n">7 of 63</td><td class="n">2 of 57</td></tr>
+<tr><td>The first implementation, its own code</td><td class="n">30 of 63 (48%)</td><td class="n">not reported</td><td class="n">1 of 57</td></tr>
+</table></div>
+<p>The method fails at the short character lengths. Accuracy on the Lincoln pieces at character lengths 4, 5 and 6 is 0.29, 0.25 and 0.44, rising to 0.67 to 0.89 at lengths 7 to 10 and 0.87 to 0.90 at 11 to 16. The first implementation reports 21 to 38 percent at lengths 4 to 6 and the same recovery at long lengths. Both pieces of the Gettysburg Address and both pieces of the Ellsworth letter (Lincoln's 1861 condolence to the parents of Colonel Elmer Ellsworth) go to Hay in this implementation, as they did in the first. The McCullough letter (his 1862 condolence to Fanny McCullough) goes to Lincoln in this implementation, 4 votes to 3, and to Hay in the first. Every piece with its 25 margins is in <code>results/test3_pieces.csv</code>.</p>
+<p><a href="https://historical-mysteries.netlify.app/bixby-letter/report">The Bixby Letter</a>, section 4, ran each implementation's code on the other's pool and traces the gap to the Lincoln pool; the code is not the cause. The first implementation keeps 19 items from Lapsley's third and fourth volumes, 83,000 words of Lincoln's speeches in the 1858 Senate campaign and his side of the seven debates with Stephen A. Douglas, which this implementation had left out because Lapsley prints a letter of Douglas's and his questions among them. By that report's figures, its code on this implementation's pool gives 19 of 63, and this implementation's code on its pool gives 26. The mechanism it describes is the sample rule: adding the speeches enlarges both candidates' samples by the same 84,000 words, and the extra words of Hay's mixed prose cover more of a condolence letter's strings than the extra words of Lincoln's stump oratory do. Restoring those items to the Lincoln pool here (521 texts, 275,806 words) and rerunning with this implementation's own code sends 27 of the 63 pieces to Hay under the study's rule with 50 sequences, so the pool difference accounts for the gap (<code>results/summary_debates.txt</code>). The letter itself still goes to Hay under that pool, by the character vote 7 to 0 and at 16 of the 17 lengths with one tie.</p>
+<figure>
+<h3>Lincoln's known texts attributed to Hay by the character vote</h3>
+<svg class="fig" viewBox="0 0 660 272" role="img" aria-label="Share of Lincoln's known texts attributed to Hay in 7 settings">
+<line class="grid" x1="300.0" y1="10" x2="300.0" y2="240"/>
+<text class="mut" x="300.0" y="256" text-anchor="middle">0%</text>
+<line class="grid" x1="348.0" y1="10" x2="348.0" y2="240"/>
+<text class="mut" x="348.0" y="256" text-anchor="middle">10%</text>
+<line class="grid" x1="396.0" y1="10" x2="396.0" y2="240"/>
+<text class="mut" x="396.0" y="256" text-anchor="middle">20%</text>
+<line class="grid" x1="444.0" y1="10" x2="444.0" y2="240"/>
+<text class="mut" x="444.0" y="256" text-anchor="middle">30%</text>
+<line class="grid" x1="492.0" y1="10" x2="492.0" y2="240"/>
+<text class="mut" x="492.0" y="256" text-anchor="middle">40%</text>
+<line class="grid" x1="540.0" y1="10" x2="540.0" y2="240"/>
+<text class="mut" x="540.0" y="256" text-anchor="middle">50%</text>
+<text x="290" y="26.0" text-anchor="end">First implementation</text>
+<text class="mut" x="290" y="39.0" text-anchor="end">its 63 pieces, its code</text>
+<rect class="bar-first" x="300" y="21" width="228.5" height="18" rx="1"/>
+<text class="mut" x="534.5" y="33.0">48% (30 of 63)</text>
+<text x="290" y="58.0" text-anchor="end">This implementation, same 63 pieces</text>
+<text class="mut" x="290" y="71.0" text-anchor="end">the study's sample rule, 50 sequences</text>
+<rect class="bar-here" x="300" y="53" width="145.0" height="18" rx="1"/>
+<text class="mut" x="451.0" y="65.0">30% (19 of 63)</text>
+<text x="290" y="90.0" text-anchor="end">This implementation, same 63 pieces</text>
+<text class="mut" x="290" y="103.0" text-anchor="end">the first implementation's 0.95 rule, 10 sequences</text>
+<rect class="bar-here" x="300" y="85" width="121.9" height="18" rx="1"/>
+<text class="mut" x="427.9" y="97.0">25% (16 of 63, one a tie)</text>
+<text x="290" y="122.0" text-anchor="end">This implementation, same 63 pieces</text>
+<text class="mut" x="290" y="135.0" text-anchor="end">the 1858 speeches restored to the Lincoln pool</text>
+<rect class="bar-here" x="300" y="117" width="205.7" height="18" rx="1"/>
+<text class="mut" x="511.7" y="129.0">43% (27 of 63)</text>
+<text x="290" y="154.0" text-anchor="end">This implementation, 97 pieces chosen here</text>
+<text class="mut" x="290" y="167.0" text-anchor="end">the study's design</text>
+<rect class="bar-here" x="300" y="149" width="133.4" height="18" rx="1"/>
+<text class="mut" x="439.4" y="161.0">28% (27 of 97)</text>
+<text x="290" y="186.0" text-anchor="end">The study's design on Lincoln's pre-1860 texts</text>
+<text class="mut" x="290" y="199.0" text-anchor="end">leave-one-out, Test 2</text>
+<rect class="bar-base" x="300" y="181" width="12.5" height="18" rx="1"/>
+<text class="mut" x="318.5" y="193.0">2.6% (13 of 505)</text>
+<text x="290" y="218.0" text-anchor="end">Pools of 1861 to 1865, parent document left out</text>
+<text class="mut" x="290" y="231.0" text-anchor="end">Test 4, design B</text>
+<rect class="bar-base" x="300" y="213" width="4.8" height="18" rx="1"/>
+<text class="mut" x="310.8" y="225.0">1.0% (1 of 97)</text>
+</svg>
+<div class="legend"><span><i class="bar-first"></i>First implementation</span><span><i class="bar-here"></i>This implementation</span><span><i class="bar-base"></i>Reference rates</span></div>
+<figcaption>Figure 2. Share of Lincoln's known texts attributed to Hay in each setting. The rows above the reference rates are Lincoln's prose of 1861 to 1865 under the 2019 study's design. The first reference rate is the design's error on his pre-1860 texts (Test 2); the second is Test 4's design B, pools of 1861 to 1865 with each piece's parent document left out. Made for this report from this implementation's results (Tests 2, 3 and 4) and, for the first row, from The Bixby Letter, section 4.</figcaption>
+</figure>
+
+<h2>Test 4: texts chosen here</h2>
+<p>Lincoln: 38 documents of 1861 to 1865 chosen for register (condolence, ceremony, personal and elevated public prose), cut at sentence boundaries into 97 pieces of about 145 words, at most five per document. Nineteen of the 38 are also among the first implementation's 30 documents, because Lincoln left few texts in this register; 19 are not (among them the speech at Independence Hall in 1861, the close of the First Inaugural, the letter to the workingmen of Manchester in 1863, the public letters to Erastus Corning and James C. Conkling of 1863, the speech at the Philadelphia Sanitary Fair in 1864, the remarks to the 166th Ohio Regiment, the reply to the Baltimore committee that presented a Bible, and the last public address of April 1865). Hay: the two 1861 essays cut afresh from their sources, "Ellsworth" from Project Gutenberg text 11154 and "Colonel Baker" from the Internet Archive's scan of Harper's volume 24, 76 pieces; his 55-word condolence of 1864; and, as prose of the same years but not the same register, 185 pieces from his 110 letters and diary entries of 1861 to 1865 of at least 100 words. Every document and its source is in <code>data/test4_sources.csv</code>.</p>
+<div class="tw"><table>
+<tr><th>Design</th><th class="n">Lincoln pieces wrong, character vote</th><th class="n">Hay essay pieces wrong</th><th class="n">Hay letters and diary wrong</th></tr>
+<tr><td>A: the study's pools (Lincoln before 1860, all of Hay)</td><td class="n">27 of 97 (28%); 11 by all 17</td><td class="n">4 of 76 (5%)</td><td class="n">1 of 185 (1%)</td></tr>
+<tr><td>B: pools of 1861 to 1865 built from these documents, parent left out (Lincoln 38 documents, 14,168 words; Hay 113 documents, 38,506 words)</td><td class="n">1 of 97 (1%)</td><td class="n">7 of 76 (9%)</td><td class="n">8 of 185 (4%)</td></tr>
+<tr><td>B2: as B, Hay side limited to the essays and the condolence (11,166 words)</td><td class="n">2 of 97 (2%)</td><td class="n">7 of 76 (9%)</td><td class="n">not tested</td></tr>
+</table></div>
+<p>Under design A the Lincoln documents with wrong pieces include the farewell at Springfield in 1861, the Ellsworth letter (both pieces), the Manchester letter (3 of 4), the Philadelphia fair speech (3 of 3), the 166th Ohio remarks (2 of 2), the Baltimore Sanitary Fair speech of 1864, the Second Inaugural of 1865 and the Conkling letter (2 of 5 each), and the Gettysburg Address (1 of 2). Under designs B and B2 the letter splits (B: 5 to 2 for Lincoln at character lengths 4 to 10, 9 to 8 for Hay over all 17; B2: 4 to 3 and 10 to 7), Hay's own condolence goes to Lincoln, and the four letters Hay is known to have drafted for Lincoln's signature (to George H. Boker in 1863, to Charles Butler in 1864, and to John F. Driggs and William Lloyd Garrison in 1865) go to Lincoln 7 to 0, 7 to 0, 6 to 1 and 7 to 0. Under design A those four go Hay, Hay, Lincoln, Lincoln, and the condolence goes to Hay 7 to 0.</p>
+
+<h2>What the results do and do not show</h2>
+<p>Test 1 shows that the study's attribution is a stable property of its design. The same result is obtained with a fresh implementation, with a Lincoln pool half the study's size drawn partly from a different edition, and with a Hay corpus assembled from different books. It does not show that the design gives correct attributions for texts of the letter's kind.</p>
+<p>Test 2 shows that the method separates the two men's ordinary writings about as well as the study says. Its residual errors fall on Lincoln's verse, eulogy, temperance oratory and private letters, which is the direction of the register effect seen in the next two tests.</p>
+<p>Tests 3 and 4 show that the design's accuracy on Lincoln's elevated prose of 1861 to 1865 is far below its accuracy on his ordinary texts, and that the loss is confined to short character n-grams. They do not fix the size of the effect: 25 to 30 percent here on the first implementation's pieces, 28 percent on pieces chosen independently, 48 percent in the first implementation's run, and the composition of the Lincoln pool moves it. The method stays right for at least half of these pieces and for 89 percent of the votes over all 17 lengths, so "fails validation" would overstate what the numbers show.</p>
+<p>Design B shows that pools drawn from the same years separate the two men in this register too, on very small pools. It does not turn the letter's split under those pools into evidence for Lincoln, because the method under those pools also calls Hay's known writing for Lincoln's signature "Lincoln".</p>
+<p>The study's authors had noted the register problem themselves. Their 2016 slides say that they had "not looked at detail at the effect of ... register variation" (slide 15) and "also need to test sensitivity to register variation" (slide 54). The first implementation was the first to test it, and this page finds the same effect at a lower rate.</p>
+
+<h2>Limits</h2>
+<p>The study's own corpora could not be obtained, so the Lincoln pool here is 192,000 words against the study's 401,000, and 106,000 of those words are Lapsley's printed text rather than Basler's text edited from the manuscripts. The Hay corpus differs from the study's in source and size. Only the accepted manuscript of the study was read; the published version could not be downloaded. The rules for splitting text into words and sentences are this implementation's own, and the letter counts 138 words here against the study's 139.</p>
+<p>The first implementation's 63 and 57 pieces were used as given. Their selection, cutting and OCR were not checked beyond the two essays, where this report's own extractions matched to within nine words in 6,975. Test 4's Lincoln texts overlap the first implementation's by 19 documents, and a fully disjoint set does not exist for this register. Design B's pools are small, so its long n-gram overlaps are near zero and its votes rest on character lengths 4 to 10.</p>
+
+<h2>Code and data</h2>
+<p>Everything here can be rerun. The folder <code>independent-rerun</code>, kept with the files of The Bixby Letter, holds <code>README.md</code> (the same results with every table), <code>code/ngt.py</code> (the implementation) with the scripts that build the pools and run the four tests, <code>data/</code> (the pools, the manifest of every candidate document, the two lists of test pieces, and Test 4's documents with their sources), <code>results/</code> (summaries, per-piece CSV tables, raw JSON) and <code>notes/paper_notes.md</code> (reading notes on the study and the two slide decks, with page references). The random-number seeds are fixed, so a rerun repeats these results exactly. Python 3.11 with numpy:</p>
+<pre><code>cd code
+python3 build_pools.py
+python3 run_tests.py letter --nseq 50 --workers 4
+python3 run_tests.py loo --workers 3
+python3 run_tests.py summary
+python3 test4_build.py &amp;&amp; python3 test4_run.py all
+python3 export_tables.py</code></pre>
+<hr>
+<p class="src">This page is an independent check of one part of The Bixby Letter: whether that report's stylometric tests reproduce.</p>
+</div>

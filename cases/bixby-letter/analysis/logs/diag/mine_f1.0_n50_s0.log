@@ -1,0 +1,96 @@
+mine sizes {'lincoln': (580, 242957), 'hay': (891, 495338)} frac 1.0 nseq 50 seed 0 target 242957
+  w1 done in 3.1s
+  w2 done in 8.7s
+  w3 done in 12.1s
+  c3 done in 11.9s
+  c4 done in 27.0s
+  c5 done in 45.7s
+  c6 done in 66.5s
+  c7 done in 61.7s
+  c8 done in 57.5s
+  c9 done in 71.4s
+  c10 done in 60.9s
+  c11 done in 67.4s
+  c12 done in 69.9s
+  c13 done in 60.8s
+  c14 done in 76.2s
+  c15 done in 74.7s
+  c16 done in 70.2s
+{
+ "lincoln": {
+  "n": 63,
+  "wrong_c4_10": 29,
+  "ties": 0,
+  "wrong_all17": 11,
+  "wrong_ids": [
+   "basler-VII-0654#0 L1/H6",
+   "basler-VII-0654#2 L2/H5",
+   "basler-VII-0654#4 L3/H4",
+   "basler-VII-0765 L0/H7",
+   "basler-VIII-0657 L3/H4",
+   "L6-0134 L2/H5",
+   "L6-0135#3 L1/H6",
+   "L6-0135#5 L3/H4",
+   "L6-0204#0 L3/H4",
+   "L6-0204#1 L3/H4",
+   "L6-0204#3 L0/H7",
+   "L6-0204#5 L3/H4",
+   "L6-0232#0 L2/H5",
+   "L6-0232#1 L3/H4",
+   "L6-0294#0 L2/H5",
+   "L6-0476 L3/H4",
+   "L6-0481 L2/H5",
+   "L7-0276#0 L3/H4",
+   "L7-0276#1 L1/H6",
+   "L7-0276#2 L3/H4",
+   "sp_gettysburg#0 L1/H6",
+   "sp_gettysburg#1 L1/H6",
+   "sp_second_inaugural#2 L1/H6",
+   "sp_second_inaugural#3 L0/H7",
+   "sp_second_inaugural#4 L0/H7",
+   "sp_mccullough L1/H6",
+   "sp_ellsworth#0 L0/H7",
+   "sp_ellsworth#1 L1/H6",
+   "sp_gurney#0 L2/H5"
+  ]
+ },
+ "hay": {
+  "n": 57,
+  "wrong_c4_10": 3,
+  "ties": 0,
+  "wrong_all17": 5,
+  "wrong_ids": [
+   "hay_ellsworth_15 L4/H3",
+   "hay_baker_06 L4/H3",
+   "hay_baker_07 L5/H2"
+  ]
+ },
+ "bixby": {
+  "c4_10": {
+   "hay": 7
+  },
+  "all17": {
+   "hay": 16,
+   "tie": 1
+  },
+  "margins": {
+   "w1": -0.0698,
+   "w2": -0.1339,
+   "w3": -0.0494,
+   "c3": 0.0,
+   "c4": -0.0135,
+   "c5": -0.0398,
+   "c6": -0.0737,
+   "c7": -0.0932,
+   "c8": -0.0977,
+   "c9": -0.1028,
+   "c10": -0.0988,
+   "c11": -0.0781,
+   "c12": -0.0526,
+   "c13": -0.0467,
+   "c14": -0.0328,
+   "c15": -0.0273,
+   "c16": -0.0203
+  }
+ }
+}

@@ -1,0 +1,26 @@
+title: Peace Be Thine
+author: Winthrop Mackworth Praed
+date: c. 1823-1839
+source: https://www.gutenberg.org/ebooks/71008 (The Poems of Winthrop Mackworth Praed [selected], ed. Frederick Cooper, London: Walter Scott)
+form: iambic tetrameter
+lines: 16
+attribution: certain
+notes: light verse (vers de societe)
+
+When Sorrow moves with silent tread
+Around some mortal’s buried dust,
+And muses on the mouldering dead
+Who sleep beneath their crumbling bust,
+Though all unheard and all unknown
+The name on that sepulchral stone,
+She looks on its recording line,
+And whispers kindly, “Peace be thine!”
+
+O Lady! me thou knowest not,
+And what I am, or am to be;
+The pain and pleasure of my lot
+Are nought, and must be nought, to thee;
+Thou seest not my hopes and fears;
+Yet thou, perhaps, in other years,
+Wilt look on this recording line,
+And whisper kindly, “Peace be thine!”

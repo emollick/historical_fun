@@ -1,0 +1,496 @@
+{
+ "source_file": "loc_ca_virginian_washington_1822_23.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1823-10-31&fa=location_state:virginia%7Clocation_city:lynchburg&fo=json&ops=AND&qs=washington+tavern&searchType=advanced&start_date=1822-08-01",
+ "total_hits": 61,
+ "results_in_capture": 61,
+ "results": [
+  {
+   "date": "1822-09-20",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-09-20/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-05-13",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-13/ed-1/?sp=4"
+  },
+  {
+   "date": "1822-09-20",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-09-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-09-02",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-09-02/ed-1/?sp=4"
+  },
+  {
+   "date": "1822-08-20",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-08-20/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-04-18",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-18/ed-1/?sp=3"
+  },
+  {
+   "date": "1822-09-06",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-09-06/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-08-12",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-12/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-05-16",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-16/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-05-23",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-23/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-08-08",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-08/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-01-21",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-01-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-05-20",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-20/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-08-08",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-08/ed-1/?sp=3"
+  },
+  {
+   "date": "1822-09-13",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-09-13/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-08-05",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-05/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-05-02",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-02/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-05-30",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-30/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-04-04",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-04/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-08-19",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-19/ed-1/?sp=4"
+  },
+  {
+   "date": "1822-11-29",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-11-29/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-06-13",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-06-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-01-07",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-01-07/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-01-31",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-01-31/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-05-09",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-09/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-09-08",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-09-08/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-03-21",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-03-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-01-10",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-01-10/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-03-28",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-03-28/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-06-06",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-06-06/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-08-26",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-26/ed-1/?sp=1"
+  },
+  {
+   "date": "1822-10-11",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-10-11/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-04-29",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-29/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-04-25",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-25/ed-1/?sp=4"
+  },
+  {
+   "date": "1822-11-08",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-11-08/ed-1/?sp=2"
+  },
+  {
+   "date": "1823-07-29",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-07-29/ed-1/?sp=2"
+  },
+  {
+   "date": "1823-05-06",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-06/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-04-22",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-22/ed-1/?sp=3"
+  },
+  {
+   "date": "1822-09-13",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-09-13/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-03-07",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-03-07/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-07-08",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-07-08/ed-1/?sp=2"
+  },
+  {
+   "date": "1823-09-02",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-09-02/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-01-03",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-01-03/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-02-28",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-02-28/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-05-09",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-09/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-08-05",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-05/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-10-31",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-10-31/ed-1/?sp=3"
+  },
+  {
+   "date": "1822-08-06",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-08-06/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-04-04",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-04/ed-1/?sp=4"
+  },
+  {
+   "date": "1822-10-22",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-10-22/ed-1/?sp=3"
+  },
+  {
+   "date": "1823-08-15",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-15/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-05-06",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-05-06/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-06-10",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-06-10/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-06-17",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-06-17/ed-1/?sp=3"
+  },
+  {
+   "date": "1822-10-22",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1822-10-22/ed-1/?sp=2"
+  },
+  {
+   "date": "1823-08-19",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-19/ed-1/?sp=1"
+  },
+  {
+   "date": "1823-04-11",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-04-11/ed-1/?sp=2"
+  },
+  {
+   "date": "1823-06-20",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-06-20/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-10-10",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-10-10/ed-1/?sp=2"
+  },
+  {
+   "date": "1823-06-17",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-06-17/ed-1/?sp=4"
+  },
+  {
+   "date": "1823-08-12",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1823-08-12/ed-1/?sp=1"
+  }
+ ]
+}

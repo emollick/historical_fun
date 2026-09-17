@@ -1,0 +1,170 @@
+QUERY: "krampachtige houding" AND date within "1947-06-01 1949-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "marshall eilanden" AND date within "1948-01-01 1948-04-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "marshall-eilanden" AND date within "1948-01-01 1948-04-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: elsevier AND "raadsel van de zee" | collection: DDD_artikel | numberOfRecords: 1 
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+
+QUERY: "nimmer zal prijsgeven" | collection: DDD_artikel | numberOfRecords: 46 
+1939/03/20 | Het nieuws van den dag voor Nederlandsch-Indië | p1 | ddd:010227059:mpeg21:a0002 | Om te Onthouden!. | KB C55
+1979/12/29 | Nederlands dagblad : gereformeerd gezinsblad / hoofdred. P. Jongeling ... [et al.] | p3 | ddd:010572979:mpeg21:a0054 | Egypte hekelt verklaring Israël over West Bank | Nederlands Dagblad
+1969/06/09 | Het Rotterdamsch parool | p1 | MMSARO03:259063007:mpeg21:a00005 | SPANJE SLUIT GRENS NIET GIBRALTAR AF Vergelding voor grondwet | Stadsarchief Rotterdam
+1931/10/15 | De Telegraaf | p14 | ddd:110569292:mpeg21:a0350 | GOUDEN STANDAARD IN Z.-AFRIKA. | KB C 98
+1927/08/15 | De Maasbode | p | MMKB04:000196167:mpeg21:a0055 | DUITSCHLAND. FRANKRIJK EN DUITSCHLAND. | Koninklijke Bibliotheek
+1935/06/12 | Het nieuws van den dag voor Nederlandsch-Indië | p17 | ddd:010230432:mpeg21:a0272 | Spanningen. | KB C55
+1969/06/10 | Nederlands dagblad : gereformeerd gezinsblad / hoofdred. P. Jongeling ... [et al.] | p1 | ddd:010554695:mpeg21:a0007 | Spanje sluit gehele grens met Gibraltar | Nederlands Dagblad
+1971/04/07 | Nederlands dagblad : gereformeerd gezinsblad / hoofdred. P. Jongeling ... [et al.] | p4 | ddd:010558441:mpeg21:a0065 | Beroep Hoessein op kerken Gevechten in Amman | Nederlands Dagblad
+1979/12/28 | Het vrĳe volk : democratisch-socialistisch dagblad | p6 | ddd:010960385:mpeg21:a0176 | Kritiek van Egypte op Begins politiek | Gemeentearchief Rotterdam
+1935/06/04 | De Indische courant | p5 | ddd:010284861:mpeg21:a0120 | Spanningen. | KB C 248
+1956/01/16 | De Telegraaf | p3 | ddd:110586297:mpeg21:a0088 | WAAKZAAM ZIJN | KB C 98
+1935/11/29 | Nieuwsblad van Friesland : Hepkema's courant | p1 | ddd:010760921:mpeg21:a0118 | Duitschland. HITLER OVER DE VRAGEN VAN DEN DAG. De strijd tegen het bolsjewisme. De positi | Tresoar
+1952/04/12 | De locomotief : Samarangsch handels- en advertentie-blad | p1 | ddd:011177556:mpeg21:a0020 | Laatste Nieuws Weer een dorp in Malakka collectief gestraft | Koninklijk Instituut voor de Tropen (KIT
+1935/12/03 | Emmer courant | p5 | MMGEM01:163317045:mpeg21:a00037 | Buitenland. | Gemeente Emmen
+1967/01/17 | De waarheid | p3 | ddd:010373131:mpeg21:a0046 | Schipper Doesburg seinde vanuit Helgoland SPEURACTIE GESTAAKT | KB C 157
+1955/09/06 | Limburgsch dagblad | p3 | ddd:010418563:mpeg21:a0093 | DR. HOUBEN SPRAK | Sociaal Historisch centrum voor Limburg 
+1940/07/13 | De Volkskrant | p | ABCDDD:010845558:mpeg21:a0094 | HONGARIJE KRIJGT ZIJN RECHT „Ereplaats in nieuw Europa” Geen nieuwsgierige vragen EINDE VA | Koninklijke Bibliotheek
+1955/09/06 | Limburgsch dagblad | p3 | ddd:011027608:mpeg21:a0092 | DR. HOUBEN SPRAK | Sociaal Historisch centrum voor Limburg 
+1928/09/21 | Utrechtsch provinciaal en stedelijk dagblad | p3 | MMUTRA04:253226036:mpeg21:a00063 | INGEZONDEN STUKKEN | Het Utrechts Archief
+1971/09/04 | De tĳd : dagblad voor Nederland | p6 | ddd:011235919:mpeg21:a0232 | Hervormingen | Koninklijke Bibliotheek C 236
+1939/03/20 | Bataviaasch nieuwsblad | p1 | ddd:010864533:mpeg21:a0007 | Chamberlain verontwaardigd SCHERPE REDE TE BIRMINGHAM | Koninklijk Instituut voor de Tropen (KIT
+1908/05/16 | Het vaderland | p3 | MMKB23:001485114:mpeg21:a00036 | VEREENIGINGEN | Koninklijke Bibliotheek
+1969/06/09 | Limburgsch dagblad | p1 | ddd:010561117:mpeg21:a0009 | 1500 toeristen opgesloten in afgegrendelde havenstad | KB C 101
+1934/08/18 | De Tĳd : godsdienstig-staatkundig dagblad | p5 | ddd:010535870:mpeg21:a0008 | Hitler spreekt te Hamburg Groote demonstraties der bevolking op den Adolf Hitler-Platz Een | KB C 236
+1909/12/04 | Het volk : dagblad voor de arbeiderspartij | p2 | ddd:010021470:mpeg21:a0009 | De politieke crisis in Engeland. | KB NBM Mfm MMK 0032 [Microfilm]
+1980/01/19 | Nieuwsblad van het Noorden | p30 | ddd:011018933:mpeg21:a0528 | Stuurman aan wal door dr. Peter Hofstede Sluier | Groninger archieven
+1955/09/06 | Dagblad voor Noord-Limburg | p1 | MMCC02:211171056:mpeg21:a00013 | Koninklijke verankering tussen Limburg en Oranje Onderzeeboot jager „Limburg5” door prinse | Centre Céramique
+1918/03/04 | De Indiër | p3 | MMKB27:017945047:mpeg21:a00014 | Zelfbestuurders. | Koninklijke Bibliotheek
+1946/08/12 | Trouw | p | ABCDDD:010936768:mpeg21:a0045 | Palestina | Koninklijke Bibliotheek
+1926/08/19 | Nieuwe Venlosche courant | p | MMGAVL01:000013435:mpeg21:a0001 | Trein en autobus. | Gemeentearchief Venlo
+1887/04/03 | Algemeen Handelsblad | p1 | ddd:010125728:mpeg21:a0006 | Uit Bulgarije. | KB C21
+1903/11/27 | De standaard | p1 | MMKB23:001817050:mpeg21:a00003 | BUITENLAND. AMSTERDAM, 26 November. FRANKRIJK. | Universiteitsbibliotheek Vrije Universit
+1971/08/27 | NRC Handelsblad | p | KBNRC01:000031741:mpeg21:a0071 | Peru - een revolutie zonder participatie | Koninklijke Bibliotheek
+1900/09/07 | Rotterdamsch nieuwsblad | p | KBDDD02:000202823:mpeg21:a0005 | Buitenland. | Koninklijke Bibliotheek
+1876/02/10 | Het vaderland | p2 | MMKB23:001400034:mpeg21:a00007 | TELEGRAMMEN. | Koninklijke Bibliotheek
+1877/10/11 | Opregte Haarlemsche Courant | p1 | MMKB12:000007088:mpeg21:a00004 | FRANKRIJK. | Koninklijke Bibliotheek
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1924/04/19 | Limburgsch dagblad | p12 | ddd:010932999:mpeg21:a0159 | FEUILLETON. GERECLASSEERD | Koninklijke Bibliotheek C 101
+1899/12/29 | Centraal blad voor Israëlieten in Nederland | p1 | MMKB19:000563115:mpeg21:a00002 | FEUILLETON. | Universiteitsbibliotheek Amsterdam
+1924/06/22 | De Maasbode | p | MMKB04:000194878:mpeg21:a0056 | INGEZONDEN. | Koninklijke Bibliotheek
+1919/10/13 | De Maasbode | p | MMKB04:000191448:mpeg21:a0082 | GERECLASSEERD. | Koninklijke Bibliotheek
+1934/08/18 | Eindhovensch dagblad | p | MMRHCE01:000059163:mpeg21:a0056 | EINDHOVENSCH DAGBLAD Zaterdag 18 Augustus 1934 Derde Blad BUITENLAND VERKIEZINGSREDE VAN H | Regionaal Historisch Centrum Eindhoven
+1980/05/28 | Het vrĳe volk : democratisch-socialistisch dagblad | p4 | ddd:010960547:mpeg21:a0179 | FOCUS FEITEN•MENINGEN•COMMENTAREN•ANALYSES Kans op contracoup in Suriname zeer concreet DO | Gemeentearchief Rotterdam
+1919/09/27 | De avondpost | p1 | MMKB27:017874049:mpeg21:a00001 | Buitenlandsch Overzicht | Koninklijke Bibliotheek
+1929/09/06 | Nieuw Israelietisch weekblad | p2 | ddd:010874380:mpeg21:a0086 | PROTESTVERGADERING TEGEN DE PALESTINA-POGROMS SCHERPE CRITIEK OP HET BRITSCHE BEWIND PROTE | Universiteitsbibliotheek Amsterdam ROS V
+1920/01/30 | Nieuw Israelietisch weekblad | p1 | ddd:010859768:mpeg21:a0052 | Vergadering van den Kerkeraad der Ned. Israël Hoofdsynagoge | Koninklijke Bibliotheek 1632 C 2
+
+QUERY: "raadsel van de zee" AND date within "1947-06-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: bounty AND titanic AND date within "1948-01-01 1948-04-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "dode bemanning" AND date within "1947-06-01 1949-06-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "doode bemanning" AND date within "1947-06-01 1949-06-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: medico AND "S.O.S." AND date within "1947-06-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 2 
+1948/07/15 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179236013:mpeg21:a00046 | Het zilveren feest van het Wit-Gele Kruis Kardinaal De Jong en Prins Bernhard woonden deel | Noord-Hollands Archief
+1948/07/16 | Provinciale Noord-Brabantsche courant Het huisgezin | p1 | MMUBTB04:210850014:mpeg21:a00013 | Zilveren jubileum Wit-Gele Kruis Moge dit werk steeds in diepte groeien Pauselijke en koni | Tilburg University Library
+
+QUERY: ourang AND date within "1947-01-01 1990-12-31" | collection: DDD_artikel | numberOfRecords: 14 
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de  | Koninklijk Instituut voor de Tropen (KIT
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0051 | Het bleef stil | Koninklijk Instituut voor de Tropen (KIT
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0038 | S.O.S, | Koninklijk Instituut voor de Tropen (KIT
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0034 | Het verhaal. | Koninklijk Instituut voor de Tropen (KIT
+1989/08/10 | Trouw | p | ABCDDD:010827389:mpeg21:a0360 | WEEK AGENDA DONDERDAG 10 T/M WOENSDAG 16 AUGUSTUS Theater | Koninklijke Bibliotheek
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0036 | Mysterie der „Ourang Medan” De Dodelijke Zwavelzuur-Gassen Doortrokken het Gehele Schip Fa | Koninklijk Instituut voor de Tropen (KIT
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0035 | Langs een omweg. | Koninklijk Instituut voor de Tropen (KIT
+1955/01/07 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404481:mpeg21:a0051 | PANORAMA | KB C 251
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0036 | De fatale dag. | Koninklijk Instituut voor de Tropen (KIT
+1957/05/09 | Het nieuwsblad voor Sumatra | p4 | ddd:010475758:mpeg21:a0074 | Advertentie | KB C 937
+1989/07/13 | De Volkskrant | p | ABCDDD:010857261:mpeg21:a0063 | Advertentie | Koninklijke Bibliotheek
+1980/02/22 | Het Parool | p | ABCDDD:010847468:mpeg21:a0288 | Den Haag | Koninklijke Bibliotheek
+
+QUERY: "onrang medan" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: medan AND "Marshall" AND date within "1947-06-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 80 
+1947/09/15 | Helmondsche courant | p | MMRHCE01:000048979:mpeg21:a0008 | V.S. inaken zich bezorgd over situatie in Griekenland WARM PLEIDOOI VAN MARSHALL VOOR DE V | Regionaal Historisch Centrum Eindhoven
+1947/07/10 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179232009:mpeg21:a00063 | Mgr. Brans naar ons land | Noord-Hollands Archief
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1947/07/24 | Groninger dagblad | p1 | MMRHCG04:235255172:mpeg21:a00001 | Militaire actie maakt snel voortgang Republikeinen zijn niet tot tegenstand in staat | Groninger archieven
+1947/09/18 | De Nederlander | p1 | MMKB19:000080068:mpeg21:a00003 | Ver. Staten lid van de Commissie van Drie? | Koninklijke Bibliotheek
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de  | Koninklijk Instituut voor de Tropen (KIT
+1948/08/11 | Het nieuwsblad voor Sumatra | p4 | ddd:010474774:mpeg21:a0069 | Advertentie | KB C 937
+1948/11/29 | Het nieuwsblad voor Sumatra | p4 | ddd:010474854:mpeg21:a0033 | Advertentie | KB C 937
+1948/09/24 | Leeuwarder courant : hoofdblad van Friesland | p2 | ddd:010610435:mpeg21:a0044 | In kort bestek | KBDK
+1947/07/25 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p1 | MMRAZ03:179292171:mpeg21:a00011 | Soekarno’s beroep op Truman Mr. v. Kleffens sprak met Marshall | Regionaal Archief Zutphen
+1948/03/15 | De Nederlander | p1 | MMKB19:000082063:mpeg21:a00001 | Plan-Marshall Door Senaat Goedgekeurd | Koninklijke Bibliotheek
+1948/12/07 | De locomotief : Samarangsch handels- en advertentie-blad | p1 | ddd:010863114:mpeg21:a0025 | Korte berichten van overal | Koninklijk Instituut voor de Tropen (KIT
+1947/09/09 | De Nederlander | p1 | MMKB19:000080060:mpeg21:a00007 | Dr van Mook sprak met Marshall en Lovett | Koninklijke Bibliotheek
+1948/03/15 | De Maasbode | p1 | MMKB15:000554063:mpeg21:a00003 | Aangenomen door de Senaat | Koninklijke Bibliotheek
+1947/09/18 | De Nederlandsche transportcourant | p1 | MMKB19:000824214:mpeg21:a00012 | Fiitsen uit het wereldnieuws | Koninklijke Bibliotheek
+1947/09/18 | Nieuwe Haarlemsche courant | p1 | MMNHA03:179232068:mpeg21:a00005 | V.S. in Commissie van Drie? Consuls en waarnemers naar Djokja | Noord-Hollands Archief
+1948/12/22 | Friesch dagblad | p | MMTRES02:000025068:mpeg21:a0005 | Vandaag vergadert de Veiligheidsraad Standpunt Amerika gamatigd - Dat van Engeland onbeken | Tresoar
+1948/03/16 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069470:mpeg21:a0012 | Benelux stelt ervaring beschikbaar | Stadsarchief Enschede
+1948/03/16 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069471:mpeg21:a0012 | Benelux stelt ervaring beschikbaar | Stadsarchief Enschede
+1948/03/16 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069472:mpeg21:a0016 | Benelux stelt ervaring beschikbaar | Stadsarchief Enschede
+1948/03/16 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069469:mpeg21:a0016 | Benelux stelt ervaring beschikbaar | Stadsarchief Enschede
+1947/09/08 | Friesch dagblad | p | MMTRES02:000023698:mpeg21:a0002 | Dr. Van Mook spreekt met Marshall | Tresoar
+1948/11/27 | De locomotief : Samarangsch handels- en advertentie-blad | p1 | ddd:010863106:mpeg21:a0018 | Korte berichten van overal | Koninklijk Instituut voor de Tropen (KIT
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1948/10/06 | De vrije pers : ochtendbulletin | p1 | ddd:011209950:mpeg21:a0025 | Kort Nieùws BUITENLAND | Koninklijke Bibliotheek NBM C 1136
+1948/08/17 | De Noord-Ooster | p | MMVEEN01:000085178:mpeg21:a0032 | Kalme Hartjesdag in de Hoofdstad | Veenkoloniaal Museum
+1947/07/28 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Batavia | p1 | ddd:010897507:mpeg21:a0009 | Terreur tegen Chinezen nog steeds voortgezet Bevolking keert naar de desa's terug P.T.T.-z | Universiteitsbibliotheek Leiden S 9462
+1947/07/30 | Helmondsche courant | p | MMRHCE01:000048847:mpeg21:a0019 | India's verzoek aan de Veiligheidsraad Zoekt Sjahrir contact met Nederlands gezant? | Regionaal Historisch Centrum Eindhoven
+1948/09/09 | Nieuwe courant | p | MMNIOD04:000095563:mpeg21:a0017 | Kort Nieuws INDONESIë | NIOD Instituut voor Oorlogs-, Holocaust-
+1947/09/13 | Deventer dagblad | p1 | MMHCO02:163893065:mpeg21:a00002 | Batavia begint te weifelen | Historisch Centrum Overijssel
+1948/08/14 | Het nieuwsblad voor Sumatra | p2 | ddd:010474777:mpeg21:a0033 | In den Hoek Onthullingen. | KB C 937
+1948/11/25 | Het nieuwsblad voor Sumatra | p3 | ddd:010474851:mpeg21:a0043 | Karte Krabbels | KB C 937
+1948/12/18 | Gereformeerd gezinsblad / hoofdred. P. Jongeling | p7 | ddd:010553924:mpeg21:a0036 | KORT NIEUWS | Nederlands Dagblad
+1947/08/29 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Batavia | p4 | ddd:010897534:mpeg21:a0088 | Advertentie | Universiteitsbibliotheek Leiden S 9462
+1948/12/03 | De locomotief : Samarangsch handels- en advertentie-blad | p1 | ddd:010863111:mpeg21:a0016 | Korte berichten van overal | Koninklijk Instituut voor de Tropen (KIT
+1947/07/24 | De Maasbode | p1 | MMKB15:000549021:mpeg21:a00001 | GEHEEL OOST-JAVA AFGESNEDEN | Koninklijke Bibliotheek
+1948/03/10 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p1 | MMMHW01:001051029:mpeg21:a00003 | Neemt de republiek deel aan de federale regering? | Museum Hoeksche Waard
+1947/08/16 | De Maasbode | p1 | MMKB15:000549040:mpeg21:a00005 | Eindrapport wordt opgesteld | Koninklijke Bibliotheek
+1947/10/01 | De Nederlander | p1 | MMKB19:000080079:mpeg21:a00002 | CONGRES GELOOFTTRUMAN NIETGEHEEL | Koninklijke Bibliotheek
+1947/09/16 | Opregte Steenwijker courant | p | MMGASL01:000410023:mpeg21:a00026 | AMERIKA | Gemeentearchief Steenwijkerland
+1948/07/14 | Amigoe di Curacao | p | KBDDD02:000209262:mpeg21:a0005 | Communistisch front op Zuid -Oost Azië: Indonesië (Van onze correspondent te Batavia) | Koninklijke Bibliotheek
+1947/07/03 | Nieuwe courant | p | MMNIOD04:000100548:mpeg21:a0042 | Handel en Financiën OVERZICHT VAN HANDELMIJ. HAGEMEYER EN CO. | NIOD Instituut voor Oorlogs-, Holocaust-
+1947/09/19 | Aaltensche courant | p1 | MMECAL02:180130075:mpeg21:a00005 | NEDERLANDS-INDIE. Gaat opmars naar Djocjakarta niet door ? | Erfgoedcentrum Achterhoek en Liemers
+1948/06/29 | De Nederlander | p1 | MMKB19:000082150:mpeg21:a00003 | Domper op het tïmisme van Griek se volk | Koninklijke Bibliotheek
+1947/07/24 | De Surinamer : nieuws- en advertentieblad | p1 | ddd:011218458:mpeg21:a0014 | Indonesië. Koningin zendt boodschap aan troepen. | Koninklijke Bibliotheek 1608 C 7
+1948/07/10 | De Surinamer : nieuws- en advertentieblad | p2 | ddd:011218611:mpeg21:a0049 | COMMUNISTISCH FRONT naar Z.O. AZIE: INDONESIE | Koninklijke Bibliotheek 1608 C 7
+1947/09/20 | Gazet van Limburg | p1 | MMCC01:048013070:mpeg21:a00011 | Hatta Stelt voor Referendum op Sumatra Keuze tussen : de Republiek of „door Nederland geco | Centre Céramique
+1948/11/22 | Nieuwe courant | p | MMNIOD04:000095910:mpeg21:a0025 | Kort Nieuws INDONESIë | NIOD Instituut voor Oorlogs-, Holocaust-
+1948/10/14 | Algemeen Indisch dagblad | p | MMNIOD04:000093548:mpeg21:a0025 | KORT NIEUWS | NIOD Instituut voor Oorlogs-, Holocaust-
+1948/11/17 | Het nieuwsblad voor Sumatra | p2 | ddd:010474844:mpeg21:a0035 | In den Hoek De Komeet | KB C 937
+
+QUERY: "drijvende vulkaan" | collection: DDD_artikel | numberOfRecords: 27 
+1929/12/28 | De Telegraaf | p5 | ddd:110569363:mpeg21:a0106 | „DRIJVENDE VULKAAN” OP HET HARINGVLIET. EEN VONK KAN EEN RAMP VEROORZAKEN. | KB C 98
+1912/10/07 | Algemeen Handelsblad | p6 | ddd:010655423:mpeg21:a0116 | Buskruit B. | KB C 21
+1912/10/26 | Westlandsche courant | p10 | MMMAAS01:210170203:mpeg21:a00059 | FRANKRIJK | Gemeente Maassluis
+1967/04/18 | De Telegraaf | p1 | ddd:110590212:mpeg21:a0139 | Twee doden bij aanvaring en explosie op zee | Koninklijke Bibliotheek C 98
+1914/12/16 | Het vaderland | p2 | MMKB23:001506216:mpeg21:a00024 | UIT SCHEVENINGEN | Koninklijke Bibliotheek
+1955/06/13 | De waarheid | p3 | ddd:010369440:mpeg21:a0058 | JOHANNISHUS WATERWEG OPGESLEEPT | KB C 157
+1912/10/08 | Dagblad van Zuid-Holland en 's-Gravenhage | p5 | MMKB19:000165086:mpeg21:a00029 | Frankrijk. | Koninklijke Bibliotheek
+1937/01/26 | De tribune : soc. dem. weekblad | p1 | ddd:010481846:mpeg21:a0006 | Dwangarbeiders muiten, vijftien doden. | KB C 143
+1959/12/07 | Het vrĳe volk : democratisch-socialistisch dagblad | p5 | ddd:010950991:mpeg21:a0131 | Gevaarlijk | Gemeentearchief Rotterdam
+1937/01/26 | Nieuwe Tilburgsche Courant | p1 | ddd:010237756:mpeg21:a0011 | De walerramp in Amerika. Trieste karavanen op de vlucht voor den vloed. De nood stijgt met | KB C1115
+1970/09/07 | Leeuwarder courant : hoofdblad van Friesland | p6 | ddd:010618541:mpeg21:a0135 | Dynamiet | KBDK
+1937/01/26 | Nieuwe Tilburgsche Courant | p1 | ddd:010996694:mpeg21:a0011 | De waterramp in Amerika. Trieste karavanen op de vlucht voor den vloed. De nood stijgt met | Koninklijke Bibliotheek C1115
+1937/01/26 | De Telegraaf | p1 | ddd:110577176:mpeg21:a0001 | TRIESTE KARAVANEN OP DE VLUCHT VOOR HET WATER. Nood in de V. S. stijgt met het uur. | KB C 98
+1937/02/06 | De locomotief | p23 | MMKB23:003467062:mpeg21:a00327 | TRIESTE KARAVANEN. | Universitaire Bibliotheken Leiden
+1937/02/03 | Het nieuws van den dag voor Nederlandsch-Indië | p21 | ddd:010226756:mpeg21:a0261 | DE OVERSTROOMINGEN IN DE V. S. Op de Vlucht voor het Water. Met het Uur neemt het Gevaar t | KB C55
+1949/06/25 | Eindhovensch dagblad | p2 | MMKB27:017816071:mpeg21:a00027 | EINDHOVEN SE BIOSCOPEN | Koninklijke Bibliotheek
+1894/05/26 | Bataviaasch nieuwsblad | p9 | ddd:110619001:mpeg21:a0070 | FEUILLETON. DE GEEST DER AANSTAANDE REVOLUTIE. Naar het Engelsch. EEN EN TWINTIGSTE HOOFDS | Koninklijke Bibliotheek C 96
+1937/01/26 | Westfriesch dagblad onze courant | p | MMWFA01:000299021:mpeg21:a00007 | Wanhopige toestand in het overstroomde gebied van Amerika | Westfries Archief
+1894/08/01 | Bataviaasch nieuwsblad | p13 | ddd:110619056:mpeg21:a0069 | NEGEN EN DERTIGSTE HOOFDSTUK. De Slag bij Dover. | Koninklijke Bibliotheek C 96
+1932/11/25 | Utrechtsche courant | p1 | MMUTRA04:253336126:mpeg21:a00003 | UIT DE HOOFDSTAD. | Het Utrechts Archief
+1912/10/26 | Maassluische courant | p9 | MMMAAS01:210210203:mpeg21:a00056 | Uit het BUITENLAND. | Gemeente Maassluis
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1912/10/08 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179020011:mpeg21:a00010 | BUITENLAND. | Noord-Hollands Archief
+1912/10/08 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179020012:mpeg21:a00009 | BUITENLAND. | Noord-Hollands Archief
+1914/12/16 | De Nederlander | p2 | MMKB15:000669324:mpeg21:a00010 | Nederland en de oorlog | Koninklijke Bibliotheek
+1937/02/08 | Algemeen handelsblad voor Nederlandsch-Indië | p11 | MMKB19:000472032:mpeg21:a00145 | De Overstroomingen in Amerika. | Koninklijke Bibliotheek
+1914/12/16 | Leeuwarder courant | p2 | ddd:010600234:mpeg21:a0041 | Nederland en de Oorlog. | KBDK
+
+QUERY: "dode hond" AND schip AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+

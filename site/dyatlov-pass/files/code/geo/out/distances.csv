@@ -1,0 +1,23 @@
+from,to,distance_m,bearing_deg,case_file_m
+tent_dyatlovpass_map,cedar,1545,62,"1500 (Ivanov, sheet 386; Maslennikov scheme)"
+tent_dyatlovpass_map,kolmogorova,894,63,
+tent_dyatlovpass_map,slobodin,1045,64,
+tent_dyatlovpass_map,dyatlov,1224,63,
+tent_dyatlovpass_map,den_flooring,1479,61,
+cedar,dyatlov,322,239,300 (Ivanov; Maslennikov) / 400 (scene protocol sheet 4)
+dyatlov,slobodin,180,238,180 (Ivanov)
+slobodin,kolmogorova,152,249,150 (Ivanov)
+cedar,kolmogorova,652,241,630 = 300+180+150 (Ivanov); 650-700 (Maslennikov: 300+350)
+cedar,den_flooring,79,274,75 (Ivanov) / 70 (Maslennikov scheme) / 50 (den protocol sheet 341)
+tent_dyatlovpass_map,labaz,1686,141,
+labaz,searchers_camp_1959,402,171,400 (radiogram 2 Mar)
+tent_dyatlovpass_map,kholat_syakhl_summit_dem,764,233,300 (sheet 2 tent protocol) / 100-150 (Chernyshev sheet 88)
+tent_dyatlovpass_map,pass_memorial_osm,1816,103,
+tent_dyatlovpass_map,tent_prosecutors_2019,117,14,115-116 (Konstantinov; dyatlovpass map)
+tent_dyatlovpass_map,new_monument_sculpture,60,319,
+tent_dyatlovpass_map,tent_borzenkov_gps_2009,55,359,
+tent_dyatlovpass_map,tent_semyashkin_2010_as_published,456,106,
+cedar,pass_memorial_osm,1199,160,
+tent_dyatlovpass_map,helipad_1959,633,129,
+tent_dyatlovpass_map,incident_enwiki,937,119,
+kholat_syakhl_summit_map,kholat_syakhl_summit_dem,15,166,

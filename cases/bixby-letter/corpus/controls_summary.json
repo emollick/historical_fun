@@ -1,0 +1,848 @@
+[
+ {
+  "author": "William H. Seward",
+  "sources": [
+   {
+    "title": "The Works of William H. Seward, vol. 4 (speeches, addresses and papers 1853-1861), ed. G. E. Baker, 1884",
+    "src": "ia:sewardwilliam04sewarich",
+    "url": "https://archive.org/details/sewardwilliam04sewarich",
+    "kind": "speech",
+    "mode": "ocr_whole",
+    "words_available": 235214,
+    "pieces": 266,
+    "words": 59944,
+    "note": "Orations and addresses 1853-1855, the biography of De Witt Clinton, political speeches 1855-1860 and Senate speeches 1853-1861 (pp. 119-678); the editor G. E. Baker's 100-page memoir that opens the volume and the appendix (speeches by others at the Chicago convention) are excluded; the date of each item is given in a footnote, which is the year source here; register: oratory.",
+    "probe": {
+     "start_line": 5859,
+     "end_line": 30874
+    }
+   }
+  ],
+  "pieces": 266,
+  "words": 59944,
+  "periods": {
+   "unknown": 11,
+   "pre_war": 255
+  },
+  "kinds": {
+   "speech": 266
+  },
+  "years": {
+   "1853": 15,
+   "1854": 56,
+   "1855": 51,
+   "1856": 33,
+   "1858": 32,
+   "1860": 68,
+   "unknown": 11
+  }
+ },
+ {
+  "author": "Salmon P. Chase",
+  "sources": [
+   {
+    "title": "Diary and Correspondence of Salmon P. Chase (AHA Annual Report 1902, publ. 1903), Part II: diary July-Oct. 1862 and later fragments",
+    "src": "ia:diaryandcorrespo00chasrich",
+    "url": "https://archive.org/details/diaryandcorrespo00chasrich",
+    "kind": "diary",
+    "mode": "ocr_whole",
+    "words_available": 21482,
+    "pieces": 89,
+    "words": 21467,
+    "note": "Chase's own diary; the editor's footnotes are digit-led lines and are dropped by rule.",
+    "probe": {
+     "start_line": 2724,
+     "end_line": 5700
+    }
+   },
+   {
+    "title": "Diary and Correspondence of Salmon P. Chase (1903), Part III: selected letters of Chase 1846-1861",
+    "src": "ia:diaryandcorrespo00chasrich",
+    "url": "https://archive.org/details/diaryandcorrespo00chasrich",
+    "kind": "letter",
+    "mode": "ocr_whole",
+    "words_available": 125726,
+    "pieces": 124,
+    "words": 29864,
+    "note": "Letters written by Chase (the later section of letters TO Chase is excluded); letter headers (\"To Charles Sumner.\") and datelines dropped by rule; editorial footnotes (digit-led) dropped.",
+    "probe": {
+     "start_line": 5701,
+     "end_line": 23171
+    }
+   }
+  ],
+  "pieces": 213,
+  "words": 51331,
+  "periods": {
+   "civil_war": 141,
+   "pre_war": 72
+  },
+  "kinds": {
+   "diary": 89,
+   "letter": 124
+  },
+  "years": {
+   "1846": 3,
+   "1847": 5,
+   "1848": 11,
+   "1849": 15,
+   "1850": 12,
+   "1851": 4,
+   "1852": 3,
+   "1853": 2,
+   "1854": 7,
+   "1855": 2,
+   "1856": 1,
+   "1858": 2,
+   "1859": 1,
+   "1860": 4,
+   "1861": 7,
+   "1862": 102,
+   "1863": 32
+  }
+ },
+ {
+  "author": "Gideon Welles",
+  "sources": [
+   {
+    "title": "Diary of Gideon Welles, vol. 1 (Aug. 1862-March 1864), 1911",
+    "src": "ia:diaryofgideonwelv1well",
+    "url": "https://archive.org/details/diaryofgideonwelv1well",
+    "kind": "diary",
+    "mode": "ocr_whole",
+    "words_available": 151777,
+    "pieces": 254,
+    "words": 59935,
+    "note": "Diary entries; the editor's introduction is skipped; chapter synopses (dash-separated headings) and footnotes (digit/^-led lines) dropped; Welles revised the diary in the 1870s.",
+    "probe": {
+     "start_line": 2016,
+     "end_line": 21906
+    }
+   }
+  ],
+  "pieces": 254,
+  "words": 59935,
+  "periods": {
+   "civil_war": 254
+  },
+  "kinds": {
+   "diary": 254
+  },
+  "years": {
+   "1861": 37,
+   "1862": 82,
+   "1863": 134,
+   "1864": 1
+  }
+ },
+ {
+  "author": "Charles Sumner",
+  "sources": [
+   {
+    "title": "Charles Sumner: His Complete Works (Statesman ed., 1900), vol. 7: speeches and letters Sept. 1860-Oct. 1861, PG #48077",
+    "src": "pg:48077",
+    "url": "https://www.gutenberg.org/ebooks/48077",
+    "kind": "speech",
+    "mode": "pg_flush",
+    "words_available": 61408,
+    "pieces": 126,
+    "words": 29913,
+    "note": "Flush-left paragraphs only (Sumner's speeches; his own letters are set 2 spaces in and are kept); the editors' 4-space-indented headnotes, quoted matter and all APPENDIX sections are dropped; register: oratory.",
+    "probe": {
+     "start_line": 167,
+     "end_line": 12355,
+     "appendices_skipped": 4
+    }
+   },
+   {
+    "title": "Charles Sumner: His Complete Works (Statesman ed., 1900), vol. 8: speeches Dec. 1861-1863, PG #48170",
+    "src": "pg:48170",
+    "url": "https://www.gutenberg.org/ebooks/48170",
+    "kind": "speech",
+    "mode": "pg_flush",
+    "words_available": 62017,
+    "pieces": 131,
+    "words": 30006,
+    "note": "As vol. 7.",
+    "probe": {
+     "start_line": 177,
+     "end_line": 12963,
+     "appendices_skipped": 2
+    }
+   }
+  ],
+  "pieces": 257,
+  "words": 59919,
+  "periods": {
+   "pre_war": 72,
+   "civil_war": 185
+  },
+  "kinds": {
+   "speech": 257
+  },
+  "years": {
+   "1860": 72,
+   "1861": 70,
+   "1862": 115
+  }
+ },
+ {
+  "author": "William O. Stoddard",
+  "sources": [
+   {
+    "title": "Inside the White House in War Times (1890)",
+    "src": "ia:insidewhitehouse00stod",
+    "url": "https://archive.org/details/insidewhitehouse00stod",
+    "kind": "memoir",
+    "mode": "ocr_whole",
+    "words_available": 62619,
+    "pieces": 227,
+    "words": 59927,
+    "note": "Memoir by Lincoln's third secretary; whole book after the contents.",
+    "probe": {
+     "start_line": 152,
+     "end_line": 9180
+    }
+   }
+  ],
+  "pieces": 227,
+  "words": 59927,
+  "periods": {
+   "post_war": 227
+  },
+  "kinds": {
+   "memoir": 227
+  },
+  "years": {
+   "1890": 227
+  }
+ },
+ {
+  "author": "Noah Brooks",
+  "sources": [
+   {
+    "title": "Washington in Lincoln's Time (1895)",
+    "src": "ia:washingtoninlinc00broo",
+    "url": "https://archive.org/details/washingtoninlinc00broo",
+    "kind": "memoir",
+    "mode": "ocr_whole",
+    "words_available": 85855,
+    "pieces": 227,
+    "words": 60038,
+    "note": "Memoir (reworked from his 1862-65 Sacramento Union dispatches); whole book after the contents.",
+    "probe": {
+     "start_line": 54,
+     "end_line": 12313
+    }
+   }
+  ],
+  "pieces": 227,
+  "words": 60038,
+  "periods": {
+   "post_war": 227
+  },
+  "kinds": {
+   "memoir": 227
+  },
+  "years": {
+   "1895": 227
+  }
+ },
+ {
+  "author": "John G. Nicolay",
+  "sources": [
+   {
+    "title": "The Outbreak of Rebellion (1881)",
+    "src": "ia:outbreakofrebell00nico",
+    "url": "https://archive.org/details/outbreakofrebell00nico",
+    "kind": "history",
+    "mode": "ocr_whole",
+    "words_available": 52015,
+    "pieces": 222,
+    "words": 52015,
+    "note": "Narrative history by Lincoln's other secretary; whole book after the contents.",
+    "probe": {
+     "start_line": 969,
+     "end_line": 8084
+    }
+   }
+  ],
+  "pieces": 222,
+  "words": 52015,
+  "periods": {
+   "post_war": 222
+  },
+  "kinds": {
+   "history": 222
+  },
+  "years": {
+   "1881": 222
+  }
+ },
+ {
+  "author": "Edward Everett",
+  "sources": [
+   {
+    "title": "Orations and Speeches on Various Occasions, vol. 4 (1856-1865), 1868",
+    "src": "ia:orationsspeeches04ever",
+    "url": "https://archive.org/details/orationsspeeches04ever",
+    "kind": "speech",
+    "mode": "ocr_whole",
+    "words_available": 266833,
+    "pieces": 259,
+    "words": 59898,
+    "note": "Orations 1856-1865 (the volume opens with the title of the first oration; the analytical index at the end is excluded); the editor's bracketed notes are dropped by rule; register: oratory.",
+    "probe": {
+     "start_line": 572,
+     "end_line": 32864
+    }
+   }
+  ],
+  "pieces": 259,
+  "words": 59898,
+  "periods": {
+   "pre_war": 140,
+   "civil_war": 119
+  },
+  "kinds": {
+   "speech": 259
+  },
+  "years": {
+   "1856": 11,
+   "1857": 3,
+   "1858": 24,
+   "1859": 56,
+   "1860": 46,
+   "1861": 66,
+   "1862": 17,
+   "1863": 21,
+   "1864": 15
+  }
+ },
+ {
+  "author": "Walt Whitman",
+  "sources": [
+   {
+    "title": "Specimen Days (1882; in Complete Prose Works, PG #8813): war memoranda 1862-65 and nature notes 1876-81",
+    "src": "pg:8813",
+    "url": "https://www.gutenberg.org/ebooks/8813",
+    "kind": "diary",
+    "mode": "pg_whole",
+    "words_available": 75362,
+    "pieces": 268,
+    "words": 59969,
+    "note": "Dated notes and memoranda (diary-like prose); the section titles carry the years (\"SUMMER OF 1864\", \"Feb. '64\"); the autobiographical opening sections are undated and get the year of the nearest heading.",
+    "probe": {
+     "start_line": 464,
+     "end_line": 9480
+    }
+   }
+  ],
+  "pieces": 268,
+  "words": 59969,
+  "periods": {
+   "unknown": 1,
+   "post_war": 122,
+   "pre_war": 3,
+   "civil_war": 142
+  },
+  "kinds": {
+   "diary": 268
+  },
+  "years": {
+   "1860": 3,
+   "1861": 35,
+   "1862": 23,
+   "1863": 27,
+   "1864": 12,
+   "1865": 45,
+   "1875": 10,
+   "1878": 93,
+   "1882": 19,
+   "unknown": 1
+  }
+ },
+ {
+  "author": "Ulysses S. Grant",
+  "sources": [
+   {
+    "title": "Personal Memoirs of U. S. Grant (1885-86), PG #4367",
+    "src": "pg:4367",
+    "url": "https://www.gutenberg.org/ebooks/4367",
+    "kind": "memoir",
+    "mode": "pg_whole",
+    "words_available": 125819,
+    "pieces": 276,
+    "words": 59436,
+    "note": "Memoirs; pieces sampled evenly across the two volumes (which include quoted orders and dispatches that are not separable).",
+    "probe": {
+     "start_line": 207,
+     "end_line": 12084
+    }
+   }
+  ],
+  "pieces": 276,
+  "words": 59436,
+  "periods": {
+   "post_war": 276
+  },
+  "kinds": {
+   "memoir": 276
+  },
+  "years": {
+   "1885": 276
+  }
+ },
+ {
+  "author": "William T. Sherman",
+  "sources": [
+   {
+    "title": "Memoirs of General William T. Sherman (1875), PG #4361",
+    "src": "pg:4361",
+    "url": "https://www.gutenberg.org/ebooks/4361",
+    "kind": "memoir",
+    "mode": "pg_whole",
+    "words_available": 347676,
+    "pieces": 252,
+    "words": 60077,
+    "note": "Memoirs; pieces sampled evenly across the book; quoted official documents are embedded and not separable.",
+    "probe": {
+     "start_line": 140,
+     "end_line": 37344
+    }
+   }
+  ],
+  "pieces": 252,
+  "words": 60077,
+  "periods": {
+   "post_war": 252
+  },
+  "kinds": {
+   "memoir": 252
+  },
+  "years": {
+   "1875": 252
+  }
+ },
+ {
+  "author": "James Russell Lowell",
+  "sources": [
+   {
+    "title": "Letters of James Russell Lowell, ed. C. E. Norton (1894), vol. 1",
+    "src": "ia:lettersofjamesru01lowe_0",
+    "url": "https://archive.org/details/lettersofjamesru01lowe_0",
+    "kind": "letter",
+    "mode": "ocr_letters",
+    "words_available": 82053,
+    "pieces": 243,
+    "words": 60034,
+    "note": "Letters from 1844 onward; Norton's connecting notes are few and short and could not be separated from OCR; running heads/page numbers dropped.",
+    "probe": {
+     "start_line": 4623,
+     "end_line": 17260
+    }
+   }
+  ],
+  "pieces": 243,
+  "words": 60034,
+  "periods": {
+   "pre_war": 171,
+   "civil_war": 33,
+   "post_war": 39
+  },
+  "kinds": {
+   "letter": 243
+  },
+  "years": {
+   "1840": 1,
+   "1845": 3,
+   "1846": 14,
+   "1847": 4,
+   "1848": 22,
+   "1849": 16,
+   "1850": 16,
+   "1851": 4,
+   "1852": 2,
+   "1853": 9,
+   "1854": 9,
+   "1855": 24,
+   "1856": 21,
+   "1857": 3,
+   "1858": 6,
+   "1859": 8,
+   "1860": 9,
+   "1861": 7,
+   "1862": 5,
+   "1863": 4,
+   "1864": 8,
+   "1865": 9,
+   "1866": 18,
+   "1867": 15,
+   "1868": 6
+  }
+ },
+ {
+  "author": "Ralph Waldo Emerson",
+  "sources": [
+   {
+    "title": "The Conduct of Life (1860), PG #39827",
+    "src": "pg:39827",
+    "url": "https://www.gutenberg.org/ebooks/39827",
+    "kind": "essay",
+    "mode": "pg_whole",
+    "words_available": 65128,
+    "pieces": 268,
+    "words": 60009,
+    "note": "Essays; whole book.",
+    "probe": {
+     "start_line": 53,
+     "end_line": 6331
+    }
+   }
+  ],
+  "pieces": 268,
+  "words": 60009,
+  "periods": {
+   "pre_war": 268
+  },
+  "kinds": {
+   "essay": 268
+  },
+  "years": {
+   "1860": 268
+  }
+ },
+ {
+  "author": "Frederick Douglass",
+  "sources": [
+   {
+    "title": "Life and Times of Frederick Douglass (1881; PG #71893, 1892 ed.)",
+    "src": "pg:71893",
+    "url": "https://www.gutenberg.org/ebooks/71893",
+    "kind": "memoir",
+    "mode": "pg_whole",
+    "words_available": 184442,
+    "pieces": 258,
+    "words": 60038,
+    "note": "Autobiography; pieces sampled evenly after the introduction by G. L. Ruffin (the text starts at the first chapter of Part I; the two contents tables are skipped and the dash-separated chapter synopses dropped by rule).",
+    "probe": {
+     "start_line": 928,
+     "end_line": 17927
+    }
+   }
+  ],
+  "pieces": 258,
+  "words": 60038,
+  "periods": {
+   "post_war": 258
+  },
+  "kinds": {
+   "memoir": 258
+  },
+  "years": {
+   "1881": 258
+  }
+ },
+ {
+  "author": "Horace Greeley",
+  "sources": [
+   {
+    "title": "Recollections of a Busy Life (1868)",
+    "src": "ia:recollectionsofb00greeuoft",
+    "url": "https://archive.org/details/recollectionsofb00greeuoft",
+    "kind": "memoir",
+    "mode": "ocr_whole",
+    "words_available": 207819,
+    "pieces": 265,
+    "words": 59913,
+    "note": "Autobiography; pieces sampled evenly across the book.",
+    "probe": {
+     "start_line": 481,
+     "end_line": 26132
+    }
+   }
+  ],
+  "pieces": 265,
+  "words": 59913,
+  "periods": {
+   "post_war": 265
+  },
+  "kinds": {
+   "memoir": 265
+  },
+  "years": {
+   "1868": 265
+  }
+ },
+ {
+  "author": "George William Curtis",
+  "sources": [
+   {
+    "title": "Literary and Social Essays (1894; essays of 1853-1892), PG #8108",
+    "src": "pg:8108",
+    "url": "https://www.gutenberg.org/ebooks/8108",
+    "kind": "essay",
+    "mode": "pg_whole",
+    "words_available": 58573,
+    "pieces": 262,
+    "words": 58573,
+    "note": "Essays; the year of each essay is taken from the contents table (first year named for each title).",
+    "probe": {
+     "start_line": 47,
+     "end_line": 5719,
+     "title_years": [
+      [
+       "EMERSON",
+       1854
+      ],
+      [
+       "HAWTHORNE",
+       1854
+      ],
+      [
+       "LONGFELLOW",
+       1882
+      ],
+      [
+       "OLIVER WENDELL HOLMES",
+       1891
+      ],
+      [
+       "RACHEL",
+       1855
+      ],
+      [
+       "SIR PHILIP SIDNEY",
+       1857
+      ],
+      [
+       "THACKERAY IN AMERICA",
+       1853
+      ],
+      [
+       "THE WORKS OF NATHANIEL HAWTHORNE",
+       1864
+      ],
+      [
+       "WASHINGTON IRVING",
+       1889
+      ]
+     ]
+    }
+   }
+  ],
+  "pieces": 262,
+  "words": 58573,
+  "periods": {
+   "pre_war": 130,
+   "civil_war": 30,
+   "post_war": 102
+  },
+  "kinds": {
+   "essay": 262
+  },
+  "years": {
+   "1853": 17,
+   "1854": 51,
+   "1855": 30,
+   "1857": 32,
+   "1864": 30,
+   "1882": 21,
+   "1889": 53,
+   "1891": 28
+  }
+ },
+ {
+  "author": "Bayard Taylor",
+  "sources": [
+   {
+    "title": "Life and Letters of Bayard Taylor, ed. M. Hansen-Taylor and H. Scudder (1884), vol. 1",
+    "src": "ia:lifelettersofbay00tayl",
+    "url": "https://archive.org/details/lifelettersofbay00tayl",
+    "kind": "letter",
+    "mode": "ocr_letters",
+    "words_available": 67216,
+    "pieces": 258,
+    "words": 59918,
+    "note": "Quoted letters within an editorial biography; a letter is cut at the next paragraph that names Taylor in the third person or at the next letter header (heuristic).",
+    "probe": {
+     "end_not_found": true,
+     "start_line": 922,
+     "end_line": 18655
+    }
+   }
+  ],
+  "pieces": 258,
+  "words": 59918,
+  "periods": {
+   "pre_war": 225,
+   "civil_war": 33
+  },
+  "kinds": {
+   "letter": 258
+  },
+  "years": {
+   "1840": 1,
+   "1846": 5,
+   "1847": 1,
+   "1848": 4,
+   "1849": 18,
+   "1850": 42,
+   "1851": 32,
+   "1852": 31,
+   "1853": 9,
+   "1854": 31,
+   "1855": 19,
+   "1856": 21,
+   "1857": 3,
+   "1859": 4,
+   "1860": 4,
+   "1861": 7,
+   "1862": 16,
+   "1863": 10
+  }
+ },
+ {
+  "author": "John Lothrop Motley",
+  "sources": [
+   {
+    "title": "The Correspondence of John Lothrop Motley, ed. G. W. Curtis (1889), vol. 1",
+    "src": "ia:correspondenceof01motluoft",
+    "url": "https://archive.org/details/correspondenceof01motluoft",
+    "kind": "letter",
+    "mode": "ocr_letters",
+    "words_available": 144023,
+    "pieces": 257,
+    "words": 59890,
+    "note": "Letters; the editor's brief connecting notes are not separable in OCR; \"To his Mother\" headers OCR as \"To Ms Mother\".",
+    "probe": {
+     "end_not_found": true,
+     "start_line": 585,
+     "end_line": 18457
+    }
+   }
+  ],
+  "pieces": 257,
+  "words": 59890,
+  "periods": {
+   "unknown": 4,
+   "pre_war": 233,
+   "civil_war": 20
+  },
+  "kinds": {
+   "letter": 257
+  },
+  "years": {
+   "1832": 12,
+   "1833": 6,
+   "1834": 10,
+   "1835": 9,
+   "1838": 2,
+   "1841": 25,
+   "1842": 15,
+   "1851": 4,
+   "1852": 14,
+   "1853": 11,
+   "1854": 3,
+   "1855": 13,
+   "1856": 6,
+   "1857": 6,
+   "1858": 77,
+   "1859": 6,
+   "1860": 14,
+   "1861": 20,
+   "unknown": 4
+  }
+ },
+ {
+  "author": "Mark Twain",
+  "sources": [
+   {
+    "title": "Mark Twain's Letters, ed. A. B. Paine (1917), vols. 1-3 (1853-1885), PG #3193-3195",
+    "src": "pg:3193+3194+3195",
+    "url": "https://www.gutenberg.org/ebooks/3193",
+    "kind": "letter",
+    "mode": "pg_twain",
+    "words_available": 99009,
+    "pieces": 247,
+    "words": 59444,
+    "note": "Letters only: Paine's narrative is indented in the Gutenberg text and is dropped; letter headers (\"To X:\"), datelines and signatures dropped.",
+    "probe": {
+     "start_line": 1,
+     "end_line": 18121
+    }
+   }
+  ],
+  "pieces": 247,
+  "words": 59444,
+  "periods": {
+   "pre_war": 16,
+   "civil_war": 32,
+   "post_war": 199
+  },
+  "kinds": {
+   "letter": 247
+  },
+  "years": {
+   "1853": 6,
+   "1856": 2,
+   "1858": 6,
+   "1860": 2,
+   "1861": 8,
+   "1862": 18,
+   "1863": 4,
+   "1864": 2,
+   "1866": 10,
+   "1867": 9,
+   "1868": 9,
+   "1869": 8,
+   "1870": 5,
+   "1871": 4,
+   "1872": 4,
+   "1873": 3,
+   "1874": 13,
+   "1875": 15,
+   "1876": 16,
+   "1877": 16,
+   "1878": 17,
+   "1879": 20,
+   "1880": 8,
+   "1881": 11,
+   "1882": 10,
+   "1883": 6,
+   "1884": 4,
+   "1885": 11
+  }
+ },
+ {
+  "author": "Henry Adams",
+  "sources": [
+   {
+    "title": "The Education of Henry Adams (written 1905-07, publ. 1918), PG #2044",
+    "src": "pg:2044",
+    "url": "https://www.gutenberg.org/ebooks/2044",
+    "kind": "memoir",
+    "mode": "pg_whole",
+    "words_available": 171300,
+    "pieces": 276,
+    "words": 59885,
+    "note": "Autobiography in the third person; pieces sampled evenly across the book; later than the 1850-1890 window (included as requested).",
+    "probe": {
+     "start_line": 206,
+     "end_line": 16535
+    }
+   }
+  ],
+  "pieces": 276,
+  "words": 59885,
+  "periods": {
+   "post_war": 276
+  },
+  "kinds": {
+   "memoir": 276
+  },
+  "years": {
+   "1907": 276
+  }
+ }
+]

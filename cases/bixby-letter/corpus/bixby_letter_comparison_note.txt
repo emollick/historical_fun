@@ -1,0 +1,12 @@
+Comparison of the Bixby letter text: Basler, Collected Works VIII:116-117 (archive.org OCR, item basler-VIII-*) vs. the Boston Evening Transcript text as quoted in the Wikipedia article (docs/wikipedia_bixby_letter.wikitext).
+
+Basler prints the Transcript text (his footnote: "Boston Transcript, November 25, 1864 ... no reason to question the authenticity of the text").
+
+Token-level differences (Wikipedia Transcript text -> Basler OCR text):
+  delete   'Washington , Nov . , .' -> ''
+  insert   '' -> '—'
+  replace  'have' -> 'hare'
+  replace  'found' -> 'f ound'
+  delete   'A . LINCOLN .' -> ''
+
+Interpretation: apart from the salutation/closing frame (the corpus text keeps the run-in salutation "Dear Madam," and the closing formula but drops the standalone signature "A. LINCOLN" and the trailing addressee line "Mrs. Bixby."), the differences are OCR errors in the archive.org text of Basler ("hare" for "have", "f ound" for "found") and paragraphing; no wording differences between Basler and the Transcript text were found. The corpus text is left uncorrected (per instructions); use bixby_letter_transcript_wikipedia.txt as the clean questioned-document text.

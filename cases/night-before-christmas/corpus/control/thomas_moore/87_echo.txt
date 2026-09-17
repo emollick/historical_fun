@@ -1,0 +1,26 @@
+title: Echo
+author: Thomas Moore
+date: c. 1808-1834
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic mixed
+lines: 15
+attribution: certain
+notes: song (Irish Melodies, 1808-1834)
+
+How sweet the answer Echo makes
+To music at night,
+When, roused by lute or horn, she wakes,
+And far away, o'er lawns and lakes,
+Goes answering light.
+
+Yet Love hath echoes truer far,
+And far more sweet,
+Than e'er beneath the moonlight star,
+Of horn or lute, or soft guitar,
+The songs repeat.
+
+'Tis when the sigh, in youth sincere,
+And only then,--
+The sigh that's breath'd for one to hear,
+Is by that one, that only dear,
+Breathed back again!

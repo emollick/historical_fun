@@ -1,0 +1,2373 @@
+=== PAGE 1 ===
+A review of basic snow mechanics 
+Malcolm Mellor 
+Abstract. In an introductory section the subject is defined, research goals are identified, a 
+historical perspective of snow mechanics is outlined, and requirements for theoretical analysis, in 
+the form of constitutive equations and failure criteria, are specified. 
+A section on deformation opens with a review of idealized rheology for nondestructive 
+loading, giving general differential equations and pertinent special solutions for one-dimensional 
+models. Simple elastic properties, as derived from quasistatic and dynamic tests on snow, are 
+summarized, and effects of rate, frequency, density, temperature, etc. are considered. Viscoelastic 
+properties are described in terms of complex moduli, viscosity for creep transients, loss factor, 
+etc., and independent variables such as temperature, density and frequency are taken into 
+consideration. Viscous behaviour in sustained creep is introduced, and complications of 
+characterization are emphasized during presentation of data obtained by measurements 
+involving uniaxial stress and uniaxial strain. Simple stress analysis is introduced to facilitate 
+further discussion; points covered include separation of stress and strain tensors into deviatoric 
+and dilatational components, definition of stress and strain invariants, shear and bulk viscosities, 
+viscous analogue of Poisson's ratio, and determination of stress components from equilibrium 
+equations. Volumetric strain and irreversible compressibility are discussed, and 'equation of 
+state' characterization is proposed. Pressure/density data for uniaxial stress states are compiled, 
+and a plot of bulk stress against specific volume is developed for various rates and temperature 
+conditions. Deviatoric stress/strain-rate relations for conditions of negligible volumetric strain 
+rate are considered, drawing on data derived from unconventional sources, including uniaxial 
+compression strength tests and creep profiles for settled snow slopes. The section closes with a 
+discussion of the problem of formulating general constitutive equations for multiaxial stress states. 
+A section on failure starts with discussion of failure, strength, and failure criteria, especially 
+as the terms apply to snow. Strength measurements in uniaxial tension and compression are 
+considered, and available data are compiled. Definition of shear strength is considered, the merits 
+and limitations of c—0 characterization of snow are discussed, and some of the more reliable shear 
+strength data are compiled. Physical and statistical failure theories based on structural defect 
+concepts are mentioned, empirical relationships between the strength of snow and its porosity 
+are described, and the possibility of deriving a relation between 0 and porosity is introduced. 
+Attempts to develop phenomenological failure criteria for snow are mentioned briefly. A cautionary 
+note on discontinuous collapse of snow under compression is included, and correlation of arbitrary 
+strength indices with basic strength properties is discussed. Correlation of strength and elastic 
+modulus is explored as a possible method for estimating strength from nondestructive in situ tests. 
+A section on boundary friction introduces the physical theory relating to kinetic friction of 
+coherent snow surfaces, and summarizes experimental findings that give variations of kinetic 
+friction with contact pressure, dimensions of contact areas, sliding speed, ambient temperature, 
+and slider materials. Static friction and adhesion are distinguished and discussed, and methods for 
+measuring or estimating true static friction are suggested. Boundary friction of fluidized snow is 
+considered, and drag induced by inertial effects in a well-diffused turbulent boundary layer is 
+treated in an exploratory calculation. 
+The review concludes with an appraisal of the major difficulties in snow mechanics and with 
+some suggestions for research direction. 
+INTRODUCTION 
+Scope and trends 
+Narrowly defined, snow mechanics deals with forces and displacements in all forms 
+of snow, i.e. with the kinematics, dynamics and energetics of snow in both condensed 
+and dispersed states. More broadly defined, it also embraces the underlying physics of 
+processes relevant to mechanical behaviour, and the useful but disconnected empiricism 
+=== PAGE 2 ===
+252 Malcolm Mellor 
+associated with snow engineering, avalanche prediction, etc. Since snow mechanics 
+evolved as an identifiable field of study about 40 years ago, a good deal of attention 
+has been given to the latter topics, but work on basic mechanics has tended to be 
+more sporadic. Systematic application of formal mechanics to problems concerning 
+stress/strain/time relations in complicated physical situations has been rather slow to 
+develop, which is hardly surprising, since snow has very complex properties, exhibiting 
+nonlinear viscoelasticity and undergoing large strains, both volumetric and deviatoric, 
+under typical loading conditions. Because snow normally exists at homologous 
+temperatures above 0.9, its properties are highly temperature-sensitive, and even its 
+basic structure is thermally unstable. As a consequence of these things, it has been 
+impractical to formulate general constitutive equations and failure criteria that are 
+both realistic and tractable. 
+Some current trends suggest that this situation might soon change for, in principle, 
+the powerful formalism of modern rational mechanics is capable of dealing with the 
+complicated behaviour of snow. However, it seems unrealistic to expect early solution 
+of significant boundary value problems if very complex constitutive equations are 
+employed. 
+While attempts at highly rigorous theoretical analysis are obviously worthwhile, it is 
+necessary to keep sight of the fact that snow mechanics is essentially a practical 
+science, in which useful results are of overriding importance. Thus, the main thrust of 
+research ought to be concerned with progressive upgrading of methods needed for the 
+accomplishment of practical tasks. Such an approach demands some compromise 
+between the almost impossible demands of rigorous theoretical analysis and the 
+confusions of wholly empirical procedures. 
+Perhaps the most troublesome single characteristic of snow is its high compressibility, 
+which makes it behave very differently from most solids and granular materials. As long 
+as the bulk stress in a multiaxial stress field is below a certain critical value, the defor­
+mation and rupture of snow can be treated in much the same way as for low 
+compressibility solids, but when this critical value is exceeded the snow undergoes 
+large and irreversible volumetric strain, acquiring vastly different mechanical properties. 
+Simple treatment of compressibility could well be one of the major goals for theoretical 
+research. 
+In this short review a complete coverage of snow mechanics is not feasible, and so 
+emphasis is given to the basic mechanics of dry coherent snow (the major omissions 
+are wet snow and boundary value problems). The chief aim is to summarize the 
+mechanical properties of snow within the context of established continuum 
+mechanics, and to explore the formulation of manageable constitutive equations 
+and failure criteria. 
+Historical perspective 
+Systematic study of snow mechanics began in the 1930s, and in a remarkably short 
+time most of the main features of the stress/strain/time relations for coherent snow 
+were broadly defined by Swiss investigators. The constitutive relations and failure 
+criteria considered for solution of boundary value problems were necessarily simple 
+ones that did not fully reflect the known behaviour of snow, but basic body-force 
+problems in the avalanche field tended to be of a type in which internal stresses are 
+determined largely by the boundary conditions and the self-weight of the material, 
+almost irrespective of rhéologie properties. Simple failure criteria of the Coulomb type 
+were adequate for treating planar slip. More detailed knowledge of snow properties 
+was used to refine results by accounting for creep effects and variations due to 
+temperature, density, snow type, etc. 
+Interest in snow mechanics widened considerably about 20 years ago, stimulated 
+largely by international research in Antarctica and by military activity in Greenland. 
+=== PAGE 3 ===
+A review of basic snow mechanics 253 
+The main emphasis shifted from stability and rupture of snow slopes to the long-term 
+creep of snow under relatively steady sustained loadings, as in densification of ice cap 
+snow, foundation settlement, tunnel closure, and structural loadings. In the latter 
+type of problem initial transients of deformation could often be ignored, and simple 
+viscous analyses became useful, although it was always accepted that assumptions of 
+newtonian viscosity were gross oversimplifications. In some cases, complexities 
+introduced by the rheology of snow were sidestepped by replacing continuum 
+mechanics with special analogue models, e.g. in foundation studies. Another class of 
+problems involved the bearing capacity and shear resistance of snow surfaces, especially 
+as they affect the sinkage and traction of vehicles. In some of these problems simple 
+elastic analyses sufficed (e.g. Boussinesq analysis for a high-speed wheel on dense 
+snow) and ample data on elastic moduli were obtained from field seismic studies and 
+laboratory tests. However, in the 'trafficability' studies there was little attempt to 
+define limit conditions by formal failure criteria; the emphasis was on arbitrary 
+strength indices that could be measured easily in the field. 
+In the past decade the general scope of snow mechanics was further expanded by 
+formal hydrodynamic consideration of dispersed snow as a two-phase flow (as in 
+blowing snow, dust avalanches, snowplough discharges, etc.), and by study of intense 
+compression and shock propagation (as in 'equation-of-state' problems involving 
+explosions, impacts, and projectile penetration). One important hydrodynamic aspect 
+that has not yet received much attention is the problem of snow as a fluidized solid 
+(e.g. snow under slipping vehicle tracks, on a snowplough blade, or in a dense 
+avalanche). 
+The current situation, at least as it appears from the United States, is that interest 
+in the mechanics of deposited snow has waned somewhat with the decline in 
+operations on polar ice sheets, and most work is again motivated by avalanche 
+protection requirements. In both the US and Europe there are signs of rising interest 
+in applying modern continuum mechanics, which permits maintenance of a high 
+degree of analytical generality for complicated constitutive equations, but at the 
+same time practical problems are still being tackled largely by empirical methods. 
+In some respects it seems that present-day activities are concentrated at opposite 
+ends of the research spectrum, with a tendency for neglect of the middle ground. 
+Field investigators and experimentalists are sometimes forced to operate without 
+much framework of theoretical guidance, while theoretical mechanicians may be 
+frustrated by lack of suitable comprehensive data on material properties. There seems 
+to be a definite need for orderly assessment of snow properties, for realistic but 
+simplified mechanical characterization of snow, and for sound and workable theory 
+that can be applied to boundary value problems. 
+Requirements for theoretical analysis 
+In its simplest form, coherent deposited snow can be regarded as a quasihomogeneous 
+sintered compact of equant ice grains. As such, it possesses most of the mechanical 
+properties of solid ice, i.e. it displays temperature-sensitive nonlinear viscoelasticity 
+under typical loading conditions, and rupture may occur by viscoplastic yielding, by 
+brittle fracture, or by a transitional process. However, snow is highly porous and it 
+has high, and largely irreversible, compressibility. It is this high irreversible compressi­
+bility of snow that distinguishes it from ice and most other engineering materials. 
+The basic requirements for formal mechanical analysis are constitutive equations 
+that relate stress, strain and time for multiaxial stress states, and failure criteria that 
+give the critical relationships of principal stresses at yield or rupture. Ideally, these 
+should be general equations that permit the tracing of stress or strain history from 
+an initial reference state, and they should be capable of accounting for temperature 
+variations. 
+=== PAGE 4 ===
+254 Malcolm Mellor 
+In the case of solid ice, there is now sufficient information on which to base 
+constitutive equations for elastic deformation and constant-rate flow, but it is not 
+yet possible to derive failure criteria that are applicable outside the range of 
+viscoplastic yielding (ice is apparently anomalous with respect to 'Griffith-type' 
+materials). However, the rheological properties of ice can already be expressed in 
+forms that are becoming too complicated for useful application in practical continuum 
+mechanics. Looking at snow, which is a much more complicated material than solid 
+ice, it appears that presently available data are inadequate for defining general 
+constitutive equations or failure criteria. Once this deficiency is remedied it will be 
+possible to define the required relationships, but in general form these equations will 
+almost certainly be too complicated for useful application in boundary value 
+problems. 
+While general description of rhéologie properties and failure conditions is obviously 
+a desirable research goal, short-term needs in applied mechanics will probably have to 
+be met by piecemeal simplifications appropriate to particular problems. In some cases 
+these simplifications are straightforward (e.g. purely elastic problems), but in others 
+there are still difficulties in arriving at valid representations (e.g. in problems involving 
+simultaneous volumetric and deviatoric strains). 
+DEFORMATION 
+Idealized rheology for nondestructive loading 
+Standard rheological models (Fig. 1) are widely used for describing the mechanical 
+behaviour of snow. They are convenient for qualitative descriptions, and they provide 
+a standard terminology, but because the elasticity and viscosity of snow are strongly 
+nonlinear they have very limited quantitative value. Nevertheless, since some of the 
+reported viscoelastic properties of snow are derived by assuming certain models and 
+analysing test data accordingly, it is necessary to understand these models. 
+Burgers model 
+The deformation of snow and ice under nondestructive loading has long been described 
+in terms of the four-element Burgers model. The general equation giving the rhéologie 
+response of this model is: 
+(Eu EM EK\ . EMEK .. EMEK . a+ — + — + — 0+ o = EMe + e (1) 
+\*?M VK VK' VÎAVK VK 
+where a and e are stress and strain (' and " denoting first and second time derivatives), 
+EM and r/M are modulus and viscosity for the Maxwell unit, and EK and VK are 
+modulus and viscosity for the Kelvin—Voigt unit. Solutions of special interest are 
+those for abrupt application or removal of constant stress, and for application of 
+constant strain rate or constant stress rate. 
+For constant stress a0 applied abruptly at t = Q, the required solution is: 
+(2) 
+Equation (2) gives a strain—time relation, or creep curve, for the standard creep 
+test. The curve shows instantaneous elastic strain, followed by decelerating (primary) 
+creep, which in turn is succeeded by creep at constant rate (secondary creep). It does 
+not simulate tertiary creep. The various terms of equation (2) are easily identified 
+with the elements of the model; in the exponential term (VK/EK) is the relaxation 
+time, i.e. the time required for strain to decay to 1/e of its initial value when load is 
+removed. 
+1 t 1 
+— + — + — 
+Eu VM EK 
+r, / 1 — exp1 -
+EK \1 - — t\ 
+VK n 
+=== PAGE 5 ===
+A review of basic snow mechanics 255 
+gers But 
+«_, lemen 
+w l CO 
+Û •Voi vin-
+I rt 
+£ 
+•3 
+^ o S 
+1 i> 
+«*< F 
+1 
+»? 
+3 
+1 ."[ii 
+[ < s<P* to ^> 
+, 
+1 <^ 
+fc^ / 
+1 
+j 
+=1 •? 
+1 
+-> CO S 
+1 
+1 L «5 p 
+| 
+3 =• 
+1 
+j_ H—i 
+l-j-l =" 
+« <T 
+1 
+Q 
+"T 
+il* > £0 
+«-Ï* 
+:»l* ^-^ 
+«s|^ + 
+ufl^ + 
+:0 
+^ 1 « 1£jJ + 
+t*r 
+b 
+«" 
++__ 
+« 
+c? 
+•0 
+'S-
+£ 
+c 
+C 
+-. ibï 
+II 
+c 
+.2 
+I ai 
+1 c QJ 
+O 
+___ 
+£T# -—L~--
+s 1 
+„l * 
++ 
+-1,3 + 
+-ks -—_!, © to 
+1! 
+^T^, U 1 s? 
+t~ 
+•1 ~* -luT 
+-k t? 
+jp D. 
+? • -"• 
+°!M 
+c!S-
+f 
+c 
+1 = 
+» " 
+II 0) 
+II c ,-, O .-? 
+o £ 
+f 
+j 
+j* 
+»? t! 
+•Ç 
+"t 
+"-& ^ V 
+w j-
+•-- -
+H? 
+«SL* 
+ik d,™ 
+<5p 
+«si^ + 
+1 i :« 
+* 
+fï 
+J^ I ia 
+t? 
+"¥" Ï 
+"T^ 
+«" to 
+—£_ 
+_ UJ 
+4 II 
+0 
+îp 
+! ' ~ ' A: 
+II 
+0 
+O 
+K-îa <- ~ a « 
+11 W Q. 
+n C M O [l 
+O ^ 
+Jp 
+f 
+-- . g\g 
+d?|^ 
+i 
+-K T2~ -|w 
+tk 
+*" •u 
+^ ^~j—--
+i i 
+'ïïïr 
+i M 
+-lu j — 
+Ci^ 
+.*" 
+'Jjv 
+a. 
+s -=-
+-IW 
+^?' 
+^ 
+°i- l<5" 
+dS-
+-*" 
+S 
+a " 
+lo­
+ir t- cO 
+S ^ 
+II w « 
+If" c: M 
+o f! O 3 
+1 
+UJ 
+CO 
+3 
+3 
+% 
+:^ 
+] 
+1 
+% 3 
+3 
+i 
+^" 
+W 
+:-3 
+1 uz 
+— jtoa 
+,,„, 
+LO '3 
+-(•7! 
+'CO 
+— Juj 
+CO 
+> 3 
+V^ 
+-,|CO 
+-> 
+S .^ u ST c 
+°g 
+€* 3 
+^ 
+•JZ 
+-x ~\» \ 3 
+V1 
+'§' 
+"'-. 
+i" ~„ ? 
+~\è' 
+Î 
+Ir 3 
+u, 
+-II 
+~=~ 
+i 3 
+: r« j • 
+it z 3 2 — 
+î ^ 
+ai 
+O 
+=== PAGE 6 ===
+256 Malcolm Mellor 
+For constant strain rate é = ku applied at t = 0, CT = 0, the required solution is: 
+a = k, 
+E* 
+(e,'t-«'.() + VM 
+r2 
+(r2er'f-/-le,''f) + T?M (3) 
+where 
+1 /£M 
+2 \T?M 
+£~M .ffK 
+VK VK 2 
+E*A ^M ^K 
+Î?M 1?K T?K' 
+/jgM EK\ 
+In effect, equation (3) gives the stress/strain curve for the standard uniaxial loading 
+at constant strain rate, since t can be replaced throughout by ejkx. 
+For constant stress rate à = k2, initiated at f = 0, e = 0, the required solution is: 
+e = k-, 
+1 
+Eu + 
+1 > 
+EK, \t I + 
+1 
+2T?M 
+VK VK 
+VM 
+exp 
+VK 
+(4) 
+The Burgers model is very convenient for qualitative description of deviatoric 
+straining in the absence of bulk stress (pure shear), but its quantitative use is severely 
+restricted by the inherent nonlinearity of ice viscosity and by the effective nonlinearity 
+of both elasticity and viscosity which is caused by volumetric straining. 
+Three-element model 
+In elementary rheology a three-element model consisting of a spring in series with a 
+Kelvin—Voigt unit is usually considered. The relevant equations are given in Fig. 1 ; 
+they represent a degeneration of the equations for the Burgers model with r\m = °°, 
+although in the solution for constant strain rate the correspondence is not immediately 
+obvious. An alternative three-element model can be obtained by retaining the Maxwell 
+dashpot and eliminating the Maxwell spring. 
+Two-element model 
+The simple Maxwell and Kelvin—Voigt models give representations that are qualitatively 
+incomplete for snow under typical loading conditions, but they may sometimes provide 
+useful simplifications for analytical purposes. It is usual to assume a two-element model 
+for analysis of vibrational tests designed to measure dynamic modulus, dynamic 
+viscosity, loss tangent, relaxation time, etc. The Kelvin—Voigt is the usual choice. 
+Sinusoidal oscillation applications for models 
+With sinusoidal oscillation of stress or strain there is viscous energy dissipation and 
+consequently a phase lag between stress and strain. For alternation at angular 
+frequency co with stress and strain amplitudes of a0 and e0, stress/strain relationships 
+are expressed as 
+a = Y(ico)e0eiœr (5) 
+e = J(iu>) a0e/ajr (6) 
+where Y(ioj) and J(ioo), the complex modulus and complex compliance respectively, 
+are defined as: 
+Y(icj) 
+JQOJ) '-
+-- Y, + iY2 
+Jl + iJ2 
+(7) 
+(8) 
+y, and Ju the real parts, are the storage modulus and storage compliance respectively; 
+these express elastic properties and give a measure of stored strain energy. The 
+imaginary parts Y2 and J2 are the loss modulus and loss compliance respectively; they 
+=== PAGE 7 ===
+A review of basic snow mechanics 257 
+3 
+3(K-
+2 
+3K-
+X) 
+-2G 
+are related to energy dissipation by viscous damping, which is given by the loss factor, 
+or loss tangent, tan 5, where 5 is the lag angle between stress and strain: 
+Y2 J2 
+tan5 = — = — (9) 
+Expressions for Y\, Y2,J\ and/2 according to the various rheological models are 
+given in Fig. 1. When elastic modulus (Young's modulus) and loss tangent have been 
+measured, dynamic viscosity according to a certain model can be found from 
+equation (9). 
+The properties discussed above are all frequency-dependent. 
+Simple elastic properties of coherent snow 
+Unless otherwise stated, the elastic modulus of snow is identified with the modulus of 
+the Maxwell unit in the Burgers model. Data are commonly presented in the form of 
+Young's modulus E, from which other elastic constants (bulk modulus K, shear 
+modulus G, Lamé's constant X) can be derived by the standard identities if Poisson's 
+ratio v is known: 
+E 2G{\+v) \(1+I0 3X + 2G 
+K = = — = = (10) 
+3(1 -2f) 3(1 -2v) 3v 
+E 3K(\ - 2v) X(l - 2v) _ ,_. .., G = = _^ i = -1 i = _^ '. (11) 
+2(1 + v) 2(1 + v) 2v 
+vE 2Gv 3Kv 
+X = = = = (12) 
+(\+v){\-2v) {\-2v) (l+i>) 3 
+The most consistent data for dense snow are derived from field measurements of 
+seismic velocity and laboratory measurements of pulse velocity or high frequency 
+(102—103Hz) flexural vibrations. Figure 2 gives a general impression of E as a function 
+of snow density for cold snow, together with a summary of corresponding values of 
+Poisson's ratio, as determined by dynamic methods.* 
+Traditional quasistatic uniaxial loading tests are inherently deceptive when applied 
+to snow, since they produce stress/strain curves that represent the response of all 
+elements of the Burgers model. If the test is run at high strain rates, the initial tangent 
+modulus from a uniaxial stress/strain curve should give a good approximation to the 
+'Maxwell spring' modulus, provided that good experimental technique is employed. 
+However, with low compliance specimens (dense and cold), contact imperfections at 
+the loading platens will depress the apparent value of initial tangent modulus if 
+displacement is measured across the platens rather than across the specimen itself. 
+Figure 2 gives values of initial tangent modulus derived from careful tests on cold 
+snow. The results for high density snow are lower than the dynamic values by a factor 
+of 2; since the tests were run at high strain rates on 'stiff snow, the discrepancy may 
+well be attributable to the fact that strain was calculated from platen displacement. 
+Extrapolation of the dynamic data suggests that uniaxial values for low density snow 
+may be low by a factor of 5, probably because of the low strain rates and low viscosity 
+of the snow. 
+The true effect of temperature on E is hard to determine. In uniaxial tests where 
+apparent initial tangent modulus is rate-dependent, a change of temperature will have 
+the effect of changing the rate or frequency by virtue of its strong influence on 
+viscosity. The best estimates of true temperature effect are obtained from high 
+* In this and subsequent figures where a mechanical property is related to a single independent 
+variable, the width of data bands partly reflects variation of secondary parameters (e.g. structural 
+characteristics or temperature conditions). 
+=== PAGE 8 ===
+258 Malcolm Mellor 
+io5 
+10'r 
+~T "i i i i r 
+// *S 
+y i i > i 
+„>*** 
+a 0.4 0.6 0.8 
+p. Density (g/cm3. Mg/m3) 
+I 
+_L J_ 
+—• 1.0 
+_L 
+-10 -100 
+8 Temperature (°C) 
+I I I I I 
+0 0.2 0.4 0.6 0.8 
+p, Density (g/cm3, Mg/m3) 
+FIGURE 2. Young's modulus for dry, coherent snow. (A) Pulse propagation or flexural 
+vibration at high frequencies, -10° to -25°C (Smith, 1965; Nakaya, 1959a, b; Bentley et al, 
+1957; Crary étal, 1962; Lee, 1961; Ramseier, 1963). (B) Uniaxial compression, strain rate 
+approximately 3 X IO-3 to 2 X 10~V, temperature -~25°C (Kovacs et al, 1969), (C.) Uniaxial 
+compression and tension, strain rate approximately 8 X 10~6 to 4 X 10~V, temperature -12° 
+to ~25°C. (C2) Static creep test, -6.5° to -19°C (Kojima, 1954). (D) Complex modulus, 
+103Hz,-14°C (N.Smith, 1969). 
+frequency vibration experiments, which suggest that E does hot vary much over 
+typical temperature ranges for dry snow (Fig. 2). 
+The data summarized in Fig. 2 refer to dry snow that is well bonded. Values for 
+granular snow with low cohesion are smaller, and E increases exponentially with time 
+during sintering, finally tending asymptotically.to a limit. When dense snow is 
+artificially disaggregated and then allowed to sinter at approximately ^10°C, the 
+initial value of dynamic modulus is typically about 40 per cent of the value reached 
+after 3 weeks, and about 30 per cent of the value reached after 1 year or more. 
+Perhaps the most important conclusions that could be drawn for the theoretical 
+mechanician concern the linearity of elasticity in snow. If the problem involves bulk 
+stresses that are insignificant (e.g. pure shear or, more practically, small bulk stress in 
+dense snow), then it may be justifiable to assume that snow is linearly elastic, 
+permitting application of simple elastic theory. However, if bulk stresses are significant, 
+=== PAGE 9 ===
+A review of basic snow mechanics 259 
+density will increase irreversibly in response to increases of bulk stress, and the elastic 
+modulus is a very strong function of density, varying by three orders of magnitude 
+or more within the range of densities commonly encountered in field situations. 
+Viscoelastic properties of coherent snow 
+At first sight it appears quite feasible to determine separately the moduli and viscosity 
+coefficients of the Burgers model from quasistatic tests, e.g. by analysing constant-stress 
+creep curves according to equation ('2j. However, there are practical difficulties in 
+making tests that do not involve significant bulk stress, and since elastic and viscous 
+properties are highly sensitive to density change, simple tests such as the uniaxial 
+compression test can be misleading. One alternative is to use vibrational techniques, 
+such as have been described by Nakaya (1959a, b), Lee (1963), N. Smith (1969), and 
+Chae (1967). A snow specimen is set in flexural, torsional or longitudinal oscillation, 
+and viscoelastic properties are calculated from test measurements, usually by assuming 
+either a Kelvin—Voigt or a Maxwell model for analysis (see equations (5)—(9) and 
+Fig. 1). 
+Values for the real part of the complex modulus have already been discussed and 
+given (Fig. 1); a plot of the complex modulus as a function of density has been added 
+to Fig. 2 for comparison. Variation of the complex modulus with frequency is 
+indicated in Fig. 3. 
+,1,1 
+" 
+-
+cl 
+'«^ Jo.9liJJ ' ' -IO°C 
+(Nakoya, 1959) 
+-|4°C 
+(Smith, 1969) 
+il 
+,1 , 
+r ' yO(g/cm3) . 
+0.88 
+0J2__-
+068 
+OJ55^ 
+0.48 
+Cv48__ 
+1 ' I 
+* 
+1 1 
+1 
+1 MM. 
+~ 
+-
+__-4°C 
+— (Chae, 1967) 
+! 1 ! 1 1 10" 
+10' 10° 
+Frequency (Hz) 
+FIGURE 3. Dynamic Young's modulus as a function of frequency. 
+10" 
+Variation of the loss factor tan S with frequency does not appear to be very well 
+defined, although there is clearly a decrease with increasing frequency (Fig. 4). The 
+available data for loss tangent as a function of density (Fig. 5) are confined mainly to 
+densities higher than those normally found in seasonal snowpacks, but there are 
+indications that tan 5 rises to high values, say 0.4, at densities representative of 
+surface snow layers. Nakaya's (1959a, b) data indicate that tan S is a very strong 
+function of temperature between —5° and —20°C, although rough interpolation from 
+other data suggests a less strong temperature-dependence in this range (Fig. 6). 
+Between ^50° and —90°C, maxima in tan S occur; these are reminiscent of similar 
+features that relate to dielectric processes. 
+Dynamic viscosity TJ can be calculated from the loss factor when a suitable 
+rheological model is assumed. For a Maxwell model, r\ = E/(co tan 5), and for a 
+Kelvin—Voigt model, rj = (E tanS)/co. In Fig. 7 dynamic viscosity values are plotted 
+against frequency, indicating a decrease with increasing frequency. Dynamic viscosity 
+is plotted against density in Fig. 8, showing a rapid increase of viscosity with increasing 
+=== PAGE 10 ===
+260 Malcolm WleUov 
+U. lb 
+0.12 
+0.08 
+0.04 
+1 
+-
+-
+1 
+' 1 i 1 ' 1 ' 1 
+p e (g/cm3)(°C) 
+0.48, -
+' 
+3.63,-9 
+0.91,-510-10, 
+i 1 i 1 i 1 i 1 
+1 i 1 i l 
+e, 1967 
+Nakayo, 1959 
+1 i 1 , 1 
+i 1 i 
+-
+-
+-
+™ 
+-
+i 1 i 
+10' 10° 
+Frequency (Hz) 
+FIGURE 4. Loss factor plotted against frequency. 
+10' 
+0.20 
+0.16 
+00 
+0.12 
+-I 0.08 — 
+FIGURE 5. 
+1 1 1-
+•9°C 
+500 Hz 
+fa, 1959 
+"i'i, "r'J 
+J_ 
+0.2 0.4 0.6 
+p. Density (g/cm3, Mg/m3) 
+Loss factor as a function of density. 
+"1 r 
+density. Variation of dynamic viscosity with temperature does not appear to have been 
+investigated systematically for snow, but Nakaya's (1959a) results for ice indicate 
+variation according to an Arrhenius-type relation with activation energy values ranging 
+from 12.7 to 18.7k.cal/mole. 
+=== PAGE 11 ===
+A review of basic snow mechanics 261 
+oes-JDq 
+o 
+J I ! I 
+T 
+-
+-
+~ ~ 
+-
+z. 
+-
+-
+i, 
+i i i 
+"E 
+0.91 g/c 
+<L 
+i i , 
+I 
+o 
+5 to-10 
+j, 
+~, 
+1 
+o 
+|'l i 1 ' 
+2og 
+p^-s £ z — 
+1.1 1 1 1 
+! 
+ro 
+ID 
+d 
+Q. 
+1 
+a> 
+1 CD 
+1 
+o 
+I'M 
+1,1, 
+o 
+1 1 ' 1 111 i 1 1 
+= 0.48 
+ex. 
+y 
+y 
+y 
+y 
+y 
+y 
+y 
+y y 
+y 
+1,1, 1 l,i, i , i 
+CB 
+1 
+y 
+y h-
+196 
+a JZ 
+o 
+1 
+"O 
+c 
+O 
+|'M | ' ! 
+en 
+m o> 
+o 
+a 
+a 
+1,1,1, ! 
+O 
+1 |M '-
+y' — 
+yS _ 
+-
+~z 
+— 
+-
+^ -
+-
+1 ,1 
+o o 
+(ssiod) A|,soos|A U, ' U 
+Q 
+w 
+D 
+O 
+_ _ 
+-
+— -
+-
+— 
+~ — 
+-_ 
+_ 
+-
+— 
+-
+1 1 
+X 
+O 
+eu 
+CM 
+u 
+M 
+1 1 
+1 1 *> ~ £ ~ 
+en 
+m — 
+d _ l 
+N 0) O O 
+x o — _ —.. *t ai 
+***** / v< ~ >v "*'••. 
+\\ "**• -\ \ } — 
+-iy"'* 
+— 
+i i 
+o d o d 
+e 
+w ci 
+O 
+O UDl 'JOPDJ SSO") 
+=== PAGE 12 ===
+262 Malcolm Mellor 
+10'" 
+I09 — 
+I07 -
+r 
+— 
+-_ 
+r 
+_ Iini i i i i lihi i l 
+-
+i 
+-7 
+1 
+to-|( 
+' 1 
+1 1 
+ïtati c 
+J, 1954) 
+1 1 
+1 
+-9° 
+1 
+1 1 1 
+( 
+71 Dynamic 
+'M 
+100-600 Hz 
+(Nokaya, 1959) 
+1 1 1 
+1 1 lllll 
+— 
+--1 1 11 III 
+i 
+— 
+1 
+-\o' 
+10° 
+FIGURE I 
+0.2 0.4 0.6 
+D, Density (g/cm3, Mg/m3) 
+Viscosity as a function of density. 
+Practical experimental difficulties have inhibited application of dynamic methods 
+to low density snow, so that data are lacking in this region. Kojima (1954) undertook 
+quasistatic creep tests on low density snow in order to determine the moduli and 
+viscosities of the Burgers model, and his values of T?M have been plotted in Fig. 8. 
+One possible source of trouble in dynamic measurements at high temperatures 
+might be temperature rise in the specimen due to internal energy dissipation. 
+Relaxation times for high-frequency vibration (given by -qK/EK, or tanô/co) 
+appear to be in the range 10~5 to 10"3s, which is suggestive of molecular processes 
+within the individual ice crystals (dielectric relaxation times are of the same order). 
+However, relaxation times derived from quasistatic measurements (Kojima, 1954; 
+Shinojima, 1967) are very much greater (5-2000 s),* and Shinojima (1967) finds 
+r decreasing with strain rate (approximate inverse proportionality) for the range 
+8 x 10~6 to 4 x 10~4s_1. The latter suggests a bulk property that may be dependent 
+on structural arrangement and connection of constituent crystals. 
+Viscous behaviour in sustained creep 
+Relaxation times for the Kelvin—Voigt unit are short, and so for sustained creep 
+processes the stress/strain/time relationships ought to be controlled by the Maxwell 
+viscosity T7M. The most direct way to study this property is to make constant-stress 
+creep tests and thus obtain relationships between stress and strain rate for secondary 
+creep. However, such results tend to be complicated by volumetric straining if bulk 
+stress is significant; this complication can be avoided by employing a pure shear test 
+(torsion of a hollow cylinder; application of equal-magnitude, opposite-sign principal 
+stresses), or by applying stresses that are small relative to the creep resistance (density). 
+* Ramseier and Pavlak (1964) report values up to 8 X106 s. 
+=== PAGE 13 ===
+A review of basic snow mechanics 263 
+Unfortunately, adequate precautions have been lacking in some test programmes, and 
+the resulting stress/strain-rate data could be somewhat misleading. Nevertheless, creep 
+test data show quite clearly that for snow of a given density the stress/strain-rate 
+relation for secondary creep is strongly nonlinear. The latter fact has an important 
+bearing on the interpretation of viscosity data obtained by less direct means. 
+'Uniaxial stress viscosity' 
+Very simple techniques have often been used for making creep tests under uniaxial 
+compressive stress. For example, a cylinder or prism of snow is subjected to constant 
+axial deadload and allowed to deform until a plot of displacement against time 
+appears to become linear, at which time final strain rate is recorded against initial 
+stress and initial density. This method works well as long as the stress level is low and 
+total strains are small, but otherwise it is unsatisfactory unless special data analysis 
+methods are adopted. It can be particularly misleading when stress/strain-rate 
+relationships are being investigated. 
+10'"^" 
+< 10 -
+— 
+-
+; 
+-
+-
+-
+-
+— 
+^ 
+Ë 
+_ -
+¥" 
+-1 
+— 
+r 1 
+-
+r i 
+-
+zr-
+_ 
+" 
+i i 
+/ 
+i 
+i i 
+I 
+\ 
+„v 
+•-I to 
+Comp 
+i 1 
+C 
+S^\ 
+i i i 
+/ 
+J i 
+i 
+i 
+1 1 1 1 
+( 
+-22 to-48 °C 
+0.08 to 0.5 bar 
+A 
+B 
+-1 to-35 
+0.5 bar 
+-1 to-40°C 
+0.01 to 0.07 bar 
+-35°C 
+ress on and Extension 
+1 1 1 1 
+1 ' L A) 12 bar, Temp C 
+A-61 .= 
+-
+Û-463 
+. 
+û-30^ 
+_ 4-22-
+E _ 
+Û-IO -
+A-5_ 
+°c 2 
+à 0 -
+/ -2to-IO°C -
+0.08 to 20 bar -
+-
+— 
+"I 
+-
+-
+1 -1 i i hill 
+-
+1 1 1 
+-^IO8 
+I0b 
+0 0.2 0.4 0.6 0.8 
+p, Density (g/cm3, Mg/m3) 
+FIGURE 9. 'Axial viscosity' (principal stress/strain-rate ratio for creep under uniaxial 
+stress) plotted against density. (A) Ramseier and Pavlak, 1964. (B) Mellor and Smith, 1967. 
+(C) Bûcher, 1948. (D) Shinojima, 1967. (E) Mellor and Smith, 1967; Mellor and Testa, 
+1969. 
+=== PAGE 14 ===
+264 Malcolm Mellor 
+Uniaxial test results are not normally analysed to separate dilatational and deviatoric 
+effects, and data are usually in the form of axial stress/strain-rate relationships, or in 
+terms of an 'axial viscosity'. This 'uniaxial stress viscosity' is the ratio of axial stress 
+to axial secondary strain rate; it is analogous to Young's modulus, and here is 
+designated TJE. Figure 9 gives a general impression of the magnitude of r?E, and it is 
+immediately evident that values fluctuate wildly. For a given material, r;^ can vary 
+by 4 to 5 orders of magnitude as temperature and stress level vary within conceivable 
+practical ranges. 
+Variation of creep viscosity with temperature is usually represented by an 
+Arrhenius relation (see Fig. 10). Values of the appropriate activation energy found by 
+direct experiment lie in the range 11 — 18 kcal/mole (Mellor and Smith, 1966), while 
+other test data (Bûcher, 1948) suggest values from about 9—20 kcal/mole. More 
+careful experiments give a value of 16.4 kcal/mole for polycrystalline ice, and show 
+quite clearly that the Arrhenius relation breaks down at temperatures above — 10°C 
+with ice of typical chemical purity (Mellor and Testa, 1969). Although it has a basis 
+in chemical rate theory, the Arrhenius equation gives a poor mathematical description 
+of temperature-dependence for the viscosity of snow (Mellor and Smith, 1966) and 
+for some other properties that are controlled by more than one activated process or 
+mechanism. Alternative empirical equations (e.g. simple exponential) could be 
+considered for application to constitutive equations. 
+FIGURE 10. Variation of viscosity with temperature according to Arrhenius relationship. 
+=== PAGE 15 ===
+A review of basic snow mechanics 265 
+ov = pgdz 
+dz dz 
+dr da 
+dV 
+ev = —- = -dz 
+= Ats 
+da À 
+dr pg 
+À dp 
+p2g dz 
+'Compactive viscosity ' 
+About 20 years ago, Bader (1953) drew attention to Sorge's (1935, 1938) observations 
+and deductions relating to the time-invariance of Greenland snow density profiles; 
+he went on to formalize steady-state relationships between density p and accumulation 
+rate A (Bader, 1960, 1962), and defined a 'compactive viscosity' 7?c as the ratio of 
+overburden pressure ov to vertical strain rate év at any given depth z in a flat-lying 
+deposit of dry snow: 
+ffv 
+Vc = - (13) 
+(14) 
+(15) 
+1 dp - -f (16) 
+p dr 
+where rs is the elapsed time since the layer in question was deposited at the surface 
+and V is the velocity at which it sinks below the surface. Viscosity values obtained 
+from this ingenious scheme were used with considerable success in engineering analyses 
+of foundation settlement and tunnel closure in Greenland and Antarctica. The concept 
+was also applied to settlement of seasonal snowpacks by other investigators. 
+Compactive viscosity has been widely regarded as characterizing continuous steady 
+creep, Bader himself assuming newtonian viscosity for stresses less than 0.8 bar, but 
+in view of the demonstrated nonlinearity of viscosity and the implicit relation between 
+av and p in determinations of T?C, a careful appraisal seems called for. 
+Sequential measurements of density in snow deposits yield diagrams known as 
+'layer profiles', in which the density of a given layer is plotted against time, and 
+increments of new snow accumulation are recorded. Layer profiles for seasonal 
+snowpacks show that when new snow is added to the surface, each underlying layer 
+densifies rapidly for a few days, but gradually the vertical creep decays to a relatively 
+insignificant rate. The same behaviour is found in uniaxial-strain compressive creep 
+tests. Thus densification occurs largely by a quasiplastic collapse of limited duration 
+rather than by a steady creep, and apparent values of 77c are partly dependent on the 
+interval between snowfalls. 
+This type of densification is in the nature of an equilibration process. After each 
+event the stress is at a level which produces only very slow creep, but any significant 
+addition to that stress gives disproportionately rapid creep, a situation similar to the 
+equilibration of maximum deviator stress in glaciers. Thus ?7C, which must be nonlinear 
+with respect to stress or strain rate, is automatically determined for a stress level that is 
+critical for the prevailing snow density. 
+Figure 11 gives values of r/c calculated from field observations, together with some 
+results from uniaxial-strain creep tests. The discrepancy between values for polar 
+snowfields and for seasonal snowfields seems too great to be explained by temperature 
+difference alone; it is possible that the seasonal snow values reflect basic shortcomings 
+of the concept when large discrete snowfalls occur at frequent intervals. In view of the 
+uncertainties surrounding the determination and interpretation of T?C, it may be safer 
+to work directly with stress/strain-rate data. 
+Sustained creep is of overwhelming importance in snow mechanics, but in view of 
+the complications arising from nonlinearity of viscosity with stress and density, it is 
+necessary to have some systematic framework for analysis of viscous deformation in 
+multiaxial stress fields. 
+=== PAGE 16 ===
+02 0.4 
+p. Density (g/cm3, Mg/m3) 
+0.6 
+FIGURE 11. 'Compactive viscosity' (major principal stress/strain-rate ratio for creep 
+under uniaxial strain) plotted against density. (A) Greenland and Antarctica, -20° to 
+-50°C (Bader, 1963). (B) Seasonal snow, Japan, 0° to -10°C (Kojima, 1967). (C) Alps 
+and Rocky Mts (Keeler, 1969). (D) Uniaxial-strain creep tests, -6° to -8°C (Keeler, 1969). 
+(F) Uniaxial-strain creep tests, -23° and -48°C (Mellor and Hendrickson, 1965). 
+Simple stress analysis 
+Further discussion of mechanical behaviour is facilitated by separating volumetric, or 
+dilatational, effects from pure shear, or deviatoric, effects. The general stress tensor 
+ay can be split into deviatoric components a[-v which tend to change the shape of an 
+element without change of volume, and a dilatational (isotropic) component, or bulk 
+stress 5, which tends to change only specific volume: 
+°\i = fflj+V = ffij+35ijOkk (17) 
+(/, /, £ = 1,2,3, or x, y, z; Sy = 1 when / =/, Sy = 0 when / ¥= /; repeated suffix denotes 
+summation). 
+It is also convenient to express stresses in such a way that they are independent of 
+the directions of coordinate axes. Stress invariants /, ,I2,h are expressed in terms of 
+cartesian components axx, axy, etc., or principal stresses a,, a2, o3, as: 
+ayxavv + avva„ + ar,a *2 "xxvyy ' vyy"zz ' vzz"xx ~~ "xy CTyz~ 0Îx = 0lO2 + O203 + Oi0l 
+CTxx°Vz ^yy^zx ^zz^xy "*" ^xy^yrPz h ~ crxxCTyyCTzz 
+The bulk stress, or octahedral normal stress, a is 
+° = 1 Oxx + ffyy + ffzz) = i(o.l + a2 + 03) = \l 
+°\ a2 a3 
+(18) 
+(19) 
+(20) 
+(21) 
+=== PAGE 17 ===
+A review of basic snow mechanics 267 
+The octahedral shear stress roct, which is also independent of coordinate axes, is 
+root = 1 [(ai - o2f + (a2 - a3)2 + (a3 - a,)2]* = V(2)/3 (/? + 3/2)'/2 (22) 
+Corresponding relationships exist for strain e^, and for strain rate èjj. 
+A 'bulk viscosity' fj, analogous to the elastic bulk modulus K, and a 'shear 
+viscosity' u, analogous to the elastic shear modulus G, can be defined such that 
+(23) 
+(24) 
+i°i 
+a'n 
+and there 
+°ij 
+i = rth 
+= 2uè'Vi 
+fore, if isotropy is assume 
+= 2uen + Sjjfjékk 
+:d 
+(25) 
+Under this scheme, test data can be analysed to yield constants that are potentially 
+applicable to general multiaxial stress states. However, there are still serious problems 
+to be solved, since fj and u are nonlinear with respect to stress, and they vary greatly 
+with density (or specific volume), strain rate, and temperature. Salm (1967) has 
+approached these problems by assuming f\ and u to be functions of the invariants of 
+strain rate, but other approaches can be taken. This is the essence of the problem in 
+deriving a viscous, or viscoplastic, constitutive equation for snow. 
+From equations (23) and (24), compactive viscosity r?c and 'uniaxial stress 
+viscosity' % can be expressed in terms of fj and u: 
+Vc = V+^U (26) 
+9 vu 
+% = ~f (27) 
+With a matched pair of tests giving T?C and r/£ for the same snow under similar 
+conditions, values of fj and u can be determined from equations (26) and (27). 
+However, data sets of this kind are not normally available, and it may be necessary 
+to resort to more devious methods, such as estimation of the viscous analogue of 
+Poisson's ratio vv, which may be defined as 
+3fj — 2u , ^ 
+(28) 2(3fj+M) 
+Figure 12(a) gives a summary of experimental data for vv. These results are widely 
+scattered, but a suggested envelope of probable values for compression is given in 
+Fig. 12(b). 
+For most quasistatic problems in snow mechanics, gravity body forces are 
+significant or even dominant, and they have to be incorporated into the equilibrium 
+equations, which for negligible acceleration are: 
+-y + pg-t = 0 (29) 
+The equation representing resolution normal to the free surface of an extended snow 
+mass can usually be integrated directly to give one component of normal stress (which 
+may or may not be a principal stress), as in the case of densification theory. Other 
+components of normal stress can sometimes be estimated with acceptable accuracy 
+by assuming an appropriate value of vv. 
+Volumetric strains, irreversible compressibility, and equations of state 
+With typical engineering materials (e.g. metals, solid plastics, dense ceramics, rock, 
+concrete) there is usually an obvious reference state for the unloaded material; 
+=== PAGE 18 ===
+268 Malcolm Mellor 
+M. 
+0.4 
+0.2 
+i 1 I 1 I 
+*7~T*1 Calculated from data by DeQuervain, 
+I'll 
+1966 (•) Yosida,l963 
+Incompressible^) 
+Uniaxial Tension* 
+' ' A 
+o •» 
+— o 
+•1 
+" 
+Uniaxial Compression* 
+< 1 i I i 
+/ 
+-
+-
+ider et al., I95I 
+. Roch, 1948 
+"(Shinojima, 1967) 1 i 'i i 
+0.2 0.4 0.6 
+O, Density (g/cm3 , Mg/m3) 
+0.8 
+FIGURE 12. Summary of data for viscous analogue of Poisson's ratio (a), and speculative 
+envelope for viscous analogue of Poisson's ratio (b). 
+volumetric strains tend to be small and substantially reversible up to the point of 
+incipient failure of the material, and it is quite realistic to describe the volumetric 
+stress/strain behaviour by a simple rate-dependent bulk modulus. 
+Typical snow is very different, in that compressive volumetric strains are large 
+and substantially irreversible, resistance to deviatoric straining is highly sensitive to 
+volumetric strain, and in many problems it is unrealistic to interpret irreversible 
+volumetric strain as 'failure'. Thus it is not sufficient to characterize the mechanical 
+behaviour of snow solely in terms of the original physical state (density, etc.) and the 
+state of stress; it is necessary to also account for the stress or strain history. 
+In principle, the last statement applies to virtually all materials, and in rational 
+mechanics there exist formal procedures that account for stress or strain history. 
+However, the practical difficulties of treating stress history are formidable, and with 
+snow the difficulties are accentuated by the time-dependent structural changes that 
+can occur almost independently of stress (sintering, grain growth, etc.). 
+In those branches of solid mechanics where compressibility and large volumetric 
+strains are major considerations, it is usual to define .'equations of state', which give 
+=== PAGE 19 ===
+A review of basic snow mechanics 269 
+relationships between hydrostatic pressure and specific volume. Since temperature 
+and strain rate are controlling parameters, there are innumerable pressure/volume 
+relations for any given material; of special interest are the relations for slow isothermal 
+compression and for adiabatic shock compression. For materials with finite yield 
+stress, the 'isotherm' in a pressure/volume plot sets a lower limit to the family of 
+compressibility curves, while the shock adiabat sets an upper limit. The latter relation, 
+which represents the locus of final states for shock compression, is known as a 
+Hugoniot, or sometimes as the Rankine—Hugoniot equation of state; the actual 
+stress/strain path between the initial state and any given final state is known as the 
+Rayleigh line. 
+When snow is compressed hydrostatically, density increases quite readily until the 
+grains are 'close-packed', after which the snow becomes more resistant, and there is 
+more gradual compression to porous but impermeable ice, which in turn can be 
+compressed to solid bubble-free ice. If compression is continued, the Ice I-h formed 
+from snow undergoes successive transformations to high-pressure polymorphs. Since 
+density is the reciprocal of specific volume in dimensional form, any graph that gives 
+a systematic relationship between pressure and density can be interpreted as an 
+equation of state. As already mentioned, the upper limit to the system of pressure/ 
+density curves is set by the high-rate shock adiabat, but because snow does not appear 
+to have a finite yield stress there is, in principle, no lower limit to the curves representing 
+isothermal compression. However, for practical purposes there does appear to be a 
+lower limit; it represents the maximum density that can be reached under a given 
+sustained pressure in time periods of the order of months or more. This has already 
+been referred to in the discussion of compactive viscosity. 
+True hydrostatic tests are rarely made, and compressibility characteristics have to 
+be deduced mainly from uniaxial strain experiments, results of which are summarized 
+in Fig. 13. The same data are replotted in terms of bulk stress a, or first stress 
+invariant Iu in Fig. 14, the transformation being effected by assuming appropriate 
+values of vv (see Fig. 12) and calculating secondary principal stresses for the uniaxial 
+strain conditions. 
+In attempting to define the adiabatic upper limit to the compressibility character­
+istics, only one set of Hugoniot data (Napadensky, 1964) can be drawn upon; the 
+only other known attempt to measure these characteristics (J. Smith, 1969) involved 
+shock tube experiments that produced volumetric strains far too small to yield 
+meaningful Hugoniots. The original results by Napadensky clearly contain gross errors 
+(densities in excess of 1.1 g/cm3 at pressures of the order of 100 bar), but for the 
+range plotted in Figs. 13 and 14 the data are probably reasonably valid. No Hugoniot 
+data are available for snow of typical densities, but an effort has been made to fill the 
+gap by drawing on calculations for high-speed impact stress (Mellor, 1968). These are 
+based on mass and momentum conservation, and assumption of a limiting density for 
+compaction under plane-wave impact. Kinosita's (1967) compression data, which 
+were generated at rather low rates with a somewhat ill-defined stress state, converge 
+with the Napadensky Hugoniot data, and this suggests that it may be possible to 
+obtain a good approximation to the high-rate compressibility characteristics by 
+simple uniaxial strain compression tests on a modern testing machine (the high-speed 
+actuator of CRREL's closed-loop servo machine has a maximum controllable speed of 
+0.42 m/s, which is almost 4 orders of magnitude higher than the speeds used in 
+Kinosita's experiments). However, for impact at very high speeds it seems likely that 
+there could be stresses significantly higher than any shown in Figs. 13 and 14. 
+Dr G. K. Swinzow of CRREL finds that when inert projectiles of steel and aluminium 
+are fired at velocities around 103m/s into snow of density 0.4-0.5 g/cm3, the 
+metals (which have yield stresses of the order of 3 x 103 to 5 x 103 bar) are deformed 
+plastically, suggesting stresses of the order found in Hugoniots for ice. This condition 
+=== PAGE 20 ===
+270 Malcolm Mellor 
+p, Density (g/cm3, Mg/m3) 
+FIGURE 13. Compilation of data relating major principal stress to bulk density for 
+compression in uniaxial strain at various rates and temperatures. (A) Natural densification 
+of snow deposits, -1° to -48°C. Approximate average loading rates 1CT10 to 10"8 bar/s 
+(data from depth/density curves for many sites). (B) Slow natural compression of dense 
+firn and porous ice. Approximate loading rates 10~10 to 10-9 bar/s (from depth/density 
+curves for polar ice caps). (C) Slow compression of solid ice. (D) Isothermal compression 
+of high pressure polymorphs of ice, -10°C (Bridgman, 1-911, 1937). (E) Calculated values 
+for plane wave impact at 20-40 m/s (Mellor, 1968). (F) Hugoniot data for explosively 
+generated shock waves (impact velocities 1-12 m/s), -7° to — 18°C (data selected from 
+Napadensky, 1964). (G) Hydrostatic compression under constant stress at -10°C. Strain 
+rates 10~6 to 10" V (Landauer, 1957). (H) Hugoniot data for solid ice at -10°C (Anderson, 
+1968). (I) Hugoniot data for solid ice at -10°C (Nakano and Froula, 1973; Larson et al., 
+1973). (J) Compression at approximately constant strain rate, -7° to -18°C. Strain rate « 
+10"" s"* (Kinosita, 1967). (K) Compression in uniaxial strain - incremental loading to 
+collapse, -2° to -3°C (Bûcher and Roch, 1946). 
+of virtual incompressibility is probably reached when the velocity of the plastic 
+'wave' (density jump) approaches the elastic wave velocity of the snow. 
+Compressibility curves for slow isothermal straining can be obtained from depth-
+density relations. Integration of unit weight with respect to depth gives a relation 
+between major principal stress and density for uniaxial strain, and a conversion to 
+bulk stress can be made with the aid of estimated values of vv, as mentioned above. 
+=== PAGE 21 ===
+A review of basic snow mechanics 271 
+io" = 
+<o 10 
+~ iou =-
+ID 
+IO'=r 
+r I I 
+5 
+— 
+-
+— 
+-
+? 
+— 
+=-
+— 
+I I 
+I I I 
+/' 
+y 
+s 
+I I I 
+I I I 
+yy y 
+I I I 
+-/ 
+r" 
+I c 
+I 
+-IO°C Shock Adia 
+(Hugoniot) 
+_,- . / 
+/-IO°C Bridgman 
+/ Isotherm 
+I I I 
+bat 
+I 
+-_ I i I ihlil 
+— 
+-
+— 
+-I I Illllll 
+7= 
+-z 
+— 
+-
+0.2 0.4 0.6 0.8 I.O 
+p, Density (g/cm3, Mg/m3) 
+1.2 1.4 
+FIGURE 14. 'Equation of state' data deduced from Fig. 13, together with equation of 
+state data for zero-porosity ice; density is the reciprocal of dimensional specific volume 
+(see legend for Fig. 13). 
+Figures 13 and 14 give a data band obtained in this way; dispersions due to variation 
+in initial surface density and to meltwater complications have been disregarded. This 
+band, which appears to set a practical lower limit to the compressibility domain, 
+represents stress rates from about 10"10to lCT8bar/s, and temperatures in the range 
+— 1° to —48°C. In the isothermal range, the compressibility curve would be expected 
+to displace upward with increasing stress rate and decreasing temperature. 
+With systematically derived compressibility curves (control of temperature and rate 
+parameters), intersections with an ordinate for constant density would give the rate-
+dependence of volumetric stress/strain relations. Currently available data are 
+inadequate for this purpose, but for medium-density snow it appears that the 
+compressibility domain spans 3 decades of stress for a corresponding span of about 
+12 decades of stress rate or strain rate, which suggests that strain rate may be 
+proportional to the fourth power of stress in this range. 
+In the absence of reliable information on rate-dependence, some problems, 
+including those involving low stress rates or strain rates, can perhaps be tackled on 
+=== PAGE 22 ===
+272 Malcolm Mellor 
+the assumption that density equilibrates with compressive bulk stress by a quasiplastic 
+collapse process, disregarding the fact that finite time is needed for equilibration. 
+If equilibrium stress/density data are available for a specified range of stress rates 
+and temperatures, e.g. the lowest band in Fig. 14, they can be expressed in terms of 
+a compression modulus Kp that is a plastic analogue of the elastic bulk modulus: 
+da 
+K„ dp 
+(30) 
+Figure 15 gives a plot of Kp for density equilibrations in snowpacks, and compares 
+values with those for elastic bulk modulus K. 
+Deviatoric stress/strain-rate relations at constant specific volume 
+In attempting to separate dilatational and deviatoric effects, it is helpful to consider 
+situations in which dilatational effects can be neglected. Such situations include pure 
+10 
+10 
+10 
+= IO 
+i 10 
+10 
+10 
+lastic Bulk Modulus 
+E 
+!3(l-2i/) 
+Juasi-plastic 
+•ession Modulus 
+KP -P <ip 
+0.2 0.4 0.6 
+p, Density (g/cm3) 
+0.8 
+FIGURE 15. Volumetric compression moduli plotted against density. 
+=== PAGE 23 ===
+A review of basic snow mechanics 273 
+shear stress states, and conditions in which bulk stress is below the limits set by the 
+appropriate compressibility curve. The objective here is to deduce deviatoric stress/ 
+strain-rate relations for snow of constant density, with special emphasis on the 
+relation for secondary creep. 
+Constant stress creep tests might appear to be an obvious source of data, but actually 
+only those tests in which the bulk stress is below the lowest limit of Fig. 14 are 
+directly useful. This tends to rule out most of the tests made for engineering purposes, 
+and data have to be sought from less obvious sources. 
+Tests designed to measure uniaxial compressive strength apply an approximately 
+constant strain rate until the specimen fails. In a test where the duration exceeds the 
+relaxation time of the specimen, the stress-strain diagram curves through a maximum 
+at failure, yielding a maximum ratio of stress to strain rate that corresponds to the 
+value obtained at the secondary creep inflection point of a constant stress creep test. 
+If it can be shown that this type of test produces failure without excessive volumetric 
+strain, then its results give a limiting value for the stress/strain-rate relation of the snow 
+under consideration. In view of the complications described in the previous section 
+it is hard to decide whether typical test durations exceed, or are comparable to, the 
+appropriate relaxation times, but stress/strain curves are certainly continuous through 
+a maximum when careful techniques are employed. With dense, dry snow, failure in 
+uniaxial compression does not appear to be preceded by volumetric collapse in typical 
+tests; apparent values of Poisson's ratio do not suggest large dilatations during loading, 
+and the bulk stress at failure is below the compressibility curve, for comparable loading 
+rates. Thus it will be assumed here that approximate limiting values for deviatoric 
+stress/strain-rate relations can be deduced from results of uniaxial strength tests 
+(Fig. 16). 
+Another unconventional data source is provided by deformation observations 
+made on uniform snow slopes (Mellor, 1973). At the end of the net accumulation 
+period, seasonal snowpacks have reached a stress/density equilibrium; volumetric 
+straining has virtually ceased, but on slopes the snow continues to shear under gravity 
+body forces. Stresses are easily calculated for long uniform slopes, and shear strain 
+rates can be measured by observing the deflection of compliant columns set into the 
+snow. It is rather remarkable that under these conditions the shear strain rate is 
+practically invariant with depth (and therefore invariant with shear stress). The logical 
+conclusion seems to be that shear resistance, being proportional to shear stress, is 
+therefore proportional to overburden pressure or bulk stress (shear stress and normal 
+pressure are proportional for constant slope angle). This is a very important clue to 
+the relationship between volumetric and deviatoric straining. 
+Observations made in the Alps and Rocky Mountains indicate that snow slopes of 
+approximately 30° inclination have depth invariant deviatoric strain rates in the range 
+1.1 x 10"8 to 2.8 x 10~8s_1 (Haefeli, 1939; Martinelli, 1960; Frutiger and Martinelli, 
+1966; Judson, 1973). If a relationship between normal stress and density is computed 
+from corresponding depth—density profiles or, alternatively, taken from data 
+compilations such as Fig. 13, then shear stress can be calculated for any given density, 
+since the ratio between shear stress resolved downslope and the stress normal to the 
+slope plane is equal to the tangent of the slope angle. Data thus obtained from 30° 
+slopes are plotted in Fig. 16. 
+Figure 16 attempts to give an impression of relations between deviatoric components 
+of stress and strain rate, with density as parameter, for conditions where volumetric 
+straining is insignificant. The relationship for low porosity ice, which is also shown in 
+Fig. 16, is well established, and this lends a certain plausibility to the trends that are 
+indicated for snow on the basis of very scanty data. It would be well worthwhile to 
+supplement the data of Fig. 16 by means of low stress creep tests and observations on 
+natural slopes of widely varying inclination. 
+=== PAGE 24 ===
+274 Ma 
+id2 
+.colnn Mellor 
+10 -
+s 10" • 
+S 10"' 
+1/3=0.2 
+""H" 
+0.3 
+l'I'l'l |l 
+0.4 
+TÏÏT H 
+0.5 0.6 
+/ 1 I I I i i i ! 
+1 i / / 
+II 
+1 i i ! 
+Il I I / / / II1 
+t' ' ' I 
+J/3=0.2|0.3 J0.4 *p,5 Jo.i :• 
+/ 
+-I0°C 
+/> = 0.48 
+D 
+I I liliul 
+"Tir 
+C — 
+I I I Mill 
+10 10 10 10 10 
+Deviaîoric {octahedral) Stress (bar) 
+FIGURE 16. Deviatoric stress/strain-rate relationships deduced indirectly from various 
+data sources. (A) Snow, =» -10°C (data from Butkovich, 1956; Kovacs et at, 1969; Smith, 
+1965;Mellor and Smith, 1965; Bûcher and Roch, 1948). (B) Snow, «0° to -7°C (calculated 
+and extrapolated from data by Haefeli, 1939; Martinelli, 1960; Frutiger and Martinelli, 
+1966; Judson, pers. comm.). (C) Ice, «0.9 g/cm3, -2° to -10°C (data from Mellor and 
+Smith, 1967; Mellor and Testa, 1969; Hawkes and Mellor, 1972). (D) Snow, 0.49 g/cm3, 
+-1° to -10°C (Mellor and Smith, 1967). 
+Constitutive equations for multiaxial stress states 
+In seeking a general constitutive equation it seems advisable to first consider 
+separately the relationships for deviatoric and dilatational effects. Presently available 
+data are inadequate for this purpose, but some speculation may be helpful for guiding 
+new experimental investigations. 
+In states of pure shear, snow of constant density seems to be quite similar to ice, 
+in that elasticity may be taken as linear while strain rate for secondary creep is 
+proportional to some power of stress in the ranges that are of most practical interest. 
+For the complete stress range,probable boundary conditions suggest that a simple 
+power law for steady creep is less suitable than a polynomial such as the hyperbolic 
+sine, but in practice this refinement is not of overriding importance. Parameters of the 
+secondary creep stress/strain-rate relation are temperature and density. The temperature 
+parameter has already been covered in the previous discussion of creep, but the earlier 
+presentation of viscosity data perhaps gives a misleading impression of density effects. 
+=== PAGE 25 ===
+A review of basic snow mechanics 275 
+From the very skimpy data of Fig. 16, it appears that strain rate for a given stress 
+varies enormously with density; for typical densities the relation can be approximated 
+by a simple exponential of the form e~ap, in which a * 30 cm3/g. 
+For more general shear situations, in which elasticity and viscoelastic creep transients 
+are involved, the stress/strain relations for pure shear become enormously complicated, 
+as can be seen if nonlinear viscosity is considered in the Burgers model. However, there 
+may be cases where an assumption of linear viscosity in a four-element model is 
+supportable if the problem involves a fixed time duration with small creep strains (the 
+situation which gave rise to spurious indications of newtonian viscosity in low stress 
+creep tests on ice). 
+The volumetric stress/strain relation is even more complicated than the deviatoric 
+one and, of course, volumetric strain strongly influences deviatoric strain rates. The 
+elastic bulk modulus is very strongly dependent on density and therefore on 
+volumetric strain: for snow of density less than 0.6 g/cm3, bulk modulus increases 
+with the sixth power of density. Bulk viscosity has a particularly complicated 
+dependence on strain, since it is controlled by the interplay of two opposing stress 
+effects. As the stress on typical snow increases, strain rate tends to increase corre­
+spondingly, and because volumetric strain is initially achieved by moving grains relative 
+to each other, just as in a deviatoric process, strain rate tends to increase with some 
+positive power of the stress. At the same time, resistance to volumetric straining is 
+increasing with strain (and therefore stress) according to some sort of exponential 
+trend. If viscoelastic creep transients were not involved, this effect might be described 
+qualitatively by something similar to 
+é = aane-ba (31) 
+in which a and b are 'constants' related to initial density and other factors, and n is 
+an exponent (>1) identifiable with the power law exponent for deviatoric stress/ 
+strain-rate relations. 
+The prospects for a rigorous volumetric constitutive equation are very discouraging, 
+and it seems inevitable that drastic simplications will be needed for problem solving. 
+In cases involving rapid compression and large strains the answer might be a rate-
+sensitive equation of state, or a quasiplastic compression modulus. In other cases 
+where total volumetric creep strain is small, it may be feasible to combine bulk 
+viscosity and shear viscosity through simple proportionality, in effect assuming that 
+the viscous analogue of Poisson's ratio remains constant. 
+The final step in formulating a complete constitutive equation is to combine the 
+dilatational and deviatoric relations into a single stress/strain/time relationship that 
+takes account of viscoelastic behaviour, including nonlinearity of elasticity and 
+viscosity, and is spatially three-dimensional. This development is nowhere in sight, and 
+greatly simplified approximations will have to be devised in accordance with the 
+conditions of each individual problem. However, continued efforts along the lines 
+pioneered by Salm (1967, 1971) seem important as a means of ensuring that simplified 
+constitutive equations are compatible with more general forms. 
+FAILURE 
+Failure of snow 
+The definition of failure in engineering materials is largely arbitrary, since it merely 
+refers to the conditions under which performance ceases to be satisfactory. It may 
+involve rupture, loss of load-bearing capacity, excessive strain, or excessive strain rate. 
+In snow, failure could be actual separation under shear or tension, acceleration of 
+deviatoric strain rate by onset of tertiary creep or by stress increase, volumetric 
+collapse or acceleration of volumetric strain rate, or other effects. This uncertainty 
+carries over into the definition of strength. 
+=== PAGE 26 ===
+276 Malcolm Mellor 
+For present purposes strength will be regarded as time-dependent, and related to 
+the maximum deviatoric stress that can be reached at a given strain rate, irrespective 
+of whether rupture actually occurs within a limited period of observation.* This does 
+not completely correspond to Salm's (1971) definition, but it permits unified 
+discussion of both brittle and ductile strength failures. 
+In multiaxial stress fields it is necessary to consider how the interaction of stress 
+components affects failure and strength, and this necessitates a failure criterion, 
+which may be broadly described as a critical functional relationship between the 
+principal stresses for the conditions producing failure. Failure criteria, which may be 
+either empirical or derived from physical models, have variously postulated constancy 
+of maximum principal stress, maximum shear stress, maximum strain energy, and 
+maximum shear strain energy. For snow, Salm (1971 ) proposed addition of critical 
+power as a criterion, taking into account total elastic strain energy and dissipation rate 
+for viscous work. Brown et al. (1973) were more ambitious, attempting to define the 
+conditions for failure by integration over the entire strain history for isothermal 
+deformation according to a fairly general constitutive equation. The Drucker—Prager 
+criterion, a generalized form of certain classical criteria (von Mises, Tresca, Mohr— 
+Coulomb), has attracted interest in snow mechanics (Mellor, 1968; Salm, 1971), since 
+it separates out the effect of the isotropic bulk stress. The Drucker—Prager criterion 
+reduces to the Mohr—Coulomb criterion for the case of plane deformation, and the 
+latter has been used in snow mechanics since the earliest days of the subject. 
+Failure under uniaxial stress 
+The most unambiguous determinations of strength are obtained from direct uniaxial 
+stress tests in tension or compression, which do not call for any knowledge of 
+rheological properties in their interpretation. However, while these tests are simple 
+in principle they can be complicated in practice, especially where high strain rates 
+and brittle fracture are concerned (Hawkes and Mellor, 1970). There are other tests 
+which purport to measure uniaxial strength indirectly by invoking rheological properties 
+for the material, usually an assumption of linear elasticity. They include the ring 
+tensile test, which has been shown to be invalid for most engineering materials 
+(Mellor and Hawkes, 1971), and beam bending tests, which also seem dubious for 
+highly compressible viscoelastic materials. 
+A general impression of the uniaxial strength of bonded dry snow is given 
+by Fig. 17, which shows tensile and compressive strengths as functions of density 
+for relatively high strain rates (10~4 to 10~2s-1). Broadly speaking, tensile and 
+compressive strength are equal at low densities, while at the density of solid ice the 
+ratio of compressive strength to tensile strength is about 5 on this plot. Brittle fracture 
+of porous solids (rocks, ceramics, concrete, etc.) is often analysed in terms of Griffith 
+fracture theory and its later derivatives, using failure criteria that imply compression/ 
+tension strength ratios ranging from the classical Griffith value of 8 to values between 
+10 and 20. The data of Fig. 17 might be regarded as characterizing brittle fracture, 
+i.e. creep strain is small relative to elastic strain for the loading that leads to failure. 
+As strain rates drop (or temperatures increase) so that failure becomes ductile, i.e. 
+creep strain becomes large relative to elastic strain, then strength (as defined earlier) 
+can be expected to decrease significantly for very dense snow. This relationship has 
+been given for a very wide range of strain rates in ice (Hawkes and Mellor, 1972), 
+but a different situation prevails for slow compression of typical snow, which 
+increases in density and effectively work hardens. 
+* This implicitly identifies the secondary creep inflection point of a complete classical creep curve 
+with the peak of a conventional stress/strain curve. In either case the time taken to reach this 
+point is what is sometimes called 'time-to-failure', which could be effectively infinite in some 
+practical problems. 
+=== PAGE 27 ===
+A review of basic snow mechanics 277 
+S 10" 
+I-
+-
+Ë~ 
+-_ 
+-
+zT 
+— 
+-
+-
+r 
+1 
+-Il ! 1 1 
+1 1 1 1 1 1 1 1 1 
+UNIAXIAL STRESS 
+/ 
+/ 
+/ 
+1 
+Compression 
+--~~Z~--^^^^^^^^ ^ ^^ 
+s 
+/ 
+/ X / Tension 
+/ / 
+/ / 
+/ 
+i i i i i i i i 
+: 
+-
+z 
+1 
+-
+— 
+-
+10 
+1^ 
+10 
+10 
+10" 
+10 
+< 
+fcr 
+0.2 0.4 0.6 
+y3, Density (g/cm3, Mg/m3) 
+FIGURE 17. Strength of dry, coherent snow under rapid loading in uniaxial stress 
+states. (Data from Bûcher, 1948; Butkovich, 1956; Haefeli, 1939; Hawkes and Mellor, 
+1972;Keeler, 1969; Keeler and Weeks, 1967; Kovacs era/., 1969; Mellor and Smith, 1965; 
+Ramseier, 1963; Smith, 1963; Smith, 1965.) 
+One interesting and somewhat controversial point about the rate sensitivity of 
+strength concerns the apparent small drop in compressive strength as strain rate 
+increases through the ductile/brittle transition range. In the case of ice it has been 
+shown that, at least in some cases, the drop was caused by poor testing technique for 
+the brittle range (Hawkes and Mellor, 1972). However, during the course of a test 
+there is viscous energy dissipation which must produce temperature rise in all but very 
+slow tests, and in principle viscous heating should lower the appâtent strength. This 
+effect, which is an intrinsic part of Salm's (1971) theory, does not appear capable of 
+producing significant homogeneous temperature increases in typical ice test specimens, 
+but if temperature rise is concentrated at active microdeformation sites (grain 
+boundaries, defect structures) then the effect may well be significant, especially in 
+snow. 
+Many experimenters, including the writer, have attempted to define the effect of 
+temperature on strength, but presently available data are not very convincing. It seems 
+likely that data for high temperatures (above — 10°C) actually reflect temperature/ 
+strain rate interactions that are not adequately defined. In the brittle fracture range, 
+strong temperature dependence is not to be expected, whereas in the creep rupture 
+range the temperature relationship should be similar to that which controls sustained 
+creep. 
+Shear strength 
+The term 'shear strength', which is subject to varied interpretations, tends to generate 
+confusion at the best of times, but in the case of highly compressible snow it can be 
+very confusing indeed. One measure of shear strength can be obtained from uniaxial 
+=== PAGE 28 ===
+278 Malcolm Mellor 
+stress tests, in which maximum shear stress is aj2 and octahedral shear stress is 
+aJy/3, Ox being the axial stress. However, the general practice has been to define and 
+determine shear strength according to the Mohr-Coulomb failure criterion for biaxial 
+stress fields: 
+{o\ - 02) ~ {o\ + o2) sin0 = 2c cos </> (32) 
+or 
+s = c + p tan0 (33) 
+where Oi and a2 are principal stresses, c is cohesion, <p is the angle of friction, s is 
+shear strength, and p is normal stress. 
+The idea of characterizing snow as a c — 0 material is attractive for some purposes, 
+as c can be identified with the time-dependent (sintered) intergranular bonding, and 
+0 can be thought of as characterizing initial strength for disaggregated snow and 
+residual strength after bonds have been broken. There may be cases involving reworked 
+snow (e.g. 'Peter snow') where this concept is useful, but in general it could be 
+deceptive. It is questionable whether internal friction can be fully mobilized until c 
+is effectively destroyed, either by deviatoric stress or bulk stress (p), and there is no 
+doubt that in some cases p, or bulk stress, completely changes the state of the material, 
+thereby vitiating the concept. 
+Some of these ideas can be explored with the aid of data from careful direct shear 
+tests by Ballard etal. (1965), who tabulated their results but did not undertake any 
+analysis. The data indicate that c is virtually zero at the beginning of the sintering 
+process for moderately dense (0.36—0.59 g/cm3) snow. For small values of p, s 
+increases by over an order of magnitude after a long period of sintering, while p tan 0 
+increases by factors between 2 and 5, depending on temperature. For large values off, 
+s is not much greater than p tan 0 at any stage of sintering, indicating that c is largely 
+destroyed by the test. This is confirmed by records of density before and during the 
+tests, which show that some specimens suffered as much as 64 per cent volumetric 
+strain. 
+Some of the shear strength presentations in the literature give a misleading 
+impression, and it is therefore pointless to summarize them here. However, Fig. 18 
+gives a general idea of the magnitude of shear stress for small values of p as measured 
+by shear boxes, shear cylinders, shear vanes, torsion tests, and avalanche fracture 
+line analyses. The values are in broad agreement with those that would be deduced 
+from the uniaxial strength data of Fig. 17.* Certain results obtained with in situ 
+rotary shear vanes were rejected as anomalous in preparing this plot, but it was 
+gratifying to find that analyses of avalanche fracture line profiles appeared to give 
+consistent data. 
+Failure theories and failure criteria 
+In materials science, both physical and statistical failure theories are based largely on 
+the idea that strength is governed by the nature, form, size and distribution of flaws 
+or structural defects. For example, creep theory is heavily influenced by ideas of 
+dislocation motion, brittle fracture theory is concerned with stress concentrations at 
+internal microcracks or other flaws, and statistical strength of materials (Weibull 
+theory) treats the probability aspects of flaw size distributions. These ideas have been 
+applied convincingly to ice of low porosity, but not to snow. 
+Ballard and McGaw (1965) took a different approach, ignoring stress concentration 
+and regarding pore space as effective loss of load-bearing area, thereby obtaining a 
+* The shear values for low density snow are surprisingly small when compared with values for 
+uniaxial tensile strength. Some direct correlation studies on low density snow have indicated that 
+centrifugal tensile strength is 10 times higher than shear strength measured by vanes or boxes. 
+=== PAGE 29 ===
+A review of basic snow mechanics 279 
+10'F 
+- 10" 
+10' 
+"1 r 
+ed Snow 
+• to -10° C (appro*) 
+0.2 0.4 
+p, Density (g/cm3, Mg/m3) 
+FIGURE 18. Shear strength of dry, coherent snow from direct measurements. (Data 
+from Bailard et at., 1965; Butkovich, 1956; Haefeli, 1939; Keeler, 1969; Keeler and Weeks, 
+1967. Also avalanche release data from various sources summarized by Keeler (1969). 
+Some values from in situ shear vanes were rejected.) 
+linear relation between strength and effective porosity on potential failure surfaces: 
+On/ffo = 1 - "/«, (34) 
+where an is failure strength at porosity n, a0 is strength at zero porosity (solid ice), 
+and «„, is a porosity intercept representing the porosity at which strength drops to 
+zero. They deduced values of M* from 0.49 to 0.57 (corresponding to densities of 
+0.47—0.39 g/cm3), and took values of a0 that were far too small. A more realistic 
+nonlinear empirical relationship between relative strength and porosity has been 
+adopted from the technology of ceramics and sintered metallic compounds by Gow 
+(1974). This relation is in fair agreement with the experimental data for snow denser 
+than about 0.5 g/cm3, but it is necessarily restricted to densities above about 0.3 g/cm3, 
+since that corresponds to the highest porosity that can be achieved with equant grains. 
+The variation of relative strength according to porosity is relevant to well-bonded 
+snow, but not necessarily to cohesionless snow. For the latter case, empirical 
+relations between friction angle 0 and porosity n can be developed from data for 
+soils and other granular materials; for equant grains, <p drops to small values at 
+porosities above 0.5, i.e. at snow densities below about 0.46 g/cm3. 
+In some areas physical failure theories (e.g. Griffith theory) lead to failure criteria, 
+but at the present time there do not appear to be failure theories for snow that can 
+perform this function. It is therefore necessary to rely solely on phenomenological 
+failure criteria. 
+The classical phenomenological criteria are clearly unsuitable for general application 
+to snow, although there are some that may find restricted application in special 
+=== PAGE 30 ===
+280 Malcolm Mellor 
+problems, e.g. in cases of rapid loading where deviatoric stress exceeds bulk stress. 
+The failure criterion for snow proposed by Brown et al. (1973) is very complex, but 
+still it skirts around the essential characteristic of high compressibility. The one-
+dimensional criterion developed by Salm (1971) shows a great deal of promise, but 
+it is still far from ideal generality. The unavoidable conclusion is that, in the 
+immediate future, simplified failure criteria will have to be improvized to suit 
+particular cases. 
+Collapse mechanics 
+When a plate is pressed normally into the surface of a semi-infinite snow mass, the 
+motion may involve a series of discontinuous collapses. Study of this effect has been 
+referred to as 'collapse mechanics', and it has attracted a certain amount of interest, 
+especially with reference to critical penetration speeds. While this is a particular type 
+of boundary-value problem, and therefore outside the scope of this general review, it 
+seems worthwhile to point out that the nature of the observed phenomena is partly 
+controlled by the experimental equipment. With a perfectly stiff loading system giving 
+penetration at constant speed, the force can drop almost instantaneously to zero after 
+a sudden collapse, while with a perfectly compliant system the force can never drop, 
+even though there is instantaneous increase in displacement after each collapse. Unless 
+the importance of loading system compliance is understood, this topic can be 
+confusing. Certain types of strength-measuring penetrometers can produce intermittent 
+collapse, and with indeterminate compliance and uncontrolled inertial effects test 
+results may give a false impression. 
+Arbitrary strength measurements and ram resistance 
+Over the years there have been a fair number of devices that purport to measure snow 
+strength but give results in arbitrary terms, some of them rather mystical. Of these, the 
+most important is the Rammsonde, which is now challenged by its automated offspring, 
+the resistograph. Most of the data collected by arbitrary devices are unusable in formal 
+mechanics, but a special effort to interpret Rammsonde data seems justified in view 
+of the widespread and longstanding use of the device. 
+Rammsonde penetration resistance R has the dimensions of force (kgf ), but it 
+actually represents driving energy per unit penetration (cm-kgf/cm) for a fixed cross-
+sectional area of penetrometer point A (usually 12.6 cm2), and therefore R/A can be 
+interpreted as a specific energy for penetration (cm-kgf/cm3). In snow of typical 
+densities (say up to 0.6 g/cm3), the energy is expended in breaking bonds, displacing 
+material laterally, and compacting in an annular zone around the penetrometer hole. 
+If KA is effective cross-sectional area for the total disrupted zone, specific energy for 
+the disruption process would be R/KA, and K would be expected to increase with 
+density from a lower limit of unity. In the field of rock mechanics it has been shown 
+that the uniaxial compression test provides a standard measure of specific energy for 
+brittle fracture that can be used as a basis for normalization of process specific energy 
+values (Mellor,'1972), and thus there are sound reasons for seeking correlation 
+between ram resistance and uniaxial compressive strength in snow. 
+Keeler and Weeks (1967) and Keeler (1969) sought simple linear correlations 
+between strengths and ram resistanceR, while Abele (1963) based his correlation on 
+a simple exponential,iî =aebS, which seems more reasonable with respect to probable 
+boundary conditions for the complete range of density. However, on the basis of 
+available data neither correlation seems to have general validity. Shear strength data 
+were used by Keeler and Weeks, while Abele worked with uniaxial compressive 
+strength, but if these quantities are assumed to be related by a factor of 2 it is found 
+that neither log—log nor semilog plots come anywhere near linearizing the complete 
+range of data, so that linear regression analysis cannot be usefully performed on the 
+=== PAGE 31 ===
+A review of basic snow mechanics 281 
+logarithmic forms of either simple power relations or simple exponential relations. 
+From the argument of the previous paragraph, a linear correlation would be expected 
+between S and R/KA, but it appears from the data that K must be a complicated 
+function of snow density. For the time being, the only sensible course is to compile 
+completely empirical correlations in direct graphical form. 
+Indirect estimation of strength 
+When materials fail by brittle fracture there is usually a linear correlation between 
+uniaxial compressive strength ot- and Young's modulus E, i.e. failure strain is roughly 
+constant. For rocks that are not strongly anisotropic, 0[/E lies between 2 x 10~3 and 
+5 x 1CT3, for frozen sand 0(/E is from 2 x 10~3 to 3 x 1CT3, and for polycrystalline ice 
+0(/E is about 2 x 1CT3 (Mellor, 1972). When the stress/strain plot is nonlinear, E is 
+usually taken as the tangent modulus at 50 per cent of ultimate stress. 
+If a similar correlation can be demonstrated for snow, then strength can be 
+estimated from measured values of Young's modulus. This would be useful if E could 
+be measured in situ by nondestructive acoustic methods, especially in situations where 
+remote sensing of strength is attractive. 
+From comparison of Figs. 2 and 17 it can be seen that orfE is approximately 
+constant for the complete range of snow density, with values of 2 x 1CT3 or greater 
+when static values of E are used, and values around 1 x 1CT3 when dynamic values of 
+E are used. In compression tests on dry snow by Kovacs et al. (1969) the failure strain, 
+which represents the ratio of failure stress to secant modulus, ranged from 1 x 10"3 
+to 6 x 10~3. Thus it seems likely that there is a linear correlation between af and E 
+for dry snow, so that strength can be estimated on the basis of modulus if the 
+regression line is established by direct experiment. 
+BOUNDARY FRICTION 
+Surface friction and adhesion 
+Although surface friction does not belong in the same category as bulk mechanical 
+properties, it is important in defining boundary shear stresses in a variety of problems 
+that involve both coherent snow and fluidized snow. 
+Abnormally low surface friction is one of the more useful and agreeable 
+properties of snow, but its nature is not well understood. Part of the difficulty is 
+that elementary friction theory is one of those subjects that traditionally have been 
+taught in terms of oversimplified physical principles (the competition driver soon 
+repeals the laws of Amontons and Coulomb, just as the aerobatic pilot manages to 
+confound Bernoulli). Another source of confusion is the lumping of form drag and 
+sinkage resistance with friction (in the following notes it is implicit that any kind of 
+macroscopic snow displacement, irreversible compression, or other inelastic bulk 
+processes that dissipate energy are excluded from the friction process). However, the 
+main problem is that the physics of friction on snow and ice has not been adequately 
+dealt with. 
+Kinetic friction of coherent snow 
+Interfacial friction between solids is sometimes referred to as 'dry friction', but in the 
+case of kinetic friction on snow there is usually water at the sliding interface, since 
+frictional heating can produce the small temperature rise needed to cause melting. 
+The presence of water, which has been adequately demonstrated by electrical 
+conductivity measurements and experiments with water-soluble dyes, was formerly 
+thought to be the result of pressure melting, but it is now generally considered that 
+simple pressure melting can only be significant at temperatures very close to 0°C. 
+Whatever the ideas on melt mechanisms, water lubrication has long been thought to 
+=== PAGE 32 ===
+282 Malcolm Mellor 
+explain most of the peculiarities of sliding friction for snow and ice, and this theory 
+still finds wide acceptance (Bowden, 1955; Bowden and Tabor, 1950, 1960, 1964; 
+Shimbo, 1971), although quantitative analytical treatment has not been applied to 
+any great extent. However, the Bowden theory has been questioned (for example 
+by McConica, 1950, and by Huzioka in a long series of papers published in Low 
+Temperature Science) and a more carefully argued alternative has been put forward 
+by Niven (1954, 1956a, b, c, 1959, 1963), who appears to have convinced J. D. Bernai 
+by means of a critical experiment on bismuth. Niven's theory deals with the physical 
+chemistry of surfaces, and the low friction of ice is explained by the facility with 
+which the open tetrahedral molecular structure can reorient to permit plastic flow of 
+surface asperities when thermally activated. 
+In many ways the Bowden and Niven theories are similar for practical purposes, 
+since complete molecular reorientation as envisaged by Niven produces the structure 
+of liquid water, and we are simply left with a semantic confusion over the meaning of 
+'lubrication'. The main difference ought to lie in the response to temperatures below 
+the melting point, when no water is formed but plastic flow of microscopic asperities 
+is temperature dependent. 
+According to the classical definition, the coefficient of kinetic friction Mk is tne 
+ratio of tangential to normal force, irrespective of the size of the bearing area, the 
+interfacial contact pressure, the sliding speed, or the ambient temperature. In the case 
+of snow and ice, it is to be expected that the classical laws of friction will be violated, 
+at least in principle, since interfacial temperature rise depends on the rate and duration 
+of both heat generation and heat loss. For a given sliding velocity, initial heat 
+generation rate per unit surface area should be proportional to the frictional stress 
+(and therefore to the mean contact pressure), and the duration of heating should be 
+proportional to the length of the contact area in the direction of travel. With constant 
+temperature boundary conditions and given thermal properties for the materials, 
+initial temperature rise should thus be proportional to contact pressure and slider 
+length. This implies that for geometrically similar sliders carrying a given fixed weight, 
+temperature rise should be inversely proportional to slider length. When sliding 
+velocity varies, this simple model would predict an initial temperature rise proportional 
+to velocity if no additional cooling effects are introduced. However, the experimental 
+evidence bearing on these matters tends to be confusing, as the interrelated variables 
+are not always adequately controlled or separated. Neither Bowden and Tabor (1964) 
+nor Shimbo (1961, 1971) detected significant variation of juk with pressure in a 
+limited range (< 0.1 bar), but the 'melting' was probably adequately established in 
+their tests. On the other hand, Niven (1959, 1963) found that frictional resistance on 
+cold ice became almost constant as contact pressure increased from about 15 to 
+30 bars. Ericksson (1949) found that nk for steel dropped by about one-third as 
+pressure increased from about 0.01 to 0.7 bar on 0°C snow, and by one-third to 
+one-half as pressure increased from 0.2 to 2 bars on ice at temperatures from 0° to 
+— 18°C (another experiment which varied area with fixed weight gave consistent 
+results). Klein (1947) showed ,uk for brass, Bakélite, and waxed wood dropping by 
+10—20 per cent as pressure increased from 0.05 to 0.24 bar on cold snow. For plastic 
+sliding on ice at —15°C, McConica (1950) found juk increasing with pressure below 
+0.05 bar but decreasing towards an asymptotic limit above 0.08 bar. Ericksson also slid 
+geometrically similar (20:1) steel runners on -4°C ice with a pressure of 0.3 bar and 
+found that ^ik dropped by two-thirds as runner length increased from 0.1 to 1.7 m. 
+The general impression is that Mk tends to decrease with increasing pressure and with 
+increasing runner length even after 'melting' has been initiated, perhaps because these 
+factors work towards an increase in the number of sites at which favourable 
+conditions can develop. 
+Pressure effects should have some bearing on the question of possible variation of 
+=== PAGE 33 ===
+A review of basic snow mechanics 283 
+Mk with snow density and grain size. For a given nominal contact pressure, actual mean 
+pressure must increase with surface porosity, while the size of grains and pores should 
+have some effect on local heat dissipation and on the molecular structure of the ice 
+surface. There is not much experimental evidence on which to base speculation. 
+Shimbo did not find any significant difference between compacted snow and crushed 
+ice at —1° to 0°C when sliding dense polyethylene and ski wax surfaces at low contact 
+pressures. On the other hand, Ericksson found that idk for steel (0.3 bar, -2° and 
+-25°C) increased by a factor of 3 as effective grain size decreased from infinity (solid 
+ice) to about 0.15 mm. The latter experiment mixes the influence of grain size and 
+porosity, but it tends to suggest a dominant grain size effect, since porosity cannot 
+vary greatly with random packing of equant grains. 
+Still following up ideas of effective bearing area, microroughness of the slider 
+surface should have some influence, but again the experimental evidence is somewhat 
+confusing. Shimbo tested slightly roughened phenolic resin sliders on wet snow, the 
+rationale being that roughening would break the 'viscous drag' of a continuous water 
+film. As roughness increased from 'zero' to 0.015 mm, iik dropped by a factor of 2, 
+but further increase of roughness to 0.035 mm had no significant additional effect. 
+Ericksson obtained conflicting results with steel surfaces on snow: at 0°C a polished 
+and chromed surface gave the lowest sliding friction and a roughly filed surface gave 
+the highest friction, with an ordinary machined finish in between. However, below 
+about — 3°C the order was reversed, and at —29°C the polished surface had double the 
+sliding friction of the rough filed surface. Nominal contact pressure was 0.3 bar, 
+which is about an order of magnitude higher than the pressure used by Shimbo. 
+Speed of sliding ought to affect /ik, as it controls the rate of frictional heat 
+generation, which must exceed the rate of heat transfer from generation sites if inter-
+facial temperature is to reach 0°C. Power density at the sliding surface is given by the 
+product of frictional stress and sliding velocity. If frictional stress were invariant 
+with velocity, as might be approximately true in the initial stage of sliding, the rate 
+of heat generation per unit surface area would be proportional to velocity. However, 
+if frictional stress were itself inversely related to velocity, as might happen once 
+'melting' was initiated, there would be a more complicated feedback effect. 
+In experiments on snow at — 10°C, Bowden (1955, 1964) found that Mk f°r 
+aluminium, Perspex, lacquered wood and waxed wood stayed at relatively high 
+values («0.2 to 0.4) until the sliding speed exceeded 0.03 m/s; thereafter, jUk 
+dropped until all values were an order of magnitude smaller at 5 m/s. McConica 
+(1950) slid Bakélite on ice at —15°C and found that ixk decreased up to a speed of 
+8 m/s. Kuroiwa et al. (1969) tested plastic-base skis on packed snow; at 0°C, juk 
+increased gradually, doubling or trebling as speed increased from 7 to 21 m/s, while 
+at —1.6 to —2.5°C, Mk stayed fairly constant from 7 to 17 m/s and then doubled as 
+speed increased further to 21 m/s. Shimbo studied speed effects on wet snow, which 
+is not dependent on frictional heating for 'lubrication'. There is a factor of 10 
+discrepancy between text and graphs in his papers, but it seems that the small speed 
+effect for PTFE became completely insignificant above about 0.05 m/s. Bowden also 
+found that on slowing down after a high-speed run, cold snow adheres to surfaces 
+that are not strongly hydrophobic, apparently because the meltwater film refreezes. 
+Temperature has a marked effect on sliding friction. For metals and hard plastics 
+sliding at low speed, nk increases approximately linearly with decreasing temperature 
+within the common range of temperatures for dry snow. Ericksson found juk for 
+smooth steel approximately doubling as temperature dropped from 0 to —25°C, Klein 
+showed juk for brass, Bakélite and beeswax increasing by factors of 3—4 over the 
+same temperature range, and Bowden showed an increase by a factor of 3.5 for 
+PTFE. At very low temperatures (say below — 40°C) with common sliding speeds 
+(say up to about 15 m/s) it appears that interfacial 'melting' ceases to occur (e.g. 
+=== PAGE 34 ===
+284 Malcolm Mellor 
+=== PAGE 35 ===
+A review of basic snow mechanics 285 
+Budnevich and Deriagin, 1952; Goldovskii, 1953), and juk for snow becomes very 
+similar to values for dry sand. However, with large skis sliding at very high speeds it 
+may still be possible to raise interfacial temperature to the melting point even though 
+ambient temperatures are very low (the South Pole airstrip becomes glazed after 
+frequent use by C-130 cargo aircraft, which have large skis that slide under almost full 
+load at speeds around 50 m/s). Surfaces coated with ski waxes and lacquers may 
+respond to temperature in a different way, with extreme and abrupt changes in /ik 
+within certain temperature ranges, presumably because the properties of the coatings 
+themselves change with temperature. 
+In very wet snow there is an abundance of interfacial water, and effective frictional 
+resistance may increase if the slider is easily wetted. Some hydrophilic materials (e.g. 
+aluminium, nylon, Perspex and some lacquers) have zero contact angle with water and 
+are therefore completely wetted, while at the other end of the scale there are strongly 
+hydrophobic materials that resist wetting and tend to have low friction under all 
+water-lubricated conditions; the outstanding example is PTFE, with a contact angle of 
+126° (Bowden and Tabor, 1964). 
+Although snow surfaces provide relatively low sliding friction for a wide range of 
+materials, there are significant differences in ;uk for various materials. In general, it 
+appears that substances which develop only weak molecular forces at the interface, 
+as indicated by high contact angle, tend to be superior under all conditions. The 
+penetration and flow resistance (hardness) of the slider surface is probably also 
+important, but there does not appear to be a simple relation between hardness and 
+friction. Recent studies indicate that low friction polymers shed thin layers to the 
+substrate on sliding, and at the same time acquire orientation of the surface structure. 
+Some representatives values of jUk for various materials are given in Fig. 19. 
+Static friction and adhesion 
+Static friction on snow and ice should probably be defined as the 'isothermal' limit 
+of kinetic friction as sliding velocity tends to zero. If a slider stands still for a finite 
+length of time on 'cold' snow or ice there will usually be progressive development of 
+interfacial bonds that give tensile connection across the interface, and this connection 
+must be regarded as adhesion. Adhesion is proportional to interface area, and therefore 
+is quite different from friction as described by the Amonton—Coulomb laws. This 
+very fundamental distinction has not been adequately recognized, and experimental 
+data tend to be confusing. 
+The zero speed limit of sliding friction is not easy to measure directly with simple 
+equipment, but for dry snow it should be approximately equal to the value measured 
+for low sliding speeds and very low temperatures, i.e. the 'unlubricated' value, which 
+seems to be quite similar to the sliding friction coefficient for dry sand. For snow at 
+0°C there should not be much difference between the coefficients for sliding friction 
+and static friction if surface tension effects in the interfacial water are small. 
+Another possibility for measuring static friction (which does not seem to have 
+been tried) would be to measure interfacial shear resistance as a function of contact 
+time and obtain true static friction from the zero time intercept. With this method it 
+has to be recognized that true static friction is not strongly dependent on contact 
+pressure and bearing area, while adhesion is proportional to area. 
+A discussion of ice adhesion is beyond the scope of this review, but the general 
+features of adhesion seem fairly straightforward. The strength of the adhesive bond 
+between cold snow and a solid surface can be expected to increase exponentially with 
+time from a lower limit representing true static friction to an asymptotic upper limit 
+reached after interface equilibration by molecular orientation and diffusion. The rate 
+constant for time-dependent bonding can be expected to be influenced by temperature 
+(initial and final), temperature gradients, contact pressure, size and shape of snow 
+=== PAGE 36 ===
+286 Malcolm Mellor 
+grains, and surface properties of the solid material. The limiting bond strength will 
+usually increase with decreasing temperature, and it will certainly vary with the 
+surface properties of the solid material, strongly hydrophobic materials with high 
+contact angles providing the weakest bonds. An upper limit to shear resistance is set 
+by the shear strength of the snow beneath the slider: if the bond strength is less 
+than the strength of the snow, shear displacement will occur at the interface, but if 
+the bond strength is greater than the strength of the snow, shearing will occur in the 
+snow beneath the interface. 
+Presently available data for static friction and adhesion on snow do not inspire 
+much confidence, but Fig. 20, which shows low temperature values for low-speed 
+sliding friction, probably gives a fair impression of true static friction. 
+/J. for low sliding speeds at -25 to-30 °C 
+0 0.2 0.4 0.6 
+1 
+t 1 STEEL 1 
+PARAFFIN WAX 
+CHROME-PLATED STEEL ; 
+i 1 1 
+•ERICKSSON, 1949 
+§PTFE 
+PJSK! WAX 
+5 PARAFFIN WAX s 
+SKI LACQUER S PERSFEX^j 
+IS^S^sSSXSNN 
+BEESWAX txSjx^SSV^V 
+BRASS 
+^«i r^'-IM , , i, 
+BOWDEN & 
+TABOR, Î964 
+•KLEIN, 1947 
+1 
+FIGURE 20. Representative values for coefficient of kinetic friction of various substances 
+sliding on snow at low speeds and low ambient temperatures (-25° to -30°C). 
+Friction, or boundary shear stress, for fluidized snow 
+When the intergranular bond structure of snow is destroyed and effective contact 
+pressure between grains becomes small, the material is fluidized, i.e. it loses its ability 
+to resist shear. Fluidization occurs when snow is blown by the wind (or by pumps), 
+when loose or pulverized snow avalanches, and when snow is violently disturbed by 
+slipping vehicle tracks or snowploughs. In the fluidized state, shearing takes place 
+within the snow mass and not at the snow/solid interface, but a shear stress, or 'wall 
+friction', is transmitted to the solid. The magnitude of this boundary shear stress is 
+determined by the effective viscosity of the fluidized snow (including the eddy 
+viscosity in turbulent flow) and by the velocity gradient in the boundary layer. 
+The properties of fluidized snow do not seem to have been studied, and no data are 
+available. However, the problem can be illustrated and explored by consideration of 
+very low density material such as exists near the solid boundary during major blizzards 
+and during dust avalanches. 
+In very low density dispersed snow the newtonian viscosity must be close to that 
+of air. H. A. Einstein's expression for the viscosity of low concentration suspensions n 
+gives the estimate 
+ju = /io(l+|cv) (35) 
+where ju0 is viscosity without solids and cv is volumetric concentration of solids. For 
+well dispersed snow, cv is probably in the range 1CT3 (boundary of blizzard or dust 
+avalanche) to 1CT1 (equivalent to density of 0.1 g/cm3), and therefore the second 
+term of equation (35) cannot have any significant effect (for air, ^i0 * 1.7 x 10"4 poise). 
+With turbulent flow in the boundary layer inertial effects dominate and a snow 
+=== PAGE 37 ===
+A review of basic snow mechanics 287 
+suspension may behave in approximately the same way as a clear newtonian fluid, 
+which case the boundary shear stress T can be expressed as 
+du du du I du\2 
+T = (p + Pe) — « Me — = Pe — = P\kz — I = pul = pCdu2 
+dz dz dz \ dz/ 
+where u is tangential flow velocity, z is normal distance from the solid boundary, 
+Me is the 'eddy viscosity' or momentum transfer coefficient for turbulent mixing, 
+p is effective fluid density, e is the kinematic eddy viscosity, k is von Karman's 
+constant («0.4 for simple newtonian fluids), u.t is the shear velocity or friction 
+velocity, and Cd is a surface drag coefficient. For blizzard winds blowing over flat 
+snow surfaces Cd*1.3x 10"3 (i.e. «, «3.6x 1CT2«), so that T « 3 x 10~12 u2 bar, 
+where u is in cm/s and p = 2.3 x 10~3g/cm3. With speeds of 10 and 100m/s, shear 
+stresses are 3 x 10~6 and 3 x 10~4 bar respectively. If it is assumed that p can be 
+increased without changing the structure of the turbulent boundary layer, then T 
+would simply increase in proportion to p. The static shear strength of low density 
+deposited snow (0.1 g/cm3) is probably about 10~3 bar; this stress level might be 
+reached inertially in a turbulent boundary layer with snow density of 10~2g/cm3 
+and a speed of 80 m/s. 
+The above argument is obviously oversimplified and not directly applicable to the 
+shearing of granular masses where grains are in frequent contact with each other. 
+Clearly there is much work to be done in this area. 
+CONCLUSION 
+While it may be axiomatic that all materials possess all rheological properties, there is 
+no material of broad engineering significance that under normal conditions displays 
+the bewildering complexities found in snow. If constitutive equations and failure 
+criteria could be formulated with complete generality for snow, they would probably 
+cover all contingencies for all real solids. Recognition of this puts the basic problems 
+of snow mechanics into perspective; it seems unrealistic and presumptuous to 
+immediately seek complete generality when much simpler materials are presenting 
+formidable problems in other branches of solid mechanics. 
+For the time being it will be necessary to adopt greatly simplified rheological 
+descriptions for snow, concentrating on the characteristics that dominate for particular 
+problems. At the same time, the general behaviour of snow has to be kept in mind 
+so as to avoid unrealistic distortions in constitutive equations and failure criteria. 
+Elegant simplification of complicated behaviour is very much needed. 
+Laboratory tests on low density snow tend to be difficult and expensive, and the 
+possibilities for acquiring data from field observations and in situ measurements need 
+to be fully exploited. Useful compressibility data are obtainable from depth/density 
+characteristics, deviatoric stress/strain-rate relations can be deduced from downslope 
+creep profiles, shear strength can be estimated from analysis of avalanche starting 
+zones, and strength can also be estimated on the basis of in situ acoustic measurements. 
+Statistical validity is inherent in these methods, but refinements such as multivariate 
+analysis are probably needed to account for the effects of uncontrolled variables. 
+Additional field data sources (e.g. 'layer profiles' giving volumetric strain as a function 
+of time) could be developed. 
+Boundary friction, a topic outside the mainstream of snow mechanics, offers some 
+potential for further research. Definitive experiments on kinetic friction of coherent 
+snow would be useful, and more work on static friction and adhesion would have 
+practical value. Boundary shear stresses developed by fluidized snow are almost 
+totally unknown. 
+in 
+(36) 
+=== PAGE 38 ===
+288 Malcolm Mellor 
+Past research in snow mechanics has involved diverse methodologies from a variety 
+of academic disciplines, with a wide range in the level of sophistication. While 
+stimulating at the research level, this could make the subject somewhat confusing for 
+non-specialist engineers and mechanicians, and close conformance to the methodology 
+of classical mechanics seems desirable. 
+Snow mechanics began as a practical science that was intended largely to improve 
+engineering capabilities, and most current research is supported on the assumption 
+that it will produce useful results. Thus, while recognizing the necessity for more 
+abstract academic research, the main efforts in the field should probably be in pursuit 
+of useful results that are comprehensible to nonspecialist engineers and technologists. 
+REFERENCES 
+Abele, G. (1963) A correlation of unconfined compressive strength and ram hardness of 
+processed snow. US Army Cold Regions Research and Engineering Laboratory (USA 
+CRREL) Technical Report 85. 
+Anderson, G. D. (1968) The equation of state of ice and composite frozen soil material. USA 
+CRREL Research Report 257. 
+Bader, H. (1953) Sorge's law of densification of snow on high polar glaciers. USA SIPRE Research 
+Paper2. Also/. Glacial. 2, 1954. 
+Bader, H. (1960) Theory of densification of dry snow on high polar glaciers. USA SIPRE Research 
+Report 69. 
+Bader, H. (1962) Theory of densification of dry snow on high polar glaciers, II. USA CRREL 
+Research Report 108. 
+Bader, H., Haefeli, R., Bûcher, R. et al. (1939) Der Schnee und seine Metamorphose, Beitrage zur 
+Géologie der Schweiz, Geotechnische Série, Hydrologie, Lieferung 3, Bern. (USA SIPRE 
+Translation 14, 1954.) 
+Bader, H., Hansen, B. L., Joseph, J. A. and Sandgren, M. A. (1951) Preliminary investigations of 
+some physical properties of snow. USA SIPRE Report 7. 
+Ballard, G. E. H. and McGaw, R. W. (1965) A theory of snow failure. USA CRREL Research 
+Report 137. Also in Proceedings of International Symposium on Scientific Aspects of 
+Snow and Ice Avalanches, Davos, Switzerland, April, 1965, International Association of 
+Scientific Hydrology, International Union of Geodesy and Geophysics, Gentbrugge, 
+Belgium, 1966. 
+Ballard, G. E. H. and Feldt. E. D. (1966) A theoretical consideration of the strength of snow. 
+USA CRREL Research Report 184. Also /. Glaciol. 6, 1966.) 
+Ballard, G. E. H., Feldt, E. D. and Toth, S. (1965) Direct shear study on snow, procedure and 
+data. USA CRREL Special Report 92. 
+Bentley, C. R., Pomeroy, P. W. and Dorman, H. J. (1957) Seismic measurements on the Greenland 
+IceCap./lwn. Géophys. 13, 253-285. 
+Bowden, F. P. (1955) Friction on snow and ice and the development of some fast-running skis. 
+Nature, Land. 176 (4490). 
+Bowden, F. P. and Tabor, D. (1950 - Part I; 1964 - Part II) The Friction and Lubrication of 
+Solids: Oxford University Press, Oxford. 
+Bowden, F. P. and Tabor, D. (1960) Friction and Lubrication: Methuen, London. 
+Bridgman, P. W. (1911) Water in the liquid and five solid forms, under pressure. Proc. Amer. Acad. 
+ArtsSci. 47,441-458. 
+Bridgman, P. W. (1937) The phase diagram of water to 45,000 kg/cm2. /. chem. Phys. 5, 964-966. 
+Brown, R. L., Lang, T. E., St Lawrence, W. F. and Bradley, C. C. (1973) A failure criterion for 
+snow./. Geophys. Res. 78 (23). 
+Bûcher, E. (1948) Beitrage zu den theorotischen Grundlagen des Lawinenverbaus, Beitrage zur 
+Géologie der Schweiz, Geotechnische Série, Hydrologie, Lieferung 6. (USA SIPRE 
+Translation, 18, 1956.) 
+Bûcher, E. and Roch, A. (1946) Reibungs.- und Packungswiderstande bei raschen 
+Schneebewegungen (Friction and resistance to compaction of snow under rapid motion). 
+Mitteilungen des Eidgenoss, Davos-Weissfluhjoch, Instituts fur Schnee und Lawinenforschung. 
+Butkovich, T. R. (1956) Strength studies of high-density snow. USA SIPRE Research Report 18. 
+Budnevich, S. S. and Deriagin, B. V. (1952) Sliding of solids on ice (O skol'zhenii tverdykh tel po 
+l'du). Zhumal Tekhnicheskoi Fiziki, 22, 1967-1980. 
+Chae, Y. S. (1967) Frequency dependence of dynamic moduli of, and damping in snow. Inter­
+national Conference on Physics of Snow and Ice, Hokkaido University, Japan. 
+=== PAGE 39 ===
+A review of basic snow mechanics 289 
+Crary, A. P., Robinson, E. S., Bennett, H. F. and Boyd, W. W. (1962) Glaciological studies of the 
+Ross Ice Shelf, Antarctica, 1957-1960. IGY Glaciological Report no. 6, American 
+Geographical Society. 
+Ericksson, R. (1949) Medcns friktion mot snô och is (Friction of runners on snow and ice). Foren 
+Skogsarbet., Kgl, Domanstyrclsens Arbetsstud., Med. 34-35. (USA SIPRE Translation 44, 
+1955.) 
+Feldt, E. D. and Ballard, G. E. H. (1966) A theory of the consolidation of snow. /. Glaciol. 6 
+(also USA CRREL Research Report 181, 1965). 
+Frutigef, H. and Martmelli, M. (l%6) A manual for planning structural control of avalanches. 
+Rocky Mountain Forest and Range Experiment Station, Research Paper RM-1 9, US Forest 
+Service. 
+Goldovskii, B. M. (1953) Sliding over snow (Skol'zhenie po snegu). Priroda, 42 (6). 
+Gow, A. J. (1974) Time-temperature dependence of sintering in perennial isothermal snowpacks. 
+International Symposium on Snow Mechanics, Grindelwald, Switzerland. 
+Haefeli, R. (1939) Snow mechanics with references to soil mechanics. In (Bader and others) 
+Der Schnee und seine Metamorphose, Beitrage zur Geologic dcr Schweiz, Geotcchnischc 
+Série, Hydrologie, Lieferung 3, Bern. (USA SIPRE Translation 14, 1954.) 
+Haefeli, R. (1965) Considérations sur la pente critique et le coefficient de pression au repos de 
+la couverture de neige. In Proceedings of International Symposium on Scientific Aspects of 
+Snow and Ice Avalanches, Davos, Switzerland, April, 1965, International Association of 
+Scientific Hydrology, International Union of Geodesy and Geophysics, Gentbrugge, 
+Belgium, 1966. 
+Hawkes, I. and Mellor, M. (1970) Uniaxial testing in rock mechanics laboratories. Engng Geol. 4, 
+177-285. 
+Hawkes, I. and Mellor, M. (1972) Deformation and fracture of ice under uniaxial stress. J. Glaciol. 
+11(61). 
+Huzioka, T. (1957, 1959) Studies on ski. Low Temp. Set, Series A, 16, 18. 
+Huzioka,T. et al. (1954, 1955, 1958, 1962, 1963) Studies on the resistance of a snow sledge. 
+Low Temp. Sci., Series A, 13, 14, 17, 20, 21. 
+Judson, A. (1973) Snow deformation observations at Berthoud and Loveland Passes, Colorado. 
+Personal communication. 
+Keeler, C. M. (1967) Some observations on the densification of alpine snow covers. USA CRREL 
+Technical Report 197. 
+Kteler, C. M. (1969) Some physical properties of alpine snow. USA CRREL Research 
+Report 271. 
+Keeler, C. M. and Weeks, W. F. (1967) Some mechanical properties of Alpine Snow, Montana, 
+1964-66. USA CRREL Research Report 227. 
+Kinosita, S. (1967) Compression of snow at constant speed. International Conference on Physics 
+of Snow and Ice, Hokkaido University, Japan. 
+Klein, G. J. (1947) The snow characteristics of aircraft skis. National Research Council of 
+Canada, Division of Mechanical Engineering, Aeronautical Report ,AR-2. 
+Kojima, K. (1954) Visco-elastic property of snow. Low Temp. Sci., Series A, 12. 
+Kojima, K. (1955, 1956, 1957, 1958) Viscous compression of natural snow layer, I-IV. Low 
+Temp. Sci., Series A, 14, 15, 16, 17. 
+Kojima, K. (1960) Viscous flow of snow cover deposited on a slope. Low Temp. Sci., Series A, 19. 
+Kojima, K. (1964) Densification of snow in Antarctica. Antarctic Snow and Ice Studies (edited 
+by M. Mellor): Antarctic Research Series, vol. 2, American Geophysical Union. 
+Kojima, K. (1967) Densification of seasonal snow cover. International Conference of Physics of 
+Snow and Ice, Hokkaido University, Japan. 
+Kovacs, A., Weeks, W. F. and Michitti, F. (1969) Variation of some mechanical properties of polar 
+snow, Camp Century, Greenland. USA CRREL Research Report 276. 
+Kuroiwa, D., Wakahama, G., Fujino, K. and Tanahashi, R. (1969) The coefficient of sliding 
+friction between skis and chemically treated or mechanically compressed snow surfaces. 
+Low Temp. Sci., Series A, 27. 
+Landauer, J. K. (1955) Stress-strain relations in snow under uniaxial compression. USA SIPRE 
+Research Report 12. 
+Landauer, J. K. (1957) On the deformation of excavations in the Greenland névé. USA SIPRE 
+Research Report 30. (Also in International Union of Geodesy and Geophysics, International 
+Association of Scientific Hydrology, General Assembly of Toronto, 4, pp. 475-491, 
+September 1957.) 
+Landauer, J. K. (1957) Creep of snow under combined stress. USA SIPRE Research Report 41. 
+Larson, D. B., Bearson, G. D and Taylor, J. R. (1973) Shock-wave studies of ice and two frozen 
+soils. Proceedings of the Second International Conference on Permafrost, Yakutsk, USSR. 
+Lee, T. M. (1961) Note on Young's modulus and Poisson's ratio of naturally compacted snow and 
+processed snow. USA CRREL Technical Note (unpublished). 
+=== PAGE 40 ===
+290 Malcolm Mellor 
+Lee, T. M. (1963) Method of determining dynamic properties of visco-elastic solids employing 
+forced vibration. J. appl. Phys. 34. (Also USA CRREL Research Report 122.) 
+McConica, T. H. (1950) Sliding on ice and snow. Office of the Quartermaster General, US Army, 
+unpublished report to Research and Development Division. 
+Martinelli, M. (1960) Creep and settlement in an alpine snowpack. Rocky Mountain Forest and 
+Range Experiment Station, Research Note 43, US Forest Service. 
+Mellor, M. (1964) Properties of snow. USA CRREL Monograph IIl-Al. 
+Mellor, M. (1968) Avalanches. USA CRREL Monograph III-A3d. 
+Mellor, M. (1972) Normalization of specific energy values. Int. J. Rock Mech. Min. Sci. 9, 
+661-663. 
+Mellor, M. (1973) Internal deformation of snowfields and glaciers. USA CRREL Technical Note 
+(unpublished). 
+Mellor, M. and Hendrickson, G. (1963) Confined creep tests on polar snow. USA CRREL Research 
+Report 138. 
+Mellor, M. and Hawkes, I. (1971) Measurement of tensile strength by diametral compression of 
+discs and annuli. Engng Geol. 5, 173-225. 
+Mellor, M. and Smith, J. H. (1966) Strength studies on snow. Also in Proceedings of International 
+Symposium on Scientific Aspects of Snow and Ice Avalanches, Davos, Switzerland, April, 
+1965, International Association of Scientific Hydrology, International Union of Geodesy 
+and Geophysics, Gentbrugge, Belgium, 1966. 
+Mellor, M. and Smith, J. H. (1967) Creep of snow and ice. Physics of Snow and Ice (edited by 
+H. Oura): International Conference on Low Temperature Science, 1966, Proceedings, 
+vol. 1, pt. 2 (Sapporo), Institute of Low Temperature Science, Hokkaido University. 
+Mellor, M. and Testa, R. (1969a) Creep of ice under low stress. J. Glacial. 8, 147-152. 
+Mellor, M. and Testa, R. (1969b) Effect of temperature on the creep of ice. J. Glaciol. 8, 
+131-145. 
+Nakano, Y. and Froula, N. H. (1973) Sound and shock transmission in frozen soils. Proceedings of 
+the Second International Conference on Permafrost, Yakutsk, USSR. 
+Nakaya, U. (1959a) Viscoelastic properties of snow and ice from the Greenland Ice Cap. USA 
+SIPRE Research Report 46. 
+Nakaya, U. (1959b) Viscoelastic properties of processed snow. USA SIPRE Research Report 58. 
+Nakaya, U. (1961) Elastic properties of processed snow with reference to its internal structure. 
+USA SIPRE Research Report 82. 
+Napadensky, H. (1964) Dynamic response of snow to high rates of loading. USA CRREL Research 
+Report 119. 
+Niven, C. D. (1954) The effect of high loading on the kinetic friction of ice. Can. J. Phys. 32, 
+782-789. 
+Niven, C. D. (1956a) The friction of ice and its economic significance. Engng J. Can. 39, 
+226-227. 
+Niven, C. D. (1956b) On the effect of speed on the kinetic friction of some plastic materials on 
+ice. Can. J. Phys. 34, 362-369. 
+Niven, C. D. (1956c) On the friction of heated sleigh runners on ice under high loading. Can. J. 
+Techno! 34,227-231. 
+Niven, C. D. (1959) A proposed mechanism for ice friction. Can. J. Phys. 37, 247—255. 
+Niven, C. D. (1963) The Magic Surface, p. 74: Pageant Press, New York. 
+de Quervain, M. (1966) On the snow pressure at rest. Also in Proceedings of International 
+Symposium on Scientific Aspects of Snow and Ice A valanches, Davos, Switzerland, April, 
+1965, International Association of Scientific Hydrology, International Union of Geodesy 
+and Geophysics, Gentbrugge, Belgium, 1966. 
+Ramseier, R. O. (1963) Some physical and mechanical properties of polar snow. I. Glaciol. 4 (36). 
+(Also USA CRREL Research Report 116, 1966.) 
+Ramseier, R. O. and Pavlak, T. L. (1964) Unconfined creep of polar snow. J. Glaciol. 5 (39). 
+Robin, G. deQ. (1958) Seismic shooting and related investigations. In Glaciology III, Scientific 
+Results of the Norwegian-British-Swedish Antarctic Expedition, 1949-1952, vol. V: 
+Norsk Polarinstitutt, Oslo. 
+Roch, A. (1948) Discussion sur la valeur du nombre de Poisson m pour la neige (Discussion of the 
+value of Poisson's number m for snow). Davos-Weissfluhjoch, Mitteilungen aus dem Eidg. 
+Institut fur Schnee- und Lawinenforschung, Interner Bericht No. 89. 
+Salm. B. (1967) An attempt to clarify triaxial creep mechanics of snow. International Conference 
+on Physics of Snow and Ice, Hokkaido University, Japan. 
+Salm, B. (1971) On the rheological behavior of snow under high stresses. Contribution 1129, 
+Inst. Low Temp. Sci., Series A, 23 (1). 
+Shimbo, M. (1961) The mechanism of sliding on snow. In Snow and Ice Commission, General 
+Assembly of Helsinki, International Union of Geodesy and Geophysics. International 
+Association of Scientific Hydrology, Pub. No. 54. 
+=== PAGE 41 ===
+A review of basic snow mechanics 291 
+Shimbo, M. (1971) Friction on snow of ski soles, unwaxed and waxed. In Scientific Study of 
+Skiiing in Japan: Hitachi Ltd, Tokyo, Japan. 
+Shinojima, K. (1967) Study on the visco-elastic deformation of deposited snow. International 
+Conference on Physics of Snow and Ice, Hokkaido University, Japan. 
+Smith, J. L. (1963) Crushing strength and longitudinal wave velocity in processed snow. USA 
+CRREL Technical Report 137. 
+Smith, J. L. (1965) The elastic constants, strength, and density of Greenland snow as determined 
+from measurement of sonic wave velocity. USA CRREL Technical Report 167. 
+Smith, J. L. (1969) Shock tube experiments on snow. USA CRREL Technical Report 218. 
+Smith, N. (1969) Determining the dynamic properties of snow and ice by forced vibration. USA 
+CRREL Technical Report 216. 
+Sorge, E. (1935) Glaziologische Untersuchungen in Eismitte. In Wissenschaftliche der Deutschen 
+Groenland-Expédition Alfred Wegener, vol. 3, p. 270: F. A. Brockhaus, Leipzig. 
+Sorge, E. (1938) Die Firnschrunpfung in den obersten Schichten des Groenlaendischen Inlandeises. 
+International Geodetic and Geophysical Union. Association of Scientific Hydrology, 
+Bulletin 23, 725-731. 
+Yosida, Z. et al. (1956-1958) Physical studies on deposited snow. Contributions from the 
+Institute of Low Temperature Science, No. 9, 11, 13, Hokkaido University. 
+Yosida, Z. (1963) Physical properties of snow. In Ice and Snow: Processes, Properties and 
+Applications (edited by W. D. Kingery): MIT Press, Cambridge, Mass. 
+DISCUSSION 
+W. Good: 
+Perhaps some of the scatter could be removed if mechanical properties are considered 
+functions of snow texture as well as density. 
+R. A. Sommerfeld: 
+Much of Keeler and Weeks' (1967) tensile strength measurements fall above your 
+upper envelope. 
+W. St Lawrence: 
+We have not been able to verify that the viscous analogue of Poisson's ratio in tension 
+is 0.5. 
+Malcolm Mellor: 
+I made an attempt to summarize, as simply as possible, broad magnitudes and trends 
+of available data. If texture could be introduced systematically, scatter and 
+inconsistencies would indeed be reduced. 
+J.F.Nye: 
+Dr Mellor's extremely useful and balanced paper gives us the opportunity to discuss 
+the major question of where the whole subject of snow mechanics is going. It seems to 
+me that there may.be a lack of proportion in some of the papers presented at this 
+symposium. We see attempts to fit experimental results with rather large scatter to 
+precise and sophisticated constitutive laws. I would like to underscore the statement 
+made in Dr Mellor's paper: 'Elegant simplification of complicated behaviour is very 
+much needed.' 

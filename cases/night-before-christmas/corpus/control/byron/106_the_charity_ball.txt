@@ -1,0 +1,20 @@
+title: The Charity Ball
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: anapestic tetrameter
+lines: 9
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+WHAT matter the pangs of a husband and father,
+If his sorrows in exile be great or be small,
+So the Pharisee's glories around her she gather,
+And the saint patronises her "Charity Ball!"
+
+What matters--a heart which, though faulty, was feeling,
+Be driven to excesses which once could appal--
+That the Sinner should suffer is only fair dealing,
+As the Saint keeps her charity back for "the Ball!"
+
+December 10, 1820.

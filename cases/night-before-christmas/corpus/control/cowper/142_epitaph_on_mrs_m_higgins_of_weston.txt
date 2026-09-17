@@ -1,0 +1,17 @@
+title: Epitaph on Mrs. M. Higgins, of Weston
+author: William Cowper
+date: 1793
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: iambic pentameter
+lines: 8
+attribution: certain
+notes: 
+
+Laurels may flourish round the conqueror's tomb,
+But happiest they who win the world to come:
+Believers have a silent field to fight,
+And their exploits are veil'd from human sight.
+They in some nook, where little known they dwell,
+Kneel, pray in faith, and rout the hosts of hell;
+Eternal triumphs crown their toils divine,
+And all those triumphs, Mary, now are thine.

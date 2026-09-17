@@ -1,0 +1,46 @@
+########## Casualty Returns 1946
+-- header:
+-- Medan/Ourang/Orang:
+9618:Oranges... 
+-- Malacca/Sumatra/Singapore/Netherlands Indies mentions:
+6248-m.s. 
+6249-
+6250:Caught  fire  in  Singapore  Roads  : 
+6251-scuttled. 
+6252-
+--
+9614-
+9615-Sydney,  N.S.W. — 
+9616:Singapore. 
+9617-
+9618-Oranges... 
+########## Casualty Returns 1947
+-- header:
+-- Medan/Ourang/Orang:
+-- Malacca/Sumatra/Singapore/Netherlands Indies mentions:
+2486-Tw.Sc. 
+2487-
+2488:Singapore — 
+2489-
+2490-1 
+########## Casualty Returns 1948
+-- header:
+-- Medan/Ourang/Orang:
+1447:Orangeleaf  (T.)  ’17 
+-- Malacca/Sumatra/Singapore/Netherlands Indies mentions:
+9675-W.m.s. 
+9676-
+9677:Singapore — 
+9678-
+9679-Pekan  Baroe. 
+--
+9683-
+9684-Sunk  by  aircraft  1  mile  off 
+9685:Pekan  Baroe,  N.E.  Sumatra. 
+9686-
+9687-31st  Dec. 
+########## Casualty Returns 1949
+-- header:
+-- Medan/Ourang/Orang:
+5422:oranges. 
+-- Malacca/Sumatra/Singapore/Netherlands Indies mentions:

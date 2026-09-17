@@ -1,0 +1,1222 @@
+{
+ "Fourques": {
+  "lat": 43.692905,
+  "lon": 4.60931,
+  "name": "Fourques",
+  "query": "Fourques, Gard, France",
+  "source": "Nominatim/OSM relation/384076 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 384076,
+  "display_name": "Fourques, Nîmes, Gard, Occitanie, France métropolitaine, 30300, France"
+ },
+ "Beaucaire": {
+  "lat": 43.8085436,
+  "lon": 4.6392648,
+  "name": "Beaucaire",
+  "query": "Beaucaire, Gard, France",
+  "source": "Nominatim/OSM relation/384088 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 384088,
+  "display_name": "Beaucaire, Nîmes, Gard, Occitanie, France métropolitaine, 30300, France"
+ },
+ "Tarascon": {
+  "lat": 43.8053654,
+  "lon": 4.6585115,
+  "name": "Tarascon",
+  "query": "Tarascon, Bouches-du-Rhone, France",
+  "source": "Nominatim/OSM relation/74016 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 74016,
+  "display_name": "Tarascon, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13150, France"
+ },
+ "Avignon": {
+  "lat": 43.9492493,
+  "lon": 4.8059012,
+  "name": "Avignon",
+  "query": "Avignon, Vaucluse, France",
+  "source": "Nominatim/OSM relation/102478 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 102478,
+  "display_name": "Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84000, France"
+ },
+ "Roquemaure": {
+  "lat": 44.0523514,
+  "lon": 4.7788273,
+  "name": "Roquemaure",
+  "query": "Roquemaure, Gard, France",
+  "source": "Nominatim/OSM relation/384816 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 384816,
+  "display_name": "Roquemaure, Nîmes, Gard, Occitanie, France métropolitaine, 30150, France"
+ },
+ "Orange": {
+  "lat": 44.1371311,
+  "lon": 4.8078783,
+  "name": "Orange",
+  "query": "Orange, Vaucluse, France",
+  "source": "Nominatim/OSM relation/187038 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 187038,
+  "display_name": "Orange, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84100, France"
+ },
+ "Caderousse": {
+  "lat": 44.1025641,
+  "lon": 4.7571511,
+  "name": "Caderousse",
+  "query": "Caderousse, Vaucluse, France",
+  "source": "Nominatim/OSM relation/148147 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 148147,
+  "display_name": "Caderousse, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84860, France"
+ },
+ "Bollene": {
+  "lat": 44.2803882,
+  "lon": 4.7484092,
+  "name": "Bollene",
+  "query": "Bollene, Vaucluse, France",
+  "source": "Nominatim/OSM relation/148135 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 148135,
+  "display_name": "Bollène, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84500, France"
+ },
+ "Pierrelatte": {
+  "lat": 44.3778474,
+  "lon": 4.6976609,
+  "name": "Pierrelatte",
+  "query": "Pierrelatte, Drome, France",
+  "source": "Nominatim/OSM relation/70411 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 70411,
+  "display_name": "Pierrelatte, Nyons, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26700, France"
+ },
+ "Montelimar": {
+  "lat": 44.5579391,
+  "lon": 4.750318,
+  "name": "Montelimar",
+  "query": "Montelimar, Drome, France",
+  "source": "Nominatim/OSM relation/70292 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 70292,
+  "display_name": "Montélimar, Nyons, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26200, France"
+ },
+ "Loriol": {
+  "lat": 44.7518413,
+  "lon": 4.822279,
+  "name": "Loriol",
+  "query": "Loriol-sur-Drome, Drome, France",
+  "source": "Nominatim/OSM relation/76921 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 76921,
+  "display_name": "Loriol-sur-Drôme, Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26270, France"
+ },
+ "Valence": {
+  "lat": 44.9332277,
+  "lon": 4.8920811,
+  "name": "Valence",
+  "query": "Valence, Drome, France",
+  "source": "Nominatim/OSM relation/37586 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 37586,
+  "display_name": "Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26000, France"
+ },
+ "Lyon": {
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "name": "Lyon",
+  "query": "Lyon, France",
+  "source": "Nominatim/OSM relation/120965 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 120965,
+  "display_name": "Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France"
+ },
+ "Vienne": {
+  "lat": 45.52524,
+  "lon": 4.87477,
+  "name": "Vienne",
+  "query": "Vienne, Isere, France",
+  "source": "Nominatim/OSM relation/169848 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 169848,
+  "display_name": "Vienne, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38200, France"
+ },
+ "Romans": {
+  "lat": 45.0458886,
+  "lon": 5.0528681,
+  "name": "Romans",
+  "query": "Romans-sur-Isere, Drome, France",
+  "source": "Nominatim/OSM relation/36664 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 36664,
+  "display_name": "Romans-sur-Isère, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26100, France"
+ },
+ "Saint-Marcellin": {
+  "lat": 45.1539715,
+  "lon": 5.320347,
+  "name": "Saint-Marcellin",
+  "query": "Saint-Marcellin, Isere, France",
+  "source": "Nominatim/OSM relation/191569 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 191569,
+  "display_name": "Saint-Marcellin, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38160, France"
+ },
+ "Tullins": {
+  "lat": 45.2977714,
+  "lon": 5.4829748,
+  "name": "Tullins",
+  "query": "Tullins, Isere, France",
+  "source": "Nominatim/OSM relation/190861 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 190861,
+  "display_name": "Tullins, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38210, France"
+ },
+ "Voreppe": {
+  "lat": 45.2928424,
+  "lon": 5.6361825,
+  "name": "Voreppe",
+  "query": "Voreppe, Isere, France",
+  "source": "Nominatim/OSM relation/85956 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 85956,
+  "display_name": "Voreppe, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38340, France"
+ },
+ "Grenoble": {
+  "lat": 45.1875602,
+  "lon": 5.7357819,
+  "name": "Grenoble",
+  "query": "Grenoble, France",
+  "source": "Nominatim/OSM relation/80348 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 80348,
+  "display_name": "Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, France"
+ },
+ "Pontcharra": {
+  "lat": 45.4327537,
+  "lon": 6.0204233,
+  "name": "Pontcharra",
+  "query": "Pontcharra, Isere, France",
+  "source": "Nominatim/OSM relation/88810 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 88810,
+  "display_name": "Pontcharra, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38530, France"
+ },
+ "Montmelian": {
+  "lat": 45.5009946,
+  "lon": 6.0587974,
+  "name": "Montmelian",
+  "query": "Montmelian, Savoie, France",
+  "source": "Nominatim/OSM relation/113499 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 113499,
+  "display_name": "Montmélian, Chambéry, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73800, France"
+ },
+ "Aiguebelle": {
+  "lat": 45.5415041,
+  "lon": 6.3060463,
+  "name": "Aiguebelle",
+  "query": "Aiguebelle, Savoie, France",
+  "source": "Nominatim/OSM node/41644900 (village)",
+  "osm_type": "node",
+  "osm_id": 41644900,
+  "display_name": "Aiguebelle, Val-d'Arc, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73220, France"
+ },
+ "La Chambre": {
+  "lat": 45.3575951,
+  "lon": 6.300967,
+  "name": "La Chambre",
+  "query": "La Chambre, Savoie, France",
+  "source": "Nominatim/OSM relation/128282 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 128282,
+  "display_name": "La Chambre, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73130, France"
+ },
+ "Saint-Jean-de-Maurienne": {
+  "lat": 45.2775475,
+  "lon": 6.345172,
+  "name": "Saint-Jean-de-Maurienne",
+  "query": "Saint-Jean-de-Maurienne, Savoie, France",
+  "source": "Nominatim/OSM relation/128281 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 128281,
+  "display_name": "Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73300, France"
+ },
+ "Saint-Michel-de-Maurienne": {
+  "lat": 45.2178751,
+  "lon": 6.4750846,
+  "name": "Saint-Michel-de-Maurienne",
+  "query": "Saint-Michel-de-Maurienne, Savoie, France",
+  "source": "Nominatim/OSM relation/129440 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 129440,
+  "display_name": "Saint-Michel-de-Maurienne, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73140, France"
+ },
+ "Modane": {
+  "lat": 45.2015369,
+  "lon": 6.6728169,
+  "name": "Modane",
+  "query": "Modane, Savoie, France",
+  "source": "Nominatim/OSM relation/114188 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 114188,
+  "display_name": "Modane, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Bramans": {
+  "lat": 45.2238391,
+  "lon": 6.7757428,
+  "name": "Bramans",
+  "query": "Bramans, Savoie, France",
+  "source": "Nominatim/OSM node/41645019 (village)",
+  "osm_type": "node",
+  "osm_id": 41645019,
+  "display_name": "Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Termignon": {
+  "lat": 45.2769434,
+  "lon": 6.8169262,
+  "name": "Termignon",
+  "query": "Termignon, Savoie, France",
+  "source": "Nominatim/OSM relation/133885 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 133885,
+  "display_name": "Termignon, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Lanslebourg": {
+  "lat": 45.2852643,
+  "lon": 6.8766492,
+  "name": "Lanslebourg",
+  "query": "Lanslebourg-Mont-Cenis, Savoie, France",
+  "source": "Nominatim/OSM node/1704925507 (village)",
+  "osm_type": "node",
+  "osm_id": 1704925507,
+  "display_name": "Lanslebourg-Mont-Cenis, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73480, France"
+ },
+ "Col du Mont-Cenis": {
+  "lat": 45.2598281,
+  "lon": 6.9008841,
+  "name": "Col du Mont-Cenis",
+  "query": "Col du Mont Cenis",
+  "source": "Nominatim/OSM node/2178653980 (yes)",
+  "osm_type": "node",
+  "osm_id": 2178653980,
+  "display_name": "Col du Mont Cenis, Lanslebourg-Mont-Cenis, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73480, France"
+ },
+ "Col du Petit Mont-Cenis": {
+  "lat": 45.2108326,
+  "lon": 6.8661704,
+  "name": "Col du Petit Mont-Cenis",
+  "query": "Col du Petit Mont Cenis",
+  "source": "Nominatim/OSM node/6712847446 (saddle)",
+  "osm_type": "node",
+  "osm_id": 6712847446,
+  "display_name": "Col du Petit Mont Cenis, Les Coulours, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Le Planay (Bramans)": {
+  "lat": 45.2070642,
+  "lon": 6.8349979,
+  "name": "Le Planay (Bramans)",
+  "query": "Le Planay, Bramans, Savoie, France",
+  "source": "Nominatim/OSM node/4036393927 (hamlet)",
+  "osm_type": "node",
+  "osm_id": 4036393927,
+  "display_name": "Le Planay, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Lac Savine": {
+  "lat": 45.1753807,
+  "lon": 6.9133711,
+  "name": "Lac Savine",
+  "query": "Lac Savine, Savoie",
+  "source": "Nominatim/OSM relation/12406687 (lake)",
+  "osm_type": "relation",
+  "osm_id": 12406687,
+  "display_name": "Lac de Savine, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Col Clapier": {
+  "lat": 45.1681847,
+  "lon": 6.9231775,
+  "name": "Col Clapier",
+  "query": "Col Clapier",
+  "source": "Nominatim/OSM node/1409452160 (yes)",
+  "osm_type": "node",
+  "osm_id": 1409452160,
+  "display_name": "Col Clapier / Colle Clapier, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73500, France"
+ },
+ "Giaglione": {
+  "lat": 45.1402386,
+  "lon": 7.0147562,
+  "name": "Giaglione",
+  "query": "Giaglione, Torino, Italia",
+  "source": "Nominatim/OSM relation/44299 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44299,
+  "display_name": "Giaglione, Torino, Piemonte, Italia"
+ },
+ "Susa": {
+  "lat": 45.1383808,
+  "lon": 7.0493387,
+  "name": "Susa",
+  "query": "Susa, Torino, Italia",
+  "source": "Nominatim/OSM relation/44287 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44287,
+  "display_name": "Susa, Torino, Piemonte, Italia"
+ },
+ "Bussoleno": {
+  "lat": 45.1392706,
+  "lon": 7.1477166,
+  "name": "Bussoleno",
+  "query": "Bussoleno, Torino, Italia",
+  "source": "Nominatim/OSM relation/44134 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44134,
+  "display_name": "Bussoleno, Torino, Piemonte, 10053, Italia"
+ },
+ "Sant'Ambrogio di Torino": {
+  "lat": 45.099445,
+  "lon": 7.362315,
+  "name": "Sant'Ambrogio di Torino",
+  "query": "Sant'Ambrogio di Torino, Torino, Italia",
+  "source": "Nominatim/OSM relation/44184 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44184,
+  "display_name": "Sant'Ambrogio di Torino, Torino, Piemonte, 10057, Italia"
+ },
+ "Avigliana": {
+  "lat": 45.0779435,
+  "lon": 7.3983904,
+  "name": "Avigliana",
+  "query": "Avigliana, Torino, Italia",
+  "source": "Nominatim/OSM relation/44097 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44097,
+  "display_name": "Avigliana, Torino, Piemonte, 10051, Italia"
+ },
+ "Rivoli": {
+  "lat": 45.0697151,
+  "lon": 7.5176764,
+  "name": "Rivoli",
+  "query": "Rivoli, Torino, Italia",
+  "source": "Nominatim/OSM relation/44071 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44071,
+  "display_name": "Rivoli, Torino, Piemonte, 10098, Italia"
+ },
+ "Turin": {
+  "lat": 45.0677551,
+  "lon": 7.6824892,
+  "name": "Turin",
+  "query": "Torino, Italia",
+  "source": "Nominatim/OSM relation/43992 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43992,
+  "display_name": "Torino, Piemonte, Italia"
+ },
+ "Albertville": {
+  "lat": 45.6754622,
+  "lon": 6.3925417,
+  "name": "Albertville",
+  "query": "Albertville, Savoie, France",
+  "source": "Nominatim/OSM relation/111528 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 111528,
+  "display_name": "Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73200, France"
+ },
+ "Moutiers": {
+  "lat": 45.4849883,
+  "lon": 6.5340061,
+  "name": "Moutiers",
+  "query": "Moutiers, Savoie, France",
+  "source": "Nominatim/OSM relation/129478 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 129478,
+  "display_name": "Moûtiers, Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73600, France"
+ },
+ "Aime": {
+  "lat": 45.5660919,
+  "lon": 6.6121397,
+  "name": "Aime",
+  "query": "Aime-la-Plagne, Savoie, France",
+  "source": "Nominatim/OSM relation/5804822 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 5804822,
+  "display_name": "Aime-la-Plagne, Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73210, France"
+ },
+ "Bourg-Saint-Maurice": {
+  "lat": 45.6186105,
+  "lon": 6.7695277,
+  "name": "Bourg-Saint-Maurice",
+  "query": "Bourg-Saint-Maurice, Savoie, France",
+  "source": "Nominatim/OSM relation/128060 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 128060,
+  "display_name": "Bourg-Saint-Maurice, Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73700, France"
+ },
+ "Seez": {
+  "lat": 45.6229873,
+  "lon": 6.8001912,
+  "name": "Seez",
+  "query": "Seez, Savoie, France",
+  "source": "Nominatim/OSM relation/133460 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 133460,
+  "display_name": "Séez, Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73700, France"
+ },
+ "Col du Petit-Saint-Bernard": {
+  "lat": 45.6792488,
+  "lon": 6.8829399,
+  "name": "Col du Petit-Saint-Bernard",
+  "query": "Col du Petit-Saint-Bernard",
+  "source": "Nominatim/OSM node/6126335144 (yes)",
+  "osm_type": "node",
+  "osm_id": 6126335144,
+  "display_name": "Col du Petit-Saint-Bernard, Séez, Albertville, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73700, France"
+ },
+ "La Thuile": {
+  "lat": 45.7162875,
+  "lon": 6.9486119,
+  "name": "La Thuile",
+  "query": "La Thuile, Aosta, Italia",
+  "source": "Nominatim/OSM node/258628667 (village)",
+  "osm_type": "node",
+  "osm_id": 258628667,
+  "display_name": "La Thuile, Valle d'Aosta / Vallée d'Aoste, 11016, Italia"
+ },
+ "Pre-Saint-Didier": {
+  "lat": 45.7639422,
+  "lon": 6.9853467,
+  "name": "Pre-Saint-Didier",
+  "query": "Pre-Saint-Didier, Aosta, Italia",
+  "source": "Nominatim/OSM relation/46032 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 46032,
+  "display_name": "Pré-Saint-Didier, Valle d'Aosta / Vallée d'Aoste, Italia"
+ },
+ "Morgex": {
+  "lat": 45.7580223,
+  "lon": 7.0354328,
+  "name": "Morgex",
+  "query": "Morgex, Aosta, Italia",
+  "source": "Nominatim/OSM node/1735580745 (village)",
+  "osm_type": "node",
+  "osm_id": 1735580745,
+  "display_name": "Morgex, Valle d'Aosta / Vallée d'Aoste, 11017, Italia"
+ },
+ "Aosta": {
+  "lat": 45.7373075,
+  "lon": 7.3204025,
+  "name": "Aosta",
+  "query": "Aosta, Italia",
+  "source": "Nominatim/OSM relation/45916 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 45916,
+  "display_name": "Aosta / Aoste, Valle d'Aosta / Vallée d'Aoste, 11100, Italia"
+ },
+ "Chatillon (Aosta)": {
+  "lat": 45.7588243,
+  "lon": 7.6245217,
+  "name": "Chatillon (Aosta)",
+  "query": "Chatillon, Valle d'Aosta, Italia",
+  "source": "Nominatim/OSM relation/2202526 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 2202526,
+  "display_name": "Châtillon, Valle d'Aosta / Vallée d'Aoste, 11024, Italia"
+ },
+ "Pont-Saint-Martin": {
+  "lat": 45.5989362,
+  "lon": 7.8162295,
+  "name": "Pont-Saint-Martin",
+  "query": "Pont-Saint-Martin, Aosta, Italia",
+  "source": "Nominatim/OSM relation/45463 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 45463,
+  "display_name": "Pont-Saint-Martin, Valle d'Aosta / Vallée d'Aoste, 11026, Italia"
+ },
+ "Ivrea": {
+  "lat": 45.451803,
+  "lon": 7.8932496,
+  "name": "Ivrea",
+  "query": "Ivrea, Torino, Italia",
+  "source": "Nominatim/OSM relation/44971 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44971,
+  "display_name": "Ivrea, Torino, Piemonte, Italia"
+ },
+ "Chivasso": {
+  "lat": 45.1898322,
+  "lon": 7.8860277,
+  "name": "Chivasso",
+  "query": "Chivasso, Torino, Italia",
+  "source": "Nominatim/OSM relation/44385 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44385,
+  "display_name": "Chivasso, Torino, Piemonte, 10034, Italia"
+ },
+ "Vercelli": {
+  "lat": 45.3251557,
+  "lon": 8.4227666,
+  "name": "Vercelli",
+  "query": "Vercelli, Italia",
+  "source": "Nominatim/OSM relation/1552703 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 1552703,
+  "display_name": "Vercelli, Piemonte, Italia"
+ },
+ "Novara": {
+  "lat": 45.4464036,
+  "lon": 8.619655,
+  "name": "Novara",
+  "query": "Novara, Italia",
+  "source": "Nominatim/OSM relation/44898 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44898,
+  "display_name": "Novara, Piemonte, 28100, Italia"
+ },
+ "Milan": {
+  "lat": 45.4641943,
+  "lon": 9.1896346,
+  "name": "Milan",
+  "query": "Milano, Italia",
+  "source": "Nominatim/OSM relation/44915 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44915,
+  "display_name": "Milano, Rodano, Milano, Lombardia, Italia"
+ },
+ "Cavaillon": {
+  "lat": 43.8356808,
+  "lon": 5.0383522,
+  "name": "Cavaillon",
+  "query": "Cavaillon, Vaucluse, France",
+  "source": "Nominatim/OSM relation/73936 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 73936,
+  "display_name": "Cavaillon, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84300, France"
+ },
+ "Pertuis": {
+  "lat": 43.6951468,
+  "lon": 5.5032671,
+  "name": "Pertuis",
+  "query": "Pertuis, Vaucluse, France",
+  "source": "Nominatim/OSM relation/71963 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 71963,
+  "display_name": "Pertuis, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84120, France"
+ },
+ "Manosque": {
+  "lat": 43.8338026,
+  "lon": 5.7826657,
+  "name": "Manosque",
+  "query": "Manosque, Alpes-de-Haute-Provence, France",
+  "source": "Nominatim/OSM relation/365373 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 365373,
+  "display_name": "Manosque, Forcalquier, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04100, France"
+ },
+ "Sisteron": {
+  "lat": 44.1963467,
+  "lon": 5.9443791,
+  "name": "Sisteron",
+  "query": "Sisteron, Alpes-de-Haute-Provence, France",
+  "source": "Nominatim/OSM relation/186893 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 186893,
+  "display_name": "Sisteron, Forcalquier, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04200, France"
+ },
+ "Tallard": {
+  "lat": 44.4618971,
+  "lon": 6.0550731,
+  "name": "Tallard",
+  "query": "Tallard, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/196622 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 196622,
+  "display_name": "Tallard, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05130, France"
+ },
+ "Gap": {
+  "lat": 44.5612032,
+  "lon": 6.0820639,
+  "name": "Gap",
+  "query": "Gap, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/367142 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 367142,
+  "display_name": "Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05000, France"
+ },
+ "Chorges": {
+  "lat": 44.5450837,
+  "lon": 6.2754561,
+  "name": "Chorges",
+  "query": "Chorges, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/367132 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 367132,
+  "display_name": "Chorges, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05230, France"
+ },
+ "Savines-le-Lac": {
+  "lat": 44.5257904,
+  "lon": 6.4049867,
+  "name": "Savines-le-Lac",
+  "query": "Savines-le-Lac, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/76347 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 76347,
+  "display_name": "Savines-le-Lac, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05160, France"
+ },
+ "Embrun": {
+  "lat": 44.5641764,
+  "lon": 6.4958189,
+  "name": "Embrun",
+  "query": "Embrun, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/76329 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 76329,
+  "display_name": "Embrun, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05200, France"
+ },
+ "Guillestre": {
+  "lat": 44.6597849,
+  "lon": 6.6493945,
+  "name": "Guillestre",
+  "query": "Guillestre, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/80451 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 80451,
+  "display_name": "Guillestre, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05600, France"
+ },
+ "L'Argentiere-la-Bessee": {
+  "lat": 44.7896878,
+  "lon": 6.5588696,
+  "name": "L'Argentiere-la-Bessee",
+  "query": "L'Argentiere-la-Bessee, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/75179 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 75179,
+  "display_name": "L'Argentière-la-Bessée, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05120, France"
+ },
+ "Briancon": {
+  "lat": 44.8984037,
+  "lon": 6.6436313,
+  "name": "Briancon",
+  "query": "Briancon, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/85421 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 85421,
+  "display_name": "Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05100, France"
+ },
+ "Col de Montgenevre": {
+  "lat": 44.9312741,
+  "lon": 6.7257053,
+  "name": "Col de Montgenevre",
+  "query": "Col de Montgenevre",
+  "source": "Nominatim/OSM node/442880977 (yes)",
+  "osm_type": "node",
+  "osm_id": 442880977,
+  "display_name": "Col de Montgenèvre - Colle del Monginevro, Montgenèvre, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05100, France"
+ },
+ "Claviere": {
+  "lat": 44.9387991,
+  "lon": 6.7502942,
+  "name": "Claviere",
+  "query": "Claviere, Torino, Italia",
+  "source": "Nominatim/OSM relation/43802 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43802,
+  "display_name": "Claviere, Torino, Piemonte, Italia"
+ },
+ "Cesana Torinese": {
+  "lat": 44.9524431,
+  "lon": 6.7906727,
+  "name": "Cesana Torinese",
+  "query": "Cesana Torinese, Torino, Italia",
+  "source": "Nominatim/OSM relation/43801 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43801,
+  "display_name": "Cesana Torinese, Torino, Piemonte, 10054, Italia"
+ },
+ "Oulx": {
+  "lat": 45.0330519,
+  "lon": 6.83251,
+  "name": "Oulx",
+  "query": "Oulx, Torino, Italia",
+  "source": "Nominatim/OSM relation/43955 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43955,
+  "display_name": "Oulx, Torino, Piemonte, 10056, Italia"
+ },
+ "Exilles": {
+  "lat": 45.0973834,
+  "lon": 6.9290646,
+  "name": "Exilles",
+  "query": "Exilles, Torino, Italia",
+  "source": "Nominatim/OSM relation/44125 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 44125,
+  "display_name": "Exilles, Torino, Piemonte, Italia"
+ },
+ "Crest": {
+  "lat": 44.7282675,
+  "lon": 5.0236641,
+  "name": "Crest",
+  "query": "Crest, Drome, France",
+  "source": "Nominatim/OSM relation/84754 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 84754,
+  "display_name": "Crest, Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26400, France"
+ },
+ "Saillans": {
+  "lat": 44.6975415,
+  "lon": 5.1972501,
+  "name": "Saillans",
+  "query": "Saillans, Drome, France",
+  "source": "Nominatim/OSM relation/18476605 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 18476605,
+  "display_name": "Saillans, Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26340, France"
+ },
+ "Die": {
+  "lat": 44.7533712,
+  "lon": 5.3689136,
+  "name": "Die",
+  "query": "Die, Drome, France",
+  "source": "Nominatim/OSM relation/66441 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 66441,
+  "display_name": "Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26150, France"
+ },
+ "Luc-en-Diois": {
+  "lat": 44.6152,
+  "lon": 5.4517754,
+  "name": "Luc-en-Diois",
+  "query": "Luc-en-Diois, Drome, France",
+  "source": "Nominatim/OSM relation/88556 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 88556,
+  "display_name": "Luc-en-Diois, Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26310, France"
+ },
+ "Col de Cabre": {
+  "lat": 44.5495973,
+  "lon": 5.5983269,
+  "name": "Col de Cabre",
+  "query": "Col de Cabre, Drome",
+  "source": "Nominatim/OSM node/1947205676 (yes)",
+  "osm_type": "node",
+  "osm_id": 1947205676,
+  "display_name": "Col de Cabre, La Beaume, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05140, France"
+ },
+ "Col de Grimone": {
+  "lat": 44.6914457,
+  "lon": 5.6539885,
+  "name": "Col de Grimone",
+  "query": "Col de Grimone",
+  "source": "Nominatim/OSM node/858361284 (yes)",
+  "osm_type": "node",
+  "osm_id": 858361284,
+  "display_name": "Col de Grimone, Glandage, Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26410, France"
+ },
+ "La Beaume": {
+  "lat": 44.5533503,
+  "lon": 5.6358252,
+  "name": "La Beaume",
+  "query": "La Beaume, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/937365 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 937365,
+  "display_name": "La Beaume, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05140, France"
+ },
+ "Aspres-sur-Buech": {
+  "lat": 44.5219283,
+  "lon": 5.7502024,
+  "name": "Aspres-sur-Buech",
+  "query": "Aspres-sur-Buech, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/276325 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 276325,
+  "display_name": "Aspres-sur-Buëch, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05140, France"
+ },
+ "Veynes": {
+  "lat": 44.5349009,
+  "lon": 5.8244718,
+  "name": "Veynes",
+  "query": "Veynes, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/556905 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 556905,
+  "display_name": "Veynes, Gap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05400, France"
+ },
+ "Chateau-Ville-Vieille": {
+  "lat": 44.7624644,
+  "lon": 6.8114557,
+  "name": "Chateau-Ville-Vieille",
+  "query": "Chateau-Ville-Vieille, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/373028 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 373028,
+  "display_name": "Château-Ville-Vieille, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05350, France"
+ },
+ "Aiguilles": {
+  "lat": 44.781105,
+  "lon": 6.8686622,
+  "name": "Aiguilles",
+  "query": "Aiguilles, Hautes-Alpes, France",
+  "source": "Nominatim/OSM relation/373838 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 373838,
+  "display_name": "Aiguilles, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05470, France"
+ },
+ "Abries": {
+  "lat": 44.7940562,
+  "lon": 6.9279072,
+  "name": "Abries",
+  "query": "Abries, Hautes-Alpes, France",
+  "source": "Nominatim/OSM node/285073587 (village)",
+  "osm_type": "node",
+  "osm_id": 285073587,
+  "display_name": "Abriès, Abriès-Ristolas, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05460, France"
+ },
+ "Ristolas": {
+  "lat": 44.7732742,
+  "lon": 6.9558493,
+  "name": "Ristolas",
+  "query": "Ristolas, Hautes-Alpes, France",
+  "source": "Nominatim/OSM node/1872880875 (village)",
+  "osm_type": "node",
+  "osm_id": 1872880875,
+  "display_name": "Ristolas, Abriès-Ristolas, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05460, France"
+ },
+ "L'Echalp": {
+  "lat": 44.7581006,
+  "lon": 6.9928801,
+  "name": "L'Echalp",
+  "query": "L'Echalp, Ristolas, Hautes-Alpes",
+  "source": "Nominatim/OSM node/3461978643 (platform)",
+  "osm_type": "node",
+  "osm_id": 3461978643,
+  "display_name": "L'Echalp, D 947, L'Échalp, Ristolas, Abriès-Ristolas, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05460, France"
+ },
+ "Refuge du Viso": {
+  "lat": 44.7004404,
+  "lon": 7.0514593,
+  "name": "Refuge du Viso",
+  "query": "Refuge du Viso, Ristolas",
+  "source": "Nominatim/OSM way/181010670 (alpine_hut)",
+  "osm_type": "way",
+  "osm_id": 181010670,
+  "display_name": "Refuge du Viso, Normale Alle Rocce Fourioun, Ristolas, Abriès-Ristolas, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05460, France"
+ },
+ "Col de la Traversette": {
+  "lat": 44.7108916,
+  "lon": 7.0663531,
+  "name": "Col de la Traversette",
+  "query": "Col de la Traversette",
+  "source": "Nominatim/OSM node/293467280 (yes)",
+  "osm_type": "node",
+  "osm_id": 293467280,
+  "display_name": "Col de la Traversette / Colle Delle Traversette, Ristolas, Abriès-Ristolas, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05460, France"
+ },
+ "Pian del Re": {
+  "lat": 44.7006561,
+  "lon": 7.0960142,
+  "name": "Pian del Re",
+  "query": "Pian del Re, Crissolo",
+  "source": "Nominatim/OSM node/2323029489 (locality)",
+  "osm_type": "node",
+  "osm_id": 2323029489,
+  "display_name": "Pian del Re, Crissolo, Cuneo, Piemonte, Italia"
+ },
+ "Crissolo": {
+  "lat": 44.7030562,
+  "lon": 7.119704,
+  "name": "Crissolo",
+  "query": "Crissolo, Cuneo, Italia",
+  "source": "Nominatim/OSM relation/43463 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43463,
+  "display_name": "Crissolo, Cuneo, Piemonte, Italia"
+ },
+ "Paesana": {
+  "lat": 44.6697772,
+  "lon": 7.2512548,
+  "name": "Paesana",
+  "query": "Paesana, Cuneo, Italia",
+  "source": "Nominatim/OSM relation/43399 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43399,
+  "display_name": "Paesana, Cuneo, Piemonte, 12034, Italia"
+ },
+ "Saluzzo": {
+  "lat": 44.6446052,
+  "lon": 7.4926009,
+  "name": "Saluzzo",
+  "query": "Saluzzo, Cuneo, Italia",
+  "source": "Nominatim/OSM node/63626805 (town)",
+  "osm_type": "node",
+  "osm_id": 63626805,
+  "display_name": "Saluzzo, Cuneo, Piemonte, 12037, Italia"
+ },
+ "Carmagnola": {
+  "lat": 44.8455856,
+  "lon": 7.7192711,
+  "name": "Carmagnola",
+  "query": "Carmagnola, Torino, Italia",
+  "source": "Nominatim/OSM relation/43663 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43663,
+  "display_name": "Carmagnola, Torino, Piemonte, 10022, Italia"
+ },
+ "Col Agnel": {
+  "lat": 44.6838851,
+  "lon": 6.9795875,
+  "name": "Col Agnel",
+  "query": "Col Agnel",
+  "source": "Nominatim/OSM node/412129180 (yes)",
+  "osm_type": "node",
+  "osm_id": 412129180,
+  "display_name": "Col Agnel / Colle dell'Agnello, Pontechianale, Cuneo, Piemonte, Italia"
+ },
+ "Le Lauzet-Ubaye": {
+  "lat": 44.428458,
+  "lon": 6.4339749,
+  "name": "Le Lauzet-Ubaye",
+  "query": "Le Lauzet-Ubaye, Alpes-de-Haute-Provence, France",
+  "source": "Nominatim/OSM relation/454762 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 454762,
+  "display_name": "Le Lauzet-Ubaye, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04340, France"
+ },
+ "Barcelonnette": {
+  "lat": 44.3862043,
+  "lon": 6.6513554,
+  "name": "Barcelonnette",
+  "query": "Barcelonnette, Alpes-de-Haute-Provence, France",
+  "source": "Nominatim/OSM relation/363726 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 363726,
+  "display_name": "Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04400, France"
+ },
+ "Jausiers": {
+  "lat": 44.4194297,
+  "lon": 6.7340119,
+  "name": "Jausiers",
+  "query": "Jausiers, Alpes-de-Haute-Provence, France",
+  "source": "Nominatim/OSM relation/363687 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 363687,
+  "display_name": "Jausiers, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04850, France"
+ },
+ "Larche": {
+  "lat": 44.4511952,
+  "lon": 6.84629,
+  "name": "Larche",
+  "query": "Larche, Alpes-de-Haute-Provence, France",
+  "source": "Nominatim/OSM relation/375147 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 375147,
+  "display_name": "Larche, Val-d'Oronaye, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04530, France"
+ },
+ "Col de Larche": {
+  "lat": 44.4218328,
+  "lon": 6.8984272,
+  "name": "Col de Larche",
+  "query": "Col de Larche",
+  "source": "Nominatim/OSM node/928715494 (yes)",
+  "osm_type": "node",
+  "osm_id": 928715494,
+  "display_name": "Col de Larche / Colle della Maddalena, Val-d'Oronaye, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04530, France"
+ },
+ "Col de Vars": {
+  "lat": 44.5388042,
+  "lon": 6.7028384,
+  "name": "Col de Vars",
+  "query": "Col de Vars",
+  "source": "Nominatim/OSM node/454117813 (yes)",
+  "osm_type": "node",
+  "osm_id": 454117813,
+  "display_name": "Col de Vars, Vars, Briançon, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05560, France"
+ },
+ "Argentera": {
+  "lat": 44.374629,
+  "lon": 6.9542095,
+  "name": "Argentera",
+  "query": "Argentera, Cuneo, Italia",
+  "source": "Nominatim/OSM relation/43108 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43108,
+  "display_name": "Argentera, Cuneo, Piemonte, Italia"
+ },
+ "Pietraporzio": {
+  "lat": 44.3437676,
+  "lon": 7.0334623,
+  "name": "Pietraporzio",
+  "query": "Pietraporzio, Cuneo, Italia",
+  "source": "Nominatim/OSM relation/43029 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43029,
+  "display_name": "Pietraporzio, Cuneo, Piemonte, Italia"
+ },
+ "Vinadio": {
+  "lat": 44.2761309,
+  "lon": 7.0947094,
+  "name": "Vinadio",
+  "query": "Vinadio, Cuneo, Italia",
+  "source": "Nominatim/OSM relation/42966 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 42966,
+  "display_name": "Vinadio, Cuneo, Piemonte, Italia"
+ },
+ "Demonte": {
+  "lat": 44.3243071,
+  "lon": 7.3033518,
+  "name": "Demonte",
+  "query": "Demonte, Cuneo, Italia",
+  "source": "Nominatim/OSM relation/43012 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43012,
+  "display_name": "Demonte, Cuneo, Piemonte, Italia"
+ },
+ "Borgo San Dalmazzo": {
+  "lat": 44.3286517,
+  "lon": 7.4874561,
+  "name": "Borgo San Dalmazzo",
+  "query": "Borgo San Dalmazzo, Cuneo, Italia",
+  "source": "Nominatim/OSM node/63626393 (town)",
+  "osm_type": "node",
+  "osm_id": 63626393,
+  "display_name": "Borgo San Dalmazzo, Cuneo, Piemonte, 12011, Italia"
+ },
+ "Cuneo": {
+  "lat": 44.389633,
+  "lon": 7.5479007,
+  "name": "Cuneo",
+  "query": "Cuneo, Italia",
+  "source": "Nominatim/OSM relation/43083 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 43083,
+  "display_name": "Cuneo, Piemonte, 12100, Italia"
+ },
+ "Savigliano": {
+  "lat": 44.644037,
+  "lon": 7.655929,
+  "name": "Savigliano",
+  "query": "Savigliano, Cuneo, Italia",
+  "source": "Nominatim/OSM node/63625935 (town)",
+  "osm_type": "node",
+  "osm_id": 63625935,
+  "display_name": "Savigliano, Cuneo, Piemonte, 12038, Italia"
+ },
+ "Bourgoin-Jallieu": {
+  "lat": 45.5860438,
+  "lon": 5.2772265,
+  "name": "Bourgoin-Jallieu",
+  "query": "Bourgoin-Jallieu, Isere, France",
+  "source": "Nominatim/OSM relation/78763 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 78763,
+  "display_name": "Bourgoin-Jallieu, La Tour-du-Pin, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38300, France"
+ },
+ "Chambery": {
+  "lat": 45.5662672,
+  "lon": 5.9203636,
+  "name": "Chambery",
+  "query": "Chambery, Savoie, France",
+  "source": "Nominatim/OSM relation/74386 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 74386,
+  "display_name": "Chambéry, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73000, France"
+ },
+ "Annecy": {
+  "lat": 45.8992348,
+  "lon": 6.1288847,
+  "name": "Annecy",
+  "query": "Annecy, Haute-Savoie, France",
+  "source": "Nominatim/OSM relation/6791758 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 6791758,
+  "display_name": "Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France"
+ },
+ "Geneva": {
+  "lat": 46.2017559,
+  "lon": 6.1466014,
+  "name": "Geneva",
+  "query": "Geneve, Suisse",
+  "source": "Nominatim/OSM relation/1685488 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 1685488,
+  "display_name": "Genève, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Villeneuve (Vaud)": {
+  "lat": 46.3965712,
+  "lon": 6.9248129,
+  "name": "Villeneuve (Vaud)",
+  "query": "Villeneuve, Vaud, Suisse",
+  "source": "Nominatim/OSM relation/1685193 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 1685193,
+  "display_name": "Villeneuve (VD), District d'Aigle, Vaud, 1844, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Saint-Maurice (Valais)": {
+  "lat": 46.2197694,
+  "lon": 7.0045193,
+  "name": "Saint-Maurice (Valais)",
+  "query": "Saint-Maurice, Valais, Suisse",
+  "source": "Nominatim/OSM relation/2757524 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 2757524,
+  "display_name": "Saint-Maurice, Bas-Valais, Valais/Wallis, 1890, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Martigny": {
+  "lat": 46.103115,
+  "lon": 7.0727354,
+  "name": "Martigny",
+  "query": "Martigny, Valais, Suisse",
+  "source": "Nominatim/OSM relation/1685332 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 1685332,
+  "display_name": "Martigny, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Orsieres": {
+  "lat": 46.0300676,
+  "lon": 7.1453627,
+  "name": "Orsieres",
+  "query": "Orsieres, Valais, Suisse",
+  "source": "Nominatim/OSM relation/1685351 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 1685351,
+  "display_name": "Orsières, Entremont, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Bourg-Saint-Pierre": {
+  "lat": 45.9489252,
+  "lon": 7.2088271,
+  "name": "Bourg-Saint-Pierre",
+  "query": "Bourg-Saint-Pierre, Valais, Suisse",
+  "source": "Nominatim/OSM relation/1685281 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 1685281,
+  "display_name": "Bourg-Saint-Pierre, Entremont, Bas-Valais, Valais/Wallis, 1946, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Col du Grand-Saint-Bernard": {
+  "lat": 45.8690526,
+  "lon": 7.1704088,
+  "name": "Col du Grand-Saint-Bernard",
+  "query": "Col du Grand-Saint-Bernard",
+  "source": "Nominatim/OSM node/2001818936 (yes)",
+  "osm_type": "node",
+  "osm_id": 2001818936,
+  "display_name": "Col du Grand Saint-Bernard, Bourg-Saint-Pierre, Entremont, Bas-Valais, Valais/Wallis, 1946, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "Saint-Rhemy-en-Bosses": {
+  "lat": 45.8237439,
+  "lon": 7.1821889,
+  "name": "Saint-Rhemy-en-Bosses",
+  "query": "Saint-Rhemy-en-Bosses, Aosta, Italia",
+  "source": "Nominatim/OSM relation/46104 (administrative)",
+  "osm_type": "relation",
+  "osm_id": 46104,
+  "display_name": "Saint-Rhémy-en-Bosses, Valle d'Aosta / Vallée d'Aoste, Italia"
+ },
+ "Etroubles": {
+  "lat": 45.8205823,
+  "lon": 7.230574,
+  "name": "Etroubles",
+  "query": "Etroubles, Aosta, Italia",
+  "source": "Nominatim/OSM node/342444766 (village)",
+  "osm_type": "node",
+  "osm_id": 342444766,
+  "display_name": "Étroubles, Valle d'Aosta / Vallée d'Aoste, 11014, Italia"
+ }
+}

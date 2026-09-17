@@ -1,0 +1,93 @@
+title: Irish Valentine
+author: Clement Clarke Moore
+date: 1844 (14 Feb.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 098-102; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooreirishvalentine.htm
+form: anapestic tetrameter/trimeter quatrains (abab), with iambic substitutions
+lines: 68
+attribution: certain
+notes: MS heading: 'A Valentine Feb. 14, 1844.' Comic dialect valentine in the voice of an Irish immigrant 'Pat' addressing 'my sweet little Lydia dear' (Broadway, New York). The site (and Jackson) cite it as an example of Moore's use of cant phrases and stage-Irish. In the transcription the closing signature 'Pat.' stands on a line of its own; here it is joined to the preceding verse line, which it completes (rhyme with 'hat'), so 68 lines = the site's count. 'ukuthla ma cree' kept as transcribed (Irish 'a chuisle mo chroi'). Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+The top of the morn to ye! this blessed day,
+My sweet little Lydia dear.
+But I'll wish myself dead, and clean out of your way,
+If you turn to my words a deaf ear.
+
+For I tell you, d'ye see, I'm a tight Irish boy,
+Just come o'er from the green little isle,
+With a purse full of shiners; and heart full of joy
+At the hope of your favouring smile.
+
+And tho' Norah is surely the neatest young creature
+Ever was, or that ever can be,
+Yet I think, on my soul, that the blessing of Nature
+Has made you still neater than she.
+
+And although her bright image yet lives in my heart,
+A heart ever loyal and true,
+Och! that image was kill'd by young Cupid's last dart;
+And I live, my dear girl, but for you.
+
+It was first in Broadway that I met you a walking,
+With looks than May-flowers more sweet;
+And so pleasant and smoothly you seem'd to be talking,
+That my heart like a fulling-mill beat.
+
+I follow'd you up, and I follow'd you down,
+And I follow'd you everywhere;
+Till the back of your head seem'd beginning to frown,
+And the folk were beginning to stare.
+
+So I thought it was best to leave off galavanting,
+Till your name, and so forth, I could get.
+But, sure, thro' my brain how your image kept jaunting!
+And, oh dear! how it bothers me yet!
+
+And that same very night, what a tossing and turning!
+How the bed-clothes were kept in a rout!
+The curds in the churn, when my mother was churning,
+Were never so tumbled about.
+
+And of sleep de'il a wink, all the night, could I take,
+Of darts and of arrows for dreaming,
+That kept sticking all through me, and making me wake,
+Like a crazy man, screeching and screaming.
+
+And who among mortals is able to say
+How long I had gone at this rate?
+But I chanc'd to bethink me of Valentine's day;
+When the birds are beginning to mate,
+
+And the lads and the lasses have power to choose
+The sweethearts with whom they will pair;
+And no maiden has then a good right to refuse
+An offer that's open and fair.
+
+So, ukuthla ma cree, now without any bother,
+Hold ye fast a good chance when you can;
+And just run like a rabbit, and tell your good mother
+You're engag'd to a neat little man.
+
+And, that, you may know the goodman of your choice,
+Look out, when you're next in the street,
+For the heart-touching brogue of a rich Irish voice,
+As a bugle-horn mellow and sweet,
+
+And a lad with his hat plac'd a trifle askew,
+With a face that looks pleasant and bold,
+And a coat like the sky, all so shining and blue,
+And with buttons so yellow as gold;
+
+With a bright scarlet waistcoat; a bit of a staff;
+And with gloves that are whiter than snow;
+With his corduroys button'd around a full calf,
+And a well polish'd top-boot below.
+
+And I thought it was best, at the top of my letter,
+Just to give you a sketch of my phiz;
+Like a map on a deed, that assists one, the better
+To know what the property is.
+
+So, next time that you see me, just tip me a smile;
+And I'll give you a touch of my hat;
+And I vow, by the Shannon, that never shall guile
+Dishonor the heart of your own little Pat.

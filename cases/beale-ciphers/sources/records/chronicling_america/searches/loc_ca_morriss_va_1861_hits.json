@@ -1,0 +1,48 @@
+{
+ "source_file": "loc_ca_morriss_va_1861.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1861-06-30&fa=location_state:virginia&fo=json&ops=AND&qs=morriss&searchType=advanced&start_date=1861-05-01",
+ "total_hits": 5,
+ "results_in_capture": 5,
+ "results": [
+  {
+   "date": "1861-06-18",
+   "title": "richmond enquirer (richmond, va.) 1815-1867",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024735/1861-06-18/ed-1/?sp=3"
+  },
+  {
+   "date": "1861-05-23",
+   "title": "the daily dispatch (richmond [va.]) 1850-1884",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024738/1861-05-23/ed-1/?sp=2"
+  },
+  {
+   "date": "1861-05-24",
+   "title": "the daily dispatch (richmond [va.]) 1850-1884",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024738/1861-05-24/ed-1/?sp=2"
+  },
+  {
+   "date": "1861-05-29",
+   "title": "the daily dispatch (richmond [va.]) 1850-1884",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024738/1861-05-29/ed-1/?sp=2"
+  },
+  {
+   "date": "1861-06-18",
+   "title": "richmond daily whig (richmond, va.) 1842-1861",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024656/1861-06-18/ed-1/?sp=2"
+  }
+ ]
+}

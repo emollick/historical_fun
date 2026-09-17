@@ -1,0 +1,246 @@
+id	play_index	key	group	author	date	note
+A11954	0	sh_tempest	SH	Shakespeare	1611	F1 1623
+A11954	1	sh_two_gentlemen	SH	Shakespeare	1591	F1 1623
+A11954	2	sh_merry_wives	SH	Shakespeare	1597	F1 1623
+A11954	3	shx_measure	SHX	Shakespeare(+Middleton?)	1604	F1 1623; excluded from training
+A11954	4	sh_errors	SH	Shakespeare	1594	F1 1623
+A11954	5	sh_much_ado	SH	Shakespeare	1598	F1 1623
+A11954	6	sh_lll	SH	Shakespeare	1595	F1 1623
+A11954	7	sh_mnd	SH	Shakespeare	1595	F1 1623
+A11954	8	sh_merchant	SH	Shakespeare	1596	F1 1623
+A11954	9	sh_ayl	SH	Shakespeare	1599	F1 1623
+A11954	10	sh_shrew	SH	Shakespeare	1592	F1 1623
+A11954	11	shx_alls_well	SHX	Shakespeare(+Middleton?)	1605	F1 1623; excluded from training
+A11954	12	sh_twelfth_night	SH	Shakespeare	1601	F1 1623
+A11954	13	sh_winters_tale	SH	Shakespeare	1610	F1 1623
+A11954	14	sh_john	SH	Shakespeare	1596	F1 1623
+A11954	15	sh_richard2	SH	Shakespeare	1595	F1 1623
+A11954	16	sh_1henry4	SH	Shakespeare	1597	F1 1623
+A11954	17	sh_2henry4	SH	Shakespeare	1598	F1 1623
+A11954	18	sh_henry5	SH	Shakespeare	1599	F1 1623
+A11954	19	shx_1henry6	SHX	Shakespeare+other	1592	F1 1623; collaborative; excluded
+A11954	20	shx_2henry6	SHX	Shakespeare+other	1591	F1 1623; collaborative; excluded
+A11954	21	shx_3henry6	SHX	Shakespeare+other	1591	F1 1623; collaborative; excluded
+A11954	22	sh_richard3	SH	Shakespeare	1593	F1 1623
+A11954	23	collab_henry8	COLLAB	Shakespeare+Fletcher	1613	F1 1623
+A11954	24	sh_troilus	SH	Shakespeare	1602	F1 1623
+A11954	25	sh_coriolanus	SH	Shakespeare	1608	F1 1623
+A11954	26	shx_titus	SHX	Shakespeare+other	1592	F1 1623; collaborative; excluded
+A11954	27	sh_romeo	SH	Shakespeare	1595	F1 1623
+A11954	28	shx_timon	SHX	Shakespeare(+Middleton?)	1606	F1 1623; excluded from training
+A11954	29	sh_julius_caesar	SH	Shakespeare	1599	F1 1623
+A11954	30	shx_macbeth	SHX	Shakespeare(+Middleton?)	1606	F1 1623; excluded from training
+A11954	31	sh_hamlet	SH	Shakespeare	1601	F1 1623
+A11954	32	sh_lear	SH	Shakespeare	1605	F1 1623
+A11954	33	sh_othello	SH	Shakespeare	1604	F1 1623
+A11954	34	sh_antony	SH	Shakespeare	1607	F1 1623
+A11954	35	sh_cymbeline	SH	Shakespeare	1610	F1 1623
+A00969	0	collab_tnk	COLLAB	Shakespeare+Fletcher	1613	Q 1634
+A27177	0	fl_mad_lover	FL	Fletcher	1617	Folio 1647
+A27177	1	fx_spanish_curate	FX	Fletcher+other	1620	Folio 1647
+A27177	2	fx_little_french_lawyer	FX	Fletcher+other	1620	Folio 1647
+A27177	3	fx_custom_of_country	FX	Fletcher+other	1620	Folio 1647
+A27177	4	fx_noble_gentleman	FX	Fletcher+other	1620	Folio 1647
+A27177	5	fx_captain	BF	Beaumont+Fletcher	1620	Folio 1647
+A27177	6	fx_beggars_bush	FX	Fletcher+other	1620	Folio 1647
+A27177	7	fx_coxcomb	BF	Beaumont+Fletcher	1620	Folio 1647
+A27177	8	fx_false_one	FX	Fletcher+other	1620	Folio 1647
+A27177	9	fl_chances	FL	Fletcher	1617	Folio 1647
+A27177	10	fl_loyal_subject	FL	Fletcher	1618	Folio 1647
+A27177	11	fx_laws_of_candy	FX	Fletcher+other	1620	Folio 1647
+A27177	12	fx_lovers_progress	FX	Fletcher+other	1620	Folio 1647
+A27177	13	fl_island_princess	FL	Fletcher	1621	Folio 1647
+A27177	14	fl_humorous_lieutenant	FL	Fletcher	1619	Folio 1647
+A27177	15	fx_nice_valour	FX	Fletcher+other	1620	Folio 1647
+A27177	16	fx_maid_in_mill	FX	Fletcher+other	1620	Folio 1647
+A27177	17	fx_prophetess	FX	Fletcher+other	1620	Folio 1647
+A27177	18	fl_bonduca	FL	Fletcher	1613	Folio 1647
+A27177	19	fx_sea_voyage	FX	Fletcher+other	1620	Folio 1647
+A27177	20	fx_double_marriage	FX	Fletcher+other	1620	Folio 1647
+A27177	21	fl_pilgrim	FL	Fletcher	1621	Folio 1647
+A27177	22	fx_knight_of_malta	FX	Fletcher+other	1620	Folio 1647
+A27177	23	fl_womans_prize	FL	Fletcher	1611	Folio 1647
+A27177	24	fx_loves_cure	FX	Fletcher+other	1620	Folio 1647
+A27177	25	fx_honest_mans_fortune	FX	Fletcher+other	1620	Folio 1647
+A27177	26	fx_queen_of_corinth	FX	Fletcher+other	1620	Folio 1647
+A27177	27	fl_women_pleased	FL	Fletcher	1620	Folio 1647
+A27177	28	fl_wife_for_month	FL	Fletcher	1624	Folio 1647
+A27177	29	fx_wit_at_several_weapons	FX	Fletcher+other	1620	Folio 1647
+A27177	30	fl_valentinian	FL	Fletcher	1614	Folio 1647
+A27177	31	fx_fair_maid_of_inn	FX	Fletcher+other	1620	Folio 1647
+A27177	32	fx_loves_pilgrimage	FX	Fletcher+other	1620	Folio 1647
+A27177	33	fx_masque_grays_inn	BE	Beaumont	1620	Folio 1647
+A27177	34	fx_four_plays_in_one	FX	Fletcher+other	1620	Folio 1647
+A27177	35	fl_wild_goose_chase	FL	Fletcher	1621	Folio 1647
+A00962	0	fl_faithful_shepherdess	FL	Fletcher	1608	Q 1610
+B13574	0	fl_monsieur_thomas	FL	Fletcher	1615	Q 1639
+A00967	0	fl_rule_a_wife	FL	Fletcher	1624	Q 1640
+A27204	0	fl_wit_without_money	FL	Fletcher	1614	Q 1661; sole authorship disputed by some
+A00966	0	fx_night_walker	FX	Fletcher rev. Shirley	1611	Q 1640
+A06343	0	bf_philaster	BF	Beaumont+Fletcher	1609	Q 1620
+A06289	0	bf_maids_tragedy	BF	Beaumont+Fletcher	1610	Q 1619
+A06207	0	bf_king_no_king	BF	Beaumont+Fletcher	1611	Q 1619
+A06389	0	bf_scornful_lady	BF	Beaumont+Fletcher	1610	Q 1616
+A06177	0	bf_cupids_revenge	BF	Beaumont+Fletcher	1608	Q 1615
+A06252	0	be_knight_burning_pestle	BE	Beaumont	1607	Q 1613
+A06458	0	be_woman_hater	BE	Beaumont(+Fletcher)	1606	Q 1607
+A00960	0	fx_elder_brother	FX	Fletcher+Massinger	1625	Q 1637
+A00958	0	fx_bloody_brother	FX	Fletcher+Massinger+others	1617	Q 1639
+A00968	0	fx_thierry	FX	Fletcher+Massinger+Beaumont?	1617	Q 1621
+A07234	0	ma_bondman	MA	Massinger	1623	Q
+A07237	0	ma_duke_of_milan	MA	Massinger	1621	Q
+A07238	0	ma_emperor_of_east	MA	Massinger	1631	Q
+A07239	0	ma_great_duke_florence	MA	Massinger	1627	Q
+A07240	0	ma_maid_of_honour	MA	Massinger	1621	Q
+A07241	0	ma_new_way	MA	Massinger	1625	Q
+A07245	0	ma_picture	MA	Massinger	1629	Q
+A07246	0	ma_renegado	MA	Massinger	1624	Q
+A07247	0	ma_roman_actor	MA	Massinger	1626	Q
+A07248	0	ma_unnatural_combat	MA	Massinger	1624	Q
+A50090	0	ma_city_madam	MA	Massinger	1632	Q
+A12128	0	jac_shirley_bird_in_cage	JAC	Shirley	1633	Q
+A12129	0	jac_shirley_changes	JAC	Shirley	1632	Q
+A12130	0	jac_shirley_constant_maid	JAC	Shirley	1636	Q
+A12138	0	jac_shirley_grateful_servant	JAC	Shirley	1629	Q
+A12140	0	jac_shirley_hyde_park	JAC	Shirley	1632	Q
+A12141	0	jac_shirley_humorous_courtier	JAC	Shirley	1631	Q
+A12142	0	jac_shirley_lady_of_pleasure	JAC	Shirley	1635	Q
+A12143	0	jac_shirley_loves_cruelty	JAC	Shirley	1631	Q
+A12145	0	jac_shirley_maids_revenge	JAC	Shirley	1626	Q
+A12148	0	jac_shirley_opportunity	JAC	Shirley	1634	Q
+A12150	0	jac_shirley_royal_master	JAC	Shirley	1637	Q
+A12152	0	jac_shirley_school_of_complement	JAC	Shirley	1625	Q
+A12154	0	jac_shirley_traitor	JAC	Shirley	1631	Q
+A12155	0	jac_shirley_wedding	JAC	Shirley	1626	Q
+A12157	0	jac_shirley_witty_fair_one	JAC	Shirley	1628	Q
+A07493	0	jac_middleton_chaste_maid	JAC	Middleton	1613	Q
+A07495	0	jac_middleton_family_of_love	JAC	Middleton	1605	Q
+A07505	0	jac_middleton_michaelmas_term	JAC	Middleton	1605	Q
+A07507	0	jac_middleton_phoenix	JAC	Middleton	1604	Q
+A07511	0	jac_middleton_trick_to_catch	JAC	Middleton	1605	Q
+A07498	0	jac_middleton_game_at_chess	JAC	Middleton	1624	Q
+A01046	0	jac_ford_broken_heart	JAC	Ford	1630	Q
+A01047	0	jac_ford_perkin_warbeck	JAC	Ford	1633	Q
+A01052	0	jac_ford_ladys_trial	JAC	Ford	1638	Q
+A01055	0	jac_ford_lovers_melancholy	JAC	Ford	1628	Q
+A01056	0	jac_ford_loves_sacrifice	JAC	Ford	1632	Q
+A01057	0	jac_ford_tis_pity	JAC	Ford	1630	Q
+A14872	0	jac_webster_duchess_of_malfi	JAC	Webster	1613	Q
+A14869	0	jac_webster_devils_law_case	JAC	Webster	1618	Q
+A14875	0	jac_webster_white_devil	JAC	Webster	1612	Q
+A04633	0	jac_jonson_bartholomew_fair	JAC	Jonson	1614	Q
+A04639	0	jac_jonson_case_is_altered	JAC	Jonson	1597	Q
+A04647	0	jac_jonson_every_man_in	JAC	Jonson	1598	Q
+A04653	0	jac_jonson_cynthias_revels	JAC	Jonson	1600	Q
+A04658	0	jac_jonson_new_inn	JAC	Jonson	1629	Q
+A46228	0	jac_jonson_devil_is_an_ass	JAC	Jonson	1616	Q
+A18400	0	jac_chapman_all_fools	JAC	Chapman	1604	Q
+A18403	0	jac_chapman_bussy	JAC	Chapman	1604	Q
+A18404	0	jac_chapman_byron	JAC	Chapman	1608	Q
+A18415	0	jac_chapman_may_day	JAC	Chapman	1602	Q
+A18421	0	jac_chapman_revenge_bussy	JAC	Chapman	1610	Q
+A18425	0	jac_chapman_caesar_pompey	JAC	Chapman	1613	Q
+A18426	0	jac_chapman_widows_tears	JAC	Chapman	1605	Q
+A69093	0	jac_chapman_monsieur_dolive	JAC	Chapman	1605	Q
+A01911	0	jac_chapman_gyles_goosecap	JAC	Chapman	1602	Q
+A07063	0	jac_marston_antonio_mellida	JAC	Marston	1599	Q
+A07064	0	jac_marston_antonios_revenge	JAC	Marston	1600	Q
+A07083	0	jac_marston_sophonisba	JAC	Marston	1605	Q
+A20867	0	jac_marston_jack_drum	JAC	Marston	1600	Q
+A07067	0	jac_marston_insatiate_countess	JAC	Marston	1610	Q
+A20066	0	jac_dekker_if_it_be_not_good	JAC	Dekker	1611	Q
+A20076	0	jac_dekker_old_fortunatus	JAC	Dekker	1599	Q
+A20083	0	jac_dekker_shoemakers_holiday	JAC	Dekker	1599	Q
+A20088	0	jac_dekker_match_me	JAC	Dekker	1621	Q
+A20092	0	jac_dekker_whore_of_babylon	JAC	Dekker	1606	Q
+A03190	0	jac_heywood_challenge_for_beauty	JAC	Heywood	1635	Q
+A03195	0	jac_heywood_english_traveller	JAC	Heywood	1627	Q
+A03201	0	jac_heywood_fair_maid_west	JAC	Heywood	1610	Q
+A03240	0	jac_heywood_maidenhead_well_lost	JAC	Heywood	1633	Q
+A03244	0	jac_heywood_rape_of_lucrece	JAC	Heywood	1607	Q
+A03248	0	jac_heywood_royal_king	JAC	Heywood	1602	Q
+A03255	0	jac_heywood_wise_woman	JAC	Heywood	1604	Q
+A11151	0	jac_rowley_match_at_midnight	JAC	Rowley	1622	Q
+A11152	0	jac_rowley_shoemaker_gentleman	JAC	Rowley	1608	Q
+A11153	0	jac_rowley_new_wonder	JAC	Rowley	1611	Q
+A11155	0	jac_rowley_alls_lost_by_lust	JAC	Rowley	1619	Q
+A00723	0	jac_field_amends_for_ladies	JAC	Field	1611	Q
+A00725	0	jac_field_woman_weathercock	JAC	Field	1609	Q
+A16923	0	jac_brome_antipodes	JAC	Brome	1638	Q
+A16924	0	jac_brome_northern_lass	JAC	Brome	1629	Q
+A16927	0	jac_brome_sparagus_garden	JAC	Brome	1635	Q
+A19876	0	jac_davenant_cruel_brother	JAC	Davenant	1627	Q
+A19881	0	jac_davenant_albovine	JAC	Davenant	1628	Q
+A19883	0	jac_davenant_wits	JAC	Davenant	1634	Q
+A13840	0	jac_tourneur_atheists_tragedy	JAC	Tourneur	1609	Q
+A13843	0	jac_middleton_revengers_tragedy	JAC	Middleton?	1606	Q
+A19757	0	jac_daborne_christian_turned_turk	JAC	Daborne	1610	Q
+A21136	0	jac_anon_merry_devil	JAC	Anon	1602	Q
+A11264	0	jac_middleton_puritan	JAC	Middleton?	1606	Q
+A39799	0	ad_chances_1682	ADAPT	Buckingham	1682	orig=fl_chances by Fletcher
+A39808	0	ad_pilgrim_1700	ADAPT	Vanbrugh	1700	orig=fl_pilgrim by Fletcher
+A39812	0	ad_valentinian_1685	ADAPT	Rochester	1685	orig=fl_valentinian by Fletcher
+A27197	0	ad_prophetess_1690	ADAPT	Betterton	1690	orig=fx_prophetess by Fletcher+Massinger
+A27180	0	ad_bonduca_1696	ADAPT	Powell?	1696	orig=fl_bonduca by Fletcher
+A27196	0	ad_philaster_1695	ADAPT	Settle	1695	orig=bf_philaster by Beaumont+Fletcher
+A37025	0	ad_trick_for_trick_1678	ADAPT	DUrfey	1678	orig=fl_monsieur_thomas by Fletcher
+A36966	0	ad_commonwealth_women_1686	ADAPT	DUrfey	1686	orig=fx_sea_voyage by Fletcher+Massinger
+A62964	0	ad_island_princess_1687	ADAPT	Tate	1687	orig=fl_island_princess by Fletcher
+A51499	0	ad_island_princess_1699	ADAPT	Motteux	1699	orig=fl_island_princess by Fletcher
+A36513	0	ad_sham_lawyer_1697	ADAPT	Drake	1697	orig=fl_wit_without_money by Fletcher
+A58829	0	ad_unhappy_kindness_1697	ADAPT	Scott	1697	orig=fl_wife_for_month by Fletcher
+A39804	0	ad_humorous_lieutenant_1697	ADAPT	anon	1697	orig=fl_humorous_lieutenant by Fletcher
+A27198	0	ad_rule_a_wife_1697	ADAPT	anon	1697	orig=fl_rule_a_wife by Fletcher
+B17587	0	ad_loyal_subject_1700	ADAPT	anon	1700	orig=fl_loyal_subject by Fletcher
+A39806	0	ad_night_walker_1661	ADAPT	anon	1661	orig=fx_night_walker by Fletcher
+A39805	0	ad_island_princess_1669	ADAPT	anon	1669	orig=fl_island_princess by Fletcher
+A59503	0	ad_macbeth_1674	ADAPT	Davenant	1674	orig=shx_macbeth by Shakespeare
+A59520	0	ad_tempest_1670	ADAPT	Dryden+Davenant	1670	orig=sh_tempest by Shakespeare
+A59422	0	ad_timon_1678	ADAPT	Shadwell	1678	orig=shx_timon by Shakespeare
+A59493	0	ad_lear_1681	ADAPT	Tate	1681	orig=sh_lear by Shakespeare
+A59496	0	ad_richard2_1681	ADAPT	Tate	1681	orig=sh_richard2 by Shakespeare
+A53517	0	ad_caius_marius_1680	ADAPT	Otway	1680	orig=sh_romeo by Shakespeare
+A36983	0	ad_injured_princess_1682	ADAPT	DUrfey	1682	orig=sh_cymbeline by Shakespeare
+A59525	0	ad_titus_1687	ADAPT	Ravenscroft	1687	orig=shx_titus by Shakespeare
+A36704	0	ad_troilus_1679	ADAPT	Dryden	1679	orig=sh_troilus by Shakespeare
+A62946	0	ad_coriolanus_1682	ADAPT	Tate	1682	orig=sh_coriolanus by Shakespeare
+A35289	0	ad_misery_civil_war_1680	ADAPT	Crowne	1680	orig=shx_2henry6 by Shakespeare
+A35283	0	ad_henry6_1681	ADAPT	Crowne	1681	orig=shx_2henry6 by Shakespeare
+A48052	0	ad_sauny_scot_1698	ADAPT	Lacy	1698	orig=sh_shrew by Shakespeare
+A59508	0	ad_measure_1700	ADAPT	Gildon	1700	orig=shx_measure by Shakespeare
+A59501	0	ad_henry4_1700	ADAPT	Betterton	1700	orig=sh_1henry4 by Shakespeare
+A59527	0	ad_hamlet_1676	ADAPT	Davenant(cuts)	1676	orig=sh_hamlet by Shakespeare
+A59497	0	ad_julius_caesar_1684	ADAPT	anon(light)	1684	orig=sh_julius_caesar by Shakespeare
+K039442.000	0	ad_marina_1738	ADAPT	Lillo	1738	orig=pericles by Shakespeare+Wilkins
+K046085.000	0	ad_tempest_opera_1756	ADAPT	Garrick	1756	orig=sh_tempest by Shakespeare
+K046340.000	0	ad_timon_1772	ADAPT	Cumberland	1772	orig=shx_timon by Shakespeare
+K049485.000	0	r18_rowe_ambitious_stepmother	R18	Rowe	1700	ECCO/EEBO
+K049942.000	0	r18_rowe_tamerlane	R18	Rowe	1701	ECCO/EEBO
+K109300.000	0	r18_rowe_fair_penitent	R18	Rowe	1703	ECCO/EEBO
+K049483.000	0	r18_rowe_ulysses	R18	Rowe	1705	ECCO/EEBO
+K046880.000	0	r18_rowe_lady_jane_gray	R18	Rowe	1715	ECCO/EEBO
+K032335.000	0	r18_addison_cato	R18	Addison	1713	ECCO/EEBO
+K015532.000	0	r18_addison_drummer	R18	Addison	1715	ECCO/EEBO
+K016151.000	0	r18_hill_fatal_extravagance	R18	Hill	1721	ECCO/EEBO
+K002806.000	0	r18_hill_athelwold	R18	Hill	1731	ECCO/EEBO
+K132743.000	0	r18_thomson_sophonisba	R18	Thomson	1730	ECCO/EEBO
+K019154.000	0	r18_thomson_edward_eleonora	R18	Thomson	1739	ECCO/EEBO
+K027367.000	0	r18_congreve_mourning_bride	R18	Congreve	1697	ECCO/EEBO
+K001985.000	0	r18_congreve_love_for_love	R18	Congreve	1695	ECCO/EEBO
+K121177.000	0	r18_congreve_double_dealer	R18	Congreve	1693	ECCO/EEBO
+K036683.000	0	r18_centlivre_cruel_gift	R18	Centlivre	1716	ECCO/EEBO
+K032330.000	0	r18_centlivre_perjured_husband	R18	Centlivre	1700	ECCO/EEBO
+K000039.000	0	r18_centlivre_basset_table	R18	Centlivre	1705	ECCO/EEBO
+K009642.000	0	r18_centlivre_busie_body	R18	Centlivre	1709	ECCO/EEBO
+K032319.000	0	r18_centlivre_wonder	R18	Centlivre	1714	ECCO/EEBO
+K032308.000	0	r18_centlivre_artifice	R18	Centlivre	1722	ECCO/EEBO
+K040557.000	0	r18_dennis_liberty_asserted	R18	Dennis	1704	ECCO/EEBO
+K039296.000	0	r18_manley_lucius	R18	Manley	1717	ECCO/EEBO
+K050786.000	0	r18_philips_briton	R18	Philips	1722	ECCO/EEBO
+K100402.000	0	r18_savage_overbury	R18	Savage	1723	ECCO/EEBO
+K037803.000	0	r18_tcibber_henry6_civil_wars	R18	T.Cibber	1723	ECCO/EEBO
+K040713.000	0	r18_lillo_london_merchant	R18	Lillo	1731	ECCO/EEBO
+K120974.000	0	r18_ccibber_non_juror	R18	C.Cibber	1717	ECCO/EEBO
+A36592	0	r18_dryden_all_for_love	R18	Dryden	1677	EEBO
+A31538	0	src_shelton_quixote_1652	SRC	Shelton (tr. Cervantes)	1612	Shelton translation, 1652 ed.
+K036934.000	0	df_double_falsehood	DF	Theobald (claims Shakespeare)	1728	ECCO-TCP first edition 1728

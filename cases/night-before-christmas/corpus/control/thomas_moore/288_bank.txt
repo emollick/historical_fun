@@ -1,0 +1,23 @@
+title: Bank
+author: Thomas Moore
+date: c. 1813-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 12
+attribution: certain
+notes: light satirical verse (Satirical and Humorous Poems, mostly from The Times / Morning Chronicle, 1820s-30s)
+
+Is all then forgotten? those amorous pranks
+You and I in our youth, my dear Government, played;
+When you called me the fondest, the truest of Banks,
+And enjoyed the endearing advances I made!
+
+When left to ourselves, unmolested and free,
+To do all that a dashing young couple should do,
+A law against paying was laid upon me,
+But none against owing, dear helpmate, on you.
+
+And is it then vanisht?--that "hour (as Othello
+So happily calls it) of Love and Direction?"
+And must we, like other fond doves, my dear fellow,
+Grow good in our old age and cut the connection?

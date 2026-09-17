@@ -1,0 +1,24 @@
+title: The Kainbow
+author: Thomas Love Peacock
+date: c. 1806-1837
+source: https://archive.org/details/worksofthomaslov03peacuoft (The Works of Thomas Love Peacock, ed. Henry Cole, London: Bentley, 1875, vol. III: Poetry; OCR text)
+form: iambic pentameter
+lines: 15
+attribution: certain
+notes: OCR source (archive.org); stanza breaks approximate; poems 1806-1837; satirical/light pieces included; OCR titles may be garbled
+
+THE day has pass'd in storms, though not unmix'd
+With transitory calm. The western clouds,
+Dissolving slow, unveil the glorious sun,
+Majestic in decline. The vvat'ry east
+Glows with the many-tinted arch of HEAV'N.
+We hail it as a pledge that brighter skies
+Shall bless the coming morn. Thus rolls the day,
+The short dark day of life; with tempests thus,
+And fleeting sunshine chequer'd. At its close,
+When the dread hour draws near, that bursts all ties,
+All commerce with the world, EELIGION pours
+HOPE'S fairy-colours on the virtuous mind,
+And, like the rainbow on the ev'ning clouds,
+Gives the bright promise that a happier dawn
+Shall chase the night and silence of the grave.

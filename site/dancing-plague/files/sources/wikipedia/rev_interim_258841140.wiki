@@ -1,0 +1,59 @@
+The '''Dancing Plague''' (or '''Dancing Epidemic''') '''of 1518''' was a case of [[dancing mania]] that occurred in [[Strasbourg]], [[Alsace]], [[France]] (then part of the [[Holy Roman Empire]]) in July 1518. Numerous people took to dancing for days without rest, and over the period of about one month, most of the people died from [[heart attack]], [[stroke]], or [[exhaustion]].<ref name="Discovery Viegas">{{cite web
+  | last = Viegas | first = Jennifer
+  | title = 'Dancing Plague' and Other Odd Afflictions Explained
+  | work = Discovery News | publisher = [[Discovery Communications]]
+  | date = 2008-08-01 | url = http://dsc.discovery.com/news/2008/08/01/dancing-death-mystery.html
+  | accessdate = 2008-08-08 | doi = }}</ref>
+
+== Events ==
+The outbreak began in July 1518, when a woman, Frau Troffea, began to dance fervently in a street in Strasbourg.<ref name="Discovery Viegas" /> This lasted somewhere between four to six days. Within a week, 34 others had joined, and within a month, there were around 400 dancers. Most of these people eventually died from heart attack, stroke, or exhaustion. This shows the rest of earth how enormously retarded the French population can get.<ref name="Discovery Viegas" />
+
+== Possible causes ==
+Historical documents, including "physician notes, cathedral sermons, local and regional chronicles, and even notes issued by the Strasbourg city council" are clear that the victims danced.<ref name="Discovery Viegas" /> It is not known why these people danced to their deaths, nor is it clear that they were dancing willfully.
+
+=== Mass psychogenic illness ===
+Historian John Waller thinks that the dancing epidemic was caused by [[mass psychogenic illness]] (MPI), a manifestation of [[mass hysteria]] that is often preceded by extreme levels of psychological distress. Waller states that famine had been prevalent in the region for some time, caused by very cold winters, very hot summers, crop [[frost]]s, and violent [[hail]]storms.<ref name="Discovery Viegas" /> Mass deaths followed from malnutrition, and those who survived were forced to kill their farm animals, take out loans, and perhaps even beg in the streets. In addition to food shortages, diseases such as [[smallpox]], [[syphilis]], [[leprosy]], and "the [[English sweat]]" (a new disease) afflicted the populace. This series of events might have triggered the MPI.
+
+Ivan Crozier, a lecturer at the [[University of Edinburgh]] and expert on another type of MPI, [[genital retraction syndrome]] (or "penis panic"), agrees with Waller's explanation.<ref name="Discovery Viegas" /> He finds Waller's explanation convincing because it puts the incident into historical and cultural context.
+
+=== Ergotism ===
+Eugene Backman suggests the cause of this epidemic to be [[ergot]], a mold that grows on [[rye]]. Ingestion of ergot in bread made from the affected rye could lead to [[delirium]], [[hallucination]]s, and [[seizure]]s, as well as other symptoms. While today this is called [[ergotism]], contemporaneously it was known as "[[Anthony the Great|Saint Anthony]]'s fire".
+
+Waller doubts that ergot was the cause, since ergotism would not result in "coordinated movements that last for days".<ref name="Discovery Viegas" /> Crozier also disagrees, saying that ergot "gave people visions, not energy to dance".<ref name="Discovery Viegas" /> Ergot poisoning can, however, cause seizures.
+
+=== Religious ecstasy ===
+Sociologist Robert Bartholomew of [[James Cook University]] in Australia contends that the dance was part of a "[[religious ecstasy|ecstatic ritual]] of a [[Christian heresy|heretical]] sect". This explanation is questioned by Waller, who believes "there is no evidence that the dancers wanted to dance", citing recorded evidence that the dancers showed expressions of "fear and desperation".<ref name="Discovery Viegas" />
+
+==== Saint Vitus's dance ====
+[[Saint Vitus's dance]] is a term used for the [[dancing mania]]s of medieval times (as well as for [[Sydenham's chorea]] or [[chorea (disease)|chorea]] in general). [[Vitus|Saint Vitus]] is primarily invoked to protect against [[epilepsy]], a disorder characterized by recurrent unprovoked seizures. Chorea, which can be present in epilepsy or a variety of other nervous system disorders, can be characterised by quick, patterned muscular contractions, or sometimes slower, stormy, writhing motions (athetosis). In a 1931 ''[[Time (magazine)|Time]]'' article, it was suggested that victims of "Saint Vitus's dance" (in this context, Sydenham's chorea)—who are most often children—were brought before images of St. Vitus when they were stricken with convulsions.<ref name="Time 1931">{{cite news 
+  | last =  | first = 
+  | title = Fever v. St. Vitus's Dance | work = [[Time (magazine)|Time]]
+  | pages = 
+  | publisher = 
+  | date = 1931-09-28 | url = http://www.time.com/time/magazine/article/0,9171,742341,00.html
+  | accessdate = 2008-08-09 }}</ref>
+
+Christian legend says that invoking the wrath of St. Vitus could provoke compulsive dancing<ref name="Discovery Viegas" /> (or that dancing before an image of St. Vitus would imbue good health for the following year).<ref name="Time 1931" /> However, this explanation does not support how so many cases of chorea could arise simultaneously in the population, nor how so many adults were affected.
+
+== Similar incidents ==
+In addition to the many [[dancing mania]]s of medieval times, there have been other similar incidents of unexplained [[mass hysteria]].
+
+* A dancing mania in [[Madagascar]] in the 1840s.<ref name="Discovery Viegas" />
+* The [[Tanganyika Laughter Epidemic]] of 1962, in which thousands of people were afflicted with laughing fits which struck sporadically over a period of several months.
+
+== Further reading ==
+* Backman, Eugene [1952] (1977 reprint). ''Religious Dances in the Christian Church and in Popular Medicine'', [[Greenwood Press]]. ISBN 978-0837196787.
+* Waller, John (2008). ''A Time to Dance, A Time to Die: The Extraordinary Story of the Dancing Plague of 1518''. Thriplow: [[Icon Books]]. ISBN 978-1848310216. 
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://news.bbc.co.uk/today/hi/today/newsid_7608000/7608874.stm Dancing death]
+
+
+
+[[Category:Mass hysteria]]
+[[Category:Dance and health]]
+[[Category:Strasbourg]]
+[[Category:1518 in Europe]]

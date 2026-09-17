@@ -1,0 +1,994 @@
+{
+ "curve": "IntCal20 (Reimer et al. 2020), https://intcal.org/curves/intcal20.14c",
+ "method": "flat-prior probabilistic calibration, HPD ranges, integer-year grid on the 1-yr IntCal20 table; no sequence model",
+ "hannibal_window_wide": "230-200 BC = cal BP 2149-2179",
+ "hannibal_window_narrow": "220-215 BC",
+ "dates": [
+  {
+   "lab": "Beta-305008",
+   "c14_bp": 1130,
+   "error": 30,
+   "depth_cm": 26,
+   "bed": "post-invasion beds (top of subsection I)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 1037,
+      "to_calBP": 975,
+      "from": "AD 913",
+      "to": "AD 975",
+      "p": 0.56
+     },
+     {
+      "from_calBP": 1061,
+      "to_calBP": 1047,
+      "from": "AD 889",
+      "to": "AD 903",
+      "p": 0.1284
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 1075,
+      "to_calBP": 958,
+      "from": "AD 875",
+      "to": "AD 992",
+      "p": 0.8825
+     },
+     {
+      "from_calBP": 1098,
+      "to_calBP": 1098,
+      "from": "AD 852",
+      "to": "AD 852",
+      "p": 0.0013
+     },
+     {
+      "from_calBP": 1120,
+      "to_calBP": 1100,
+      "from": "AD 830",
+      "to": "AD 850",
+      "p": 0.0372
+     },
+     {
+      "from_calBP": 1174,
+      "to_calBP": 1165,
+      "from": "AD 776",
+      "to": "AD 785",
+      "p": 0.0331
+     }
+    ],
+    "mean_calBP": 1026.9,
+    "sd_years": 47.1,
+    "median_calBP": 1020,
+    "median": "AD 930",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 1.0,
+    "p_before_218BC": 0.0,
+    "full_95_span_years": 217
+   },
+   "authors_intcal13": {
+    "mu_calBP": 1035,
+    "sigma": 48,
+    "two_sigma_from_calBP": 1173,
+    "two_sigma_to_calBP": 962,
+    "two_sigma_from": "AD 777",
+    "two_sigma_to": "AD 988",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "UBA-24875",
+   "c14_bp": 2070,
+   "error": 31,
+   "depth_cm": 40,
+   "bed": "MAD bed, upper part (40 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 1958,
+      "to_calBP": 1950,
+      "from": "9 BC",
+      "to": "1 BC",
+      "p": 0.0535
+     },
+     {
+      "from_calBP": 2061,
+      "to_calBP": 1990,
+      "from": "112 BC",
+      "to": "41 BC",
+      "p": 0.5562
+     },
+     {
+      "from_calBP": 2098,
+      "to_calBP": 2085,
+      "from": "149 BC",
+      "to": "136 BC",
+      "p": 0.0769
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 2118,
+      "to_calBP": 1942,
+      "from": "169 BC",
+      "to": "AD 8",
+      "p": 0.9556
+     }
+    ],
+    "mean_calBP": 2030.6,
+    "sd_years": 50.5,
+    "median_calBP": 2030,
+    "median": "81 BC",
+    "p_230_200BC": 0.0003,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.9956,
+    "p_before_218BC": 0.0044,
+    "full_95_span_years": 177
+   },
+   "authors_intcal13": {
+    "mu_calBP": 2042,
+    "sigma": 46,
+    "two_sigma_from_calBP": 2125,
+    "two_sigma_to_calBP": 1949,
+    "two_sigma_from": "176 BC",
+    "two_sigma_to": "AD 1",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "Ta-3021",
+   "c14_bp": 2530,
+   "error": 90,
+   "depth_cm": 40,
+   "bed": "MAD bed, upper part (40 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 2603,
+      "to_calBP": 2491,
+      "from": "654 BC",
+      "to": "542 BC",
+      "p": 0.3258
+     },
+     {
+      "from_calBP": 2658,
+      "to_calBP": 2610,
+      "from": "709 BC",
+      "to": "661 BC",
+      "p": 0.1356
+     },
+     {
+      "from_calBP": 2745,
+      "to_calBP": 2666,
+      "from": "796 BC",
+      "to": "717 BC",
+      "p": 0.2235
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 2763,
+      "to_calBP": 2356,
+      "from": "814 BC",
+      "to": "407 BC",
+      "p": 0.9548
+     }
+    ],
+    "mean_calBP": 2584.1,
+    "sd_years": 116.8,
+    "median_calBP": 2584,
+    "median": "635 BC",
+    "p_230_200BC": 0.0002,
+    "p_220_215BC": 0.0001,
+    "p_after_218BC": 0.0001,
+    "p_before_218BC": 0.9998,
+    "full_95_span_years": 408
+   },
+   "authors_intcal13": {
+    "mu_calBP": 2587,
+    "sigma": 117,
+    "two_sigma_from_calBP": 2769,
+    "two_sigma_to_calBP": 2357,
+    "two_sigma_from": "820 BC",
+    "two_sigma_to": "408 BC",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "UBA-23647",
+   "c14_bp": 3537,
+   "error": 28,
+   "depth_cm": 45,
+   "bed": "MAD bed, lower part (45 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 3745,
+      "to_calBP": 3727,
+      "from": "1796 BC",
+      "to": "1778 BC",
+      "p": 0.1327
+     },
+     {
+      "from_calBP": 3792,
+      "to_calBP": 3771,
+      "from": "1843 BC",
+      "to": "1822 BC",
+      "p": 0.1753
+     },
+     {
+      "from_calBP": 3875,
+      "to_calBP": 3825,
+      "from": "1926 BC",
+      "to": "1876 BC",
+      "p": 0.3796
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 3705,
+      "to_calBP": 3700,
+      "from": "1756 BC",
+      "to": "1751 BC",
+      "p": 0.0064
+     },
+     {
+      "from_calBP": 3803,
+      "to_calBP": 3717,
+      "from": "1854 BC",
+      "to": "1768 BC",
+      "p": 0.4559
+     },
+     {
+      "from_calBP": 3901,
+      "to_calBP": 3812,
+      "from": "1952 BC",
+      "to": "1863 BC",
+      "p": 0.4918
+     }
+    ],
+    "mean_calBP": 3809.0,
+    "sd_years": 55.2,
+    "median_calBP": 3820,
+    "median": "1871 BC",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.0,
+    "p_before_218BC": 1.0,
+    "full_95_span_years": 202
+   },
+   "authors_intcal13": {
+    "mu_calBP": 3811,
+    "sigma": 52,
+    "two_sigma_from_calBP": 3895,
+    "two_sigma_to_calBP": 3720,
+    "two_sigma_from": "1946 BC",
+    "two_sigma_to": "1771 BC",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "Ta-3022",
+   "c14_bp": 3270,
+   "error": 100,
+   "depth_cm": 50,
+   "bed": "MAD bed, lower part (50 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 3586,
+      "to_calBP": 3379,
+      "from": "1637 BC",
+      "to": "1430 BC",
+      "p": 0.6491
+     },
+     {
+      "from_calBP": 3619,
+      "to_calBP": 3604,
+      "from": "1670 BC",
+      "to": "1655 BC",
+      "p": 0.0342
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 3302,
+      "to_calBP": 3248,
+      "from": "1353 BC",
+      "to": "1299 BC",
+      "p": 0.0336
+     },
+     {
+      "from_calBP": 3723,
+      "to_calBP": 3321,
+      "from": "1774 BC",
+      "to": "1372 BC",
+      "p": 0.9025
+     },
+     {
+      "from_calBP": 3764,
+      "to_calBP": 3753,
+      "from": "1815 BC",
+      "to": "1804 BC",
+      "p": 0.0046
+     },
+     {
+      "from_calBP": 3821,
+      "to_calBP": 3796,
+      "from": "1872 BC",
+      "to": "1847 BC",
+      "p": 0.0136
+     }
+    ],
+    "mean_calBP": 3505.8,
+    "sd_years": 121.0,
+    "median_calBP": 3501,
+    "median": "1552 BC",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.0,
+    "p_before_218BC": 1.0,
+    "full_95_span_years": 574
+   },
+   "authors_intcal13": {
+    "mu_calBP": 3509,
+    "sigma": 118,
+    "two_sigma_from_calBP": 3820,
+    "two_sigma_to_calBP": 3249,
+    "two_sigma_from": "1871 BC",
+    "two_sigma_to": "1300 BC",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "UBA-24876",
+   "c14_bp": 3282,
+   "error": 28,
+   "depth_cm": 50,
+   "bed": "MAD bed, lower part (50 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 3493,
+      "to_calBP": 3456,
+      "from": "1544 BC",
+      "to": "1507 BC",
+      "p": 0.4194
+     },
+     {
+      "from_calBP": 3508,
+      "to_calBP": 3505,
+      "from": "1559 BC",
+      "to": "1556 BC",
+      "p": 0.0324
+     },
+     {
+      "from_calBP": 3551,
+      "to_calBP": 3530,
+      "from": "1602 BC",
+      "to": "1581 BC",
+      "p": 0.1924
+     },
+     {
+      "from_calBP": 3557,
+      "to_calBP": 3553,
+      "from": "1608 BC",
+      "to": "1604 BC",
+      "p": 0.0393
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 3568,
+      "to_calBP": 3448,
+      "from": "1619 BC",
+      "to": "1499 BC",
+      "p": 0.954
+     }
+    ],
+    "mean_calBP": 3501.3,
+    "sd_years": 37.5,
+    "median_calBP": 3495,
+    "median": "1546 BC",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.0,
+    "p_before_218BC": 1.0,
+    "full_95_span_years": 121
+   },
+   "authors_intcal13": {
+    "mu_calBP": 3511,
+    "sigma": 36,
+    "two_sigma_from_calBP": 3573,
+    "two_sigma_to_calBP": 3450,
+    "two_sigma_from": "1624 BC",
+    "two_sigma_to": "1501 BC",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "Beta-305009",
+   "c14_bp": 3170,
+   "error": 30,
+   "depth_cm": 65,
+   "bed": "pre-invasion beds (base of core, 65 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 3405,
+      "to_calBP": 3368,
+      "from": "1456 BC",
+      "to": "1419 BC",
+      "p": 0.4717
+     },
+     {
+      "from_calBP": 3444,
+      "to_calBP": 3426,
+      "from": "1495 BC",
+      "to": "1477 BC",
+      "p": 0.2141
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 3280,
+      "to_calBP": 3277,
+      "from": "1331 BC",
+      "to": "1328 BC",
+      "p": 0.0064
+     },
+     {
+      "from_calBP": 3452,
+      "to_calBP": 3347,
+      "from": "1503 BC",
+      "to": "1398 BC",
+      "p": 0.9477
+     }
+    ],
+    "mean_calBP": 3397.3,
+    "sd_years": 34.6,
+    "median_calBP": 3396,
+    "median": "1447 BC",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.0,
+    "p_before_218BC": 1.0,
+    "full_95_span_years": 176
+   },
+   "authors_intcal13": {
+    "mu_calBP": 3398,
+    "sigma": 33,
+    "two_sigma_from_calBP": 3454,
+    "two_sigma_to_calBP": 3345,
+    "two_sigma_from": "1505 BC",
+    "two_sigma_to": "1396 BC",
+    "includes_218BC": false
+   }
+  },
+  {
+   "lab": "UBA-30324",
+   "c14_bp": 1393,
+   "error": 49,
+   "depth_cm": 22,
+   "bed": "G5B, above churned zone (22 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 1345,
+      "to_calBP": 1284,
+      "from": "AD 605",
+      "to": "AD 666",
+      "p": 0.6889
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 1208,
+      "to_calBP": 1178,
+      "from": "AD 742",
+      "to": "AD 772",
+      "p": 0.0787
+     },
+     {
+      "from_calBP": 1254,
+      "to_calBP": 1248,
+      "from": "AD 696",
+      "to": "AD 702",
+      "p": 0.0097
+     },
+     {
+      "from_calBP": 1379,
+      "to_calBP": 1261,
+      "from": "AD 571",
+      "to": "AD 689",
+      "p": 0.8663
+     }
+    ],
+    "mean_calBP": 1303.2,
+    "sd_years": 44.7,
+    "median_calBP": 1307,
+    "median": "AD 643",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 1.0,
+    "p_before_218BC": 0.0,
+    "full_95_span_years": 202
+   },
+   "authors_intcal13": null
+  },
+  {
+   "lab": "UBA-30321",
+   "c14_bp": 2678,
+   "error": 41,
+   "depth_cm": 36,
+   "bed": "G5B, churned zone (35-37 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 2788,
+      "to_calBP": 2751,
+      "from": "839 BC",
+      "to": "802 BC",
+      "p": 0.4636
+     },
+     {
+      "from_calBP": 2845,
+      "to_calBP": 2821,
+      "from": "896 BC",
+      "to": "872 BC",
+      "p": 0.2194
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 2857,
+      "to_calBP": 2741,
+      "from": "908 BC",
+      "to": "792 BC",
+      "p": 0.9545
+     }
+    ],
+    "mean_calBP": 2795.4,
+    "sd_years": 35.8,
+    "median_calBP": 2786,
+    "median": "837 BC",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.0,
+    "p_before_218BC": 1.0,
+    "full_95_span_years": 117
+   },
+   "authors_intcal13": null
+  },
+  {
+   "lab": "UBA-30331",
+   "c14_bp": 1842,
+   "error": 41,
+   "depth_cm": 45,
+   "bed": "G5C (45 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 1752,
+      "to_calBP": 1709,
+      "from": "AD 198",
+      "to": "AD 241",
+      "p": 0.3455
+     },
+     {
+      "from_calBP": 1796,
+      "to_calBP": 1756,
+      "from": "AD 154",
+      "to": "AD 194",
+      "p": 0.2533
+     },
+     {
+      "from_calBP": 1820,
+      "to_calBP": 1806,
+      "from": "AD 130",
+      "to": "AD 144",
+      "p": 0.0894
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 1667,
+      "to_calBP": 1623,
+      "from": "AD 283",
+      "to": "AD 327",
+      "p": 0.1052
+     },
+     {
+      "from_calBP": 1833,
+      "to_calBP": 1694,
+      "from": "AD 117",
+      "to": "AD 256",
+      "p": 0.8335
+     },
+     {
+      "from_calBP": 1865,
+      "to_calBP": 1855,
+      "from": "AD 85",
+      "to": "AD 95",
+      "p": 0.0159
+     }
+    ],
+    "mean_calBP": 1749.9,
+    "sd_years": 56.3,
+    "median_calBP": 1750,
+    "median": "AD 200",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 1.0,
+    "p_before_218BC": 0.0,
+    "full_95_span_years": 243
+   },
+   "authors_intcal13": null
+  },
+  {
+   "lab": "UBA-30330",
+   "c14_bp": 2190,
+   "error": 35,
+   "depth_cm": 51,
+   "bed": "G5C (51 cm) -- authors' 218 BC bed at 50 cm",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 2137,
+      "to_calBP": 2125,
+      "from": "188 BC",
+      "to": "176 BC",
+      "p": 0.0612
+     },
+     {
+      "from_calBP": 2180,
+      "to_calBP": 2144,
+      "from": "231 BC",
+      "to": "195 BC",
+      "p": 0.2007
+     },
+     {
+      "from_calBP": 2304,
+      "to_calBP": 2231,
+      "from": "355 BC",
+      "to": "282 BC",
+      "p": 0.4234
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 2075,
+      "to_calBP": 2074,
+      "from": "126 BC",
+      "to": "125 BC",
+      "p": 0.0018
+     },
+     {
+      "from_calBP": 2328,
+      "to_calBP": 2101,
+      "from": "379 BC",
+      "to": "152 BC",
+      "p": 0.9524
+     }
+    ],
+    "mean_calBP": 2212.5,
+    "sd_years": 67.0,
+    "median_calBP": 2223,
+    "median": "274 BC",
+    "p_230_200BC": 0.1716,
+    "p_220_215BC": 0.031,
+    "p_after_218BC": 0.2972,
+    "p_before_218BC": 0.6976,
+    "full_95_span_years": 255
+   },
+   "authors_intcal13": null
+  },
+  {
+   "lab": "UBA-30330b",
+   "c14_bp": 2523,
+   "error": 36,
+   "depth_cm": 58,
+   "bed": "G5C (58 cm) [lab number printed as UBA-30330 twice; sic]",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 2592,
+      "to_calBP": 2515,
+      "from": "643 BC",
+      "to": "566 BC",
+      "p": 0.3904
+     },
+     {
+      "from_calBP": 2637,
+      "to_calBP": 2615,
+      "from": "688 BC",
+      "to": "666 BC",
+      "p": 0.1274
+     },
+     {
+      "from_calBP": 2725,
+      "to_calBP": 2697,
+      "from": "776 BC",
+      "to": "748 BC",
+      "p": 0.1683
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 2604,
+      "to_calBP": 2490,
+      "from": "655 BC",
+      "to": "541 BC",
+      "p": 0.4923
+     },
+     {
+      "from_calBP": 2659,
+      "to_calBP": 2610,
+      "from": "710 BC",
+      "to": "661 BC",
+      "p": 0.1839
+     },
+     {
+      "from_calBP": 2742,
+      "to_calBP": 2665,
+      "from": "793 BC",
+      "to": "716 BC",
+      "p": 0.2784
+     }
+    ],
+    "mean_calBP": 2605.6,
+    "sd_years": 78.6,
+    "median_calBP": 2592,
+    "median": "643 BC",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 0.0,
+    "p_before_218BC": 1.0,
+    "full_95_span_years": 253
+   },
+   "authors_intcal13": null
+  },
+  {
+   "lab": "UBA-30318",
+   "c14_bp": 1724,
+   "error": 38,
+   "depth_cm": 35,
+   "bed": "G5D (35 cm)",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 1554,
+      "to_calBP": 1548,
+      "from": "AD 396",
+      "to": "AD 402",
+      "p": 0.0427
+     },
+     {
+      "from_calBP": 1563,
+      "to_calBP": 1558,
+      "from": "AD 387",
+      "to": "AD 392",
+      "p": 0.0359
+     },
+     {
+      "from_calBP": 1623,
+      "to_calBP": 1568,
+      "from": "AD 327",
+      "to": "AD 382",
+      "p": 0.406
+     },
+     {
+      "from_calBP": 1694,
+      "to_calBP": 1667,
+      "from": "AD 256",
+      "to": "AD 283",
+      "p": 0.2012
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 1646,
+      "to_calBP": 1538,
+      "from": "AD 304",
+      "to": "AD 412",
+      "p": 0.6529
+     },
+     {
+      "from_calBP": 1703,
+      "to_calBP": 1651,
+      "from": "AD 247",
+      "to": "AD 299",
+      "p": 0.3021
+     }
+    ],
+    "mean_calBP": 1619.1,
+    "sd_years": 49.9,
+    "median_calBP": 1612,
+    "median": "AD 338",
+    "p_230_200BC": 0.0,
+    "p_220_215BC": 0.0,
+    "p_after_218BC": 1.0,
+    "p_before_218BC": 0.0,
+    "full_95_span_years": 166
+   },
+   "authors_intcal13": null
+  },
+  {
+   "lab": "UBA-30315",
+   "c14_bp": 2329,
+   "error": 55,
+   "depth_cm": 45,
+   "bed": "G5D (45 cm) -- authors' 218 BC bed at 45 cm",
+   "material": "peat",
+   "intcal20": {
+    "hpd68": [
+     {
+      "from_calBP": 2194,
+      "to_calBP": 2182,
+      "from": "245 BC",
+      "to": "233 BC",
+      "p": 0.0405
+     },
+     {
+      "from_calBP": 2227,
+      "to_calBP": 2207,
+      "from": "278 BC",
+      "to": "258 BC",
+      "p": 0.0629
+     },
+     {
+      "from_calBP": 2430,
+      "to_calBP": 2306,
+      "from": "481 BC",
+      "to": "357 BC",
+      "p": 0.5661
+     },
+     {
+      "from_calBP": 2455,
+      "to_calBP": 2454,
+      "from": "506 BC",
+      "to": "505 BC",
+      "p": 0.0048
+     },
+     {
+      "from_calBP": 2460,
+      "to_calBP": 2457,
+      "from": "511 BC",
+      "to": "508 BC",
+      "p": 0.0099
+     }
+    ],
+    "hpd95": [
+     {
+      "from_calBP": 2265,
+      "to_calBP": 2153,
+      "from": "316 BC",
+      "to": "204 BC",
+      "p": 0.2136
+     },
+     {
+      "from_calBP": 2494,
+      "to_calBP": 2296,
+      "from": "545 BC",
+      "to": "347 BC",
+      "p": 0.7002
+     },
+     {
+      "from_calBP": 2611,
+      "to_calBP": 2600,
+      "from": "662 BC",
+      "to": "651 BC",
+      "p": 0.0126
+     },
+     {
+      "from_calBP": 2681,
+      "to_calBP": 2646,
+      "from": "732 BC",
+      "to": "697 BC",
+      "p": 0.0277
+     }
+    ],
+    "mean_calBP": 2355.5,
+    "sd_years": 112.5,
+    "median_calBP": 2349,
+    "median": "400 BC",
+    "p_230_200BC": 0.0359,
+    "p_220_215BC": 0.0085,
+    "p_after_218BC": 0.023,
+    "p_before_218BC": 0.9756,
+    "full_95_span_years": 529
+   },
+   "authors_intcal13": null
+  }
+ ],
+ "forty_cm_pair_test": {
+  "dates": [
+   "UBA-24875",
+   "Ta-3021"
+  ],
+  "weighted_mean_bp": 2118.8,
+  "weighted_mean_err": 29.3,
+  "chi2_T": 23.35,
+  "df": 1,
+  "chi2_crit_5pct": 3.84,
+  "p_value": 1.3484491482436868e-06,
+  "consistent_at_5pct": false,
+  "note": "If T > 3.84 the two measurements cannot be estimates of the same true age at the 5 % level, so combining them (or treating them as 'bracketing' one event) is not statistically justified.",
+  "combined_if_taken_anyway": {
+   "hpd68": [
+    {
+     "from": "72 BC",
+     "to": "56 BC",
+     "p": 0.1074
+    },
+    {
+     "from": "173 BC",
+     "to": "96 BC",
+     "p": 0.5801
+    }
+   ],
+   "hpd95": [
+    {
+     "from": "200 BC",
+     "to": "50 BC",
+     "p": 0.9035
+    },
+    {
+     "from": "341 BC",
+     "to": "324 BC",
+     "p": 0.0512
+    }
+   ],
+   "p_230_200BC": 0.0097
+  }
+ },
+ "diagnostics": {
+  "curve_500BC_to_AD100": {
+   "c14_min": 1921.0,
+   "c14_max": 2431.0,
+   "note": "IntCal20 between 500 BC and AD 100; the Hallstatt plateau (c. 800-400 BC, ~2450 14C BP) ends near 400 BC, after which the curve falls steeply to c. 2100 BP by c. 150 BC, then wiggles."
+  },
+  "UBA-24875_calendar_years_within_1sigma_of_curve_500BC_AD100": {
+   "n_years": 76,
+   "earliest": "145 BC",
+   "latest": "2 BC"
+  },
+  "Ta-3021_calendar_years_within_1sigma_of_curve_500BC_AD100": {
+   "n_years": 0,
+   "earliest": null,
+   "latest": null
+  },
+  "curve_at_218BC": {
+   "calBP": 2167,
+   "c14_age": 2216.0,
+   "sigma": 14.0
+  },
+  "curve_values_selected": {
+   "450 BC": 2408.0,
+   "400 BC": 2346.0,
+   "350 BC": 2207.0,
+   "300 BC": 2209.0,
+   "250 BC": 2227.0,
+   "218 BC": 2216.0,
+   "200 BC": 2174.0,
+   "150 BC": 2111.0,
+   "100 BC": 2097.0,
+   "50 BC": 2066.0,
+   "AD 1": 2030.0
+  }
+ }
+}

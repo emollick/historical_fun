@@ -1,0 +1,19 @@
+title: The Conquest
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: iambic pentameter
+lines: 9
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+THE Son of Love and Lord of War I sing;
+Him who bade England bow to Normandy,
+And left the name of Conqueror more than King
+To his unconquerable dynasty.
+Not fanned alone by Victory's fleeting wing,
+He reared his bold and brilliant throne on high;
+The Bastard kept, like lions, his prey fast,
+And Britain's bravest Victor was the last.
+
+March 8-9, 1823.

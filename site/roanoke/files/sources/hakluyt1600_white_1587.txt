@@ -1,0 +1,527 @@
+TEXT: John White, 'The fourth voyage made to Virginia with three ships, in yere 1587. Wherein was transported the second Colonie' (Hakluyt 1600, vol. III, pp. 280-287)
+GOLDSMID SECTION: XXX (Gutenberg #25645 file lines 13283-13805)
+SOURCE EDITION: Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid, vol. XIII 'America, Part II' (Edinburgh: E. & G. Goldsmid, 1889), text as transcribed by Project Gutenberg eBook #25645 (release 2008-05-29, updated 2020-06-20). Goldsmid reprints the text of the 1600 edition (vol. III) with original spelling (u/v, i/j as printed); Hakluyt's marginal notes are given as bracketed (Mnnn) references and Goldsmid's footnotes as (nnn) numbers.
+URL FETCHED: https://www.gutenberg.org/cache/epub/25645/pg25645.txt  (also https://www.gutenberg.org/files/25645/25645-8.txt)
+DATE FETCHED: 2026-09-14
+1600-EDITION PAGE NUMBERS: taken from the '[III. nnn.]' markers in the MacLehose edition (Glasgow 1904, vol. VIII), archive.org id principalnavigat08hakl, which reproduces the 1600 pagination; see maclehose1904_vol8_virginia_section.txt in this folder.
+==============================================================================
+
+XXX. The fourth voyage made to Virginia with three ships, in yere 1587.
+Wherein was transported the second Colonie.
+
+
+In the yeere of our Lord 1587. Sir Walter Ralegh intending to perseuere in
+the planting of his Countrey of Virginia, prepared a newe Colonie of one
+hundred and fiftie men to be sent thither, vnder the charge of Iohn White,
+whom hee appointed Gouernour, and also appointed vnto him twelue
+Assistants, vnto whom he gaue a Charter, and incorporated them by the name
+of Gouernour and Assistants of the Citie of Ralegh in Virginia.
+
+
+
+April.
+
+
+Our Fleete being in number three saile, viz. the Admirall a shippe of one
+hundred and twentie Tunnes, a Flie-boate, and a Pinnesse, departed the
+sixe and twentieth of April from Portsmouth, and the same day came to an
+ancker at the Cowes in the Isle of Wight, where wee stayed eight dayes.
+
+
+
+May.
+
+
+The fift of May, at nine of the clocke at night we came to Plimmouth,
+where we remained the space of two dayes.
+
+The 8 we weyed anker at Plimmouth, and departed thence for Virginia.
+
+The 16 Simon Ferdinando, Master of our Admirall, lewdly forsooke our
+Fly-boate, leauing her distressed in the Bay of Portugal.
+
+
+
+Iune.
+
+
+The 19 we fell with Dominica, and the same euening we sayled betweene it,
+and Guadalupe: the 21 the Fly-boat also fell with Dominica.
+
+(M312) The 22 we came to an anker at an Island called Santa Cruz,(101)
+where all the planters were set on land, staying there till the 25 of the
+same moneth. (M313) At our first landing on this Island, some of our
+women, and men, by eating a small fruit like greene Apples, were
+fearefully troubled with a sudden burning in their mouthes, and swelling
+of their tongues so bigge, that some of them could not speake. Also a
+child by sucking one of those womens breasts, had at that instant his
+mouth set on such a burning, that it was strange to see how the infant was
+tormented for the time: but after 24 houres it ware away of it selfe.
+
+Also the first night of our being on this Island, we took fiue great
+Tortoses, some of them of such bignes, that sixteene of our strongest men
+were tired with carying of one of them but from the sea side to our
+cabbins. In this Island we found no watring place, but a standing ponde,
+the water whereof was so euill, that many of our company fell sicke with
+drinking thereof: and as many as did but wash their faces with that water,
+in the morning before the Sunne had drawen away the corruption, their
+faces did so burne and swell, that their eyes were shut vp, and could not
+see in fiue or sixe dayes, or longer.
+
+The second day of our abode there, we sent forth some of our men to search
+the Island for fresh water, three one way, and two another way. The
+Gouernour also, with sixe others, went vp to the top of an high hill, to
+viewe the Island, but could perceiue no signe of any men, or beastes, nor
+any goodnes, but Parots, and trees of Guiacum. Returning backe to our
+cabbins another way, he found in the discent of a hill, certaine
+potsheards of sauage making, made of the earth of that Island: whereupon
+it was iudged, that this Island was inhabited with Sauages, though
+Fernando had told vs for certaine the contrary. The same day at night, the
+rest of our company very late returned to the Gouernour. The one company
+affirmed, that they had seene in a valley eleuen Sauages, and diuers
+houses halfe a mile distant from the steepe, or toppe of the hill where
+they stayed. The other company had found running out of a high rocke a
+very fayre spring of water, whereof they brought three bottels to the
+company: for before that time, wee drank the stinking water of the pond.
+
+The same second day at night Captaine Stafford, with the Pinnesse,
+departed from our fleets, riding at Santa Cruz, to an Island, called
+Beake, lying neere S. Iohn, being so directed by Ferdinando, who assured
+him he should there find great plenty of sheepe. The next day at night,
+our planters left Santa Cruz, and came all aboord, and the next morning
+after, being the 25 of Iune we weyed anker, and departed from Santa Cruz.
+
+The seuen and twentieth we came to anker at Cottea, where we found the
+Pinnesse riding at our comming.
+
+The 28 we weyed anker at Cottea, and presently came to anker at S. Iohns
+in Musketos Bay,(102) where we spent three dayes vnprofitable in taking in
+fresh water, spending in the meane time more beere then the quantitie of
+the water came vnto.
+
+
+
+Iulie.
+
+
+(M314) The first day we weyed anker at Musketos Bay, where were left
+behind two Irish men of our company, Darbie Glauen, and Denice Carrell,
+bearing along the coast of S. Iohns till euening, at which time wee fell
+with Rosse Bay. At this place Ferdinando had promised wee should take in
+salte, and had caused vs before, to make and prouide as many sackes for
+that purpose, as we could. The Gouernour also, for that hee understood
+there was a Towne in the bottome of the Bay, not farre from the salt
+hills, appointed thirty shot, tenne pikes, and ten targets, to man the
+Pinnesse, and to goe aland for salt. Ferdinando perceiuing them in a
+readines, sent to the Gouernour, vsing great perswasions with him, not to
+take in salt there, saying that hee knew not well whether the same were
+the place or not: also, that if the Pinnesse went into the Bay, she could
+not without great danger come backe, till the next day at night, and that
+if in the meane time any storme should rise, the Admirall were in danger
+to bee cast away. Whilest he was thus perswading, he caused the lead to be
+cast, and hauing craftily brought the shippe in three fadome and a halfe
+water, he suddenly began to sweare, and teare God in pieces, dissembling
+great danger, crying to him at the helme, beare vp hard, beare vp hard, so
+we went off, and were disappointed of our salt, by his meanes.
+
+The next day sayling along the west end of S. Iohn, the (M315) Gouernour
+determined to go aland in S. Germans Bay, to gather yong plants of
+Orenges, Pines, Mameas, and Plantanos, to set at Virginia, which we knew
+might easily be had, for that they grow neere the shore, and the places
+where they grew, well known to the Gouernour, and some of the planters:
+but our Simon denied it, saying: he would come to an anker at Hispaniola,
+and there land the Gouernour, and some other of the Assistants, with the
+pinnesse, to see if he could speake with his friend Alanson, of whom he
+hoped to be furnished both of cattell, and all such things as we would
+haue taken in at S. Iohn: but he meant nothing lesse, as it plainely did
+appeare to vs afterwards.
+
+The next day after, being the third of Iuly, we saw Hispaniola, and bare
+with the coast all that day, looking still when the pinnesse should be
+prepared to goe for the place where Ferdinando his friend Alanson was: but
+that day passed, and we saw no preparation for landing in Hispaniola.
+
+The 4. of Iuly, sayling along the coast of Hispaniola, vntill the next day
+at noone, and no preparation yet seene for the staying there, we hauing
+knowledge that we were past the place where Alanson dwelt, and were come
+with Isabella: hereupon Ferdinando was asked by the Gouernour, whether he
+meant to speake with Alanson, for the taking in of cattell, and other
+things, according to his promise, or not: but he answered that he was now
+past the place, and that Sir Walter Ralegh told him, the French Ambassador
+certified him, that the king of Spaine had sent for Alanson into Spaine:
+wherefore he thought him dead, and that it was to no purpose to touch
+there in any place, at this voyage.
+
+The next day we left sight of Hispaniola, and haled off for Virginia,
+about foure of the clocke in the afternoone.
+
+The sixt day of Iuly we came to the Island Caycos, wherein Ferdinando sayd
+were two salt pondes, assuring vs that if they were drie we might find
+salt to shift with, vntill the next supply: but it prooued as true as
+finding of sheepe at Baque. In this Island, whilest Ferdinando solaced
+himselfe ashore, with one of the company, in part of the Island, others
+spent the latter part of that day in other parts of the Iland, some to
+seeke the salt ponds, some fowling, some hunting Swans, whereof we caught
+many. The next day early in the morning we weyed anker, leauing Caycos,
+with good hope, that the first land that we saw next should be Virginia.
+
+About the 16 of Iuly we fel with the maine of Virginia, which Simon
+Ferdinando tooke to be the Island of Croatoan, where we came to anker, and
+rode there two or three dayes: but finding himselfe deceiued, he weyed,
+and bare along the coast, where in the night, had not Captaine Stafford
+bene more carefull in looking out, then our Simon Ferdinando, we had bene
+all cast away vpon the breach, called the Cape of Feare, for we were come
+within two cables length vpon it: such was the carelesnes, and ignorance
+of our Master.
+
+The two and twentieth of Iuly wee arriued safe at Hatorask, where our ship
+and pinnesse ankered: (M316) the Gouernour went aboord the pinnesse
+accompanied with fortie of his best men, intending to passe vp to Roanoak
+foorthwith, hoping there to finde those fifteene Englishmen, which Sir
+Richard Grinuile had left there the yeere before, with whom he meant to
+haue conference, concerning the state of the Countrey, and Sauages,
+meaning after he had so done, to returne againe to the fleete, and passe
+along the coast, to the Bay of Chesepiok where we intended to make our
+seate and forte, according to the charge giuen us among other directions
+in writing, vnder the hande of Sir Walter Ralegh: but assoone as we were
+put with our pinnesse from the ship, a Gentleman by the meanes of
+Ferdinando, who was appointed to returne for England, called to the
+sailers in the pinnesse, charging them not to bring any of the planters
+backe again, but to leaue them in the Island, except the Gouernour, and
+two or three such as he approued, saying that the Summer was farre spent,
+wherefore hee would land all the planters in no other place. Vnto this
+were all the saylers, both in the pinnesse, and shippe, perswaded by the
+Master, wherefore it booted not the Gouernour to contend with them, but
+passed to Roanoak, and the same night at sunne-set went aland on the
+Island, in the place where our fifteene men were left, but we found none
+of them, nor any signe that they had bene there, sauing onely wee found
+the bones of one of those fifteene, which the Sauages had slaine long
+before.
+
+The three and twentieth of Iuly the Gouernour with diuers of his company,
+walked to the North ende of the Island, where Master Ralfe Lane had his
+forte, with sundry necessary and decent dwelling houses, made by his men
+about it the yeere before, where wee hoped to find some signes, or
+certaine knowledge of our fifteene men. When we came thither, we found the
+fort rased downe, but all the houses standing vnhurt, sauing that the
+neather roomes of them, and also of the forte, were ouergrowen with Melons
+of diuers sortes, and Deere within them, feeding on those Melons: so wee
+returned to our company, without hope of euer seeing any of the fifteene
+men liuing.
+
+The same day order was giuen, that euery man should be employed for the
+repayring of those houses, which wee found standing, and also to make
+other new Cottages, for such as should neede.
+
+The 25 our Flyboate and the rest of our planters arriued all safe at
+Hatoraske, to the great ioy and comfort of the whole company: but the
+Master of our Admirall Ferdinando grieued greatly at their safe comming:
+for hee purposely left them in the Bay of Portugal, and stole away from
+them in the night, hoping that the Master thereof, whose name was Edward
+Spicer, for that he neuer had bene in Virginia, would hardly finde the
+place, or els being left in so dangerous a place as that was, by meanes of
+so many men of warre, as at that time were abroad, they should surely be
+taken, or slaine: but God disappointed his wicked pretenses.
+
+The eight and twentieth, George Howie, one of our twelue Assistants was
+slaine by diuers Sauages, which were come ouer to Roanoak, either of
+purpose to espie our company, and what we were, or else to hunt Deere,
+whereof were many in the Island. These Sauages being secretly hidden among
+high reedes, where oftentimes they find the Deere asleep, and so kill
+them, espied our man wading in the water alone, almost naked, without any
+weapon, saue only a smal forked sticke, catching Crabs therewithall, and
+also being strayed two miles from his company, and shot at him in the
+water, where they gaue him sixteen wounds with their arrowes: and after
+they had slaine him with their woodden swords, they beat his head in
+pieces, and fled ouer the water to the maine.
+
+On the thirtieth of Iuly Master Stafford and twenty of our men passed by
+water to the Island of Croatoan, with Manteo, who had his mother, and many
+of his kindred dwelling in that Island, of whom wee hoped to vnderstand
+some newes of our fifteene men, but especially to learne the disposition
+of the people of the countrey toward vs, and to renew our old friendship
+with them. At our first landing they seemed as though they would fight
+with vs: but perceiuing vs begin to march with our shot towardes them,
+they turned their backes, and fled. Then Manteo their countrey man called
+to them in their owne language, whom, assoone as they heard, they
+returned, and threwe away their bowes and arrowes, and some of them came
+vnto vs, embracing and entertaining vs friendly, desiring vs not to gather
+or spill any of their corne, for that they had but little. We answered
+them, that neither their corne, nor any other thing of theirs, should be
+diminished by any of vs, and that our comming was onely to renew the old
+loue, that was betweene vs and them at the first, and to liue with them as
+brethren and friends: which answer seemed to please them well, wherefore
+they requested vs to walke vp to their Towne, who there feasted vs after
+their maner; and desired vs earnestly, that there might bee some token or
+badge giuen them of vs, whereby we might know them to be our friends, when
+we met them any where out of the Towne or Island. They told vs further,
+that for want of some such badge, diuers of them were hurt the yeere
+before, being found out of the Island by Master Lane his company, whereof
+they shewed vs one, which at that very instant lay lame, and had lien of
+that hurt euer since: but they sayd, they knew our men mistooke them, and
+hurt them instead of Winginos men, wherefore they held vs excused.
+
+
+
+August.
+
+
+The next day we had conference further with them, concerning the peopie of
+Secotan, Aquascogoc, and Pomeiok, willing them of Croatoan to certifie the
+people of those townes, that if they would accept our friendship, we would
+willingly receiue them againe, and that all vnfriendly dealings past on
+both parts, should be vtterly forgiuen and forgotten. To this the chiefe
+men of Croatoan answered, that they would gladly doe the best they could,
+and within seuen dayes, bring the Wiroances and chiefe Gouernours of those
+townes with them, to our Gouernour at Roanoak, or their answere. We also
+vnderstood of the men of Croatoan, that our man Master Howe was slaine by
+the remnant of Winginos men dwelling then at Dasamonguepeuk, with whom
+Wanchese kept companie: and also we vnderstood by them of Croatoan, how
+that the 15 Englishmen left at Roanoak the yeere before, by Sir Richard
+Grinuile, were suddenly set vpon, by 30 of the men of Secota, Aquascogoc,
+and Dasamonguepeuk in manner following. They conueyed themselues secretly
+behind the trees, neere the houses where our men carelesly liued: and
+hauing perceiued that of those fifteene they could see but eleuen onely,
+two of those Sauages appeared to the 11 Englishmen calling to them by
+friendly signes, that but two of their chiefest men should come vnarmed to
+speake with those two Sauages, who seemed also to be vnarmed. Wherefore
+two of the chiefest of our Englishmen went gladly to them: but whilest one
+of those Sauages traiterously imbraced one of our men, the other with his
+sworde of wood, which he had secretly hidden vnder his mantell, strooke
+him on the heade and slew him, and presently the other eight and twentie
+Sauages shewed them selues: the other Englishman perceiuing this, fled to
+his company, whom the Sauages pursued with their bowes, and arrowes, so
+fast, that the Englishmen were forced to take the house, wherein all their
+victuall, and weapons were: but the Sauages foorthwith set the same on
+fire: by meanes wherof our men were forced to take vp such weapons as came
+first to hand, and without order to runne forth among the Sauages, with
+whom they skirmished aboue an howre. In this skirmish another of our men
+was shotte into the mouth with an arrow, where hee died: and also one of
+the Sauages was shot into the side by one of our men, with a wild fire
+arrow, whereof he died presently. The place where they fought was of great
+aduantage to the Sauages, by meanes of the thicke trees, behinde which the
+Sauages through their nimblenes, defended themselues, and so offended our
+men with their arrowes, that our men being some of them hurt, retyred
+fighting to the water side, where their boat lay, with which they fled
+towards Hatorask. By that time they had rowed but a quarter of a mile,
+they espied their foure fellowes coming from a creeke thereby, where they
+had bene to fetch Oysters: these foure they receiued into their boate,
+leauing Roanoak, and landed on a little Island on the right hand of our
+entrance into the harbour of Hatorask, where they remayned a while, but
+afterward departed, whither as yet we know not.
+
+Hauing nowe sufficiently dispatched our businesse at Croatoan, the same
+day we departed friendly, taking our leaue, and came aboord the fleete at
+Hatorask.
+
+The eight of August, the Gouernour hauing long expected the comming of the
+Wiroanses of Pomeiok, Aquascogoc, Secota, and Dasamonguepeuk, seeing that
+the seuen dayes were past, within which they promised to come in, or to
+send their answeres by the men of Croatoan, and no tidings of them heard,
+being certainly also informed by those men of Croatoan, that the remnant
+of Wingina his men, which were left aliue, who dwelt at Dasamonquepeuk,
+were they which had slaine George Howe, and were also at the driving of
+our eleuen Englishmen from Roanoak, hee thought to deferre the reuenge
+thereof no longer. Wherefore the same night about midnight, he passed ouer
+the water, accompanied with Captaine Stafford, and 24 men, wherof Manteo
+was one, whom we tooke with vs to be our guide to the place where those
+Sauages dwelt, where he behaued himselfe toward vs as a most faithfull
+Englishman.
+
+The next day, being the 9 of August, in the morning so early that it was
+yet darke, we landed neere the dwelling place of our enemies, and very
+secretly conueyed our selues through the woods, to that side, where we had
+their houses betweene vs and the water: and hauing espied their fire, and
+some sitting about it, we presently set on them: the miserable soules
+herewith amazed, fled into a place of thicke reedes, growing fast by,
+where our men perceiuing them, shot one of them through the bodie with a
+bullet, and therewith we entered the reedes, among which we hoped to
+acquite their euill doing towards vs, but we were deceiued, for those
+Sauages were our friends, and were come from Croatoan to gather the corne
+and fruit of that place, because they vnderstood our enemies were fled
+immediatly after they had slaine George Howe, and for haste had left all
+their corne. Tobacco, and Pompions standing in such sont, that al had bene
+deuoured of the birds, and Deere, if it had not bene gathered in time: but
+they had like to haue payd deerely for it: for it was so darke, that they
+being naked, and their men and women apparelled all so like others, wee
+knew not but that they were al men: and if that one of them which was a
+Wiroances wife had not had a child at her backe, shee had bene slaine in
+stead of a man, and as hap was, another Sauage knew master Stafford, and
+ran to him, calling him by his name, whereby hee was saued. Finding our
+selues thus disappointed of our purpose, we gathered al the corne, Pease,
+Pompions, and Tobacco that we found ripe, leauing the rest vnspoyled, and
+tooke Menatoan his wife, with the yong child, and the other Sauages with
+vs ouer the water to Roanoak. Although the mistaking of these Sauages
+somewhat grieued Manteo, yet he imputed their harme to their owne folly,
+saying to them, that if their Wiroances had kept their promise in comming
+to the Gouernour at the day appointed, they had not knowen that mischance.
+
+The 13 of August our Sauage Manteo, by the commandement of Sir Walter
+Ralegh, was christened in Roanoak, and called Lord thereof, and of
+Dasamonguepeuk, in reward of his faithfull seruices.
+
+The 18 Elenor, daughter to the Gouernour, and wife to Ananias Dare one of
+the Assistants, was deliuered of a daughter in Roanoak, and the same was
+christened there the Sonday following, and because this child was the
+first Christian borne in Virginia, shee was named Virginia. By this time
+our ships had vnladen the goods and victuals of the planters; and began to
+take in wood, and fresh water, and to new calke and trimme them for
+England: the planters also prepared their letters and tokens to send backe
+into England.
+
+Our two ships, the Lion and the Flyboat almost ready to depart, the 21 of
+August, there arose such a tempest at Northeast, that our Admirall then
+riding out of the harbour, was forced to cut his cables, and put to sea,
+where he lay beating off and on sixe dayes before he could come to vs
+againe so that we feared he had bene cast away, and the rather for that at
+the time that the storme tooke them, the most and best of their sailers
+were left aland.
+
+At this time some controuersies arose betweene the Gouernour and
+Assistants, about choosing two out of the twelue Assistants, which should
+goe backe as factors for the company into England: for euery one of them
+refused, saue onely one, which all other thought not sufficient: but at
+length by much perswading of the Gouernour, Christopher Cooper only agreed
+to goe for England: but the next day, through the perswasion of diuers of
+his familiar friends, hee changed his minde, so that now the matter stood
+as at the first.
+
+The next day, the 22 of August, the whole company both of the Assistants
+and planters came to the Gouernour, and with one voice requested him to
+returne himselfe into England, for the better and sooner obtaining of
+supplies, and other necessaries for them: but he refused it, and alleaged
+many sufficient causes, why he would not: the one was, that he could not
+so suddenly returne backe againe without his great discredite, leauing the
+action, and so many whome hee partly had procured through his perswasions,
+to leaue their natiue countrey, and vndertake that voyage, and that some
+enemies to him and the action at his returne into England would not spare
+to slander falsly both him and the action, by saying, hee went to
+Virginia, but politikely, and to no other end but to leade so many into a
+countrey, in which hee neuer meant to stay himselfe, and there to leaue
+them behind him. (M317) Also he alleaged, that seeing they intended to
+remoue 50 miles further vp into the maine presently, he being then absent,
+his stuffe and goods might be both spoiled, and most of them pilfered away
+in the cariage, so that at his returne he should be either forced to
+prouide himselfe of all suche things againe, or else at his comming againe
+to Virginia find himselfe vtterly vnfurnished, whereof already he had
+found some proofe, being but once from them but three dayes. Wherefore he
+concluded that he would not goe himselfe.
+
+The next day, not onely the Assistants but diuers others, as well women as
+men, began to renew their requests to the Gouernour againe, to take vpon
+him to returne into England for the supply, and dispatch of all such
+things as there were to be done, promising to make him their bond vnder
+all their handes and seales for the safe preseruing of all his goods for
+him at his returne to Virginia, so that if any part thereof was spoyled or
+lost, they would see it restored to him, or his Assignes, whensoever the
+same should be missed and demanded: which bond, with a testimony vnder
+their hands and seales, they foorthwith made, and deliuered into his
+hands. The copie of the testimony I thought good to set downe.
+
+“May it please you, her Maiesties subjects of England, we your friends and
+countrey-men, the planters in Virginia, doe by these presents let you and
+euery of you to vnderstand, that for the present and speedy supply of
+certaine our knowen and apparent lackes and needes, most requisite and
+necessary for the good and happy planting of vs, or any other in this land
+of Virginia, wee all of one minde and consent, haue most earnestly
+intreated, and vncessantly requested Iohn White, Gouernour of the planters
+in Virginia, to passe into England, for the better and more assured help,
+and setting forward of the foresayd supplies: and knowing assuredly that
+he both can best, and wil labour and take paines in that behalfe for vs
+all, and he not once, but often refusing it, for our sakes, and for the
+honour and maintenance of the action, hath at last, though much against
+his will, through our importunacie, yeelded to leaue his gouernement, and
+all his goods among vs and himselfe in all our behalfes to passe into
+England, of whose knowledge and fidelitie in handling this matter, as all
+others, we doe assure ourselues by these presents, and will you to giue
+all credite thereunto, the 25 of August 1587.”
+
+The Gouernour being at the last through their extreame intreating
+constrayned to returne into England, hauing then but halfe a dayes respite
+to prepare himselfe for the same, departed from Roanoak the seuen and
+twentieth of August in the morning and the same day about midnight, came
+aboord the Flieboat, who already had weyed anker, and rode without the
+barre, the Admirall riding by them, who but the same morning was newly
+come thither againe. The same day both ships weyed anker, and set saile
+for England: at this weying their ankers, twelue of the men which were in
+the Flyboate were throwen from the Capstone, which by meanes of a barre
+that brake, came so fast about them, that the other two barres thereof
+strooke and hurt most of them so sore, that some of them neuer recouered
+it; neuerthelesse they assayed presently againe to wey their anker, but
+being so weakened with the first fling, they were not able to weye it, but
+were throwen downe and hurt the second time. Wherefore hauing in all but
+fifteene men aboord, and most of them by this vnfortunate beginning so
+bruised, and hurt, they were forced to cut their Cable, and leese their
+anker. Neuerthelesse, they kept company with the Admirall, vntill the
+seuenteenth of September, at which time wee fell with Coruo, and sawe
+Flores.
+
+
+
+September.
+
+
+The eighteenth, perceiuing that of all our fifteene men in the Flyboat
+there remained but fiue, which by meanes of the former mischance, were
+able to stand to their labour: and that the Admirall meant not to make any
+haste for England but to linger about the Island of Tercera for purchase:
+the Flyboate departed for England with letters, where we hoped by the
+helpe of God to arriue shortly: but by that time we had continued our
+course homeward about twentie dayes, hauing had sometimes scarse and
+variable windes, our fresh water also by leaking almost consumed there
+arose a storme at Northeast, which for sixe dayes ceased not to blowe so
+exceeding, that we were driuen further in those sixe then we could recouer
+in thirteene daies: in which time others of our saylers began to fall very
+sicke and two of them dyed, the weather also continued so close, that our
+Master sometimes in foure dayes together could see neither sunne nor
+starre, and all the beuerage we could make, with stinking water, dregs of
+beere, and lees of wine which remayned, was but three gallons, and
+therefore nowe we expected nothing but famine to perish at Sea.
+
+
+
+October.
+
+
+(M318) The 16 of October we made land, but we knewe not what land it was,
+bearing in with the same land at that day: about sunne set we put into a
+harbour, where we found a Hulke of Dublin, and a pinnesse of Hampton(103)
+riding, but we knew not as yet what place this was, neither had we any
+boate to goe ashore, vntill the pinnesse sent off their boate to vs with 6
+or 8 men, of whom wee vnderstood wee were in Smerwick in the West parts of
+Ireland: they also relieued vs presently with fresh water, wine and other
+fresh meate.
+
+The 18 the Gouernour and the Master ryd to Dingen a Cushe,(104) 5 miles
+distant, to take order for the new victualing of our Flieboat for England,
+and for reliefe of our sicke and hurt men, but within foure daies after
+the Boatswain, the Steward, and the Boatswains mate died aboord the
+Flieboat, and the 28 the Masters mate and two of our chiefs sailers were
+brought sicke to Dingen.
+
+
+
+Nouember.
+
+
+The first the Gouernour shipped himselfe in a ship called the Monkie,
+which at that time was ready to put to sea from Dingen for England,
+leauing the Flyboat and all his companie in Ireland. The same day we set
+sayle, and on the third day we fell with the North side of the lands end
+and were shut vp the Seuerne, but the next day we doubled the same for
+Mounts Bay.
+
+The 5 the Gouernour landed in England at Martasew, neere Saint Michaels
+mount in Cornewall.
+
+The 8 we arriued at Hampton, where we vnderstood that our consort the
+Admirall was come to Portsmouth, and had bene there three weekes before:
+and also that Ferdinando the Master with all his company were not onely
+come home without purchase, but also in such weaknesse by sicknesse, and
+death of their chiefest men, that they were scarse able to bring their
+ship into harbour, but were forced to let fall anker without, which they
+could not wey againe, but might all haue perished there, if a small barke
+by a great hap had not come to them to helpe them. The names of the chiefe
+men that died are these, Roger Large, Iohn Mathew, Thomas Smith, and some
+other saylers, whose names I knew not at the writing hereof. An. Dom.
+1587.

@@ -1,0 +1,390 @@
+QUERY: "silver star" | total 1436 | showing years 1946-1960
+  1952/01/26 | Het Parool | p | ABCDDD:010829843:mpeg21:a0132 | „Silver Star” posthuum voor twee Korea-vrijwilligers
+  1951/10/23 | Dagblad voor Noord-Limburg | p2 | MMCC02:211156020:mpeg21:a00026 | SILVER STAR VOOR KOL. DEN OUDEN
+  1951/10/24 | Eindhovensch dagblad | p6 | MMRHCE02:163602021:mpeg21:a00120 | Overste den Ouden posthuum met „Silver Star" onderscheiden.
+  1952/01/30 | Nieuwe provinciale Groninger courant | p4 | MMRHCG04:235032025:mpeg21:a00054 | „Silver Star” posthuum uitgereikt
+  1951/10/23 | Dagblad de stem | p1 | MMSAB05:259508020:mpeg21:a00015 | „Silver Star” voor mevr. den Ouden
+  1952/01/26 | Het Binnenhof | p3 | MMKB19:000379022:mpeg21:a00070 | „Silver Star” voor gesneu- velde Korea-vrijwilligers
+  1951/10/22 | De Tĳd : godsdienstig-staatkundig dagblad | p7 | ddd:011202716:mpeg21:a0121 | Mevr. DenOuden ontvangt de „Silver Star”
+  1952/01/24 | Het Parool | p | ABCDDD:010829841:mpeg21:a0015 | Silver Star posthuum voor Korea-strijder
+  1951/10/23 | Nijmeegsch dagblad | p6 | MMRANM03:048387098:mpeg21:a00085 | „SILVER STAR” VOOR LUIT. KOLONEL DEN OUDEN
+  1951/10/22 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000069367:mpeg21:a0061 | LAATSTE NIEUWS Mevrouw Den Ouden ontving de „Silver-Star"
+  1952/01/26 | Leeuwarder courant : hoofdblad van Friesland | p11 | ddd:010613174:mpeg21:a0202 | „Silver star" voor Nederlandse sergeant en korporaal
+  1951/10/23 | De Gooi- en Eemlander | p5 | MMGAGM01:234886020:mpeg21:a00080 | Mevrouw den Ouden ontving de „Silver Star"
+  1951/10/23 | Winschoter courant | p1 | MMRHCG03:163541045:mpeg21:a00009 | MEVROUW DEN OUDEN ONTVING DE „SILVER STAR”, WAARMEDE HAAR ECHTGENOOT POSTHUUM WERD ONDERSC
+  1951/10/24 | Nieuwe Tilburgsche courant | p3 | MMKB19:000243021:mpeg21:a00062 | MEVROUW DEN OUDEN ONTVING DE „SILVER STAR”
+  1951/08/04 | Limburgsch dagblad | p2 | ddd:011026989:mpeg21:a0029 | Limburger ontving in Korea de „Silver Star"
+  1952/01/30 | Provinciale Noord-Brabantsche courant Het huisgezin | p3 | MMUBTB04:210858025:mpeg21:a00046 | „SILVER STAR” UITGEREIKT AAN TWEE NEDERLANDSE KOREA-VRIJWILLIGERS
+  1952/01/29 | Twentsch dagblad Tubantia | p2 | MMHCO02:163739096:mpeg21:a00038 | LAATSTE NIEUWS „Silver Star” posthuum uitgereikt
+  1951/10/23 | Deventer dagblad | p2 | MMHCO02:163905045:mpeg21:a00030 | Posthume Amerikaanse onderscheiding voor kolonel Den Ouden
+  1952/01/29 | Twentsch dagblad Tubantia | p2 | MMHCO02:163739093:mpeg21:a00041 | LAATSTE NIEUWS „Silver Star” posthuum uitgereikt
+  1951/10/25 | Gereformeerd gezinsblad / hoofdred. P. Jongeling | p2 | ddd:010557977:mpeg21:a0034 | MEVROUW DEN OUDEN ONTVING DE „SILVER STAR", WAARMEE HAAR ECHTGENOOT POSTHUUM WERD ONDERSCH
+  1951/08/06 | Leeuwarder courant : hoofdblad van Friesland | p4 | ddd:010613028:mpeg21:a0095 | Silver Star voor Nederlanders in Korea
+  1951/08/04 | De Gooi- en Eemlander | p7 | MMGAGM01:234885030:mpeg21:a00085 | Silver Star voor Korea-strijders
+  1952/01/28 | Dagblad voor Noord-Limburg | p2 | MMCC02:211157023:mpeg21:a00023 | Silver Star" voor gesneuvelde
+  1952/01/26 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179265022:mpeg21:a00045 | Silver Star voor serg.- maj. Van Balkom
+  1956/10/23 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p5 | ddd:010988314:mpeg21:a0083 | Toeristenschepen in seizoen 1956-1957
+  1952/01/26 | Twentsche courant | p7 | MMCOLO01:280936022:mpeg21:a00091 | „SILVER STAR” UITGEREIKT
+  1951/04/30 | Gazet van Limburg | p1 | MMCC01:048028025:mpeg21:a00013 | „Silver Star” voor Nederl. vrijwilligers
+  1952/01/26 | De Telegraaf | p3 | ddd:110585412:mpeg21:a0128 | „Silver Star" aa weduwe uitgereik
+  1952/01/25 | Het Parool | p | ABCDDD:010829842:mpeg21:a0137 | Silver Star uitgereikt aan weduwe Van Balkom
+  1952/01/26 | Zutphens dagblad voor de Graafschap en Veluwezoom | p7 | MMRAZ03:179300022:mpeg21:a00095 | Posthume onderscheiding voor dappere Koreastrijder
+  1952/01/30 | Provinciale Overijsselsche en Zwolsche courant | p2 | MMHCO02:163854025:mpeg21:a00023 | „Silver Star” posthuum uitgereikt Aan familie van Nederlandse Korea-vrijwilligers.
+  1952/01/26 | Gazet van Limburg | p1 | MMCC01:048031022:mpeg21:a00007 | „Silver Star” voor vrijwilligers in Korea
+  1952/01/26 | Deventer dagblad | p3 | MMHCO02:163906022:mpeg21:a00055 | Posthume onderscheiding voor dappere Korea strijder
+  1952/01/30 | 't Nieuws voor Kampen | p2 | MMSAK01:164710025:mpeg21:a00023 | „Silver Star” posthuum uitgereikt Aan familie van Nederlandse Korea-vrijwilligers.
+  1952/01/30 | De Telegraaf | p2 | ddd:110585415:mpeg21:a0064 | Uitreiking „Silver Star" in Den Haag
+  1952/01/30 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739099:mpeg21:a00011 | Gisteren werd op de Amerikaanse Ambassade té Den Haag aan de moeder van wijlen
+  1952/01/30 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739098:mpeg21:a00010 | Gisteren werd op de Amerikaanse Ambassade te Den Haag aan de moeder van wijlen
+  1952/01/30 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739097:mpeg21:a00010 | Gisteren werd op de Amerikaanse Ambassade te Den Haag aan de moeder van Wijien
+  1952/01/30 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739100:mpeg21:a00011 | Gisteren werd op de Amerikaanse Ambassade te Den Haag aan de moeder van wijlen
+  1952/01/30 | Nieuwe Haarlemsche courant | p5 | MMNHA03:179265025:mpeg21:a00108 | Twee maal „Silver Star” uitgereikt
+  1952/01/29 | De tĳd : dagblad voor Nederland | p4 | ddd:011201321:mpeg21:a0088 | Twee maal „Silver Star" uitgereikt
+  1952/01/24 | Nieuwsblad van het Noorden | p1 | ddd:010679346:mpeg21:a0015 | Posthume Silver Star voor Nederlander
+  1951/10/25 | Eindhovensch dagblad | p4 | MMRHCE02:163602022:mpeg21:a00070 | Maandag heeft
+  1952/01/26 | Nijmeegsch dagblad | p4 | MMRANM03:048389022:mpeg21:a00055 | Uitreiking Silver Star Koreastrijder posthuum onderscheiden
+  1951/08/04 | Provinciale Noord-Brabantsche courant Het huisgezin | p1 | MMUBTB04:210856030:mpeg21:a00017 | DE ZILVEREN STER UITGEREIKT
+  1951/08/04 | Het Rotterdamsch parool | p6 | MMSARO02:164878081:mpeg21:a00087 | DEN HAAG. — Op 31 Juli 1951
+  1951/08/04 | Ons Noorden | p1 | MMRHCG04:235383030:mpeg21:a00013 | AMERIKAANSE ONDERSCHEIDING Voor Nederlanders in Korea
+  1951/08/04 | Nieuwe provinciale Groninger courant | p4 | MMRHCG04:235031030:mpeg21:a00048 | Nederlanders in Korea onderscheiden
+  1954/06/12 | Nieuwe Tilburgsche courant | p6 | MMKB19:000250060:mpeg21:a00084 | Pater L. v. d. Vrande MSC naar Nieuw Guinea
+  1954/06/12 | Nieuwsblad van het Zuiden | p1 | MMKB19:000621060:mpeg21:a00009 | Pater v.d. Vrande tiaar Nieuw-Guinea
+  1951/08/06 | Dagblad voor Noord-Limburg | p2 | MMCC02:211155031:mpeg21:a00028 | Onderscheidingen voor Nederlanders in Korea
+  1954/06/14 | Dagblad voor Noord-Limburg | p2 | MMCC02:211166061:mpeg21:a00032 | Pater van de Vrcmde naar Nieuw-Guinea
+  1954/06/12 | Gazet van Limburg | p2 | MMCC01:047998060:mpeg21:a00035 | Pater v.d. Vrande naar Nw. – Guinea
+  1951/08/04 | Nieuwsblad van het Noorden | p2 | ddd:010679660:mpeg21:a0024 | Nederlanders in Korea onderscheiden
+  1954/06/12 | Nieuwe Haarlemsche courant | p11 | MMNHA03:179257060:mpeg21:a00149 | Pater L.v.d. Vrande M.S.C. naar Nieuw-Guinea
+  1951/08/04 | Overijsselsch dagblad | p1 | MMKB23:001267029:mpeg21:a00023 | AMERIKAANSE ONDERSCHEIDING Voor Nederlanders in Korea
+  1951/10/23 | Provinciale Drentsche en Asser courant | p2 | MMKB23:001564098:mpeg21:a00035 | Mevr. Den Ouden nam silver star in ontvangst
+  1954/06/12 | De Tĳd : godsdienstig-staatkundig dagblad | p3 | ddd:011203218:mpeg21:a0088 | Pater L. v. d. Vrande M. S. C. naar Nieuw-Guinea
+  1952/01/26 | Nieuwe Tilburgsche courant | p1 | MMKB19:000245022:mpeg21:a00019 | Vrijdag heeft te Nijmegen kolonel Bruce W. Bidwell aan de
+  1951/10/23 | 't Nieuws voor Kampen | p5 | MMSAK01:164709098:mpeg21:a00091 | Mevrouw Den Ouden ontving „Silver Star”
+  1951/10/23 | Provinciale Overijsselsche en Zwolsche courant | p3 | MMHCO02:163853098:mpeg21:a00052 | Mevrouw Den Ouden ontving „Silver Star”
+  1952/01/26 | De Volkskrant | p | ABCDDD:010844740:mpeg21:a0067 | Opnieuw twee „Silver Stars” Sgt v. Balkom posthuum onderscheiden
+  1952/01/30 | Twentsche courant | p4 | MMCOLO01:280936025:mpeg21:a00058 | „SILVER STAR" POSTHUUM TOEGEKEND
+  1951/08/04 | De Volkskrant | p | ABCDDD:010843033:mpeg21:a0117 | Negen gewonden terug uit Korea
+  1951/05/01 | Emmer courant | p10 | MMGEM01:163337050:mpeg21:a00127 | Advertentie
+  1951/10/24 | Ons Noorden | p4 | MMRHCG04:235383098:mpeg21:a00084 | In tegenwoordigheid van een klein aantal Nederlandse en
+  1951/10/23 | Nieuwe provinciale Groninger courant | p4 | MMRHCG04:235031098:mpeg21:a00049 | In tegenwoordigheid van een klein
+  1952/01/26 | Trouw | p | ABCDDD:010819709:mpeg21:a0010 | TWEE KOREA-STRIJDERS POSTHUUM ONDERSCHEIDEN
+  1951/10/23 | Trouw | p | ABCDDD:010819272:mpeg21:a0077 | Mevr. Den Ouden nam Zilveren Ster in ontvangst
+  1952/01/26 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden | p1 | ddd:010691343:mpeg21:a0011 | Majoor Van Balkom posthuum onderscheiden
+  1951/10/24 | Overijsselsch dagblad | p4 | MMKB23:001254021:mpeg21:a00087 | In tegenwoordigheid van een klein aantal Nederlandse en
+  1951/08/04 | Limburgsch dagblad | p2 | ddd:010416386:mpeg21:a0068 | de „Silver Star”
+  1952/02/21 | Java-bode : nieuws, handels- en advertentieblad voor Nederla | p3 | ddd:010865554:mpeg21:a0082 | Nog een actie
+  1952/01/30 | Zutphens dagblad voor de Graafschap en Veluwezoom | p3 | MMRAZ03:179300025:mpeg21:a00061 | Posthume onderscheiding voor Korea- vrijwilligers
+  1951/08/04 | Eindhovensch dagblad | p7 | MMRHCE02:163601030:mpeg21:a00092 | NEDERLANDSE OFFICIEREN IN KOREA
+  1952/01/30 | Eindhovensch dagblad | p6 | MMRHCE02:163603025:mpeg21:a00092 | Posthume onderscheiding voor Korea-vrijwilligers
+  1951/05/01 | Emmer courant | p1 | MMGEM01:163337050:mpeg21:a00009 | Amerikaanse onderscheiding VOOR NEDERLANDSE VAANDRIG
+  1951/10/23 | Ons Noorden | p3 | MMRHCG04:235383097:mpeg21:a00070 | Naar wij vernemen:
+  1952/01/30 | Deventer dagblad | p6 | MMHCO02:163906025:mpeg21:a00105 | Posthume onderscheiding voor Korea-vrijwilligers
+  1950/03/24 | Algemeen Dagblad | p5 | MMSARO03:259008071:mpeg21:a00107 | Amerikaanse passagiersdienst op Europa
+  1952/01/24 | De Volkskrant | p | ABCDDD:010844738:mpeg21:a0092 | SIL VERSTAR voor wijlen sgt-maj. Vanßalkom
+  1951/03/02 | Nieuwe Haarlemsche courant | p1 | MMNHA03:179246052:mpeg21:a00022 | U.S. Silver Star POSTHUME ONDERSCHEIDING VOOR OVERSTE DEN OUDEN
+  1951/10/23 | Overijsselsch dagblad | p3 | MMKB23:001254020:mpeg21:a00064 | Naar wij vernemen:
+  1952/01/24 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739079:mpeg21:a00008 | GEWONDEN VERPLEEGD ONDER VIJANDELIJK VUUR Dappere sergeant-majoor posthuum onderscheiden
+  1951/10/22 | Het vaderland | p1 | MMKB19:000830019:mpeg21:a00005 | Mevr. Den Ouden ontving Silver Star
+  1952/01/24 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739080:mpeg21:a00008 | GEWONDEN VERPLEEGD ONDER VIJANDELIJK VUUR Dappere sergeant-majoor posthuum onderscheiden
+  1952/01/24 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739078:mpeg21:a00008 | GEWONDEN VERPLEEGD ONDER VIJANDELIJK VUUR Dappere sergeant-majoor posthuum onderscheiden
+  1952/04/12 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:011177556:mpeg21:a0081 | Silver Star
+  1954/05/21 | Emmer courant | p12 | MMGEM01:163342058:mpeg21:a00183 | Advertentie
+  1952/01/26 | Provinciale Noord-Brabantsche courant Het huisgezin | p1 | MMUBTB04:210858022:mpeg21:a00009 | In de officierscantine van de Prins Hendrik kazerne te Nijmegen heeft de Amerikaanse
+  1952/09/03 | Emmer courant | p4 | MMGEM01:163340028:mpeg21:a00061 | EXLOO Geslaagde Volksfeesten
+  1951/08/06 | Emmer courant | p3 | MMGEM01:163338016:mpeg21:a00054 | HET NED. DETACHEMENT VERENIGDE NATIES
+  1952/01/26 | De Gooi- en Eemlander | p1 | MMGAGM01:234887022:mpeg21:a00002 | Posthume Amerikaanse onderscheiding
+  1952/01/26 | Provinciale Overijsselsche en Zwolsche courant | p1 | MMHCO02:163854022:mpeg21:a00009 | In de officierscantine van de Prins
+  1952/01/26 | 't Nieuws voor Kampen | p3 | MMSAK01:164710022:mpeg21:a00038 | In de officierscantine van de Prins
+  1952/01/26 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739088:mpeg21:a00013 | In de officierscantine van de Prins Hendrikkazerne te Nijmegen heeft de Amerl-
+  1952/01/26 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739086:mpeg21:a00013 | In de officierscantine van de Prins Hendrikkazerne te Nijmegen heeft de Ameri-
+  1952/01/26 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739085:mpeg21:a00013 | Inde officierscantine van de Prins Hendrikkazerne te Nijmegen heeft de Ameri-
+  1952/01/26 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739087:mpeg21:a00014 | Inde officierscantine van de Prins Hendrikkazerne te Nijmegen heeft de Ameri-
+  1951/08/04 | De Tĳd : godsdienstig-staatkundig dagblad | p5 | ddd:011202650:mpeg21:a0106 | Gewonden uit Korea terug
+  1951/04/30 | De Volkskrant | p | ABCDDD:010867507:mpeg21:a0007 | Silver Star voor Bergefurth Ned. detachement teruggetrokken
+  1951/08/04 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179263029:mpeg21:a00044 | Gewonden terug uit Korea
+  1952/02/18 | Overijsselsch dagblad | p5 | MMKB23:001257041:mpeg21:a00108 | Luitenant Gunning sneuvelde
+  1957/06/28 | Provinciale Drentsche en Asser courant | p6 | MMKB23:001577149:mpeg21:a00160 | Advertentie
+  1952/01/30 | Ons Noorden | p3 | MMRHCG04:235384025:mpeg21:a00066 | Silver Star uitgereikt
+  1952/01/24 | Twentsch dagblad Tubantia | p1 | MMHCO02:163739077:mpeg21:a00008 | GEWONDEN VERPLEEGD ONDER VIJANDELIJK VUUR
+  1952/01/30 | Overijsselsch dagblad | p3 | MMKB23:001257025:mpeg21:a00066 | Silver Star uitgereikt
+  1952/04/18 | Emmer courant | p5 | MMGEM01:163339046:mpeg21:a00070 | Advertentie
+  1951/04/30 | Dagblad voor Noord-Limburg | p1 | MMCC02:211154025:mpeg21:a00005 | Vaandrig J. P. Bergefurth
+  1954/12/22 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404470:mpeg21:a0046 | Een dag eerder
+  1952/01/18 | Nijmeegsch dagblad | p5 | MMRANM03:048389015:mpeg21:a00111 | Postliume onderscheiding
+  1957/03/02 | Emmer courant | p9 | MMGEM01:163351052:mpeg21:a00080 | Advertentie
+  1953/10/30 | Emmer courant | p6 | MMGEM01:163341053:mpeg21:a00084 | Advertentie
+  1951/05/01 | Eindhovensch dagblad | p3 | MMRHCE02:163600026:mpeg21:a00058 | Nederlander in Korea onderscheiden.
+  1954/05/07 | Provinciale Drentsche en Asser courant | p7 | MMKB23:001563106:mpeg21:a00134 | Advertentie
+  1954/03/20 | Het nieuwsblad voor Sumatra | p3 | ddd:010476882:mpeg21:a0060 | Bokswedstrijden in Medan
+  1954/06/12 | De Volkskrant | p | ABCDDD:010843767:mpeg21:a0199 | Pater Van de Vranke naar Nieuw-Guinea
+  1952/01/29 | Opregte Steenwijker courant | p | MMGASL01:000408061:mpeg21:a00024 | Posthume Amerikaanse onderscheiding uitgereikt.
+  1951/08/04 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p4 | ddd:010402425:mpeg21:a0064 | Silver Star voor Nederlanders
+  1954/03/19 | Java-bode : nieuws, handels- en advertentieblad voor Nederla | p3 | ddd:010861753:mpeg21:a0117 | Bokswedstrijden in Medan
+  1954/12/31 | Provinciale Drentsche en Asser courant | p4 | MMKB23:001565157:mpeg21:a00206 | Advertentie
+  1951/08/04 | Het Binnenhof | p2 | MMKB19:000369030:mpeg21:a00018 | Nederlanders in Korea onderscheiden
+  1954/06/12 | De Maasbode | p3 | MMKB15:000569035:mpeg21:a00024 | MAASTRICHTSE RAAD EN DE WATERWEGEN
+  1952/02/20 | Onze toekomst | p4 | ddd:011185786:mpeg21:a0015 | Advertentie
+  1951/05/16 | Onze toekomst | p5 | ddd:011186173:mpeg21:a0020 | Advertentie
+  1951/05/23 | Onze toekomst | p5 | ddd:011186174:mpeg21:a0019 | Advertentie
+  1952/06/04 | Onze toekomst | p4 | ddd:011186221:mpeg21:a0013 | Advertentie
+  1951/08/14 | Het Rotterdamsch parool | p3 | MMSARO02:164878089:mpeg21:a00060 | Dubbele onderscheiding voor Nederlandse Korea-troepen Majoor Christan de nieuwe commandant
+  1952/01/25 | Eindhovensch dagblad | p6 | MMRHCE02:163603021:mpeg21:a00099 | Silver Star voor dapperheid in Korea.
+  1960/03/12 | Nijmeegsch dagblad | p13 | MMRANM03:048419061:mpeg21:a00143 | Gregory Peck schittert in de film „Held van Pork Chop Hill”
+  1955/07/29 | Emmer courant | p25 | MMGEM01:163345021:mpeg21:a00244 | Advertentie
+  1952/01/30 | Emmer courant | p5 | MMGEM01:163339013:mpeg21:a00058 | Weer posthume onderscheidingen
+  1951/08/14 | Zutphens dagblad voor de Graafschap en Veluwezoom | p6 | MMRAZ03:179299038:mpeg21:a00098 | Amerikaanse onderscheidingen voor Korea-detachement
+  1955/07/29 | Emmer courant | p21 | MMGEM01:163345021:mpeg21:a00204 | Advertentie
+  1951/10/11 | Winschoter courant | p7 | MMRHCG03:163541035:mpeg21:a00101 | Advertentie
+  1951/01/08 | Provinciale Overijsselsche en Zwolsche courant | p6 | MMHCO02:163852006:mpeg21:a00086 | Advertentie
+  1952/01/29 | Het Binnenhof | p3 | MMKB19:000379024:mpeg21:a00069 | „Silver Star” posthuum toegekend
+  1951/08/04 | Het vaderland | p2 | MMKB19:000846030:mpeg21:a00017 | „SPANJE MOEILIJK IN ATLANTISCH PACT”
+  1951/08/14 | Deventer dagblad | p5 | MMHCO02:163904088:mpeg21:a00074 | Amerikaanse onderscheidingen voor Korea-detachement
+  1952/01/26 | 't Nieuws voor Kampen | p4 | MMSAK01:164710022:mpeg21:a00064 | Posthume Amerikaanse onderscheiding
+  1951/08/14 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017776038:mpeg21:a00053 | Dubbele onderscheiding voor Nederlandse Korea-troepen Majoor Christan de nieuwe commandant
+  1955/09/15 | Trouw | p | ABCDDD:010819826:mpeg21:a0130 | Rarevaria
+  1951/10/23 | Nieuwsblad van het Noorden | p2 | ddd:010679269:mpeg21:a0019 | Posthume onderscheiding voor wijlen kolonel Den Ouden
+  1952/03/12 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010987853:mpeg21:a0033 | MINDER TOERISTENSCHEPEN
+  1951/10/23 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179264020:mpeg21:a00064 | Mevr. Den Ouden ontvangt de „Sil ver Star” Plechtigheid op Amerik. ambassade
+  1952/02/18 | Overijsselsch dagblad | p5 | MMKB23:001257041:mpeg21:a00107 | Nog een actie In bittere koude
+  1960/05/12 | De Telegraaf | p7 | ddd:110587691:mpeg21:a0227 | Korea
+  1953/11/17 | Twentsch dagblad Tubantia | p2 | MMHCO02:163746188:mpeg21:a00035 | Met geweerkolf tegen bataljon Chinezen Hoge Amerikaanse onderscheiding voor Enschedese Kor
+  1953/11/17 | Twentsch dagblad Tubantia | p2 | MMHCO02:163746184:mpeg21:a00026 | Met geweerkolf tegen bataljon Chinezen Hoge Amerikaanse onderscheiding voor Enschedese Kor
+  1951/10/23 | Twentsche courant | p3 | MMCOLO01:280935097:mpeg21:a00040 | Onderscheiding aan mevr. den Ouden overhandigd
+  1955/10/14 | Emmer courant | p8 | MMGEM01:163346010:mpeg21:a00100 | Advertentie
+  1952/01/28 | Zutphens dagblad voor de Graafschap en Veluwezoom | p3 | MMRAZ03:179300023:mpeg21:a00046 | Posthume Amerikaanse onderscheiding voor Nederlanders
+  1951/04/30 | Het Rotterdamsch parool | p1 | MMSARO02:164877100:mpeg21:a00012 | Amerikaanse lof voor Koreadetachement
+  1951/05/01 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p1 | MMRAZ03:179298101:mpeg21:a00011 | Amerikaanse onderscheiding voor Ned. vrijwilliger
+  1952/01/29 | Eindhovensch dagblad | p6 | MMRHCE02:163603024:mpeg21:a00093 | In de officierscantine van de Prins Hendrikkazerne te Nijmegen heeft de Amerikaanse
+  1952/01/30 | De Gooi- en Eemlander | p4 | MMGAGM01:234887025:mpeg21:a00069 | Gisteren werd op de Amerikaanse Ambassade te Den Haag aan de moeder
+  1952/01/31 | Provinciale Drentsche en Asser courant | p5 | MMKB23:001559026:mpeg21:a00064 | Op de Amerikaanse ambassade te Den Haag werd aan de moeder van wijlen
+  1951/05/01 | Deventer dagblad | p1 | MMHCO02:163904001:mpeg21:a00011 | Amerikaanse onderscheiding voor Ned. vrijwilliger
+  1951/04/30 | Nieuw Utrechtsch dagblad | p1 | MMKB27:017775100:mpeg21:a00009 | Amerikaanse lof voor Koreadetachement
+  1952/01/28 | Deventer dagblad | p6 | MMHCO02:163906023:mpeg21:a00111 | Posthume Amerikaanse onderscheiding voor Nederlanders
+  1957/08/20 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p6 | ddd:010988562:mpeg21:a0095 | Basketball Bond houdt bingo-avond
+  1951/03/02 | De Tĳd : godsdienstig-staatkundig dagblad | p1 | ddd:011201955:mpeg21:a0015 | U.S. Silver Star Overste Den Ouden posthuum geëerd
+  1951/08/14 | De Tĳd : godsdienstig-staatkundig dagblad | p8 | ddd:011202658:mpeg21:a0153 | Nederlanders in Korea weer onderscheiden
+  1957/08/20 | Amigoe di Curacao | p | KBDDD02:000211043:mpeg21:a0066 | Basketball Bond houdt bingo-avond
+  1951/05/01 | Trouw | p | ABCDDD:010819589:mpeg21:a0047 | Amerikaanse onderscheiding voor Nederl. Korea-strijder
+  1954/03/19 | De nieuwsgier | p2 | ddd:010478001:mpeg21:a0030 | Boksen in Medan
+  1951/08/07 | Gereformeerd gezinsblad / hoofdred. P. Jongeling | p4 | ddd:010557946:mpeg21:a0076 | AMERIKAANSE ONDERSCHEIDINGEN VOOR NEDERLANDERS IN KOREA.
+  1951/08/15 | Het nieuws : algemeen dagblad | p1 | ddd:010480763:mpeg21:a0003 | NEDERLANDSE MILITAIREN ONDERSCHEIDEN
+  1951/12/01 | Provinciale Drentsche en Asser courant | p7 | MMKB23:001564132:mpeg21:a00110 | Advertentie
+  1949/08/11 | Onze toekomst | p2 | ddd:011186114:mpeg21:a0005 | Advertentie
+  1949/11/09 | Onze toekomst | p2 | ddd:011186122:mpeg21:a0008 | Advertentie
+  1949/10/05 | Onze toekomst | p2 | ddd:011186117:mpeg21:a0005 | Advertentie
+  1949/10/26 | Onze toekomst | p2 | ddd:011186120:mpeg21:a0004 | Advertentie
+  1949/12/07 | Onze toekomst | p4 | ddd:011186126:mpeg21:a0014 | Advertentie
+  1951/10/24 | Emmer courant | p5 | MMGEM01:163338050:mpeg21:a00091 | – Bij de dienst van Sociale Zaken
+  1958/01/14 | Emmer courant | p12 | MMGEM01:163355011:mpeg21:a00119 | Advertentie
+  1956/07/25 | Emmer courant | p5 | MMGEM01:163349018:mpeg21:a00068 | Advertentie
+  1951/04/30 | Het vaderland | p7 | MMKB19:000829025:mpeg21:a00066 | Het Ned. detachement naar de achterhoede
+  1951/08/14 | De Telegraaf | p1 | ddd:011140160:mpeg21:a0025 | Onderscheidingen
+  1952/01/30 | Provinciale Noord-Brabantsche courant Het huisgezin | p1 | MMUBTB04:210858025:mpeg21:a00003 | Dinsdag werd op de Amerikaanse Ambassade te Den Haag aan de moeder
+  1952/01/26 | Nieuwe provinciale Groninger courant | p6 | MMRHCG04:235032022:mpeg21:a00054 | In de officierscantine van de Prins
+  1946/07/25 | De Volksvriend | p8 | ddd:011184971:mpeg21:a0053 | Drives Truck, Runs Cement Mixer
+  1952/01/24 | Algemeen Handelsblad | p | KBNRC01:000046588:mpeg21:a0063 | Posthume onderscheiding voor A. A. van Balkom
+  1951/05/05 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637680:mpeg21:a0074 | Prijszetting
+  1951/08/14 | Winschoter courant | p1 | MMRHCG03:163540038:mpeg21:a00004 | AMERIKAANSE ONDERSCHEIDINGEN VOOR KOREA-DETACHEMENT
+  1953/08/08 | Provinciale Drentsche en Asser courant | p4 | MMKB23:001568034:mpeg21:a00134 | Advertentie
+  1958/03/01 | Provinciale Drentsche en Asser courant | p6 | MMKB23:001576051:mpeg21:a00138 | Advertentie
+  1951/10/22 | De Maasbode | p2 | MMKB15:000563096:mpeg21:a00011 | LAATSTE BERICHTEN
+  1952/01/26 | Trouw | p | ABCDDD:010819709:mpeg21:a0114 | Nederlands Koreastrijder gaf zijn leven voor zijn vrienden
+  1952/02/18 | Ons Noorden | p5 | MMRHCG04:235384041:mpeg21:a00079 | Heldhaftige acties op Korea van Nederlandse soldaten Staaltjes van durf en moed
+  1954/06/19 | Indische courant voor Nederland | p2 | MMKB19:000290177:mpeg21:a00038 | Djakartase boksers in Medan
+  1952/04/02 | Onze toekomst | p6 | ddd:011186213:mpeg21:a0019 | Advertentie
+  1951/08/14 | Leeuwarder courant : hoofdblad van Friesland | p1 | ddd:010613035:mpeg21:a0011 | Nieuwe commandant voor Korea-detachement Kapt. Tiede de Haan kreeg bronzen kruis
+  1951/05/01 | Leeuwarder courant : hoofdblad van Friesland | p1 | ddd:010612948:mpeg21:a0017 | Nederlands detachement weer in de achterhoede Vaandrig onderscheiden
+  1958/04/12 | De nieuwe Limburger | p6 | MMCC01:048049036:mpeg21:a00106 | Advertentie
+  1952/09/13 | Gazet van Limburg | p6 | MMCC01:048033064:mpeg21:a00125 | Advertentie
+  1951/04/30 | Nieuwsblad van het Noorden | p1 | ddd:010762042:mpeg21:a0003 | Nederlanders in Korea dekten terugtocht
+  1951/04/30 | De Telegraaf | p1 | ddd:110585339:mpeg21:a0096 | Samen met de Fransen De Nederlanders dekken weer de terugtocht
+  1952/11/21 | Algemeen Handelsblad | p | KBNRC01:000044276:mpeg21:a0123 | Hotelschepen naar de Theems
+  1951/09/18 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637795:mpeg21:a0061 | Maximumprijzen
+  1946/02/15 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110636787:mpeg21:a0046 | Fransche oud.strijder op bezoek
+  1954/06/11 | De nieuwsgier | p2 | ddd:010478074:mpeg21:a0042 | Djakartanen in Medanse ring
+  1952/01/24 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden | p3 | ddd:010691341:mpeg21:a0080 | Posthume onderscheiding voor dappere Sergeant-Majoor
+  1954/06/11 | Java-bode : nieuws, handels- en advertentieblad voor Nederla | p3 | ddd:010861817:mpeg21:a0113 | Djakartase boksers in Medan
+  1951/08/14 | Nieuwsblad van het Noorden | p1 | ddd:010679668:mpeg21:a0002 | Amerikaanse onderscheidingen voor Korea-detachement
+  1951/08/31 | Provinciale Drentsche en Asser courant | p6 | MMKB23:001564053:mpeg21:a00108 | Advertentie
+  1952/08/30 | Algemeen Dagblad | p3 | MMKB19:000333103:mpeg21:a00053 | Onderscheidingen voor Nederlanders
+  1952/01/25 | Emmer courant | p2 | MMGEM01:163339011:mpeg21:a00028 | Dr DREES ONTVING HET EREDOCTORAAT van de Maryland- universiteit.
+  1951/08/04 | Provinciale Overijsselsche en Zwolsche courant | p2 | MMHCO02:163853030:mpeg21:a00034 | NIEUWS IN HET KORT
+  1952/02/23 | Het Binnenhof | p4 | MMKB19:000379046:mpeg21:a00087 | Nederlands detachement houdt het been stijf in niemandsland
+  1955/09/20 | Nieuwe Tilburgsche courant | p5 | MMKB19:000255069:mpeg21:a00046 | Zo is het leven..
+  1951/10/22 | Het Binnenhof | p3 | MMKB19:000376019:mpeg21:a00019 | Kunst daalde af naar de mensheid
+  1951/05/30 | Onze toekomst | p4 | ddd:011186175:mpeg21:a0020 | Advertentie
+  1951/06/13 | Onze toekomst | p5 | ddd:011186177:mpeg21:a0017 | Advertentie
+  1952/02/20 | Onze toekomst | p4 | ddd:011186231:mpeg21:a0015 | Advertentie
+  1951/08/14 | De Telegraaf | p3 | ddd:011140160:mpeg21:a0340 | Onderscheidingen
+  1954/05/07 | Emmer courant | p15 | MMGEM01:163342052:mpeg21:a00199 | Advertentie
+  1953/11/20 | Emmer courant | p10 | MMGEM01:163341062:mpeg21:a00117 | Advertentie
+  1951/08/15 | Emmer courant | p3 | MMGEM01:163338020:mpeg21:a00052 | AMERIKAANSE ONDERSCHEIDINGEN VOOR KOREADETACHEMENT.
+  1951/08/31 | Emmer courant | p6 | MMGEM01:163338027:mpeg21:a00080 | Advertentie
+  1950/09/22 | Emmer courant | p5 | MMGEM01:163336061:mpeg21:a00077 | Advertentie
+  1951/08/14 | Ons Noorden | p3 | MMRHCG04:235383038:mpeg21:a00062 | U.S.-onderscheidingen voor zes Korea-vrijwilligers
+  1951/08/14 | Nieuwe provinciale Groninger courant | p2 | MMRHCG04:235031038:mpeg21:a00020 | Korea detachement onderscheiden Zes „sterren” uitgereikt
+  1957/08/09 | Emmer courant | p8 | MMGEM01:163353035:mpeg21:a00115 | Advertentie
+  1956/02/17 | Provinciale Drentsche en Asser courant | p6 | MMKB23:001561041:mpeg21:a00154 | Advertentie
+  1952/02/02 | Provinciale Drentsche en Asser courant | p4 | MMKB23:001559028:mpeg21:a00125 | Advertentie
+  1951/04/30 | 't Nieuws voor Kampen | p1 | MMSAK01:164708099:mpeg21:a00012 | Burgerbevolking van Seoel geëvacueerd Drieduizend Noordelijke vrachtauto’s onderweg
+  1951/08/14 | Dagblad voor Noord-Limburg | p1 | MMCC02:211155038:mpeg21:a00007 | Ridgway huldigt Nederlanders
+  1951/08/14 | Eindhovensch dagblad | p1 | MMRHCE02:163601038:mpeg21:a00009 | Ons Korea-detachement onderscheiden
+  1950/09/30 | Provinciale Drentsche en Asser courant | p | MMDA03:000147794:mpeg21:a0042 | Advertentie
+  1950/09/30 | Provinciale Drentsche en Asser courant | p | MMDA03:000147793:mpeg21:a0043 | Advertentie
+  1955/08/03 | Algemeen Handelsblad | p | KBNRC01:000041298:mpeg21:a0024 | NARROW-ESCAPE VAN JOE WANSINK
+  1955/12/31 | Algemeen Handelsblad | p | KBNRC01:000045702:mpeg21:a0141 | Nederlandse leerling-vlieger aan de dood ontsnapt
+  1951/10/23 | De Volkskrant | p | ABCDDD:010843100:mpeg21:a0112 | SILVER STAR voor overste Den Ouden
+  1952/11/10 | Het Parool | p | ABCDDD:010829446:mpeg21:a0006 | Korea-mannen in IJmuiden aan land gegaan
+  1951/06/26 | De Volkskrant | p | ABCDDD:010867554:mpeg21:a0014 | 51 Nederlanders vielen in Korea
+  1951/08/14 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000067650:mpeg21:a0012 | Commandant Nederlands detachement in Korea DE ONDERSCHEIDING VOOR HET DETACHEMENT.
+  1951/08/14 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000067647:mpeg21:a0005 | Commandant Nederlands detachement in Korea
+  1951/08/14 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000067649:mpeg21:a0011 | Commandant Nederlands detachement in Korea DE ONDERSCHEIDING VOOR HET DETACHEMENT.
+  1951/08/14 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000067648:mpeg21:a0011 | Commandant Nederlands detachement in Korea DE ONDERSCHEIDING VOOR HET DETACHEMENT.
+  1951/08/16 | Gereformeerd gezinsblad / hoofdred. P. Jongeling | p3 | ddd:010557950:mpeg21:a0039 | AMERIKAANSE ONDERSCHEIDINGEN VOOR KOREADETACHEMENT.
+  1952/10/23 | De nieuwsgier | p2 | ddd:010476317:mpeg21:a0028 | Verklaring van Djakarta's studenten
+  1954/06/02 | Friese koerier : onafhankelĳk dagblad voor Friesland en aang | p4 | ddd:010761890:mpeg21:a0053 | Advertentie
+  1957/05/08 | Java-bode : nieuws, handels- en advertentieblad voor Nederla | p4 | ddd:010861647:mpeg21:a0062 | Advertentie
+  1951/08/14 | De Gooi- en Eemlander | p2 | MMGAGM01:234885038:mpeg21:a00020 | Onderscheiding voor Korea-strijders
+  1951/08/14 | Overijsselsch dagblad | p3 | MMKB23:001267037:mpeg21:a00065 | U.S.-onderscheidingen voor zes Korea-vrijwilligers
+  1952/01/26 | De tĳd : dagblad voor Nederland | p1 | ddd:011201319:mpeg21:a0043 | De „kersenvergiftigingszaak" te Baarlo
+  1951/08/04 | Algemeen Dagblad | p2 | MMKB19:000335030:mpeg21:a00049 | In één oogopslag
+  1951/04/30 | De Maasbode | p6 | MMKB15:000560025:mpeg21:a00066 | Eerste kath. kerk in N. O. P. ingewijd
+  1955/09/15 | Het Rotterdamsch parool | p3 | MMSARO02:164891013:mpeg21:a00065 | Voorts...
+  1951/10/23 | Nieuwe provinciale Groninger courant | p4 | MMRHCG04:235031098:mpeg21:a00057 | Kort en bondig
+  1955/09/15 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017788066:mpeg21:a00066 | Voorts...
+  1952/02/15 | Nieuwsblad van het Zuiden | p3 | MMKB19:000612039:mpeg21:a00034 | Ned. detachement houdt het been strak
+  1952/04/08 | De vrije pers : ochtendbulletin | p2 | ddd:011208736:mpeg21:a0024 | Oscar en Silver Star
+  1951/04/30 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000056019:mpeg21:a0049 | Het grote corso in de bollenstreek Schouwspel van adembenemende schoonheid Gierende wind, 
+  1952/01/16 | Overijsselsch dagblad | p3 | MMKB23:001257013:mpeg21:a00073 | De tol was hoog
+  1953/04/18 | De Telegraaf | p7 | ddd:110586883:mpeg21:a0307 | Parijse ovaties voor Residentie-orkest
+  1954/06/12 | Twentsche courant | p2 | MMCOLO01:280562010:mpeg21:a00019 | GROENLO
+  1951/08/14 | Het Binnenhof | p3 | MMKB19:000369038:mpeg21:a00025 | Nederlanders in Korea onderscheiden
+  1951/03/10 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p2 | MMRAZ03:179298059:mpeg21:a00026 | LUXOR THEATER
+  1959/08/28 | Emmer courant | p12 | MMGEM01:163361051:mpeg21:a00138 | Advertentie
+  1953/10/09 | Emmer courant | p9 | MMGEM01:163341044:mpeg21:a00100 | Advertentie
+  1951/06/28 | Ons Noorden | p4 | MMRHCG04:235382150:mpeg21:a00070 | Balans Korea-detachement: 186 gewonden en zieken, 51 gesneuvelden
+  1960/03/07 | Emmer courant | p9 | MMGEM01:163363056:mpeg21:a00093 | Volksonderwijs bijeen
+  1952/01/18 | Provinciale Drentsche en Asser courant | p6 | MMKB23:001559015:mpeg21:a00092 | Naar het tweede doel
+  1951/04/30 | Provinciale Overijsselsche en Zwolsche courant | p1 | MMHCO02:163852100:mpeg21:a00014 | Burgerbevolking van Seoel geëvacueerd Drieduizend Noordelijke vrachtauto’s onderweg
+  1952/01/24 | Het Binnenhof | p7 | MMKB19:000379020:mpeg21:a00134 | IN ’N OOGWENK
+  1953/05/20 | Nieuwe Tilburgsche courant | p5 | MMKB19:000248041:mpeg21:a00086 | Zo is het leven...
+  1952/01/29 | Algemeen Handelsblad | p | KBNRC01:000046598:mpeg21:a0098 | Liberale Europese Jeugd
+  1952/01/24 | Trouw | p | ABCDDD:010819707:mpeg21:a0092 | GEWONDEN GEHOLPEN ONDER VIJANDELIJK VUUR
+  1951/08/14 | Trouw | p | ABCDDD:010819211:mpeg21:a0020 | Generaal Ridgway prijst Nederlands detachement
+  1952/11/10 | De Volkskrant | p | ABCDDD:010845475:mpeg21:a0091 | Onderscheidingen
+  1951/06/26 | Winschoter courant | p1 | MMRHCG03:163539047:mpeg21:a00006 | Het Nederlandse detachement in Korea
+  1951/06/28 | Overijsselsch dagblad | p4 | MMKB23:001266072:mpeg21:a00078 | Balans Korea-detachement: 186 gewonden en zieken, 51 gesneuvelden
+  1951/08/04 | Provinciale Drentsche en Asser courant | p3 | MMKB23:001564030:mpeg21:a00062 | DE KLEINE WERELD
+  1958/05/31 | Nieuwsblad van het Noorden | p5 | ddd:010678090:mpeg21:a0184 | w^he P 'even en dood
+  1952/01/23 | Nijmeegsch dagblad | p4 | MMRANM03:048389019:mpeg21:a00066 | Korea-vrijwilligers bestormden Chinese stelling Hoge tol betaald voor aanval
+  1952/01/28 | Eindhovensch dagblad | p3 | MMRHCE02:163603023:mpeg21:a00058 | Korte berichten BINNENLAND
+  1952/01/16 | Ons Noorden | p3 | MMRHCG04:235384013:mpeg21:a00059 | „Krijgsgevangenen maken”, luidde het commando NEDERLANDS peloton op Korea volvoerde moeili
+  1952/01/29 | Nijmeegsch dagblad | p5 | MMRANM03:048389024:mpeg21:a00099 | Kroniek van de stad:
+  1952/01/25 | Arnhemsche courant | p4 | MMKB19:002035021:mpeg21:a00036 | Korea-vrijwilligers bestormden Chinese stelling
+  1960/05/28 | Arnhemsche courant | p11 | MMKB19:000323045:mpeg21:a00091 | CZARDAS-KöNIG
+  1952/02/15 | Nieuwsblad van het Zuiden | p3 | MMKB19:000612039:mpeg21:a00032 | Spiritiste legde meineed af op bevel van „hogere macht”
+  1952/01/29 | Het vaderland | p5 | MMKB19:000834023:mpeg21:a00052 | Vervolg Den Haag en omgeving
+  1952/01/15 | Het vaderland | p7 | MMKB19:000834012:mpeg21:a00083 | LAATSTE BERICHTEN
+  1954/08/27 | De Zuid-Limburger | p4 | MMCC02:211221097:mpeg21:a00039 | Generaal-Majoor Alf. Nobel heeft ons land verlaten
+  1951/08/04 | Winschoter courant | p1 | MMRHCG03:163540030:mpeg21:a00003 | DE BESPREKINGEN IN KAESONG Geduld tegenover oosterse vertragingstactiek en geduld
+  1952/01/16 | Twentsche courant | p6 | MMCOLO01:280936013:mpeg21:a00088 | Het staat er zo gemakkelijk: „Krijgsgevangenen maken” Nederlands peloton in Korea met eer 
+  1951/06/27 | Onze toekomst | p4 | ddd:011186179:mpeg21:a0014 | Advertentie
+  1952/03/12 | Onze toekomst | p6 | ddd:011186210:mpeg21:a0022 | Advertentie
+  1950/05/26 | Emmer courant | p8 | MMGEM01:163336011:mpeg21:a00076 | Advertentie
+  1951/08/15 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p2 | MMMHW01:001112020:mpeg21:a00008 | Lof voor het Koreadetachement
+  1952/01/26 | Provinciale Drentsche en Asser courant | p4 | MMKB23:001559022:mpeg21:a00066 | KORT NIEUWS
+  1958/12/23 | Nieuwe Tilburgsche courant | p2 | MMKB19:000278071:mpeg21:a00048 | Kaatsheuvel
+  1952/01/26 | Het vaderland | p2 | MMKB19:000834021:mpeg21:a00019 | Posthume onderscheiding Korea-strijders
+  1953/02/27 | Het vaderland | p1 | MMKB19:000831051:mpeg21:a00004 | De Duitse schulden
+  1951/08/14 | Het vaderland | p5 | MMKB19:000846038:mpeg21:a00058 | Amerik. onderscheidingen voor 6 Korea-vrijwilligers
+  1952/11/15 | Gazet van Limburg | p14 | MMCC01:048003039:mpeg21:a00228 | Advertentie
+  1954/09/11 | Limburgsch dagblad | p6 | ddd:010418207:mpeg21:a0040 | Advertentie
+  1951/04/30 | Algemeen Handelsblad | p | KBNRC01:000088253:mpeg21:a0050 | Betrekkelijke rust in Korea In nieuwe linie wachten V.N.-troepen aanval af Tsjoengtsjon ge
+  1953/05/07 | Overijsselsch dagblad | p3 | MMKB23:001268029:mpeg21:a00058 | Patrouille in de val
+  1951/04/30 | Het Binnenhof | p1 | MMKB19:000377101:mpeg21:a00001 | Chinezen willen vandaag nog Seoel in handen krij gen
+  1946/02/15 | Emmer courant | p3 | MMGEM01:163330019:mpeg21:a00020 | KUNST NEL OOSTHOUT
+  1951/08/04 | Gazet van Limburg | p2 | MMCC01:048029030:mpeg21:a00026 | GEWESTELIJK NIEUWS
+  1951/06/25 | Het Binnenhof | p1 | MMKB19:000377147:mpeg21:a00008 | Extra spaarpremie
+  1951/10/29 | Het Binnenhof | p3 | MMKB19:000376025:mpeg21:a00023 | Geen subsidie voor restauratie Spinozahuis
+  1950/08/12 | Twentsche courant | p8 | MMCOLO01:280933037:mpeg21:a00091 | Advertentie
+  1955/04/04 | Zutphens dagblad | p3 | MMRAZ03:179307079:mpeg21:a00066 | Van dag tot dag
+  1951/04/30 | Nieuwe provinciale Groninger courant | p1 | MMRHCG04:235030100:mpeg21:a00001 | Bevolking van Seoel geëvacueerd Generaal van Fleet: „Offensief was geen verrassing"
+  1954/04/01 | Dagblad de stem | p5 | MMSAB05:259518001:mpeg21:a00076 | WAT EEN WONDERLIJKE WERELD
+  1951/09/01 | Nieuwe provinciale Groninger courant | p6 | MMRHCG04:235031054:mpeg21:a00076 | Toch nog mogelijkheid om te emigreren Overste Eekhout laat zijn oude bataljon slechts node
+  1951/05/01 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p2 | MMMHW01:001108050:mpeg21:a00010 | Het Nederlandse deta chement in Korea
+  1954/04/07 | Gazet van Limburg | p3 | MMCC01:047998006:mpeg21:a00052 | Gemengd nieuws
+  1954/09/10 | De Zuid-Limburger | p1 | MMCC02:211221103:mpeg21:a00007 | Piloot Piet Schösser uit Canada terug
+  1955/04/04 | Deventer dagblad | p2 | MMHCO02:163917003:mpeg21:a00027 | Van dag tot dag
+  1953/03/28 | Trouw | p | ABCDDD:010820958:mpeg21:a0235 | Van hol- tot villabewoner
+  1948/10/27 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010863069:mpeg21:a0048 | Douglas Fairhanks Filmspeler, diplomaat, zeeoificier
+  1952/10/24 | Het nieuwsblad voor Sumatra | p3 | ddd:010476764:mpeg21:a0071 | DE KLEINE WERELD
+  1953/07/28 | Nieuwe Haarlemsche courant | p6 | MMNHA03:179262024:mpeg21:a00112 | Nederl. aandeel in Koreaanse strijd
+  1952/01/24 | Winschoter courant | p2 | MMRHCG03:163543020:mpeg21:a00031 | BINNENLAND
+  1951/08/14 | Provinciale Drentsche en Asser courant | p1 | MMKB23:001564038:mpeg21:a00007 | Generaal Ridgway zwaait ons detachement lof toe Uw landgenoten kunnen trots op u zijn
+  1953/07/04 | De Telegraaf | p7 | ddd:110585752:mpeg21:a0255 | KNIL-veteraan kreeg Silver Star JANSSEN HAALDE GEWONDEN ONDER VIJANDELIJK VUUR
+  1953/07/28 | De tĳd : dagblad voor Nederland | p4 | ddd:011202282:mpeg21:a0086 | Nederl. aandeel in Koreaanse strijd Totale verliescijfer: 112 man
+  1952/01/26 | De Maasbode | p4 | MMKB15:000565022:mpeg21:a00035 | „EVIPANSLAAP" is spel met mensenlevens
+  1953/06/27 | Provinciale Noord-Brabantsche courant Het huisgezin | p5 | MMUBTB04:210863073:mpeg21:a00082 | Als het nacht wordt aan het front breken de granaten los
+  1952/03/12 | Amigoe di Curacao | p | KBDDD02:000210005:mpeg21:a0009 | CURACAO HET STATUUT IN DE PERS
+  1952/01/30 | Winschoter courant | p3 | MMRHCG03:163543025:mpeg21:a00038 | Binnenlands nieuws
+  1955/11/23 | Algemeen Dagblad | p5 | MMKB19:000331046:mpeg21:a00077 | Sergeant Altena liftte door Amerika... per vliegtuig
+  1952/01/23 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235032019:mpeg21:a00031 | Opdracht: Gevangenen maken Verdiende roem voor Nederlands IN KOREA MAAR... DE TOL WAS HOOG
+  1951/08/14 | Arnhemsche courant | p4 | MMKB19:000306037:mpeg21:a00042 | Athletiekkampioenschappen an het Oosten te Apeldoorn
+  1960/05/11 | Het vaderland | p3 | MMKB19:000869008:mpeg21:a00036 | VIJ SPRAKEN MET... kolonel W. D. H. Eekhout
+  1960/05/14 | Het vaderland | p12 | MMKB19:000869011:mpeg21:a00126 | Hoe fascinerend de film ook is het boek „1984” is aangrijpender
+  1960/05/13 | Twentsch dagblad Tubantia | p13 | MMHCO02:163781010:mpeg21:a00157 | KOLONEL EEKHOUT: de aangewezen commandant voor Nieuw-Guinea
+  1950/10/07 | Algemeen Handelsblad | p | KBNRC01:000067794:mpeg21:a0084 | SOLI VAN CAMERA EN ACTEUR
+  1952/10/16 | Trouw | p | ABCDDD:010821302:mpeg21:a0093 | HETE PLEK IN KOUDE OORLOG
+  1952/03/11 | Nieuwsblad van het Noorden | p3 | ddd:010679386:mpeg21:a0064 | Culturele Film
+  1953/05/05 | Algemeen Dagblad | p5 | MMKB19:000359004:mpeg21:a00090 | Generaal „Houst' groot man
+  1951/08/04 | De Maasbode | p5 | MMKB15:000563030:mpeg21:a00043 | „De verwarden ontwarren
+  1951/08/24 | De Maasbode | p3 | MMKB15:000563046:mpeg21:a00027 | Overste Eekhout verlangt eveneens naar huis
+  1952/01/24 | Nieuwe provinciale Groninger courant | p4 | MMRHCG04:235032020:mpeg21:a00051 | kert en bondig
+  1949/08/22 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p4 | MMRAZ03:179295045:mpeg21:a00062 | Beste paarden uit Nederland waren te Hengelo (Gld.) De heer Pruikemaker won springconcours
+  1953/11/20 | Het vaderland | p4 | MMKB19:000838070:mpeg21:a00056 | Advertentie
+  1958/03/08 | Arnhemsche courant | p12 | MMKB19:000311057:mpeg21:a00093 | GEPROJECTEERD
+  1953/04/23 | Het vaderland | p4 | MMKB19:000831096:mpeg21:a00045 | Advertentie
+  1956/08/30 | Het vaderland | p11 | MMKB19:000843052:mpeg21:a00103 | Generaal Norstad op Soesterberg
+  1959/03/26 | Algemeen Handelsblad | p | KBNRC01:000036734:mpeg21:a0208 | Meyer Berger: MENSELIJKE JOURNALISTIEK Amerika verloor een groot reporter
+  1952/01/30 | Nieuwe Haarlemsche courant | p1 | MMNHA03:179265025:mpeg21:a00001 | Wetsontwerpen organisatie burgerlijke verdediging 200.000 NOODWACHTEN voor bescherming van
+  1953/05/09 | Twentsche courant | p7 | MMCOLO01:280937109:mpeg21:a00098 | BIJ DE NEDERLANDERS IN KOREA Krijgsgevangene kwam weer vrij Voor-post liep uit om gewonde 
+  1954/08/05 | Provinciale Noord-Brabantsche courant Het huisgezin | p4 | MMUBTB04:210868031:mpeg21:a00068 | Canadese legermacht steunt geheel op basis van vrijwilligheid Best verzorgde soldaten ter 
+  1953/05/07 | Ons Noorden | p4 | MMRHCG04:235386107:mpeg21:a00040 | Een nacht in Korea: „Gewonden ophalen” klonk het plotseling voor ons uit En de voor-post l
+  1958/02/22 | Het Binnenhof | p6 | MMKB19:002040044:mpeg21:a00069 | Advertentie
+  1960/12/28 | Het vrĳe volk : democratisch-socialistisch dagblad | p13 | ddd:010949359:mpeg21:a0205 | SCHEEPSTIJDINGEN
+  -> 352 in range
+QUERY: "dode bemanning" | total 19 | showing years 1947-1949
+  1949/01/06 | Het Parool | p | ABCDDD:010828808:mpeg21:a0134 | „Dg Schaduwgrens" door Joseph Conrad
+  1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN.
+  -> 2 in range
+QUERY: "doode bemanning" | total 36 | showing years 1939-1949
+  1944/11/08 | Provinciale Overijsselsche en Zwolsche courant | p1 | MMHCO02:163841024:mpeg21:a00009 | DE SLAG BIJ WESTKAPELLE
+  1944/11/08 | Oranjekoerier | p1 | ddd:010454021:mpeg21:a0002 | BIJZONDERHEDEN OVER WALCHEREN.
+  -> 2 in range
+QUERY: "raadsel van de zee" | total 16 | showing years 1947-1949
+  1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de 
+  1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN.
+  -> 2 in range
+QUERY: "marshall eilanden" | total 2836 | showing years 1948-1948
+  1948/12/11 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p1 | ddd:010897618:mpeg21:a0009 | Verjaagd door de atoombom. De bewoners van Bikini, die hun, eiland moesten verlaten, waren
+  1948/07/26 | Dagblad voor Noord-Limburg | p1 | MMCC02:211143038:mpeg21:a00005 | Voorlopig geen ATOOM-AUTO'S
+  1948/05/01 | Nieuwe courant | p | MMNIOD04:000094767:mpeg21:a0046 | De Eilanden in de stille Oceaan
+  1948/05/31 | De Noord-Ooster | p | MMVEEN01:000084936:mpeg21:a0046 | ATOOMWOLK EN DODELIJKE REGENS.....
+  1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0042 | Einde
+  1948/07/26 | Nieuwsblad van Friesland : Hepkema's courant | p1 | ddd:010762054:mpeg21:a0004 | Amerikaans atoomwapen.
+  1948/07/26 | Nieuwsblad van het Zuiden | p2 | MMKB19:000616022:mpeg21:a00020 | Positie der Ver. Staten op gebied van atoomwapens „aanmerkelijk verbeterd”
+  1948/07/26 | De Noord-Ooster | p | MMVEEN01:000085094:mpeg21:a0049 | PRESIDENT TRUMAN: „Atoomenergie machtige prikkel tot vreedzame vooruitgang"
+  1948/07/26 | Het nieuwsblad voor Sumatra | p3 | ddd:010474761:mpeg21:a0044 | RESULTAAT DER ATOOMPROEVEN WEER NIEUW SOORT BOMMEN ...
+  1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc
+  1948/07/27 | De Graafschapper | p1 | MMECAL02:179992037:mpeg21:a00012 | Nieuwe „betere" atoomwapens President Truman hoopt nog steeds op internationale controle
+  1948/03/27 | De Tĳd : godsdienstig-staatkundig dagblad | p1 | ddd:011201066:mpeg21:a0011 | AMERIKA heeft bases nodig, „dichter bij de vijand", De wijzigingen in de sterkte van Ameri
+  1948/03/27 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179234074:mpeg21:a00042 | AMERIKA WENST „BASES, DIE DICHTER BIJ DE VIJAND LIGGEN” Wijzigingen in de sterkte van Amer
+  1948/04/17 | Het Parool | p | ABCDDD:010830910:mpeg21:a0179 | Interessante proeven
+  1948/12/07 | Het Rotterdamsch parool | p2 | MMSARO02:164871135:mpeg21:a00047 | SCHEEPVAART
+  1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN.
+  1948/06/24 | De Volksvriend | p6 | ddd:011185070:mpeg21:a0031 | Correspondentie
+  -> 17 in range
+QUERY: "marshall-eilanden" | total 1505 | showing years 1948-1948
+  1948/03/27 | De Tĳd : godsdienstig-staatkundig dagblad | p1 | ddd:011201066:mpeg21:a0011 | AMERIKA heeft bases nodig, „dichter bij de vijand", De wijzigingen in de sterkte van Ameri
+  1948/03/27 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179234074:mpeg21:a00042 | AMERIKA WENST „BASES, DIE DICHTER BIJ DE VIJAND LIGGEN” Wijzigingen in de sterkte van Amer
+  1948/04/17 | Het Parool | p | ABCDDD:010830910:mpeg21:a0179 | Interessante proeven
+  -> 3 in range

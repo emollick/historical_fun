@@ -1,0 +1,66 @@
+########## 1946
+-- quarters/periods present:
+13:1st  JANUARY  to  31st  MARCH,  1946. 
+22:for  the  Quarter  ended  31st  MARCH,  1946. 
+466:1st  JANUARY  to  31st  MARCH,  1946. 
+2674:1st  APRIL  to  30th  JUNE,  1946. 
+2685:for  the  Quarter  ended  30th  JUNE,  1946. 
+3040:1st  APRIL  to  30th  JUNE,  1946. 
+4879:for  the  Quarter  ended  30th  SEPTEMBER,  1946. 
+5291:1st  JULY  to  30th  SEPTEMBER,  1946. 
+7305:1st  OCTOBER  to  31st  DECEMBER,  1946. 
+7314:for  the  Quarter  ended  31st  DECEMBER,  1946. 
+7826:1st  OCTOBER  to  31st  DECEMBER,  1946. 
+-- Dutch flag abbreviation counts:
+Dut\.=0  Du\.=0  Ned\.=0  Hol\.=0  Neth=0  Dutch=0  Nethlds=0  N\.E\.I=0  
+-- lines with 'Dut.' context (first 3):
+########## 1947
+-- quarters/periods present:
+11:1st  JANUARY  to  31st  MARCH,  1947. 
+20:for  the  Quarter  ended  31st  March,  1947. 
+502:1st  JANUARY  to  31st  MARCH,  1947. 
+3007:1st  APRIL  to  30th  JUNE,  1947. 
+3016:for  the  Quarter  ended  30th  June,  1947. 
+3492:1st  APRIL  to  30th  JUNE,  1947. 
+6246:1st  JULY  to  30th  SEPTEMBER,  1947. 
+6255:for  the  Quarter  ended  30th  September,  1947. 
+7159:1st  JULY  to  30th  SEPTEMBER,  1947. 
+9757:1st  OCTOBER  to  31st  DECEMBER,  1947. 
+9766:for  the  Quarter  ended  31st  December,  1947. 
+10211:1st  OCTOBER  to  31st  DECEMBER,  1947. 
+-- Dutch flag abbreviation counts:
+Dut\.=0  Du\.=0  Ned\.=0  Hol\.=0  Neth=0  Dutch=0  Nethlds=0  N\.E\.I=0  
+-- lines with 'Dut.' context (first 3):
+########## 1948
+-- quarters/periods present:
+11:1st  JANUARY  to  31st  MARCH,  1948. 
+22:for  the  Quarter  ended  31st  MARCH,  1948. 
+631:1st  JANUARY  to  31st  MARCH,  1948. 
+2510:1st  APRIL  to  30th  JUNE,  1948. 
+2529:for  the  Quarter  ended  30th  JUNE,  1948. 
+2724:1st  APRIL  to  30th  JUNE,  1948. 
+3792:1st  JULY  to  30th  SEPTEMBER,  1948. 
+4225:1st  JULY  to  30th  SEPTEMBER,  1948. 
+6187:1st  OCTOBER  to  31st  DECEMBER,  1948. 
+6196:for  the  Quarter  ended  31st  DECEMBER,  1948. 
+6843:1st  OCTOBER  to  31st  DECEMBER,  1948. 
+-- Dutch flag abbreviation counts:
+Dut\.=0  Du\.=0  Ned\.=0  Hol\.=0  Neth=0  Dutch=0  Nethlds=0  N\.E\.I=0  
+-- lines with 'Dut.' context (first 3):
+########## 1949
+-- quarters/periods present:
+9:1st  JANUARY  to  31st  MARCH,  1949. 
+20:for  the  Quarter  ended  31st  March,  1949. 
+216:BLE  No.  1: — Showing  the  number,  gross  tonnage  and  nationality  of  STEAMERS
+451:xaDLT,  ino.  4‘. — Showing  the  number,  gross  tonnage  and  nationality  of  S
+516:1st  JANUARY  to  31st  MARCH,  1949. 
+3296:1st  APRIL  to  30th  JUNE,  1949. 
+3307:for  the  Quarter  ended  30th  June,  1949. 
+3818:iui^iuc  iiumoer,  gross  tonnage  and  nationality  of  SAILING  SHIPS  and  BARGES 
+3881:1st  APRIL  to  30th  JUNE,  1949. 
+5995:1st  JULY  to  30th  SEPTEMBER,  1949. 
+6004:for  the  Quarter  ended  30th  SEPTEMBER,  1949. 
+6800:1st  JULY  to  30th  SEPTEMBER,  1949. 
+-- Dutch flag abbreviation counts:
+Dut\.=0  Du\.=0  Ned\.=0  Hol\.=0  Neth=0  Dutch=0  Nethlds=0  N\.E\.I=0  
+-- lines with 'Dut.' context (first 3):

@@ -1,0 +1,17 @@
+title: Variety
+author: Samuel Woodworth
+date: ed. 1818
+source: https://archive.org/details/poemsodessongs00woodrich (The Poems, Odes, Songs, and Other Metrical Effusions of Samuel Woodworth, New York: Abraham Asten and Matthias Lopez, 1818; OCR text)
+form: iambic tetrameter
+lines: 8
+attribution: certain
+notes: OCR source (archive.org); stanza breaks approximate; New York; many songs
+
+The noblest talent Love can claim, •
+Is never to appear the same;
+For 'tis Variety alone,
+That props the urchin-tyrant's throne.
+So do the seasons as they range,
+Afford new pleasure when they change;
+The sweetest flower would cease to cheer?
+Should fragrant spring bloom all the year.

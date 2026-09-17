@@ -1,0 +1,15 @@
+title: P.s
+author: Thomas Moore
+date: 1835
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 6
+attribution: certain
+notes: light satirical verse epistle (The Fudge Family in Paris, 1818 / The Fudges in England, 1835)
+
+Hurrah, Dick, hurrah, Dick, ten thousand hurrahs!
+I'm a happy, rich dog to the end of my days.
+There--read the good news--and while glad, for my sake,
+That Wealth should thus follow in Love's shining wake,
+Admire also the moral--that he, the sly elf,
+Who has fudged all the world, should be now fudged himself!

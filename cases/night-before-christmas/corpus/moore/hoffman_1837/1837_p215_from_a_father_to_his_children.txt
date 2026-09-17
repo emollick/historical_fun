@@ -1,0 +1,68 @@
+title: From a Father to His Children, after Having Had His Portrait Taken for Them
+author: Clement Clarke Moore
+date: pub. 1837
+source: Charles Fenno Hoffman (ed.), The New-York Book of Poetry (New-York: George Dearborn, 1837), pp. 215-216; text from Project Gutenberg #42769 (Distributed Proofreaders) checked against the scan https://archive.org/details/newyorkbkpoet00fennrich (leaves n230-n231)
+form: iambic pentameter quatrains (abab)
+lines: 48
+attribution: certain
+notes: Earlier witness of moore/02_to_my_children_with_my_portrait.txt (1844, same 48 lines, retitled 'To My Children, after Having My Portrait Taken for Them'). 'we' in line 13 is italic in 1837 (not represented). Serious. Attribution line as printed: 'BY C. C. MOORE.' Differences from the 1844 text — word level: l.4 'tracks'→'track'; l.10 'vigour'→'vigor'; l.12 'mouldered'→'moulder'd'; l.25 'pourtray'→'portray'; l.32 'honour'→'honor'. Punctuation/capitalization only at lines 2. Duplicate of the 1844 text: do not count both files in corpus totals.
+
+This semblance of your parent's time-worn face
+Is but a sad bequest, my children dear:
+Its youth and freshness gone, and in their place
+The lines of care, the tracks of many a tear!
+
+Amid life's wreck, we struggle to secure
+Some floating fragment from oblivion's wave:
+We pant for somewhat that may still endure,
+And snatch at least a shadow from the grave.
+
+Poor, weak, and transient mortals! why so vain
+Of manly vigour or of beauty's bloom?
+An empty shade for ages may remain
+When we have mouldered in the silent tomb.
+
+But no! it is not we who moulder there;
+We, of essential light that ever burns,
+We take our way through untried fields of air,
+When to the earth this earth-born frame returns.
+
+And 'tis the glory of the master's art
+Some radiance of this inward light to find;
+Some touch that to his canvass may impart
+A breath, a sparkle of the immortal mind.
+
+Alas! the pencil's noblest power can show
+But some faint shadow of a transient thought,
+Some waken'd feeling's momentary glow,
+Some swift impression in its passage caught.
+
+Oh! that the artist's pencil could pourtray
+A father's inward bosom to your eyes;
+What hopes, and fears, and doubts perplex his way,
+What aspirations for your welfare rise.
+
+Then might this unsubstantial image prove,
+When I am gone, a guardian of your youth,
+A friend for ever urging you to move
+In paths of honour, holiness, and truth.
+
+Let fond imagination's power supply
+The void that baffles all the painter's art;
+And when those mimic features meet your eye,
+Then fancy that they speak a parent's heart.
+
+Think that you still can trace within those eyes
+The kindling of affection's fervid beam,
+The searching glance that every fault espies,
+The fond anticipation's pleasing dream.
+
+Fancy those lips still utter sounds of praise,
+Or kind reproof that checks each wayward will,
+The warning voice, or precepts that may raise
+Your thoughts above this treach'rous world of ill.
+
+And thus shall Art attain her loftiest power;
+To noblest purpose shall her efforts tend:
+Not the companion of an idle hour,
+But Virtue's handmaid and Religion's friend.

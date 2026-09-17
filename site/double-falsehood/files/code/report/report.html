@@ -1,0 +1,801 @@
+<title>Is Cardenio inside Double Falsehood?</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+:root{
+  --bg:#f7f8fa; --panel:#eceef3; --ink:#15171c; --ink2:#555a66; --rule:#d3d7de; --accent:#8f2a2a;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --grid:#d3d7de; --surface:#f7f8fa; --other:#8a8f9a;
+  --display:"Libre Caslon Text",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"Source Sans 3","Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15171b; --panel:#1e2126; --ink:#f1f2f4; --ink2:#b5bac4; --rule:#343944; --accent:#e58a80;
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70; --grid:#343944; --surface:#15171b; --other:#7d838f;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15171b; --panel:#1e2126; --ink:#f1f2f4; --ink2:#b5bac4; --rule:#343944; --accent:#e58a80;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --grid:#343944; --surface:#15171b; --other:#7d838f;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55;padding-inline:20px;padding-block:32px 72px}
+.page{max-width:1000px;margin:0 auto}
+.prose{max-width:70ch}
+a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 45%,transparent)}
+a:hover{border-bottom-color:var(--accent)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1,h2,h3{font-family:var(--display);font-weight:700;line-height:1.15;text-wrap:balance;color:var(--ink)}
+h1{font-size:clamp(30px,5vw,46px);margin:8px 0 14px}
+h2{font-size:26px;margin:56px 0 12px;padding-top:18px;border-top:1px solid var(--rule)}
+h3{font-size:19px;margin:30px 0 8px}
+p{margin:0 0 14px}
+.eyebrow{font-family:var(--sans);font-size:12.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink2)}
+.standfirst{font-size:19.5px;line-height:1.5;color:var(--ink);max-width:66ch}
+.verdict{margin:34px 0 8px;padding:22px 24px 20px;background:var(--panel);border-left:4px solid var(--accent)}
+.verdict .label{font-family:var(--sans);font-size:12.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink2);margin-bottom:6px}
+.verdict .answer{font-family:var(--display);font-size:clamp(24px,3.6vw,34px);line-height:1.2;margin:0 0 6px}
+.verdict .conf{font-family:var(--sans);font-size:15px;color:var(--ink2);margin:0 0 16px}
+.bar{display:flex;height:22px;gap:2px;margin:6px 0 8px;max-width:640px}
+.bar span{display:block;height:100%}
+.bar .m{background:var(--s1);border-radius:4px 0 0 4px}
+.bar .l{background:var(--s2)}
+.bar .j{background:var(--s3)}
+.bar .o{background:var(--other);border-radius:0 4px 4px 0}
+.legend{display:flex;flex-wrap:wrap;gap:6px 22px;font-family:var(--sans);font-size:14.5px;color:var(--ink2);margin:0 0 16px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:7px;vertical-align:-1px}
+.legend .m i{background:var(--s1)} .legend .l i{background:var(--s2)} .legend .j i{background:var(--s3)} .legend .o i{background:var(--other)}
+.badge{display:inline-block;font-family:var(--sans);font-size:13px;letter-spacing:.04em;padding:3px 10px;border:1px solid var(--rule);border-radius:999px;color:var(--ink2);margin-bottom:14px}
+.verdict ul{margin:0;padding-left:20px} .verdict li{margin:0 0 6px}
+.toc{font-family:var(--sans);font-size:15px;columns:2;column-gap:32px;margin:26px 0 0;padding:0;list-style:none;max-width:760px}
+.toc li{break-inside:avoid;margin:0 0 6px;padding-left:0}
+.toc a{border-bottom:none;color:var(--ink)} .toc a:hover{color:var(--accent)}
+blockquote{margin:14px 0 18px;padding:2px 0 2px 18px;border-left:2px solid var(--rule);color:var(--ink);font-style:italic}
+blockquote .who{display:block;font-style:normal;font-family:var(--sans);font-size:14px;color:var(--ink2);margin-top:6px}
+.tbl{overflow-x:auto;margin:14px 0 22px}
+table{border-collapse:collapse;font-family:var(--sans);font-size:14px;line-height:1.35;width:100%;font-variant-numeric:tabular-nums}
+th,td{text-align:left;vertical-align:top;padding:7px 10px 7px 0;border-bottom:1px solid var(--rule)}
+th{font-weight:600;color:var(--ink2);font-size:12px;letter-spacing:.03em;text-transform:uppercase;padding-top:0}
+td.n,th.n{text-align:right;padding-right:12px;white-space:nowrap}
+td.d{white-space:nowrap;color:var(--ink2)}
+.tag{font-size:12px;letter-spacing:.04em;padding:1px 6px;border:1px solid var(--rule);border-radius:3px;color:var(--ink2);white-space:nowrap}
+.fl{color:var(--s2);font-weight:600} .sh{color:var(--s1);font-weight:600} .r18{color:var(--ink2);font-weight:600}
+.fig{margin:22px 0 30px;padding:14px 12px 10px;border:1px solid var(--rule);background:var(--surface)}
+.fig svg{display:block;width:100%;height:auto;font-family:var(--sans)}
+.fig figcaption{font-family:var(--sans);font-size:14px;color:var(--ink2);margin:8px 4px 0;line-height:1.45}
+.note{font-family:var(--sans);font-size:14.5px;color:var(--ink2)}
+.src ol{padding-left:22px;font-family:var(--sans);font-size:14.5px;line-height:1.45}
+.src li{margin:0 0 7px}
+code,.path{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.88em;color:var(--ink)}
+sup{font-family:var(--sans);font-size:.72em;line-height:0}
+sup a{border-bottom:none}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:4px 18px;font-family:var(--sans);font-size:15px;margin:10px 0 18px}
+.kv b{font-weight:600;color:var(--ink2)}
+hr{border:0;border-top:1px solid var(--rule);margin:40px 0}
+@media (max-width:760px){.toc{columns:1}}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto}}
+</style>
+
+<div class="page">
+<header>
+  <div class="eyebrow">Historical mysteries · Double Falsehood and the lost Cardenio</div>
+  <h1>Is <i>Cardenio</i> inside <i>Double Falsehood</i>?</h1>
+  <p class="standfirst">This page asks whether a play staged in London in 1727 preserves a lost play that was performed at the court of King James I in 1613 and later entered in the book trade's register as the work of Shakespeare and John Fletcher. It tells the story first, then sets out what each side has argued since the play appeared, then explains how the question was judged from the surviving documents and from the wording of 264 plays of the period.</p>
+</header>
+
+<div class="prose">
+<h2 id="question">The mystery</h2>
+<p>In the winter of 1612 to 1613 the King's Men, the acting company that Shakespeare wrote for and part-owned, played at court during the festivities for the marriage of King James I's daughter Elizabeth to Frederick, the Elector Palatine, a German prince. The royal household's accounts record payments to the company for twenty plays that season: fourteen given before Prince Charles, Princess Elizabeth and her new husband, and six before the King himself. One of the six is entered as "Cardenno". A second payment covers a play called "Cardenna", given on 8 June 1613 for the ambassador of the Duke of Savoy. Neither record names an author.<sup><a href="#src2">2</a></sup></p>
+<p>The name comes from <i>Don Quixote</i>, the Spanish novel by Miguel de Cervantes whose first part appeared in 1605 and in Thomas Shelton's English translation in 1612. Cardenio is a young man of Andalusia whose friend Fernando steals his bride Luscinda, and who runs mad in the mountains of the Sierra Morena, where Don Quixote finds him. Fernando has already seduced and abandoned a farmer's daughter, Dorotea. The story ends with the two couples restored.</p>
+<p>Shakespeare died in 1616. The First Folio, the collected edition of his plays that two of his fellow actors put together in 1623, does not include <i>Cardenio</i>, and the play was never printed. The next trace comes forty years after the performance. On 9 September 1653 Humphrey Moseley, a London bookseller who had published the collected plays of Beaumont and Fletcher in 1647, entered 41 old plays in the Stationers' Register, the book trade's record of who held the right to print what. One line of the entry reads "The History of Cardenio, by Mr Fletcher &amp; Shakespeare".<sup><a href="#src3">3</a></sup> John Fletcher was the playwright who succeeded Shakespeare as the King's Men's chief writer, and two plays the two men wrote together, <i>Henry VIII</i> and <i>The Two Noble Kinsmen</i>, survive. Moseley never printed <i>Cardenio</i>, and no manuscript of it is known today.</p>
+<p>Seventy-four years after Moseley's entry, on 13 December 1727, a play called <i>Double Falshood; or, The Distrest Lovers</i> opened at the Drury Lane theatre in London. It was staged by Lewis Theobald, an editor and playwright who had made his name the year before with <i>Shakespeare Restored</i>, a book correcting Alexander Pope's edition of Shakespeare. The title page describes the play as "Written Originally by W. Shakespeare; And now Revised and Adapted to the Stage By Mr. Theobald". It ran eleven nights, with Barton Booth, the leading tragic actor of the day, in the lead from the sixth, and John Watts printed it early in 1728 with a royal licence, a dedication and a preface.<sup><a href="#src1">1</a>, <a href="#src18">18</a></sup> The plot is Cervantes's Cardenio story with the names changed: Cardenio has become Julio, Luscinda is Leonora, Fernando is Henriquez and Dorotea is Violante, and the fathers of Julio and Leonora, who have no names in Cervantes, are Camillo and Don Bernard.</p>
+<p>In the preface Theobald said he owned three manuscripts of the play. One, he wrote, was "of above Sixty Years Standing, in the Handwriting of Mr. Downes, the famous Old Prompter", meaning John Downes, who kept the scripts for one of London's two theatre companies from 1662, and had belonged to Thomas Betterton, the leading actor of the decades after 1660.<sup><a href="#src1">1</a></sup> Nobody else ever recorded seeing any of the three. Theobald mentioned them in print once more, in April 1728, to defend a single line that Pope had mocked, and when he published his own edition of Shakespeare in 1733 he left the play out, though a note in it still calls <i>Double Falsehood</i> "a posthumous Play of our Author's". A notice at a revival in March 1770 said the "original Manuscript" was "treasured up in the Museum of Covent-Garden Playhouse". That theatre burned in September 1808. No account of the fire mentions a manuscript, and the claim that it burned there was first made in 1984 by Brean Hammond, who went on to edit the play.<sup><a href="#src18">18</a></sup></p>
+</div>
+
+<h2 id="sides">Why it is still argued</h2>
+<div class="prose">
+<p>The dispute began at once, and it has two parts: whether Theobald had an old play at all, and, if he did, who wrote it. His own preface answers readers who found that "the Colouring, Diction, and Characters, come nearer to the Style and Manner of Fletcher" than to Shakespeare's, and dismisses the point: "This, I think, is far from deserving any Answer".<sup><a href="#src1">1</a></sup></p>
+<p>One side holds that Theobald wrote the play himself. Pope mocked one of its lines in print in 1728. In 1780 George Steevens, one of the leading Shakespeare editors of the century, rejected Shakespeare's part in it because the play was not in the First Folio, and his colleague Edmond Malone wrote in his own copy that a line echoing <i>Antony and Cleopatra</i> "was, I believe, inserted by Theobald".<sup><a href="#src5">5</a></sup> The fullest modern statement of this side is by Tiffany Stern, a historian of the early modern theatre, who argued in 2011 that Theobald, a practised imitator of older styles, could have written the whole play and invented the manuscripts, and that if a Shakespeare manuscript had really sat in a theatre museum from 1770 to 1808 the great editors of that age would have gone to see it.<sup><a href="#src15">15</a></sup> Theobald's own record counts on this side. In 1716 a watchmaker, Henry Mestayer, had accused him of passing off Mestayer's play as his own <i>The Perfidious Brother</i>, and Mestayer left his manuscript at a tavern for anyone to compare. There is no record that Theobald ever let anyone examine his Cardenio copies.<sup><a href="#src16">16</a></sup></p>
+<p>A second side accepts that Theobald had an old play but denies that Shakespeare wrote any of it. Richard Farmer, a Cambridge scholar, suggested in 1767 that it was by James Shirley, the leading playwright of the 1630s, because the word "aspect" is stressed on its first syllable in a way he thought impossible in Shakespeare's day, and the standard catalogue of early English printing still repeats his guess.<sup><a href="#src4">4</a></sup> Malone proposed Philip Massinger, who succeeded Fletcher as the King's Men's chief writer in 1625, and in 2017 Giuliano Pascucci found Massinger in three scenes of Act 2 with a data-compression method that nobody has repeated.<sup><a href="#src5">5</a>, <a href="#src12">12</a></sup></p>
+<p>A third side rests on the text itself and has grown since 1910, when the American critic Gamaliel Bradford counted the verse and found a break at scene 3.3. After that point the share of lines that end with an extra unstressed syllable (a "double ending", a habit Fletcher had much more than Shakespeare) rises sharply and stays high.<sup><a href="#src6">6</a></sup> Every count since has found the same break, and Stephan Kukowski (1991), Jonathan Hope (1994), Brean Hammond (2010) and MacDonald P. Jackson (2012), all specialists in who wrote what in this period, give scenes 3.3 to 5.2 to Fletcher.<sup><a href="#src8">8</a>, <a href="#src9">9</a>, <a href="#src10">10</a></sup> Naseem Alotaibi's doctoral thesis of 2016 takes this side furthest: Fletcher is the only author the text will yield, and every parallel claimed for Shakespeare dissolves once Theobald's own writings are searched for the same phrases.<sup><a href="#src16">16</a></sup></p>
+<p>The fourth side, and the one the play's modern editors take, is that Fletcher and Shakespeare wrote it together. Brean Hammond's edition for the Arden Shakespeare (2010), Gary Taylor (2016) and the <i>New Oxford Shakespeare</i> (2017) describe a text in three layers: a Jacobean original by the two men (Jacobean meaning from the reign of James I, 1603 to 1625), a rewriting of the 1660s made for the company of William Davenant, who ran one of the two London theatres after the Restoration of 1660 and rewrote several of Shakespeare's plays, and Theobald's own revision of 1727.<sup><a href="#src10">10</a>, <a href="#src12">12</a>, <a href="#src16">16</a></sup> On this view the later layers lie thickest in Act 2 and the first two scenes of Act 3, and Shakespeare's hand survives, thinned by rewriting, in the first half. Its holders concede that the case for Shakespeare rests mostly on the two documents. Bradford wrote that "the internal evidence is certainly not of great importance", and Jackson that "scarcely a line of Shakespeare's verse survives intact".</p>
+<p>Two centuries of argument have not settled the matter, for a reason every study states. Whatever Theobald had, he rewrote it, at least one reviser had probably rewritten it before him, and rewriting destroys most of what tells one author from another: the small words, the rhythms, the turns of phrase. A test that names Shakespeare in a rewritten scene may be detecting Shakespeare or detecting nothing. Any answer has to begin by measuring how much of an author survives rewriting, and none of the studies read for this page did that.</p>
+</div>
+
+<h2 id="judged">How the case was judged</h2>
+<div class="prose">
+<p>Two kinds of evidence exist. The documents are few, and all of them are set out in full under "The documents": the two court payment records of 1613, Moseley's entry of 1653, Theobald's licence, dedication and preface, his one later statement about the manuscripts, and the notices of 1770 and 1808. They establish that the King's Men had a play called <i>Cardenio</i> in 1613 and that a bookseller assigned it to Fletcher and Shakespeare forty years later. They do not connect either fact to Theobald's text, and only the text can supply that connection.</p>
+<p>So the text was compared with 264 plays and other works, about 5.2 million words. Most come from the Text Creation Partnership, a project that has keyboarded thousands of early printed books: Shakespeare's First Folio, the collected Beaumont and Fletcher plays, plays by Massinger, Shirley, Thomas Middleton, John Webster, Ben Jonson, John Ford and others, plays written between 1678 and 1741, and 45 rewritings of older plays made between 1661 and 1772. Theobald's own four plays, four translations and a long poem were added from scanned copies. The measurements, described under "The 264 plays", are of four kinds: distances between texts based on how often they use the 300 commonest words, a statistical classifier trained to tell the authors apart, the "impostors" test, which asks how often a candidate author beats a crowd of other writers and counts a score above 0.8 as verified, and counts of rare phrases and of small words such as "hath" and "doth" that had gone out of use by 1727. Each method was tried first on <i>Henry VIII</i> and <i>The Two Noble Kinsmen</i>, where scholars agree which scenes Fletcher wrote, and then on the 39 rewritings whose originals are plays by Shakespeare or Fletcher alone, to learn how much of an author's signal survives revision and how far a score can be trusted at each level of survival. Only then was it turned on <i>Double Falsehood</i>, scene by scene, with Theobald's own writing put through the same tests as a control.</p>
+<p>The second half of the play, from scene 3.3 to the end, shows Fletcher's habits as strongly as the scenes he is known to have written, at a level none of Theobald's own writing reaches on the same tests, so a Jacobean play by Fletcher lies under <i>Double Falsehood</i>. The first half keeps an older layer under heavy rewriting. Shakespeare fits it better than any other candidate tested, and Massinger and Shirley do not fit at all, but no single scene can be given to Shakespeare with confidence. Act 2 was rewritten most. Put together with the two documents, this makes a Fletcher and Shakespeare original the most likely source, at about 64 percent, and Theobald's own invention unlikely, at about 5 percent. The 64 is a judgment rather than the output of a model. Under other reasonable weightings it runs from 50 to 75, and the panel below shows what moves it.</p>
+</div>
+
+<section class="verdict" id="verdict">
+  <div class="label">Verdict</div>
+  <p class="answer">Fletcher wrote the second half. Shakespeare probably wrote in the first half, though that is not proven. Theobald did not make the play up.</p>
+  <p class="conf"><b>Probable.</b> The evidence clearly favours one answer over all the others, but does not prove it. The percentage moves when the same evidence is weighed differently.</p>
+  <p class="conf">Weighed as set out under "Where the percentages come from", the documents and the text give about 64 percent that the play descends from a Fletcher and Shakespeare original, 24 that it descends from a play Fletcher wrote alone or with another partner of the Jacobean period, 4 that it descends from a Jacobean play without Fletcher, 5 that Theobald wrote it himself, and 3 something else. These figures are judgments. No model produced them. The range the evidence supports for the first figure is 50 to 75.</p>
+  <div class="bar" role="img" aria-label="Probability split: Fletcher and Shakespeare 64 percent, Fletcher alone or with another partner 24 percent, another Jacobean play 4 percent, Theobald alone 5 percent, other 3 percent"><span class="m" style="width:64%"></span><span class="l" style="width:24%"></span><span class="j" style="width:4%"></span><span class="o" style="width:8%"></span></div>
+  <div class="legend"><span class="m"><i></i>Fletcher and Shakespeare 64%</span><span class="l"><i></i>Fletcher alone or with another partner 24%</span><span class="j"><i></i>Another Jacobean play 4%</span><span class="o"><i></i>Theobald alone 5%, other 3%</span></div>
+  <span class="badge">This verdict agrees with the play's Arden editor Brean Hammond (2010), with Gary Taylor (2016) and with the New Oxford Shakespeare edition (2017) on Fletcher and on the layers, and reads the evidence for Shakespeare differently.</span>
+  <ul>
+    <li>Scenes 3.3, 4.1 and 5.2 show Fletcher's habits as strongly as his own scenes in <i>Henry VIII</i> and <i>The Two Noble Kinsmen</i>. On the impostors test they score 0.82, 0.84 and 0.79, the last just under the line with every other method agreeing. The 125 chunks of Theobald's own plays, translations and verse average 0.19 on the same test; two reach 0.60 and the highest, one chunk of his <i>Persian Princess</i>, reaches 0.63. Scenes 4.2 and 5.1 are probably Fletcher's too, on the classifier and the phrase counts rather than on this test.</li>
+    <li>Scenes 1.1 to 3.2 are not Fletcher's. Under heavy later rewriting they keep an older layer: thirteen "hath" and "doth" in 14,900 words, against four in Theobald's own 93,000 words of plays, translations and verse, and Jacobean turns of phrase at about twice the rate of his writing. Three passages read as Shakespeare on every model tried (the second half of 1.2, scene 3.2, the opening of 5.2). But the same models call Webster and Massinger "Shakespeare" often enough that one scene's label cannot be trusted on its own. Shakespeare fits best of the candidates tested. Massinger and Shirley do not fit at all.</li>
+    <li>Act 2 was rewritten most. Phrases found only in plays of 1690 to 1740 are two to three times denser there than anywhere else, which is where earlier scholars had already put the two later rewritings: one made in the 1660s and Theobald's own.</li>
+    <li>The 64 is a judgment, and nobody has yet rerun the computation behind it. Discount the 1653 Register entry entirely and it falls to about 50. Treat the Shakespeare readings in 1.2, 1.3 and 3.2 as noise and it falls to about 55. Accept the argument by Gary Taylor and Steven Wagschal that the play follows Thomas Shelton's 1612 English translation of <i>Don Quixote</i>, which the phrase count below could neither confirm nor refute, and it rises to about 75.</li>
+  </ul>
+</section>
+
+<div class="prose">
+<h2 id="contents">What this page covers</h2>
+<p>The documents come first, then what scholars have said about them and about the text, then the 264 plays and the methods. Each method is tested on plays whose authors are known before it touches <i>Double Falsehood</i>, and the rewritings show how much of an author survives revision. The play itself follows, scene by scene: Fletcher's half, the first half, and Act 2. After that come Theobald's own writing as a control, the small words, the rare phrases, and the other candidates, Massinger, Shirley and the question of which translation of <i>Don Quixote</i> the play follows. The last sections say where the percentages come from, what the strongest objections are, what is new here, and what could not be done.</p>
+</div>
+<ul class="toc">
+  <li><a href="#documents">The documents</a></li>
+  <li><a href="#prior">What scholars have said</a></li>
+  <li><a href="#corpora">The 264 plays</a></li>
+  <li><a href="#validation">Testing the methods on known plays</a></li>
+  <li><a href="#survival">What rewriting destroys</a></li>
+  <li><a href="#measured">Double Falsehood scene by scene</a></li>
+  <li><a href="#theobald">Theobald's own writing</a></li>
+  <li><a href="#markers">Small words</a></li>
+  <li><a href="#phrases">Phrases</a></li>
+  <li><a href="#others">Massinger, Shirley and the translations</a></li>
+  <li><a href="#weighing">Where the percentages come from</a></li>
+  <li><a href="#counter">The case against</a></li>
+  <li><a href="#new">What is new here</a></li>
+  <li><a href="#short">Limits</a></li>
+  <li><a href="#sources">Sources and files</a></li>
+</ul>
+
+<h2 id="documents">The documents</h2>
+<div class="prose">
+<p>The documentary chain is short. Each item is transcribed in full, with its provenance, in the dossier that accompanies this page (<span class="path">notes/documents.md</span>). <span class="tag">image</span> means the printed page was checked in a scan; <span class="tag">transcription</span> means the wording comes from a printed or keyboarded transcript (ECCO-TCP is the Text Creation Partnership's keyboarding of an 18th-century book from the Eighteenth Century Collections Online scans); <span class="tag">secondary</span> means it is known only through a later scholar.</p>
+</div>
+<div class="tbl"><table>
+<tr><th>Date</th><th>Document</th><th>What it says</th><th>Status</th></tr>
+<tr><td class="d">20 May and 9 July 1613</td><td>Accounts of the royal household's payments for court performances, the play titles surviving only in a manuscript copy in the Bodleian Library, Oxford (MS Rawlinson A.239), printed by Peter Cunningham (1842) and by the theatre historian E. K. Chambers (1923)<sup><a href="#src2">2</a></sup></td><td>Two warrants of 20 May 1613 pay John Heminges, the King's Men's business manager, for fourteen plays before Prince Charles, Princess Elizabeth and her new husband the Elector Palatine, and for six before the King, the six being "a badd beginininge makes a good endinge, ... ye Capteyne, ... the Alcumist. One other Cardenno, One other the Hotspur, And one other called Benedicte and Betteris". A warrant of 9 July 1613 pays him for "a playe ... called Cardenna" given before the Duke of Savoy's ambassador on 8 June 1613. Neither warrant names an author.</td><td><span class="tag">image</span> of Chambers pp. 179 to 180 and Cunningham pp. xlii to xliv; the manuscript not seen</td></tr>
+<tr><td class="d">9 Sept 1653</td><td>Stationers' Register, entry by Humphrey Moseley, the bookseller who had published the collected Beaumont and Fletcher plays in 1647<sup><a href="#src3">3</a></sup></td><td>Among 41 plays entered that day for 20s 6d: "The history of Cardenio, by Mr Fletcher &amp; Shakespeare." The same list gives Shakespeare <i>The Merry Devil of Edmonton</i> and, with Davenport, <i>Henry the First and Henry the Second</i>, neither of them his. W. W. Greg, the bibliographer, transcribed the entry in 1911 as "Cardennio, by Mr. Fletcher. &amp; Shakespeare.", with a stop after "Fletcher" that the standard printed transcript (Eyre and Rivington, 1913) omits and that John Freehafer, who traced the play's history in 1969, read as an afterthought. John Warburton, an 18th-century collector, listed the manuscript plays his cook had used to line pie dishes; the list draws on Moseley's entries and has no Cardenio.</td><td><span class="tag">image</span> of Eyre and Rivington pp. 428 to 429; Greg 1911 in a machine-read scan; the Register leaf not seen</td></tr>
+<tr><td class="d">5 Apr 1718</td><td>Assignment of Moseley's copyrights to Jacob Tonson the younger, the leading London publisher<sup><a href="#src10">10</a></sup></td><td>Hammond reports that Moseley's Cardenio entry is repeated in this assignment. It would be the last record of the title before Theobald.</td><td><span class="tag">secondary</span> (Hammond 2010, p. 81; the document not located)</td></tr>
+<tr><td class="d">c. 1667</td><td>Theobald's claim of a manuscript "in the Handwriting of Mr. Downes"<sup><a href="#src1">1</a></sup></td><td>John Downes was prompter to the Duke's Company from 1662. "Above Sixty Years" before 1727 places the copy in the 1660s. Nothing in Downes's own <i>Roscius Anglicanus</i> (1708) mentions the play.</td><td><span class="tag">secondary</span> (Theobald's word only)</td></tr>
+<tr><td class="d">5 Dec 1727</td><td>Royal licence, printed in the 1728 edition<sup><a href="#src1">1</a></sup></td><td>Theobald "having, at a considerable Expence, Purchased the Manuscript Copy of an Original Play of William Shakespeare". The licence is a printing privilege and repeats the petitioner's own words. It says "Copy", singular.</td><td><span class="tag">transcription</span> (ECCO-TCP)</td></tr>
+<tr><td class="d">21 Dec 1727</td><td>Dedication and preface, 1728<sup><a href="#src1">1</a></sup></td><td>Three manuscripts claimed. A "Tradition" from "the Noble Person, who supply'd me with One of my Copies" that Shakespeare wrote it for "a Natural Daughter of his". The preface already answers the objection that "the Colouring, Diction, and Characters, come nearer to the Style and Manner of Fletcher", and dismisses it: "This, I think, is far from deserving any Answer". It gives the date of <i>Don Quixote</i> wrongly as 1611. The second edition, out by 16 March 1728, corrects this to 1605 and adds that Theobald "had once design'd a Dissertation to prove this Play to be of Shakespeare's Writing" but has dropped it "for another Subject". No dissertation followed.</td><td><span class="tag">transcription</span> (ECCO-TCP); second edition <span class="tag">image</span></td></tr>
+<tr><td class="d">27 Apr and 31 July 1728</td><td>Theobald's reply to the poet Alexander Pope in <i>Mist's Weekly Journal</i>, a London newspaper; John Watts's ledger<sup><a href="#src18">18</a></sup></td><td>Defending the line "None but it self can be its Parallel" (3.1), which Pope had ridiculed, Theobald wrote that "the Line is in Shakespeare's old Copy; for I might have suppress'd it". This is his only statement about what the manuscripts contained. On 31 July 1728 he sold the copy of the play to Watts for one hundred guineas, having already taken three benefit nights in December.</td><td><span class="tag">transcription</span> (1728 reprint of the letter; the ledger as printed in 1824)</td></tr>
+<tr><td class="d">1767</td><td>Richard Farmer, <i>Essay on the Learning of Shakespeare</i><sup><a href="#src4">4</a></sup></td><td>Suggests the play was Shirley's, on the ground that "aspect" is stressed on the first syllable, which he thought impossible in Shakespeare's time. The English Short Title Catalogue, the standard catalogue of early English printing, still notes on the 1728 edition: "Probably written originally by James Shirley".</td><td><span class="tag">transcription</span></td></tr>
+<tr><td class="d">1780 and 1782</td><td>George Steevens and Edmond Malone, the leading Shakespeare editors of the day, in their <i>Supplement</i>; Isaac Reed's <i>Biographia Dramatica</i>, a reference book on English plays<sup><a href="#src5">5</a></sup></td><td>Steevens first connected the 1653 entry with the 1613 payments, and rejected Shakespeare's part because the play was not in the First Folio, the collected edition of 1623. Malone proposed Massinger, and wrote in his own copy that the line echoing <i>Antony and Cleopatra</i> "was, I believe, inserted by Theobald". Reed's <i>Biographia Dramatica</i> of 1782 is the first printed suggestion that <i>Double Falshood</i> "may possibly be the same as" the <i>History of Cardenio</i>.</td><td>Steevens and Malone <span class="tag">secondary</span>; Reed <span class="tag">transcription</span></td></tr>
+<tr><td class="d">31 Mar 1770 and 20 Sept 1808</td><td>Notice at the Drury Lane revival; the Covent Garden fire<sup><a href="#src18">18</a></sup></td><td>The notice says "the original Manuscript of this play is now treasured up in the Museum of Covent-Garden Playhouse", the rival house. Covent Garden burned in the early hours of 20 September 1808. No contemporary account of the fire mentions the manuscript; the first statement that it burned is Hammond's in 1984. Stern's objection stands: had a Shakespeare manuscript sat there from 1770 to 1808, Malone, Steevens and Edward Capell, the great Shakespeare editors of the age, would have gone to see it.</td><td><span class="tag">secondary</span> (Freehafer 1969, citing the <i>Gazetteer</i>, a London newspaper; Hammond 1984)</td></tr>
+</table></div>
+<div class="prose">
+<p>Three things follow. The King's Men had a play called <i>Cardenio</i> in 1613, the season in which Shakespeare and Fletcher wrote <i>Henry VIII</i> and <i>The Two Noble Kinsmen</i> together. A bookseller who entered dozens of old play manuscripts in 1653, some under the wrong names, assigned this one to both men. Everything after that rests on Theobald. He had money in it (three benefit nights and a hundred guineas from Watts). His statements about his copies contradict each other. And in 1716 a watchmaker, Henry Mestayer, had accused him of passing off Mestayer's play as his own <i>Perfidious Brother</i>; the accuser left his manuscript at a tavern for anyone to compare, and there is no record of Theobald ever doing the same with his. So the documents establish that the King's Men had a <i>Cardenio</i> in 1613. Its ascription to Fletcher and Shakespeare rests on a bookseller's entry forty years later, and its link to Theobald's play rests on Theobald's word.</p>
+</div>
+
+<h2 id="prior">What scholars have said</h2>
+<div class="prose">
+<p>Every count made since the American critic Gamaliel Bradford's in 1910 finds a break in the verse at scene 3.3, with Fletcher's habits after it. Bradford counted double endings (lines with an extra unstressed syllable at the end, which Fletcher used more than Shakespeare) in 47 percent of lines after the break against 32 percent before; Walter Graham, who later edited the play, found 44 against 32 in 1916; Marina Tarlinskaja, a scholar of verse rhythm, found in 2017 Fletcher's enclitic phrases (unstressed little words leaning on the word before them) at 200 per 1,000 lines in 3.3 against 36 to 53 in the earlier scenes.<sup><a href="#src6">6</a>, <a href="#src7">7</a>, <a href="#src12">12</a></sup> Stephan Kukowski (1991), Jonathan Hope (1994), Brean Hammond's Arden Shakespeare edition (2010) and MacDonald P. Jackson (2012), all specialists in who wrote what in this period, put Fletcher in 3.3 to 5.2.<sup><a href="#src8">8</a>, <a href="#src9">9</a>, <a href="#src10">10</a></sup></p>
+<p>The case for Shakespeare has always rested mainly on the documents. Bradford: "the internal evidence is certainly not of great importance". E. H. C. Oliphant, who surveyed the Beaumont and Fletcher plays in 1927: "one has to be guided largely by the external evidence and the probabilities".<sup><a href="#src6">6</a>, <a href="#src11">11</a></sup> Jackson: "scarcely a line of Shakespeare's verse survives intact". The internal signals that have been claimed are the prose of 1.2 (Brian Nance, 2013), the Julio and Leonora verse in the same scene (Gary Taylor, 2016), the rate in Act 1 of "do" used where it adds nothing to the sense, as in "I do love" (Tarlinskaja), and a study of psychological word categories by two psychologists, Ryan Boyd and James Pennebaker (2015), that found Shakespeare the closest match in 39 of 45 tests on Acts 1 to 3.<sup><a href="#src13">13</a>, <a href="#src14">14</a></sup> Tarlinskaja herself found "few signs of Shakespearean verse style in Acts 1 and 2".</p>
+<p>The view in Hammond's edition and in the <i>New Oxford Shakespeare Authorship Companion</i> (2017), the volume in which that edition's editors set out who wrote what, is a text in three layers: a Jacobean original by Fletcher and Shakespeare, a rewriting of the 1660s associated with the company of William Davenant (who ran one of the two London theatres after 1660 and rewrote several of Shakespeare's plays), and Theobald's revision of 1727, with the later layers thickest in Act 2 and in 3.1 to 3.2.<sup><a href="#src12">12</a></sup> Against it, Tiffany Stern argued in 2011 that Theobald, a practised imitator, could have written the whole thing, and Naseem Alotaibi's 2016 doctoral thesis holds that Fletcher is the only author who can be recovered and that every claimed Shakespearean parallel dissolves once Theobald's own writings are searched.<sup><a href="#src15">15</a>, <a href="#src16">16</a></sup> Giuliano Pascucci (2017) found Massinger in 2.2 to 2.4 with a data-compression method that no one has repeated.<sup><a href="#src12">12</a></sup> Several of these scholars asked for one test that nobody ran: the first half of the play compared, scene by scene and with corpora of equal size, against Shakespeare, Fletcher, Massinger, Shirley and Theobald together. That test is below.</p>
+<p>Stern's article and Jackson's chapter were not read in full; both sit behind paywalls and no copy was obtained. Their arguments are taken from Alotaibi's thesis, which adopts Stern's position and cites her by page, from Taylor's 2016 reply, and from the <i>Authorship Companion</i>, all read in full. Where Stern or Jackson is answered below, it is the argument as those three sources report it.</p>
+</div>
+
+<h2 id="corpora">The 264 plays</h2>
+<div class="prose">
+<p>The corpus, the set of texts the play is compared against, has 264 texts and about 5.2 million words. All but 19 come from the Text Creation Partnership, a project that keyboards early printed books into searchable text, so they carry no scanning errors.<sup><a href="#src17">17</a></sup></p>
+</div>
+<div class="tbl"><table>
+<tr><th>Group</th><th class="n">Plays</th><th class="n">Words</th><th>Source and notes</th></tr>
+<tr><td>Shakespeare, sole-authored</td><td class="n">27</td><td class="n">605,000</td><td>First Folio, the collected edition of 1623. Collaborative and disputed plays kept out of the training set.</td></tr>
+<tr><td>Fletcher, sole-authored</td><td class="n">16</td><td class="n">332,000</td><td>Folios of 1647 and 1679 and quartos, following Cyrus Hoy's division of the Beaumont and Fletcher plays.</td></tr>
+<tr><td>Fletcher with others; Beaumont and Fletcher; Beaumont</td><td class="n">35</td><td class="n">690,000</td><td>Used as the crowd of other writers in the impostors test and never as candidates.</td></tr>
+<tr><td>Massinger</td><td class="n">11</td><td class="n">214,000</td><td>Quartos.</td></tr>
+<tr><td>Other Jacobean and Caroline dramatists</td><td class="n">79</td><td class="n">1,480,000</td><td>Shirley, Middleton, Ford, Webster, Jonson, Chapman, Marston, Dekker, Heywood, Rowley, Field, Brome, Davenant, Tourneur, Daborne.</td></tr>
+<tr><td>Henry VIII and The Two Noble Kinsmen</td><td class="n">2</td><td class="n">47,000</td><td>The validation plays: Shakespeare and Fletcher collaborations with an accepted scene division.</td></tr>
+<tr><td>Adaptations of known originals, 1661 to 1772</td><td class="n">45</td><td class="n">830,000</td><td>Davenant, Dryden, Tate, Otway, Shadwell, Durfey, Cibber, Farquhar, Granville, Hill, Sheffield and others, each paired with the play it rewrote.</td></tr>
+<tr><td>Plays of 1678 to 1741 by others</td><td class="n">28</td><td class="n">491,000</td><td>Rowe, Addison, Hill, Thomson, Congreve, Centlivre, Dennis, Manley, Philips, Savage, Lillo, both Cibbers, Dryden's <i>All for Love</i>. Labelled "18th-century" below.</td></tr>
+<tr><td>Theobald's own writing</td><td class="n">9</td><td class="n">93,000</td><td>Four original plays (<i>Persian Princess</i> 1715, <i>Perfidious Brother</i> 1715, <i>Orestes</i> 1731, <i>Happy Captive</i> 1741), four translations from Sophocles and Aristophanes, and <i>The Cave of Poverty</i> (1715), his poem "in imitation of Shakespeare". These come from scanned books, cleaned and filtered.</td></tr>
+<tr><td>Double Falsehood</td><td class="n">1</td><td class="n">14,900</td><td>ECCO-TCP transcription of the 1728 first edition; 38 gaps in the transcription filled from other copies. A second, scanned copy of the same edition is kept as a control for scanning errors.</td></tr>
+</table></div>
+<div class="prose">
+<p>Spellings were modernised with a two-tier lexicon and a map of early-modern forms, so that "hee", "onely" and "shou'd" do not date a text. Contractions that carry an author's habits ("'em", "'tis", "i'th'") were kept. Words that mark a period rather than an author ("hath", "doth", "ye", "thou") were removed from the main feature set and counted separately.</p>
+<p>The methods are the standard ones. Cosine Delta measures the distance between texts by how often each uses the 300 commonest words, and assigns a text to the nearest author's average profile. A calibrated linear support-vector machine, a standard statistical classifier, works on the same features and returns a probability for each author. The General Impostors test asks how often the candidate author beats a crowd of other dramatists across two hundred random halves of the feature set, and a score above 0.8 counts as verified. Sequences of four letters (character 4-grams) serve as a second feature set. Rare-phrase links, a method taken from Jackson, are three-word sequences found in exactly one author's corpus. The rates of small words such as "ye" and "hath" are counted separately. Every scene of <i>Double Falsehood</i> was scored as a unit (the 14 scenes run from 312 to 2,311 words), and sliding windows of 400 words then located the signal within scenes.</p>
+</div>
+
+<h2 id="validation">Testing the methods on known plays</h2>
+<div class="prose">
+<p>Each method was first tried on the two plays where Shakespeare's and Fletcher's shares are agreed, <i>Henry VIII</i> and <i>The Two Noble Kinsmen</i>, with both kept out of training. A three-class model (Shakespeare, Fletcher, 18th-century) recovers the accepted hand in 35 of 41 scenes. The six misses are scenes scholars themselves dispute or scenes that are very short: <i>Henry VIII</i> 2.3, 4.1, 4.2 and 5.3, and <i>Kinsmen</i> 1.5 (103 words) and 4.3. Only 3 of the 41 Jacobean scenes were mislabelled as 18th-century.</p>
+</div>
+<figure class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" role="img" aria-label="Validation on Henry VIII and The Two Noble Kinsmen" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjYWIyN2EwYy0wYTJjLTRjMTYtYmUzMS1jYTIxNWE1NzdmZGEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaN1+RaReRrBvfAJ5P/zdogwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMzIzYzJmZC0wNGVmLTRiYjAtOGUxMi0zYmI1YWI1ZjZiYzFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo8yWlDk2OCEvtxU9jYyxhggAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4Wy3AZCEV2S2l42D1QM3cUXaKwamGHwXd97fchos3TOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDuY8JCIFjhC7RbeVdz1Kz4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAhruiKvnTAdR7QFNZYd89Kb1exuCjuT2Y7/WhxxDPaHmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNhYjI3YTBjLTBhMmMtNGMxNi1iZTMxLWNhMjE1YTU3N2ZkYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI1YWUyMWQ2LTNlZTktNDlkOS04OGQ4LWQ0ZjVhY2ZjNjBmNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDhbLcBkIRXZLaXjYPVAzdxRdorBqYYfBd33t9yGizdM6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnrRt6CKUovJMXkI7i0SRY3uF6VlLtbvHRnzSjxLeaM+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHGXrhdsnWJTnLQ6ePHdQPQltoQ9Np0k2lmBZLdfSUch0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHhg+077IQZSyxbLhg0oqitJAsG+zv2Ex+tFAt/2qNHzOVN3/IsUcqc+sKNce2B4tGnF/w8sm1BJcO05ooyPrn0=</c2pa:manifest></metadata>
+<text x="90.0" y="14.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >Henry VIII (left) and The Two Noble Kinsmen (right): accepted hand above, model verdict below (SVM, Shakespeare / Fletcher / 18th-century)</text>
+<text x="82.0" y="54.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >accepted</text>
+<text x="82.0" y="80.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >model</text>
+<rect x="90" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="90" y="66" width="15" height="20" fill="#2a78d6" opacity="0.99"/>
+<text x="97.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 98 102)">1.1</text>
+<rect x="107" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="107" y="66" width="15" height="20" fill="#2a78d6" opacity="0.99"/>
+<text x="114.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 114 102)">1.2</text>
+<rect x="124" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="124" y="66" width="15" height="20" fill="#eb6834" opacity="0.94"/>
+<text x="131.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 132 102)">1.3</text>
+<rect x="141" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="141" y="66" width="15" height="20" fill="#eb6834" opacity="0.77"/>
+<text x="148.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 148 102)">1.4</text>
+<rect x="158" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="158" y="66" width="15" height="20" fill="#eb6834" opacity="0.94"/>
+<text x="165.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 166 102)">2.1</text>
+<rect x="175" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="175" y="66" width="15" height="20" fill="#eb6834" opacity="0.84"/>
+<text x="182.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 182 102)">2.2</text>
+<rect x="192" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="192" y="66" width="15" height="20" fill="#2a78d6" opacity="0.69"/>
+<text x="199.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 200 102)">2.3</text>
+<rect x="209" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="209" y="66" width="15" height="20" fill="#2a78d6" opacity="0.97"/>
+<text x="216.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 216 102)">2.4</text>
+<rect x="226" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="226" y="66" width="15" height="20" fill="#eb6834" opacity="0.95"/>
+<text x="233.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 234 102)">3.1</text>
+<rect x="243" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="243" y="66" width="15" height="20" fill="#8a8f9a" opacity="1.00"/>
+<text x="250.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 250 102)">3.2</text>
+<rect x="260" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="260" y="66" width="15" height="20" fill="#8a8f9a" opacity="1.00"/>
+<text x="267.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 268 102)">4.0</text>
+<rect x="277" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="277" y="66" width="15" height="20" fill="#8a8f9a" opacity="1.00"/>
+<text x="284.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 284 102)">4.1</text>
+<rect x="294" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="294" y="66" width="15" height="20" fill="#2a78d6" opacity="1.00"/>
+<text x="301.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 302 102)">4.2</text>
+<rect x="311" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="311" y="66" width="15" height="20" fill="#2a78d6" opacity="0.99"/>
+<text x="318.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 318 102)">5.1</text>
+<rect x="328" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="328" y="66" width="15" height="20" fill="#eb6834" opacity="0.89"/>
+<text x="335.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 336 102)">5.2</text>
+<rect x="345" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="345" y="66" width="15" height="20" fill="#eb6834" opacity="0.75"/>
+<text x="352.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 352 102)">5.3</text>
+<rect x="362" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="362" y="66" width="15" height="20" fill="#eb6834" opacity="0.97"/>
+<text x="369.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 370 102)">5.4</text>
+<rect x="397" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="397" y="66" width="15" height="20" fill="#2a78d6" opacity="0.98"/>
+<text x="404.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 404 102)">1.1</text>
+<rect x="414" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="414" y="66" width="15" height="20" fill="#2a78d6" opacity="0.99"/>
+<text x="421.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 422 102)">1.2</text>
+<rect x="431" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="431" y="66" width="15" height="20" fill="#2a78d6" opacity="0.78"/>
+<text x="438.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 438 102)">1.3</text>
+<rect x="448" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="448" y="66" width="15" height="20" fill="#2a78d6" opacity="0.98"/>
+<text x="455.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 456 102)">1.4</text>
+<rect x="465" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="465" y="66" width="15" height="20" fill="#eb6834" opacity="1.00"/>
+<text x="472.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 472 102)">1.5</text>
+<rect x="482" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="482" y="66" width="15" height="20" fill="#2a78d6" opacity="0.99"/>
+<text x="489.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 490 102)">2.1</text>
+<rect x="499" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="499" y="66" width="15" height="20" fill="#eb6834" opacity="0.95"/>
+<text x="506.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 506 102)">2.2</text>
+<rect x="516" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="516" y="66" width="15" height="20" fill="#eb6834" opacity="0.97"/>
+<text x="523.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 524 102)">2.3</text>
+<rect x="533" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="533" y="66" width="15" height="20" fill="#eb6834" opacity="0.74"/>
+<text x="540.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 540 102)">2.4</text>
+<rect x="550" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="550" y="66" width="15" height="20" fill="#eb6834" opacity="0.95"/>
+<text x="557.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 558 102)">2.5</text>
+<rect x="567" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="567" y="66" width="15" height="20" fill="#eb6834" opacity="0.89"/>
+<text x="574.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 574 102)">2.6</text>
+<rect x="584" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="584" y="66" width="15" height="20" fill="#2a78d6" opacity="0.80"/>
+<text x="591.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 592 102)">3.1</text>
+<rect x="601" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="601" y="66" width="15" height="20" fill="#2a78d6" opacity="0.98"/>
+<text x="608.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 608 102)">3.2</text>
+<rect x="618" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="618" y="66" width="15" height="20" fill="#eb6834" opacity="0.71"/>
+<text x="625.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 626 102)">3.3</text>
+<rect x="635" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="635" y="66" width="15" height="20" fill="#eb6834" opacity="0.95"/>
+<text x="642.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 642 102)">3.4</text>
+<rect x="652" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="652" y="66" width="15" height="20" fill="#eb6834" opacity="0.96"/>
+<text x="659.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 660 102)">3.5</text>
+<rect x="669" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="669" y="66" width="15" height="20" fill="#eb6834" opacity="0.98"/>
+<text x="676.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 676 102)">3.6</text>
+<rect x="686" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="686" y="66" width="15" height="20" fill="#eb6834" opacity="0.94"/>
+<text x="693.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 694 102)">4.1</text>
+<rect x="703" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="703" y="66" width="15" height="20" fill="#eb6834" opacity="0.78"/>
+<text x="710.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 710 102)">4.2</text>
+<rect x="720" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="720" y="66" width="15" height="20" fill="#2a78d6" opacity="1.00"/>
+<text x="727.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 728 102)">4.3</text>
+<rect x="737" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="737" y="66" width="15" height="20" fill="#2a78d6" opacity="0.98"/>
+<text x="744.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 744 102)">5.1</text>
+<rect x="754" y="40" width="15" height="20" fill="#eb6834"/>
+<rect x="754" y="66" width="15" height="20" fill="#eb6834" opacity="0.95"/>
+<text x="761.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 762 102)">5.2</text>
+<rect x="771" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="771" y="66" width="15" height="20" fill="#2a78d6" opacity="0.96"/>
+<text x="778.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 778 102)">5.3</text>
+<rect x="788" y="40" width="15" height="20" fill="#2a78d6"/>
+<rect x="788" y="66" width="15" height="20" fill="#2a78d6" opacity="0.90"/>
+<text x="795.5" y="102.0" font-size="8.5" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-60 796 102)">5.4</text>
+<text x="90.0" y="140.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >35 of 41 scenes agree with the accepted division (opacity of the lower row shows the model's probability for the accepted hand; disagreements are drawn solid).</text>
+</svg><figcaption>Figure 1. <i>Henry VIII</i> and <i>The Two Noble Kinsmen</i> scene by scene: the accepted hand above, the model's verdict below. Blue is Shakespeare, orange Fletcher, grey the 18th-century class; six of 41 scenes disagree. Made for this report from the Text Creation Partnership texts of the two plays and the three-class model described above.</figcaption></figure>
+<div class="prose">
+<p>The harder question is whether Shakespeare can be told from other Jacobean dramatists, not just from Fletcher. Holding out one play at a time across 160 plays and 17 author classes, on 800-word chunks, the support-vector machine recognises Shakespeare 84 percent of the time, Fletcher 85, Massinger 89, Shirley 74 and the 18th-century group 81. Other authors' chunks get mislabelled as Shakespeare at 20 percent for Jonson, 17 for Marston, 13 for Webster, 10 for Heywood and under 10 for everyone else. Theobald's own plays are recognised only 44 percent of the time, which matters later. A smaller model with only Shakespeare, Fletcher, Theobald and the 18th-century class labels scenes by Webster and Massinger "Shakespeare" most of the time, because Shakespeare is the only Jacobean non-Fletcher option it has. A "Shakespeare" verdict from that model means "Jacobean and not Fletcher" until a many-author model agrees.</p>
+<p>Length matters. On Shakespeare, Fletcher and Massinger alone, each play held out in turn, the support-vector machine is right 89 percent of the time on 300-word chunks, 94 on 500, 96 on 800, 98 on 1,200 and 99 on 2,000. Letter sequences do a little better at every length; Burrows's Delta, the older distance measure the field has used since 2002, is unreliable below 800 words. The scenes of <i>Double Falsehood</i> run from 312 words (2.4) to 2,311 (5.2). Four are under 400 words (1.1, 2.2, 2.4, 3.1) and three more under 700 (2.1, 1.3, 5.1), so verdicts on those carry the 300-to-500-word error rate and are weighted accordingly.</p>
+</div>
+
+<h2 id="survival">What rewriting destroys</h2>
+<div class="prose">
+<p>Forty-five adaptations of known originals were paired with the plays they rewrote. For every scene of an adaptation, the share of its four-word sequences that occur anywhere in the original measures how much of the original wording survives. Nahum Tate's <i>King Lear</i> (1681, the version with the happy ending) keeps 19 percent; Davenant's <i>Macbeth</i> (1674) 23; John Dryden's <i>Troilus and Cressida</i> (1679) 13; Colley Cibber's <i>Richard III</i> (1700) 9; the Restoration revivals of Fletcher's <i>Loyal Subject</i> and <i>Rule a Wife</i> 80 to 86. The 39 of them whose originals are plays by Shakespeare or Fletcher alone were then scored, each by a model trained without its original, and the score for the original author was plotted against the share of wording kept.</p>
+</div>
+<figure class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-label="Survival of the original author signal in adaptations by share of wording retained" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0M2M3ZWYwNC04Yjk2LTQ1MDMtYWE1Yy1jMmIxZTYxODhlOTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCk9WAVHSSR+nb/yzayexAEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjZWJmYWM1Ny04ZjYyLTRkZGYtYjI3MC1iNmViMTJlNWZiMjBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoXRoPNoHAyHjyb6v3rhmutwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggaFYT1HmhCS7Drc6mJ1rwiQmTXM947esiIIkSEGvEyuCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaODFNtx2M7wBJMr9SNo+zkoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDh/B99kjlpJ8pmx6Zj9Cw5yPOer7qi5Y8SFt8BWI0cXWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjoZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQzYzdlZjA0LThiOTYtNDUwMy1hYTVjLWMyYjFlNjE4OGU5MS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU4MjAwOWM1LTE2ZTMtNGRlMS1hYmIxLTgzNGE2OWRmYTcwMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBoVhPUeaEJLsOtzqYnWvCJCZNcz3jt6yIgiRIQa8TK4KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggV0odEbnFUhQ4XfO7eEQcuDWSafFGt7qqvWYs/hcsYTGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggUn80cUD+fv68SnKFdSv35ITUAMhoEya0HBrsd67d8ON0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQE1PdKvlbuYxIPup+gBGwwiJsO8ldqs5ebnWZTb0zQt+tz5yicyjCDxmiuAm7ycK78ltsBdYv3+/G492uDcTxoI=</c2pa:manifest></metadata>
+<line x1="70" y1="320.0" x2="600" y2="320.0" stroke="#d3d7de" stroke-width="1"/>
+<text x="62.0" y="324.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >0.0</text>
+<line x1="70" y1="262.0" x2="600" y2="262.0" stroke="#d3d7de" stroke-width="1"/>
+<text x="62.0" y="266.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >0.2</text>
+<line x1="70" y1="204.0" x2="600" y2="204.0" stroke="#d3d7de" stroke-width="1"/>
+<text x="62.0" y="208.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >0.4</text>
+<line x1="70" y1="146.0" x2="600" y2="146.0" stroke="#d3d7de" stroke-width="1"/>
+<text x="62.0" y="150.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >0.6</text>
+<line x1="70" y1="88.0" x2="600" y2="88.0" stroke="#d3d7de" stroke-width="1"/>
+<text x="62.0" y="92.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >0.8</text>
+<line x1="70" y1="30.0" x2="600" y2="30.0" stroke="#d3d7de" stroke-width="1"/>
+<text x="62.0" y="34.0" font-size="11" text-anchor="end" fill="#555a66" font-weight="normal" >1.0</text>
+<text x="114.2" y="338.0" font-size="11.5" text-anchor="middle" fill="#555a66" font-weight="normal" >0 to 5%</text>
+<text x="114.2" y="354.0" font-size="10.5" text-anchor="middle" fill="#555a66" font-weight="normal" >n=129</text>
+<text x="202.5" y="338.0" font-size="11.5" text-anchor="middle" fill="#555a66" font-weight="normal" >5 to 15%</text>
+<text x="202.5" y="354.0" font-size="10.5" text-anchor="middle" fill="#555a66" font-weight="normal" >n=86</text>
+<text x="290.8" y="338.0" font-size="11.5" text-anchor="middle" fill="#555a66" font-weight="normal" >15 to 30%</text>
+<text x="290.8" y="354.0" font-size="10.5" text-anchor="middle" fill="#555a66" font-weight="normal" >n=62</text>
+<text x="379.2" y="338.0" font-size="11.5" text-anchor="middle" fill="#555a66" font-weight="normal" >30 to 50%</text>
+<text x="379.2" y="354.0" font-size="10.5" text-anchor="middle" fill="#555a66" font-weight="normal" >n=29</text>
+<text x="467.5" y="338.0" font-size="11.5" text-anchor="middle" fill="#555a66" font-weight="normal" >50 to 70%</text>
+<text x="467.5" y="354.0" font-size="10.5" text-anchor="middle" fill="#555a66" font-weight="normal" >n=21</text>
+<text x="555.8" y="338.0" font-size="11.5" text-anchor="middle" fill="#555a66" font-weight="normal" >70 to 100%</text>
+<text x="555.8" y="354.0" font-size="10.5" text-anchor="middle" fill="#555a66" font-weight="normal" >n=88</text>
+<text x="335.0" y="372.0" font-size="12" text-anchor="middle" fill="#555a66" font-weight="normal" >share of the adaptation's word 4-grams found in the original play (scenes of 39 adaptations, 1661 to 1772)</text>
+<text x="16.0" y="175.0" font-size="12" text-anchor="middle" fill="#555a66" font-weight="normal" transform="rotate(-90 16 175)">score for the original author</text>
+<polyline points="114.2,278.5 202.5,261.7 290.8,182.2 379.2,139.9 467.5,87.7 555.8,59.0" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-dasharray=""/>
+<circle cx="114.2" cy="278.5" r="4" fill="#2a78d6"/>
+<text x="114.2" y="269.5" font-size="10.5" text-anchor="middle" fill="#2a78d6" font-weight="normal" >0.14</text>
+<circle cx="202.5" cy="261.7" r="4" fill="#2a78d6"/>
+<text x="202.5" y="252.7" font-size="10.5" text-anchor="middle" fill="#2a78d6" font-weight="normal" >0.20</text>
+<circle cx="290.8" cy="182.2" r="4" fill="#2a78d6"/>
+<text x="290.8" y="173.2" font-size="10.5" text-anchor="middle" fill="#2a78d6" font-weight="normal" >0.47</text>
+<circle cx="379.2" cy="139.9" r="4" fill="#2a78d6"/>
+<text x="379.2" y="153.9" font-size="10.5" text-anchor="middle" fill="#2a78d6" font-weight="normal" >0.62</text>
+<circle cx="467.5" cy="87.7" r="4" fill="#2a78d6"/>
+<text x="467.5" y="101.7" font-size="10.5" text-anchor="middle" fill="#2a78d6" font-weight="normal" >0.80</text>
+<circle cx="555.8" cy="59.0" r="4" fill="#2a78d6"/>
+<text x="555.8" y="50.0" font-size="10.5" text-anchor="middle" fill="#2a78d6" font-weight="normal" >0.90</text>
+<polyline points="114.2,211.5 202.5,187.2 290.8,142.8 379.2,142.5 467.5,95.8 555.8,91.8" fill="none" stroke="#eb6834" stroke-width="2.5" stroke-dasharray=""/>
+<circle cx="114.2" cy="211.5" r="4" fill="#eb6834"/>
+<text x="114.2" y="202.5" font-size="10.5" text-anchor="middle" fill="#eb6834" font-weight="normal" >0.37</text>
+<circle cx="202.5" cy="187.2" r="4" fill="#eb6834"/>
+<text x="202.5" y="178.2" font-size="10.5" text-anchor="middle" fill="#eb6834" font-weight="normal" >0.46</text>
+<circle cx="290.8" cy="142.8" r="4" fill="#eb6834"/>
+<text x="290.8" y="133.8" font-size="10.5" text-anchor="middle" fill="#eb6834" font-weight="normal" >0.61</text>
+<circle cx="379.2" cy="142.5" r="4" fill="#eb6834"/>
+<text x="379.2" y="133.5" font-size="10.5" text-anchor="middle" fill="#eb6834" font-weight="normal" >0.61</text>
+<circle cx="467.5" cy="95.8" r="4" fill="#eb6834"/>
+<text x="467.5" y="86.8" font-size="10.5" text-anchor="middle" fill="#eb6834" font-weight="normal" >0.77</text>
+<circle cx="555.8" cy="91.8" r="4" fill="#eb6834"/>
+<text x="555.8" y="82.8" font-size="10.5" text-anchor="middle" fill="#eb6834" font-weight="normal" >0.79</text>
+<polyline points="114.2,237.9 202.5,229.2 290.8,230.4 379.2,220.5 467.5,234.7 555.8,224.6" fill="none" stroke="#c9a227" stroke-width="2.5" stroke-dasharray="6,4"/>
+<circle cx="114.2" cy="237.9" r="4" fill="#c9a227"/>
+<text x="114.2" y="228.9" font-size="10.5" text-anchor="middle" fill="#c9a227" font-weight="normal" >0.28</text>
+<circle cx="202.5" cy="229.2" r="4" fill="#c9a227"/>
+<text x="202.5" y="220.2" font-size="10.5" text-anchor="middle" fill="#c9a227" font-weight="normal" >0.31</text>
+<circle cx="290.8" cy="230.4" r="4" fill="#c9a227"/>
+<text x="290.8" y="221.4" font-size="10.5" text-anchor="middle" fill="#c9a227" font-weight="normal" >0.31</text>
+<circle cx="379.2" cy="220.5" r="4" fill="#c9a227"/>
+<text x="379.2" y="211.5" font-size="10.5" text-anchor="middle" fill="#c9a227" font-weight="normal" >0.34</text>
+<circle cx="467.5" cy="234.7" r="4" fill="#c9a227"/>
+<text x="467.5" y="225.7" font-size="10.5" text-anchor="middle" fill="#c9a227" font-weight="normal" >0.29</text>
+<circle cx="555.8" cy="224.6" r="4" fill="#c9a227"/>
+<text x="555.8" y="215.6" font-size="10.5" text-anchor="middle" fill="#c9a227" font-weight="normal" >0.33</text>
+<text x="624.0" y="36.0" font-size="12" text-anchor="start" fill="#15171c" font-weight="bold" >Double Falsehood</text>
+<text x="624.0" y="52.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >scene: SVM / GI for the named author</text>
+<rect x="624" y="65" width="10" height="10" fill="#eb6834"/>
+<text x="640.0" y="74.0" font-size="11.5" text-anchor="start" fill="#15171c" font-weight="normal" >3.3 (Fletcher): 0.88 / 0.82</text>
+<rect x="624" y="85" width="10" height="10" fill="#eb6834"/>
+<text x="640.0" y="94.0" font-size="11.5" text-anchor="start" fill="#15171c" font-weight="normal" >4.1 (Fletcher): 0.25 / 0.84</text>
+<rect x="624" y="105" width="10" height="10" fill="#eb6834"/>
+<text x="640.0" y="114.0" font-size="11.5" text-anchor="start" fill="#15171c" font-weight="normal" >5.2 (Fletcher): 0.49 / 0.79</text>
+<rect x="624" y="125" width="10" height="10" fill="#2a78d6"/>
+<text x="640.0" y="134.0" font-size="11.5" text-anchor="start" fill="#15171c" font-weight="normal" >1.2 (Shakespeare): 0.56 / 0.53</text>
+<rect x="624" y="145" width="10" height="10" fill="#2a78d6"/>
+<text x="640.0" y="154.0" font-size="11.5" text-anchor="start" fill="#15171c" font-weight="normal" >3.2 (Shakespeare): 0.78 / 0.42</text>
+<rect x="624" y="165" width="10" height="10" fill="#2a78d6"/>
+<text x="640.0" y="174.0" font-size="11.5" text-anchor="start" fill="#15171c" font-weight="normal" >2.3 (Shakespeare): 0.38 / 0.62</text>
+<line x1="624" y1="216" x2="650" y2="216" stroke="#2a78d6" stroke-width="2.5" stroke-dasharray=""/>
+<text x="656.0" y="220.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >SVM P(original author)</text>
+<line x1="624" y1="234" x2="650" y2="234" stroke="#eb6834" stroke-width="2.5" stroke-dasharray=""/>
+<text x="656.0" y="238.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >GI(original author)</text>
+<line x1="624" y1="252" x2="650" y2="252" stroke="#c9a227" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="656.0" y="256.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >GI(wrong author)</text>
+</svg><figcaption>Figure 2. How much of the original author's signal survives rewriting. Blue: the probability the three-class model gives the original author. Orange: the impostors score for the original author. Dashed: the impostors score for the wrong Jacobean author, which stays near 0.3 at every level of retention. At the right, the scores <i>Double Falsehood</i>'s scenes give Fletcher (3.3, 4.1, 5.2) and Shakespeare (1.2, 3.2, 2.3). Made for this report from the Restoration and 18th-century adaptations in the corpus and the plays they rewrote.</figcaption></figure>
+<div class="prose">
+<p>The curve is steep. When an adaptation keeps under 5 percent of the original's four-word sequences, the model gives the original author a probability of 0.14 and the impostors test scores him 0.37, about what it scores the wrong author. At 15 to 30 percent the figures are 0.48 and 0.61. Above 70 percent, 0.90 and 0.79. So an impostors score of 0.8 for a scene of <i>Double Falsehood</i> means either that the scene keeps as much of its author as an adaptation that preserves most of his wording, or that its rewriter changed the words and left the author's grammar and rhythm alone.</p>
+<p>The same curve sets the floor. Six chunks of Nicholas Rowe's <i>Fair Penitent</i> (1703), an original tragedy written in imitation of old plays, score Shakespeare at 0.02 to 0.26 and Fletcher at 0.00 to 0.54. The 125 chunks of Theobald's nine texts score Fletcher at 0.01 to 0.63 (mean 0.19) and Shakespeare at 0.07 to 0.79 (mean 0.41). The Shakespeare figures are highest in his translations from Sophocles and Aristophanes, which average 0.49 and reach 0.79, so on this test a Shakespeare score alone does not separate Jacobean writing from 18th-century verse. That is what 18th-century writing scores when it contains no Jacobean text at all.</p>
+</div>
+
+<h2 id="measured">Double Falsehood scene by scene</h2>
+<figure class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 448" role="img" aria-label="Scene by scene attribution of Double Falsehood" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowMjk1NWMzMy0zYWYwLTQ1MWQtOGFmZS03NjY1OTI3NTdmM2YAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaD19+9XjMIcVOakihHkYcNEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3MmVjNWMxYS00NDYwLTQ1ZDgtYmNkZS1iNTUxYjJjY2U0YjZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoA0k/p9HA+Eez7c7G/jQxxQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggyqVMR4oQ1vCSntn+KSh+KnsA7u/CSSE6iW/Sydyp+PakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI5JEYEUELznm85m9FU5QdEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDIMvpbECUpjy3FBOyHaZunTAjsYEEj2nFk7Y6xU6/Ky2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjEZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjAyOTU1YzMzLTNhZjAtNDUxZC04YWZlLTc2NjU5Mjc1N2YzZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjM3MTliM2Y0LTRkOWYtNDE2Ni1hNmE2LTU0ZWI0NDExMjNkY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDKpUxHihDW8JKe2f4pKH4qewDu78JJITqJb9LJ3Kn49qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg3qciEQcRxDie0aH0Q17hWd9AEzfmxA/JWtBgkuBM6IWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFG/CXGXBCBeu74BMCgpzYLZxTtpgeGb2sHA4Ui8qFth0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQC7qBqW15OMZQFaQpusqZvM+iUPN5ypw/9FOijmWDP4U0ATzJHQe2wZGYayvg3Z/5wU7Uxelc40w3v6f64l3p7s=</c2pa:manifest></metadata>
+<text x="60.0" y="16.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >four-class SVM probability</text>
+<text x="390.0" y="16.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >impostors score</text>
+<text x="620.0" y="16.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >Fletcher-only phrases per 1000 words</text>
+<text x="60.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0.0</text>
+<text x="390.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0.0</text>
+<text x="210.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0.5</text>
+<text x="490.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0.5</text>
+<text x="360.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >1.0</text>
+<text x="590.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >1.0</text>
+<text x="620.0" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0</text>
+<text x="658.5" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >5</text>
+<text x="696.9" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >10</text>
+<text x="735.4" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >15</text>
+<text x="773.8" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >20</text>
+<text x="812.3" y="34.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >25</text>
+<text x="52.0" y="61.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >1.1</text>
+<rect x="60.0" y="49" width="0.0" height="17" fill="#eb6834"/>
+<rect x="60.0" y="49" width="114.0" height="17" fill="#2a78d6"/>
+<rect x="174.0" y="49" width="5.4" height="17" fill="#1baf7a"/>
+<rect x="179.4" y="49" width="180.3" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="58.0" x2="590" y2="58.0" stroke="#d3d7de"/>
+<line x1="550" y1="49" x2="550" y2="66" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="390.0" cy="58.0" r="5" fill="#eb6834"/>
+<circle cx="443.0" cy="58.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="51" width="20.7" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="645.7" y="62.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >2.7</text>
+<text x="52.0" y="85.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >1.2</text>
+<rect x="60.0" y="73" width="0.6" height="17" fill="#eb6834"/>
+<rect x="60.6" y="73" width="192.0" height="17" fill="#2a78d6"/>
+<rect x="252.6" y="73" width="3.0" height="17" fill="#1baf7a"/>
+<rect x="255.6" y="73" width="104.4" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="82.0" x2="590" y2="82.0" stroke="#d3d7de"/>
+<line x1="550" y1="73" x2="550" y2="90" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="414.0" cy="82.0" r="5" fill="#eb6834"/>
+<circle cx="495.0" cy="82.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="75" width="41.2" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="666.2" y="86.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >5.3</text>
+<text x="52.0" y="109.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >1.3</text>
+<rect x="60.0" y="97" width="1.2" height="17" fill="#eb6834"/>
+<rect x="61.2" y="97" width="254.4" height="17" fill="#2a78d6"/>
+<rect x="315.6" y="97" width="4.8" height="17" fill="#1baf7a"/>
+<rect x="320.4" y="97" width="39.6" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="106.0" x2="590" y2="106.0" stroke="#d3d7de"/>
+<line x1="550" y1="97" x2="550" y2="114" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="441.0" cy="106.0" r="5" fill="#eb6834"/>
+<circle cx="486.0" cy="106.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="99" width="72.9" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="697.9" y="110.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >9.5</text>
+<text x="52.0" y="133.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >2.1</text>
+<rect x="60.0" y="121" width="0.3" height="17" fill="#eb6834"/>
+<rect x="60.3" y="121" width="181.8" height="17" fill="#2a78d6"/>
+<rect x="242.1" y="121" width="16.5" height="17" fill="#1baf7a"/>
+<rect x="258.6" y="121" width="101.4" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="130.0" x2="590" y2="130.0" stroke="#d3d7de"/>
+<line x1="550" y1="121" x2="550" y2="138" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="441.0" cy="130.0" r="5" fill="#eb6834"/>
+<circle cx="455.0" cy="130.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="123" width="32.2" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="657.2" y="134.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >4.2</text>
+<text x="52.0" y="157.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >2.2</text>
+<rect x="60.0" y="145" width="1.8" height="17" fill="#eb6834"/>
+<rect x="61.8" y="145" width="68.4" height="17" fill="#2a78d6"/>
+<rect x="130.2" y="145" width="17.7" height="17" fill="#1baf7a"/>
+<rect x="147.9" y="145" width="212.1" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="154.0" x2="590" y2="154.0" stroke="#d3d7de"/>
+<line x1="550" y1="145" x2="550" y2="162" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="425.0" cy="154.0" r="5" fill="#eb6834"/>
+<circle cx="453.0" cy="154.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="147" width="65.0" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="690.0" y="158.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >8.4</text>
+<text x="52.0" y="181.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >2.3</text>
+<rect x="60.0" y="169" width="0.3" height="17" fill="#eb6834"/>
+<rect x="60.3" y="169" width="110.1" height="17" fill="#2a78d6"/>
+<rect x="170.4" y="169" width="1.5" height="17" fill="#1baf7a"/>
+<rect x="171.9" y="169" width="188.1" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="178.0" x2="590" y2="178.0" stroke="#d3d7de"/>
+<line x1="550" y1="169" x2="550" y2="186" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="436.0" cy="178.0" r="5" fill="#eb6834"/>
+<circle cx="514.0" cy="178.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="171" width="43.1" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="668.1" y="182.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >5.6</text>
+<text x="52.0" y="205.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >2.4</text>
+<rect x="60.0" y="193" width="1.8" height="17" fill="#eb6834"/>
+<rect x="61.8" y="193" width="28.5" height="17" fill="#2a78d6"/>
+<rect x="90.3" y="193" width="44.1" height="17" fill="#1baf7a"/>
+<rect x="134.4" y="193" width="225.6" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="202.0" x2="590" y2="202.0" stroke="#d3d7de"/>
+<line x1="550" y1="193" x2="550" y2="210" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="468.0" cy="202.0" r="5" fill="#eb6834"/>
+<circle cx="464.0" cy="202.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="195" width="197.2" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="822.2" y="206.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >25.6</text>
+<text x="52.0" y="229.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >3.1</text>
+<rect x="60.0" y="217" width="42.9" height="17" fill="#eb6834"/>
+<rect x="102.9" y="217" width="151.5" height="17" fill="#2a78d6"/>
+<rect x="254.4" y="217" width="9.0" height="17" fill="#1baf7a"/>
+<rect x="263.4" y="217" width="96.9" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="226.0" x2="590" y2="226.0" stroke="#d3d7de"/>
+<line x1="550" y1="217" x2="550" y2="234" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="497.0" cy="226.0" r="5" fill="#eb6834"/>
+<circle cx="478.0" cy="226.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="219" width="91.0" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="716.0" y="230.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >11.8</text>
+<text x="52.0" y="253.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >3.2</text>
+<rect x="60.0" y="241" width="11.1" height="17" fill="#eb6834"/>
+<rect x="71.1" y="241" width="253.8" height="17" fill="#2a78d6"/>
+<rect x="324.9" y="241" width="3.6" height="17" fill="#1baf7a"/>
+<rect x="328.5" y="241" width="31.5" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="250.0" x2="590" y2="250.0" stroke="#d3d7de"/>
+<line x1="550" y1="241" x2="550" y2="258" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="458.0" cy="250.0" r="5" fill="#eb6834"/>
+<circle cx="475.0" cy="250.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="243" width="38.7" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="663.7" y="254.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >5.0</text>
+<text x="52.0" y="277.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >3.3</text>
+<rect x="60.0" y="265" width="234.0" height="17" fill="#eb6834"/>
+<rect x="294.0" y="265" width="2.7" height="17" fill="#2a78d6"/>
+<rect x="296.7" y="265" width="0.3" height="17" fill="#1baf7a"/>
+<rect x="297.0" y="265" width="63.0" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="274.0" x2="590" y2="274.0" stroke="#d3d7de"/>
+<line x1="550" y1="265" x2="550" y2="282" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="555.0" cy="274.0" r="5" fill="#eb6834"/>
+<circle cx="450.0" cy="274.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="267" width="63.9" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="688.9" y="278.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >8.3</text>
+<text x="52.0" y="301.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >4.1</text>
+<rect x="60.0" y="289" width="70.2" height="17" fill="#eb6834"/>
+<rect x="130.2" y="289" width="69.6" height="17" fill="#2a78d6"/>
+<rect x="199.8" y="289" width="3.6" height="17" fill="#1baf7a"/>
+<rect x="203.4" y="289" width="156.6" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="298.0" x2="590" y2="298.0" stroke="#d3d7de"/>
+<line x1="550" y1="289" x2="550" y2="306" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="559.0" cy="298.0" r="5" fill="#eb6834"/>
+<circle cx="488.0" cy="298.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="291" width="110.8" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="735.8" y="302.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >14.4</text>
+<text x="52.0" y="325.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >4.2</text>
+<rect x="60.0" y="313" width="173.4" height="17" fill="#eb6834"/>
+<rect x="233.4" y="313" width="5.1" height="17" fill="#2a78d6"/>
+<rect x="238.5" y="313" width="4.2" height="17" fill="#1baf7a"/>
+<rect x="242.7" y="313" width="117.3" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="322.0" x2="590" y2="322.0" stroke="#d3d7de"/>
+<line x1="550" y1="313" x2="550" y2="330" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="489.0" cy="322.0" r="5" fill="#eb6834"/>
+<circle cx="474.0" cy="322.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="315" width="89.7" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="714.7" y="326.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >11.7</text>
+<text x="52.0" y="349.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >5.1</text>
+<rect x="60.0" y="337" width="227.1" height="17" fill="#eb6834"/>
+<rect x="287.1" y="337" width="6.3" height="17" fill="#2a78d6"/>
+<rect x="293.4" y="337" width="3.6" height="17" fill="#1baf7a"/>
+<rect x="297.0" y="337" width="62.7" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="346.0" x2="590" y2="346.0" stroke="#d3d7de"/>
+<line x1="550" y1="337" x2="550" y2="354" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="461.0" cy="346.0" r="5" fill="#eb6834"/>
+<circle cx="449.0" cy="346.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="339" width="91.2" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="716.2" y="350.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >11.8</text>
+<text x="52.0" y="373.0" font-size="12" text-anchor="end" fill="#15171c" font-weight="bold" >5.2</text>
+<rect x="60.0" y="361" width="108.9" height="17" fill="#eb6834"/>
+<rect x="168.9" y="361" width="73.5" height="17" fill="#2a78d6"/>
+<rect x="242.4" y="361" width="1.5" height="17" fill="#1baf7a"/>
+<rect x="243.9" y="361" width="116.4" height="17" fill="#8a8f9a"/>
+<line x1="390" y1="370.0" x2="590" y2="370.0" stroke="#d3d7de"/>
+<line x1="550" y1="361" x2="550" y2="378" stroke="#d3d7de" stroke-dasharray="2,3"/>
+<circle cx="548.0" cy="370.0" r="5" fill="#eb6834"/>
+<circle cx="495.0" cy="370.0" r="5" fill="#2a78d6"/>
+<rect x="620" y="363" width="109.8" height="13" fill="#eb6834" opacity="0.85"/>
+<text x="734.8" y="374.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >14.3</text>
+<line x1="722.2" y1="42" x2="722.2" y2="382" stroke="#eb6834" stroke-width="1.5" stroke-dasharray="4,3"/>
+<line x1="656.7" y1="42" x2="656.7" y2="382" stroke="#2a78d6" stroke-width="1.5" stroke-dasharray="4,3"/>
+<line x1="662.1" y1="42" x2="662.1" y2="382" stroke="#8a8f9a" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="60.0" y="396.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >Bars: Fletcher (orange), Shakespeare (blue), Theobald (green), 18th-century (grey). Dots: impostors score for Fletcher (orange) and Shakespeare (blue); dotted line: 0.8 threshold.</text>
+<text x="60.0" y="411.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >Right panel dashed lines: median of Fletcher scenes in Henry VIII and TNK (orange), of Shakespeare scenes (blue) and of 18th-century plays (grey).</text>
+</svg><figcaption>Figure 3. <i>Double Falsehood</i> scene by scene. Left: the four-class model's probabilities for Fletcher (orange), Shakespeare (blue), Theobald (green) and the 18th-century class (grey). Middle: impostors scores for Fletcher and Shakespeare. Right: phrases found only in Fletcher's corpus, per 1,000 words, against the medians of Fletcher's own scenes, Shakespeare's scenes and 18th-century plays. Made for this report from the 1728 text of the play (ECCO-TCP) scored by the models described above.</figcaption></figure>
+<div class="tbl"><table>
+<tr><th>Scene</th><th class="n">Words</th><th>Three-class classifier (Fletcher / Shakespeare / 18th-century)</th><th>Impostors (Shakespeare / Fletcher)</th><th class="n">Fletcher-only phrases per 1,000</th><th class="n">18th-century-only phrases per 1,000</th><th class="n">hath, doth</th><th>Reading</th></tr>
+<tr><td>1.1</td><td class="n">372</td><td>0.00 / 0.35 / 0.65</td><td>0.27 / 0.00</td><td class="n">2.7</td><td class="n">8.1</td><td class="n">2, 1</td><td>Jacobean substrate, rewritten</td></tr>
+<tr><td>1.2</td><td class="n">1,868</td><td>0.00 / 0.56 / 0.44</td><td>0.53 / 0.12</td><td class="n">5.3</td><td class="n">8.0</td><td class="n">2, 1</td><td>Not Fletcher; second half reads as <span class="sh">Shakespeare</span></td></tr>
+<tr><td>1.3</td><td class="n">633</td><td>0.00 / 0.92 / 0.08</td><td>0.48 / 0.26</td><td class="n">9.5</td><td class="n">7.9</td><td class="n">0, 1</td><td>Not Fletcher; Shakespeare-like</td></tr>
+<tr><td>2.1</td><td class="n">477</td><td>0.00 / 0.50 / 0.50</td><td>0.33 / 0.26</td><td class="n">4.2</td><td class="n">27.2</td><td class="n">0, 0</td><td><span class="r18">Heavily rewritten</span></td></tr>
+<tr><td>2.2</td><td class="n">355</td><td>0.00 / 0.09 / 0.91</td><td>0.32 / 0.17</td><td class="n">8.4</td><td class="n">22.5</td><td class="n">0, 0</td><td><span class="r18">Heavily rewritten</span></td></tr>
+<tr><td>2.3</td><td class="n">1,785</td><td>0.00 / 0.38 / 0.62</td><td>0.62 / 0.23</td><td class="n">5.6</td><td class="n">27.4</td><td class="n">0, 0</td><td><span class="r18">Heavily rewritten</span>; closing prose older</td></tr>
+<tr><td>2.4</td><td class="n">312</td><td>0.02 / 0.06 / 0.92</td><td>0.37 / 0.39</td><td class="n">25.6</td><td class="n">19.2</td><td class="n">0, 0</td><td><span class="r18">Heavily rewritten</span>; too short to read</td></tr>
+<tr><td>3.1</td><td class="n">338</td><td>0.06 / 0.62 / 0.32</td><td>0.44 / 0.54</td><td class="n">11.8</td><td class="n">11.8</td><td class="n">0, 0</td><td>Leans Fletcher; too short to read</td></tr>
+<tr><td>3.2</td><td class="n">1,392</td><td>0.04 / 0.78 / 0.18</td><td>0.42 / 0.34</td><td class="n">5.0</td><td class="n">10.8</td><td class="n">4, 0</td><td>Not Fletcher; <span class="sh">Shakespeare</span> on every model</td></tr>
+<tr><td>3.3</td><td class="n">1,323</td><td>0.88 / 0.01 / 0.11</td><td>0.30 / 0.82</td><td class="n">8.3</td><td class="n">9.8</td><td class="n">0, 0</td><td><span class="fl">Fletcher, verified</span></td></tr>
+<tr><td>4.1</td><td class="n">2,082</td><td>0.25 / 0.17 / 0.58</td><td>0.49 / 0.84</td><td class="n">14.4</td><td class="n">14.4</td><td class="n">2, 0</td><td><span class="fl">Fletcher, verified</span>; the mad scene rewritten</td></tr>
+<tr><td>4.2</td><td class="n">943</td><td>0.37 / 0.02 / 0.61</td><td>0.42 / 0.49</td><td class="n">11.7</td><td class="n">8.5</td><td class="n">0, 0</td><td><span class="fl">Fletcher, probable</span></td></tr>
+<tr><td>5.1</td><td class="n">675</td><td>0.72 / 0.01 / 0.26</td><td>0.29 / 0.35</td><td class="n">11.8</td><td class="n">17.8</td><td class="n">0, 0</td><td><span class="fl">Fletcher, probable</span></td></tr>
+<tr><td>5.2</td><td class="n">2,311</td><td>0.49 / 0.24 / 0.27</td><td>0.53 / 0.79</td><td class="n">14.3</td><td class="n">14.7</td><td class="n">0, 0</td><td><span class="fl">Fletcher, verified</span>; opening 400 words older and not his</td></tr>
+</table></div>
+<div class="prose">
+<h3>Fletcher</h3>
+<p>Scenes 3.3, 4.1 and 5.2 are Fletcher's on every method. The impostors test gives him 0.82, 0.84 and 0.79 there, against a maximum of 0.54 in Rowe, a maximum of 0.63 in the 125 chunks of Theobald's writing (two of them at 0.60 or more), and a mean of 0.37 for adaptations that keep under 5 percent of their original. The two-class Delta puts the whole run from 3.3 to 5.2 with Fletcher. The three-class support-vector machine gives him 0.88 in 3.3 and 0.72 in 5.1; in 4.1 and 5.2 it splits him with the 18th-century class, and the sliding windows show why. The first 800 words of 4.1, Julio's mad scene with the shepherds, read as 18th-century writing (0.86 to 0.96); the last 400 read Fletcher; 5.2 alternates. A sixteen-class model offering every Jacobean dramatist in the corpus still picks Fletcher for 3.3, 4.2, 5.1 and 5.2, and Shirley by a small margin for 4.1. A ten-class model with equal corpora (150 chunks per author) picks Fletcher for 3.3 (0.78), 4.1 (0.41) and 5.2 (0.31), with Shirley and Ben Jonson second.</p>
+<p>The phrase test agrees. Three-word sequences that occur in Fletcher's corpus and in no other author's appear in 3.3 to 5.2 at a median of 11.8 per 1,000 words. Fletcher's own scenes in <i>Henry VIII</i> and <i>Kinsmen</i> give 13.3; Shakespeare's scenes 4.8; the 18th-century plays 5.5; Theobald's plays 2.7. These are not quotations from any surviving Fletcher play. They are his habits of phrasing: "an aged oak", "a faithless woman", "have I travelled", "what ails this", "good may't do", "you do express".</p>
+<h3>The first half</h3>
+<p>Nothing from 1.1 to 3.2 is Fletcher's. Fletcher-only phrases run at 5.6 per 1,000 words there, the level of Shakespeare's own scenes, and the impostors test never gives him more than 0.34 except in the short 3.1. What the first half does show is an older layer under later writing. Scenes 1.2, 1.3 and 3.2 read as Shakespeare in the three-class model (0.56, 0.92, 0.78) and in the four-class model that adds Theobald (0.64, 0.85, 0.85). The impostors test gives Shakespeare 0.53 in 1.2, 0.48 in 1.3 and 0.62 in 2.3, above every chunk of Rowe (maximum 0.26) and at the level of adaptations that keep 5 to 30 percent of an original; but 37 of the 125 chunks of Theobald's own writing score 0.53 or more for Shakespeare and his translations reach 0.79, so these figures carry no weight in the verdict. The ten-class equal-corpus model, the one that tells Shakespeare from other Jacobeans 84 percent of the time, gives 3.2 to Shakespeare at 0.66; Shakespeare's own scenes in <i>Henry VIII</i> and <i>Kinsmen</i> score between 0.25 and 0.70 in that model. On 1.2 and 1.3 it is undecided between the 18th-century class, Jonson and Shakespeare.</p>
+<p>The windows show where the older writing sits. In 1.2 the first 800 words read as 18th-century (0.84 to 0.90); the 600 words from Julio's "Sir, I will know his Mind, e'er I taste Sleep" through the prose of Leonora and Don Bernard read as Shakespeare at 0.97 to 0.98. That is the passage Nance and Taylor singled out, and the scene Oliphant thought Shakespeare's "except ten speeches". In 3.2 Leonora's opening soliloquy reads 0.90 and the exchange from "I dare not tell thee of my Purpose, Julio" 0.94; Kukowski found a Shakespeare residue at 3.2.39 to 43. In 5.2 the first 400 words, from "Our Sorrows cannot help us, Gentlemen", read 0.94 for Shakespeare, and Oliphant wrote in 1927 that the opening of 5.2 was "perhaps" Shakespeare's, with Fletcher taking over at "Thou art a right one". In 2.3 the long Henriquez, Leonora and Don Bernard section reads as 18th-century (0.84 to 1.00) and the closing prose between Camillo and Don Bernard reads older (0.71 to 0.78).</p>
+<p>Act 2 is where the later layers are thickest. Phrases found only in the 18th-century plays occur at 22 to 27 per 1,000 words in 2.1, 2.2 and 2.3, against 8 to 15 in most other scenes, and the three-class model gives the 18th-century class 0.50 to 0.92 across the act. Oliphant, Richard Proudfoot (the Arden series' general editor) and Taylor all placed Theobald's hand most densely in Act 2; Tarlinskaja and Pascucci both placed the Davenant-era layer there and in 3.1 to 3.2. The numbers agree with the placement and cannot say which of the two later hands did the work.</p>
+</div>
+
+<h2 id="theobald">Theobald's own writing</h2>
+<div class="prose">
+<p>A forger's own writing is the control Stern and Alotaibi asked for. Theobald's four original plays, his four Greek translations and <i>The Cave of Poverty</i> were added from scanned books. Two checks guard against scanning noise. A scanned copy of the 1728 <i>Double Falsehood</i>, put through the same cleaning, keeps 62 percent of the transcription's four-word sequences and is classified scene for scene like the transcription; and Theobald's texts are never scored on features that scanning damages.</p>
+<p>The tests give three results. First, Theobald is barely distinguishable from other 18th-century dramatists at scene length. When each of his plays is held out and scored by a model trained on the rest, 35 of his 47 chunks are labelled 18th-century and 9 Theobald; the mean probability for his own class runs from 0.07 (<i>Perfidious Brother</i>) to 0.46 (<i>Persian Princess</i>). So the low Theobald probabilities the four-class model gives <i>Double Falsehood</i> (0.01 to 0.15 in every scene) mean little on their own. The case against forgery has to rest on things he cannot be shown to have produced.</p>
+<p>Second, he cannot be shown to have produced Fletcher's fingerprint at the strength of the verified scenes. On the impostors test the 125 chunks of his nine texts give Fletcher a mean of 0.19 and a maximum of 0.63, in one chunk of <i>The Persian Princess</i>; sixteen chunks reach 0.38 and two reach 0.60. Scenes 3.3, 4.1 and 5.2 score 0.79 to 0.84, above every one of them; scenes 4.2 (0.49) and 5.1 (0.35) fall within his range on this test. His plays carry Fletcher-only phrases at a median of 2.7 per 1,000 words, two of his 55 chunks reaching 8 and none passing 10.3; the later scenes of <i>Double Falsehood</i> run at a median of 11.8, with 4.1 and 5.2 above 14. A forger imitating Fletcher would also have been working against his own claim: Theobald's preface of 1728 insists that the play is Shakespeare's and dismisses the objection that it reads like Fletcher.</p>
+<p>Third, the old forms point the same way. Theobald's four plays, about 32,000 words, contain "hath" twice and "doth" never. His four translations, 56,000 words, contain "hath" once. <i>The Cave of Poverty</i>, 5,800 words written "in imitation of Shakespeare", contains one "doth" and no "hath". That is four instances in 93,000 words, or 0.04 per 1,000. <i>Double Falsehood</i> has ten "hath" and three "doth" in 14,900 words, 0.87 per 1,000, all in scenes 1.1, 1.2, 1.3, 3.2 and 4.1. The 28 plays of 1678 to 1741 by other dramatists have 45 instances in 491,000 words, 35 of them in an adaptation of <i>Henry VI</i> by Theophilus Cibber, Colley's son; the other 27 plays run at 0.02 per 1,000. Shakespeare's plays average 2.4 and 1.1 per 1,000 for the two forms, Fletcher's 0.3 and 0.1, the 45 adaptations of old plays 0.33 and 0.15. Against Theobald's ordinary writing the difference is decisive: at his rate the play would be expected to hold fewer than one instance, and the chance of thirteen, under the standard model for rare events at a steady rate, is below one in a billion. Against his one deliberate imitation of Shakespeare it settles nothing, because one instance in 5,800 words gives a 95 percent interval from 0.004 to 0.96 per 1,000, and the play's rate sits inside it. So the old forms show that the first half of <i>Double Falsehood</i> is not Theobald's ordinary writing, and they put it with the adaptations of old plays rather than with the new plays of its decade. Whether he could have produced them while imitating an old play cannot be ruled out from one short poem.</p>
+<p>Two passages can be checked against his own statements. Farmer records that the only lines Theobald ever claimed as his own were the five beginning "Strike up, my Masters" in 1.3; that scene reads Shakespeare at 0.79 to 0.80 in every 400-word window, and five lines in 633 words would not move it. The one line he said in print was "in Shakespeare's old Copy", "None but it self can be its Parallel", is in 3.1, a 338-word scene that reads Jacobean rather than 18th-century (0.62 against 0.32) but is too short to place. The measurements contradict neither statement and confirm neither.</p>
+</div>
+
+<h2 id="markers">Small words</h2>
+<div class="tbl"><table>
+<tr><th>Per 1,000 words</th><th class="n">ye</th><th class="n">'em</th><th class="n">hath</th><th class="n">doth</th><th class="n">sir</th><th class="n">double endings (estimated)</th></tr>
+<tr><td>Shakespeare, 27 plays</td><td class="n">0.29</td><td class="n">0.12</td><td class="n">2.36</td><td class="n">1.14</td><td class="n">3.4</td><td class="n">0.28 (late plays 0.37 to 0.40)</td></tr>
+<tr><td>Fletcher, 16 plays</td><td class="n">13.35</td><td class="n">2.16</td><td class="n">0.28</td><td class="n">0.13</td><td class="n">7.2</td><td class="n">0.68</td></tr>
+<tr><td>Massinger, 11 plays</td><td class="n">0.03</td><td class="n">0.85</td><td class="n">1.29</td><td class="n">0.01</td><td class="n">3.7</td><td class="n">0.50</td></tr>
+<tr><td>Other Jacobean, 79 plays</td><td class="n">0.59</td><td class="n">0.52</td><td class="n">1.36</td><td class="n">0.50</td><td class="n">5.1</td><td class="n">0.36</td></tr>
+<tr><td>Adaptations, 45</td><td class="n">2.61</td><td class="n">1.78</td><td class="n">0.31</td><td class="n">0.14</td><td class="n">4.8</td><td class="n">0.43</td></tr>
+<tr><td>18th-century plays, 28</td><td class="n">0.70</td><td class="n">0.79</td><td class="n">0.05</td><td class="n">0.03</td><td class="n">2.7</td><td class="n">0.34</td></tr>
+<tr><td>Theobald's plays, 4</td><td class="n">0.51</td><td class="n">0.65</td><td class="n">0.05</td><td class="n">0.00</td><td class="n">0.7</td><td class="n">0.22</td></tr>
+<tr><td><b>Double Falsehood</b></td><td class="n"><b>0.00</b></td><td class="n"><b>0.67</b></td><td class="n"><b>0.67</b></td><td class="n"><b>0.20</b></td><td class="n"><b>5.5</b></td><td class="n"><b>0.43</b></td></tr>
+</table></div>
+<div class="prose">
+<p>Fletcher's best-known habit, "ye" for "you", is missing: there is no "ye" in the 14,900 words of <i>Double Falsehood</i>. Of the nineteen adaptations of Fletcher plays in the corpus, sixteen keep it at 1.2 to 15 per 1,000 words and three keep almost none: Elkanah Settle's <i>Philaster</i> (1695, 0.2 per 1,000), Colley Cibber's <i>Love Makes a Man</i> (1701, from two Fletcher plays, 0.1) and George Farquhar's <i>Inconstant</i> (1702, 1.0). Rates of 1 to 3 per 1,000 are ordinary in plays of the period, so "ye" marks Fletcher only where most of his wording survives. Several original texts of the period have none at all, among them Cibber's <i>Non-Juror</i> (26,000 words) and John Crowne's two <i>Henry VI</i> plays; Theobald's own plays have it at 0.6 per 1,000 and his <i>Cave of Poverty</i> not at all. So the absence shows that whoever prepared this text modernised it word by word, as the adapters of the 1700s did, and says nothing about Theobald either way. The general shape stands: Fletcher's grammar and rhythm survive in the second half at a strength that only lightly rewritten adaptations show, while his exact wording hardly survives at all. That pattern is consistent with Theobald's description of his own part in the play as that of "an Editor, not an Author".</p>
+<p>The stand-in used here for double endings (the share of verse lines a syllable counter reads as eleven or more syllables) puts <i>Double Falsehood</i> at 0.43, between late Shakespeare and Fletcher, and does not separate the two halves (0.22 to 0.57 before 3.3, 0.38 to 0.48 after). The counts Bradford, Graham and Tarlinskaja made by hand, with real scansion, remain the evidence on this point; the estimate neither confirms nor contradicts them.</p>
+</div>
+
+<h2 id="phrases">Phrases</h2>
+<figure class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" role="img" aria-label="Density of phrases unique to Fletcher and to Shakespeare by group" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphMjc3MDNlZi1jM2FmLTRlZGMtOTA4Ny0xYmZhNmRhZmVhNjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFc5v844/MvVIVR3seIqTe8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3NDU5MjBlMC04YTk1LTQ4Y2MtYTQ4Ni05MzA0N2JjODNmNTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo8qLD253Tk1y9MSazeYMJkAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggU3HU2S2aWd6gLBXvh8I7CDMJ3bydGbmB0nghMYZy3hOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLRgA27kBsguMqbPu5VA9BwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA+84fYaIoj4ypDc0Ac+zj9vR5y0iXNv6/x3OGEX3C222RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjXZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmEyNzcwM2VmLWMzYWYtNGVkYy05MDg3LTFiZmE2ZGFmZWE2MS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmExNDhmYWIwLTIzYmYtNDVhMS1hMTgzLWE5MDViMmYzZjhmNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBTcdTZLZpZ3qAsFe+HwjsIMwndvJ0ZuYHSeCExhnLeE6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggwvNOvj7mHW4e4L/Fy3gawgz92hrxmKAh9zIbgYnlh7OiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggvbEI0QUWl5ZkVVcusOTY1mGAVbYda0CaOG/ncxJq5fd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOfnlfoEfmA2kuOSDm7rm6fdfdVaRHx+xK/rpen0G++p0y2jcXAye6jOpYqUokcI+ygK5eNjdE1qo/lUvraP2sk=</c2pa:manifest></metadata>
+<text x="330.0" y="16.0" font-size="11.5" text-anchor="start" fill="#555a66" font-weight="normal" >phrases unique to Fletcher (orange) and to Shakespeare (blue), median per 1000 words of scene</text>
+<text x="330.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0</text>
+<text x="600.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >0</text>
+<text x="405.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >5</text>
+<text x="675.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >5</text>
+<text x="480.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >10</text>
+<text x="750.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >10</text>
+<text x="555.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >15</text>
+<text x="825.0" y="30.0" font-size="10" text-anchor="middle" fill="#555a66" font-weight="normal" >15</text>
+<text x="322.0" y="56.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >Fletcher scenes, Henry VIII and TNK (n=23)</text>
+<rect x="330" y="44" width="199.2" height="17" fill="#eb6834"/>
+<text x="533.2" y="56.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >13.3</text>
+<rect x="600" y="44" width="188.6" height="17" fill="#2a78d6"/>
+<text x="792.5" y="56.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >12.6</text>
+<text x="322.0" y="82.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >Shakespeare scenes, Henry VIII and TNK (n=16)</text>
+<rect x="330" y="70" width="71.5" height="17" fill="#eb6834"/>
+<text x="405.6" y="82.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >4.8</text>
+<rect x="600" y="70" width="186.8" height="17" fill="#2a78d6"/>
+<text x="790.8" y="82.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >12.4</text>
+<text x="322.0" y="108.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >Massinger, Shirley, Ford, Webster, Middleton (n=84)</text>
+<rect x="330" y="96" width="99.9" height="17" fill="#eb6834"/>
+<text x="433.9" y="108.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >6.7</text>
+<rect x="600" y="96" width="170.9" height="17" fill="#2a78d6"/>
+<text x="774.9" y="108.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >11.4</text>
+<text x="322.0" y="134.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >18th-century plays (Rowe, Hill, Thomson, Savage, Dennis) (n=60)</text>
+<rect x="330" y="122" width="82.0" height="17" fill="#eb6834"/>
+<text x="416.1" y="134.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >5.5</text>
+<rect x="600" y="122" width="133.5" height="17" fill="#2a78d6"/>
+<text x="737.5" y="134.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >8.9</text>
+<text x="322.0" y="160.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >Theobald's own plays and poem (OCR) (n=55)</text>
+<rect x="330" y="148" width="40.5" height="17" fill="#eb6834"/>
+<text x="374.5" y="160.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >2.7</text>
+<rect x="600" y="148" width="100.2" height="17" fill="#2a78d6"/>
+<text x="704.2" y="160.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >6.7</text>
+<text x="322.0" y="186.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >Double Falsehood 1.1 to 3.2 (n=9)</text>
+<rect x="330" y="174" width="84.0" height="17" fill="#eb6834"/>
+<text x="418.0" y="186.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >5.6</text>
+<rect x="600" y="174" width="220.2" height="17" fill="#2a78d6"/>
+<text x="824.2" y="186.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >14.7</text>
+<text x="322.0" y="212.0" font-size="11.5" text-anchor="end" fill="#15171c" font-weight="normal" >Double Falsehood 3.3 to 5.2 (n=5)</text>
+<rect x="330" y="200" width="177.8" height="17" fill="#eb6834"/>
+<text x="511.8" y="212.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >11.8</text>
+<rect x="600" y="200" width="180.2" height="17" fill="#2a78d6"/>
+<text x="784.1" y="212.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >12.0</text>
+<text x="30.0" y="254.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >Word 3-grams found in exactly one author's corpus, per 1000 words of scene; each adaptation's original play is excluded from the index.</text>
+<text x="30.0" y="269.0" font-size="10.5" text-anchor="start" fill="#555a66" font-weight="normal" >Fletcher-only phrases separate his scenes from everyone else's. Shakespeare-only phrases do not separate his scenes from other Jacobean writing.</text>
+</svg><figcaption>Figure 4. Density of phrases unique to Fletcher and unique to Shakespeare in known groups and in the two halves of <i>Double Falsehood</i>. The original of each adaptation was removed from the index so that quoted lines could not inflate the count. Made for this report from word 3-gram counts over the 264-play corpus.</figcaption></figure>
+<div class="prose">
+<p>The rare-phrase test was calibrated before it was trusted, and half of it failed. Phrases unique to Fletcher separate his scenes from everyone else's: 13.3 per 1,000 words in his scenes of the two collaborations, 4.8 in Shakespeare's, 6.7 in Massinger, Shirley, Ford, Webster and Middleton, 5.5 in the 18th-century plays. Phrases unique to Shakespeare do not: his own scenes give 12.4, Fletcher's scenes 12.6, the other Jacobeans 11.4. Shakespeare's corpus is the largest, and the dramatists who wrote after him absorbed much of his phrasing, so a "Shakespeare link" in a Jacobean or later play is evidence of the period rather than of Shakespeare's hand. The count of Shakespeare links in <i>Double Falsehood</i> 1.2 (32 against 10 for Fletcher), which looks decisive on its own, is what any Jacobean scene by anyone produces.</p>
+<p>What the Shakespeare-phrase density does measure is how Jacobean a text is. The first half of <i>Double Falsehood</i> gives 14.7 per 1,000 words and the second half 12.0, against 8.9 for the 18th-century plays and 6.7 for Theobald's own (his chunks range up to 15.6, with five of 55 at 12 or more, and scanning noise depresses his figure by about a fifth, which does not close the gap at the median). On this measure the whole play, Act 2 included, is built on Jacobean phrasing at the density of Jacobean plays.</p>
+</div>
+
+<h2 id="others">Massinger, Shirley and the translations</h2>
+<div class="prose">
+<p>Malone proposed Massinger in 1780 and Pascucci found him in 2.2 to 2.4 in 2017. In the ten-class equal-corpus model Massinger's probability never passes 0.06 in any scene, and his average profile is never the nearest one, though the same model recognises his own scenes 89 percent of the time. Farmer proposed Shirley in 1767. Shirley wins no scene outright; his best is 2.2 (355 words) at 0.28 with the 18th-century class at 0.24. The four-class model labels Shirley's own scenes "18th-century" four times in five, so a Shirley original would have been hard to see in Act 2. In the scenes strong enough to read, 3.3 to 5.2, Shirley loses to Fletcher on every model except the sixteen-class Delta for 4.1.</p>
+<p>The play's source is the Cardenio story in Part 1 of <i>Don Quixote</i>, chapters 23 to 36. Taylor and Wagschal argue that <i>Double Falsehood</i> follows Thomas Shelton's translation of 1612 in its wording, a translation Theobald is not known to have owned or used, and that this ties the play to the Jacobean period. A phrase count could not confirm this. Word 3-grams of <i>Double Falsehood</i> that occur in no play in the corpus were matched against the Cardenio chapters of Shelton (1612, in the 1652 edition) and of the two later translators, John Phillips (1687) and Peter Motteux (1700). Shelton gives 16 matches, Motteux 13, Phillips 5; per 1,000 words of translation, 0.21, 0.18 and 0.07. Against the other fourteen-chapter windows of Shelton's Part 1, the Cardenio chapters rank 23rd of 39 on 3-grams and 6th of 39 on 4-grams. Nothing here favours Shelton over Motteux, and nothing shows the play's wording gathering around its source chapters. Taylor and Wagschal's argument rests on particular parallels that a crude n-gram count cannot weigh, so this is a null result and refutes nothing.</p>
+</div>
+
+<h2 id="weighing">Where the percentages come from</h2>
+<div class="prose">
+<p>The percentages in the verdict are judgments and were not produced by a model. They were reached in this order.</p>
+<p><b>Forgery.</b> For Theobald to have written the play alone, he would have had to produce Fletcher's grammar and rhythm in five scenes at a strength none of the 125 chunks of his own writing reaches on the impostors test (0.79 to 0.84 against a maximum of 0.63 and a mean of 0.19), Fletcher's phrasing at four times the median of his own chunks (two of his 55 chunks reach the play's level), old forms at twenty times his usual rate (one short poem of his overlaps the play's rate), and Jacobean phrasing at twice his median (five of his 55 chunks reach the play's level). The impostors result carries most of the weight. The phrase and old-form counts support it but do not settle it on their own, since a few of his chunks, or one short poem, overlap the play. The absence of "ye" counts for nothing. On those weights, Theobald-alone gets about 5 percent. Two of his 125 chunks come within 0.2 of the lowest verified scene, so the impostors test leaves him more room than any single play of his would suggest, and the share also allows for the chance that the comparison corpora are still less representative of his range than they seem; drop the old forms and the phrase counts entirely and it would be about 8, with the other shares moving by a point or two. The weaker version, that Theobald worked from a Restoration manuscript of unknown parentage rather than a Jacobean one, is not a separate hypothesis about the original play and is covered by the others.</p>
+<p><b>Fletcher.</b> Fletcher's presence in 3.3, 4.1 and 5.2 reaches the level the field treats as verification, on two feature sets, three classifiers, the impostors test and the phrase test, each calibrated on his own scenes elsewhere. The probability that a Fletcher play underlies the second half is above 95 percent.</p>
+<p><b>Shakespeare.</b> The first half holds a Jacobean layer that is not Fletcher's. Three passages read as Shakespeare on every model, including the equal-corpus model that separates him from other Jacobeans four times in five, and none reads as Massinger or Shirley. Against that, the four-class model calls Webster and Massinger "Shakespeare" too, the equal-corpus model is undecided on 1.2 and 1.3, and Beaumont, Field and Davenant could not be tested as candidates at scene length. The text favours Shakespeare over another Jacobean partner by a modest factor, perhaps two to one. The documents supply the rest: a King's Men <i>Cardenio</i> in the season of two other Shakespeare and Fletcher collaborations, and a bookseller's double attribution forty years later. On the documents alone, before the text is weighed, a Fletcher and Shakespeare original would stand at about 60 percent, and the factor from the text raises that to the 64 in the verdict.</p>
+<p><b>Sensitivity.</b> Discount Moseley's entry entirely, as Stern does, and the starting figure from the documents falls to about 40 percent and the verdict to about 50. Treat the Shakespeare readings in 1.2, 1.3 and 3.2 as what any Jacobean non-Fletcher scene would produce, and the factor is one and the verdict about 55. Accept Taylor and Wagschal's Shelton-1612 argument as proven, which the phrase count above could neither confirm nor refute, and it rises to about 75. The impostors scores for Shakespeare in 1.2 and 2.3 (0.53 and 0.62) add nothing, because 37 of the 125 chunks of Theobald's own writing score 0.53 or more for Shakespeare and his translations reach 0.79. The evidence supports a range of 50 to 75 percent; 64 is the reading of it here.</p>
+</div>
+
+<h2 id="counter">The case against</h2>
+<div class="prose">
+<p><b>Stern 2011.</b> Her argument, as Alotaibi and Taylor report it: the manuscripts are unwitnessed, Theobald's statements about them inconsistent, his career one of imitation and adaptation, and the "Shakespearean" parallels the product of his immersion in Shakespeare. The first three points hold, and they are why the documents alone give no more than about 60 percent. The fourth is answered by measurement. Theobald's immersion in Shakespeare did not lead him to write "hath" or "doth" more than four times in 93,000 words, to reach Jacobean phrase density at the median, or to produce Fletcher's fingerprint at the strength of the verified scenes anywhere in the 93,000 words of his own writing that were tested. What would revive the forgery case is a text by Theobald, or by any 18th-century author, that scores 0.8 for Fletcher on the impostors test. None of the 40 18th-century texts in this corpus does.</p>
+<p><b>Alotaibi 2016.</b> Fletcher is the only recoverable author; the Shakespeare parallels dissolve on a full check of Theobald. Half of this holds up: Shakespeare cannot be verified in any scene, and the Shakespeare-phrase test that seemed to support him does not discriminate. The other half does not: the first half of the play holds a Jacobean layer that is not Fletcher's, and the one model built to tell Shakespeare from other Jacobeans reads 3.2 as his. What would move the answer toward Alotaibi is a scene-level model in which Beaumont, Field or Davenant beats Shakespeare on 1.2 and 3.2 with corpora of equal size.</p>
+<p><b>Farmer 1767 and Pascucci 2017.</b> These are the cases for Shirley and for Massinger. Both are tested here at scene length against equal corpora for the first time, and neither appears. Pascucci's Massinger result concerns 2.2 to 2.4, the most rewritten act, where nothing readable survives; his "mostly Shakespeare" 5.2 is partly matched by the Shakespeare-like reading of the scene's first 400 words.</p>
+<p><b>Boyd and Pennebaker 2015.</b> Their study found Shakespeare closest in 39 of 45 act-level tests on Acts 1 to 3. Acts are too coarse to see the layering that scenes and windows show, and their Shakespeare signal in Act 2 does not reappear here at any resolution.</p>
+<p><b>Taylor 2016 and the New Oxford Shakespeare.</b> This is the standard view, and it holds on Fletcher, on the placement of the later layers, and on the Julio and Leonora passage of 1.2 and the opening of 5.2. It does not hold on the strength of the Shakespeare case: the passage-level Shakespeare attributions in Taylor's appendices rest on unique-phrase links of the kind shown above to be evidence of the period rather than of Shakespeare's hand.</p>
+</div>
+
+<h2 id="new">What is new here</h2>
+<div class="prose">
+<p>None of this is new documentary evidence. Each item is a new measurement on texts that were already available, or a new reading of published results. The measurements were checked on plays of known authorship and on two 18th-century plays that contain no Jacobean writing, and nobody has yet rerun them.</p>
+<ul>
+<li><b>The calibration.</b> None of the studies read for this page measured how much of an author's signal survives adaptation (Jackson 2012 was not read in full, so the claim stops there). The survival curves from 39 adaptations of known originals (Figure 2) give every score above a meaning: what 0.14, 0.48 or 0.90 corresponds to in retained wording, and what an 18th-century play scores when it holds no Jacobean writing at all.</li>
+<li><b>The equal-corpus test at scene length.</b> The play was tested against Shakespeare, Fletcher, Massinger, Shirley, Middleton, Ford, Webster, Jonson, the 18th-century group and Theobald together, with the check made by holding out one play at a time. Proudfoot and Jackson asked for this test, and the <i>Authorship Companion</i> lists it as the gap. It confirms Fletcher, finds no Massinger or Shirley, and makes Shakespeare the best fit for 3.2 while leaving 1.2 and 1.3 undecided.</li>
+<li><b>The check of Theobald's own writing.</b> His four plays, four translations and poem were tested together, with a scanning control. His writing is barely distinguishable from other 18th-century tragedy at scene length, contains four instances of "hath" and "doth" in 93,000 words (one of them the "doth" in <i>The Cave of Poverty</i>), and on the impostors test its 125 chunks give Fletcher a mean of 0.19 and a maximum of 0.63, against 0.79 to 0.84 in the three verified scenes. Taylor's <i>Cave of Poverty</i> test was the forerunner of this check; Alotaibi asked for the full corpus.</li>
+<li><b>Shakespeare-unique phrase links do not discriminate</b> at this scale: Fletcher's scenes and Massinger's carry them as densely as Shakespeare's own. That weakens the phrase-link arguments for Shakespeare in Jackson 2012 and Taylor 2016 and strengthens the Fletcher-link arguments, which do discriminate.</li>
+<li><b>The absence of "ye".</b> The form is missing from the play, and the text was modernised word by word, which is why exact wording survives less than grammar and rhythm. Three adaptations of Fletcher from 1695 to 1702 also lack it, so the absence shows modernisation and nothing more.</li>
+<li><b>Where the later layers sit.</b> The density of phrases found only in 18th-century plays peaks in 2.1 to 2.3, and 400-word windows put the Shakespeare-like writing in the second half of 1.2, in 3.2 and at the opening of 5.2. That agrees with Oliphant 1927, Nance 2013, Taylor 2016, Tarlinskaja 2017 and Pascucci 2017 by an independent route.</li>
+<li><b>A null result.</b> The phrase-level comparison with Shelton, Phillips and Motteux shows no preference for Shelton.</li>
+<li><b>Published findings that hold up here.</b> Four earlier findings hold up: the break at 3.3 and Fletcher after it (Bradford 1910, Graham 1916, Oliphant 1927, Kukowski 1991, Hope 1994, Hammond 2010, Jackson 2012, Tarlinskaja 2017); the thinness of surviving Shakespeare (Jackson 2012, Robert D. Hume 2016); Theobald's and the Restoration hands in Act 2 (Oliphant, Proudfoot, Taylor, Tarlinskaja, Pascucci); and the documentary chain as Freehafer 1969 and Hammond 2010 set it out.</li>
+</ul>
+</div>
+
+<h2 id="short">Limits</h2>
+<div class="prose">
+<ul>
+<li>Stern's 2011 article and Jackson's 2012 chapter were not read in full; their arguments come through Alotaibi 2016, Taylor 2016 and the <i>Authorship Companion</i>. Hammond's Arden edition, Kukowski 1991, Hope 1994 and Tarlinskaja's earlier papers were likewise available only second-hand.</li>
+<li>Theobald's own adaptations, <i>Richard II</i> (1720) and <i>The Fatal Secret</i> (1735), were not available in usable text, so his habits as an adapter were not measured directly. Tarlinskaja's figures for <i>The Fatal Secret</i> are cited from the <i>Companion</i>.</li>
+<li>Davenant's adaptations other than <i>Macbeth</i> and <i>The Tempest</i>, including <i>The Rivals</i> (his <i>Two Noble Kinsmen</i>), are not in the Text Creation Partnership, so the Davenant layer could not be modelled as a class and the ideal calibration play was missing.</li>
+<li>Beaumont (three plays), Field (two) and Davenant's pre-war plays were too small to serve as candidates at scene length. The 24 percent for "Fletcher with another partner" is a judgment about candidates that could not be tested.</li>
+<li>Theobald's texts come from scanned books with legibility between 0.86 and 0.98. A scanned copy of <i>Double Falsehood</i> shows that this does not change classifications, but rare-phrase rates in his texts are depressed by about a fifth.</li>
+<li>Scene-level attribution is 84 percent accurate for Shakespeare against sixteen other classes, and worse on short scenes. No single scene's label is certain; the argument rests on the pattern across scenes and methods.</li>
+<li>The double-ending estimate is a syllable counter and does no scansion, so it adds nothing to the published counts.</li>
+<li>The documentary section relies on printed transcriptions and scans. The Rawlinson manuscript and the Stationers' Register were not examined, so the stop after "Fletcher" in Greg's transcript cannot be checked. The 1780 <i>Supplement</i>, the 1770 notice, the 1718 Tonson assignment and the originals of <i>Mist's Journal</i> are known second-hand.</li>
+<li>Nobody has rerun the computation. The checks reported (one play held out at a time across 160 plays, the <i>Henry VIII</i> and <i>Kinsmen</i> test, the impostors test on Rowe's <i>Fair Penitent</i> and on all nine of Theobald's texts) were done here only; the code and data are published with this page so that someone else can.</li>
+<li>The percentages are a judgment under the weights stated above, and the range they support is 50 to 75 percent.</li>
+</ul>
+</div>
+
+<h2 id="sources">Sources and files</h2>
+<div class="src">
+<ol>
+<li id="src1">Lewis Theobald, <i>Double Falshood; or, The Distrest Lovers</i> (London: J. Watts, 1728). ECCO-TCP K036934.000, keyboarded transcription; licence, dedication and preface quoted from it. Scanned copies: archive.org doublefalshoodor00shak (first edition), bim_18th-century_double-falshood-or-the_theobald-mr-lewis_1728 (British Library microfilm), cu31924013363894 (Graham's 1920 reprint). Text and front matter in <span class="path">sources/documents/</span>.</li>
+<li id="src2">E. K. Chambers, <i>The Elizabethan Stage</i> (Oxford, 1923), vol. 4, Appendix B, pp. 179 to 180, checked in page images (archive.org elizabethanstage0004ekch, leaves n192 to n193), and the Court Calendar for 1612 to 1613, pp. 127 to 128, in OCR. Peter Cunningham, <i>Extracts from the Accounts of the Revels at Court</i> (Shakespeare Society, 1842), pp. xlii to xliv, page images (extractsfromacc00cunngoog). The play titles survive only in Bodleian MS Rawlinson A.239, ff. 46v to 48, not examined; the declared account is TNA E 351/544.</li>
+<li id="src3">G. E. Briscoe Eyre and C. R. Rivington, <i>A Transcript of the Registers of the Worshipful Company of Stationers, 1640 to 1708</i> (London, 1913), vol. 1, pp. 428 to 429, entry of 9 September 1653, checked in page images (archive.org 1913transcriptof01statuoft, leaves n441 to n442), and vol. 2, p. 271, entry of 29 June 1660. W. W. Greg, "The Bakings of Betsy", <i>The Library</i>, 3rd series, 2 (1911), 225 to 259, for his transcript of the entry and Warburton's list, page images for pp. 230 to 232 and OCR elsewhere. John Freehafer, "Cardenio, by Shakespeare and Fletcher", <i>PMLA</i> 84 (1969), 501 to 513, known through the Lost Plays Database entry for <i>Cardenio</i>. The Register itself is not online.</li>
+<li id="src4">Richard Farmer, <i>An Essay on the Learning of Shakespeare</i>, 2nd ed. (Cambridge, 1767), pp. 26 to 29. Read in full.</li>
+<li id="src5">George Steevens and Edmond Malone, <i>Supplement to the Edition of Shakspeare's Plays</i> (1780); Ivan Lupić, "Malone's Double Falsehood", in <i>The Quest for Cardenio</i> (2012). Known through Alotaibi 2016.</li>
+<li id="src6">Gamaliel Bradford, "The History of Cardenio by Mr. Fletcher and Shakespeare", <i>Modern Language Notes</i> 25 (1910), 51 to 56. Read in full.</li>
+<li id="src7">Walter Graham, "The Cardenio-Double Falsehood Problem", <i>Modern Philology</i> 14 (1916), 269 to 280; <i>Double Falsehood by Lewis Theobald</i> (Cleveland, 1920). Read in full.</li>
+<li id="src8">Stephan Kukowski, "The Hand of John Fletcher in Double Falsehood", <i>Shakespeare Survey</i> 43 (1991), 81 to 89. Known through Alotaibi 2016 and Pascucci 2017.</li>
+<li id="src9">Jonathan Hope, <i>The Authorship of Shakespeare's Plays</i> (Cambridge, 1994), pp. 89 to 100. Not accessed.</li>
+<li id="src10">Brean Hammond (ed.), <i>Double Falsehood</i>, Arden Shakespeare Third Series (2010); MacDonald P. Jackson, "Looking for Shakespeare in Double Falsehood: Stylistic Evidence", in David Carnegie and Gary Taylor (eds), <i>The Quest for Cardenio</i> (Oxford, 2012), pp. 133 to 161. Neither accessed in full; known through Alotaibi 2016, Taylor 2016 and the <i>Authorship Companion</i>.</li>
+<li id="src11">E. H. C. Oliphant, <i>The Plays of Beaumont and Fletcher</i> (New Haven, 1927), pp. 282 to 302. Read in full.</li>
+<li id="src12">Gary Taylor and Gabriel Egan (eds), <i>The New Oxford Shakespeare: Authorship Companion</i> (Oxford, 2017): Marina Tarlinskaja on versification, Giuliano Pascucci on data compression, and the canon entry for <i>Cardenio</i>. Read in the archive.org OCR.</li>
+<li id="src13">Brian Nance, "Shakespeare, Theobald, and the Prose Problem in Double Falsehood", in Terri Bourus and Gary Taylor (eds), <i>The Creation and Re-Creation of Cardenio</i> (2013). Abstract only.</li>
+<li id="src14">Ryan L. Boyd and James W. Pennebaker, "Did Shakespeare Write Double Falsehood?", <i>Psychological Science</i> 26 (2015), 570 to 582. Abstract and press coverage.</li>
+<li id="src15">Tiffany Stern, "'The Forgery of some modern Author'?: Theobald's Shakespeare and Cardenio's Double Falsehood", <i>Shakespeare Quarterly</i> 62 (2011), 555 to 593. Not read: the article is behind the Oxford Academic and Project MUSE paywalls and no copy was obtained. Known through Alotaibi 2016, Taylor 2016 and Hammond 2014.</li>
+<li id="src16">Naseem A. Alotaibi, <i>Lewis Theobald's Double Falsehood: The Authorship Question Reconsidered</i> (PhD thesis, University of Liverpool, 2016). Read in full: livrepository.liverpool.ac.uk/2008887/. Gary Taylor, "Fake Shakespeare", <i>Journal of Early Modern Studies</i> 5 (2016), 353 to 379. Read in full.</li>
+<li id="src17">Text Creation Partnership transcriptions, fetched from github.com/textcreationpartnership: First Folio A11954; Beaumont and Fletcher folios A27177 (1647) and A27178 (1679); <i>The Two Noble Kinsmen</i> A00969; Shelton's <i>Don Quixote</i> 1652 A31538; and the 180 other texts listed in <span class="path">corpus/MANIFEST.tsv</span>. Theobald's plays and the 1700 to 1723 adaptations from archive.org scans, listed with identifiers and legibility scores in <span class="path">corpus/raw_external/INDEX.md</span>. Phillips 1687 and Motteux 1700 Cardenio chapters from the same source.</li>
+<li id="src18">Performance and reception record: the London Stage Database (rows for the play saved in <span class="path">sources/documents/lsdb/</span>), with John Genest, <i>Some Account of the English Stage</i> (1832), vols 3 and 5, in OCR; John Watts's ledger entry of 31 July 1728 as printed in the <i>Gentleman's Magazine</i>, March 1824, p. 223; Theobald's letter of 27 April 1728 as reprinted in <i>A Compleat Collection of all the Verses, Essays, Letters and Advertisements ... occasion'd by ... Miscellanies</i> (1728) and dated by R. F. Jones, <i>Lewis Theobald</i> (1919); Pope, <i>Peri Bathous</i> (1728) and <i>The Dunciad Variorum</i> (1729), page images; Theobald, <i>The Works of Shakespeare</i> (1733), vol. 4, p. 188; Isaac Reed, <i>Biographia Dramatica</i> (1782), OCR; the 1770 notice through Freehafer 1969 and Hammond 2010 as quoted by Alotaibi; Brean Hammond, "Theobald's Double Falshood: An 'Agreeable Cheat'?", <i>Notes and Queries</i> 229 (1984), through a 1993 summary. Every item is transcribed with its flag in <span class="path">notes/documents.md</span>.</li>
+</ol>
+</div>
+<div class="prose">
+<h3>Files</h3>
+<p>The files behind this page: <span class="path">notes/scholarship.md</span>, a register of 37 studies with a tag for how each was read; <span class="path">notes/documents.md</span>, the documentary dossier with verbatim transcriptions and a verification flag on every item; <span class="path">sources/documents/SOURCES.md</span> and <span class="path">sources/scholarship/SOURCES.md</span>, listing every file fetched with its identifier and date; <span class="path">code/</span>, the parser, normaliser, feature and classifier code and the validation, survival, impostors, phrase-link, marker, window and translation scripts, with <span class="path">code/final_tables.py</span> rebuilding every number above into <span class="path">data/results/final_tables.json</span>; <span class="path">data/results/</span>, every run as JSON with its log; <span class="path">figures/</span>, the four figures as SVG; <span class="path">corpus/</span>, the texts and their manifest.</p>
+</div>
+</div>

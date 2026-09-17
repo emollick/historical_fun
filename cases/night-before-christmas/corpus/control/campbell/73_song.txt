@@ -1,0 +1,28 @@
+title: Song
+author: Thomas Campbell
+date: c. 1799-1840
+source: https://www.gutenberg.org/ebooks/59788 (The Poetical Works of Thomas Campbell, reprinted from the early editions, London: Griffith Farran, n.d. [c. 1890])
+form: ballad
+lines: 16
+attribution: certain
+notes: 
+
+When Love came first to Earth, the SPRING
+Spread rose-beds to receive him
+And back he vowed his flight he’d wing
+To Heaven, if she should leave him.
+
+But SPRING departing, saw his faith
+Pledged to the next new comer—
+He revelled in the warmer breath
+And richer bowers of SUMMER.
+
+Then sportive AUTUMN claimed by rights
+An Archer for her lover,
+And even in WINTER’S dark, cold nights
+A charm he could discover.
+
+Her routs and balls, and fireside joy,
+For this time were his reasons—
+In short, Young Love’s a gallant boy,
+That likes all times and seasons.

@@ -1,0 +1,785 @@
+{
+ "collab_henry8": [
+  {
+   "key": "collab_henry8",
+   "act": 1,
+   "scene": 1,
+   "n_words": 1856,
+   "head": "Actus Primus. | Scoena Prima.",
+   "delta": {
+    "FL": 1.2181072238745838,
+    "R18": 1.0648976375040804,
+    "SH": 0.7364229433708102
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.000906811977074059,
+    "R18": 0.008181938178939446,
+    "SH": 0.9909112498439866
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 1,
+   "scene": 2,
+   "n_words": 1727,
+   "head": "Actus Primus. | Scena Secunda.",
+   "delta": {
+    "FL": 1.182882968301599,
+    "R18": 1.0660406738802772,
+    "SH": 0.7673513240772897
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.002420716283093459,
+    "R18": 0.00939152670214799,
+    "SH": 0.9881877570147586
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 1,
+   "scene": 3,
+   "n_words": 577,
+   "head": "Actus Primus. | Scaena Tertia.",
+   "delta": {
+    "FL": 0.8003658403604739,
+    "R18": 1.1632749572249956,
+    "SH": 1.0182846733502822
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.904124606632006,
+    "R18": 0.09127333202842787,
+    "SH": 0.004602061339566051
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 1,
+   "scene": 4,
+   "n_words": 929,
+   "head": "Actus Primus. | Scena Quarta.",
+   "delta": {
+    "FL": 0.8163683863639706,
+    "R18": 1.2343895900224413,
+    "SH": 0.9325058430771547
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.6109189746380447,
+    "R18": 2.1991781370041176e-05,
+    "SH": 0.38905903358058536
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 2,
+   "scene": 1,
+   "n_words": 1423,
+   "head": "Actus Secundus. | Scena Prima.",
+   "delta": {
+    "FL": 0.9764966485764659,
+    "R18": 0.9929471013367381,
+    "SH": 1.0284627774981592
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9074739697954788,
+    "R18": 0.01359658280409927,
+    "SH": 0.07892944740042192
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 2,
+   "scene": 2,
+   "n_words": 1205,
+   "head": "Actus Secundus. | Scena Secunda.",
+   "delta": {
+    "FL": 0.9161842156582594,
+    "R18": 1.085476099346896,
+    "SH": 0.9907289394091024
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.7324416339860754,
+    "R18": 0.027916094466134782,
+    "SH": 0.2396422715477898
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 2,
+   "scene": 3,
+   "n_words": 892,
+   "head": "Actus Secundus. | Scena Tertia.",
+   "delta": {
+    "FL": 0.9161592256560044,
+    "R18": 1.0561430945387638,
+    "SH": 1.0201231904407237
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.36383449803159673,
+    "R18": 0.15936349787305554,
+    "SH": 0.4768020040953479
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 2,
+   "scene": 4,
+   "n_words": 1916,
+   "head": "Actus Secundus. | Scena Quarta.",
+   "delta": {
+    "FL": 1.1661454967196745,
+    "R18": 0.9839563172480817,
+    "SH": 0.8647834485498436
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.0003793586083465603,
+    "R18": 0.048463140781054785,
+    "SH": 0.9511575006105986
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 3,
+   "scene": 1,
+   "n_words": 1520,
+   "head": "Actus Tertius. | Scena Prima.",
+   "delta": {
+    "FL": 0.7982174578136033,
+    "R18": 1.0526413403473538,
+    "SH": 1.1310196455929626
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9093504746360027,
+    "R18": 0.08475081082686109,
+    "SH": 0.005898714537136275
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 3,
+   "scene": 2,
+   "n_words": 3823,
+   "head": "Actus Tertius. | Scena Secunda.",
+   "delta": {
+    "FL": 1.0772487621587898,
+    "R18": 0.9179770118811452,
+    "SH": 1.0117929214961057
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.08606661554307762,
+    "R18": 0.5467204480769718,
+    "SH": 0.36721293637995067
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 4,
+   "scene": 0,
+   "n_words": 881,
+   "head": "Actus Quartus.",
+   "delta": {
+    "FL": 1.1296445653806952,
+    "R18": 0.9351822200260673,
+    "SH": 0.9468569240803173
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.018152183266523337,
+    "R18": 0.6988264656030412,
+    "SH": 0.2830213511304354
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 4,
+   "scene": 1,
+   "n_words": 293,
+   "head": "Actus Quartus. | Scena Prima.",
+   "delta": {
+    "FL": 1.0385615087609215,
+    "R18": 0.9644309331303711,
+    "SH": 1.0005041392313163
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.0022093326930220183,
+    "R18": 0.7784680579609212,
+    "SH": 0.21932260934605674
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 4,
+   "scene": 2,
+   "n_words": 1429,
+   "head": "Actus Quartus. | Scena Secunda.",
+   "delta": {
+    "FL": 0.958687832934892,
+    "R18": 1.0892016730275076,
+    "SH": 0.9482974463593876
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.3157531113888914,
+    "R18": 0.0004325110260601812,
+    "SH": 0.6838143775850485
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 5,
+   "scene": 1,
+   "n_words": 1486,
+   "head": "Actus Quintus. | Scena Prima.",
+   "delta": {
+    "FL": 1.005007483443195,
+    "R18": 1.190668862441476,
+    "SH": 0.8045214453238906
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.0029967955371000394,
+    "R18": 0.009780103508258687,
+    "SH": 0.9872231009546413
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 5,
+   "scene": 2,
+   "n_words": 1845,
+   "head": "Actus Quintus. | Scena Secunda.",
+   "delta": {
+    "FL": 0.7793335044036028,
+    "R18": 1.1883082426783678,
+    "SH": 1.012369215915731
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.8131341477899225,
+    "R18": 0.0008970109087166103,
+    "SH": 0.18596884130136082
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 5,
+   "scene": 3,
+   "n_words": 802,
+   "head": "Actus Quintus. | Scena Tertia.",
+   "delta": {
+    "FL": 0.8567267712562443,
+    "R18": 1.2059183281694665,
+    "SH": 0.9242667446843831
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.5898736434320014,
+    "R18": 0.0043957028977393165,
+    "SH": 0.40573065367025923
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_henry8",
+   "act": 5,
+   "scene": 4,
+   "n_words": 657,
+   "head": "Actus Quintus. | Scena Quarta.",
+   "delta": {
+    "FL": 0.8459082222346361,
+    "R18": 0.9884192757756767,
+    "SH": 1.1519018754798476
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9553684729593537,
+    "R18": 0.04451384428577505,
+    "SH": 0.00011768275487123272
+   },
+   "svm_pred": "FL"
+  }
+ ],
+ "collab_tnk": [
+  {
+   "key": "collab_tnk",
+   "act": 1,
+   "scene": 1,
+   "n_words": 1814,
+   "head": "Actus Primus.",
+   "delta": {
+    "FL": 1.0438091150095343,
+    "R18": 1.1064410836081633,
+    "SH": 0.853529508228515
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.019453700457805003,
+    "R18": 0.00512672405774785,
+    "SH": 0.9754195754844472
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 1,
+   "scene": 2,
+   "n_words": 940,
+   "head": "Actus Primus. | Scaena 2. Enter Palamon, and Arcit",
+   "delta": {
+    "FL": 1.164261994359363,
+    "R18": 0.981693106077488,
+    "SH": 0.8687646243908951
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.0005142537785882756,
+    "R18": 0.021718627285006155,
+    "SH": 0.9777671189364054
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 1,
+   "scene": 3,
+   "n_words": 805,
+   "head": "Actus Primus. | Scaena 3. E^ter Pirithous, Hipolit",
+   "delta": {
+    "FL": 1.0287475624071851,
+    "R18": 1.003502329041809,
+    "SH": 0.9703174137544418
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.3588119288655115,
+    "R18": 0.004202963714350539,
+    "SH": 0.636985107420138
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 1,
+   "scene": 4,
+   "n_words": 406,
+   "head": "Actus Primus. | Scaena 4. A Battaile strooke withi",
+   "delta": {
+    "FL": 1.044952749067629,
+    "R18": 1.002727504644424,
+    "SH": 0.956337865514253
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.0075197085713298835,
+    "R18": 0.01903881070366452,
+    "SH": 0.9734414807250056
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 1,
+   "scene": 5,
+   "n_words": 103,
+   "head": "Actus Primus. | Scaena 5. Enter the Queenes with t",
+   "delta": {
+    "FL": 0.8890915672870849,
+    "R18": 1.0576472249756206,
+    "SH": 1.0432631361311904
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9987512290965928,
+    "R18": 0.0003321259985721868,
+    "SH": 0.000916644904835112
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 2,
+   "scene": 1,
+   "n_words": 494,
+   "head": "Actus Secundus. | Scaena 1. Enter Iailor, and Wooe",
+   "delta": {
+    "FL": 0.9632487783222432,
+    "R18": 1.130921912450346,
+    "SH": 0.9023695596154144
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.0010230666470061344,
+    "R18": 0.007665780872092645,
+    "SH": 0.9913111524809013
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 2,
+   "scene": 2,
+   "n_words": 2386,
+   "head": "Actus Secundus. | Scaena 2. Enter Palamon, and Arc",
+   "delta": {
+    "FL": 0.7289709842600698,
+    "R18": 1.129032555491288,
+    "SH": 1.1175795235759969
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9231746808211778,
+    "R18": 0.017150546231804988,
+    "SH": 0.05967477294701727
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 2,
+   "scene": 3,
+   "n_words": 716,
+   "head": "Actus Secundus. | Scaena 3. Enter Arcite.",
+   "delta": {
+    "FL": 0.7568776453421944,
+    "R18": 1.1289519999509463,
+    "SH": 1.092250193593699
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9558212687620877,
+    "R18": 0.04040322985528873,
+    "SH": 0.0037755013826235814
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 2,
+   "scene": 4,
+   "n_words": 287,
+   "head": "Actus Secundus. | Scaena 4. Enter Iailors Daughter",
+   "delta": {
+    "FL": 0.9040841297985663,
+    "R18": 1.012848275773805,
+    "SH": 1.0744696196392016
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.5696721702293164,
+    "R18": 0.39002834759613453,
+    "SH": 0.04029948217454903
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 2,
+   "scene": 5,
+   "n_words": 566,
+   "head": "Actus Secundus. | Scaena 4. Enter Theseus, Hipolit",
+   "delta": {
+    "FL": 0.7284130131188337,
+    "R18": 1.0787149406179555,
+    "SH": 1.1684712194980442
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9221900349153488,
+    "R18": 0.06305776116870854,
+    "SH": 0.014752203915942608
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 2,
+   "scene": 6,
+   "n_words": 352,
+   "head": "Actus Secundus. | Scaena 6. Enter Iaylors Daughter",
+   "delta": {
+    "FL": 0.8071657219241238,
+    "R18": 1.1242523586533062,
+    "SH": 1.0511669488921163
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.8165972444504547,
+    "R18": 0.0003200259094729197,
+    "SH": 0.1830827296400724
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 3,
+   "scene": 1,
+   "n_words": 1036,
+   "head": "Actus Tertius. | Scaena 1. Enter Arcite alone.",
+   "delta": {
+    "FL": 1.0014738255297777,
+    "R18": 1.0527219700636463,
+    "SH": 0.9458668763338025
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.04876076804975478,
+    "R18": 0.28963001931842997,
+    "SH": 0.6616092126318154
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 3,
+   "scene": 2,
+   "n_words": 336,
+   "head": "Actus Tertius. | Scaena 2. Enter Iaylors daughter ",
+   "delta": {
+    "FL": 1.0234590485643182,
+    "R18": 1.0511133953724752,
+    "SH": 0.927459247134761
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.00038186116299891997,
+    "R18": 0.02828656425395269,
+    "SH": 0.9713315745830485
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 3,
+   "scene": 3,
+   "n_words": 483,
+   "head": "Actus Tertius. | Scaena 3. Enter Arcite, with Meat",
+   "delta": {
+    "FL": 0.7414346262973424,
+    "R18": 1.2963953567688846,
+    "SH": 0.9386485199634632
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.5226154199527663,
+    "R18": 6.410573996498279e-05,
+    "SH": 0.47732047430726876
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 3,
+   "scene": 4,
+   "n_words": 232,
+   "head": "Actus Tertius. | Scaena 4. Enter Iaylors daughter.",
+   "delta": {
+    "FL": 0.8542905747844474,
+    "R18": 1.0819569929726154,
+    "SH": 1.0506089890637007
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9190376247012109,
+    "R18": 0.04351398015028263,
+    "SH": 0.037448395148506494
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 3,
+   "scene": 5,
+   "n_words": 1203,
+   "head": "Actus Tertius. | Scaena 6. Enter a Schoole master.",
+   "delta": {
+    "FL": 0.8351850940110358,
+    "R18": 1.1796168841754036,
+    "SH": 0.9702171532623749
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9250931057040089,
+    "R18": 0.004164168969316917,
+    "SH": 0.07074272532667406
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 3,
+   "scene": 6,
+   "n_words": 2678,
+   "head": "Actus Tertius. | Scaena 7. Enter ^ from the ^.",
+   "delta": {
+    "FL": 0.7226278536348869,
+    "R18": 1.13142156885851,
+    "SH": 1.12096301759796
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9704219234537238,
+    "R18": 0.005653177110759282,
+    "SH": 0.023924899435516893
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 4,
+   "scene": 1,
+   "n_words": 1301,
+   "head": "Actus Quartus. | Scaena 1. Enter Iailor, and his f",
+   "delta": {
+    "FL": 0.8709983994984563,
+    "R18": 1.1140115100438464,
+    "SH": 1.0032993498361484
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9083307123727954,
+    "R18": 0.03934055502641949,
+    "SH": 0.05232873260078522
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 4,
+   "scene": 2,
+   "n_words": 1326,
+   "head": "Actus Quartus. | Scaena 2. Enter Emilia alone, wit",
+   "delta": {
+    "FL": 0.8754179555967005,
+    "R18": 1.0099224312184856,
+    "SH": 1.1035008581037609
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.6390781047518181,
+    "R18": 0.36022260411381973,
+    "SH": 0.0006992911343620904
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 4,
+   "scene": 3,
+   "n_words": 860,
+   "head": "Actus Quartus. | Scaena 3. Enter Iailor, ^, Doctor",
+   "delta": {
+    "FL": 0.9806420634426066,
+    "R18": 1.092718169605194,
+    "SH": 0.9247862403461818
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.019429246604636505,
+    "R18": 0.06379380385685127,
+    "SH": 0.9167769495385123
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 5,
+   "scene": 1,
+   "n_words": 1383,
+   "head": "Actus Quintus. | Sc^na 1. Enter Thesius, ^, Hipoli",
+   "delta": {
+    "FL": 1.158872483925328,
+    "R18": 0.9716625875553047,
+    "SH": 0.8837156431665173
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.012565460421884358,
+    "R18": 0.02887384880884485,
+    "SH": 0.9585606907692708
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 5,
+   "scene": 2,
+   "n_words": 998,
+   "head": "Actus Quintus. | Scaena 2. Enter Doctor, Iaylor an",
+   "delta": {
+    "FL": 0.7525720401688191,
+    "R18": 1.1225305430117396,
+    "SH": 1.1026004811698522
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.9088510272485589,
+    "R18": 0.05738310282138519,
+    "SH": 0.033765869930055745
+   },
+   "svm_pred": "FL"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 5,
+   "scene": 3,
+   "n_words": 1205,
+   "head": "Actus Quintus. | Seaena 3. Enter Theseus, Hipolita",
+   "delta": {
+    "FL": 1.0299595350733264,
+    "R18": 1.083091600819623,
+    "SH": 0.889520158210252
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.03625234042459928,
+    "R18": 0.031524006423698084,
+    "SH": 0.9322236531517026
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "collab_tnk",
+   "act": 5,
+   "scene": 4,
+   "n_words": 1127,
+   "head": "Actus Quintus. | Scaena 4. Enter Palamon and his K",
+   "delta": {
+    "FL": 1.0930884067006357,
+    "R18": 0.9721688597185538,
+    "SH": 0.9431074104240275
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.009037947652726861,
+    "R18": 0.16212918064329163,
+    "SH": 0.8288328717039815
+   },
+   "svm_pred": "SH"
+  }
+ ]
+}

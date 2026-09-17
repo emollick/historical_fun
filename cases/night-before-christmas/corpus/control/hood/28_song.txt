@@ -1,0 +1,35 @@
+title: Song
+author: Thomas Hood
+date: c. 1821-1827
+source: https://www.gutenberg.org/ebooks/15652 (The Poetical Works of Thomas Hood, ed. W. M. Rossetti, New York: A. L. Burt)
+form: ballad
+lines: 24
+attribution: certain
+notes: 
+
+O Lady, leave thy silken thread
+And flowery tapestrie:
+There's living roses on the bush,
+And blossoms on the tree;
+Stoop where thou wilt, thy careless hand
+Some random bud will meet;
+Thou canst not tread, but thou wilt find
+The daisy at thy feet.
+
+'Tis like the birthday of the world,
+When earth was born in bloom;
+The light is made of many dyes,
+The air is all perfume;
+There's crimson buds, and white and blue--
+The very rainbow showers
+Have turn'd to blossoms where they fell,
+And sown the earth with flowers.
+
+There's fairy tulips in the east,
+The garden of the sun;
+The very streams reflect the hues,
+And blossom as they run:
+While Morn opes like a crimson rose,
+Still wet with pearly showers;
+Then, lady, leave the silken thread
+Thou twinest into flowers!

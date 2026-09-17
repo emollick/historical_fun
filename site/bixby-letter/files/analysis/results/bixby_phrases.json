@@ -1,0 +1,5280 @@
+{
+ "ngrams": {
+  "10": {
+   " a stateme": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " adjutant ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " altar of ": [
+    "hay_all"
+   ],
+   " and fruit": [
+    "hay_all"
+   ],
+   " and leave": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " and respe": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " and the s": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " anguish o": [
+    "hay_all"
+   ],
+   " any words": [
+    "hay_all"
+   ],
+   " are the m": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " attempt t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " be any wo": [
+    "hay_all"
+   ],
+   " be found ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " been show": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " bereaveme": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " cannot re": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " cherished": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " consolati": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " departmen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " father ma": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " feel how ": [
+    "hay_all"
+   ],
+   " field of ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " files of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " found in ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " from tend": [
+    "hay_all"
+   ],
+   " from the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " fruitless": [
+    "hay_all"
+   ],
+   " general o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " gloriousl": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " grief of ": [
+    "hay_all"
+   ],
+   " have been": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " have died": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " have laid": [
+    "hay_all"
+   ],
+   " heavenly ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " i cannot ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " i have be": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " in the fi": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " in the th": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " leave you": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " lost, and": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " loved and": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " massachus": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " may be fo": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " memory of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " mine whic": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " mother of": [
+    "hay_all"
+   ],
+   " must be a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " must be y": [
+    "hay_all"
+   ],
+   " of battle": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of freedo": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of massac": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of mine w": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of the ad": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of the lo": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of the re": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of the wa": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of your b": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " on the fi": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " only the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " our heave": [
+    "hay_all"
+   ],
+   " overwhelm": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " pray that": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " pride tha": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " refrain f": [
+    "hay_all"
+   ],
+   " republic ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " respectfu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " sacrifice": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " should at": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " sincerely": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " solemn pr": [
+    "hay_all"
+   ],
+   " sons who ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " statement": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " tendering": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " thanks of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " that may ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " that must": [
+    "hay_all"
+   ],
+   " that our ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " that you ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the adjut": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the altar": [
+    "hay_all"
+   ],
+   " the angui": [
+    "hay_all"
+   ],
+   " the cheri": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the conso": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " the field": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the files": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the grief": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the loved": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the mothe": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the repub": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the solem": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the thank": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " the war d": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " they died": [
+    "hay_all"
+   ],
+   " to have l": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " to you th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " upon the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " very sinc": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " war depar": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " weak and ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " which sho": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " who have ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " words of ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " you are t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " you from ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " you only ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " you the c": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " yours, to": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " \u2014 i have ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   ", and leav": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   ", and the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   ", that you": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   ", to have ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "a statemen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "achusetts,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "adjutant g": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "ain from t": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "and leave ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "and respec": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "and the so": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "anguish of": [
+    "hay_all"
+   ],
+   "anks of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ant genera": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "any words ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ar departm": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ar madam, ": [
+    "hay_all"
+   ],
+   "are the mo": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "assachuset": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "at may be ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "at must be": [
+    "hay_all"
+   ],
+   "at you are": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "atement of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ather may ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "ation that": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "attempt to": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ave been s": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ave you on": [
+    "hay_all"
+   ],
+   "ay be foun": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ay that ou": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "be any wor": [
+    "hay_all"
+   ],
+   "be found i": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "been shown": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "bereavemen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "but i cann": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ce upon th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "cerely and": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "ch should ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "cherished ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "chusetts, ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "consolatio": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "d attempt ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "d glorious": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "d in the t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "d leave yo": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "d memory o": [
+    "hay_all"
+   ],
+   "d of battl": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "d respectf": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "d the sole": [
+    "hay_all"
+   ],
+   "dear madam": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "department": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "dering to ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "djutant ge": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ds of mine": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "e adjutant": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e altar of": [
+    "hay_all"
+   ],
+   "e anguish ": [
+    "hay_all"
+   ],
+   "e cherishe": [
+    "hay_all"
+   ],
+   "e consolat": [
+    "hay_all"
+   ],
+   "e field of": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e files of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "e found in": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e grief of": [
+    "hay_all"
+   ],
+   "e mother o": [
+    "hay_all"
+   ],
+   "e republic": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e thanks o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "e the moth": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "e upon the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e war depa": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e which sh": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e you from": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "e yours, t": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "ear madam,": [
+    "hay_all"
+   ],
+   "eavement, ": [
+    "hay_all"
+   ],
+   "ed gloriou": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ed memory ": [
+    "hay_all"
+   ],
+   "ed to save": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "een shown ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "efrain fro": [
+    "hay_all"
+   ],
+   "eld of bat": [
+    "hay_all"
+   ],
+   "ely and re": [
+    "hay_all"
+   ],
+   "ement of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ement, and": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "emn pride ": [
+    "hay_all"
+   ],
+   "emory of t": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "endering t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "eneral of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ent of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ent, and l": [
+    "hay_all"
+   ],
+   "epartment ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "epublic th": [
+    "hay_all"
+   ],
+   "ereavement": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "erely and ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "erished me": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "erwhelming": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ery sincer": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "es of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "espectfull": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "f freedom.": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "f massachu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "f mine whi": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "f the adju": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "f the love": [
+    "hay_all"
+   ],
+   "f the repu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "f the war ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "father may": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "field of b": [
+    "hay_all"
+   ],
+   "files of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "found in t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "frain from": [
+    "hay_all"
+   ],
+   "from tende": [
+    "hay_all"
+   ],
+   "from the g": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "fruitless ": [
+    "hay_all"
+   ],
+   "g to you t": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "general of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "gloriously": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "h of your ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "hanks of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "hat may be": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hat must b": [
+    "hay_all"
+   ],
+   "hat you ar": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "have been ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "have died ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "have laid ": [
+    "hay_all"
+   ],
+   "he adjutan": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "he altar o": [
+    "hay_all"
+   ],
+   "he anguish": [
+    "hay_all"
+   ],
+   "he cherish": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "he consola": [
+    "hay_all"
+   ],
+   "he field o": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "he files o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "he grief o": [
+    "hay_all"
+   ],
+   "he mother ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "he republi": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "he solemn ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "he thanks ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "he war dep": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "heavenly f": [
+    "hay_all"
+   ],
+   "herished m": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "hey died t": [
+    "hay_all"
+   ],
+   "hich shoul": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hould atte": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "i cannot r": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "i have bee": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ich should": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ield of ba": [
+    "hay_all"
+   ],
+   "iles of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "in the fil": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "incerely a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ine which ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ing to you": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ion that m": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "iously on ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ish of you": [
+    "hay_all"
+   ],
+   "jutant gen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ks of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "lation tha": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ld attempt": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ld of batt": [
+    "hay_all"
+   ],
+   "leave you ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "lemn pride": [
+    "hay_all"
+   ],
+   "les of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "loriously ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "lost, and ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "loved and ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ly and res": [
+    "hay_all"
+   ],
+   "ly on the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "m the grie": [
+    "hay_all"
+   ],
+   "massachuse": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "may be fou": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "memory of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ment of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ment, and ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "mine which": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "mn pride t": [
+    "hay_all"
+   ],
+   "mory of th": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "mother of ": [
+    "hay_all"
+   ],
+   "must be an": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "n in the f": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "n pride th": [
+    "hay_all"
+   ],
+   "n that may": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "n the alta": [
+    "hay_all"
+   ],
+   "n the fiel": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "n the file": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ncerely an": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "nd in the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "nd leave y": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "nd respect": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "nd the sol": [
+    "hay_all"
+   ],
+   "ndering to": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ne which s": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "neral of m": [
+    "hay_all"
+   ],
+   "ng to you ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "nguish of ": [
+    "hay_all"
+   ],
+   "nks of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ns who hav": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "nsolation ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "nt general": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "nt of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "nt, and le": [
+    "hay_all"
+   ],
+   "ny words o": [
+    "hay_all"
+   ],
+   "o you the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of battle.": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "of freedom": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "of massach": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of mine wh": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of the adj": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of the lov": [
+    "hay_all"
+   ],
+   "of the rep": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "of the war": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "of your be": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "olation th": [
+    "hay_all"
+   ],
+   "olemn prid": [
+    "hay_all"
+   ],
+   "om the gri": [
+    "hay_all"
+   ],
+   "on that ma": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "on the alt": [
+    "hay_all"
+   ],
+   "on the fie": [
+    "hay_all"
+   ],
+   "only the c": [
+    "hay_all"
+   ],
+   "ons who ha": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "onsolation": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ords of mi": [
+    "hay_all"
+   ],
+   "oriously o": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ory of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ost, and t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ou are the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ou from th": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ould attem": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ound in th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "our heaven": [
+    "hay_all"
+   ],
+   "ously on t": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "overwhelmi": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "own in the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "partment a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "pectfully,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "pon the al": [
+    "hay_all"
+   ],
+   "pray that ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "pride that": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "public the": [
+    "hay_all"
+   ],
+   "r departme": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "r heavenly": [
+    "hay_all"
+   ],
+   "r of freed": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "rain from ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "rds of min": [
+    "hay_all"
+   ],
+   "reavement,": [
+    "hay_all"
+   ],
+   "refrain fr": [
+    "hay_all"
+   ],
+   "rely and r": [
+    "hay_all"
+   ],
+   "republic t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "respectful": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ride that ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ring to yo": [
+    "hay_all"
+   ],
+   "riously on": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "rom tender": [
+    "hay_all"
+   ],
+   "rom the gr": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "rwhelming.": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ry of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ry sincere": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "s must be ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s of mine ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "s of the r": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s of the w": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s who have": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "s, that yo": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "s, to have": [
+    "hay_all"
+   ],
+   "sachusetts": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "sacrifice ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "sh of your": [
+    "hay_all"
+   ],
+   "should att": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "sincerely ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "sly on the": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "solation t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "solemn pri": [
+    "hay_all"
+   ],
+   "spectfully": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ssachusett": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "st, and th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "statement ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "t a statem": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t general ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "t i cannot": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "t may be f": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t must be ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "t of the a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "t you are ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "t, and lea": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "t, and the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "tant gener": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "tatement o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "tement of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "tempt to b": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "tendering ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "thanks of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "that may b": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "that must ": [
+    "hay_all"
+   ],
+   "that you a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the adjuta": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the altar ": [
+    "hay_all"
+   ],
+   "the anguis": [
+    "hay_all"
+   ],
+   "the cheris": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the consol": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "the field ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the files ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "the grief ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "the loved ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the mother": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "the republ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the solemn": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "the thanks": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "the war de": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ther may a": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "they died ": [
+    "hay_all"
+   ],
+   "tion that ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "to have la": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "to you the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ttempt to ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "u are the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "u from the": [
+    "hay_all"
+   ],
+   "uld attemp": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "und in the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "upon the a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "urs, very ": [
+    "hay_all"
+   ],
+   "usly on th": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ut i canno": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "utant gene": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ve been sh": [
+    "hay_all"
+   ],
+   "vement, an": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "verwhelmin": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "very since": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "war depart": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "which shou": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "who have d": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "wn in the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "words of m": [
+    "hay_all"
+   ],
+   "y and resp": [
+    "hay_all"
+   ],
+   "y be found": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "y father m": [
+    "hay_all"
+   ],
+   "y of the l": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "y on the f": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "y sincerel": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "y that our": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "y words of": [
+    "hay_all"
+   ],
+   "you are th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "you from t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "you the co": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "yours, to ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ]
+  },
+  "12": {
+   " a statement": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " adjutant ge": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " and leave y": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " and respect": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " and the sol": [
+    "hay_all"
+   ],
+   " anguish of ": [
+    "hay_all"
+   ],
+   " any words o": [
+    "hay_all"
+   ],
+   " attempt to ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " be found in": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " been shown ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " bereavement": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " cherished m": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " consolation": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " department ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " father may ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " field of ba": [
+    "hay_all"
+   ],
+   " files of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " found in th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " from tender": [
+    "hay_all"
+   ],
+   " from the gr": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " general of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " gloriously ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " have been s": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " i cannot re": [
+    "hay_all"
+   ],
+   " i have been": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " in the file": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " lost, and t": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " massachuset": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " may be foun": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " memory of t": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " mine which ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " of freedom.": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " of massachu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of mine whi": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " of the adju": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " of the love": [
+    "hay_all"
+   ],
+   " of the repu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of the war ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " on the fiel": [
+    "hay_all"
+   ],
+   " overwhelmin": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " pride that ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " refrain fro": [
+    "hay_all"
+   ],
+   " republic th": [
+    "hay_all"
+   ],
+   " respectfull": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " should atte": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " sincerely a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " solemn prid": [
+    "hay_all"
+   ],
+   " statement o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " tendering t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " thanks of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " that may be": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " that must b": [
+    "hay_all"
+   ],
+   " that you ar": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the adjutan": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the altar o": [
+    "hay_all"
+   ],
+   " the anguish": [
+    "hay_all"
+   ],
+   " the cherish": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the consola": [
+    "hay_all"
+   ],
+   " the field o": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the files o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the grief o": [
+    "hay_all"
+   ],
+   " the mother ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the republi": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the solemn ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the thanks ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " the war dep": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " they died t": [
+    "hay_all"
+   ],
+   " to you the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " upon the al": [
+    "hay_all"
+   ],
+   " very sincer": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " war departm": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " which shoul": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " words of mi": [
+    "hay_all"
+   ],
+   " you are the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " you from th": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   ", and leave ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   ", and the so": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   ", that you a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "a statement ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "adjutant gen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "and leave yo": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "and respectf": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "and the sole": [
+    "hay_all"
+   ],
+   "anks of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ant general ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "any words of": [
+    "hay_all"
+   ],
+   "ar departmen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "assachusetts": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "at may be fo": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "at you are t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "atement of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ation that m": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "attempt to b": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "ay be found ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ay that our ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "be found in ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "bereavement,": [
+    "hay_all"
+   ],
+   "but i cannot": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ce upon the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "cherished me": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "consolation ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "d gloriously": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "d leave you ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "d memory of ": [
+    "hay_all"
+   ],
+   "d of battle.": [
+    "hay_all"
+   ],
+   "d respectful": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "d the solemn": [
+    "hay_all"
+   ],
+   "dear madam, ": [
+    "hay_all"
+   ],
+   "department a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "djutant gene": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e adjutant g": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e anguish of": [
+    "hay_all"
+   ],
+   "e cherished ": [
+    "hay_all"
+   ],
+   "e consolatio": [
+    "hay_all"
+   ],
+   "e field of b": [
+    "hay_all"
+   ],
+   "e files of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e found in t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "e mother of ": [
+    "hay_all"
+   ],
+   "e thanks of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "e the mother": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "e upon the a": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "e war depart": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e which shou": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e you from t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ed gloriousl": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ed memory of": [
+    "hay_all"
+   ],
+   "efrain from ": [
+    "hay_all"
+   ],
+   "eld of battl": [
+    "hay_all"
+   ],
+   "ement of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "emn pride th": [
+    "hay_all"
+   ],
+   "emory of the": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "endering to ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ent of the a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ereavement, ": [
+    "hay_all"
+   ],
+   "ery sincerel": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "es of the wa": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "espectfully,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "f massachuse": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "f mine which": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "f the adjuta": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "f the republ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "f the war de": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "field of bat": [
+    "hay_all"
+   ],
+   "files of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "found in the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "from the gri": [
+    "hay_all"
+   ],
+   "g to you the": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "gloriously o": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hanks of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "hat may be f": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "hat must be ": [
+    "hay_all"
+   ],
+   "hat you are ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "have been sh": [
+    "hay_all"
+   ],
+   "he adjutant ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "he altar of ": [
+    "hay_all"
+   ],
+   "he anguish o": [
+    "hay_all"
+   ],
+   "he cherished": [
+    "hay_all"
+   ],
+   "he consolati": [
+    "hay_all"
+   ],
+   "he field of ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "he files of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "he grief of ": [
+    "hay_all"
+   ],
+   "he mother of": [
+    "hay_all"
+   ],
+   "he republic ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "he thanks of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "he war depar": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hich should ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hould attemp": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "i have been ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ield of batt": [
+    "hay_all"
+   ],
+   "iles of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "in the files": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "incerely and": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "ing to you t": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "ion that may": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "iously on th": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ish of your ": [
+    "hay_all"
+   ],
+   "jutant gener": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "lation that ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ld of battle": [
+    "hay_all"
+   ],
+   "lemn pride t": [
+    "hay_all"
+   ],
+   "les of the w": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "loriously on": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "lost, and th": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "m the grief ": [
+    "hay_all"
+   ],
+   "massachusett": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "may be found": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "memory of th": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ment of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "mn pride tha": [
+    "hay_all"
+   ],
+   "mory of the ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "n in the fil": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "n pride that": [
+    "hay_all"
+   ],
+   "n that may b": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "n the altar ": [
+    "hay_all"
+   ],
+   "n the field ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "n the files ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ncerely and ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "nd leave you": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "nd respectfu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "nd the solem": [
+    "hay_all"
+   ],
+   "ne which sho": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ng to you th": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "ns who have ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "nsolation th": [
+    "hay_all"
+   ],
+   "nt of the ad": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "ny words of ": [
+    "hay_all"
+   ],
+   "of massachus": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of mine whic": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "of the adjut": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "of the repub": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "of the war d": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "olation that": [
+    "hay_all"
+   ],
+   "olemn pride ": [
+    "hay_all"
+   ],
+   "om the grief": [
+    "hay_all"
+   ],
+   "on that may ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "on the altar": [
+    "hay_all"
+   ],
+   "on the field": [
+    "hay_all"
+   ],
+   "ons who have": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "onsolation t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ords of mine": [
+    "hay_all"
+   ],
+   "oriously on ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ory of the l": [
+    "hay_all"
+   ],
+   "ost, and the": [
+    "hay_all"
+   ],
+   "ou are the m": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ou from the ": [
+    "hay_all"
+   ],
+   "ould attempt": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ound in the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ously on the": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "overwhelming": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "pon the alta": [
+    "hay_all"
+   ],
+   "r department": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "r heavenly f": [
+    "hay_all"
+   ],
+   "r of freedom": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "refrain from": [
+    "hay_all"
+   ],
+   "republic the": [
+    "hay_all"
+   ],
+   "respectfully": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ring to you ": [
+    "hay_all"
+   ],
+   "riously on t": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "rom the grie": [
+    "hay_all"
+   ],
+   "ry of the lo": [
+    "hay_all"
+   ],
+   "ry sincerely": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "s of mine wh": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "s of the rep": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s of the war": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s, that you ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "sachusetts, ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "should attem": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "sincerely an": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "solation tha": [
+    "hay_all"
+   ],
+   "solemn pride": [
+    "hay_all"
+   ],
+   "ssachusetts,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "st, and the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "statement of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "t a statemen": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t i cannot r": [
+    "hay_all"
+   ],
+   "t may be fou": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t of the adj": [
+    "hay_all"
+   ],
+   "t you are th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "t, and leave": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "t, and the s": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "tant general": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "tatement of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "tement of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "thanks of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "that may be ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "that must be": [
+    "hay_all"
+   ],
+   "that you are": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the adjutant": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the altar of": [
+    "hay_all"
+   ],
+   "the anguish ": [
+    "hay_all"
+   ],
+   "the cherishe": [
+    "hay_all"
+   ],
+   "the consolat": [
+    "hay_all"
+   ],
+   "the field of": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "the files of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "the grief of": [
+    "hay_all"
+   ],
+   "the mother o": [
+    "hay_all"
+   ],
+   "the republic": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "the thanks o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "the war depa": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "tion that ma": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "u are the mo": [
+    "hay_all"
+   ],
+   "uld attempt ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "upon the alt": [
+    "hay_all"
+   ],
+   "usly on the ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ut i cannot ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "utant genera": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "vement, and ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "verwhelming.": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "very sincere": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "war departme": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "which should": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "words of min": [
+    "hay_all"
+   ],
+   "y and respec": [
+    "hay_all"
+   ],
+   "y be found i": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "y sincerely ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "y words of m": [
+    "hay_all"
+   ],
+   "you are the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "you from the": [
+    "hay_all"
+   ]
+  },
+  "14": {
+   " a statement o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " adjutant gene": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " and leave you": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " and respectfu": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " and the solem": [
+    "hay_all"
+   ],
+   " any words of ": [
+    "hay_all"
+   ],
+   " be found in t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " bereavement, ": [
+    "hay_all"
+   ],
+   " consolation t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " field of batt": [
+    "hay_all"
+   ],
+   " files of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " found in the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " from the grie": [
+    "hay_all"
+   ],
+   " gloriously on": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " i have been s": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " in the files ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " massachusetts": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " may be found ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " memory of the": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of massachuse": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of mine which": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " of the adjuta": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " of the republ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of the war de": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " on the field ": [
+    "hay_all"
+   ],
+   " overwhelming.": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " refrain from ": [
+    "hay_all"
+   ],
+   " respectfully,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " should attemp": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " sincerely and": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " solemn pride ": [
+    "hay_all"
+   ],
+   " statement of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " thanks of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " that may be f": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " that must be ": [
+    "hay_all"
+   ],
+   " that you are ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the adjutant ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the altar of ": [
+    "hay_all"
+   ],
+   " the anguish o": [
+    "hay_all"
+   ],
+   " the cherished": [
+    "hay_all"
+   ],
+   " the consolati": [
+    "hay_all"
+   ],
+   " the field of ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " the files of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " the grief of ": [
+    "hay_all"
+   ],
+   " the mother of": [
+    "hay_all"
+   ],
+   " the republic ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " the thanks of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " the war depar": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " upon the alta": [
+    "hay_all"
+   ],
+   " very sincerel": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " war departmen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " which should ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " words of mine": [
+    "hay_all"
+   ],
+   " you are the m": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " you from the ": [
+    "hay_all"
+   ],
+   ", and the sole": [
+    "hay_all"
+   ],
+   ", that you are": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "a statement of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "adjutant gener": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "and leave you ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "and respectful": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "and the solemn": [
+    "hay_all"
+   ],
+   "any words of m": [
+    "hay_all"
+   ],
+   "ar department ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "assachusetts, ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "at you are the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "atement of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "ay be found in": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "be found in th": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "consolation th": [
+    "hay_all"
+   ],
+   "d gloriously o": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "d respectfully": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "djutant genera": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e adjutant gen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e consolation ": [
+    "hay_all"
+   ],
+   "e field of bat": [
+    "hay_all"
+   ],
+   "e files of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e found in the": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "e thanks of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "e upon the alt": [
+    "hay_all"
+   ],
+   "e war departme": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e which should": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "e you from the": [
+    "hay_all"
+   ],
+   "ed gloriously ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "eld of battle.": [
+    "hay_all"
+   ],
+   "ement of the a": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "emn pride that": [
+    "hay_all"
+   ],
+   "emory of the l": [
+    "hay_all"
+   ],
+   "ery sincerely ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "es of the war ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "f massachusett": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "f the adjutant": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "f the republic": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "f the war depa": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "field of battl": [
+    "hay_all"
+   ],
+   "from the grief": [
+    "hay_all"
+   ],
+   "gloriously on ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hat you are th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "he adjutant ge": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "he anguish of ": [
+    "hay_all"
+   ],
+   "he consolation": [
+    "hay_all"
+   ],
+   "he field of ba": [
+    "hay_all"
+   ],
+   "he files of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "he thanks of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "he war departm": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hould attempt ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ield of battle": [
+    "hay_all"
+   ],
+   "in the files o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ing to you the": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "iously on the ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "jutant general": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "lemn pride tha": [
+    "hay_all"
+   ],
+   "loriously on t": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "massachusetts,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "may be found i": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "memory of the ": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "mn pride that ": [
+    "hay_all"
+   ],
+   "mory of the lo": [
+    "hay_all"
+   ],
+   "n in the files": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "n that may be ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "n the altar of": [
+    "hay_all"
+   ],
+   "n the field of": [
+    "hay_all"
+   ],
+   "n the files of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "nd respectfull": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "nd the solemn ": [
+    "hay_all"
+   ],
+   "ne which shoul": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ng to you the ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "nsolation that": [
+    "hay_all"
+   ],
+   "ny words of mi": [
+    "hay_all"
+   ],
+   "of massachuset": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of mine which ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "of the adjutan": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "of the republi": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "of the war dep": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "olemn pride th": [
+    "hay_all"
+   ],
+   "on the altar o": [
+    "hay_all"
+   ],
+   "on the field o": [
+    "hay_all"
+   ],
+   "onsolation tha": [
+    "hay_all"
+   ],
+   "oriously on th": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "pon the altar ": [
+    "hay_all"
+   ],
+   "riously on the": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "rom the grief ": [
+    "hay_all"
+   ],
+   "s of mine whic": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "s of the repub": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s of the war d": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "s, that you ar": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "should attempt": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "sincerely and ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "solation that ": [
+    "hay_all"
+   ],
+   "solemn pride t": [
+    "hay_all"
+   ],
+   "statement of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "t a statement ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t may be found": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t you are the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "tatement of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "tement of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "thanks of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "that may be fo": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "that you are t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "the adjutant g": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "the anguish of": [
+    "hay_all"
+   ],
+   "the cherished ": [
+    "hay_all"
+   ],
+   "the consolatio": [
+    "hay_all"
+   ],
+   "the field of b": [
+    "hay_all"
+   ],
+   "the files of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "the mother of ": [
+    "hay_all"
+   ],
+   "the thanks of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "the war depart": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "tion that may ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "upon the altar": [
+    "hay_all"
+   ],
+   "utant general ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "very sincerely": [
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "war department": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "y be found in ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "y words of min": [
+    "hay_all"
+   ],
+   "you are the mo": [
+    "hay_all"
+   ]
+  },
+  "16": {
+   " a statement of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " adjutant genera": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " and respectfull": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " and the solemn ": [
+    "hay_all"
+   ],
+   " any words of mi": [
+    "hay_all"
+   ],
+   " be found in the": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " consolation tha": [
+    "hay_all"
+   ],
+   " field of battle": [
+    "hay_all"
+   ],
+   " from the grief ": [
+    "hay_all"
+   ],
+   " gloriously on t": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " in the files of": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " massachusetts, ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " may be found in": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " memory of the l": [
+    "hay_all"
+   ],
+   " of massachusett": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " of the adjutant": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " of the republic": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " of the war depa": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " on the field of": [
+    "hay_all"
+   ],
+   " should attempt ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " solemn pride th": [
+    "hay_all"
+   ],
+   " statement of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   " that you are th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " the adjutant ge": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " the anguish of ": [
+    "hay_all"
+   ],
+   " the consolation": [
+    "hay_all"
+   ],
+   " the field of ba": [
+    "hay_all"
+   ],
+   " the files of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   " the thanks of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   " the war departm": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   " upon the altar ": [
+    "hay_all"
+   ],
+   " very sincerely ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   " war department ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   ", and the solemn": [
+    "hay_all"
+   ],
+   ", that you are t": [
+    "hay_all"
+   ],
+   "a statement of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "adjutant general": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "and respectfully": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "any words of min": [
+    "hay_all"
+   ],
+   "at you are the m": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "ay be found in t": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "be found in the ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "consolation that": [
+    "hay_all"
+   ],
+   "d gloriously on ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "djutant general ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e adjutant gener": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "e consolation th": [
+    "hay_all"
+   ],
+   "e field of battl": [
+    "hay_all"
+   ],
+   "e thanks of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "e upon the altar": [
+    "hay_all"
+   ],
+   "e war department": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ed gloriously on": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "es of the war de": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "f massachusetts,": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "f the adjutant g": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "f the war depart": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "field of battle.": [
+    "hay_all"
+   ],
+   "gloriously on th": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "hat you are the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "he adjutant gene": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "he consolation t": [
+    "hay_all"
+   ],
+   "he field of batt": [
+    "hay_all"
+   ],
+   "he files of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "he thanks of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "he war departmen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "in the files of ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "lemn pride that ": [
+    "hay_all"
+   ],
+   "loriously on the": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "may be found in ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "memory of the lo": [
+    "hay_all"
+   ],
+   "n in the files o": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "n the field of b": [
+    "hay_all"
+   ],
+   "n the files of t": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "ne which should ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "ny words of mine": [
+    "hay_all"
+   ],
+   "of massachusetts": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "of the adjutant ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "of the republic ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "of the war depar": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "olemn pride that": [
+    "hay_all"
+   ],
+   "on the altar of ": [
+    "hay_all"
+   ],
+   "on the field of ": [
+    "hay_all"
+   ],
+   "onsolation that ": [
+    "hay_all"
+   ],
+   "oriously on the ": [
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "pon the altar of": [
+    "hay_all"
+   ],
+   "s of mine which ": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "s of the republi": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "s of the war dep": [
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "s, that you are ": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "solemn pride tha": [
+    "hay_all"
+   ],
+   "statement of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "t may be found i": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ],
+   "t you are the mo": [
+    "hay_all"
+   ],
+   "tatement of the ": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_all"
+   ],
+   "that you are the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "the adjutant gen": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "the consolation ": [
+    "hay_all"
+   ],
+   "the field of bat": [
+    "hay_all"
+   ],
+   "the files of the": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all"
+   ],
+   "the thanks of th": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "hay_all"
+   ],
+   "the war departme": [
+    "lincoln_own_1860_65",
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap",
+    "hay_1860_65",
+    "hay_all"
+   ],
+   "upon the altar o": [
+    "hay_all"
+   ],
+   "y be found in th": [
+    "lincoln_autograph_all",
+    "lincoln_pre1860_lapsley_gap"
+   ]
+  }
+ },
+ "words": {
+  "adjutant": {
+   "lincoln_own_1860_65": 3.2,
+   "lincoln_autograph_all": 2.1,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 11.0,
+   "hay_all": 2.4
+  },
+  "altar": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.4,
+   "hay_1860_65": 0.0,
+   "hay_all": 4.0
+  },
+  "anguish": {
+   "lincoln_own_1860_65": 0.8,
+   "lincoln_autograph_all": 0.5,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 4.0
+  },
+  "any": {
+   "lincoln_own_1860_65": 375.0,
+   "lincoln_autograph_all": 384.0,
+   "lincoln_pre1860_lapsley_gap": 361.2,
+   "hay_1860_65": 125.0,
+   "hay_all": 120.8
+  },
+  "are": {
+   "lincoln_own_1860_65": 297.0,
+   "lincoln_autograph_all": 312.5,
+   "lincoln_pre1860_lapsley_gap": 393.5,
+   "hay_1860_65": 327.2,
+   "hay_all": 399.2
+  },
+  "assuage": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 0.0
+  },
+  "attempt": {
+   "lincoln_own_1860_65": 19.9,
+   "lincoln_autograph_all": 19.2,
+   "lincoln_pre1860_lapsley_gap": 14.2,
+   "hay_1860_65": 0.0,
+   "hay_all": 5.0
+  },
+  "battle": {
+   "lincoln_own_1860_65": 15.9,
+   "lincoln_autograph_all": 12.4,
+   "lincoln_pre1860_lapsley_gap": 7.5,
+   "hay_1860_65": 36.8,
+   "hay_all": 19.7
+  },
+  "beguile": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 1.0
+  },
+  "bereavement": {
+   "lincoln_own_1860_65": 0.8,
+   "lincoln_autograph_all": 0.5,
+   "lincoln_pre1860_lapsley_gap": 0.4,
+   "hay_1860_65": 0.0,
+   "hay_all": 0.4
+  },
+  "cannot": {
+   "lincoln_own_1860_65": 12.7,
+   "lincoln_autograph_all": 9.8,
+   "lincoln_pre1860_lapsley_gap": 75.3,
+   "hay_1860_65": 33.1,
+   "hay_all": 49.2
+  },
+  "cherished": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 1.1,
+   "hay_1860_65": 1.8,
+   "hay_all": 4.2
+  },
+  "consolation": {
+   "lincoln_own_1860_65": 1.6,
+   "lincoln_autograph_all": 1.6,
+   "lincoln_pre1860_lapsley_gap": 0.7,
+   "hay_1860_65": 0.0,
+   "hay_all": 2.2
+  },
+  "costly": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 1.4
+  },
+  "dear": {
+   "lincoln_own_1860_65": 187.1,
+   "lincoln_autograph_all": 135.3,
+   "lincoln_pre1860_lapsley_gap": 46.9,
+   "hay_1860_65": 9.2,
+   "hay_all": 38.7
+  },
+  "department": {
+   "lincoln_own_1860_65": 155.3,
+   "lincoln_autograph_all": 104.2,
+   "lincoln_pre1860_lapsley_gap": 9.6,
+   "hay_1860_65": 47.8,
+   "hay_all": 27.1
+  },
+  "died": {
+   "lincoln_own_1860_65": 3.2,
+   "lincoln_autograph_all": 6.2,
+   "lincoln_pre1860_lapsley_gap": 4.3,
+   "hay_1860_65": 5.5,
+   "hay_all": 17.9
+  },
+  "father": {
+   "lincoln_own_1860_65": 31.8,
+   "lincoln_autograph_all": 37.3,
+   "lincoln_pre1860_lapsley_gap": 16.7,
+   "hay_1860_65": 11.0,
+   "hay_all": 21.3
+  },
+  "feel": {
+   "lincoln_own_1860_65": 24.7,
+   "lincoln_autograph_all": 26.4,
+   "lincoln_pre1860_lapsley_gap": 18.5,
+   "hay_1860_65": 22.1,
+   "hay_all": 30.7
+  },
+  "field": {
+   "lincoln_own_1860_65": 21.5,
+   "lincoln_autograph_all": 18.1,
+   "lincoln_pre1860_lapsley_gap": 5.7,
+   "hay_1860_65": 22.1,
+   "hay_all": 17.1
+  },
+  "files": {
+   "lincoln_own_1860_65": 0.8,
+   "lincoln_autograph_all": 1.0,
+   "lincoln_pre1860_lapsley_gap": 0.7,
+   "hay_1860_65": 0.0,
+   "hay_all": 0.8
+  },
+  "five": {
+   "lincoln_own_1860_65": 14.3,
+   "lincoln_autograph_all": 23.3,
+   "lincoln_pre1860_lapsley_gap": 40.1,
+   "hay_1860_65": 16.5,
+   "hay_all": 20.9
+  },
+  "found": {
+   "lincoln_own_1860_65": 29.5,
+   "lincoln_autograph_all": 41.5,
+   "lincoln_pre1860_lapsley_gap": 43.7,
+   "hay_1860_65": 91.9,
+   "hay_all": 60.8
+  },
+  "freedom": {
+   "lincoln_own_1860_65": 11.1,
+   "lincoln_autograph_all": 7.8,
+   "lincoln_pre1860_lapsley_gap": 19.5,
+   "hay_1860_65": 5.5,
+   "hay_all": 12.8
+  },
+  "fruitless": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 0.2
+  },
+  "general": {
+   "lincoln_own_1860_65": 209.4,
+   "lincoln_autograph_all": 185.0,
+   "lincoln_pre1860_lapsley_gap": 97.3,
+   "hay_1860_65": 180.2,
+   "hay_all": 39.7
+  },
+  "gloriously": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 3.7,
+   "hay_all": 0.6
+  },
+  "grief": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 1.1,
+   "hay_1860_65": 3.7,
+   "hay_all": 5.0
+  },
+  "heavenly": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.5,
+   "lincoln_pre1860_lapsley_gap": 0.7,
+   "hay_1860_65": 0.0,
+   "hay_all": 1.2
+  },
+  "how": {
+   "lincoln_own_1860_65": 54.9,
+   "lincoln_autograph_all": 50.3,
+   "lincoln_pre1860_lapsley_gap": 70.3,
+   "hay_1860_65": 62.5,
+   "hay_all": 89.7
+  },
+  "laid": {
+   "lincoln_own_1860_65": 8.0,
+   "lincoln_autograph_all": 6.2,
+   "lincoln_pre1860_lapsley_gap": 5.3,
+   "hay_1860_65": 5.5,
+   "hay_all": 10.8
+  },
+  "leave": {
+   "lincoln_own_1860_65": 33.4,
+   "lincoln_autograph_all": 34.7,
+   "lincoln_pre1860_lapsley_gap": 29.5,
+   "hay_1860_65": 27.6,
+   "hay_all": 31.5
+  },
+  "loss": {
+   "lincoln_own_1860_65": 7.2,
+   "lincoln_autograph_all": 7.8,
+   "lincoln_pre1860_lapsley_gap": 7.1,
+   "hay_1860_65": 11.0,
+   "hay_all": 6.4
+  },
+  "lost": {
+   "lincoln_own_1860_65": 6.4,
+   "lincoln_autograph_all": 11.4,
+   "lincoln_pre1860_lapsley_gap": 14.6,
+   "hay_1860_65": 23.9,
+   "hay_all": 27.3
+  },
+  "loved": {
+   "lincoln_own_1860_65": 1.6,
+   "lincoln_autograph_all": 1.6,
+   "lincoln_pre1860_lapsley_gap": 2.8,
+   "hay_1860_65": 1.8,
+   "hay_all": 12.4
+  },
+  "madam": {
+   "lincoln_own_1860_65": 3.2,
+   "lincoln_autograph_all": 2.1,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 0.8
+  },
+  "massachusetts": {
+   "lincoln_own_1860_65": 11.1,
+   "lincoln_autograph_all": 8.8,
+   "lincoln_pre1860_lapsley_gap": 5.0,
+   "hay_1860_65": 14.7,
+   "hay_all": 2.8
+  },
+  "memory": {
+   "lincoln_own_1860_65": 5.6,
+   "lincoln_autograph_all": 5.7,
+   "lincoln_pre1860_lapsley_gap": 7.1,
+   "hay_1860_65": 3.7,
+   "hay_all": 17.9
+  },
+  "mine": {
+   "lincoln_own_1860_65": 23.9,
+   "lincoln_autograph_all": 23.3,
+   "lincoln_pre1860_lapsley_gap": 19.5,
+   "hay_1860_65": 7.4,
+   "hay_all": 22.3
+  },
+  "mother": {
+   "lincoln_own_1860_65": 8.0,
+   "lincoln_autograph_all": 10.4,
+   "lincoln_pre1860_lapsley_gap": 8.5,
+   "hay_1860_65": 11.0,
+   "hay_all": 32.1
+  },
+  "must": {
+   "lincoln_own_1860_65": 88.4,
+   "lincoln_autograph_all": 74.6,
+   "lincoln_pre1860_lapsley_gap": 95.5,
+   "hay_1860_65": 75.4,
+   "hay_all": 75.4
+  },
+  "only": {
+   "lincoln_own_1860_65": 89.2,
+   "lincoln_autograph_all": 92.8,
+   "lincoln_pre1860_lapsley_gap": 127.9,
+   "hay_1860_65": 80.9,
+   "hay_all": 111.9
+  },
+  "overwhelming": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.5,
+   "lincoln_pre1860_lapsley_gap": 1.1,
+   "hay_1860_65": 5.5,
+   "hay_all": 2.6
+  },
+  "pray": {
+   "lincoln_own_1860_65": 2.4,
+   "lincoln_autograph_all": 4.1,
+   "lincoln_pre1860_lapsley_gap": 3.9,
+   "hay_1860_65": 1.8,
+   "hay_all": 7.2
+  },
+  "pride": {
+   "lincoln_own_1860_65": 0.8,
+   "lincoln_autograph_all": 0.5,
+   "lincoln_pre1860_lapsley_gap": 1.4,
+   "hay_1860_65": 5.5,
+   "hay_all": 12.4
+  },
+  "refrain": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.0,
+   "lincoln_pre1860_lapsley_gap": 0.0,
+   "hay_1860_65": 0.0,
+   "hay_all": 2.0
+  },
+  "republic": {
+   "lincoln_own_1860_65": 1.6,
+   "lincoln_autograph_all": 1.0,
+   "lincoln_pre1860_lapsley_gap": 3.2,
+   "hay_1860_65": 5.5,
+   "hay_all": 9.2
+  },
+  "respectfully": {
+   "lincoln_own_1860_65": 21.5,
+   "lincoln_autograph_all": 33.2,
+   "lincoln_pre1860_lapsley_gap": 21.7,
+   "hay_1860_65": 3.7,
+   "hay_all": 0.4
+  },
+  "sacrifice": {
+   "lincoln_own_1860_65": 0.0,
+   "lincoln_autograph_all": 0.5,
+   "lincoln_pre1860_lapsley_gap": 1.8,
+   "hay_1860_65": 3.7,
+   "hay_all": 5.2
+  },
+  "save": {
+   "lincoln_own_1860_65": 19.1,
+   "lincoln_autograph_all": 14.5,
+   "lincoln_pre1860_lapsley_gap": 9.6,
+   "hay_1860_65": 12.9,
+   "hay_all": 13.8
+  },
+  "shown": {
+   "lincoln_own_1860_65": 15.9,
+   "lincoln_autograph_all": 14.5,
+   "lincoln_pre1860_lapsley_gap": 13.1,
+   "hay_1860_65": 9.2,
+   "hay_all": 7.4
+  },
+  "sincerely": {
+   "lincoln_own_1860_65": 23.1,
+   "lincoln_autograph_all": 17.1,
+   "lincoln_pre1860_lapsley_gap": 6.7,
+   "hay_1860_65": 0.0,
+   "hay_all": 4.2
+  },
+  "solemn": {
+   "lincoln_own_1860_65": 1.6,
+   "lincoln_autograph_all": 1.0,
+   "lincoln_pre1860_lapsley_gap": 2.1,
+   "hay_1860_65": 9.2,
+   "hay_all": 8.2
+  },
+  "sons": {
+   "lincoln_own_1860_65": 4.8,
+   "lincoln_autograph_all": 5.2,
+   "lincoln_pre1860_lapsley_gap": 1.4,
+   "hay_1860_65": 0.0,
+   "hay_all": 2.2
+  },
+  "statement": {
+   "lincoln_own_1860_65": 12.7,
+   "lincoln_autograph_all": 14.5,
+   "lincoln_pre1860_lapsley_gap": 18.8,
+   "hay_1860_65": 3.7,
+   "hay_all": 3.0
+  },
+  "tendering": {
+   "lincoln_own_1860_65": 1.6,
+   "lincoln_autograph_all": 1.6,
+   "lincoln_pre1860_lapsley_gap": 0.4,
+   "hay_1860_65": 0.0,
+   "hay_all": 0.2
+  },
+  "thanks": {
+   "lincoln_own_1860_65": 34.2,
+   "lincoln_autograph_all": 22.3,
+   "lincoln_pre1860_lapsley_gap": 1.8,
+   "hay_1860_65": 3.7,
+   "hay_all": 10.4
+  },
+  "upon": {
+   "lincoln_own_1860_65": 207.8,
+   "lincoln_autograph_all": 193.8,
+   "lincoln_pre1860_lapsley_gap": 296.9,
+   "hay_1860_65": 77.2,
+   "hay_all": 100.1
+  },
+  "war": {
+   "lincoln_own_1860_65": 269.9,
+   "lincoln_autograph_all": 192.8,
+   "lincoln_pre1860_lapsley_gap": 39.4,
+   "hay_1860_65": 132.4,
+   "hay_all": 52.6
+  },
+  "weak": {
+   "lincoln_own_1860_65": 1.6,
+   "lincoln_autograph_all": 1.0,
+   "lincoln_pre1860_lapsley_gap": 1.4,
+   "hay_1860_65": 9.2,
+   "hay_all": 7.2
+  },
+  "words": {
+   "lincoln_own_1860_65": 13.5,
+   "lincoln_autograph_all": 11.9,
+   "lincoln_pre1860_lapsley_gap": 26.6,
+   "hay_1860_65": 14.7,
+   "hay_all": 37.3
+  },
+  "yours": {
+   "lincoln_own_1860_65": 532.7,
+   "lincoln_autograph_all": 422.9,
+   "lincoln_pre1860_lapsley_gap": 100.2,
+   "hay_1860_65": 20.2,
+   "hay_all": 32.1
+  }
+ }
+}

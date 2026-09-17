@@ -1,0 +1,127 @@
+QUERY: "nederlandsch schip" AND pacific AND "S.O.S." AND date within "1940-10-01 1940-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: doodenschip AND date within "1940-01-01 1940-12-31" | collection: DDD_artikel | numberOfRecords: 8 
+1940/04/18 | Limburger koerier : provinciaal dagblad | p2 | ddd:010327242:mpeg21:a0116 | OP ZOEK NAAR HET GRAF VAN EEN KONINGIN | KB C51
+1940/09/28 | Het nationale dagblad : voor het Nederlandsche volk | p7 | ddd:011132347:mpeg21:a0160 | Ros en ruiter in de kunst | Koninklijke Bibliotheek NBM Mfm MMK 0021
+1940/04/22 | Bataviaasch nieuwsblad | p11 | ddd:011123059:mpeg21:a0196 | Buitenzorg Dr. Willem in den K.S.B. | Koninklijke Bibliotheek C 96
+1940/10/01 | Hamer : uitgave voor de Volksche Werkgemeenschap | p28 | ddd:010310521:mpeg21:a0081 | DE NOORDSCHE MYTHE | KB A 49
+1940/04/02 | De Telegraaf | p9 | ddd:110578175:mpeg21:a0383 | RIJKE EN VOORNAME INDISCHE WEEFSELS. Uitgevoerd in geduldige en gehoorzame technieken. | KB C 98
+1940/04/18 | Utrechtsche courant | p2 | MMUTRA04:253351092:mpeg21:a00024 | GEMENGDE BERICHTEN | Het Utrechts Archief
+1940/11/28 | Leeuwarder courant | p11 | ddd:010608135:mpeg21:a0301 | VAN TAAI-TAAI EN TAAIPLANKEN | KBDK
+1940/10/02 | Westfriesch dagblad onze courant | p | MMWFA01:000314002:mpeg21:a00020 | „REYSEN VAN NICOLAUS DE GRAAFF" | Westfries Archief
+
+QUERY: "stille oceaan" AND geheimzinnig AND date within "1940-10-01 1940-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "geheimzinnige S.O.S." | collection: DDD_artikel | numberOfRecords: 29 
+1931/04/23 | Het volk : dagblad voor de arbeiderspartĳ | p5 | ddd:011116306:mpeg21:a0080 | De geheimzinnige S.O.S.-teekens. | Koninklijke Bibliotheek NBM Mfm MMK 0033
+1931/04/23 | Voorwaarts | p | KBDDD02:000204519:mpeg21:a0027 | De geheimzinnige S.O.S.-seinen. | Koninklijke Bibliotheek
+1939/02/23 | Nieuwsblad van het Noorden | p1 | ddd:010676744:mpeg21:a0011 | Geen contact met de „Peeten”. | KB C 65
+1935/10/24 | De courant Het nieuws van den dag | p4 | MMKB15:000612046:mpeg21:a00017 | „We staan gewoon voor een raadsel | Koninklijke Bibliotheek
+1935/10/23 | De courant Het nieuws van den dag | p4 | MMKB15:000612045:mpeg21:a00026 | BITTERE ERNST. | Koninklijke Bibliotheek
+1939/02/23 | De Indische courant | pII | ddd:010285658:mpeg21:a0159 | GEHEIMZINNIGE S. O. S.-TEEKENS. Van getorpedeerd schip ? | KB C 248
+1939/02/24 | Limburgsch dagblad | p1 | ddd:010934370:mpeg21:a0007 | Het raadsel van het getorpedeerde schip BLIJFT NOG STEEDS EEN RAADSEL. | Koninklijke Bibliotheek C 101
+1939/02/24 | De Limburger | p1 | MMKB23:001234047:mpeg21:a00007 | Het raadsel van het getorpedeerde schip BLIJFT NOG STEEDS EEN RAADSEL. | Archief De Domijnen
+1949/02/21 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p1 | MMRAZ03:179294043:mpeg21:a00016 | Geheimzinnige S.O.S.-tekens bij de Azoren | Regionaal Archief Zutphen
+1948/02/05 | Algemeen Dagblad | p1 | MMSARO03:259004030:mpeg21:a00028 | Geheimzinnige S.O.S.-signalen aan Amerikaanse Oostkust opgevangen | Stadsarchief Rotterdam
+1939/02/23 | Arnhemsche courant | p | MMKB08:000111047:mpeg21:a0006 | NIETS GEVONDEN. | Koninklijke Bibliotheek
+1929/11/25 | Het nieuws van den dag voor Nederlandsch-Indië | p2 | ddd:010221624:mpeg21:a0024 | HET BRITSCHE RIJK. Het geheimzinnige S.O.S.-teeken. | KB C55
+1939/02/23 | Nieuwe Haarlemsche courant | p1 | MMNHA03:179191039:mpeg21:a00005 | Getorpedeerde schip vermoedelijk Britsch | Noord-Hollands Archief
+1936/10/09 | Bildtsche courant | p4 | MMTRES04:211357080:mpeg21:a00026 | VOOR DE KINDEREN ROB DE AVONTURIER | Tresoar
+1931/04/20 | Het volk : dagblad voor de arbeiderspartĳ | p3 | ddd:011116300:mpeg21:a0037 | De geheimzinnige S.O.S.-teekens. De expeditie op den berg Alogez in veiligheid. | Koninklijke Bibliotheek NBM Mfm MMK 0033
+1939/02/25 | De Noord-Ooster | p | MMVEEN01:000083103:mpeg21:a0054 | Het getorpedeerde schip. Nog geen opheidering. | Veenkoloniaal Museum
+1947/07/16 | Nieuwsblad van het Zuiden | p3 | MMKB19:000607014:mpeg21:a00036 | BONNY DAY IN AMERIKA | Koninklijke Bibliotheek
+1949/02/21 | Nijmeegsch dagblad | p2 | MMRANM03:048381043:mpeg21:a00024 | GEHEIMZINNIGE S.O.S.-TEKENS | Regionaal Archief Nijmegen
+1939/02/23 | Winschoter courant | p2 | MMRHCG03:163503023:mpeg21:a00018 | LAATSTE NIEUWS. | Groninger archieven
+1935/11/29 | De locomotief | p4 | MMKB23:001753057:mpeg21:a00022 | BITTERE ERNST. | Universitaire Bibliotheken Leiden
+1939/02/24 | Groninger dagblad | p2 | MMRHCG04:235247047:mpeg21:a00023 | Gemengde Berichten | Groninger archieven
+1937/02/27 | Mooi Limburg | p | MMGAVL01:000033067:mpeg21:a0033 | NAAR HET ONBEKENDE LAND EEN MODERNE ONTDEKKINGSREIS | Gemeentearchief Venlo
+1939/02/23 | Zutphensche courant | p | MMRAZ02:000445046:mpeg21:a00048 | Schip bij de Azoren getorpedeerd? Waarschijnlijk een Engelsch schip. | Regionaal Archief Zutphen
+1939/02/23 | De Zaanlander | p | MMGAZS01:000104046:mpeg21:a00001 | NEDERLANDSCH OF BRITSCH SCHIP GETORPEDEERD? | Gemeentearchief Zaanstad
+1939/02/25 | Limburger koerier | p | KBDDD02:000197395:mpeg21:a0123 | LAATSTE NIEUWS Schip getorpedeerd? Men weet nog niets. | Koninklijke Bibliotheek
+1925/12/14 | Dagblad van Noord-Brabant | p1 | MMKB23:001960141:mpeg21:a00007 | TERWIJL MOEDER UIT WAS... | Tilburg University Library
+1939/02/24 | Nieuwe Venlosche courant | p | MMGAVL01:000032991:mpeg21:a0025 | Gemengd Nieuws Wielrijder moet uitkijken als hij den weg oversteekt Autobestuurder behoeft | Gemeentearchief Venlo
+1940/02/09 | De Tĳd : godsdienstig-staatkundig dagblad | p3 | ddd:010989195:mpeg21:a0075 | Toen Paus Pius XI stierf 10 FEBRUARI 1939 (Van onzen Romeinschen correspondent) | Koninklijke Bibliotheek C 236
+1940/02/09 | Nieuwe Haarlemsche courant | p9 | MMNHA03:179203016:mpeg21:a00149 | Toen Paus Pius XI stierf | Noord-Hollands Archief
+
+QUERY: "geheimzinnig S.O.S." | collection: DDD_artikel | numberOfRecords: 19 
+1936/02/04 | De avondpost | p2 | MMKB27:017932057:mpeg21:a00025 | Geheimzinnig S.O.S. | Koninklijke Bibliotheek
+1936/02/05 | De Gooi- en Eemlander : nieuws- en advertentieblad | p9 | ddd:011172128:mpeg21:a0166 | BUITENLAND. | Koninklijke Bibliotheek MM03C-101523
+1939/05/17 | Algemeen handelsblad voor Nederlandsch-Indië | p7 | MMKB19:000477038:mpeg21:a00103 | S.O.S.-Sein opgevangen. | Koninklijke Bibliotheek
+1936/02/05 | Bredasche courant | p | MMSAB03:000066253:mpeg21:a0091 | Geheimzinnig S.O.S. VAN ONDERZEEëR OF VLIEGTUIG ? | Stadsarchief Breda
+1971/03/29 | Suriname : koloniaal nieuws- en advertentieblad | p1 | ddd:011195552:mpeg21:a0034 | GEHEIMZINNIG S.O.S. | Koninklijke Bibliotheek C 82
+1971/03/29 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p3 | ddd:010470123:mpeg21:a0068 | Geheimzinnig s.o.s. | KB C 251
+1954/08/20 | Nieuwsblad van het Noorden | p1 | ddd:010888328:mpeg21:a0007 | Geheimzinnig S.O.S. | Koninklijke Bibliotheek 649-1334
+1959/11/30 | Het Binnenhof | p10 | MMKB19:002056052:mpeg21:a00138 | Geheimzinnig S.O.S. op Noordzee | Koninklijke Bibliotheek
+1925/05/06 | De Sumatra post | p11 | ddd:010970056:mpeg21:a0126 | Zware stormen. | Koninklijke Bibliotheek 1634 C1
+1931/03/30 | Algemeen Handelsblad | p6 | ddd:010661309:mpeg21:a0233 | VEREENIGDE STATEN. GEHEIMZINNIG S.O.S. Noodseln van onbekende passagiersboot. | KB C 21
+1931/04/02 | Limburgsch dagblad | p5 | ddd:010930309:mpeg21:a0168 | GEHEIMZINNIG S.O.S. Noodsein van onbekende passagiersboot. | Koninklijke Bibliotheek C 101
+1931/04/02 | De Limburger | p5 | MMKB23:001218075:mpeg21:a00120 | GEHEIMZINNIG S.O.S. Noodsein van onbekende passagiersboot. | Archief De Domijnen
+1939/08/03 | De avondpost | p9 | MMKB27:021096056:mpeg21:a00110 | BUITENLAND Geheimzinnig S.O.S. Olietanker zou in Golf van Mexico in nood verkeeren | Koninklijke Bibliotheek
+1939/11/02 | Algemeen handelsblad voor Nederlandsch-Indië | p1 | MMKB19:000471028:mpeg21:a00001 | Nieuws, | Koninklijke Bibliotheek
+1929/11/23 | Het nieuws van den dag voor Nederlandsch-Indië | p5 | ddd:010221623:mpeg21:a0156 | TELEGRAMMEN. HET BRITSCHE RIJK. Geheimzinnig S.O.S.-teeken. | KB C55
+1925/05/14 | Sumatra-bode | p5 | MMKB19:002120101:mpeg21:a00014 | Telegrammen. | Koninklijke Bibliotheek
+1939/11/02 | Algemeen handelsblad voor Nederlandsch-Indië | p5 | MMKB19:000471028:mpeg21:a00059 | Molatov veroorzaakt Opschudding in Finland | Koninklijke Bibliotheek
+1925/05/07 | Deli courant | p2 | MMKB15:000084006:mpeg21:a00003 | TELEGRAMMEN. | Koninklijke Bibliotheek
+1931/03/31 | Utrechtsche courant | p5 | MMUTRA04:253333076:mpeg21:a00045 | GEMENGD BUITENLANDSCH NIEUWS. | Het Utrechts Archief
+
+QUERY: "doode bemanning" AND date within "1940-01-01 1941-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: spookschip AND date within "1940-09-01 1941-03-31" | collection: DDD_artikel | numberOfRecords: 52 
+1940/09/21 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179210035:mpeg21:a00070 | WAAR DE FILMBAND ROLT CINEMA PALACE | Noord-Hollands Archief
+1940/09/21 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179210036:mpeg21:a00040 | Haarlem, 21 Sept. | Noord-Hollands Archief
+1940/09/20 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179210034:mpeg21:a00039 | Haarlem, 20 Sept. | Noord-Hollands Archief
+1940/09/21 | Haarlem's dagblad | p6 | ddd:010990393:mpeg21:a0157 | Avonturen op het spookschip. | Koninklijke Bibliotheek C 232
+1940/09/24 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179210040:mpeg21:a00040 | Haarlem, 24 Sept. | Noord-Hollands Archief
+1940/09/25 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179210042:mpeg21:a00039 | Haarlem, 25 Sept. | Noord-Hollands Archief
+1940/09/20 | Het nationale dagblad : voor het Nederlandsche volk | p6 | ddd:011132340:mpeg21:a0134 | HAARLEM | Koninklijke Bibliotheek NBM Mfm MMK 0021
+1940/09/21 | Het nationale dagblad : voor het Nederlandsche volk | p6 | ddd:011132341:mpeg21:a0160 | HAARLEM | Koninklijke Bibliotheek NBM Mfm MMK 0021
+1941/03/29 | Limburger koerier : provinciaal dagblad | p5 | ddd:010326730:mpeg21:a0287 | Schaesberg. | KB C 51
+1940/09/21 | Haarlem's dagblad | p2 | ddd:010990393:mpeg21:a0090 | ZONDAG 22 SEPTEMBER | Koninklijke Bibliotheek C 232
+1940/09/23 | Haarlem's dagblad | p6 | ddd:010990394:mpeg21:a0139 | AGENDA. Heden: MAANDAG 23 SEPTEMBER. | Koninklijke Bibliotheek C 232
+1940/09/25 | Haarlem's dagblad | p3 | ddd:010990396:mpeg21:a0083 | AGENDA. WOENSDAG 25 SEPTEMBER. | Koninklijke Bibliotheek C 232
+1940/09/24 | Haarlem's dagblad | p2 | ddd:010990395:mpeg21:a0052 | AGENDA. Heden: DINSDAG 24 SEPTEMBER. | Koninklijke Bibliotheek C 232
+1940/09/26 | De Telegraaf | p6 | ddd:110579230:mpeg21:a0116 | Bioscopen | KB C 98
+1940/09/23 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179210038:mpeg21:a00039 | Haarlem, 23 Sept. | Noord-Hollands Archief
+1940/09/25 | De Telegraaf | p6 | ddd:110579228:mpeg21:a0105 | HAARLEM, 25 September. Bioscopen. | KB C 98
+1940/09/23 | De Telegraaf | p10 | ddd:110579225:mpeg21:a0186 | HAARLEM, 23 September. Bioscopen | KB C 98
+1940/09/24 | De Telegraaf | p8 | ddd:110579227:mpeg21:a0167 | Bioscopen | KB C 98
+1940/09/21 | Haarlem's dagblad | p2 | ddd:010990393:mpeg21:a0089 | AGENDA. Heden: ZATERDAG 21 SEPTEMBER. | Koninklijke Bibliotheek C 232
+1940/09/23 | Oprechte Haarlemsche courant | p2 | ddd:110530257:mpeg21:a0020 | AGENDA | KB C 37
+1940/12/09 | Nieuwsblad van het Zuiden : dagblad met ochtend- en avond-editie | p5 | ddd:010770717:mpeg21:a0086 | Hedendaagsche spoken bedienen zich van auto's IN DE VEREENIGDE STATEN IS HET VEILIGER 's N | Koninklijke Bibliotheek C 1123
+1941/02/15 | De Sumatra post | p6 | ddd:011176825:mpeg21:a0130 | EEN SPOOKSCHIP TOT ZINKEN GEBRACHT | Koninklijk Instituut voor Taal-, Land- e
+1940/12/09 | Dagblad van Noord-Brabant | p6 | MMKB23:001991210:mpeg21:a00099 | Hedendaagsche spoken bedienen zich van auto’s. In de Vereenigde-Staten is het veiliger ’s  | Tilburg University Library
+1940/09/21 | De Telegraaf | p6 | ddd:110579222:mpeg21:a0115 | HAARLEM, 21 September. Bioscopen. | KB C 98
+1940/09/22 | De Telegraaf | p11 | ddd:110579224:mpeg21:a0108 | Bioscopen | KB C 98
+1940/09/21 | De Telegraaf | p7 | ddd:110579223:mpeg21:a0267 | Bioscopen. | KB C 98
+1940/09/21 | De courant Het nieuws van den dag | p6 | ddd:010379066:mpeg21:a0110 | HAARLEM. | KB C 226
+1940/09/24 | Oprechte Haarlemsche courant | p2 | ddd:110530258:mpeg21:a0019 | AGENDA | KB C 37
+1940/09/24 | Oprechte Haarlemsche courant | p2 | ddd:110530258:mpeg21:a0148 | AGENDA | KB C 37
+1940/09/21 | Oprechte Haarlemsche courant | p6 | ddd:110530256:mpeg21:a0055 | Advertentie | KB C 37
+1940/09/26 | Oprechte Haarlemsche courant | p2 | ddd:110530260:mpeg21:a0048 | AGENDA | KB C 37
+1940/09/21 | Nieuwe Haarlemsche courant | p7 | MMNHA03:179210036:mpeg21:a00119 | Advertentie | Noord-Hollands Archief
+1940/09/20 | De Telegraaf | p6 | ddd:110579220:mpeg21:a0102 | HAARLEM, 20 September. Bioscopen. | KB C 98
+1940/09/20 | De Telegraaf | p9 | ddd:110579221:mpeg21:a0176 | HAARLEM, 20 September. Bioscopen. | KB C 98
+1940/09/26 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179210044:mpeg21:a00040 | Haarlem, 26 Sept. | Noord-Hollands Archief
+1940/10/15 | De courant Het nieuws van den dag | p4 | ddd:010379086:mpeg21:a0087 | RUSTELOZE WRAKKEN. | KB C 226
+1940/09/06 | Provinciale Drentsche en Asser courant | p5 | ddd:010692937:mpeg21:a0174 | ONTMOETING MET DEN VLIEGENDEN HOLLANDER | Koninklijke Bibliotheek C 225
+1940/10/20 | De Telegraaf | p5 | ddd:110579272:mpeg21:a0216 | Tijs Wijs, de Torenwachter 37. „Hier ben ik!” | KB C 98
+1940/10/28 | De courant Het nieuws van den dag | p6 | ddd:010379097:mpeg21:a0160 | Tijs Wijs, de Torenwachter 37. „Hier ben ik!” | KB C 226
+1940/10/26 | De Limburger | p3 | MMKB23:001235101:mpeg21:a00067 | AMERIKAANSCHE SPOOKGESCHIEDENISSEN | Archief De Domijnen
+1940/12/09 | Dagblad van Noord-Brabant | p6 | MMKB23:001991210:mpeg21:a00101 | WRAAK VAN ONSCHOTDIGEN NEGER | Tilburg University Library
+1940/12/09 | Nieuwsblad van het Zuiden : dagblad met ochtend- en avond-editie | p5 | ddd:010770717:mpeg21:a0089 | Wraak van onschuldigen neger. | Koninklijke Bibliotheek C 1123
+1940/10/10 | De Telegraaf | p2 | ddd:110579255:mpeg21:a0124 | RUSTELOZE WRAKKEN. | KB C 98
+1940/11/01 | Signaal | p2 | ddd:010492950:mpeg21:a0011 | Mei de torpedomotorbooten in het Kanaal Door PK. Kiaulehn | NIOD per.1095
+1940/11/23 | De Volkskrant | p | ABCDDD:010845537:mpeg21:a0129 | De Vliegende Hollander Ons zeevolk vertegenwoordigt de natie | Koninklijke Bibliotheek
+1940/11/05 | Utrechtsche courant | p1 | MMUTRA04:253352108:mpeg21:a00006 | Hedendaagsche spoken bedienen zich van auto's. | Het Utrechts Archief
+1941/01/04 | Nieuwe Utrechtsche courant | p7 | MMUTRA04:253399080:mpeg21:a00071 | De Vliegende Hollander | Het Utrechts Archief
+1940/11/15 | De Telegraaf | p2 | ddd:110578395:mpeg21:a0041 | TANKSCHEPEN VOOR JAPANS OLIE. | KB C 98
+1940/09/25 | De Maasbode | p4 | ddd:110531095:mpeg21:a0107 | KUNSTAGENDA | KB C 61
+1940/09/24 | De Maasbode | p4 | ddd:110531093:mpeg21:a0117 | KUNSTAGENDA | KB C 61
+
+QUERY: "S.O.S." AND "stille oceaan" AND schip AND date within "1940-10-01 1940-12-31" | collection: DDD_artikel | numberOfRecords: 1 
+1940/10/01 | Twentsch dagblad Tubantia en Enschedesche courant | p | MMSAEN01:000054666:mpeg21:a0013 | LAATSTE NIEUWS BINNENLAND. | Stadsarchief Enschede
+
+QUERY: ourang AND date within "1940-01-01 1941-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "nederlandsch vrachtschip" AND "S.O.S." AND date within "1940-10-01 1940-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+

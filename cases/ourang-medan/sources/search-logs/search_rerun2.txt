@@ -1,0 +1,722 @@
+QUERY: "straat malakka" | total 18870 | showing years 1947-1948 (capped at 6000)
+  1948/03/09 | De Graafschapper | p1 | MMECAL02:179990209:mpeg21:a00008 | Duitsers In Straat Malakka opgepikt
+  1948/03/09 | De Graafschapper | p1 | MMECAL02:179990208:mpeg21:a00008 | Duitsers in Straat Malakka opgepikt
+  1948/10/15 | De nieuwsgier | p6 | ddd:010474661:mpeg21:a0069 | Advertentie
+  1948/03/08 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179234057:mpeg21:a00051 | DUITSERS OPGEPIKT IN STRAAT-MALAKKA
+  1948/03/08 | De Gooi- en Eemlander : nieuws- en advertentieblad | p1 | ddd:011173480:mpeg21:a0006 | Twee Duitsers in Straat Malakka opgepikt Zij hadden prettige herinneringen aan de Nederlan
+  1948/10/22 | De nieuwsgier | p4 | ddd:010474667:mpeg21:a0061 | Advertentie
+  1947/11/27 | Leeuwarder courant : hoofdblad van Friesland | p3 | ddd:010610185:mpeg21:a0113 | NED. PASSAGIERSSCHEPEN
+  1948/12/07 | Trouw | p | ABCDDD:010824177:mpeg21:a0089 | PASSAGIERS. EN TROEPENSCHEPEN
+  1948/12/07 | Helmondsche courant | p | MMRHCE01:000047462:mpeg21:a0004 | Van en naar INDONESIË
+  1948/03/09 | De waarheid | p3 | ddd:010851322:mpeg21:a0078 | Twee Duitsers kwamen herinneringen ophalen
+  1948/03/08 | Nijmeegsch dagblad | p1 | MMRANM03:048378057:mpeg21:a00003 | TWEE DUITSERS WAREN OP ZWERFTOCHT
+  1948/03/10 | Algemeen Dagblad | p2 | MMSARO03:259004059:mpeg21:a00044 | Uit het Vreemdelingenlegioen ontsnapt
+  1948/03/09 | Provinciale Drentsche en Asser courant | p | MMDA03:000130524:mpeg21:a0039 | PRETTIGE HERINNERINGEN.
+  1948/03/09 | Provinciale Drentsche en Asser courant | p | MMDA03:000130522:mpeg21:a0034 | PRETTIGE HERINNERINGEN.
+  1947/11/20 | De Zaanlander | p | MMGAZS01:000115044:mpeg21:a00033 | Zeevarend Nederland
+  1948/03/09 | Leeuwarder courant : hoofdblad van Friesland | p1 | ddd:010610270:mpeg21:a0010 | Duitsers hadden „aangename herinneringen"
+  1948/03/08 | Nieuwe courant | p | MMNIOD04:000094272:mpeg21:a0018 | DESERTEURS IN PALEMBANG AANGEKOMEN
+  1948/03/08 | De locomotief : Samarangsch handels- en advertentie-blad | p1 | ddd:010862925:mpeg21:a0031 | Deserteurs van het Legioen Twee Duitsers in Palembang
+  1948/03/08 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p2 | ddd:010896061:mpeg21:a0043 | Ontsnapte Duitsers zoeken werk in Indië
+  1948/10/11 | Trouw | p | ABCDDD:010870512:mpeg21:a0086 | RADAR CONTRA SMOKKELAARS IN STRAAT. MALAKKA Koninklijke Marine op haar post
+  1947/07/28 | De Nederlandsche transportcourant | p1 | MMKB19:000824170:mpeg21:a00016 | Chinees motorschip in beslag genomen
+  1948/12/07 | Gazet van Limburg | p2 | MMCC01:048018057:mpeg21:a00022 | HEEN EN WEER NAAR INDONESIE
+  1948/03/09 | Gazet van Limburg | p1 | MMCC01:048015058:mpeg21:a00019 | GEDESERTEERDE DUITSERS OPGEPIKT Zij hadden „prettige herinneringen
+  1947/05/10 | Nieuwe courant | p | MMNIOD04:000100368:mpeg21:a0060 | MUNITIE-AANHALING TE SINGAPORE.
+  1948/03/09 | Het nieuws : algemeen dagblad | p1 | ddd:010480328:mpeg21:a0003 | Veder Jan d. TWEE DESERTEURS
+  1947/06/16 | Trouw | p | ABCDDD:010871159:mpeg21:a0079 | ECONOMIE EN FINANCIEN Samensmelting der vaarten op den Stillen Oceaan Buitenlandse dienste
+  1947/02/11 | Nieuwe courant | p | MMNIOD04:000100126:mpeg21:a0054 | De Paketvaart
+  1948/04/17 | De locomotief : Samarangsch handels- en advertentie-blad | p4 | ddd:010862980:mpeg21:a0106 | Advertentie
+  1948/11/19 | De locomotief : Samarangsch handels- en advertentie-blad | p4 | ddd:010863099:mpeg21:a0082 | Advertentie
+  1947/11/27 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p3 | MMRAZ03:179292278:mpeg21:a00057 | Waar zijn onze schepen
+  1947/11/27 | Nijmeegsch dagblad | p6 | MMRANM03:048377101:mpeg21:a00097 | SCHEEPSTIJDINGEN
+  1948/06/30 | Nijmeegsch dagblad | p2 | MMRANM03:048379049:mpeg21:a00040 | Scheepstijdingen
+  1948/12/07 | Provinciale Drentsche en Asser courant | p | MMDA03:000129311:mpeg21:a0023 | Waar zijn onze schepen ?
+  1948/12/07 | Provinciale Drentsche en Asser courant | p | MMDA03:000129313:mpeg21:a0023 | Waar zijn onze schepen ?
+  1947/05/10 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p2 | ddd:010897444:mpeg21:a0025 | Wapens en ammunitie ontdekt
+  1948/12/17 | De locomotief : Samarangsch handels- en advertentie-blad | p4 | ddd:010863123:mpeg21:a0066 | De ruilhandel over straat Malakka
+  1947/07/28 | Overijsselsch dagblad | p2 | MMKB23:001286024:mpeg21:a00024 | Opstand.
+  1947/11/28 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden | p2 | ddd:010536479:mpeg21:a0108 | Laatste positie Ned passagiersschepen
+  1948/10/07 | Trouw | p | ABCDDD:010824125:mpeg21:a0016 | RADAR CONTRA SMOKKELAARS IN STRAAT MALAKKA
+  1948/03/24 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden | p2 | ddd:010536553:mpeg21:a0079 | Natalse pennekrassen
+  1948/04/14 | De waarheid | p4 | ddd:010851351:mpeg21:a0088 | Nagekomen scheepvaart, berichten
+  1948/12/24 | Nijmeegsch dagblad | p3 | MMRANM03:048380098:mpeg21:a00040 | SCHEEPSTIJDINGEN
+  1948/03/05 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017770055:mpeg21:a00043 | Scheepstijdingen
+  1948/04/05 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017770079:mpeg21:a00044 | Scheepstijdingen
+  1948/03/09 | Arnhemsche courant | p | MMKB08:000113129:mpeg21:a0026 | INDIË VAN MOOK NAAR SOEMATERA TIMOER
+  1948/01/20 | Provinciale Drentsche en Asser courant | p | MMDA03:000116333:mpeg21:a0031 | Waar zijn onze schepen ?
+  1948/01/20 | Provinciale Drentsche en Asser courant | p | MMDA03:000116334:mpeg21:a0031 | Waar zijn onze schepen ?
+  1947/05/27 | Nieuwe Apeldoornsche courant | p | MMCODA01:000160966:mpeg21:a0032 | SCHEEPVAARTBERICHTEN.
+  1948/12/07 | De Zaanlander | p | MMGAZS01:000107057:mpeg21:a00022 | SCHEEPSBERICHTEN
+  1947/04/03 | De Zaanlander | p | MMGAZS01:000112077:mpeg21:a00061 | Zeevarend Nederland
+  1948/04/05 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000069704:mpeg21:a0024 | Scheepvaartberichten. ZATERDAG 3 APRIL.
+  1947/06/14 | Algemeen Indisch dagblad | p | MMNIOD04:000092382:mpeg21:a0017 | ZEEROVERIJ IN STRAAT MALAKKA.
+  1947/05/12 | Nieuwe courant | p | MMNIOD04:000100369:mpeg21:a0047 | M.W.O. UITGEREIKT
+  1947/06/12 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p2 | ddd:010897470:mpeg21:a0041 | Zeeroverij in Straat Malakka Politie staat machteloos
+  1947/04/29 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p1 | ddd:010897436:mpeg21:a0027 | M.W.O. uitgereikt
+  1948/12/07 | Limburgsch dagblad | p2 | ddd:010416184:mpeg21:a0066 | ANDERE VERSIE
+  1947/06/17 | Nieuwe Apeldoornsche courant | p | MMCODA01:000161271:mpeg21:a0020 | KORTE BERICHTEN
+  1947/11/01 | Het Parool | p | ABCDDD:010835242:mpeg21:a0133 | SCHEEPSTIJDINGEN
+  1948/03/25 | Trouw | p | ABCDDD:010870648:mpeg21:a0124 | GROTE VAART.
+  1947/08/11 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p4 | ddd:010897519:mpeg21:a0093 | Advertentie
+  1948/09/17 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862982:mpeg21:a0041 | Advertentie
+  1948/05/17 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010863028:mpeg21:a0047 | Advertentie
+  1948/08/17 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862896:mpeg21:a0050 | Advertentie
+  1948/06/10 | De Nederlander | p4 | MMKB19:000082134:mpeg21:a00041 | Navigare Necesse Est
+  1947/02/04 | De waarheid | p2 | ddd:010852260:mpeg21:a0038 | Nederland ter zee
+  1947/01/18 | De waarheid | p2 | ddd:010852189:mpeg21:a0058 | Nederland ter zeë
+  1948/12/06 | Nijmeegsch dagblad | p3 | MMRANM03:048380082:mpeg21:a00059 | SCHEEPSTIJDINGEN
+  1948/03/25 | Nijmeegsch dagblad | p2 | MMRANM03:048378072:mpeg21:a00035 | SCHEEPSTIJDINGEN
+  1948/01/20 | Nijmeegsch dagblad | p2 | MMRANM03:048378016:mpeg21:a00034 | ' SCHEEPSTIJDINGEN
+  1948/01/21 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235025017:mpeg21:a00068 | WAAR ZIJN ONZE SCHEPEN?
+  1948/01/02 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017770001:mpeg21:a00043 | Scheepstijdingen
+  1948/01/07 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017770005:mpeg21:a00045 | Scheepstijdingen
+  1948/01/15 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017770012:mpeg21:a00034 | Scheepstijdingen
+  1947/06/17 | Provinciale Overijsselsche en Zwolsche courant | p2 | MMHCO02:163845139:mpeg21:a00027 | Onze scheepvaart in het Verre Oosten J.C.J.L. + K.P.M. = J.C.P.L.
+  1948/03/09 | Nieuwsblad van het Zuiden | p3 | MMKB19:000614058:mpeg21:a00042 | De wereld rond
+  1947/09/15 | De Nederlander | p3 | MMKB19:000080065:mpeg21:a00033 | Scheepvaart
+  1947/09/19 | De Nederlander | p4 | MMKB19:000080069:mpeg21:a00039 | Scheepvaart
+  1948/07/13 | De Nederlander | p4 | MMKB19:000084012:mpeg21:a00040 | Navigare Necesse Est
+  1948/03/04 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017770054:mpeg21:a00048 | Scheepstijdingen
+  1947/03/03 | Nieuw Utrechtsch dagblad | p4 | MMKB27:017768052:mpeg21:a00080 | Scheepstijdingen
+  1948/02/05 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017770030:mpeg21:a00038 | Scheepstijdingen
+  1947/02/07 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017768032:mpeg21:a00033 | Scheepstijdingen
+  1947/06/23 | Trouw | p | ABCDDD:010871163:mpeg21:a0109 | Scheepvaart GROTE VAART.
+  1947/03/31 | Trouw | p | ABCDDD:010871130:mpeg21:a0117 | Scheepsbewegingen GROOTE VAART.
+  1947/08/14 | Trouw | p | ABCDDD:010871215:mpeg21:a0093 | GROTE VAART
+  1947/08/04 | Trouw | p | ABCDDD:010871205:mpeg21:a0094 | SCHEEPSBEWEGINGEN Grote Vaart
+  1947/09/02 | Trouw | p | ABCDDD:010871230:mpeg21:a0101 | SCHEEPVAART GROTE VAART
+  1947/09/08 | Trouw | p | ABCDDD:010871235:mpeg21:a0117 | SCHEEPVAART GROTE VAART.
+  1948/06/19 | Het Parool | p | ABCDDD:010830962:mpeg21:a0115 | SCHEEPSTIJDINGEN
+  1948/06/15 | Trouw | p | ABCDDD:010870712:mpeg21:a0032 | GROTE VAART
+  1948/01/02 | Trouw | p | ABCDDD:010870579:mpeg21:a0035 | GROTE VAART.
+  1948/03/25 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000069570:mpeg21:a0086 | Scheepvaartberichten. WOENSDAG 24 MAART.
+  1948/02/05 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000065832:mpeg21:a0034 | KERKNIEUWS.
+  1948/12/06 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000071247:mpeg21:a0028 | Scheepvaartberichten. 6 December.
+  1948/11/03 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000070715:mpeg21:a0025 | Scheepvaartberichten. 3 November.
+  1948/11/03 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000070721:mpeg21:a0038 | Scheepvaartberichten. 3 November.
+  1948/07/17 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063342:mpeg21:a0014 | SCHEEPSBERICHTEN.
+  1948/06/19 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063180:mpeg21:a0023 | Scheepvaartberichten. ZATERDAG 19 JUNI.
+  1948/06/19 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063182:mpeg21:a0021 | Scheepvaartberichten. ZATERDAG 19 JUNI.
+  1948/06/19 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063183:mpeg21:a0023 | Scheepvaartberichten. ZATERDAG 19 JUNI.
+  1947/04/29 | Algemeen Indisch dagblad | p | MMNIOD04:000092179:mpeg21:a0004 | M. W. O. UITGEREIKT. Aan Men. sgt. Irot.
+  1947/10/07 | Nieuwe courant | p | MMNIOD04:000093322:mpeg21:a0061 | Advertentie
+  1947/06/17 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p1 | ddd:010897473:mpeg21:a0025 | Fusie van K.P.M. en J.C.J.L.
+  1948/01/10 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p2 | ddd:010896014:mpeg21:a0029 | AI ploeterend
+  1948/10/12 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179237010:mpeg21:a00085 | Scbeepvaartberichten
+  1947/05/27 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154838:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1948/02/05 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173453:mpeg21:a0055 | SCHEEPSTIJDINGEN
+  1948/06/21 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173567:mpeg21:a0078 | SCHEEPSTIJDINGEN
+  1947/06/17 | Algemeen Dagblad | p2 | MMSARO03:259002140:mpeg21:a00023 | Samenwerking tussen stoomvaartlijnen J.C.J. en K.P.M. willen hoofd bieden aan concurrentie
+  1948/08/25 | De Volkskrant | p | ABCDDD:010844968:mpeg21:a0065 | SCHEEPSTIJDINGEN
+  1947/10/01 | Het Parool | p | ABCDDD:010835215:mpeg21:a0084 | Scheepstijdigen
+  1948/01/29 | Trouw | p | ABCDDD:010870602:mpeg21:a0149 | GROTE VAART.
+  1948/05/13 | Trouw | p | ABCDDD:010870686:mpeg21:a0081 | GROTE VAART.
+  1948/10/15 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010863030:mpeg21:a0068 | Advertentie
+  1948/12/17 | De locomotief : Samarangsch handels- en advertentie-blad | p4 | ddd:010863123:mpeg21:a0084 | Advertentie
+  1948/03/24 | Het Binnenhof | p2 | MMKB19:000368071:mpeg21:a00017 | Scheepvaartberichten
+  1947/09/06 | De waarheid | p2 | ddd:010852083:mpeg21:a0086 | BERICHTEN VAN ELDERS
+  1947/01/17 | De waarheid | p2 | ddd:010852188:mpeg21:a0038 | Burgemeester huldigt redder
+  1948/03/05 | Nijmeegsch dagblad | p2 | MMRANM03:048378055:mpeg21:a00040 | SCHEEPSTIJDINGEN
+  1947/12/11 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p3 | MMRAZ03:179292290:mpeg21:a00048 | Waar zijn onze schepen?
+  1947/01/27 | Nijmeegsch dagblad | p3 | MMRANM03:048375022:mpeg21:a00024 | SCHEEPSTIJDINGEN
+  1947/04/15 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235022088:mpeg21:a00049 | Waar zijn onze schepen?
+  1948/10/21 | Ons Noorden | p3 | MMRHCG04:235375018:mpeg21:a00032 | SCHEEPSBERICHTEN
+  1948/02/27 | Ons Noorden | p3 | MMRHCG04:235372053:mpeg21:a00040 | SCHEEPSBERICHTEN
+  1948/12/21 | Ons Noorden | p3 | MMRHCG04:235375069:mpeg21:a00035 | SCHEEPSBERICHTEN
+  1947/04/02 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235022078:mpeg21:a00038 | Familiebericht
+  1947/11/27 | Provinciale Overijsselsche en Zwolsche courant | p5 | MMHCO02:163844129:mpeg21:a00099 | Wat geeft onze luidspreker?
+  1947/07/23 | De Nederlander | p4 | MMKB19:000080020:mpeg21:a00040 | Laatste positie Ned. schepen
+  1948/07/31 | De Nederlander | p3 | MMKB19:000084028:mpeg21:a00019 | Navigare Necesse Est
+  1948/08/26 | De Nederlander | p4 | MMKB19:000084050:mpeg21:a00047 | Navigare Necesse Est
+  1947/12/11 | Winschoter courant | p4 | MMRHCG03:163519060:mpeg21:a00050 | SCHEEPSTIJDINGEN
+  1947/11/06 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017769110:mpeg21:a00062 | Scheepstijdingen
+  1947/01/30 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017768025:mpeg21:a00053 | Scheepstijdingen
+  1947/03/22 | Nieuw Utrechtsch dagblad | p5 | MMKB27:017768069:mpeg21:a00083 | Scheepstijdingen
+  1947/11/27 | Nieuw Utrechtsch dagblad | p4 | MMKB27:017769128:mpeg21:a00057 | Scheepstijdingen
+  1947/01/31 | Nieuw Utrechtsch dagblad | p4 | MMKB27:017768026:mpeg21:a00054 | Scheepstijdingen
+  1948/03/13 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017770062:mpeg21:a00031 | Scheepstijdingen
+  1947/04/18 | Nieuwsblad van het Noorden | p2 | ddd:010886982:mpeg21:a0051 | SCHEEPSTIJDINGEN
+  1948/03/25 | Ons Noorden | p3 | MMRHCG04:235372079:mpeg21:a00042 | SCHEEPSBERICHTEN
+  1948/07/17 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771016:mpeg21:a00047 | Scheepstijdingen
+  1948/09/29 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771077:mpeg21:a00056 | Scheepstijdingen
+  1948/12/24 | De Tĳd : godsdienstig-staatkundig dagblad | p11 | ddd:011200987:mpeg21:a0157 | Scheepvaartberichten
+  1947/07/28 | Provinciale Drentsche en Asser courant | p | MMDA03:000131538:mpeg21:a0003 | REPUBLIKEINEN BLIJVEN OVERWINNINGSBERICHTEN GEVEN
+  1947/07/28 | Provinciale Drentsche en Asser courant | p | MMDA03:000131547:mpeg21:a0002 | REPUBLIKEINEN BLIJVEN OVERWINNINGSBERICHTEN GEVEN
+  1947/03/25 | Algemeen Handelsblad | p | KBNRC01:000046582:mpeg21:a0083 | NEDERLANDSCHE LIJNEN
+  1947/04/02 | Algemeen Handelsblad | p | KBNRC01:000046593:mpeg21:a0058 | SCHEEPSTIJDINGEN
+  1947/01/17 | Algemeen Handelsblad | p | KBNRC01:000046411:mpeg21:a0062 | NEDERL. LIJNEN
+  1947/03/29 | Algemeen Handelsblad | p | KBNRC01:000046586:mpeg21:a0077 | NEDERLANDSCHE LIJNEN
+  1947/08/05 | Algemeen Handelsblad | p | KBNRC01:000061992:mpeg21:a0061 | NEDERL. LIJNEN.
+  1947/07/22 | Algemeen Handelsblad | p | KBNRC01:000061979:mpeg21:a0047 | NEDERLANDSE LIJNEN
+  1947/08/13 | Algemeen Handelsblad | p | KBNRC01:000061999:mpeg21:a0063 | NEDERLANDSE LIJNEN
+  1947/09/30 | Algemeen Handelsblad | p | KBNRC01:000062039:mpeg21:a0069 | NEDERLANDSE LIJNEN
+  1947/04/11 | Trouw | p | ABCDDD:010871138:mpeg21:a0238 | GROOTL VAART.
+  1947/04/29 | Trouw | p | ABCDDD:010871153:mpeg21:a0251 | SCHEEPSBEWEGINGEN.
+  1947/03/26 | Trouw | p | ABCDDD:010871126:mpeg21:a0147 | GROOTE VAART.
+  1947/04/16 | Trouw | p | ABCDDD:010871142:mpeg21:a0266 | GROOTE VAART
+  1947/04/29 | Trouw | p | ABCDDD:010871153:mpeg21:a0113 | SCHEEPSBEWEGINGEN.
+  1947/06/23 | Trouw | p | ABCDDD:010871163:mpeg21:a0190 | GROTE VAART.
+  1947/03/03 | Trouw | p | ABCDDD:010871040:mpeg21:a0096 | SCHEEPSBEWEGINGEN. Groote vaart.
+  1947/01/25 | Trouw | p | ABCDDD:010871101:mpeg21:a0137 | Scheepsbewegingen
+  1948/11/22 | Trouw | p | ABCDDD:010870547:mpeg21:a0035 | GROTE VAART.
+  1947/02/15 | Trouw | p | ABCDDD:010871119:mpeg21:a0129 | Scheepvaart SCHEEPSBEWEGINGEN.
+  1947/03/26 | Trouw | p | ABCDDD:010871125:mpeg21:a0151 | GROOTE VAART.
+  1947/04/11 | Trouw | p | ABCDDD:010871138:mpeg21:a0110 | GROOTE VAART.
+  1947/03/10 | Trouw | p | ABCDDD:010871046:mpeg21:a0114 | SCHEEPSBEWEGINGEN. GROOTE VAART.
+  1947/03/21 | Trouw | p | ABCDDD:010871055:mpeg21:a0108 | GROOTE VAART.
+  1947/01/20 | Trouw | p | ABCDDD:010871096:mpeg21:a0096 | SCHEEPSBEWEGINGEN. GROOTE VAART.
+  1947/01/18 | Trouw | p | ABCDDD:010871095:mpeg21:a0069 | Scheepsbewegingen
+  1947/02/05 | Trouw | p | ABCDDD:010871110:mpeg21:a0148 | Scheepvaart BINNENLANDSCHE HAVENS.
+  1947/04/02 | Trouw | p | ABCDDD:010871132:mpeg21:a0098 | GROOTE VAART.
+  1948/09/30 | Trouw | p | ABCDDD:010870503:mpeg21:a0119 | GROTE VAART.
+  1947/08/06 | Trouw | p | ABCDDD:010871207:mpeg21:a0071 | SCHEEPVAART SCHEEPSBEWEGINGEN
+  1947/08/07 | Trouw | p | ABCDDD:010871208:mpeg21:a0078 | SCHEEP8BEWEGINGEN. Grote vaart
+  1947/09/15 | Trouw | p | ABCDDD:010871241:mpeg21:a0078 | SCHEEPVAART
+  1947/03/03 | De Volkskrant | p | ABCDDD:010936142:mpeg21:a0069 | SCHEEPSTIJDINGEN
+  1947/06/23 | Het Parool | p | ABCDDD:010830582:mpeg21:a0074 | SCHEEPSTIJDINGEN
+  1947/01/25 | Het Parool | p | ABCDDD:010829509:mpeg21:a0086 | SCHEEPSTIJDINGEN
+  1947/01/30 | Het Parool | p | ABCDDD:010829513:mpeg21:a0090 | SCHEEPSBERICHTEN
+  1947/02/05 | Het Parool | p | ABCDDD:010829518:mpeg21:a0081 | SCHEEPSBERICHTEN.
+  1947/03/21 | Het Parool | p | ABCDDD:010829556:mpeg21:a0082 | SCHEEPSTIJDINGEN
+  1947/03/26 | Het Parool | p | ABCDDD:010829560:mpeg21:a0073 | SCHEEPSTIJDTNGEN
+  1948/05/21 | Het Parool | p | ABCDDD:010830937:mpeg21:a0083 | SCHEEPSTIJDINGEN
+  1948/05/28 | Het Parool | p | ABCDDD:010830943:mpeg21:a0102 | SCHEEPSTIJDINGEN
+  1947/09/18 | Het Parool | p | ABCDDD:010835204:mpeg21:a0074 | Scheepstijdingen
+  1948/01/26 | Het Parool | p | ABCDDD:010830841:mpeg21:a0142 | Familiebericht
+  1948/09/29 | Trouw | p | ABCDDD:010824118:mpeg21:a0043 | GROTE VAART.
+  1947/09/22 | Het Parool | p | ABCDDD:010835207:mpeg21:a0099 | Scheepsti.jdingeri
+  1947/09/15 | Het Parool | p | ABCDDD:010835201:mpeg21:a0103 | Scheepstijdingen
+  1947/11/07 | Het Parool | p | ABCDDD:010835247:mpeg21:a0139 | SCHEEPSTIJDINGEN
+  1948/03/13 | Trouw | p | ABCDDD:010870639:mpeg21:a0171 | GROTE VAART.
+  1948/06/30 | Trouw | p | ABCDDD:010870725:mpeg21:a0031 | GROTE VAART
+  1948/06/26 | Trouw | p | ABCDDD:010870722:mpeg21:a0169 | GROTE VAART.
+  1948/12/02 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000071232:mpeg21:a0037 | SCHEEPSBERICHTEN. 2 Dec.
+  1948/02/26 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000067930:mpeg21:a0039 | Scheepvaartberichten.
+  1948/08/23 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000064148:mpeg21:a0028 | Scheepvaartberichten. ZATERDAG 21 AUGUSTUS.
+  1948/08/23 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000064150:mpeg21:a0020 | Scheepvaartberichten.
+  1948/08/23 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000064147:mpeg21:a0017 | Scheepvaartberichten. ZATERDAG 21 AUGUSTUS.
+  1948/08/23 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000064149:mpeg21:a0019 | Scheepvaartberichten. ZATERDAG 21 AUGUSTUS.
+  1947/06/19 | Nieuwe courant | p | MMNIOD04:000100525:mpeg21:a0011 | De Java China Paketvaart Lijnen Fusie Buitenlandse Diensten
+  1948/08/27 | Het nieuwsblad voor Sumatra | p3 | ddd:010474788:mpeg21:a0042 | Hechte banden tussen het communisme in Malakka en Indonesië Singapore de verbindingsschake
+  1947/10/29 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179233025:mpeg21:a00075 | Scheepvaartberichten
+  1948/02/27 | Overijsselsch dagblad | p3 | MMKB23:001248049:mpeg21:a00076 | SCHEEPSBERICHTEN
+  1948/03/25 | Overijsselsch dagblad | p3 | MMKB23:001248072:mpeg21:a00058 | SCHEEPSBERICHTEN
+  1948/03/05 | Overijsselsch dagblad | p3 | MMKB23:001248055:mpeg21:a00052 | SCHEEPSBERICHTEN
+  1948/12/21 | Overijsselsch dagblad | p3 | MMKB23:001253069:mpeg21:a00049 | SCHEEPSBERICHTEN
+  1948/10/21 | Overijsselsch dagblad | p3 | MMKB23:001253018:mpeg21:a00043 | SCHEEPSBERICHTEN
+  1948/09/30 | De Gooi- en Eemlander : nieuws- en advertentieblad | p5 | ddd:011173652:mpeg21:a0133 | SCHEEPSTIJDINGEN
+  1948/12/20 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011155067:mpeg21:a0109 | SCHEEPSTIJDINGEN
+  1947/10/03 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154948:mpeg21:a0077 | SCHEEPSTIJDINGEN
+  1948/02/26 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173471:mpeg21:a0070 | SCHEEPSTIJDINGEN
+  1948/03/25 | De Gooi- en Eemlander : nieuws- en advertentieblad | p2 | ddd:011173495:mpeg21:a0104 | SCHEEPSTIJDINGEN
+  1948/06/30 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173575:mpeg21:a0090 | SCHEEPSTIJDINGEN
+  1947/09/11 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154929:mpeg21:a0073 | SCHEEPSTIJDINGEN
+  1947/08/05 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154898:mpeg21:a0087 | SCHEEPSTIJDINGEN
+  1947/08/06 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154899:mpeg21:a0089 | SCHEEPSTIJDINGEN
+  1947/12/06 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011155002:mpeg21:a0113 | SCHEEPSTIJDINGEN
+  1947/04/29 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154817:mpeg21:a0085 | SCHEEPSTIJDINGEN
+  1948/12/14 | Het Rotterdamsch parool | p2 | MMSARO02:164871141:mpeg21:a00049 | SCHEEPVAART
+  1947/06/21 | Het Rotterdamsch parool | p2 | MMSARO02:164868062:mpeg21:a00034 | SCHEEPVAART
+  1947/07/23 | Algemeen Dagblad | p3 | MMSARO03:259003020:mpeg21:a00078 | BEWEGINGEN VAN ZEESCHEPEN
+  1947/08/23 | Het Parool | p | ABCDDD:010835183:mpeg21:a0091 | Scheepstijdingen
+  1948/07/17 | De locomotief : Samarangsch handels- en advertentie-blad | p4 | ddd:010862821:mpeg21:a0083 | Advertentie
+  1948/03/12 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862944:mpeg21:a0061 | Advertentie
+  1947/05/30 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden | p3 | ddd:010536350:mpeg21:a0095 | Natalse pennekrassen
+  1948/04/22 | De Nederlander | p3 | MMKB19:000082094:mpeg21:a00031 | Navigare Necesse Est
+  1947/04/01 | De waarheid | p2 | ddd:010852326:mpeg21:a0071 | BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/09/10 | De waarheid | p2 | ddd:010852086:mpeg21:a0067 | BERICHTEN VAN ELDERS
+  1947/09/13 | De waarheid | p2 | ddd:010852089:mpeg21:a0091 | BEBICHTEN VAUT ELDERS Grote Vaart
+  1947/12/10 | De waarheid | p2 | ddd:010852164:mpeg21:a0077 | BERICHTEN VAN ELDERS Grote vaart
+  1947/12/12 | De waarheid | p4 | ddd:010852166:mpeg21:a0099 | BERICHTEN VAN ELDERS Grote Vaart
+  1947/10/29 | De waarheid | p4 | ddd:010852128:mpeg21:a0088 | BERICHTEN VAN ELDERS
+  1947/04/28 | De waarheid | p2 | ddd:010852207:mpeg21:a0057 | Grote Vaart.
+  1947/01/24 | De waarheid | p2 | ddd:010852245:mpeg21:a0052 | Nederland ter zee
+  1947/07/11 | De waarheid | p4 | ddd:010852035:mpeg21:a0079 | BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/07/22 | De waarheid | p4 | ddd:010852044:mpeg21:a0085 | Scheepvaart BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/08/05 | De waarheid | p4 | ddd:010852056:mpeg21:a0098 | BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/10/14 | De waarheid | p2 | ddd:010852115:mpeg21:a0045 | BERICHTEN VAN ELDERS Grote Vaart.
+  1947/11/01 | De waarheid | p5 | ddd:010852131:mpeg21:a0117 | BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/07/24 | De waarheid | p4 | ddd:010852046:mpeg21:a0072 | BERICHTEN VAN ELDERS Grote Vaart
+  1947/07/11 | Nieuwsblad van het Noorden | p3 | ddd:010885478:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1947/07/22 | Nieuwsblad van het Noorden | p3 | ddd:010885486:mpeg21:a0060 | SCHEEPSTIJDINGEN
+  1947/11/26 | Nieuwsblad van het Noorden | p3 | ddd:010885596:mpeg21:a0079 | SCHEEPSTIJDINGEN
+  1948/02/26 | Nijmeegsch dagblad | p5 | MMRANM03:048378048:mpeg21:a00068 | SCHEEPSTIJDINGEN
+  1947/12/11 | Nijmeegsch dagblad | p2 | MMRANM03:048377113:mpeg21:a00029 | SCHEEPSTIJDINGEN
+  1948/05/12 | Het Rotterdamsch parool | p2 | MMSARO02:164870110:mpeg21:a00041 | Dournaal
+  1948/12/08 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235024137:mpeg21:a00057 | WAAR ZIJN ONZE SCHEPEN?
+  1947/03/07 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235022056:mpeg21:a00057 | Waar zijn onze schepen?
+  1948/03/09 | Provinciale Overijsselsche en Zwolsche courant | p1 | MMHCO02:163846058:mpeg21:a00021 | Nieuws in het kort
+  1947/07/25 | Eindhovensch dagblad | p1 | MMKB27:017811022:mpeg21:a00006 | Sjahrir wenst bemiddeling
+  1947/11/27 | Het Binnenhof | p2 | MMKB19:000370125:mpeg21:a00016 | Scheepvaartberichten
+  1947/04/29 | De Nederlander | p4 | MMKB19:000079099:mpeg21:a00049 | LAATSTE POSITIE NED. SCHEPEN
+  1947/07/22 | De Nederlander | p4 | MMKB19:000080019:mpeg21:a00043 | Scheepvaart
+  1947/12/11 | De Nederlander | p3 | MMKB19:000080105:mpeg21:a00028 | Navigare Necesse Est
+  1948/12/10 | De Nederlander | p4 | MMKB19:000084138:mpeg21:a00037 | Scheepvaartberichten
+  1948/10/06 | De Nederlander | p4 | MMKB19:000084083:mpeg21:a00037 | Navigare Necesse Est
+  1948/12/20 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771147:mpeg21:a00025 | Scheepstijdingen
+  1948/10/26 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771100:mpeg21:a00045 | Scheepstijdingen
+  1947/04/16 | Nieuw Utrechtsch dagblad | p4 | MMKB27:017768088:mpeg21:a00062 | Schèepstijdingen
+  1947/02/15 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017768039:mpeg21:a00043 | Scheepstijdingen
+  1947/11/13 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017769116:mpeg21:a00054 | Scheepstijdingen
+  1947/11/10 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017769113:mpeg21:a00039 | Scheepstijdingen
+  1947/01/31 | Nieuwsblad van het Noorden | p2 | ddd:010886919:mpeg21:a0041 | SCHEEPSTIJDINGEN
+  1947/02/14 | Nieuwsblad van het Noorden | p2 | ddd:010886931:mpeg21:a0033 | SCHEEPSTIJDINGEN
+  1947/02/15 | Nieuwsblad van het Noorden | p2 | ddd:010886932:mpeg21:a0053 | SCHEEPSTIJDINGEN
+  1947/04/10 | Nieuwsblad van het Noorden | p2 | ddd:010886975:mpeg21:a0032 | SCHEEPSTIJDINGEN
+  1947/01/18 | Nieuwsblad van het Noorden | p2 | ddd:010886908:mpeg21:a0048 | SCHEEPSTIJDINGEN
+  1947/04/09 | Algemeen Dagblad | p6 | MMSARO03:259002083:mpeg21:a00057 | ALGEMEEN DAGBLAD
+  1947/01/17 | De tĳd : dagblad voor Nederland | p2 | ddd:011201464:mpeg21:a0050 | Scheepvaartberichten IJMUIDEN. aangekomen:
+  1947/06/16 | De tĳd : dagblad voor Nederland | p2 | ddd:011201588:mpeg21:a0053 | JAVA-CHINA-JAPAN-LIJN Buitenlandse lijnen der K.P.M. worden bij haar ingebracht
+  1947/04/18 | De tĳd : dagblad voor Nederland | p2 | ddd:011201541:mpeg21:a0044 | Scheepvaartberichten
+  1948/04/03 | Algemeen Handelsblad | p | KBNRC01:000045994:mpeg21:a0110 | NEDERLANDSE LIJNEN
+  1948/04/23 | Algemeen Handelsblad | p | KBNRC01:000046011:mpeg21:a0058 | NEDERLANDSE LIJNEN
+  1948/06/03 | Algemeen Handelsblad | p | KBNRC01:000046044:mpeg21:a0093 | NEDERLANDSE LIJNEN
+  1948/01/02 | Algemeen Handelsblad | p | KBNRC01:000045758:mpeg21:a0076 | NEDERLANDSE LIJNEN
+  1947/12/12 | Algemeen Handelsblad | p | KBNRC01:000062102:mpeg21:a0056 | SCHEEPSTIJDINGEN NEDERLANDSE LIJNEN
+  1948/09/30 | De Volkskrant | p | ABCDDD:010844997:mpeg21:a0063 | SCHEEPSTIJDINGEN
+  1948/10/29 | De Volkskrant | p | ABCDDD:010845022:mpeg21:a0050 | SCHEEPSTIJDINGEN
+  1948/08/21 | De Volkskrant | p | ABCDDD:010844965:mpeg21:a0080 | SCHEEPSTIJDINGEN
+  1948/11/03 | De Volkskrant | p | ABCDDD:010845025:mpeg21:a0078 | SCHEEPSTIJDINGEN
+  1948/12/10 | Bredasche courant | p | MMSAB03:000073198:mpeg21:a0013 | Vliegtuigen hielden smokkelschip in bedwang
+  1947/03/07 | Algemeen Handelsblad | p | KBNRC01:000046549:mpeg21:a0038 | SCHEEPSTIJDINGEN
+  1947/10/11 | Algemeen Handelsblad | p | KBNRC01:000062049:mpeg21:a0113 | SCHEEPSTIJDINGEN
+  1947/12/05 | Algemeen Handelsblad | p | KBNRC01:000062096:mpeg21:a0051 | SCHEEPSTIJDINGEN
+  1947/09/13 | Algemeen Handelsblad | p | KBNRC01:000062025:mpeg21:a0085 | NEDERLANDSE LIJNEN
+  1947/10/30 | Algemeen Handelsblad | p | KBNRC01:000062065:mpeg21:a0097 | SCHEEPSTIJDINGEN
+  1947/08/02 | Algemeen Handelsblad | p | KBNRC01:000061989:mpeg21:a0063 | SCHEEPSTIJDINGEN
+  1947/08/04 | Algemeen Handelsblad | p | KBNRC01:000061990:mpeg21:a0077 | SCHEEPSTIJDINGEN
+  1947/09/19 | Algemeen Handelsblad | p | KBNRC01:000062030:mpeg21:a0074 | NEDERLANDSE LIJNEN
+  1947/12/10 | Algemeen Handelsblad | p | KBNRC01:000062100:mpeg21:a0067 | SCHEEPSTIJDINGEN NEDERLANDSE LIJNEN
+  1947/04/09 | Trouw | p | ABCDDD:010871136:mpeg21:a0263 | SCHEEPSBEWEGINGEN. GROOTE VAART
+  1948/11/03 | Trouw | p | ABCDDD:010870531:mpeg21:a0022 | GROTE VAART.
+  1947/05/13 | Trouw | p | ABCDDD:010871064:mpeg21:a0081 | SCHEEPSBEWEGINGEN. GROTE VAART.
+  1947/04/09 | Trouw | p | ABCDDD:010871136:mpeg21:a0111 | SCHEEPSBEWEGINGEN. GROOTE VAART
+  1947/03/07 | Trouw | p | ABCDDD:010871044:mpeg21:a0104 | SCHEEPSBEWEGINGEN. GROOTE VAART.
+  1948/10/27 | Trouw | p | ABCDDD:010967088:mpeg21:a0039 | GROTE VAART.
+  1947/07/12 | Trouw | p | ABCDDD:010871189:mpeg21:a0155 | SCHEEPSBEWEGINGEN. GROTE VAART.
+  1947/07/22 | Trouw | p | ABCDDD:010871195:mpeg21:a0104 | SCHEEP VAART Scheepsbewegingen GROTE VAART
+  1947/09/22 | Trouw | p | ABCDDD:010871248:mpeg21:a0029 | SCHEEPVAART GROTE VAART.
+  1947/11/10 | Trouw | p | ABCDDD:010871288:mpeg21:a0026 | SCHEEPVAART GROTE VAART. (waarin opgenomen Lloyds berichten).
+  1947/12/09 | Trouw | p | ABCDDD:010871312:mpeg21:a0030 | GROTE VAART
+  1948/12/27 | Trouw | p | ABCDDD:010870574:mpeg21:a0025 | GROTE VAART
+  1948/07/17 | Trouw | p | ABCDDD:010870442:mpeg21:a0168 | GROTE VAART.
+  1948/08/21 | Trouw | p | ABCDDD:010870472:mpeg21:a0155 | GROTE VAART.
+  1948/07/30 | Trouw | p | ABCDDD:010870453:mpeg21:a0027 | GROTE VAART.
+  1947/10/02 | Trouw | p | ABCDDD:010871257:mpeg21:a0109 | SCHEEPVAART GROTE VAART
+  1947/07/12 | Trouw | p | ABCDDD:010871185:mpeg21:a0157 | SCHEEPSBEWEGINGEN. GROTE VAART.
+  1947/08/09 | Trouw | p | ABCDDD:010871210:mpeg21:a0132 | SCHEEPVAART SCHEEPSBEWEGINGEN Grote vaart
+  1947/11/20 | Trouw | p | ABCDDD:010871298:mpeg21:a0149 | GROTE VAART.
+  1947/09/06 | Trouw | p | ABCDDD:010871234:mpeg21:a0123 | SCHEEPVAART GROTE VAART.
+  1947/09/11 | Trouw | p | ABCDDD:010871238:mpeg21:a0128 | Scheepsbewegingen
+  1947/09/22 | Trouw | p | ABCDDD:010871247:mpeg21:a0029 | SCHEEPVAART GROTE VAART.
+  1947/09/25 | Trouw | p | ABCDDD:010871251:mpeg21:a0125 | SCHEEPVAART GROTE VAART.
+  1947/12/10 | Trouw | p | ABCDDD:010871313:mpeg21:a0027 | SCHEEPVAART GROTE VAART
+  1947/10/15 | Trouw | p | ABCDDD:010871268:mpeg21:a0025 | SCHEEPVAART GROTE VAART.
+  1947/11/06 | Trouw | p | ABCDDD:010871286:mpeg21:a0146 | SCHEEPVAART GROTE VAART. (waarin opgenomen Lloyd’s berichten).
+  1947/03/21 | De Volkskrant | p | ABCDDD:010936155:mpeg21:a0061 | SCHEEPSTIJDINGEN
+  1947/01/18 | De Volkskrant | p | ABCDDD:010936185:mpeg21:a0064 | SCHEEPSTIJDINGEN
+  1948/07/17 | Trouw | p | ABCDDD:010824057:mpeg21:a0157 | GROTE VAART.
+  1948/08/24 | Trouw | p | ABCDDD:010824089:mpeg21:a0029 | GROTE VAART.
+  1947/02/01 | Het Parool | p | ABCDDD:010829515:mpeg21:a0103 | SCHEEPSBERICHTEN.
+  1948/10/21 | Het Parool | p | ABCDDD:010828744:mpeg21:a0130 | Scheepstijdingen
+  1948/07/30 | Het Parool | p | ABCDDD:010828675:mpeg21:a0085 | SCHEEFSTIJDINGEN
+  1948/11/10 | Het Parool | p | ABCDDD:010828761:mpeg21:a0078 | Scheepstijdingen
+  1948/12/08 | Het Parool | p | ABCDDD:010828785:mpeg21:a0085 | Scheepstijdingen
+  1948/04/22 | Het Parool | p | ABCDDD:010830914:mpeg21:a0082 | SCHEEPSTIJDINGEN
+  1948/06/23 | Het Parool | p | ABCDDD:010830965:mpeg21:a0092 | SCHEEPSTIJDINGEN
+  1948/06/25 | Het Parool | p | ABCDDD:010830967:mpeg21:a0082 | SCHEEPSTIJDINGEN
+  1948/04/15 | Het Parool | p | ABCDDD:010830908:mpeg21:a0092 | SCHEEPSTIJDINGEN
+  1948/04/17 | Het Parool | p | ABCDDD:010830910:mpeg21:a0128 | SCHEEPSTIJDINGEN
+  1948/05/11 | Het Parool | p | ABCDDD:010830929:mpeg21:a0087 | SCHEEPSTIJDINGEN
+  1948/03/11 | Het Parool | p | ABCDDD:010830880:mpeg21:a0074 | SCHEEPSTIJDINGEN
+  1948/06/03 | Het Parool | p | ABCDDD:010830948:mpeg21:a0094 | SCHEEPSTIJDINGEN
+  1948/06/08 | Het Parool | p | ABCDDD:010830952:mpeg21:a0086 | SCHEEPSTIJDINGEN
+  1947/07/12 | Het Parool | p | ABCDDD:010835147:mpeg21:a0102 | SCHEEPSTIJDÏNGEN
+  1947/08/14 | Het Parool | p | ABCDDD:010835175:mpeg21:a0036 | Scheepstijdingen
+  1947/09/02 | Het Parool | p | ABCDDD:010835190:mpeg21:a0104 | Scheepstijdingen
+  1947/09/19 | Het Parool | p | ABCDDD:010835205:mpeg21:a0083 | Scheepstijdingen
+  1947/10/09 | Het Parool | p | ABCDDD:010835222:mpeg21:a0099 | Scheepstijdingen SCHEEPSTIJDINGEN
+  1948/02/06 | Het Parool | p | ABCDDD:010830851:mpeg21:a0099 | SCHEEPSTIJDINGEN
+  1948/03/31 | Het Parool | p | ABCDDD:010830895:mpeg21:a0082 | SCHEEPSTIJDINGEN.
+  1948/04/03 | Het Parool | p | ABCDDD:010830898:mpeg21:a0119 | SCHEEPSTIJDINGEN.
+  1948/01/20 | Het Parool | p | ABCDDD:010830836:mpeg21:a0105 | SCHEEPSTIJDINGEN
+  1948/02/24 | Het Parool | p | ABCDDD:010830865:mpeg21:a0034 | SCHEEPSTIJDINGEN
+  1948/02/25 | Het Parool | p | ABCDDD:010830866:mpeg21:a0080 | SCHEEPSTIJDINGEN
+  1948/03/04 | Het Parool | p | ABCDDD:010830874:mpeg21:a0086 | SCHEEPSTIJDINGEN
+  1948/07/30 | Trouw | p | ABCDDD:010824068:mpeg21:a0021 | GROTE VAART
+  1948/08/20 | Trouw | p | ABCDDD:010824086:mpeg21:a0021 | GROTE VAART.
+  1948/12/10 | Trouw | p | ABCDDD:010824180:mpeg21:a0056 | SCHEEPSBEWEGINGEN (waarin opgenomen Lloyd's telegrammen)
+  1948/10/26 | Trouw | p | ABCDDD:010824141:mpeg21:a0020 | GROTE VAART.
+  1948/08/19 | Het Parool | p | ABCDDD:010828692:mpeg21:a0089 | SCHEEPSTIJDTNGEN
+  1948/10/07 | Het Parool | p | ABCDDD:010828732:mpeg21:a0150 | Sclieeps tij dingen
+  1948/11/03 | Het Parool | p | ABCDDD:010828755:mpeg21:a0100 | Scheepstijdingen
+  1948/12/24 | Het Parool | p | ABCDDD:010828799:mpeg21:a0082 | Scheepstijdingen
+  1947/12/10 | Het Parool | p | ABCDDD:010835275:mpeg21:a0107 | SCHEEPSTIJDINGEN
+  1947/09/29 | Het Parool | p | ABCDDD:010835213:mpeg21:a0092 | Scheepstijdingen
+  1947/11/15 | Het Parool | p | ABCDDD:010835254:mpeg21:a0127 | SCHEEPSTIJDINGEN
+  1947/11/26 | Het Parool | p | ABCDDD:010835263:mpeg21:a0103 | SCHEEPSTIJDINGEN
+  1947/11/20 | Het Parool | p | ABCDDD:010835258:mpeg21:a0134 | SCHEEPSTIJDINGEN
+  1947/10/14 | Het Parool | p | ABCDDD:010835226:mpeg21:a0148 | Scheepstijdingen
+  1948/06/30 | De Volkskrant | p | ABCDDD:010880778:mpeg21:a0093 | SCHEEPSTIJDINGEN
+  1948/03/12 | De Volkskrant | p | ABCDDD:010880687:mpeg21:a0055 | SCHEEPSTIJDINGEN
+  1948/05/28 | De Volkskrant | p | ABCDDD:010880749:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1948/06/03 | De Volkskrant | p | ABCDDD:010880754:mpeg21:a0067 | SCHEEPSTIJDINGEN
+  1948/03/24 | De Volkskrant | p | ABCDDD:010880697:mpeg21:a0075 | SCHEEPSTIJDINGEN
+  1948/04/24 | De Volkskrant | p | ABCDDD:010880743:mpeg21:a0080 | SCHEEPSTIJDINGEN
+  1948/02/25 | Trouw | p | ABCDDD:010870624:mpeg21:a0035 | GROTE VAART
+  1948/03/05 | Trouw | p | ABCDDD:010870632:mpeg21:a0024 | GROTE VAART
+  1948/04/05 | Trouw | p | ABCDDD:010870655:mpeg21:a0039 | GROTE VAART.
+  1948/04/24 | Trouw | p | ABCDDD:010870671:mpeg21:a0168 | GROTE VAART.
+  1948/06/21 | Trouw | p | ABCDDD:010870717:mpeg21:a0032 | GROTE VAART.
+  1948/01/21 | Trouw | p | ABCDDD:010870595:mpeg21:a0033 | GROTE VAART.
+  1948/04/01 | Trouw | p | ABCDDD:010870652:mpeg21:a0131 | GROTE VAART.
+  1948/04/21 | Trouw | p | ABCDDD:010870668:mpeg21:a0027 | GROTE VAART.
+  1948/01/08 | Trouw | p | ABCDDD:010870584:mpeg21:a0158 | GROTE VAART.
+  1948/02/21 | Trouw | p | ABCDDD:010870621:mpeg21:a0205 | GROTE VAART.
+  1948/06/24 | Trouw | p | ABCDDD:010870720:mpeg21:a0133 | GROTE VAART.
+  1948/05/22 | Trouw | p | ABCDDD:010870693:mpeg21:a0182 | GROTE VAART.
+  1948/01/15 | Trouw | p | ABCDDD:010870590:mpeg21:a0030 | GROTE VAART.
+  1948/03/25 | De Volkskrant | p | ABCDDD:010880698:mpeg21:a0066 | SCHEEPSTIJDINGEN
+  1948/06/26 | De Volkskrant | p | ABCDDD:010880774:mpeg21:a0112 | SCHEEPSTIJDINGEN
+  1948/01/15 | De Volkskrant | p | ABCDDD:010880641:mpeg21:a0069 | SCHEEPSTIJDINGEN
+  1948/06/15 | De Volkskrant | p | ABCDDD:010880764:mpeg21:a0051 | SCHEEPSTIJDINGEN
+  1948/07/12 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063316:mpeg21:a0037 | Scheepvaartberichten. MAANDAG 12 JULI.
+  1948/07/12 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063319:mpeg21:a0027 | Scheepvaartberichten.
+  1948/03/12 | Bredasche courant | p | MMSAB03:000068273:mpeg21:a0070 | GEREGELDE LIJNEN.
+  1948/12/08 | Nieuwsblad van het Noorden | p3 | ddd:010884762:mpeg21:a0076 | SCHEEPSTIJDINGEN
+  1948/06/17 | De locomotief : Samarangsch handels- en advertentie-blad | p4 | ddd:010863066:mpeg21:a0083 | Advertentie
+  1947/10/03 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Ba | p4 | ddd:010895935:mpeg21:a0089 | Advertentie
+  1947/09/10 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023061:mpeg21:a00056 | Waar zijn onze schepen? KUSTVAART.
+  1947/09/30 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023078:mpeg21:a00062 | Waar zijn onze schepen?
+  1947/08/22 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023046:mpeg21:a00068 | Waar zijn onze schepen?
+  1947/11/26 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023127:mpeg21:a00049 | Waar zijn onze schepen?
+  1947/07/22 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179232020:mpeg21:a00085 | Scheepvaartberichten
+  1947/09/29 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179232077:mpeg21:a00076 | Scheepvaart berichten
+  1947/06/17 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179231063:mpeg21:a00091 | Scheepvaartberichten
+  1947/04/09 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179231007:mpeg21:a00057 | Scheepvaartberichten
+  1948/07/31 | Overijsselsch dagblad | p7 | MMKB23:001252027:mpeg21:a00122 | SCHEEPSBERICHTEN
+  1947/07/22 | De tĳd : dagblad voor Nederland | p2 | ddd:011201163:mpeg21:a0051 | Scheepvaartberichten
+  1947/10/14 | De tĳd : dagblad voor Nederland | p2 | ddd:011201233:mpeg21:a0074 | Scheepvaartberichten
+  1947/11/08 | De tĳd : dagblad voor Nederland | p7 | ddd:011201254:mpeg21:a0145 | Scheepvaartberichten
+  1948/10/21 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011155206:mpeg21:a0061 | SCHEEPSTIJDINGEN
+  1947/04/11 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154802:mpeg21:a0075 | SCHEEPSTIJDINGEN
+  1948/06/26 | De Gooi- en Eemlander : nieuws- en advertentieblad | p5 | ddd:011173572:mpeg21:a0120 | SCHEEPSTIJDINGEN
+  1947/09/20 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154937:mpeg21:a0098 | SCHEEPSTIJDINGEN
+  1947/09/30 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154945:mpeg21:a0084 | SCHEEPSTIJDINGEN
+  1947/12/11 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011155006:mpeg21:a0078 | SCHEEPSTIJDINGEN
+  1948/07/31 | De Gooi- en Eemlander : nieuws- en advertentieblad | p1 | ddd:011173602:mpeg21:a0047 | SCHEEPSTIJDINGEN
+  1948/01/20 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173439:mpeg21:a0070 | SCHEEPSTIJDINGEN
+  1948/03/05 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173478:mpeg21:a0061 | SCHEEPSTIJDINGEN.
+  1947/09/10 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154928:mpeg21:a0065 | SCHEEPSTIJDINGEN
+  1947/11/01 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154972:mpeg21:a0141 | SCHEEPSTIJDINGEN
+  1947/07/22 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154886:mpeg21:a0094 | SCHEEPSTIJDINGEN
+  1947/04/19 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154809:mpeg21:a0153 | SCHEEPSTIJDINGEN
+  1947/08/09 | Limburgsch dagblad | p2 | ddd:010415487:mpeg21:a0060 | Republikeinen Juichen „hoei”. Molotof-cocktails.
+  1948/12/20 | Het Binnenhof | p2 | MMKB19:000374145:mpeg21:a00034 | Scheepvaartberichten
+  1948/12/06 | Het Binnenhof | p2 | MMKB19:000374133:mpeg21:a00040 | Scheepvaartberichten
+  1948/05/11 | Het Rotterdamsch parool | p2 | MMSARO02:164870109:mpeg21:a00037 | SCHEEPVAART
+  1948/06/16 | De Nederlander | p4 | MMKB19:000082139:mpeg21:a00048 | Navigare Necesse Est
+  1948/12/06 | De Maasbode | p2 | MMKB15:000555134:mpeg21:a00008 | LAATSTE BERICHTEN
+  1947/04/01 | De nieuwe Nederlander | p4 | MMKB15:000911281:mpeg21:a00035 | Waar zijn onze schepen?
+  1947/02/14 | De waarheid | p4 | ddd:010852287:mpeg21:a0092 | Nederland ter zee
+  1947/03/06 | De waarheid | p2 | ddd:010852304:mpeg21:a0030 | Nederland ter zee
+  1947/08/22 | De waarheid | p2 | ddd:010852071:mpeg21:a0060 | BERICHTEN VAN ELDERS
+  1947/09/19 | De waarheid | p2 | ddd:010852094:mpeg21:a0049 | BERICHTEN VAN ELDERS. Grote Vaart
+  1947/09/05 | De waarheid | p2 | ddd:010852082:mpeg21:a0044 | BERICHTEN VAN ELDERS
+  1947/09/17 | De waarheid | p2 | ddd:010852092:mpeg21:a0081 | Scheepvaart
+  1947/11/26 | De waarheid | p2 | ddd:010852152:mpeg21:a0064 | BERICHTEN VAN ELDERS. Grote Vaart
+  1947/12/17 | De waarheid | p4 | ddd:010852170:mpeg21:a0103 | BERICHTEN VAN ELDERS Grote vaart
+  1947/05/12 | De waarheid | p4 | ddd:010852218:mpeg21:a0095 | BERICHTEN VAN ELDERS.
+  1947/04/08 | De waarheid | p2 | ddd:010852191:mpeg21:a0033 | BERICHTEN VAN ELDERS GROTE VAART
+  1947/01/31 | De waarheid | p2 | ddd:010852251:mpeg21:a0060 | Nederland ter zee
+  1948/01/14 | De waarheid | p4 | ddd:010851275:mpeg21:a0082 | BERICHTEN VAN ELDERS
+  1948/02/25 | De waarheid | p4 | ddd:010851310:mpeg21:a0085 | BERICHTEN VAN ELDERS Grote vaart.
+  1947/09/24 | De waarheid | p2 | ddd:010852098:mpeg21:a0070 | BERICHTEN VAN ELDERS Grote Vaart
+  1947/09/30 | De waarheid | p2 | ddd:010852103:mpeg21:a0076 | BERICHTEN VAN ELDERS Grote Vaart
+  1947/11/12 | De waarheid | p2 | ddd:010852140:mpeg21:a0061 | BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/07/21 | De waarheid | p4 | ddd:010852043:mpeg21:a0092 | BERICHTEN VAN ELDERS Grote Vaart
+  1948/01/07 | De waarheid | p4 | ddd:010851269:mpeg21:a0090 | BERICHTEN VAN ELDERS Grote vaart
+  1947/08/06 | Nieuwsblad van het Noorden | p3 | ddd:010885498:mpeg21:a0054 | SCHEEPSTIJDINGEN
+  1948/03/09 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p1 | MMRAZ03:179293058:mpeg21:a00023 | NIEUWS IN FLITSEN
+  1948/11/16 | Ons Noorden | p3 | MMRHCG04:235375039:mpeg21:a00042 | Familiebericht
+  1948/02/05 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235025030:mpeg21:a00058 | WAAR ZIJN ONZE SCHEPEN?
+  1948/07/13 | Ons Noorden | p3 | MMRHCG04:235374011:mpeg21:a00045 | SCHEEPSBERICHTEN
+  1948/11/15 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235024117:mpeg21:a00059 | WAAR ZIJN ONZE SCHEPEN?
+  1948/06/03 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235025128:mpeg21:a00045 | WAAR ZIJN ONZE SCHEPEN?
+  1948/03/09 | Deventer dagblad | p1 | MMHCO02:163894058:mpeg21:a00023 | NIEUWS IN FLITSEN
+  1947/01/20 | De Nederlander | p4 | MMKB19:000079016:mpeg21:a00033 | MAXIMUMPRIJZEN VOOR BEGRAFENISSEN
+  1947/10/01 | De Nederlander | p4 | MMKB19:000080079:mpeg21:a00043 | Scheepvaart
+  1948/12/04 | De Nederlander | p6 | MMKB19:000084133:mpeg21:a00049 | Scheepvaartberichten
+  1947/12/18 | Winschoter courant | p3 | MMRHCG03:163519066:mpeg21:a00042 | SCHEEPSTIJDINGEN
+  1948/12/06 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771135:mpeg21:a00047 | Scheepstijdingen
+  1948/11/03 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771107:mpeg21:a00046 | Scheepstijdingen
+  1948/10/06 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771083:mpeg21:a00060 | Scheepstijdingen
+  1948/10/20 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017771095:mpeg21:a00045 | Scheepstijdingen
+  1947/03/11 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017768059:mpeg21:a00055 | Scheepstijdingen
+  1947/09/02 | Nieuw Utrechtsch dagblad | p6 | MMKB27:017769054:mpeg21:a00095 | Scheepstijdingen
+  1947/06/23 | Nieuwsblad van het Noorden | p2 | ddd:010887037:mpeg21:a0053 | SCHEEPSTIJDINGEN
+  1947/03/06 | Nieuwsblad van het Noorden | p3 | ddd:010886947:mpeg21:a0073 | SCHEEPSTÏJDINGEN
+  1947/03/31 | Nieuwsblad van het Noorden | p3 | ddd:010886967:mpeg21:a0046 | SCHEEPSTIJDINGEN
+  1947/04/08 | Nieuwsblad van het Noorden | p2 | ddd:010886973:mpeg21:a0043 | SCHEEPSTIJDINGEN
+  1947/01/24 | Nieuwsblad van het Noorden | p2 | ddd:010886913:mpeg21:a0048 | SCHEEPSTIJDINGEN
+  1948/01/20 | Groninger dagblad | p2 | MMRHCG04:235257016:mpeg21:a00040 | Scheepstijdingen
+  1947/03/25 | De tĳd : dagblad voor Nederland | p2 | ddd:011201521:mpeg21:a0030 | Scheepvaartberichten
+  1947/04/08 | De tĳd : dagblad voor Nederland | p2 | ddd:011201532:mpeg21:a0052 | Scheepvaartberichten
+  1947/01/20 | De tĳd : dagblad voor Nederland | p2 | ddd:011201466:mpeg21:a0042 | Scheepvaartberichten
+  1947/01/24 | De tĳd : dagblad voor Nederland | p2 | ddd:011201470:mpeg21:a0038 | Scheepvaartberichten
+  1947/01/24 | De tĳd : dagblad voor Nederland | p2 | ddd:011201470:mpeg21:a0099 | Scheepvaartberichten
+  1947/06/17 | De tĳd : dagblad voor Nederland | p2 | ddd:011201589:mpeg21:a0049 | Scheepvaartberichten
+  1947/01/31 | De tĳd : dagblad voor Nederland | p2 | ddd:011201476:mpeg21:a0039 | Scheepvaartberichten
+  1947/04/28 | De tĳd : dagblad voor Nederland | p2 | ddd:011201549:mpeg21:a0068 | Scheepvaartberichten
+  1947/05/12 | De tĳd : dagblad voor Nederland | p2 | ddd:011201560:mpeg21:a0048 | Scheepvaartberichten
+  1947/04/01 | De tĳd : dagblad voor Nederland | p2 | ddd:011201527:mpeg21:a0044 | Scheepvaartberichten
+  1947/04/10 | De tĳd : dagblad voor Nederland | p5 | ddd:011201534:mpeg21:a0102 | Scheepvaartberichten
+  1948/07/29 | De Tĳd : godsdienstig-staatkundig dagblad | p5 | ddd:011200863:mpeg21:a0106 | Scheepvaartberichten
+  1948/10/11 | De Tĳd : godsdienstig-staatkundig dagblad | p4 | ddd:011200924:mpeg21:a0093 | Scheepvaartberichten
+  1948/01/15 | Algemeen Handelsblad | p | KBNRC01:000045830:mpeg21:a0064 | SCHEEPSTIJDINGEN
+  1948/01/21 | Algemeen Handelsblad | p | KBNRC01:000045835:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1948/07/13 | De Volkskrant | p | ABCDDD:010844931:mpeg21:a0058 | SCHEEPSTIJDINGEN
+  1948/07/30 | De Volkskrant | p | ABCDDD:010844946:mpeg21:a0087 | SCHEEPSTIJDINGEN
+  1948/10/27 | De Volkskrant | p | ABCDDD:010845020:mpeg21:a0073 | SCHEEPSTIJDINGEN
+  1948/08/24 | De Volkskrant | p | ABCDDD:010844967:mpeg21:a0062 | SCHEEPSTIJDINGEN
+  1948/12/08 | De Volkskrant | p | ABCDDD:010845055:mpeg21:a0063 | SCHEEPSTIJDINGEN
+  1948/07/02 | De Volkskrant | p | ABCDDD:010844922:mpeg21:a0053 | SCHEEPSTIJDINGEN
+  1948/08/11 | De Volkskrant | p | ABCDDD:010844956:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1948/07/19 | Bredasche courant | p | MMSAB03:000069581:mpeg21:a0060 | GEREGELDE LIJNEN
+  1948/06/26 | Bredasche courant | p | MMSAB03:000068479:mpeg21:a0081 | SCHEEPVAART GEREGELDE LIJNEN
+  1947/12/17 | Algemeen Handelsblad | p | KBNRC01:000062106:mpeg21:a0062 | NEDERLANDSE LIJNEN
+  1947/04/28 | Algemeen Handelsblad | p | KBNRC01:000046637:mpeg21:a0080 | SCHEEPSTIJDINGEN
+  1947/07/11 | Algemeen Handelsblad | p | KBNRC01:000061950:mpeg21:a0058 | NEDERLANDSE LIJNEN
+  1947/08/08 | Algemeen Handelsblad | p | KBNRC01:000061995:mpeg21:a0048 | SCHEEPSTIJDINGEN
+  1947/08/22 | Algemeen Handelsblad | p | KBNRC01:000062007:mpeg21:a0072 | SCHEEPSTIJDINGEN
+  1947/09/02 | Algemeen Handelsblad | p | KBNRC01:000062015:mpeg21:a0077 | SCHEEPSTIJDINGEN
+  1947/10/02 | Algemeen Handelsblad | p | KBNRC01:000062041:mpeg21:a0111 | NEDERLANDSE LIJNEN
+  1947/11/26 | Algemeen Handelsblad | p | KBNRC01:000062088:mpeg21:a0060 | SCHEEPSTIJDINGEN
+  1948/10/20 | Trouw | p | ABCDDD:010870520:mpeg21:a0023 | GROTE VAART.
+  1948/11/20 | Trouw | p | ABCDDD:010870546:mpeg21:a0145 | GROTE VAART.
+  1947/03/04 | Trouw | p | ABCDDD:010871041:mpeg21:a0061 | Scheepsbewegingen Kustvaart (waarin opgenomen Lloyds berichten)
+  1948/07/13 | Trouw | p | ABCDDD:010870438:mpeg21:a0022 | GROTE VAART.
+  1947/04/15 | De Volkskrant | p | ABCDDD:010936239:mpeg21:a0049 | SCHEEPSTIJDINGEN
+  1947/02/05 | De Volkskrant | p | ABCDDD:010936135:mpeg21:a0059 | SCHEEPSTIJDINGEN
+  1947/02/14 | De Volkskrant | p | ABCDDD:010936217:mpeg21:a0073 | SCHEEPSTIJDINGEN
+  1948/10/19 | Trouw | p | ABCDDD:010870519:mpeg21:a0139 | GROTE VAART.
+  1948/08/24 | Trouw | p | ABCDDD:010870474:mpeg21:a0024 | GROTE VAART.
+  1948/08/23 | Trouw | p | ABCDDD:010870473:mpeg21:a0029 | GROTE VAART.
+  1948/10/29 | Trouw | p | ABCDDD:010870527:mpeg21:a0129 | GROTE VAART.
+  1948/07/16 | Trouw | p | ABCDDD:010870441:mpeg21:a0029 | GROTE VAART.
+  1947/09/30 | Trouw | p | ABCDDD:010871255:mpeg21:a0138 | SCHEEPVAART GROTE VAART.
+  1947/08/23 | Trouw | p | ABCDDD:010871223:mpeg21:a0143 | SCHEEP VAART Scheepsbewegingen GROTE VAART
+  1947/09/03 | Trouw | p | ABCDDD:010871231:mpeg21:a0108 | SCHEEPVAART GROTE VAART.
+  1947/10/21 | De Volkskrant | p | ABCDDD:010936378:mpeg21:a0088 | SCHEEPSTIJDINGEN
+  1947/11/20 | De Volkskrant | p | ABCDDD:010936401:mpeg21:a0044 | SCHEEPSTIJDINGEN
+  1947/08/06 | De Volkskrant | p | ABCDDD:010936317:mpeg21:a0065 | SCHEEPSTIJDINGEN
+  1947/08/22 | De Volkskrant | p | ABCDDD:010936329:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1947/09/05 | De Volkskrant | p | ABCDDD:010936340:mpeg21:a0054 | SCHEEPSTIJDINGEN
+  1947/08/09 | De Volkskrant | p | ABCDDD:010936320:mpeg21:a0077 | SCHEEPSTIJDINGEN
+  1947/07/12 | De Volkskrant | p | ABCDDD:010936297:mpeg21:a0075 | SCHEEPSTIJDINGEN
+  1947/10/30 | De Volkskrant | p | ABCDDD:010936385:mpeg21:a0090 | SCHEEPSTIJDINGEN
+  1947/11/08 | De Volkskrant | p | ABCDDD:010936391:mpeg21:a0084 | SCHEEPSTIJ DINGEN
+  1947/10/15 | De Volkskrant | p | ABCDDD:010936373:mpeg21:a0074 | SCHEEPSTIJDINGEN
+  1947/11/27 | De Volkskrant | p | ABCDDD:010936407:mpeg21:a0059 | SCHEEPSTIJDINGEN SCHEEPSTIJDINGEN.
+  1947/12/05 | De Volkskrant | p | ABCDDD:010936414:mpeg21:a0062 | SCHEEPSTIJDINGEN
+  1947/12/10 | De Volkskrant | p | ABCDDD:010936418:mpeg21:a0055 | SCHEEPSTIJDINGEN
+  1947/12/11 | De Volkskrant | p | ABCDDD:010936419:mpeg21:a0065 | SCHEEPSTIJDINGEN
+  1947/08/23 | De Volkskrant | p | ABCDDD:010936330:mpeg21:a0070 | SCHEEPSTIJDINGEN
+  1947/10/21 | Trouw | p | ABCDDD:010871273:mpeg21:a0125 | Scheepsbewegingen GROTE VAART.
+  1947/11/08 | Trouw | p | ABCDDD:010871287:mpeg21:a0157 | GROTE VAART.
+  1947/11/27 | Trouw | p | ABCDDD:010871304:mpeg21:a0019 | SCHEEPVAART GROTE VAART.
+  1947/10/30 | Trouw | p | ABCDDD:010871281:mpeg21:a0150 | GROTE VAART. SCHEEPVAART
+  1947/04/11 | De Volkskrant | p | ABCDDD:010936236:mpeg21:a0061 | SCHEEPSTIJDINGEN
+  1947/09/30 | De Volkskrant | p | ABCDDD:010936361:mpeg21:a0064 | SCHEEPSTIJDINGEN
+  1947/10/02 | De Volkskrant | p | ABCDDD:010936363:mpeg21:a0062 | SCHEEPSTIJDINGEN
+  1948/08/05 | De Zaanlander | p | MMGAZS01:000159031:mpeg21:a00037 | De barre realiteit EEN „SUMATRAANTJE" ALS AFWISSELING
+  1947/06/13 | Het Parool | p | ABCDDD:010830574:mpeg21:a0077 | SCHEEPSTIJDINGEN
+  1947/06/18 | Het Parool | p | ABCDDD:010830578:mpeg21:a0079 | SCHEEPSTIJDINGEN
+  1948/08/21 | Trouw | p | ABCDDD:010824087:mpeg21:a0146 | GROTE VAART.
+  1948/07/16 | Trouw | p | ABCDDD:010824056:mpeg21:a0025 | GROTE VAART.
+  1947/02/15 | Het Parool | p | ABCDDD:010829527:mpeg21:a0101 | SCHEEPSTIJDINGEN
+  1947/03/11 | Het Parool | p | ABCDDD:010829547:mpeg21:a0076 | SCHEEPSTIJDINGEN
+  1947/04/15 | Het Parool | p | ABCDDD:010829575:mpeg21:a0066 | SCHEEPSTIJDINGEN
+  1947/06/17 | Het Parool | p | ABCDDD:010830577:mpeg21:a0076 | SCHEEPSTIJDINGEN
+  1947/12/12 | Het Parool | p | ABCDDD:010835277:mpeg21:a0101 | SCHEEPSTIJDINGEN
+  1948/07/12 | Het Parool | p | ABCDDD:010828659:mpeg21:a0092 | SCHEEPSTIJDINGEN
+  1948/01/07 | Het Parool | p | ABCDDD:010830825:mpeg21:a0090 | SCHEEPSTIJDINGEN
+  1948/04/23 | Het Parool | p | ABCDDD:010830915:mpeg21:a0104 | SCHEEPSTIJDINGEN
+  1947/07/22 | Het Parool | p | ABCDDD:010835155:mpeg21:a0087 | Scheepstijdingen
+  1947/08/06 | Het Parool | p | ABCDDD:010835168:mpeg21:a0092 | Scheepstijdingen
+  1947/07/23 | Het Parool | p | ABCDDD:010835156:mpeg21:a0084 | Scheepstijdingen
+  1947/08/16 | Het Parool | p | ABCDDD:010835177:mpeg21:a0094 | Scheepstijdingen
+  1947/09/06 | Het Parool | p | ABCDDD:010835194:mpeg21:a0124 | Scheepstijdingen
+  1947/08/30 | Het Parool | p | ABCDDD:010835189:mpeg21:a0088 | Scheepstijdingen
+  1948/03/24 | Het Parool | p | ABCDDD:010830891:mpeg21:a0081 | SCHEEPSTIJDINGEN
+  1948/01/19 | Het Parool | p | ABCDDD:010830835:mpeg21:a0109 | SCHEEPSTIJDINGEN
+  1948/02/04 | Het Parool | p | ABCDDD:010830849:mpeg21:a0118 | SCHEEPSTIJDINGEN
+  1948/01/14 | Het Parool | p | ABCDDD:010830831:mpeg21:a0114 | SCHEEPSTIJDINGEN
+  1948/10/19 | Trouw | p | ABCDDD:010824135:mpeg21:a0127 | GROTE VAART.
+  1948/10/28 | Trouw | p | ABCDDD:010824143:mpeg21:a0136 | GROTE VAART.
+  1948/08/23 | Trouw | p | ABCDDD:010824088:mpeg21:a0023 | GROTE VAART.
+  1948/10/11 | Trouw | p | ABCDDD:010824128:mpeg21:a0021 | GROTE VAART.
+  1948/08/24 | Het Parool | p | ABCDDD:010828696:mpeg21:a0080 | SCHEEPSTIJDINGEN
+  1948/12/20 | Het Parool | p | ABCDDD:010828795:mpeg21:a0083 | Scheepstijdingen
+  1948/09/30 | Het Parool | p | ABCDDD:010828726:mpeg21:a0088 | SCHEEPSTIJDINGEN
+  1948/10/12 | Het Parool | p | ABCDDD:010828736:mpeg21:a0084 | Scheepstijdingen
+  1948/07/16 | Het Parool | p | ABCDDD:010828663:mpeg21:a0095 | SCHEEPSTIJDINGEN
+  1947/11/08 | Het Parool | p | ABCDDD:010835248:mpeg21:a0130 | SCHEEPSTIJDINGEN
+  1947/12/17 | Het Parool | p | ABCDDD:010835281:mpeg21:a0119 | SCHEEPSTIJDINGEN
+  1948/01/21 | De Volkskrant | p | ABCDDD:010880646:mpeg21:a0047 | SCHEEPSTIJDINGEN
+  1948/02/21 | De Volkskrant | p | ABCDDD:010880670:mpeg21:a0066 | SCHEEPSTIJDINGEN
+  1948/01/08 | De Volkskrant | p | ABCDDD:010880635:mpeg21:a0064 | SCHEEPSTIJDINGEN
+  1948/03/05 | De Volkskrant | p | ABCDDD:010880681:mpeg21:a0063 | SCHEEPSTIJDINGEN
+  1948/04/21 | De Volkskrant | p | ABCDDD:010880720:mpeg21:a0066 | SCHEEPSTIJDINGEN
+  1948/05/22 | De Volkskrant | p | ABCDDD:010880738:mpeg21:a0079 | SCHEEPSTIJDINGEN
+  1948/01/28 | De Volkskrant | p | ABCDDD:010880651:mpeg21:a0057 | SCHEEPSTIJDINGEN
+  1948/02/06 | De Volkskrant | p | ABCDDD:010880657:mpeg21:a0055 | SCHEEPSTIJDINGEN
+  1948/02/07 | Trouw | p | ABCDDD:010870609:mpeg21:a0156 | GROTE VAART.
+  1948/01/20 | Trouw | p | ABCDDD:010870594:mpeg21:a0029 | GROTE VAART.
+  1948/04/20 | Trouw | p | ABCDDD:010870667:mpeg21:a0024 | GROTE VAART.
+  1948/06/09 | Trouw | p | ABCDDD:010870707:mpeg21:a0153 | GROTE VAART.
+  1948/01/03 | Trouw | p | ABCDDD:010870580:mpeg21:a0132 | GROTE VAART.
+  1948/06/24 | De Volkskrant | p | ABCDDD:010880772:mpeg21:a0067 | SCHEEPSTIJDINGEN
+  1948/01/02 | De Volkskrant | p | ABCDDD:010880630:mpeg21:a0073 | SCHEEPSTIJDINGEN
+  1948/01/03 | De Volkskrant | p | ABCDDD:010880631:mpeg21:a0066 | SCHEEPSTIJDTNGEN
+  1948/05/29 | De Volkskrant | p | ABCDDD:010880750:mpeg21:a0069 | SCHEEPSTIJDINGEN
+  1948/06/09 | De Volkskrant | p | ABCDDD:010880759:mpeg21:a0058 | SCHEEPSTIJDINGEN
+  1948/03/05 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000067985:mpeg21:a0030 | Schcepvaartberichten. Donderdag 4 Maart.
+  1948/07/12 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije T | p | MMSAEN01:000063317:mpeg21:a0019 | BOKSEN. LAATSTE TRAININGSWEDSTRIJDEN IN ENSCHEDE.
+  1947/07/24 | Arnhemsche courant | p | MMKB08:000112013:mpeg21:a0006 | De buitenlandse reacties Amerika zal geen stappen bij de Ver. Naties doen Marshall over de
+  1947/04/15 | Nieuwe courant | p | MMNIOD04:000100231:mpeg21:a0065 | Toekomst der Deli Tabaks Cultuur Interview met Directeur Deli Batavia Mij.
+  1948/03/05 | Bredasche courant | p | MMSAB03:000068267:mpeg21:a0069 | GEREGELDE LIJNEN.
+  1947/09/17 | Bredasche courant | p | MMSAB03:000068181:mpeg21:a0061 | SCHEEPVAART GEREGELDE LIJNEN
+  1947/09/30 | Bredasche courant | p | MMSAB03:000068193:mpeg21:a0068 | GEREGELDE LIJNEN.
+  1947/07/25 | Nieuwsblad van Friesland : Hepkema's courant | p1 | ddd:010733184:mpeg21:a0013 | Republikeinen heroveren Modjokerto.
+  1948/01/20 | De Nederlander | p3 | MMKB19:000082016:mpeg21:a00019 | Navigare Necesse Est
+  1948/09/03 | De nieuwsgier | p5 | ddd:010474726:mpeg21:a0050 | Straat Malakka is niet zo diep Over pindjelidiki en zwakke benen Van onze correspondent M.
+  1948/08/24 | Nieuwsblad van het Noorden | p6 | ddd:010884673:mpeg21:a0089 | SCHEEPSTIJDINGEN
+  1947/06/14 | Het vrĳe volk : democratisch-socialistisch dagblad | p4 | ddd:010949707:mpeg21:a0094 | NEDERLANDSE SCHEPEN
+  1947/07/22 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010949739:mpeg21:a0066 | PAULUS, avonturen van een Boskabouter
+  1947/07/26 | Het vrĳe volk : democratisch-socialistisch dagblad | p1 | ddd:010949742:mpeg21:a0001 | Nederlandse actie op Midden-Java reeds geëindigd Berichten van beide zijden
+  1947/03/06 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010949627:mpeg21:a0068 | NEDERLANDSE SCHEPEN
+  1947/03/01 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010949623:mpeg21:a0079 | NEDERLANDSE SCHEPEN
+  1947/03/08 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010949629:mpeg21:a0072 | NEDERLANDSE SCHEPEN
+  1947/04/10 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010949655:mpeg21:a0069 | NEDERLANDSE SCHEPEN
+  1948/02/03 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179234028:mpeg21:a00079 | Scheepvaartberichten
+  1948/01/03 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179234002:mpeg21:a00089 | Scheepvaartberichten
+  1948/01/02 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179234001:mpeg21:a00092 | Beurs van New York
+  1948/07/30 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179236026:mpeg21:a00088 | Scheepvaartberichten
+  1947/09/02 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023054:mpeg21:a00044 | Waar zijn onze schepen ?
+  1947/09/05 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023057:mpeg21:a00042 | Waar zijn onze schepen?
+  1947/10/21 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023096:mpeg21:a00062 | Waar zijn onc schepen?
+  1947/11/05 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023109:mpeg21:a00059 | Waar zijn onze schenpen?
+  1947/11/05 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179233030:mpeg21:a00092 | GEEN VERSTERKTE DEGRADATIE
+  1948/07/02 | Nieuwe provinciale Groninger courant | p6 | MMRHCG04:235024002:mpeg21:a00071 | WAAR ZIJN ONZE SCHEPEN?
+  1947/06/25 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p4 | ddd:010402684:mpeg21:a0064 | Maleis.
+  1948/11/16 | Overijsselsch dagblad | p3 | MMKB23:001253039:mpeg21:a00050 | SCHEEPSBERICHTEN
+  1948/07/13 | Overijsselsch dagblad | p3 | MMKB23:001252011:mpeg21:a00056 | SCHEEPSBERICHTEN
+  1948/12/24 | De waarheid | p2 | ddd:010850750:mpeg21:a0065 | BEW. NEDERLANDSE SCHEPEN
+  1947/09/29 | De tĳd : dagblad voor Nederland | p2 | ddd:011201220:mpeg21:a0053 | Scheepvaartberichten
+  1947/10/29 | De tĳd : dagblad voor Nederland | p2 | ddd:011201246:mpeg21:a0024 | Scheepvaartberichten
+  1947/11/05 | De tĳd : dagblad voor Nederland | p2 | ddd:011201251:mpeg21:a0055 | Scheepvaartberichten
+  1948/10/12 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173662:mpeg21:a0068 | SCHEEPSTIJDINGEN
+  1947/08/08 | De tĳd : dagblad voor Nederland | p2 | ddd:011201178:mpeg21:a0048 | Scheepvaartberichten
+  1948/07/13 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173586:mpeg21:a0061 | SCHEEPSTIJDINGEN
+  1947/09/06 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154925:mpeg21:a0125 | SCHEEPSTIJDINGEN
+  1948/04/05 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011173503:mpeg21:a0076 | SCHEEPSTIJDINGEN
+  1947/10/22 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154964:mpeg21:a0097 | SCHEEPSTIJDINGEN
+  1947/09/03 | De Gooi- en Eemlander : nieuws- en advertentieblad | p3 | ddd:011154922:mpeg21:a0078 | SCHEEPSTIJDINGEN
+  1947/01/17 | De Maasbode | p7 | MMKB15:000548014:mpeg21:a00043 | SCHEEPVAARTBERICHTEN
+  1948/12/02 | Het Binnenhof | p2 | MMKB19:000374130:mpeg21:a00044 | Scheepvaartberichten
+  1948/12/27 | Het Binnenhof | p2 | MMKB19:000374150:mpeg21:a00055 | Scheepvaartberichten
+  1947/07/26 | Ons Noorden | p2 | MMRHCG04:235371173:mpeg21:a00021 | REPUBLIJKFINSE BERICHTEN. Zware gevechten in alle gebieden
+  1947/11/07 | Het Rotterdamsch parool | p2 | MMSARO02:164869111:mpeg21:a00037 | SCHEEPVAART
+  1948/01/14 | Het Rotterdamsch parool | p2 | MMSARO02:164870011:mpeg21:a00045 | SCHEEPVAART
+  1947/09/29 | Het Rotterdamsch parool | p2 | MMSARO02:164869077:mpeg21:a00027 | SCHEEPVAART
+  1948/06/10 | Het Rotterdamsch parool | p2 | MMSARO02:164870134:mpeg21:a00038 | SCHEEPVAART
+  1947/08/22 | Het Rotterdamsch parool | p2 | MMSARO02:164869046:mpeg21:a00050 | SCHEEPVAART
+  1948/11/20 | Het Rotterdamsch parool | p2 | MMSARO02:164871121:mpeg21:a00043 | SCHEEPVAART
+  1947/07/22 | De Nederlandsche transportcourant | p3 | MMKB19:000824165:mpeg21:a00044 | Nederlandse schepen in het buitenland
+  1947/04/11 | De nieuwe Nederlander | p4 | MMKB15:000911288:mpeg21:a00033 | Waar zijn onze schepen ?
+  1947/11/08 | De Maasbode | p7 | MMKB15:000549110:mpeg21:a00078 | Financiën
+  1947/01/24 | De nieuwe Nederlander | p4 | MMKB15:000911224:mpeg21:a00035 | Waar zijn onze schepen?
+  1947/02/05 | De nieuwe Nederlander | p4 | MMKB15:000911234:mpeg21:a00044 | Waar zijn onze schepen?
+  1947/02/14 | De nieuwe Nederlander | p4 | MMKB15:000911242:mpeg21:a00035 | Waar zijn onze schepen?
+  1948/01/02 | De waarheid | p2 | ddd:010851265:mpeg21:a0055 | BERICHTEN VAN ELDERS Grote vaart
+  1948/02/04 | De waarheid | p4 | ddd:010851293:mpeg21:a0085 | HERICHTEN VAN ELDERS
+  1947/06/11 | De waarheid | p4 | ddd:010852271:mpeg21:a0078 | Scheepvaart
+  1947/08/15 | De waarheid | p2 | ddd:010852065:mpeg21:a0036 | BERICHTEN VAN ELDERS
+  1947/09/02 | De waarheid | p2 | ddd:010852079:mpeg21:a0067 | BERICHTEN VAN ELDERS.
+  1947/04/10 | De waarheid | p2 | ddd:010852193:mpeg21:a0050 | BERICHTEN VAN ELDERS
+  1947/04/18 | De waarheid | p4 | ddd:010852199:mpeg21:a0098 | BERICHTEN VAN ELDERS GROTE VAART:
+  1947/08/04 | De waarheid | p4 | ddd:010852055:mpeg21:a0084 | BERICHTEN VAN ELDERS. Grote Vaart.
+  1947/08/02 | De waarheid | p2 | ddd:010852054:mpeg21:a0021 | BERICHTEN VAN ELDERS Grote Vaart
+  1947/11/08 | De waarheid | p5 | ddd:010852137:mpeg21:a0128 | Grote Vaart.
+  1947/11/13 | De waarheid | p2 | ddd:010852141:mpeg21:a0062 | Grote Vaart.
+  1947/03/08 | De waarheid | p2 | ddd:010852306:mpeg21:a0029 | Scheepvaart
+  1947/08/08 | Nieuwsblad van het Noorden | p3 | ddd:010885500:mpeg21:a0055 | SCHEEPSTIJDINGEN
+  1947/09/16 | Nieuwsblad van het Noorden | p3 | ddd:010885535:mpeg21:a0049 | SCHEEPSTIJDINGEN
+  1947/10/14 | Het Rotterdamsch parool | p2 | MMSARO02:164869090:mpeg21:a00045 | SCHEEPVAART
+  1947/12/31 | Het Rotterdamsch parool | p2 | MMSARO02:164869155:mpeg21:a00041 | SCHEEPVAART
+  1947/04/18 | Het Rotterdamsch parool | p2 | MMSARO02:164868009:mpeg21:a00051 | SCHEEPVAART
+  1947/10/09 | Het Rotterdamsch parool | p2 | MMSARO02:164869086:mpeg21:a00037 | SCHEEPVAART
+  1947/10/11 | Het Rotterdamsch parool | p2 | MMSARO02:164869088:mpeg21:a00048 | SCHEEPVAART
+  1947/09/13 | Het Rotterdamsch parool | p2 | MMSARO02:164869064:mpeg21:a00036 | SCHEEPVAART
+  1947/09/17 | Het Rotterdamsch parool | p2 | MMSARO02:164869067:mpeg21:a00040 | SCHEEPVAART
+  1948/05/28 | Het Rotterdamsch parool | p2 | MMSARO02:164870123:mpeg21:a00050 | SCHEEPVAART
+  1948/10/26 | Het Rotterdamsch parool | p3 | MMSARO02:164871099:mpeg21:a00051 | SCHEEPVAART
+  1948/11/02 | Het Rotterdamsch parool | p3 | MMSARO02:164871105:mpeg21:a00065 | heòen....
+  1948/10/01 | Ons Noorden | p3 | MMRHCG04:235375001:mpeg21:a00043 | SCHEEPSBERICHTEN
+  1947/11/03 | Algemeen Dagblad | p2 | MMSARO03:259003107:mpeg21:a00049 | Scheepvaart
+  1948/05/29 | Algemeen Dagblad | p7 | MMSARO03:259004125:mpeg21:a00136 | Bewegingen van zeeschepen
+  1947/07/22 | Algemeen Dagblad | p4 | MMSARO03:259003019:mpeg21:a00071 | Scheepvaart
+  1947/10/15 | Algemeen Dagblad | p4 | MMSARO03:259003091:mpeg21:a00080 | Scheepvaart
+  1947/10/01 | Algemeen Dagblad | p2 | MMSARO03:259003079:mpeg21:a00061 | BEWEGINGEN VAN ZEESCHEPEN
+  1948/07/19 | Algemeen Dagblad | p5 | MMSARO03:259005016:mpeg21:a00103 | Bewe gingen van zeeschepen
+  1948/04/05 | Algemeen Dagblad | p4 | MMSARO03:259004080:mpeg21:a00088 | Bewegingen van zeeschepen
+  1948/03/25 | Algemeen Dagblad | p2 | MMSARO03:259004072:mpeg21:a00052 | Bewegingen van zeeschepen
+  1947/08/11 | Eindhovensch dagblad | p5 | MMKB27:017811036:mpeg21:a00055 | Nakaarten in Cheribon Engelse vlaggen en lege blikjes
+  1947/07/28 | Eindhovensch dagblad | p2 | MMKB27:017811024:mpeg21:a00016 | Republikeinen melden heroveringen De strijd om Malang
+  1947/07/11 | Het Binnenhof | p2 | MMKB19:000370009:mpeg21:a00018 | LEIDSCHENDAM
+  1947/07/25 | De Nederlander | p4 | MMKB19:000080022:mpeg21:a00045 | Scheepvaart en Visserij
+  1948/10/20 | De Nederlander | p4 | MMKB19:000084095:mpeg21:a00035 | Scheepvaartberichten
+  1948/12/22 | De Nederlander | p4 | MMKB19:000084148:mpeg21:a00036 | Scheepvaart berichten
+  -> 680 in range
+QUERY: "stille oceaan" AND geheimzinnig | total 195 | showing years 1940-1941
+  1941/01/02 | Vooruit | p1 | MMKB19:000109052:mpeg21:a00013 | Duitse oorlogsvloot in Stille Oceaan
+  1941/01/02 | De Volkskrant | p | ABCDDD:010843909:mpeg21:a0118 | Twintig Noorse schepen verloren
+  1941/01/02 | Utrechts volksblad : sociaal-democratisch dagblad | p6 | ddd:010939615:mpeg21:a0124 | Zware verliezen voor de Britse scheepvaart
+  1941/01/02 | Nieuwe Utrechtsche courant | p5 | MMUTRA04:253399078:mpeg21:a00058 | Twintig Noorse schepen verloren
+  1941/03/07 | Emmer courant | p8 | MMGEM01:163327019:mpeg21:a00048 | Jeugdhoekje Nieuwe avonturen van de c ub van vijf.
+  1940/12/30 | Ons Noorden | p1 | MMRHCG04:235363090:mpeg21:a00002 | BUITENLAND De kwestie Laval Vichy voor gewichtige beslissingen Berlijns standpunt
+  1940/10/21 | Ons Noorden | p1 | MMRHCG04:235363019:mpeg21:a00002 | BUITENLAND Nieuwe luchtaanvallen op Londen en Berlijn Tal van branden in Londen. In Berlij
+  1940/12/06 | Ons Noorden | p1 | MMRHCG04:235363066:mpeg21:a00002 | BUITENLAND De geruchten over wapenstilstand en vrede Voorstel tot bijeenroepen vredesconfe
+  -> 8 in range
+QUERY: "nederlandsch schip" AND "stille oceaan" | total 0 | showing years 1940-1941
+  -> 0 in range
+QUERY: salomonseilanden OR "salomons-eilanden" OR "salomon eilanden" OR "salomons eilanden" | total 7728 | showing years 1940-1941 (capped at 3000)
+  1940/09/12 | De Maasbode | p4 | ddd:110531073:mpeg21:a0110 | Oosterschee markten
+  1940/09/30 | Algemeen Handelsblad | p3 | ddd:010672234:mpeg21:a0115 | DE VEILIGSTE WEG voor de Amerikaansche vloot naar het Verre Oosten loopt volgens den admir
+  1940/10/02 | Twentsch dagblad Tubantia en Enschedesche courant | p | MMSAEN01:000054714:mpeg21:a0076 | Indien Amerika's vloot in actie komt tegen Japan. DRIE ROUTES, waarvan de veiligste door N
+  1941/08/04 | De banier : staatkundig gereformeerd dagblad | p1 | ddd:010851910:mpeg21:a0036 | AARDBEVING IN GEBIED VAN SALOMON-EILANDEN.
+  1941/08/04 | De courant Het nieuws van den dag | p1 | ddd:010986265:mpeg21:a0064 | AARDBEVING BIJ DE SALOMON-EILANDEN.
+  1941/08/04 | Nieuwsblad van het Zuiden : dagblad met ochtend- en avond-ed | p3 | ddd:010770096:mpeg21:a0062 | AARDBEVING IN GEBIED VAN SALOMON-EILANDEN
+  1941/08/04 | Het volk : dagblad voor de arbeiderspartĳ | p2 | ddd:011117937:mpeg21:a0038 | Aardbeving in gebied van de Salomon-eilanden
+  1941/08/04 | Provinciale Overĳsselsche en Zwolsche courant : staats-, han | p1 | ddd:010314461:mpeg21:a0005 | V=VICTORIE Duitschland wint  voor Europa op  alle fronten AARDBEVING IN GEBIED VAN SALOMON
+  1940/09/30 | Algemeen Handelsblad | p | KBNRC01:000054146:mpeg21:a0036 | V.S. hebben meer vliegtuigbases in Grooten Oceaan noodig
+  1941/01/06 | Provinciale Overĳsselsche en Zwolsche courant : staats-, han | p7 | ddd:010314285:mpeg21:a0127 | Naoeroe of Prettig  Eiland SPELDEKNOPJE IN DEN GROOTEN OCEAAN
+  1940/09/30 | Algemeen Handelsblad | p3 | ddd:010672234:mpeg21:a0118 | De derde en veiligste route.
+  -> 11 in range
+QUERY: "geheimzinnige noodseinen" | total 12 | showing years 1930-1950
+  1939/08/04 | De avondpost | p2 | MMKB27:021096057:mpeg21:a00024 | DE GEHEIMZINNIGE NOODSEINEN
+  1939/08/04 | Delftsche courant | p | MMKB08:000077250:mpeg21:a0037 | DE GEHEIMZINNIGE NOODSEINEN
+  1931/04/25 | Het volk : dagblad voor de arbeiderspartĳ | p3 | ddd:011116310:mpeg21:a0084 | De geheimzinnige noodseinen. Van een schip in het ijs bij Archangel.
+  1938/04/23 | Provinciale Overijsselsche en Zwolsche courant | p | MMHCO01:000089560:mpeg21:a0002 | Geheimzinnige noodseinen Zijn zij van het toestel dat Amelia Earhart bij zich had?
+  1939/12/02 | Bredasche courant | p | MMSAB03:000067714:mpeg21:a0019 | DE BEVERWIJK 20 VAART VERDER De kraan, die wordt gesleept, heeft eenigen tijd aan den gron
+  1931/04/20 | Voorwaarts | p | KBDDD02:000204484:mpeg21:a0013 | Geheimzinnige noodseinen. S.O.S.-berichten zonder dat men de herkomst weet.
+  1950/04/05 | Algemeen Handelsblad | p | KBNRC01:000087561:mpeg21:a0019 | IN 65 MINUTEN: Londen naar Kopenhagen
+  -> 7 in range
+QUERY: "geheimzinnig noodsein" | total 6 | showing years 1930-1950
+  1932/05/26 | Haagsche courant | p | MMKB04:000147044:mpeg21:a0020 | VEREENIGDE STATEN. Geheimzinnig noodsein.
+  1931/03/31 | Provinciale Noordbrabantsche en 's Hertogenbossche courant | p | MMSADB01:000015506:mpeg21:a0043 | Buitenland. DE DUITSCH-OOSTENRIJKSCHE TOL-UNIE.
+  -> 2 in range
+QUERY: marconist AND "S.O.S." AND kapitein AND dood AND bemanning AND date within "1940-10-01 1941-01-31" | total 0 | showing years 1940-1941
+  -> 0 in range

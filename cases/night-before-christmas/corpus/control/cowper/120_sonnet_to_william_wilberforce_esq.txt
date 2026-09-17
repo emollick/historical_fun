@@ -1,0 +1,23 @@
+title: Sonnet to William Wilberforce, Esq
+author: William Cowper
+date: 1792
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+Thy country, Wilberforce, with just disdain,
+Hears thee by cruel men and impious call'd
+Fanatic, for thy zeal to loose the enthrall'd
+From exile, public sale, and slavery's chain.
+Friend of the poor, the wrong'd, the fetter-gall'd,
+Fear not lest labour such as thine be vain.
+Thou hast achieved a part; hast gain'd the ear
+Of Britain's senate to thy glorious cause; [pause
+Hope smiles, joy springs, and, though cold caution
+And weave delay, the better hour is near
+That shall remunerate thy toils severe,
+By peace for Afric, fenced with British laws.
+Enjoy what thou hast won, esteem and love
+From all the just on earth and all the blest above.

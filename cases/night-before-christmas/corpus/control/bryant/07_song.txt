@@ -1,0 +1,28 @@
+title: Song
+author: William Cullen Bryant
+date: c. 1821-1832
+source: https://www.gutenberg.org/ebooks/16341 (Poems by William Cullen Bryant, authorized edition, Dessau: Katz Brothers, 1854; "Poems" section = poems of 1814-1832)
+form: iambic tetrameter
+lines: 16
+attribution: certain
+notes: 
+
+Soon as the glazed and gleaming snow
+Reflects the day-dawn cold and clear,
+The hunter of the west must go
+In depth of woods to seek the deer.
+
+His rifle on his shoulder placed,
+His stores of death arranged with skill,
+His moccasins and snow-shoes laced,--
+Why lingers he beside the hill?
+
+Far, in the dim and doubtful light,
+Where woody slopes a valley leave,
+He sees what none but lover might,
+The dwelling of his Genevieve.
+
+And oft he turns his truant eye,
+And pauses oft, and lingers near;
+But when he marks the reddening sky,
+He bounds away to hunt the deer.

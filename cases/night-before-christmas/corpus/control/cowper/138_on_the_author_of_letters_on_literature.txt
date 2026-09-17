@@ -1,0 +1,23 @@
+title: On the Author of Letters on Literature
+author: William Cowper
+date: c. 1780-1793
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: iambic tetrameter
+lines: 12
+attribution: certain
+notes: 
+
+The Genius of the Augustan age
+His head among Rome's ruins rear'd,
+And, bursting with heroic rage,
+When literary Heron appear'd;
+
+Thou hast, he cried, like him of old
+Who set the Ephesian dome on fire,
+By being scandalously bold,
+Attain'd the mark of thy desire.
+
+And for traducing Virgil's name
+Shalt share his merited reward;
+A perpetuity of fame,
+That rots, and stinks, and is abhorr'd.

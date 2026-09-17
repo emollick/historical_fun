@@ -1,0 +1,579 @@
+ 
+ Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959 | Communications Earth & Environment 
+ Skip to main content 
+ Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+ the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+ Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+ and JavaScript.
+ Advertisement
+ View all journals 
+ Saved research 
+ Search 
+ Account 
+ Log in 
+ Content 
+ Explore content 
+ About the journal 
+ Publish with us 
+ Sign up for alerts 
+ RSS feed 
+ nature 
+ communications earth & environment 
+ articles 
+ article 
+ Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959
+ Download PDF 
+ Download PDF 
+ Article
+ Open access 
+ Published: 28 January 2021 
+ Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959
+ Johan Gaume 1 , 2 & 
+ Alexander M. Puzrin  
+ ORCID: orcid.org/0000-0002-9566-8841 3  
+ Communications Earth & Environment 
+ volume  2 , Article number:  10 ( 2021 ) Cite this article 
+ Save article 
+ View saved research 
+ 401k Accesses 
+ 14 Citations 
+ 1469 Altmetric 
+ Metrics details 
+ Abstract
+ The Dyatlov Pass incident is an intriguing unsolved mystery from the last century. In February 1959, a group of nine experienced Russian mountaineers perished during a difficult expedition in the northern Urals. A snow avalanche hypothesis was proposed, among other theories, but was found to be inconsistent with the evidence of a lower-than-usual slope angle, scarcity of avalanche signs, uncertainties about the trigger mechanism, and abnormal injuries of the victims. The challenge of explaining these observations has led us to a physical mechanism for a slab avalanche caused by progressive wind-blown snow accumulation on the slope above the hikers’ tent. Here we show how a combination of irregular topography, a cut made in the slope to install the tent and the subsequent deposition of snow induced by strong katabatic winds contributed after a suitable time to the slab release, which caused severe non-fatal injuries, in agreement with the autopsy results.
+ Similar content being viewed by others
+ Signatures of the sub-Rayleigh to supershear fracture transition in snow avalanche experiments
+ Article 
+ Open access 
+ 16 December 2025 
+ Climate change impacts on snow avalanche activity and related risks
+ Article 
+ 25 April 2024 
+ Stranded because of exhaustion while high-altitude mountaineering in the Swiss Alps: a retrospective nationwide study
+ Article 
+ Open access 
+ 30 May 2022 
+ Explore related subjects
+ Discover the latest articles and news in related subjects. 
+ Cryospheric science 
+ Natural hazards 
+ Introduction
+ During the night of February 1, 1959, nine Russian hikers died under unexplained circumstances during a skiing expedition in the northern Ural Mountains. The group had decided to set up their camp on the slope of the Kholat Saykhl (Fig.  1a ); the name means “Dead Mountain” in the local Mansi language. Something unexpected happened after midnight that caused expedition members to cut the tent suddenly from the inside and escape towards a forest, more than 1 km downslope (Fig.  1b ), without appropriate clothes, under extremely low temperatures (below −25 °C, see Supplementary Note  3 ), and in the presence of strong katabatic winds induced by the passing of an arctic cold front 1 .
+ Fig. 1: Pictures taken at the tent location shortly before and weeks after the incident, and a sketch of the slope before the incident. Full size image a Last picture of the Dyatlov group taken before sunset, while making a cut in the slope to install the tent. Photograph courtesy of the Dyatlov Memorial Foundation. b Broken tent covered with snow as it was found during the search 26 days after the event. Photograph courtesy of the Dyatlov Memorial Foundation. c Configuration of the Dyatlov tent installed on a flat surface after making a cut in the slope below a small shoulder (see Fig.  2a ). Snow deposition above the tent is due to wind transport of snow (with deposition flux Q).
+ Twenty-six days to three months after the tragedy, search teams found bodies in the forest and on their way back to the tent. According to the 1959 Soviet criminal investigation, “a compelling natural force” led to the death of the Dyatlov group. However, the nature of this force has not been identified. The mystery arises from numerous unexplained observations. While hypothermia was determined to be the main cause of death, four hikers had severe thorax or skull injuries, two were found with missing eyes and one without tongue; some were almost naked and barefoot, traces of radioactivity were found on some of their clothes, and signs of glowing orange spheres floating in the sky were reported that night 1 .
+ Several theories have been proposed to explain this incident, including infrasound-induced panic, animals, attacks by Yetis or local tribesmen, katabatic winds, a snow avalanche, a romantic dispute, nuclear-weapons tests, etc. The originally popular avalanche theory has been questioned due to several contradictory pieces of evidence 1 : (1) no obvious signs of an avalanche or debris were reported by the search team that arrived 26 days later, (2) the average slope angle above the tent location was not sufficiently steep for an avalanche (lower than 30°), (3) the hypothetical avalanche released during the night, at least nine hours after the cut was made in the slope, and (4) the thorax and skull injuries were not typical for avalanche victims.
+ In 2015, the Investigative Committee of the Russian Federation (ICRF) re-opened the investigation and in 2019 concluded that a snow avalanche was the most probable cause of the accident 2 , 3 . The results of this investigation have been challenged recently by the office of the Prosecutor General of the Russian Federation, who in 2019 started its own investigation and in July 2020 came to the same conclusion as ICRF. Both investigations have not, however, disclosed scientific explanations for the four counterarguments listed above and therefore keep being challenged by the relatives, public, and researchers. In particular, a 2019 Swedish-Russian expedition disagreed with the ICRF conclusions, instead proposing that the direct impact of katabatic winds on the tent was the main contributing factor.
+ Based on the significant amount of published material 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , it seems that previous investigations lack an important ingredient: a quantifiable physical mechanism that can reconcile the avalanche hypothesis with seemingly conflicting evidence. Identifying such a mechanism may provide new insights into the nature of storm-triggered snowpack instabilities, which is another important motivation for this work.
+ Here, we show that—even though the occurrence of an avalanche at this location is unlikely under natural conditions—the combination of four critical factors allowed the release of a small snow slab directly above the tent. These factors include (Fig.  1c ): (1) the location of the tent under a shoulder in a locally steeper slope to protect them from the wind, (2) a buried weak snow layer parallel to the locally steeper terrain, which resulted in an upward-thinning snow slab, (3) the cut in the snow slab made by the group to install the tent, (4) strong katabatic winds that led to progressive snow accumulation due to the local topography (shoulder above the tent) causing a delayed failure. Furthermore, the possible construction of a parapet 1 above the cut (a classical safety procedure to protect the tent from the wind, Fig. SF 3 ) could have accelerated the failure process. The proposed physical mechanism couples the onset of dynamic shear-fracture propagation in the weak snow layer with wind-induced snow transport. Provided a realistic wind deposition flux, our model shows that the conditions for avalanche release can be met after a delay of 7.5 to 13.5 h from the moment the hikers made the cut in the slope, in agreement with the forensic evaluation of the time of death. Dynamic avalanche simulations suggest that even a relatively small slab could have led to severe but non-lethal thorax and skull injuries, as reported by the post-mortem examination 1 .
+ Results
+ Local topography
+ The mountain slope at the location of the tent is highly irregular. Around 100 m above the tent, there is a shoulder which separates a rather flat plateau and a steeper slope below (Fig.  2a ). This slope consists of 4–6 m high steps 1 (Fig.  1c and Fig. SF 2 ) and the tent was installed below one of them, where it was easier to make a cut in a locally flatter slope. The choice of the tent location was also likely driven by the fact that the larger scale shoulder would protect them from the strong winds. In reality, as we show below, this choice of location could have contributed to the accident: small scale topographic variability resulted in a locally steep weak snow layer while the larger shoulder contributed to significant wind-driven snow accumulation above the tent, eventually leading to an instability.
+ Fig. 2: Local terrain in the Dyatlov Pass, reported snow dynamic friction values, and typical slope angles in human-triggered avalanches. Full size image a Terrain map of the Dyatlov Pass—indicated by the red circle (adapted based on JAXA aster data, from USGS Earth Explorer, NASA, USGS, JAXA, CC BY 2.5), blue triangle and black crosses indicate locations of the tent and of the hikers’ bodies, respectively. b Slope angles reported for 139 accidentally triggered avalanches 11 . c Dynamic friction-angle distribution based on van Herwijnen et Heierli. 13 . Green = faceted types of crystals (depth hoar, faceted crystals, rounded facets, and surface hoar), black = new snow, decomposed and fragmented crystals, and rounded grains.
+ Slope angle and friction
+ Major arguments against the avalanche hypothesis include insufficient signs of the occurrence of an avalanche (no apparent deposit or crown fracture) and the relatively mild slope (~23° ± 2°). It appears, however, that the ground surface in the vicinity of the estimated tent location was steeper (up to 30°) than the average snow slope. Subsequent snowfalls smoothed the irregular terrain to the observed average 23° slope. This implies directly that the slab above the layer of depth hoar was thinner uphill, which has three main consequences: (1) It results in the average slope of the buried weak layer being about 28°, increasing the probability of slab release (Fig.  2b ). (2) It reduces tensile support at the top of the slab, considerably limiting the avalanche volume. (3) It makes it more difficult to trace avalanche signs, especially 26 days after the incident.
+ While a 28° slope may still be perceived as being too mild to cause an avalanche—based on the often-quoted and implicit rule of thumb that a minimum of 30° is required 10 —in reality, the critical slope angle can be as low 11 as 20° (Fig.  2b ), provided the dynamic friction angle (sometimes called crack-face friction 11 ) of the snow is sufficiently low. In fact, field measurements have shown that the dynamic friction angle of snow can be as low as 15°, especially for very low temperatures 12 . In particular, the buried crystals of depth hoar, which were reported by the investigation on the site (see Supplementary Note  3 ), tend to exhibit rather low friction values 13 (Fig.  2c ).
+ Additional load due to wind-transported snow
+ In spite of the fact that the 28° inclination of the buried weak layer was higher than the angle of friction, the snowpack did not fail for at least nine hours after the slope was cut (see Supplementary Note  1 ), due to cohesion in the weak layer. In principle, overcoming cohesion does not necessarily require additional loading. Recent work on delayed snow avalanches 14 has proposed a release mechanism driven by rate-dependent processes in the snow slab and the weak layer 10 , which can develop under constant loads. It cannot, however, accommodate a nine-hour delay, due to the relatively short extent of the slab. It follows that the true mechanism must involve additional loading of the slope. Given the extremely low temperatures and strong katabatic winds, it is unlikely that anyone would have climbed above the tent during the night, disturbing the weak layer. In the absence of significant snowfall, the only way to accumulate additional load is through wind transport 15 .
+ Snow accumulation above the tent resulted from katabatic winds and the presence of a shoulder located above the tent (Fig.  2a ). Possible construction of a small snow parapet by the Dyatlov group (classical safety measure for snow camping, Fig. SF 3 ), could contribute to additional loading.
+ Below, we present an analytical model for a thinning snow slab gradually loaded by wind-transported snow above the cut in the slope, which evaluates the wind deposition flux necessary to reproduce the forensic estimate of delay. Subsequent numerical modeling confirms that the observed injuries of the Dyatlov group members are consistent with the failed-slab dynamics.
+ Conditions for a delayed avalanche
+ The proposed delayed-release mechanism for a variable-thickness slab (based on the local topography) is illustrated in Fig.  3 . After the expedition members made the cut in the slope (Fig.  3a ), the shear stress in the weak layer did not immediately reach the peak shear strength. Due to wind-driven snow deposition, the slope gradually became loaded over the growing length l cw , causing the growth of shear stresses in the weak layer. In addition, partial snow sintering 16 leads to strengthening of the wind-transported snow layer. Hence, the growth of l cw is affected by the gradual increase of the slab thickness, and continues until the shear stress in the weak layer reaches the peak shear strength τ p in the vicinity of the cut (Fig.  3b ). A further snow deposition does not mobilize additional shear resistance in the weak layer; in contrast, it initiates rapid softening of the weak layer close to the cut, resulting in the loss of equilibrium, dynamic uphill growth of the basal shear fracture, and slab release.
+ Fig. 3: The mechanism of delayed release of a wind-induced avalanche. Full size image a Geometry: A planar weak layer of thickness d is inclined at an angle α to the horizontal. It is buried below a snow slab of variable depth, decreasing from h 0 at the cut ( x  = 0) to h c at the straight upper slope ( \(x \ge l_{\mathrm{c}}\) ). After the cut is made, a wind-transported snow layer of the height h w0 (at the cut) loads the slope, causing local thickening of the slab over the height h s0 . b Shear stress in the weak layer.
+ The slab release condition is derived in the Methods section as a solution of the plain strain (2D) boundary value problem of a variable-thickness cohesive slab under a variable-thickness cohesionless snow load, when the shear stress in the weak layer at the cut τ 0 reaches the peak strength τ p :
+ $$\tau _0 = \tau _{{\mathrm{g}}0} + r_1\frac{{P_{{\mathrm{g}}0}}}{{L_0}} + \frac{{r_3}}{{r_3 + 2}}\frac{{P_{{\mathrm{w}}0}}}{{L_0}} \ge \tau _p.$$ 
+ (1)
+ Forces and stresses in Eq. ( 1 ) are defined as
+ $$\begin{array}{l}P_{{\mathrm{g}}0} = \frac{1}{2}K_0{\,}\rho gh_0^2{\,}{\mathrm{cos}}\,\alpha ,\,P_{{\mathrm{w}}0} = \rho _{\mathrm{w}}gh_{{\mathrm{w}}0}L_0 \cdot {\mathrm{sin}}\alpha ,\\ \tau _{{\mathrm{g}}0} = \rho gh_0\,{\mathrm{sin}}\,\alpha ,\,\tau _{\mathrm{p}} = \left( {\rho h_0 + \rho _{\mathrm{w}}h_{{\mathrm{w}}0}} \right)g\,{\mathrm{cos}}\,\alpha \,{\mathrm{tan}}\,\varphi + c,\end{array}$$ 
+ (2)
+ where φ and c are the angle of internal friction and the cohesion of the weak layer, ρ and ρ w are the densities of the original slab and of the wind-transported snow, respectively, h w 0 is the thickness of the wind-deposited snow at the cut, K 0 is the at rest lateral snow pressure coefficient, \(L_0 = l_{\mathrm{c}}\left( {1 - \sqrt {h_{\mathrm{c}}/h_0} } \right)^{ - 1}\) is a characteristic length, with quantities l c , h c and h 0 defined in Fig.  3a . The parameters r 1 and r 3 are given by
+ $$r_1 = \frac{{1 + \sqrt {1 + 4\lambda _0} }}{2},\,r_3 = \frac{{1 + \sqrt {1 + 4\lambda _{\mathrm{s}}} }}{2},\,\\ \lambda _{\mathrm{s}} = \frac{{\lambda _0h_0}}{{h_0 + h_{{\mathrm{s}}0}}},\,\lambda _0 = \frac{{GL_0^2}}{{E^\prime h_0d}},$$ 
+ (3)
+ where the quantities h s0 and d are defined in Fig.  3a , G is the shear modulus of the weak layer, E ′ is the plane strain elastic modulus of the slab. The numbers λ 0 and λ s characterize the ratio between the geometrical quantity L 0 and the characteristic elastic length 14 of the slab-weak layer system before and after snow transport, respectively.
+ Figure  4a, b provides a conceptual framework for calculating the time of avalanche release. It has been shown (see Methods) that delayed slab release is only possible when the angle of internal friction in the weak layer φ falls within the following range (Fig.  4a ):
+ $$\begin{array}{l}{\mathrm{tan}}\,\varphi _{{\mathrm{min}}} {\,}<{\,} {\mathrm{tan}}\,\varphi {\,}<{\,} {\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _0} \right),\\ {\mathrm{tan}}\,\varphi _{{\mathrm{min}}} = {\mathrm{tan}}\,\alpha - \frac{c}{{\rho gh_0}}\sqrt {1 + {\mathrm{tan}}^2\alpha } + r_1\frac{{K_0h_0}}{{2L_0}},\\ {\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _0} \right) = \frac{{1 + \sqrt {1 + 4\lambda _0} }}{{5 + \sqrt {1 + 4\lambda _0} }}{\mathrm{tan}}\,\alpha ,\end{array}$$ 
+ (4)
+ Fig. 4: Conceptual framework for calculating the time of avalanche release. Full size image a Conditions for delayed slab release. b Bounds for the critical height of the wind-transported load. c Predicted vs. forensically estimated delays.
+ For a value of φ within the above range, the shortest and longest possible delays occur when h w0 reaches the minimum \((h_{{\mathrm{w}}0,\,{\mathrm{min}}})\) and maximum \((h_{{\mathrm{w}}0,\,{\mathrm{max}}})\) critical values defined by infinite and zero sintering rates, respectively (Fig.  4b ):
+ $$\begin{array}{l}h_{{\mathrm{w}}0,\,{\mathrm{min}}} = h_0\frac{\rho }{{\rho _{\mathrm{w}}}}\frac{{{\mathrm{tan}}\,\varphi - {\mathrm{tan}}\,\varphi _{{\mathrm{min}}}}}{{{\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _0} \right) - {\mathrm{tan}}\,\varphi }},\\ h_{{\mathrm{w}}0,\,{\mathrm{max}}} = h_0\frac{\rho }{{\rho _{\mathrm{w}}}}\frac{{{\mathrm{tan}}\,\varphi - {\mathrm{tan}}\,\varphi _{{\mathrm{min}}}}}{{{\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _{\mathrm{s}}} \right) - {\mathrm{tan}}\,\varphi }}.\end{array}$$ 
+ (5)
+ Finally, we obtain the bounds for the time of delayed release (Fig.  4c ) by substituting the bounds for \(h_{{\mathrm{w}}0}\) into the equation
+ $$\Delta t = \frac{{\rho _{\mathrm{w}}h_{{\mathrm{w}}0}L_0}}{{3Q}}\left( {1 - \left( {1 - \frac{{l_{\mathrm{c}}}}{{L_0}}} \right)^3} \right),$$ 
+ (6)
+ where Q is the snow deposition rate.
+ The proposed analytical framework allowed for back-calculation of the wind deposition flux Q from the range of possible delays between 9.5 and 13.5 h based on forensic data (see Supplementary Note  1 ). For the geometric and physical parameters of the Dyatlov case (presented in the Methods and discussed in Supplementary Note  6 ), a reasonable fit of the observed delay range (Fig.  4c ) is given by \(Q = 0.008\,{\mathrm{kg}}\,{\mathrm{m}}^{ - 1}{\mathrm{s}}^{ - 1}\) . Extensive research on snow accumulation shows 15 that this deposition flux requires average wind velocities in the range of 2–12 m s −1 which is in agreement with data from nearby weather stations on the night of the accident (see Supplementary Note  3 ).
+ Impact on a human body
+ In addition to explaining the delay, our proposed mechanism provides the pre-failure slab geometry, which can help in understanding how a relatively small slab caused the severe but non-fatal injuries reported. We address this question by combining a novel numerical model with existing data for human-thorax injuries from impact tests performed by the automotive industry 17 , 18 .
+ Three-dimensional numerical simulations based on the Material Point Method (MPM) and finite-strain elastoplasticity 19 (see Methods) show that this small-slab avalanche impacted the hikers lying on the tent floor and filled the excavated space but did not have a significant runout, consistent with the reported lack of clear avalanche signs (Fig.  5 ). The predicted length of 5.0 m for tensile failure of the slab is in agreement with the analytical model. The simulated snow slab reached a velocity around 2 m/s upon impact (see Fig. SF 7 , Supplementary Note  5 and Supplementary Movies  1 , 2 ). At this velocity, an impact on a human thorax of a typical snow block with a volume of 0.125–0.5 m 3 and density 400 kg/m 3 results in a maximum thorax deformation between 28% and 34%, corresponding to the lower range of values reported from crash tests by Kroell et al. 18 for a 10 kg mass impacting the thorax at a speed of 7 m/s (Fig.  5 , Supplementary Note  5 and Supplementary Movies  3 – 6 ). According to the Abbreviated Injury Scale 18 (AIS), these deflections would mostly lead to non-fatal thoracic injuries from moderate to severe, in agreement with the autopsy report of the Dyatlov-incident criminal investigation. Such injuries are not usually observed in avalanche victims, because impacts rarely occur against stiff obstacles. In the Dyatlov case, the victims were trapped between the falling slab and the tent floor, which was placed on compacted snow reinforced by skis 1 .
+ Fig. 5: MPM simulation of the dynamics of a snow-slab avalanche and its impact on a human body. Full size image Blue snow particles represent regions in which the yield condition has been met. The inset shows a simulated (3D MPM) thorax deflection (normalized by an original thorax height of 20 cm) for a crash test with a 10 kg rigid mass impacting the thorax at a 7 m/s velocity (black curve) and for impacts by 0.125, 0.25, and 0.5 m 3 elastoplastic snow blocks of 400 kg/m 3 density and velocities of 2 m/s (orange dashed–dotted curve, red dashed curve, and red solid curve, respectively). Injury levels correspond to the AIS 11 .
+ Discussion
+ Significant progress in snow and avalanche research over the past two decades 19 , 20 , 21 , 22 , 23 has allowed better understanding of avalanche dynamics and of the processes related to snow-slab avalanche release 24 , 25 , 26 , 27 , 28 . Nevertheless, no mechanism similar to the one inspired by the Dyatlov mystery has been explored in the literature, and its physical quantification required new theoretical developments.
+ In our analytical model, these developments include a snow slab with a spatially variable thickness and its evolution due to sintering of the wind-transported snow, which affects the instability of a buried weak snow layer. This is highly relevant for the study of natural storm-triggered slab avalanches 29 because its application is not limited only to wind-blowing snow events but can also account for additional loads due to a snowfall. The variable slab geometry resulting from irregular local topography and the cut made in the slope play a critical role in determining whether or when an instability will occur. Our numerical simulation of the impact of a snow avalanche on a human body constrained by an obstacle combines advanced elastoplastic constitutive models with large-deformation dynamic numerical analysis (MPM) and biomechanical modeling of the human body. This opens new perspectives for research on the effects of snow avalanches on human health and safety.
+ Needless to say that our models are based on a number of assumptions, which can be justified for this particular case study and relaxed for future research. For example, given the very low reported temperatures, we assumed a brittle behavior for the weak layer which allows neglecting the effects of the process zone 30 . Moreover, weak layer volumetric collapse 19 , 22 , 23 did not have to be accounted for in our approach because this layer remains completely intact before the onset of instability. Furthermore, the analytical model assumes a 2D geometry which in this case can be justified by the fact that the length of the shoulder controlling snow deposition is much larger than the length of the tent. Yet, the 2D profile of the deposited snow has been simplified for the sake of obtaining a closed-form solution. An important source of uncertainty lies in the dependency of the wind deposition flux on the average wind velocity. The available research 15 shows a very wide range of measured deposition fluxes for a relatively narrow range of the average wind velocity. Nevertheless, the range of wind velocity back-calculated using the analytical model and the forensic estimation of the delay is in good agreement with the range reported in nearby weather stations during the night of the accident.
+ Concerning the numerical models, because our main focus was the global thorax response, the skeleton and individual ribs were not analyzed. Focusing on the thorax impact, the MPM simulation is initiated at the onset of slab release and the weak layer is not explicitly modeled. In spite of these simplifications, both the analytical and numerical models independently predicted a similar size of the failed slab, providing additional validation for the new mechanism. In addition, while our simulations show that in principle, the observed injuries could have resulted from the avalanche impact, the impact-induced deformations of the thorax would be rather sensitive to the size of the disintegrated slab blocks (Fig.  5 ) and thus to the relative positions of the bodies with respect to the cut and slope direction. Given this uncertainty, it is also possible 1 that the thorax injuries were the result of a later snow impact in a very steep ravine where the bodies of the victims, escaping the avalanche area, were found.
+ Solving the Dyatlov Pass mystery is an enormous task, which is far beyond the scope of this paper. We hope, however, that our work may contribute to determining the plausibility of the avalanche hypothesis. More importantly, it allows the quantification of conditions that can help to prevent similar incidents. Clearly, for a cut in the snow slope to cause a delayed slab release, it requires a relatively rare combination of: (1) a sufficiently steep, weak layer at the base of the snowpack, (2) a cut in the slope, and (3) significant snow accumulation after the cut due to wind transport. However, once these conditions are present, the occurrence of a delayed release requires fairly common values of geometrical and mechanical parameters (see Fig.  4 ), and Dyatlov-related investigations have indeed reported a non-negligible number of similar accidents 1 (see Supplementary Note  2 ). This implies that building a tent even on a relatively mild slope (less than 30°) can be dangerous and should not be recommended when combined with a cut in the slope. Instead, digging a snow cave may be a safer solution, as confirmed by the increasing use of this practice for winter camping in recent decades 31 .
+ In conclusion, our work shows the plausibility of a rather rare type of snow slab instabilities that could possibly explain the Dyatlov Pass incident. Yet, we do not explain nor address other controversial elements surrounding the investigation such as traces of radioactivity found on the victims’ garments, the behavior of the hikers after leaving the tent, locations and states of bodies, etc. While possible explanations are given in multiple published sources 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 as well as by both the Investigative Committee and the Prosecutor General of the Russian Federation, we believe that this will always remain an intrinsic part of the Dyatlov Pass Mystery.
+ Online content
+ Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information, details of author contributions and competing interests, and statements of data and code availability are available at https://doi.org/10.1038/XXX .
+ Methods
+ Problem formulation for the analytical model of delayed avalanche release
+ A simplified delayed slab release model is based on the mechanism illustrated in Fig.  1a . We assume a plane strain problem with a cut in a curved slope, with a planar slope-parallel weak layer of angle α , thickness d at the depth h described by a parabolic equation:
+ $$\left\{ {\begin{array}{*{20}{l}} {h\left( x \right) = h_0\left( {1 - \frac{x}{{L_0}}} \right)^2} \hfill & {{\mathrm{for}}\,x {\,}<{\,} l_c} \hfill, \\ {h\left( x \right) = h_c} \hfill & {{\mathrm{for}}\,x \ge l_c}, \hfill \end{array}} \right.$$ 
+ (7)
+ where h 0 is the depth of the weak layer at the cut ( x  = 0), h c is the constant depth of the weak layer at the upper straight portion of the slope \(\left( {x \ge l_{\mathrm{c}}} \right)\) , l c is the distance from the cut to the point on the slope where the slope surface becomes parallel to the weak layer. The characteristic length L 0 is defined from the condition \(h\left( {x = l_{\mathrm{c}}} \right) = h_{\mathrm{c}}\) :
+ $$L_0 = \frac{{l_{\mathrm{c}}}}{{1 - \sqrt {h_{\mathrm{c}}/h_0} }},$$ 
+ (8)
+ The choice of the parabolic slope approximation has been based on the following considerations. Firstly, it reflects a smooth uphill steepening of the slope. Secondly, it leads to a second-order Euler–Cauchy differential equation with a simple analytical solution. Thirdly, it is geometrically rather close to the simplest linear approximation of the slope between the cut ( x  = 0) and the beginning of the constant thickness slab ( x  =  l c ).
+ After the cut is made, the snow keeps accumulating on the slope behind the tent due to the wind transport, with \(h_{\mathrm{w}}\left( {x,\,t} \right)\) being the thickness of the wind-transported snow at the time t after the construction of the parapet. Assuming that the surface of the new snow layer can also be described by a parabolic function, the thickness of the wind-transported snow is
+ $$h_{\mathrm{w}}\left( {x,\,t} \right) =h_{\mathrm{s}}\left( {x,\,t} \right) + h_{\mathrm{f}}\left( {x,\,t} \right) = \left( {h_{{\mathrm{s}}0}\left( t \right) + h_{{\mathrm{f}}0}\left( t \right)} \right)\left( {1 - \frac{x}{{L_0}}} \right)^2\,{\mathrm{for}}\,x {\,}<{\,} l_{{\mathrm{cw}}},\\ h_{\mathrm{w}}\left( {x,\,t} \right) = h_{\mathrm{c}}\,{\mathrm{for}}\,x {\,}> {\,} l_{{\mathrm{cw}}};\,l_{{\mathrm{cw}}} = L_0\left( {1 - \sqrt {\frac{{h_{\mathrm{c}}}}{{h_0 + h_{{\mathrm{s}}0} + h_{{\mathrm{f}}0}}}} } \right),$$ 
+ (9)
+ where h f is the portion of the new snow that is still fresh, while h s is the portion which is already sintered, with h f0 and h s0 denoting the thickness of each portion at the cut ( x  = 0). The parabolic approximation for the surface of the wind-transported snow reflects the fact that snow deposition due to the wind transport reduces away from the tent. Note that the tent represented an obstacle for the wind flow, in particular if a parapet was built above the cut to protect the tent against wind and snow.
+ The initial (before the cut) internal lateral force P g in the snow slab is
+ $$P_{\mathrm{g}} = \sigma _{\mathrm{g}}h = \frac{1}{2}K_0\sigma _{\mathrm{n}}h = \frac{1}{2}K_0\rho gh^2{\mathrm{cos}}\,\alpha,$$ 
+ (10)
+ where ρ is the snow density, K 0 is the at rest lateral snow pressure coefficient. In general, the value of K 0 depends on the history of snow deposition, but can be bounded (for horizontal snow layer) between the estimate via Poisson’s ratio ν : \(K_0 = \frac{\nu }{{1 - \nu }}\) (elastic) and the estimate given by Jaky’s formula 32 : \(K_0 = 1 - {\mathrm{sin}}\,\varphi _{\mathrm{s}}\) (for a normally consolidated granular material), where φ s is the angle of internal friction of the snow slab.
+ The initial stress state (before the cut) in the weak layer is
+ $$\tau _{\mathrm{g}} = \rho gh\,{\mathrm{sin}}\,\alpha ;\,\sigma _{\mathrm{n}} = \rho gh\,{\mathrm{cos}}\,\alpha,$$ 
+ (11)
+ where τ g is the initial shear stress, causing the initial displacement ( δ g ), σ n is the normal stress. In the following, we adopt a net value \(\Delta \tau = \tau - \tau _{\mathrm{g}}\) for the shear stress τ in the weak layer, and the net values \(\Delta P = P - P_{\mathrm{g}}\) and \(\Delta \delta = \delta - \delta _{\mathrm{g}}\) for the internal lateral force P and displacement δ of the snow slab, respectively.
+ Neglecting inertia forces, the equilibrium condition for the snow slab is given as
+ $$\frac{{\partial \Delta P}}{{\partial x}} = \Delta \tau - \tau _{\mathrm{w}}\left( x \right),\,\Delta \tau = \tau - \tau _{\mathrm{g}},\,\Delta P = P - P_{\mathrm{g}}.$$ 
+ (12)
+ The shear response of the weak layer is assumed to be linear:
+ $$\Delta \tau = \frac{G}{d}\Delta \delta ,\,\Delta \gamma = \frac{{\Delta \delta }}{d},\,\Delta \delta = \delta - \delta _{\mathrm{g}},$$ 
+ (13)
+ where G is the shear modulus of the weak layer and
+ $$\delta _{\mathrm{g}} = \frac{d}{G}\tau _{\mathrm{g}},\,\tau _{\mathrm{g}} = \rho gh \cdot {\mathrm{sin}}\alpha ,\,\tau _{\mathrm{w}} = \rho _{\mathrm{w}}g\left( {h_{\mathrm{s}} + h_{\mathrm{f}}} \right) \cdot {\mathrm{sin}}\,\alpha,$$ 
+ (14)
+ where δ g is the initial displacement of the slab, resulting from the constant initial shear stress τ g (before the cut).
+ Extension in the snow slab is also assumed to be linear:
+ $$\Delta P = \Delta \sigma h = E^\prime h\Delta \varepsilon = E^\prime h\frac{{\partial \Delta \delta }}{{\partial x}},$$ 
+ (15)
+ where \(E^\prime = E/\left( {1 - \nu ^2} \right)\) is the plain strain modulus of the snow slab. Combining Eqs. ( 7 ), ( 13 ) and ( 15 ) gives
+ $$\Delta P = \frac{{E^\prime hd}}{G}\frac{{\partial \Delta \tau }}{{\partial x}} = \frac{{E^\prime h_0d}}{G}\left( {1 - \frac{x}{{L_0}}} \right)^2\frac{{\partial \Delta \tau }}{{\partial x}}$$ 
+ (16)
+ and
+ $$\Delta P = \frac{{E^\prime \left( {h + h_s} \right)d}}{G}\frac{{\partial \Delta \tau }}{{\partial x}} = \frac{{E^\prime \left( {h_0 + h_{s0}} \right)d}}{G}\left( {1 - \frac{x}{{L_0}}} \right)^2\frac{{\partial \Delta \tau }}{{\partial x}}$$ 
+ (17)
+ for the curved portions of the original and the thickened slab, respectively.
+ It is assumed that after the slope is cut, behavior in the weak layer is linear elastic, with the shear stress τ in Fig.  3 b not yet reaching the peak strength τ p . Due to the wind-driven snow deposition h w , the slope gets loaded by additional shear stress τ w , until at a certain time \(\Delta t\) after the cut the shear stress in the weak layer τ reaches the peak strength τ p in the vicinity of the cut. Further increase in h w will not mobilize additional shear resistance in the weak layer, on the contrary, it will initiate rapid softening of the weak layer close to the cut, increasing the downhill lateral load on the still intact portion of the weak layer. This will result in the loss of equilibrium, unstable uphill growth of the basal shear fracture and the release of the slab.
+ Conditions in the snow slab immediately after the cut
+ In this and the following sections we neglect the straight portion of the slope and assume that \({\mathrm{within}}\,0 \le x \le L_0\) the whole slab is parabolic. It can be shown that for \(h_{\mathrm{c}}/h_0 \le 0.2\) (consistent with the Dyatlov case), this simplification has a negligible effect on the solution.
+ At the moment of the cut, the thickness of the slab is given by Eq. ( 7 ), therefore \(\tau _{\mathrm{w}} = 0\) , and differentiating Eq. ( 12 ) with respect to x and substituting Eq. ( 16 ) into it gives a differential equation for net lateral forces:
+ $$\left( {1 - \bar x} \right)^2\frac{{\partial ^2\Delta P}}{{\partial \bar x^2}} = \lambda _0\Delta P\quad {\mathrm{for}}\,0 \le \bar x \le 1,$$ 
+ (18)
+ where
+ $$\bar x = \frac{x}{{L_0}},\,\lambda _0 = \frac{{L_0^2}}{{l_{e0}^2}},\,l_{e0} = \sqrt {\frac{{E^\prime h_0d}}{G}}.$$ 
+ (19)
+ Equation ( 18 ) is the well-known second-order Euler–Cauchy differential equation, with a solution given by
+ $$\Delta P\left( {\bar x} \right) = C_1\left( {1 - \bar x} \right)^{r_1} + C_2\left( {1 - \bar x} \right)^{r_2},\\ r_1 = \frac{{1 + \sqrt {1 + 4\lambda _0} }}{2},\,r_2 = \frac{{1 - \sqrt {1 + 4\lambda _0} }}{2},$$ 
+ (20)
+ where C 1 and C 2 are constants to be found from boundary conditions. In order to have a finite solution at \(\bar x = 1\) , C 2 has to be set to zero, and from the boundary condition at \(\bar x = 0\) , where the lateral force is equal to zero ( \(\Delta P = \left. { - P_{\mathrm{g}}} \right|_{\bar x = 0}\) ) due to the cut:
+ $$\left. {\Delta P} \right|_{\bar x = 0} = C_1 = - P_{{\mathrm{g}}0},\,P_{{\mathrm{g}}0} = \frac{1}{2}K_0{\,}\rho gh_0^2\,{\,}{\mathrm{cos}}\,\alpha.$$ 
+ (21)
+ Substituting these constants into Eq. ( 20 ) provides stress conditions in the slab and the weak layer after the cut in the slope:
+ $$P_{\mathrm{c}}\left( {\bar x} \right) = P_{\mathrm{g}}\left( {\bar x} \right) + \Delta P\left( {\bar x} \right) = P_{\mathrm{g}}\left( {\bar x} \right) - P_{{\mathrm{g}}0}\left( {1 - \bar x} \right)^{r_1},\\ \tau _{\mathrm{c}}\left( {\bar x} \right) = \tau _{\mathrm{g}}\left( {\bar x} \right) + \frac{1}{{L_0}}\frac{{\partial \Delta P}}{{\partial \bar x}} = \tau _{\mathrm{g}}\left( {\bar x} \right) + \frac{{r_1}}{{L_0}}P_{{\mathrm{g}}0}\left( {1 - \bar x} \right)^{r_1 - 1}$$ 
+ (22)
+ with the boundary conditions at the cut \(\bar x = 0\) :
+ $$\left. {P_{\mathrm{c}}} \right|_{\bar x = 0} = 0;\,\left. {\tau _{\mathrm{c}}} \right|_{\bar x = 0} = \tau _{{\mathrm{g}}0} + \frac{{r_1}}{{L_0}}P_{{\mathrm{g}}0}.$$ 
+ (23)
+ For the slab not to fail immediately after the cut the following condition should be satisfied:
+ $$\begin{array}{c}\left. {\tau _{\mathrm{c}}} \right|_{\bar x = 0} = \tau _{{\mathrm{g}}0} + \frac{{r_1}}{{L_0}}P_{{\mathrm{g}}0} < \tau _{{\mathrm{p}}0},\\ \tau _{{\mathrm{p}}0} = \sigma _{\mathrm{n}}{\mathrm{tan}}\,\varphi + c = \rho gh_0{\mathrm{cos}}\,\alpha {\,}{\mathrm{tan}}\,\varphi + c,\end{array}$$ 
+ (24)
+ where φ and c are the angle of internal friction and cohesion in the weak layer. In this case, the normal force and shear stress from Eq. ( 22 ) will serve as initial conditions for the next stage—loading of the slab by the wind-transported snow.
+ Failure of the undercut slab loaded by the wind-transported snow
+ After the wind-transported snow reached the thickness h w given by Eq. ( 9 ), the additional shear stress τ w in Eq. ( 12 ) is now larger than zero:
+ $$\tau _{\mathrm{w}}\left( {\bar x} \right) = \rho _{\mathrm{w}}gh_{\mathrm{w}}\left( {\bar x} \right) \cdot {\mathrm{sin}}\,\alpha = \frac{{P_{{\mathrm{w}}0}}}{{L_0}}\left( {1 - \bar x} \right)^2,\\ P_{{\mathrm{w}}0} = \rho _{\mathrm{w}}g\left( {h_{{\mathrm{s}}0} + h_{{\mathrm{f}}0}} \right)L_0 \cdot {\mathrm{sin}}\,\alpha,$$ 
+ (25)
+ where ρ w is the density of the wind-transported snow. The portion h s of the new snow has sintered, increasing the thickness of the original slab, as reflected in Eq. ( 17 ). After substituting \(\tau _{\mathrm{w}}\left( {\bar x} \right)\) into Eq. ( 12 ), differentiating it with respect to x and combining it with Eq. ( 17 ) we obtain the following differential equation for net lateral forces in the sintered slab:
+ $$\left( {1 - \bar x} \right)^2\frac{{\partial ^2\Delta P}}{{\partial \bar x^2}} = \lambda _{\mathrm{s}}\Delta P + 2P_{{\mathrm{w}}0}\left( {1 - \bar x} \right)^3\quad {\mathrm{for}}\,0 \le \bar x \le 1,$$ 
+ (26)
+ where
+ $$\bar x = \frac{x}{{L_0}},\,\lambda _{\mathrm{s}} = \frac{{\lambda _0h_0}}{{h_0 + h_{{\mathrm{s}}0}}}.$$ 
+ (27)
+ Solution of Eq. ( 26 ) is given by
+ $$\Delta P\left( {\bar x} \right) =C_1\left( {1 - \bar x} \right)^{r_3} + C_2\left( {1 - \bar x} \right)^{r_4} - \frac{{2P_{{\mathrm{w}}0}}}{{\lambda _{\mathrm{s}} - 6}}\left( {1 - \bar x} \right)^3,\\ r_3 = \frac{{1 + \sqrt {1 + 4\lambda _{\mathrm{s}}} }}{2},\,r_4 = \frac{{1 - \sqrt {1 + 4\lambda _{\mathrm{s}}} }}{2},$$ 
+ (28)
+ where C 1 and C 2 are constants. Again, in order to have a finite solution at \(\bar x = 1\) , C 2 has to be set to zero, and from the boundary condition at \(\bar x = 0\) , where the lateral force is equal to zero due to the cut:
+ $$\left. {\Delta P} \right|_{\bar x = 0} = C_1 - \frac{{2P_{{\mathrm{w}}0}}}{{\lambda _{\mathrm{s}} - 6}} = 0$$ 
+ (29)
+ substituting these constants into Eq. ( 28 ) provides a solution for the net normal forces:
+ $$\Delta P\left( {\bar x} \right) = \frac{{2P_{{\mathrm{w}}0}}}{{\lambda _{\mathrm{s}} - 6}}\left[ {\left( {1 - \bar x} \right)^{r_3} - \left( {1 - \bar x} \right)^3} \right],\,r_3 = \frac{{1 + \sqrt {1 + 4\lambda _{\mathrm{s}}} }}{2}.$$ 
+ (30)
+ This leads to the following normal forces in the slab and shear stresses in the weak layer:
+ $$\begin{array}{c}P\left( {\bar x} \right) = P_{\mathrm{c}}\left( {\bar x} \right) + \Delta P\left( {\bar x} \right)\\ = P_{\mathrm{g}}\left( {\bar x} \right) - P_{{\mathrm{g}}0}\left( {1 - \bar x} \right)^{r_1} + \frac{{2P_{{\mathrm{w}}0}}}{{\lambda _{\mathrm{s}} - 6}}\left[ {\left( {1 - \bar x} \right)^{r_3} - \left( {1 - \bar x} \right)^3} \right],\\ \tau \left( {\bar x} \right) = \tau _{\mathrm{c}}\left( {\bar x} \right) + \tau _{\mathrm{w}}\left( {\bar x} \right) + \frac{1}{{L_0}}\frac{{\partial \Delta P}}{{\partial \bar x}}\\ = \tau _{\mathrm{g}}\left( {\bar x} \right) + \frac{{r_1}}{{L_0}}P_{{\mathrm{g}}0}\left( {1 - \bar x} \right)^{r_1 - 1} + \frac{{P_{{\mathrm{w}}0}}}{{L_0}}\left( {1 - \bar x} \right)^2\\ - \frac{{2P_{{\mathrm{w}}0}}}{{\lambda _{\mathrm{s}} - 6}}\left[ {\frac{{r_3}}{{L_0}}\left( {1 - \bar x} \right)^{r_3 - 1} - \frac{3}{{L_0}}\left( {1 - \bar x} \right)^2} \right].\end{array}$$ 
+ (31)
+ At the cut \(\bar x = 0\) , using \(\lambda _{\mathrm{s}} = r_3^2 - r_3\) we obtain
+ $$P_0 = 0,\,\tau _0 = \tau _{{\mathrm{g}}0} + \frac{{r_1}}{{L_0}}P_{{\mathrm{g}}0} + \frac{{P_{{\mathrm{w}}0}}}{{L_0}}\frac{{\lambda _{\mathrm{s}} - 2r_3}}{{\lambda _{\mathrm{s}} - 6}} = \tau _{{\mathrm{g}}0} + \frac{{r_1}}{{L_0}}P_{{\mathrm{g}}0} + \frac{{P_{{\mathrm{w}}0}}}{{L_0}}\frac{{r_3}}{{r_3 + 2}}$$ 
+ (32)
+ and when \(h_{{\mathrm{w}}0} = h_{{\mathrm{f}}0} + h_{{\mathrm{s}}0}\) becomes sufficiently large for this shear stress to reach the peak strength:
+ $$\tau _0 = \tau _{{\mathrm{g}}0} + r_1\frac{{P_{{\mathrm{g}}0}}}{{L_0}} + \frac{{r_3}}{{r_3 + 2}}\frac{{P_{{\mathrm{w}}0}}}{{L_0}} \ge \tau _{\mathrm{p}} = \tau _{{\mathrm{p}}0} + \tau _{{\mathrm{pw}}}$$ 
+ (33)
+ the slab will fail. Shear stresses and normal forces in Eq. ( 33 ) are defined as
+ $$\begin{array}{c}P_{{\mathrm{g}}0} = \frac{1}{2}K_0\rho gh_0^2{\mathrm{cos}}\,\alpha ,\,P_{{\mathrm{w}}0} = \rho _{\mathrm{w}}g\left( {h_{{\mathrm{s}}0} + h_{{\mathrm{f}}0}} \right)L_0 \cdot {\mathrm{sin}}\,\alpha ,\,\tau _{{\mathrm{g}}0} = \rho gh_0{\mathrm{sin}}\,\alpha, \\ \tau _{{\mathrm{p}}0} = \rho gh_0{\mathrm{cos}}\,\alpha \,{\mathrm{tan}}\,\varphi + c,\,\tau _{{\mathrm{pw}}} = \rho _{\mathrm{w}}g\left( {h_{{\mathrm{s}}0} + h_{{\mathrm{f}}0}} \right){\mathrm{cos}}\,\alpha \,{\mathrm{tan}}\,\varphi. \end{array}$$ 
+ (34)
+ Relationship ( 33 ) has been validated numerically for the Dyatlov case parameters using the Material Point Method (see Supplementary Note  4 ).
+ Time to failure
+ The time to failure is a function of the area A w of the wind-transported snow at failure derived by integration of Eq. ( 9 ) and of the snow deposition rate Q , which is a function of the average wind speed v :
+ $$\Delta t = \frac{{\rho _{\mathrm{w}}A_{\mathrm{w}}}}{{Q\left( {\left\langle v \right\rangle } \right)}},\,A_{\mathrm{w}} = \frac{1}{3}h_{{\mathrm{w}}0}L_0\left( {1 - \left( {1 - \frac{{l_{\mathrm{c}}}}{{L_0}}} \right)^3} \right),$$ 
+ (35)
+ where the small area of new snow between l c and l cw in Fig.  3 a has been neglected. After the wind-transported snow sinters, it causes the thickening of the original slab, which constrains the slab displacements and slows down the growth of shear stresses in the weak layer. Therefore, if the snow sinters immediately, the peak strength in the weak layer is reached slower. It follows that the largest amount of the wind-transported snow \(h_{{\mathrm{w}}0,\,{\mathrm{max}}}\) required for the avalanche release can be calculated assuming that the snow sinters instantaneously over the entire thickness h w , i.e. \(h_{{\mathrm{f}}0} = 0\) . The upper bound of delay can then be expressed as
+ $$\Delta t_{{\mathrm{max}}} = \frac{{\rho _{\mathrm{w}}h_{{\mathrm{w}}0,\,{\mathrm{max}}}L_0}}{{3Q\left( {\left\langle v \right\rangle } \right)}}\left( {1 - \left( {1 - \frac{{l_{\mathrm{c}}}}{{L_0}}} \right)^3} \right),$$ 
+ (36)
+ where \(h_{{\mathrm{w}}0,\,{\mathrm{max}}} = h_{{\mathrm{s}}0}\) is determined by solving numerically Eq. ( 33 ), with stresses and forces substituted from Eq. ( 34 ):
+ $$h_{{\mathrm{w}}0,\,{\mathrm{max}}} = h_{{\mathrm{s}}0} = h_0\frac{\rho }{{\rho _{\mathrm{w}}}}\frac{{{\mathrm{tan}}\,\varphi - {\mathrm{tan}}\,\varphi _{{\mathrm{min}}}}}{{{\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _{\mathrm{s}}} \right) - {\mathrm{tan}}\,\varphi }},$$ 
+ (37)
+ where
+ $$\begin{array}{c}{\mathrm{tan}}\,{\upvarphi}_{{\mathrm{min}}} = {\mathrm{tan}}\,\alpha - \frac{c}{{\rho gh_0}}\sqrt {1 + {\mathrm{tan}}^2\alpha } + r_1\frac{{K_0h_0}}{{2L_0}},\\ {\mathrm{tan}}\varphi _{{\mathrm{max}}}\left( {\lambda _{\mathrm{s}}} \right) = \frac{{r_3}}{{r_3 + 2}}{\mathrm{tan}}\,\alpha ,\,r_3 = \frac{{1 + \sqrt {1 + 4\lambda _{\mathrm{s}}} }}{2},\,\lambda _{\mathrm{s}} = \frac{{\lambda _0h_0}}{{h_0 + h_{{\mathrm{s}}0}}}.\end{array}$$ 
+ (38)
+ Using the same reasoning, it follows that the smallest amount of the wind-transported snow required for the avalanche release \(h_{{\mathrm{w}}0,\,{\mathrm{min}}}\) can be calculated assuming that the new snow does not sinter. Substituting \(h_{{\mathrm{s}}0} = 0\) into Eqs. ( 37 )–( 38 ) gives the equation for the lower bound of the thickness of the wind-deposited snow at which the slab will fail:
+ $$h_{{\mathrm{w}}0,\,{\mathrm{min}}} = h_{{\mathrm{f}}0} = h_0\frac{\rho }{{\rho _{\mathrm{w}}}}\frac{{{\mathrm{tan}}\,\varphi - {\mathrm{tan}}\,\varphi _{{\mathrm{min}}}}}{{{\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _0} \right) - {\mathrm{tan}}\,\varphi }},$$ 
+ (39)
+ where
+ $$\begin{array}{l}{\mathrm{tan}}\,\varphi _{{\mathrm{min}}} = {\mathrm{tan}}\,\alpha - \frac{c}{{\rho gh_0}}\sqrt {1 + {\mathrm{tan}}^2\alpha } + r_1\frac{{K_0h_0}}{{2L_0}},\\ {\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _0} \right) = \frac{{r_1}}{{r_1 + 2}}{\mathrm{tan}}\,\alpha ;\,r_1 = \frac{{1 + \sqrt {1 + 4\lambda _0} }}{2},\end{array}$$ 
+ (40)
+ which, when substituted into Eq. ( 35 ), gives the lower bound for the time to failure:
+ $$\Delta t_{{\mathrm{min}}} = \frac{{\rho _{\mathrm{w}}h_{{\mathrm{w}}0,\,{\mathrm{min}}}L_0}}{{3Q\left( {\left\langle v \right\rangle } \right)}}\left( {1 - \left( {1 - \frac{{l_{\mathrm{c}}}}{{L_0}}} \right)^3} \right).$$ 
+ (41)
+ For a delayed release to be possible, two conditions have to be satisfied. The first one is that the slab does not fail immediately after the cut, which according to Eq. ( 24 ), after substitution of forces and stresses from Eq. ( 34 ) imposes the following restriction on friction:
+ $${\mathrm{tan}}\,\varphi _{{\mathrm{min}}} {\,}<{\,} {\mathrm{tan}}\,\varphi,$$ 
+ (42)
+ where \({\mathrm{tan}}\,\varphi _{{\mathrm{min}}}\) is defined in Eq. ( 38 ). For Eqs. ( 37 ) and ( 39 ) this implies that that delayed release is only possible when
+ $${\mathrm{tan}}\,\varphi _{{\mathrm{min}}} {\,}< {\,}{\mathrm{tan}}\,\varphi {\,}< {\,}{\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _{\mathrm{s}}} \right) \le {\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\left( {\lambda _0} \right),$$ 
+ (43)
+ where \({\mathrm{tan}}\,\varphi _{{\mathrm{max}}}\) is defined in Eqs. ( 38 ) and ( 40 ).
+ The Dyatlov case
+ The following parameters for the Dyatlov case have been adopted (see Supplementary Note  6 ):
+ $$\alpha = 28^\circ ,\,h_0 = 0.5\,{\mathrm{m}},\,h_{\mathrm{c}} = 0.1\,{\mathrm{m}},\,h_{\mathrm{p}} = 0.5\,{\mathrm{m}},\,l_{\mathrm{p}} = 0.5\,{\mathrm{m}},\\ l_{\mathrm{c}} = 4\,{\mathrm{m}} \left( {21.6^\circ \,{\mathrm{slope}}\,{\mathrm{at}}\,{\mathrm{the}}\,{\mathrm{cut}}} \right),\,l_{{\mathrm{e}}0} = 1.0\,{\mathrm{m}},\,g = 9.81\,{\mathrm{ms}}^{ - 2},\\ \rho _{\mathrm{w}} = 400\,{\mathrm{kg}}\,{\mathrm{m}}^{ - 3},\,\rho = 300\,{\mathrm{kg}}\,{\mathrm{m}}^{ - 3},\,K_0 = 0.5.$$ A reasonable value of the friction in the weak layer 20 (see Supplementary Note  6 ) is \(\varphi = 20^\circ\) . This sets the upper bound of cohesion, for which a finite \(h_{{\mathrm{w}}0,\,{\mathrm{max}}}\) can still be determined, at \(c \approx 440\,{\mathrm{Pa}}\) . This is well within the range reported by Jamieson and Johnson 33 , and from Eqs. ( 37 )–( 40 ) we obtain
+ $$h_{{\mathrm{w}}0,\,{\mathrm{min}}} = 0.24\,{\mathrm{m}};\,h_{{\mathrm{w}}0,\,{\mathrm{max}}} = 0.44\,{\mathrm{m}}.$$ By adjusting the deposition mass flux to \(Q = 0.008\,{\mathrm{kg}}\,{\mathrm{m}}^{ - 1}\,{\mathrm{s}}^{ - 1}\) , from Eqs. ( 36 ) and ( 41 ) we determine
+ $$\Delta t_{{\mathrm{min}}} = 7.2\,{\mathrm{h}};\,\Delta t_{{\mathrm{max}}} = 13.5\,{\mathrm{h}},$$ which overlaps with the forensically estimated range of \(\Delta t = 9.5 - 13.5\,{\mathrm{h}}\) (see Supplementary Note  1 ). Extensive research on snow accumulation shows 15 that this deposition flux requires average wind velocities in the range of 2–12 m s −1 which is in agreement with data from nearby weather stations on the night of the accident (see Supplementary Note  3 ). The possible range of friction angles in Eq. ( 43 ) leading to delayed slab release is shown in Fig.  4 a as a function of the slope inclination. Figure  4 b shows the corresponding range of the critical heights of the wind-transported snow load that cause a delayed release for two cases: with and without sintering, described by Eqs. ( 37 ) and ( 39 ), respectively. Using Eq. ( 35 ), the times of delay are plotted as a function of the height of the wind-transported snow in Fig.  4 c.
+ Dimensions of the failed slab
+ After the shear fracture propagated into the weak layer, the slab may fail in tension at the distance l t from the cut, over the width B parallel to the cut. Here we determine the width B of the failed slab, assuming that the tension crack formed at the boundary of the wind-transported load defined in Eq. ( 9 ):
+ $$l_{\mathrm{t}} = l_{{\mathrm{cw}}} = L_0\left( {1 - \sqrt {\frac{{h_{\mathrm{c}}}}{{h_0 + h_{{\mathrm{s}}0} + h_{{\mathrm{f}}0}}}} } \right),$$ where the thickness of the slab is h c . The areas A 0 and A s of the initial and sintered slab cross-sections between the cut and the crack are derived by integration of Eqs. ( 7 ) and ( 9 ), respectively:
+ $$\begin{array}{l}A_0 = \frac{1}{3}h_0L_0\left( {1 - \left( {1 - \frac{{l_{\mathrm{c}}}}{{L_0}}} \right)^3} \right) + h_{\mathrm{c}}\left( {l_{{\mathrm{cw}}} - l_{\mathrm{c}}} \right),\\ A_{\mathrm{s}} = \frac{1}{3}\left( {h_0 + h_{{\mathrm{s}}0} + h_{{\mathrm{f}}0}} \right)L_0\left( {1 - \left( {1 - \frac{{l_{{\mathrm{cw}}}}}{{L_0}}} \right)^3} \right)\end{array}$$ 
+ (44)
+ and the equilibrium at the onset of the tension crack formation is given by
+ $$\left( {A_0\rho + \left( {A_{\mathrm{s}} - A_0} \right)\rho _{\mathrm{w}}} \right)Bg\,{\mathrm{cos}}\,\alpha \left( {{\mathrm{tan}}\,\alpha - {\mathrm{tan}}\,\varphi } \right) = h_{\mathrm{c}}B\sigma _{\mathrm{t}} + 2l_{{\mathrm{cw}}}h_{\mathrm{c}}\sigma _{\mathrm{s}}.$$ 
+ (45)
+ In Eq. ( 45 ) the left-hand side represents the net driving force acting on the slab, while the right-hand side is the sum of the tensile resistance at the back of the slab and the shear resistance at the sides of the slab, with σ t and σ s the tensile and shear strength, respectively. It is assumed that the contribution of the wind-transported snow to side resistance can be neglected, and the slab is thinning at the sides to h c . Equation ( 45 ) can be rewritten to determine the width of the failed slab B:
+ $$B = \frac{{2l_{{\mathrm{cw}}}h_{\mathrm{c}}\sigma _{\mathrm{s}}}}{{\left( {A_0\rho + \left( {A_s - A_0} \right)\rho _{\mathrm{w}}} \right)g\,{\mathrm{cos}}\,\alpha \left( {{\mathrm{tan}}{\,}\alpha - {\mathrm{tan}}{\,}\varphi } \right) - h_{\mathrm{c}}\sigma _{\mathrm{t}}}}.$$ 
+ (46)
+ For the parameters of the Dyatlov case:
+ $$\varphi = 20^\circ ,\,\sigma _{\mathrm{t}} = 6.0\,{\mathrm{kPa}},\,\sigma _{\mathrm{s}} = 5.2\,{\mathrm{kPa}},\,l_{\mathrm{c}} = 4.0\,{\mathrm{m}},\,h_{\mathrm{c}} = 0.1\,{\mathrm{m}},\,h_0 = 0.5\,{\mathrm{m}},\,h_{{\mathrm{w}}0} = 0.5\,{\mathrm{m}}$$ the tension crack can form at \(l_{\mathrm{t}} = l_{{\mathrm{cw}}} = 4.95\,{\mathrm{m}}\) resulting in \(B = 8.8\,{\mathrm{m}}\) , consistent with the observed \(B/l_{\mathrm{t}}\) ratios 34 and comparable to the width of the cut b =6.5–7.5 m (for a 4.5 m long tent, the cut had to be around 1.0–1.5 m longer on each side).
+ Modeling the impact of the avalanche using the Material Point Method
+ We simulate the snow slab dynamics and snow block impacts using the model recently developed by Gaume et al. 19 . This model uses the Material Point Method, finite-strain elastoplasticity and a Cohesive Cam Clay constitutive relationship to simulate snow and avalanche mechanics. We recall here the main characteristics of the model.
+ The mass and momentum balance equations are solved using the Material Point Method (MPM) 35 and finite-strain elastoplasticity. MPM is a hybrid Eulerian-Lagrangian method which is well suited to studying problems involving large deformations, collisions and fractures. It is thus suitable to analyzing the impact of a snow slab on a human body. “Particles” are used to track position, velocity and deformation gradients and a fixed background mesh is used to solve the balance equations. Here we used the Affine Particle In Cell (APIC) method for the transfer between grid and particles 36 which allows an exact conservation of momentum and angular momentum. In addition, we use cubic B-splines as shape functions which guarantees the continuity of the gradients at the nodes. More details about the MPM model and finite-strain elastoplasticity can be found in Gaume et al . 19 .
+ A mixed-mode yield surface 20 defined in the space of the p-q invariants of the stress tensor is used. The pressure p is defined as \(p = - {\mathrm{tr}}(\tau )/3\) where τ is the Kirchhoff stress tensor. The von Mises equivalent stress q is defined as \(q = (3/2\,{\mathbf{s}}:{\mathbf{s}})^{1/2}\) with \({\mathbf{s}} = \tau + p{\mathbf{I}}\) the deviatoric stress tensor ( I : identity matrix). The cohesive Cam Clay yield surface is given by
+ $$y\left( {p,\,q} \right) = \left( {1 + 2\beta } \right)q^2 + M^2\left( {p + \beta p_0} \right)\left( {p - p_0} \right) = 0,$$ 
+ (47)
+ in which p 0 is the pre-consolidation pressure, M is the slope of the critical state line and β controls the resistance to tension. At the end of the stress increment, if \(y\left( {p,\,q} \right) {\,}<{\,} 0\) the material is elastic and follows Hooke’s law (with a Young’s modulus E and Poisson’s ratio ν) implemented in the framework of hyperelasticity with a St Venant – Kirchhoff model with Hencky strain 37 .
+ If the snow fails, hardening or softening is simulated by expanding or shrinking the yield surface, respectively, through variations in p 0 . Compression leads to hardening, promoting compaction, while tension leads to softening, promoting fracture. The hardening law is formulated as a function of the volumetric plastic strain \(\epsilon _{\mathrm{V}}^{\mathrm{P}}\) according to
+ $$p_0 = K\,{\mathrm{sin}}\,h\left( {\xi {\mathrm{max}}\left( { - \epsilon _V^P,\,0} \right)} \right),$$ 
+ (48)
+ in which K is the bulk modulus and ξ is the hardening factor.
+ We model the human body as an hyperelastic solid (St Venant–Kirchhoff model with Hencky strain 37 ). The human body is simulated as a bulk solid with material properties taken from thorax impact tests performed by the automotive industry 18 . This approach allowed us not to simulate all individual bones and organs of the human body.
+ The geometry of the slope is taken to be the same as in the analytical model (Fig.  3 ). The bed surface satisfies a slip boundary condition. The thinning snowpack and the size of the wind-transported slab were also implemented according to the analytical model (see Section 1 of the Methods). The human body of a male of average size (1.70 m) lying on its back was simulated on a rigid bed surface.
+ In order to calibrate our model, we first simulate the impact of a 10 kg rigid block (0.15 × 0.15 × 0.06 m) moving with velocity 7 m/s on a 3D human thorax with restrained back (see Supplementary Note  5 and Supplementary Movie  3 ). This setup corresponds to the automotive crash experiments performed by Kroell et al. 18 . We adjust the elastic modulus of the body in order to reproduce the same maximum normalized deflection of 0.49 that resulted in fatal injuries. Next, we perform a high-resolution 2D avalanche simulation using the main features known about the Dyatlov tent configuration (Fig.  1 ) so as to evaluate the snow slab impact velocity (up to 2 m/s, see Supplementary Note  5 and Supplementary Movie  2 ) and the range of typical snow block dimensions (up to 0.5 m 3 , see Supplementary Note  5 and Supplementary Movies  4 – 6 ). Next, we simulated the impact of snow blocks of 0.125, 0.25, and 0.5 m 3 , 400 kg/m 3 density and impact velocity 2 m/s (same mechanical properties as the wind-slab) on a human thorax with restrained back. Finally, the severity of injuries was determined by relating the maximum normalized deflections to the Abbreviated Injury Scale (AIS, see Supplementary Note  6 ) presented by Kroell et al. 18 .
+ The following parameters for the Dyatlov case have been adopted (see Supplementary Note  6 ):
+ $$\alpha = 28^\circ ;\,h_0 = 0.5\,{\mathrm{m}};\,h_{\mathrm{c}} = 0.1\,{\mathrm{m}};\,h_{\mathrm{w}} = 0.5\,{\mathrm{m}};\,l_{{\mathrm{wc}}} = 5.0\,{\mathrm{m}}.$$ The simulations were performed with a background mesh size \(dx = 0.005\,m,\) 4 particles per element in 2D and 8 particles per element in 3D.
+ We used the following snow and bed surface mechanical properties for the Dyatlov case (see Supplementary Note  6 ):
+ $$\begin{array}{l}\rho = 300\,{\mathrm{kg}}\,{\mathrm{m}}^{ - 3},\,E = 8\,{\mathrm{MPa}},\,\nu = 0.3,\\ \beta = 0.2,\,M = 0.8,\,p_0 = 30\,{\mathrm{kPa}},\,\xi = 5,\\ \rho _{\mathrm{w}} = 400\,{\mathrm{kg}}\,{\mathrm{m}}^{ - 3},\,E_{\mathrm{w}} = 17\,{\mathrm{MPa}},\,\nu _{\mathrm{w}} = 0.3,\,\beta _{\mathrm{w}} = 0.1,\\ M_{\mathrm{w}} = 0.8,\,p_{0{\mathrm{w}}} = 100\,{\mathrm{kPa}},\,\xi _{\mathrm{w}} = 5,\\ \varphi _{{\mathrm{bed}}} = 22^\circ. \end{array}$$ As mentioned above, mechanical properties of the human body are chosen based on thorax impact tests performed on human cadavers with restrained back 18 to match the corresponding maximum deflection of 0.49 obtained upon impact of a 10 kg rigid mass with 7 m/s impact velocity. We used the following elastic modulus and Poisson’s ratio (see Supplementary Note  6 ):
+ $$E_{{\mathrm{hb}}} = 0.215\,{\mathrm{MPa}};\,\nu _{{\mathrm{hb}}} = 0.35.$$ 
+ Data availability
+ All data needed to evaluate the conclusions in the paper are present in the manuscript and the electronic supplementary material. Data supporting the plots of the manuscript is available at https://doi.org/10.5281/zenodo.4302235 
+ Code availability
+ The code necessary to compute the delay for slab avalanche release and avalanche size can be found at https://doi.org/10.5281/zenodo.4088052. A description of the MPM model can be found in a previous publication at https://www.nature.com/articles/s41467-018-05181-w .
+ References
+ Buyanov, E. V. and Slobtsov, B. E. Mystery of the Dyatlov Group Death (Taina Gibeli Gruppy Dyatlova). Litres (2014) ISBN 978-5040256921.
+ Ilyshina, M. and Kolirin, L. Russia reopens investigation into 60-year-old Dyatlov Pass mystery. CNN. https://edition.cnn.com/2019/02/04/europe/dyatlov-pass-incident-scli-intl/index.html (2019).
+ Dyatlovpass.com . Section Timeline (1959).
+ Eichar, D. Dead Mountain: The Untold True Story of the Dyatlov Pass Incident (Chronicle Books, San Francisco, 2013).
+ McCloskey, K. Mountain of the Dead: The Dyatlov Pass Incident (The History Press Ltd, 2013).
+ Osadchuk, S., & O’Flynn, K. The Dyatlov Pass Incident 30–35 (Fortean Times, 2009).
+ Kurakin, D. The cultural mechanics of mystery: structures of emotional attraction in competing interpretations of the Dyatlov pass tragedy. Am. J. Cultural Sociol. 7 , 101–127 (2019).
+ Article  
+ Google Scholar  
+ Ardashev, R. G., & Turkova, V. N. Ob oshibochnych I nadumannych versiyach pri rassledovaniyach massovoi gibeli lyudei (Po materialam o gibeli turisticheskoi gruppy Dyatlova). Zakon i pravo.
+ Haynes, E. Can Science Solve the Mysteries of the Dyatlov Pass ? (T Brand Studio, The New York Times). https://www.nytimes.com/paidpost/facebookwatch/limetown-dyatlov.html (2019).
+ Schweizer, J., Bruce Jamieson, J., & Schneebeli, M. Snow avalanche formation. Rev. Geophys. 41 . https://doi.org/10.1029/2002RG000123 (2003)
+ Vontobel, I., Harvey, S. & Purves, R. S. In (eds Naaim-Bouvet, F., Durand, Y. & Lambert, R.) Terrain analysis of skier-triggered avalanche starting zones. In Proc. International Snow Science Workshop ISSW, Grenoble, France, 7–11 October 2013 (Montana State University, Bozeman, USA 2013).
+ Casassa, G., Narita, H. & Maeno, N. Shear cell experiments of snow and ice friction. J. Appl. Phys. 69 , 3745–3756 (1991).
+ Article  
+ Google Scholar  
+ van Herwijnen, A., & Heierli, J. Measurement of crack‐face friction in collapsed weak snow layers. Geophys. Res. Lett. 36 . https://doi.org/10.1029/2009GL040389 
+ Puzrin, A. M., Faug, T. & Einav, I. The mechanism of delayed release in earthquake-induced avalanches. Proc. R. Soc. A 475 , 20190092 (2019).
+ Article  
+ Google Scholar  
+ Sturm, M. & Stuefer, S. Wind-blown flux rates derived from drifts at arctic snow fences. J. Glaciol. 59 , 21–34 (2013).
+ Article  
+ Google Scholar  
+ Podolskiy, E. A., et al. Healing of snow surface-to-surface contacts by isothermal sintering. Cryosphere 8 , https://doi.org/10.5194/tc-8-1651-2014 (2014).
+ Nahum, A. M., Gadd, C. W., Schneider, D. C., & Kroell, C. K. Deflection of the human thorax under sternal impact. In Paper No. 700400 Presented at SAE International Automobile Safety Conference, Detroit . https://doi.org/10.4271/700400 (1970)
+ Kroell, C. K., Schneider, D. C., & Nahum, A. M. Impact tolerance and response of the human thorax II (No. 741187). SAE Technical Paper. https://doi.org/10.4271/741187 (1974)
+ Gaume, J., Gast, T., Teran, J., van Herwijnen, A. & Jiang, C. Dynamic anticrack propagation in snow. Nat. Commun. 9 , 1–10 (2018).
+ Article  
+ CAS  
+ Google Scholar  
+ Reiweger, I., Gaume, J. & Schweizer, J. A new mixed‐mode failure criterion for weak snowpack layers. Geophys. Res. Lett. 42 , 1427–1432 (2015).
+ Article  
+ Google Scholar  
+ Schweizer, J. On recent advances in avalanche research. Cold Region Sci. Technol. 144 , 1–5 (2017).
+ Article  
+ Google Scholar  
+ Heierli, J., Gumbsch, P. & Zaiser, M. Anticrack nucleation as triggering mechanism for snow slab avalanches. Science 321 , 240–243 (2008).
+ Article  
+ CAS  
+ Google Scholar  
+ Barraclough, T. W. et al. Propagating compaction bands in confined compression of snow. Nat. Phys. 13 , 272–275 (2017).
+ Article  
+ CAS  
+ Google Scholar  
+ Schweizer, J., Reuter, B., van Herwijnen, A., & Gaume, J. Avalanche release 101. In (ed. Greene, E.). Proc. International Snow Science Workshop (1–11) (Montana State University, Bozeman, USA 2016).
+ Gaume, J., van Herwijnen, A., Chambon, G., Wever, N., & Schweizer, J. Snow fracture in relation to slab avalanche release: critical state for the onset of crack propagation. Cryosphere 11 , 217–228 (2017).
+ van Herwijnen, A. et al. Estimating the effective elastic modulus and specific fracture energy of snowpack layers from field experiments. J. Glaciol. 62 , 997–1007 (2016).
+ Article  
+ Google Scholar  
+ Sovilla, B., Schaer, M., Kern, M., & Bartelt, P. Impact pressures and flow regimes in dense snow avalanches observed at the Vallée de la Sionne test site. J. Geophys. Res.: Earth Surf. 113 . https://doi.org/10.1029/2006JF000688 (2008).
+ Gaume, J., Chambon, G., Eckert, N. & Naaim, M. Influence of weak-layer heterogeneity on snow slab avalanche release: application to the evaluation of avalanche release depths. J. Glaciol. 59 , 423–437 (2013).
+ Article  
+ Google Scholar  
+ Bair, E. H., Simenhois, R., Birkeland, K. & Dozier, J. A field study on failure of storm snow slab avalanches. Cold Regions Sci. Technol. 79 , 20–28 (2012).
+ Article  
+ Google Scholar  
+ McClung, D. M. Shear fracture precipitated by strain softening as a mechanism of dry slab avalanche release. J. Geophys. Res.: Solid Earth 84 , 3519–3526 (1979).
+ Article  
+ Google Scholar  
+ Stott, T. in Outdoor Recreation (187–214) (Palgrave Macmillan, Cham) https://doi.org/10.1007/978-3-319-97758-4_8 (2019).
+ Jaky, J. The coefficient of earth pressure at rest. J. Soc. Hungarian Architects Eng. 355–358. https://doi.org/10.1139/t93-056 (1944).
+ Jamieson, B. & Johnston, C. D. Evaluation of the shear frame test for weak snowpack layers. Ann. Glaciol. 32 , 59–69 (2001).
+ Article  
+ Google Scholar  
+ McClung, D. M. Dimensions of dry snow slab avalanches from field measurements. J. Geophys. Res.: Earth Surf. 114 . https://doi.org/10.1029/2007JF000941 (2009).
+ Sulsky, D., Chen, Z., & Schreyer, H. L. A particle method for history-dependent materials. Comput. Methods Appl. Mech. Eng. 118 , 179–196 (1994).
+ Jiang, C., Schroeder, C. & Teran, J. An angular momentum conserving affine-particle-in-cell method. J. Comput. Phys. 338 , 137–164 (2017).
+ Article  
+ CAS  
+ Google Scholar  
+ Jiang, C., Schroeder, C., Teran, J., Stomakhin, A., & Selle, A. The material point method for simulating continuum materials. In ACM SIGGRAPH 2016 Courses (1–52) (2016).
+ Download references 
+ Acknowledgements
+ The authors acknowledge Prof. Itai Einav of the University of Sydney for constructive discussions about our modeling approach, Prof. Chenfanfu Jiang from the University of Pennsylvania for his contribution to the development of the MPM tool and Dr. Alec van Herwijnen from the WSL Institute for Snow and Avalanche Research SLF (Davos, Switzerland) for providing us with the snow friction data. The authors also appreciate the help of Paul Berclaz and Lars Blatny in preparation of some of the figures of the supplement and for additional model developments as well as insightful discussions with Dr. Francesco Comola on wind-blowing snow. J.G. and A.M.P. acknowledge financial support from the Swiss National Science Foundation (grant numbers PCEFP2_181227 and 200021_168998, respectively). We acknowledge Dr. Pascal Hagenmüller and Dr. Dieter Issler for constructive comments that contributed to improve our paper. We gratefully acknowledge valuable information and permission to use original drawings from Evgeniy Buyanov of St. Petersburg, Russia, as well as the Dyatlov Memorial Fundation for permission to use photographs.
+ Author information
+ Authors and Affiliations
+ School of Architecture, Civil and Environmental Engineering, EPFL, Route Cantonale, 1015, Lausanne, Switzerland
+ Johan Gaume
+ WSL Institute for Snow and Avalanche Research SLF, Flüelastrasse 11, Davos Dorf, Switzerland
+ Johan Gaume
+ Institute for Geotechnical Engineering, ETH Zürich, Stefano-Franscini-Platz 5, 8093, Zürich, Switzerland
+ Alexander M. Puzrin
+ Authors Johan Gaume View author publications Search author on: PubMed   Google Scholar 
+ Alexander M. Puzrin View author publications Search author on: PubMed   Google Scholar 
+ Contributions
+ J.G. conceived the key idea of the study, performed the numerical analysis and co-wrote the manuscript. A.M.P. developed the analytical model of delayed avalanche release and co-wrote the manuscript.
+ Corresponding author
+ Correspondence to
+ Alexander M. Puzrin .
+ Ethics declarations
+ Competing interests
+ The authors declare no competing interests.
+ Additional information
+ Peer review information Primary handling editors: Heike Langenberg
+ Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+ Supplementary information
+ Peer Review File (download PDF ) 
+ Description of Additional Supplementary Files (download PDF ) 
+ Supplementary Information (download PDF ) 
+ Supplementary Movie 1 (download MP4 ) 
+ Supplementary Movie 2 (download MP4 ) 
+ Supplementary Movie 3 (download MP4 ) 
+ Supplementary Movie 4 (download MP4 ) 
+ Supplementary Movie 5 (download MP4 ) 
+ Supplementary Movie 6 (download MP4 ) 
+ Rights and permissions
+ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ .
+ Reprints and permissions 
+ About this article
+ Cite this article
+ Gaume, J., Puzrin, A.M. Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959.
+ Commun Earth Environ 2 , 10 (2021). https://doi.org/10.1038/s43247-020-00081-8
+ Download citation 
+ Received : 14 July 2020 
+ Accepted : 08 December 2020 
+ Published : 28 January 2021 
+ Version of record : 28 January 2021 
+ DOI : https://doi.org/10.1038/s43247-020-00081-8 
+ Share this article
+ Anyone you share the following link with will be able to read this content:
+ Get shareable link Sorry, a shareable link is not currently available for this article.
+ Copy shareable link to clipboard 
+ Provided by the Springer Nature SharedIt content-sharing initiative
+ Comments
+ Commenting on this article is now closed.
+ Guenter Wolf 28 January 2021, 20:54 
+ The picture 1a is from the day 31.January 1959! Sorry!
+ Guenter Wolf 29 January 2021, 07:53 
+ 1. The wind transported powdery snow to the tent. The film shows an avalanche with powdery snow. 
+2. Suddenly hard blocks are released causing injuries?
+3. And the small mass of moving snow just fills the hole?
+4 . Then they dragged the injured down to the valley? Why such an arduous hike, partly without clothes?
+The danger was over! Everyone would remove the snow from the tent and crawl back into it. And if they feared another avalanche, why were they walking in the fall line?
+ Your article is ok but unfortunately it misses the reality.
+ Insane_astronut 29 January 2021, 16:05 
+ On the picture 1b we can see the tent as it was found by the rescue team. As for me it doesn't look like this tent was crashed by the snow slab. Even the supporting pole stayed intact. But anyway, you have made a good job with this reserch.
+ Tanita T 29 January 2021, 19:45 
+ I don’t see anything new that this research has uncovered .the avalanche version was there in 1959 but was dismissed a long time ago by experts and professional hikers who visited the site as not viable.this avalanche simulation is useless because it’s done out of context . witnesses( co-workers relatives officers and people indirectly involved )were interviewed 10 years ago . all materials like protocols, diaries of the dead hikers,photos are available to anyone on many sites . people are still looking for answers because avalanche version does not explain anything that happened. anyone who read the materials about Dyatlov Pass will find the assertive headline “ mystery solved” ridiculous .
+ Patric Hausammann 
+ Replied to Tanita T 
+ 25 February 2021, 15:24 
+ You are right, this work does not solve anything. If you are interested in the real solution, you can watch my video documentation on YouTube. Here I provide a link to my work: https://youtu.be/5uewNpu0cD0 
+ Tanita T 29 January 2021, 20:01 
+ Tent lightly covered with the snow. 4 dead bodies buried under 3 m of snow 1.5 km away from tent.
+ Flogger23 30 January 2021, 10:31 
+ Although this hypothesis does not explain the location of the four most injured victims - previously usually explained by that they either fell into ravine, or were killed by an avalanche there - it does provide plausible explanation for why they left the tent in such a hurry. A partial collapse would have made them worry about the tent being entirely buried.
+ HorstPachulke 
+ Replied to Flogger23 
+ 26 May 2021, 21:04 
+ Ttheir tent was buried under some feet of snow, cut into pieces at night. Don't underestimate darkness. You might stand right on an item you need, you won't get a clear picture or correct assessment of the situation. In addition, there might have been injured persons to address - and, as far as I can recall, they just had minimal supply with wood. Before an attempt to repair the tent, they would have had to move away some snow in the dark while not everybody might have been able to help - in contrast, some of them might have needed immediate assistance and a warm place to recover or wait for help. Unfortunately, they didn't take too much firewood with them - they knew exactly that setting up that warm place wouldn't be easy to achieve at the tent's location - and even if it was possible temporarily - they'd have to move quite some wood uphill until some of them might have contacted help - and opting for a location downhill might not be possible later on, if the state of the injured might deteriorate.
+ Thinking about an alternative location to stay might seem adequate under these circumstances. Then, there would be a need for building material to erect this alternative location - and for firewood. Both at the closest possible location.
+ As far as I recall, one of the most inured persons was found on its way to the valley with a cracked scull. Beneath him there was a thin layer of ice which might indicate he came to rest there on the way downwards.
+ Flogger23 
+ Replied to HorstPachulke 
+ 13 June 2021, 22:56 
+ Well, I don't know how dark it was, snow reflects lots of light so wintertime it's never completely dark. Though obviously you can still get disoriented and lose equipment etc.
+ unreconstructed confederate 31 January 2021, 17:51 
+ I agree with previous posters. The math may be flawless but there are facts that don't square up with the writer(s) theory. And the diagram showing the tent sitting under the six to seven foot ledge created to level a pitching site is pure speculation. Photos that the hikers took themselves show them leveling snow that is about thigh deep. In fact there are plenty of photos that show the slope of the campsite and it doesn't appear to be as steep as 28 degrees. The two men who found the tent on Feb 27th, 1959 (over three weeks after the Feb.1st event) said the tent had collapsed from accumulated snow load. The tent was exactly where it had been pitched. Skis used to support the tent were still upright. Trekking packs, food, boots, sleeping bags, other skis etc. were laid out, undisturbed, as defined by the rules of the national Russian hiking organization*. If there was an avalanche, even a small one, would it not seem logical that it would have moved the tent and its contents? . Other than the collapsed roof and the cuts in the tent's sides the discoverers thought the Dyatlov party might have been away for a trip to the summit of the small mountain they had intended to climb. The article posits that the avalanche caused some very serious injuries. All the more to ask why didn't it sweep the tent from it's original location? Other questions the small avalanche theory raises is why would the entire party, most without adequate clothing and shoes, leave the site and move in small groups almost a mile away? There are photographs of footprints showing at least some of the party walked there and the first two bodies found had started a small fire.Why would they leave everything they needed to survive any disaster presented to them? The idea that a small avalanche carried some of the bodies a mile away is not believable.
+ I'm not trying to drum up sales but Donnie Eichar's book "Dead Mountain" is an excellent source of first hand knowledge and has many photos taken by the trip participants (worth the price of the book alone). While I'm not sure about Mr. Eichar's theory of the cause it's as plausible as the avalanche theory..
+ *You have to understand that at that time hiking in the USSR was highly organized, hikers were graded and this trip was led by Igor Dyatlov, a Level 3 member of the university's club. All of the people on that trip were very experienced and not likely to pitch a tent in a location with a potential avalanche risk.
+ Patric Hausammann 25 February 2021, 14:58 
+ Sorry, this is really bad research and this work is not worth calling scientific.
+If you want to find out the right solution for the case, as well as all the background informations,
+the circumstantial evidence and all needed proves to resolve the case, I recommend you to watch
+my video documentation with the complete and correct solution to the Dyatlov case.
+ Here is the link to the first part of my work: https://youtu.be/5uewNpu0cD0 
+ © by Patric Hausammann
+ Download PDF 
+ Associated content
+ Collection
+ First year anniversary collection 
+ Collection
+ Natural Hazards 
+ Explaining the icy mystery of the Dyatlov Pass deaths 
+ Shamini Bundell
+ Nature 
+ Nature Video 
+ 28 Jan 2021 
+ Post-publication careers: follow-up expeditions reveal avalanches at Dyatlov Pass 
+ Alexander M. Puzrin
+ Johan Gaume
+ Communications Earth & Environment 
+ Comment 
+ Open Access 
+ 24 Mar 2022 
+ Advertisement
+ Explore content
+ Research articles
+ Reviews & Analysis
+ News & Comment
+ Collections
+ Follow us on X
+ Sign up for alerts 
+ RSS feed 
+ About the journal
+ Aims & Scope
+ Journal Information
+ Open Access Fees and Funding
+ Journal Metrics
+ Editors
+ Editorial Board
+ Calls for Papers
+ Alumni of our Editorial Board
+ Referees
+ Editorial Values Statement
+ Editorial policies
+ Conferences
+ Contact
+ Publish with us
+ For authors
+ Language editing services
+ Open access funding 
+ Submit manuscript 
+ Search
+ Search articles by subject, keyword or author 
+ Show results from 
+ All journals 
+ This journal 
+ Search 
+ Advanced search
+ Quick links
+ Explore articles by subject 
+ Find a job 
+ Guide to authors 
+ Editorial policies 
+ Communications Earth & Environment
+ ( Commun Earth Environ )
+ ISSN 2662-4435 (online)
+ nature.com footer links
+ About Nature Portfolio
+ About us 
+ Press releases 
+ Press office 
+ Contact us 
+ Discover content
+ Journals A-Z 
+ Articles by subject 
+ protocols.io 
+ Nature Index 
+ Publishing policies
+ Nature portfolio policies 
+ Open access 
+ Author & Researcher services
+ Reprints & permissions 
+ Research data 
+ Language editing 
+ Scientific editing 
+ Nature Masterclasses 
+ Research Solutions 
+ Libraries & institutions
+ Librarian service & tools 
+ Librarian portal 
+ Open research 
+ Recommend to library 
+ Advertising & partnerships
+ Advertising 
+ Partnerships & Services 
+ Media kits 
+ Branded
+ content 
+ Professional development
+ Nature Awards 
+ Nature Careers 
+ Nature 
+ Conferences 
+ Regional websites
+ Nature Africa 
+ Nature China 
+ Nature India 
+ Nature Japan 
+ Nature Middle East 
+ Privacy
+ Policy 
+ Use
+ of cookies 
+ Your privacy choices/Manage cookies
+ Legal
+ notice 
+ Accessibility
+ statement 
+ Terms & Conditions 
+ Your US state privacy rights 
+ © 2026 Springer Nature Limited
+ Close banner 
+ Close 
+ Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+ Email address 
+ Sign up 
+ I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy . 
+ Close banner 
+ Close 
+ Get the most important science stories of the day, free in your inbox. 
+ Sign up for Nature Briefing
+ 

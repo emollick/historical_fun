@@ -1,0 +1,470 @@
+{
+ "specials": {
+  "c3": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 3,
+    "hay": 2
+   },
+   "hay_for_lincoln": {
+    "tie": 1,
+    "hay": 2,
+    "lincoln": 1
+   },
+   "hay": {
+    "tie": 1
+   }
+  },
+  "c4": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln": 2,
+    "hay": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c5": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln": 2,
+    "hay": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c6": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 1,
+    "hay": 4
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c7": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 2,
+    "hay": 3
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c8": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 2,
+    "hay": 3
+   },
+   "hay_for_lincoln": {
+    "lincoln": 2,
+    "hay": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c9": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln": 2,
+    "hay": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c10": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c11": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c12": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c13": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c14": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "hay": 4
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c15": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "hay": 4
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c16": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 4,
+    "hay": 1
+   },
+   "hay_for_lincoln": {
+    "hay": 4
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "w1": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 2,
+    "hay": 3
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "w2": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 3,
+    "hay": 2
+   },
+   "hay_for_lincoln": {
+    "lincoln": 1,
+    "hay": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "w3": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 4
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "vote_c4-10": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 2,
+    "hay": 3
+   },
+   "hay_for_lincoln": {
+    "lincoln": 2,
+    "hay": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  }
+ },
+ "register": {
+  "c3": {
+   "lincoln": {
+    "lincoln": 26,
+    "hay": 25,
+    "tie": 12
+   },
+   "hay": {
+    "tie": 2,
+    "hay": 51,
+    "lincoln": 4
+   }
+  },
+  "c4": {
+   "lincoln": {
+    "lincoln": 13,
+    "hay": 50
+   },
+   "hay": {
+    "lincoln": 5,
+    "hay": 52
+   }
+  },
+  "c5": {
+   "lincoln": {
+    "lincoln": 13,
+    "hay": 50
+   },
+   "hay": {
+    "lincoln": 2,
+    "hay": 55
+   }
+  },
+  "c6": {
+   "lincoln": {
+    "lincoln": 24,
+    "hay": 39
+   },
+   "hay": {
+    "lincoln": 2,
+    "hay": 55
+   }
+  },
+  "c7": {
+   "lincoln": {
+    "lincoln": 32,
+    "hay": 31
+   },
+   "hay": {
+    "lincoln": 1,
+    "hay": 56
+   }
+  },
+  "c8": {
+   "lincoln": {
+    "lincoln": 43,
+    "hay": 20
+   },
+   "hay": {
+    "lincoln": 1,
+    "hay": 56
+   }
+  },
+  "c9": {
+   "lincoln": {
+    "lincoln": 51,
+    "hay": 12
+   },
+   "hay": {
+    "lincoln": 3,
+    "hay": 54
+   }
+  },
+  "c10": {
+   "lincoln": {
+    "lincoln": 55,
+    "hay": 8
+   },
+   "hay": {
+    "lincoln": 4,
+    "hay": 53
+   }
+  },
+  "c11": {
+   "lincoln": {
+    "lincoln": 55,
+    "hay": 8
+   },
+   "hay": {
+    "lincoln": 6,
+    "hay": 51
+   }
+  },
+  "c12": {
+   "lincoln": {
+    "lincoln": 56,
+    "hay": 7
+   },
+   "hay": {
+    "lincoln": 9,
+    "hay": 48
+   }
+  },
+  "c13": {
+   "lincoln": {
+    "lincoln": 57,
+    "hay": 6
+   },
+   "hay": {
+    "lincoln": 11,
+    "hay": 46
+   }
+  },
+  "c14": {
+   "lincoln": {
+    "lincoln": 56,
+    "hay": 7
+   },
+   "hay": {
+    "lincoln": 19,
+    "hay": 38
+   }
+  },
+  "c15": {
+   "lincoln": {
+    "lincoln": 55,
+    "hay": 8
+   },
+   "hay": {
+    "lincoln": 19,
+    "hay": 38
+   }
+  },
+  "c16": {
+   "lincoln": {
+    "lincoln": 54,
+    "hay": 9
+   },
+   "hay": {
+    "lincoln": 20,
+    "hay": 37
+   }
+  },
+  "w1": {
+   "lincoln": {
+    "lincoln": 25,
+    "hay": 38
+   },
+   "hay": {
+    "lincoln": 3,
+    "hay": 54
+   }
+  },
+  "w2": {
+   "lincoln": {
+    "lincoln": 48,
+    "hay": 14,
+    "tie": 1
+   },
+   "hay": {
+    "lincoln": 4,
+    "hay": 53
+   }
+  },
+  "w3": {
+   "lincoln": {
+    "lincoln": 57,
+    "hay": 6
+   },
+   "hay": {
+    "lincoln": 12,
+    "hay": 45
+   }
+  },
+  "vote_c4-10": {
+   "lincoln": {
+    "lincoln": 33,
+    "hay": 30
+   },
+   "hay": {
+    "lincoln": 1,
+    "hay": 56
+   }
+  }
+ }
+}

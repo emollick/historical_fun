@@ -1,0 +1,17 @@
+Prior                                                H1 0.400   survived 0.300 (Ed 0.100, Ric 0.100, both 0.100)   H3 0.300
+Ledger posterior (raw)                               H1 0.920   survived 0.003 (Ed 0.001, Ric 0.002, both 0.000)   H3 0.077
+With 10% unknown-unknowns mixture (REPORTED)         H1 0.848   survived 0.063 (Ed 0.021, Ric 0.022, both 0.020)   H3 0.090
+
+Sensitivity (raw, then mixed): drop one cluster at a time
+  drop C1                                            H1 0.674   survived 0.072 (Ed 0.024, Ric 0.028, both 0.020)   H3 0.254
+  drop C2                                            H1 0.816   survived 0.063 (Ed 0.021, Ric 0.022, both 0.020)   H3 0.120
+  drop C3                                            H1 0.839   survived 0.072 (Ed 0.029, Ric 0.022, both 0.021)   H3 0.089
+  drop C4                                            H1 0.839   survived 0.072 (Ed 0.021, Ric 0.030, both 0.020)   H3 0.089
+  drop C5                                            H1 0.818   survived 0.068 (Ed 0.023, Ric 0.025, both 0.020)   H3 0.114
+
+Survival-friendly reading: halve the log-strength of C1, C3 and C4
+  softened                                           H1 0.773   survived 0.077 (Ed 0.026, Ric 0.029, both 0.021)   H3 0.150
+Flat prior (1/5 each)
+  flat prior                                         H1 0.820   survived 0.071 (Ed 0.024, Ric 0.027, both 0.020)   H3 0.110
+No mixture at all (raw ledger, flat prior)
+  raw, flat prior                                    H1 0.889   survived 0.012 (Ed 0.004, Ric 0.007, both 0.000)   H3 0.100

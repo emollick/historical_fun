@@ -1,0 +1,10 @@
+SOURCE: Josephus, Contra Apionem 1.95-97 (Manetho's Eighteenth Dynasty), Greek text of B. Niese (Flavii Iosephi opera, vol. 5, 1889) as served by the Perseus Digital Library, doc Perseus:text:1999.01.0215, sections 95-97; retrieved 2026-09-14.
+URLs: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0215%3Abook%3D1%3Asection%3D96 (and ...section%3D95, ...section%3D97)
+
+[95] ... τὴν ἀρχὴν ὁ αὐτοῦ υἱὸς Χέβρων ἔτη δεκατρία. μεθ᾽ ὃν Ἀμένωφις εἴκοσι καὶ μῆνας ἑπτά. τοῦ δὲ ἀδελφὴ Ἀμεσσὴς εἰκοσιὲν καὶ μῆνας ἐννέα. τῆς δὲ Μήφρης δώδεκα καὶ μῆνας ἐννέα. τοῦ δὲ
+[96] Μηφραμούθωσις εἰκοσιπέντε καὶ μῆνας δέκα. τοῦ δὲ Θμῶσις ἐννέα καὶ μῆνας ὀκτώ. τοῦ δ᾽ Ἀμένωφις τριάκοντα καὶ μῆνας δέκα. τοῦ δὲ Ὦρος τριακονταὲξ καὶ μῆνας πέντε. τοῦ δὲ θυγάτηρ Ἀκεγχερὴς δώδεκα καὶ μῆνα ἕνα. τῆς δὲ Ῥάθωτις ἀδελφὸς ἐννέα.
+[97] τοῦ δὲ Ἀκεγχήρης δώδεκα καὶ μῆνας πέντε. τοῦ δὲ Ἀκεγχήρης ἕτερος δώδεκα καὶ μῆνας τρεῖς. τοῦ δὲ Ἅρμαϊς τέσσαρα καὶ μῆνα ἕνα. τοῦ δὲ Ῥαμέσσης ἓν καὶ μῆνας τέσσαρας. τοῦ δὲ Ἁρμέσσης Μιαμοῦν ἑξηκονταὲξ καὶ μῆνας δύο. τοῦ δὲ Ἀμένωφις δεκαεννέα ...
+
+Literal translation of the relevant clauses:
+"... his (Amenophis's) [son] Oros, thirty-six years and five months; his daughter Akencheres, twelve years and one month; her brother Rathotis, nine [years]; his [son] Akencheres, twelve years and five months; his [son] another Akencheres, twelve years and three months; his [son] Harmais, four years and one month; his [son] Ramesses, one year and four months; his [son] Harmesses Miamoun, sixty-six years and two months; his [son] Amenophis, nineteen [years] ..."
+Note: the genitive-of-relationship construction (τοῦ δὲ ... / τῆς δὲ ...) marks each ruler as child (or sibling) of the previous one; "τοῦ δὲ θυγάτηρ Ἀκεγχερὴς" makes Akencheres the daughter of Oros, and "τῆς δὲ Ῥάθωτις ἀδελφὸς" makes Rathotis her brother.

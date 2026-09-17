@@ -1,0 +1,180 @@
+﻿# River Rhine 740 Year Documentary Flood Reconstruction
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+#
+# Online_Resource: http://ncdc.noaa.gov/paleo/study/17617
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/historical/europe/switzerland/rhine2011flood.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Historical
+#--------------------
+# Contribution_Date
+#	Date: 2014-12-10
+#--------------------
+# Title
+#	Study_Name: River Rhine 740 Year Documentary Flood Reconstruction
+#--------------------
+# Investigators
+# 	Investigators: Wetter, O.; Pfister, C.; Weingartner, R.; Luterbacher, J.; Reist, T.; Trosche, J.
+#--------------------
+# Description_and_Notes
+#	Description: Reconstructed peak discharge for the 78 largest known floods of the River Rhine in Basel since 1268,
+#	from instrumental and documentary sources.  Source references included in the Excel version of this file. 
+#--------------------
+# Publication 
+# 	Authors: Oliver Wetter, Christian Pfister, Rolf Weingartner, Jurg Luterbacher, Tom Reist, and Jurg Trosche
+#	Published_Date_or_Year: 2011-07-12     
+#	Published_Title: The largest floods in the High Rhine basin since 1268 assessed from documentary and instrumental evidence
+#	Journal_Name: Hydrological Sciences Journal 
+#	Volume: 56
+#	Edition: 
+#	Issue: 5
+#	Pages: 733-758
+#	DOI: 10.1080/02626667.2011.583613
+#	Online_Resource: http://www.tandfonline.com/doi/full/10.1080/02626667.2011.583613#.VJmww886AA
+#	Full_Citation: 
+#	Abstract: The magnitudes of the largest known floods of the River Rhine in Basel since 1268 were assessed using a hydraulic model drawing on a set of pre-instrumental evidence and daily hydrological measurements from 1808. The pre-instrumental evidence, consisting of flood marks and documentary data describing extreme events with the customary reference to specific landmarks, was "calibrated" by comparing it with the instrumental series for the overlapping period between the two categories of evidence (1808-1900). Summer (JJA) floods were particularly frequent in the century between 1651-1750, when precipitation was also high. Severe winter (DJF) floods have not occurred since the late 19th century despite a significant increase in winter precipitation. Six catastrophic events involving a runoff greater than 6000 m 3 s-1 are documented prior to 1700. They were initiated by spells of torrential rainfall of up to 72 h (1480 event) and preceded by long periods of substantial precipitation that saturated the soils, and/or by abundant snowmelt. All except two (1999 and 2007) of the 43 identified severe events (SEs: defined as having runoff > 5000 and < 6000 m 3 s -1) occurred prior to 1877. Not a single SE is documented from 1877 to 1998. The intermediate 121-year-long "flood disaster gap" is unique over the period since 1268. The effect of river regulations (1714 for the River Kander; 1877 for the River Aare) and the building of reservoirs in the 20th century upon peak runoff were investigated using a one-dimensional hydraulic flood-routing model. Results show that anthropogenic effects only partially account for the "flood disaster gap" suggesting that variations in climate should also be taken into account in explaining these features.
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Swiss National Science Foundation
+#	Grant: 10011-120157/1
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Oeschger Centre for Climate Change Research (OCCR)
+#	Grant: 
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: European Union 
+#	Grant: ACQWA 212250
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Deutsche Forschungsgemeinschaft
+#	Grant: PRIME (LU1608/1-1, AOBJ: 568460, LU 1608/2-1, AOBJ 575150
+#------------------
+# Site_Information 
+#	Site_Name: Basel
+#	Location: Europe>Western Europe>Switzerland
+#	Country: Switzerland
+#	Northernmost_Latitude: 47.5601
+#	Southernmost_Latitude: 47.5601
+#	Easternmost_Longitude: 7.5898
+#	Westernmost_Longitude: 7.5898
+#	Elevation: 250 m  
+#------------------
+# Data_Collection   
+#	Collection_Name: Rhine2011flood
+#	Earliest_Year: 1268
+#	Most_Recent_Year: 2013
+#	Time_Unit: AD
+#	Core_Length: m
+#	Notes: 
+#------------------
+# Chronology: 
+#
+#
+#
+#----------------
+# Variables 
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+#
+## age_AD	age, , , AD, , , , ,N
+## flow-recmin-m3s	Streamflow, , , cubic meters per second, , , Peak discharge minimum estimate, documentary reconstruction,N
+## flow-recmax-m3s	Streamflow, , , cubic meters per second, , , Peak discharge maximum estimate, documentary reconstruction,N
+## flow-rec-m3s	Streamflow, , , cubic meters per second, , , Peak discharge estimate, documentary reconstruction,N
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:  
+#
+age_AD	flow-recmin-m3s	flow-recmax-m3s	flow-rec-m3s
+1268	5611	6407	5611
+1275	5611	6407	5611
+1302	5611		5611
+1342	6407		6407
+1342	5755		5755
+1374	6407		6407
+1385	5134		5134
+1404	5611	6407	5611
+1421	5611		5611
+1424	6407		6407
+1451	6009	6407	6407
+1480	6407		6407
+1506	5389		5389
+1526	5755		5755
+1565	5118	5611	5118
+1565	5261	5611	5261
+1566	5611		5611
+1566	6057		6057
+1570	6407		6407
+1589	5611		5611
+1641	5579	5579	
+1651	6407	6407	6407
+1652	6407	6407	6407
+1662	5134		5134
+1663	5389		5389
+1664	5389		5389
+1673	6407	7107	6407
+1679	5659	6407	5659
+1689	5389		5389
+1690	4911		4911
+1693	5261		5261
+1693	5389		5389
+1701	5611		5611
+1714	7000		7000
+1716	5611		5611
+1733	5118		5118
+1734	5118		5118
+1740	4816	5659	5659
+1750	5261		5261
+1758	4816	5659	5659
+1762	4879		4879
+1764	5118		5118
+1778	4386		4386
+1791	4322		4322
+1801	5532		5532
+1808	7000		7000
+1812	3369		3369
+1813	3689		3689
+1817	4790		4790
+1819	3925		3925
+1821	3623		3623
+1824	3960		3960
+1825	3656		3656
+1831	3891		3891
+1846	3460		3460
+1851	3903		3903
+1852	5642		5642
+1872	3712		3712
+1876	5697		5697
+1878	7000		7000
+1880	3756		3756
+1881	5280		5280
+1882	4615		4615
+1897	3590		3590
+1910	4300		4300
+1918	3857		3857
+1944	3600		3600
+1953	3800		3800
+1968	3890		3890
+1972	3850		3850
+1978	4150		4150
+1980	3570		3570
+1986	3525		3525
+1990	3505		3505
+1994	4900		4900
+1999	5090		5590
+2007	4800		5400
+2013	3879		4797

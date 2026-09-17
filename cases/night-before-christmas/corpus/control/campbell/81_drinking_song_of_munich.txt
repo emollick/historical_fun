@@ -1,0 +1,30 @@
+title: Drinking-Song of Munich
+author: Thomas Campbell
+date: c. 1799-1840
+source: https://www.gutenberg.org/ebooks/59788 (The Poetical Works of Thomas Campbell, reprinted from the early editions, London: Griffith Farran, n.d. [c. 1890])
+form: iambic tetrameter
+lines: 20
+attribution: certain
+notes: 
+
+Sweet Iser! were thy sunny realm
+And flowery gardens mine,
+Thy waters I would shade with elm
+To prop the tender vine;
+My golden flagons I would fill
+With rosy draughts from every hill;
+And under every myrtle bower,
+My gay companions should prolong
+The laugh, the revel, and the song,
+To many an idle hour.
+
+Like rivers crimsoned with the beam
+Of yonder planet bright,
+Our balmy cups should ever stream
+Profusion of delight;
+No care should touch the mellow heart,
+And sad or sober none depart;
+For wine can triumph over woe,
+And Love and Bacchus, brother powers,
+Could build in Iser’s sunny bowers
+A paradise below.

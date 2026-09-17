@@ -1,0 +1,24 @@
+title: The Distressed Travellers;
+author: William Cowper
+date: 1782
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: anapestic trimeter
+lines: 14
+attribution: certain
+notes: light verse
+
+I sing of a journey to Clifton,
+We would have performed, if we could;
+Without cart or barrow, to lift on
+Poor Mary and me through the mud.
+Slee, sla, slud,
+Stuck in the mud;
+Oh it is pretty to wade through a flood!
+
+So away we went, slipping and sliding;
+Hop, hop, à la mode de deux frogs;
+'Tis near as good walking as riding,
+When ladies are dressed in their clogs.
+Wheels, no doubt,
+Go briskly about,
+But they clatter, and rattle, and make such a rout.

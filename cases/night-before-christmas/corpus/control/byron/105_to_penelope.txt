@@ -1,0 +1,15 @@
+title: To Penelope
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: iambic mixed
+lines: 5
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+THIS day, of all our days, has done
+The worst for me and you:--
+'T is just six years since we were one,
+And five since we were two.
+
+November 5, 1820.

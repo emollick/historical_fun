@@ -1,0 +1,23 @@
+title: Sonnet V
+author: Robert Southey
+date: 1797
+source: https://www.gutenberg.org/ebooks/8212 (Poems, Bristol: Cottle, 1797)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+Did then the bold Slave rear at last the Sword
+Of Vengeance? drench'd he deep its thirsty blade
+In the cold bosom of his tyrant lord?
+Oh! who shall blame him? thro' the midnight shade
+Still o'er his tortur'd memory rush'd the thought
+Of every past delight; his native grove,
+Friendship's best joys, and Liberty and Love,
+All lost for ever! then Remembrance wrought
+His soul to madness; round his restless bed
+Freedom's pale spectre stalk'd, with a stern smile
+Pointing the wounds of slavery, the while
+She shook her chains and hung her sullen head:
+No more on Heaven he calls with fruitless breath,
+But sweetens with revenge, the draught of death.

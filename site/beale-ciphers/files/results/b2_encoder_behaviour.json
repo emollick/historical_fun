@@ -1,0 +1,1981 @@
+{
+ "corrections_applied_to_printed_cipher": [
+  {
+   "position": 223,
+   "number": 84,
+   "read_as": 85,
+   "letter": "e",
+   "word": "equal",
+   "kind": "adjacent number"
+  },
+  {
+   "position": 531,
+   "number": 53,
+   "read_as": 54,
+   "letter": "t",
+   "word": "to",
+   "kind": "adjacent number"
+  },
+  {
+   "position": 571,
+   "number": 108,
+   "read_as": [
+    10,
+    8
+   ],
+   "letters": "ni",
+   "words": [
+    "necessary",
+    "it"
+   ]
+  },
+  {
+   "position": 666,
+   "number": 440,
+   "read_as": 40,
+   "letter": "w",
+   "word": "which",
+   "kind": "dropped digit"
+  },
+  {
+   "position": 701,
+   "number": 84,
+   "read_as": 85,
+   "letter": "e",
+   "word": "equal",
+   "kind": "adjacent number"
+  },
+  {
+   "position": 722,
+   "number": 96,
+   "read_as": 95,
+   "letter": "u",
+   "word": "unalienable",
+   "kind": "adjacent number"
+  }
+ ],
+ "global": {
+  "letters_encoded": 763,
+  "distinct_numbers": 181,
+  "reuse_rate_overall": 0.763,
+  "share_of_uses_that_are_the_FIRST_word_with_that_initial": 0.169,
+  "expected_share_first_word_if_uniform_over_homophones": 0.05,
+  "mean_normalised_rank_(0.5_if_uniform)": 0.123,
+  "se_mean_normalised_rank": 0.0054,
+  "share_uses_n_le_100": 0.535,
+  "share_uses_n_le_250": 0.81,
+  "share_uses_n_le_500": 0.904,
+  "share_uses_n_gt_816": 0.005,
+  "largest_number_other_than_1005": 811,
+  "share_of_key_words_n_le_100": 0.076,
+  "share_of_key_words_n_le_250": 0.191,
+  "rank_histogram": {
+   "rank1": 129,
+   "rank2": 114,
+   "rank3": 108,
+   "rank4-5": 106,
+   "rank6-10": 191,
+   "rank>10": 115
+  },
+  "doubled_letters": {
+   "count": 19,
+   "same_number_used_twice": 0,
+   "detail": [
+    {
+     "pos": 85,
+     "pair": "ee",
+     "numbers": [
+      138,
+      191
+     ],
+     "same": false
+    },
+    {
+     "pos": 119,
+     "pair": "ll",
+     "numbers": [
+      234,
+      400
+     ],
+     "same": false
+    },
+    {
+     "pos": 181,
+     "pair": "nn",
+     "numbers": [
+      44,
+      287
+     ],
+     "same": false
+    },
+    {
+     "pos": 191,
+     "pair": "ee",
+     "numbers": [
+      511,
+      548
+     ],
+     "same": false
+    },
+    {
+     "pos": 245,
+     "pair": "ee",
+     "numbers": [
+      49,
+      79
+     ],
+     "same": false
+    },
+    {
+     "pos": 321,
+     "pair": "ee",
+     "numbers": [
+      33,
+      37
+     ],
+     "same": false
+    },
+    {
+     "pos": 323,
+     "pair": "nn",
+     "numbers": [
+      353,
+      287
+     ],
+     "same": false
+    },
+    {
+     "pos": 329,
+     "pair": "ee",
+     "numbers": [
+      37,
+      49
+     ],
+     "same": false
+    },
+    {
+     "pos": 356,
+     "pair": "ee",
+     "numbers": [
+      7,
+      33
+     ],
+     "same": false
+    },
+    {
+     "pos": 387,
+     "pair": "ee",
+     "numbers": [
+      511,
+      548
+     ],
+     "same": false
+    },
+    {
+     "pos": 522,
+     "pair": "tt",
+     "numbers": [
+      643,
+      32
+     ],
+     "same": false
+    },
+    {
+     "pos": 528,
+     "pair": "ee",
+     "numbers": [
+      85,
+      138
+     ],
+     "same": false
+    },
+    {
+     "pos": 538,
+     "pair": "dd",
+     "numbers": [
+      52,
+      118
+     ],
+     "same": false
+    },
+    {
+     "pos": 541,
+     "pair": "ll",
+     "numbers": [
+      102,
+      420
+     ],
+     "same": false
+    },
+    {
+     "pos": 555,
+     "pair": "ss",
+     "numbers": [
+      110,
+      62
+     ],
+     "same": false
+    },
+    {
+     "pos": 633,
+     "pair": "ss",
+     "numbers": [
+      78,
+      110
+     ],
+     "same": false
+    },
+    {
+     "pos": 702,
+     "pair": "ee",
+     "numbers": [
+      85,
+      575
+     ],
+     "same": false
+    },
+    {
+     "pos": 736,
+     "pair": "ff",
+     "numbers": [
+      131,
+      160
+     ],
+     "same": false
+    },
+    {
+     "pos": 746,
+     "pair": "ll",
+     "numbers": [
+      101,
+      102
+     ],
+     "same": false
+    }
+   ]
+  },
+  "uses_that_repeat_a_number_seen_within_previous_10_numbers": 36,
+  "normalised_rank_quartile_shares": [
+   0.828,
+   0.118,
+   0.054,
+   0.0
+  ],
+  "ks_test_normalised_rank_vs_uniform": {
+   "D": 0.6142,
+   "p": 2.6763569615073843e-277
+  }
+ },
+ "per_letter": {
+  "a": {
+   "uses": 43,
+   "distinct_numbers": 15,
+   "homophones_available": 166,
+   "numbers_used": [
+    {
+     "n": 150,
+     "count": 6,
+     "word": "abolish",
+     "rank_in_doi": 18
+    },
+    {
+     "n": 28,
+     "count": 5,
+     "word": "among",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 24,
+     "count": 4,
+     "word": "another",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 51,
+     "count": 4,
+     "word": "a",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 81,
+     "count": 4,
+     "word": "all",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 230,
+     "count": 4,
+     "word": "accustomed",
+     "rank_in_doi": 32
+    },
+    {
+     "n": 98,
+     "count": 3,
+     "word": "among",
+     "rank_in_doi": 11
+    },
+    {
+     "n": 25,
+     "count": 2,
+     "word": "and",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 27,
+     "count": 2,
+     "word": "assume",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 36,
+     "count": 2,
+     "word": "and",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 83,
+     "count": 2,
+     "word": "are",
+     "rank_in_doi": 9
+    },
+    {
+     "n": 147,
+     "count": 2,
+     "word": "alter",
+     "rank_in_doi": 17
+    },
+    {
+     "n": 45,
+     "count": 1,
+     "word": "and",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 152,
+     "count": 1,
+     "word": "and",
+     "rank_in_doi": 19
+    },
+    {
+     "n": 284,
+     "count": 1,
+     "word": "and",
+     "rank_in_doi": 38
+    }
+   ],
+   "most_used": {
+    "n": 150,
+    "count": 6,
+    "share": 0.14,
+    "rank_in_doi": 18
+   },
+   "share_top3_numbers": 0.349,
+   "uses_at_rank1_(first_word_with_this_initial)": 4,
+   "first_word_with_this_initial": {
+    "n": 24,
+    "word": "another"
+   },
+   "mean_rank": 11.35,
+   "median_rank": 8.0,
+   "mean_normalised_rank": 0.065,
+   "max_number_used": 284,
+   "share_of_uses_with_n_le_100": 0.674,
+   "share_of_available_homophones_with_n_le_100": 0.072,
+   "reuse_rate_(1-distinct/uses)": 0.651
+  },
+  "b": {
+   "uses": 11,
+   "distinct_numbers": 7,
+   "homophones_available": 48,
+   "numbers_used": [
+    {
+     "n": 77,
+     "count": 4,
+     "word": "be",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 18,
+     "count": 2,
+     "word": "bands",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 9,
+     "count": 1,
+     "word": "becomes",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 134,
+     "count": 1,
+     "word": "becomes",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 194,
+     "count": 1,
+     "word": "be",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 308,
+     "count": 1,
+     "word": "britain",
+     "rank_in_doi": 10
+    },
+    {
+     "n": 485,
+     "count": 1,
+     "word": "be",
+     "rank_in_doi": 14
+    }
+   ],
+   "most_used": {
+    "n": 77,
+    "count": 4,
+    "share": 0.364,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.636,
+   "uses_at_rank1_(first_word_with_this_initial)": 1,
+   "first_word_with_this_initial": {
+    "n": 9,
+    "word": "becomes"
+   },
+   "mean_rank": 4.73,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.088,
+   "max_number_used": 485,
+   "share_of_uses_with_n_le_100": 0.636,
+   "share_of_available_homophones_with_n_le_100": 0.083,
+   "reuse_rate_(1-distinct/uses)": 0.364
+  },
+  "c": {
+   "uses": 17,
+   "distinct_numbers": 7,
+   "homophones_available": 52,
+   "numbers_used": [
+    {
+     "n": 84,
+     "count": 5,
+     "word": "created",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 4,
+     "count": 3,
+     "word": "course",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 21,
+     "count": 2,
+     "word": "connected",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 65,
+     "count": 2,
+     "word": "causes",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 92,
+     "count": 2,
+     "word": "creator",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 200,
+     "count": 2,
+     "word": "causes",
+     "rank_in_doi": 9
+    },
+    {
+     "n": 94,
+     "count": 1,
+     "word": "certain",
+     "rank_in_doi": 6
+    }
+   ],
+   "most_used": {
+    "n": 84,
+    "count": 5,
+    "share": 0.294,
+    "rank_in_doi": 4
+   },
+   "share_top3_numbers": 0.588,
+   "uses_at_rank1_(first_word_with_this_initial)": 3,
+   "first_word_with_this_initial": {
+    "n": 4,
+    "word": "course"
+   },
+   "mean_rank": 3.94,
+   "median_rank": 4.0,
+   "mean_normalised_rank": 0.066,
+   "max_number_used": 200,
+   "share_of_uses_with_n_le_100": 0.882,
+   "share_of_available_homophones_with_n_le_100": 0.115,
+   "reuse_rate_(1-distinct/uses)": 0.588
+  },
+  "d": {
+   "uses": 49,
+   "distinct_numbers": 11,
+   "homophones_available": 37,
+   "numbers_used": [
+    {
+     "n": 63,
+     "count": 11,
+     "word": "declare",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 52,
+     "count": 10,
+     "word": "decent",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 15,
+     "count": 8,
+     "word": "dissolve",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 320,
+     "count": 5,
+     "word": "direct",
+     "rank_in_doi": 12
+    },
+    {
+     "n": 118,
+     "count": 4,
+     "word": "deriving",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 211,
+     "count": 3,
+     "word": "disposed",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 246,
+     "count": 3,
+     "word": "design",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 135,
+     "count": 2,
+     "word": "destructive",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 252,
+     "count": 1,
+     "word": "despotism",
+     "rank_in_doi": 10
+    },
+    {
+     "n": 406,
+     "count": 1,
+     "word": "districts",
+     "rank_in_doi": 13
+    },
+    {
+     "n": 582,
+     "count": 1,
+     "word": "dependent",
+     "rank_in_doi": 18
+    }
+   ],
+   "most_used": {
+    "n": 63,
+    "count": 11,
+    "share": 0.224,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.592,
+   "uses_at_rank1_(first_word_with_this_initial)": 8,
+   "first_word_with_this_initial": {
+    "n": 15,
+    "word": "dissolve"
+   },
+   "mean_rank": 4.76,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.115,
+   "max_number_used": 582,
+   "share_of_uses_with_n_le_100": 0.592,
+   "share_of_available_homophones_with_n_le_100": 0.081,
+   "reuse_rate_(1-distinct/uses)": 0.776
+  },
+  "e": {
+   "uses": 105,
+   "distinct_numbers": 14,
+   "homophones_available": 36,
+   "numbers_used": [
+    {
+     "n": 7,
+     "count": 15,
+     "word": "events",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 138,
+     "count": 15,
+     "word": "ends",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 33,
+     "count": 13,
+     "word": "earth",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 37,
+     "count": 13,
+     "word": "equal",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 85,
+     "count": 13,
+     "word": "equal",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 191,
+     "count": 7,
+     "word": "established",
+     "rank_in_doi": 10
+    },
+    {
+     "n": 49,
+     "count": 6,
+     "word": "entitle",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 511,
+     "count": 6,
+     "word": "exposed",
+     "rank_in_doi": 17
+    },
+    {
+     "n": 79,
+     "count": 4,
+     "word": "evident",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 603,
+     "count": 4,
+     "word": "erected",
+     "rank_in_doi": 21
+    },
+    {
+     "n": 486,
+     "count": 3,
+     "word": "elected",
+     "rank_in_doi": 15
+    },
+    {
+     "n": 548,
+     "count": 2,
+     "word": "encourage",
+     "rank_in_doi": 19
+    },
+    {
+     "n": 575,
+     "count": 2,
+     "word": "establishing",
+     "rank_in_doi": 20
+    },
+    {
+     "n": 620,
+     "count": 2,
+     "word": "eat",
+     "rank_in_doi": 22
+    }
+   ],
+   "most_used": {
+    "n": 7,
+    "count": 15,
+    "share": 0.143,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 0.41,
+   "uses_at_rank1_(first_word_with_this_initial)": 15,
+   "first_word_with_this_initial": {
+    "n": 7,
+    "word": "events"
+   },
+   "mean_rank": 7.1,
+   "median_rank": 6.0,
+   "mean_normalised_rank": 0.183,
+   "max_number_used": 620,
+   "share_of_uses_with_n_le_100": 0.61,
+   "share_of_available_homophones_with_n_le_100": 0.194,
+   "reuse_rate_(1-distinct/uses)": 0.867
+  },
+  "f": {
+   "uses": 21,
+   "distinct_numbers": 8,
+   "homophones_available": 61,
+   "numbers_used": [
+    {
+     "n": 122,
+     "count": 6,
+     "word": "from",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 160,
+     "count": 4,
+     "word": "foundation",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 196,
+     "count": 4,
+     "word": "for",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 131,
+     "count": 3,
+     "word": "form",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 11,
+     "count": 1,
+     "word": "for",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 273,
+     "count": 1,
+     "word": "future",
+     "rank_in_doi": 9
+    },
+    {
+     "n": 360,
+     "count": 1,
+     "word": "forbidden",
+     "rank_in_doi": 13
+    },
+    {
+     "n": 666,
+     "count": 1,
+     "word": "foreign",
+     "rank_in_doi": 28
+    }
+   ],
+   "most_used": {
+    "n": 122,
+    "count": 6,
+    "share": 0.286,
+    "rank_in_doi": 2
+   },
+   "share_top3_numbers": 0.667,
+   "uses_at_rank1_(first_word_with_this_initial)": 1,
+   "first_word_with_this_initial": {
+    "n": 11,
+    "word": "for"
+   },
+   "mean_rank": 5.33,
+   "median_rank": 4.0,
+   "mean_normalised_rank": 0.079,
+   "max_number_used": 666,
+   "share_of_uses_with_n_le_100": 0.048,
+   "share_of_available_homophones_with_n_le_100": 0.016,
+   "reuse_rate_(1-distinct/uses)": 0.619
+  },
+  "g": {
+   "uses": 15,
+   "distinct_numbers": 4,
+   "homophones_available": 19,
+   "numbers_used": [
+    {
+     "n": 48,
+     "count": 6,
+     "word": "god",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 113,
+     "count": 5,
+     "word": "governments",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 270,
+     "count": 3,
+     "word": "guards",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 133,
+     "count": 1,
+     "word": "government",
+     "rank_in_doi": 4
+    }
+   ],
+   "most_used": {
+    "n": 48,
+    "count": 6,
+    "share": 0.4,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 0.933,
+   "uses_at_rank1_(first_word_with_this_initial)": 6,
+   "first_word_with_this_initial": {
+    "n": 48,
+    "word": "god"
+   },
+   "mean_rank": 2.93,
+   "median_rank": 2.0,
+   "mean_normalised_rank": 0.128,
+   "max_number_used": 270,
+   "share_of_uses_with_n_le_100": 0.4,
+   "share_of_available_homophones_with_n_le_100": 0.053,
+   "reuse_rate_(1-distinct/uses)": 0.733
+  },
+  "h": {
+   "uses": 37,
+   "distinct_numbers": 8,
+   "homophones_available": 78,
+   "numbers_used": [
+    {
+     "n": 20,
+     "count": 9,
+     "word": "have",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 73,
+     "count": 8,
+     "word": "hold",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 205,
+     "count": 7,
+     "word": "hath",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 107,
+     "count": 5,
+     "word": "happiness",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 6,
+     "count": 4,
+     "word": "human",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 301,
+     "count": 2,
+     "word": "history",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 394,
+     "count": 1,
+     "word": "he",
+     "rank_in_doi": 20
+    },
+    {
+     "n": 466,
+     "count": 1,
+     "word": "houses",
+     "rank_in_doi": 27
+    }
+   ],
+   "most_used": {
+    "n": 20,
+    "count": 9,
+    "share": 0.243,
+    "rank_in_doi": 2
+   },
+   "share_top3_numbers": 0.649,
+   "uses_at_rank1_(first_word_with_this_initial)": 4,
+   "first_word_with_this_initial": {
+    "n": 6,
+    "word": "human"
+   },
+   "mean_rank": 4.62,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.053,
+   "max_number_used": 466,
+   "share_of_uses_with_n_le_100": 0.568,
+   "share_of_available_homophones_with_n_le_100": 0.038,
+   "reuse_rate_(1-distinct/uses)": 0.784
+  },
+  "i": {
+   "uses": 55,
+   "distinct_numbers": 12,
+   "homophones_available": 68,
+   "numbers_used": [
+    {
+     "n": 140,
+     "count": 15,
+     "word": "is",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 8,
+     "count": 12,
+     "word": "it",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 2,
+     "count": 7,
+     "word": "in",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 115,
+     "count": 5,
+     "word": "instituted",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 67,
+     "count": 4,
+     "word": "impel",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 154,
+     "count": 4,
+     "word": "institute",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 241,
+     "count": 2,
+     "word": "invariably",
+     "rank_in_doi": 13
+    },
+    {
+     "n": 314,
+     "count": 2,
+     "word": "injuries",
+     "rank_in_doi": 20
+    },
+    {
+     "n": 159,
+     "count": 1,
+     "word": "its",
+     "rank_in_doi": 9
+    },
+    {
+     "n": 185,
+     "count": 1,
+     "word": "indeed",
+     "rank_in_doi": 12
+    },
+    {
+     "n": 370,
+     "count": 1,
+     "word": "importance",
+     "rank_in_doi": 23
+    },
+    {
+     "n": 647,
+     "count": 1,
+     "word": "independent",
+     "rank_in_doi": 33
+    }
+   ],
+   "most_used": {
+    "n": 140,
+    "count": 15,
+    "share": 0.273,
+    "rank_in_doi": 6
+   },
+   "share_top3_numbers": 0.618,
+   "uses_at_rank1_(first_word_with_this_initial)": 7,
+   "first_word_with_this_initial": {
+    "n": 2,
+    "word": "in"
+   },
+   "mean_rank": 5.96,
+   "median_rank": 4.0,
+   "mean_normalised_rank": 0.08,
+   "max_number_used": 647,
+   "share_of_uses_with_n_le_100": 0.418,
+   "share_of_available_homophones_with_n_le_100": 0.044,
+   "reuse_rate_(1-distinct/uses)": 0.782
+  },
+  "j": {
+   "uses": 2,
+   "distinct_numbers": 2,
+   "homophones_available": 10,
+   "numbers_used": [
+    {
+     "n": 120,
+     "count": 1,
+     "word": "just",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 581,
+     "count": 1,
+     "word": "judges",
+     "rank_in_doi": 4
+    }
+   ],
+   "most_used": {
+    "n": 120,
+    "count": 1,
+    "share": 0.5,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 1.0,
+   "uses_at_rank1_(first_word_with_this_initial)": 1,
+   "first_word_with_this_initial": {
+    "n": 120,
+    "word": "just"
+   },
+   "mean_rank": 2.5,
+   "median_rank": 2.5,
+   "mean_normalised_rank": 0.2,
+   "max_number_used": 581,
+   "share_of_uses_with_n_le_100": 0.0,
+   "share_of_available_homophones_with_n_le_100": 0.0,
+   "reuse_rate_(1-distinct/uses)": 0.0
+  },
+  "k": {
+   "uses": 1,
+   "distinct_numbers": 1,
+   "homophones_available": 4,
+   "numbers_used": [
+    {
+     "n": 305,
+     "count": 1,
+     "word": "king",
+     "rank_in_doi": 1
+    }
+   ],
+   "most_used": {
+    "n": 305,
+    "count": 1,
+    "share": 1.0,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 1.0,
+   "uses_at_rank1_(first_word_with_this_initial)": 1,
+   "first_word_with_this_initial": {
+    "n": 305,
+    "word": "king"
+   },
+   "mean_rank": 1.0,
+   "median_rank": 1.0,
+   "mean_normalised_rank": 0.125,
+   "max_number_used": 305,
+   "share_of_uses_with_n_le_100": 0.0,
+   "share_of_available_homophones_with_n_le_100": 0.0,
+   "reuse_rate_(1-distinct/uses)": 0.0
+  },
+  "l": {
+   "uses": 32,
+   "distinct_numbers": 10,
+   "homophones_available": 32,
+   "numbers_used": [
+    {
+     "n": 102,
+     "count": 7,
+     "word": "liberty",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 101,
+     "count": 6,
+     "word": "life",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 42,
+     "count": 5,
+     "word": "laws",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 400,
+     "count": 4,
+     "word": "laws",
+     "rank_in_doi": 12
+    },
+    {
+     "n": 158,
+     "count": 3,
+     "word": "laying",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 420,
+     "count": 3,
+     "word": "legislature",
+     "rank_in_doi": 14
+    },
+    {
+     "n": 177,
+     "count": 1,
+     "word": "likely",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 197,
+     "count": 1,
+     "word": "light",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 234,
+     "count": 1,
+     "word": "long",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 405,
+     "count": 1,
+     "word": "large",
+     "rank_in_doi": 13
+    }
+   ],
+   "most_used": {
+    "n": 102,
+    "count": 7,
+    "share": 0.219,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.562,
+   "uses_at_rank1_(first_word_with_this_initial)": 5,
+   "first_word_with_this_initial": {
+    "n": 42,
+    "word": "laws"
+   },
+   "mean_rank": 5.41,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.153,
+   "max_number_used": 420,
+   "share_of_uses_with_n_le_100": 0.156,
+   "share_of_available_homophones_with_n_le_100": 0.031,
+   "reuse_rate_(1-distinct/uses)": 0.688
+  },
+  "m": {
+   "uses": 6,
+   "distinct_numbers": 4,
+   "homophones_available": 29,
+   "numbers_used": [
+    {
+     "n": 117,
+     "count": 2,
+     "word": "men",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 208,
+     "count": 2,
+     "word": "mankind",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 58,
+     "count": 1,
+     "word": "mankind",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 82,
+     "count": 1,
+     "word": "men",
+     "rank_in_doi": 2
+    }
+   ],
+   "most_used": {
+    "n": 117,
+    "count": 2,
+    "share": 0.333,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.833,
+   "uses_at_rank1_(first_word_with_this_initial)": 1,
+   "first_word_with_this_initial": {
+    "n": 58,
+    "word": "mankind"
+   },
+   "mean_rank": 3.17,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.092,
+   "max_number_used": 208,
+   "share_of_uses_with_n_le_100": 0.333,
+   "share_of_available_homophones_with_n_le_100": 0.069,
+   "reuse_rate_(1-distinct/uses)": 0.333
+  },
+  "n": {
+   "uses": 69,
+   "distinct_numbers": 8,
+   "homophones_available": 20,
+   "numbers_used": [
+    {
+     "n": 10,
+     "count": 13,
+     "word": "necessary",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 44,
+     "count": 13,
+     "word": "nature",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 47,
+     "count": 13,
+     "word": "nature's",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 540,
+     "count": 10,
+     "word": "naturalization",
+     "rank_in_doi": 12
+    },
+    {
+     "n": 287,
+     "count": 8,
+     "word": "now",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 353,
+     "count": 8,
+     "word": "necessary",
+     "rank_in_doi": 10
+    },
+    {
+     "n": 557,
+     "count": 2,
+     "word": "new",
+     "rank_in_doi": 13
+    },
+    {
+     "n": 607,
+     "count": 2,
+     "word": "new",
+     "rank_in_doi": 14
+    }
+   ],
+   "most_used": {
+    "n": 10,
+    "count": 13,
+    "share": 0.188,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 0.565,
+   "uses_at_rank1_(first_word_with_this_initial)": 13,
+   "first_word_with_this_initial": {
+    "n": 10,
+    "word": "necessary"
+   },
+   "mean_rank": 5.74,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.262,
+   "max_number_used": 607,
+   "share_of_uses_with_n_le_100": 0.565,
+   "share_of_available_homophones_with_n_le_100": 0.15,
+   "reuse_rate_(1-distinct/uses)": 0.884
+  },
+  "o": {
+   "uses": 63,
+   "distinct_numbers": 12,
+   "homophones_available": 144,
+   "numbers_used": [
+    {
+     "n": 106,
+     "count": 15,
+     "word": "of",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 125,
+     "count": 9,
+     "word": "of",
+     "rank_in_doi": 9
+    },
+    {
+     "n": 31,
+     "count": 7,
+     "word": "of",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 12,
+     "count": 6,
+     "word": "one",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 43,
+     "count": 6,
+     "word": "of",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 5,
+     "count": 4,
+     "word": "of",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 46,
+     "count": 4,
+     "word": "of",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 56,
+     "count": 4,
+     "word": "opinions",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 136,
+     "count": 3,
+     "word": "of",
+     "rank_in_doi": 11
+    },
+    {
+     "n": 57,
+     "count": 2,
+     "word": "of",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 302,
+     "count": 2,
+     "word": "of",
+     "rank_in_doi": 21
+    },
+    {
+     "n": 143,
+     "count": 1,
+     "word": "of",
+     "rank_in_doi": 12
+    }
+   ],
+   "most_used": {
+    "n": 106,
+    "count": 15,
+    "share": 0.238,
+    "rank_in_doi": 8
+   },
+   "share_top3_numbers": 0.492,
+   "uses_at_rank1_(first_word_with_this_initial)": 4,
+   "first_word_with_this_initial": {
+    "n": 5,
+    "word": "of"
+   },
+   "mean_rank": 6.46,
+   "median_rank": 7.0,
+   "mean_normalised_rank": 0.041,
+   "max_number_used": 302,
+   "share_of_uses_with_n_le_100": 0.524,
+   "share_of_available_homophones_with_n_le_100": 0.049,
+   "reuse_rate_(1-distinct/uses)": 0.81
+  },
+  "p": {
+   "uses": 12,
+   "distinct_numbers": 4,
+   "homophones_available": 61,
+   "numbers_used": [
+    {
+     "n": 30,
+     "count": 5,
+     "word": "powers",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 105,
+     "count": 4,
+     "word": "pursuit",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 121,
+     "count": 2,
+     "word": "powers",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 17,
+     "count": 1,
+     "word": "political",
+     "rank_in_doi": 2
+    }
+   ],
+   "most_used": {
+    "n": 30,
+    "count": 5,
+    "share": 0.417,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.917,
+   "uses_at_rank1_(first_word_with_this_initial)": 0,
+   "first_word_with_this_initial": {
+    "n": 13,
+    "word": "people"
+   },
+   "mean_rank": 3.58,
+   "median_rank": 3.5,
+   "mean_normalised_rank": 0.051,
+   "max_number_used": 121,
+   "share_of_uses_with_n_le_100": 0.5,
+   "share_of_available_homophones_with_n_le_100": 0.049,
+   "reuse_rate_(1-distinct/uses)": 0.667
+  },
+  "r": {
+   "uses": 38,
+   "distinct_numbers": 7,
+   "homophones_available": 42,
+   "numbers_used": [
+    {
+     "n": 53,
+     "count": 8,
+     "word": "respect",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 220,
+     "count": 8,
+     "word": "right",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 96,
+     "count": 7,
+     "word": "rights",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 112,
+     "count": 6,
+     "word": "rights",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 59,
+     "count": 5,
+     "word": "requires",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 248,
+     "count": 2,
+     "word": "reduce",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 344,
+     "count": 2,
+     "word": "refused",
+     "rank_in_doi": 11
+    }
+   ],
+   "most_used": {
+    "n": 53,
+    "count": 8,
+    "share": 0.211,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 0.605,
+   "uses_at_rank1_(first_word_with_this_initial)": 8,
+   "first_word_with_this_initial": {
+    "n": 53,
+    "word": "respect"
+   },
+   "mean_rank": 3.87,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.08,
+   "max_number_used": 344,
+   "share_of_uses_with_n_le_100": 0.526,
+   "share_of_available_homophones_with_n_le_100": 0.071,
+   "reuse_rate_(1-distinct/uses)": 0.816
+  },
+  "s": {
+   "uses": 48,
+   "distinct_numbers": 12,
+   "homophones_available": 63,
+   "numbers_used": [
+    {
+     "n": 110,
+     "count": 11,
+     "word": "secure",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 38,
+     "count": 9,
+     "word": "station",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 35,
+     "count": 6,
+     "word": "separate",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 62,
+     "count": 5,
+     "word": "should",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 71,
+     "count": 4,
+     "word": "separation",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 505,
+     "count": 3,
+     "word": "state",
+     "rank_in_doi": 31
+    },
+    {
+     "n": 78,
+     "count": 2,
+     "word": "self",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 217,
+     "count": 2,
+     "word": "sufferable",
+     "rank_in_doi": 15
+    },
+    {
+     "n": 275,
+     "count": 2,
+     "word": "such",
+     "rank_in_doi": 19
+    },
+    {
+     "n": 600,
+     "count": 2,
+     "word": "salaries",
+     "rank_in_doi": 33
+    },
+    {
+     "n": 285,
+     "count": 1,
+     "word": "such",
+     "rank_in_doi": 21
+    },
+    {
+     "n": 297,
+     "count": 1,
+     "word": "systems",
+     "rank_in_doi": 22
+    }
+   ],
+   "most_used": {
+    "n": 110,
+    "count": 11,
+    "share": 0.229,
+    "rank_in_doi": 6
+   },
+   "share_top3_numbers": 0.542,
+   "uses_at_rank1_(first_word_with_this_initial)": 6,
+   "first_word_with_this_initial": {
+    "n": 35,
+    "word": "separate"
+   },
+   "mean_rank": 8.35,
+   "median_rank": 4.5,
+   "mean_normalised_rank": 0.125,
+   "max_number_used": 600,
+   "share_of_uses_with_n_le_100": 0.542,
+   "share_of_available_homophones_with_n_le_100": 0.079,
+   "reuse_rate_(1-distinct/uses)": 0.75
+  },
+  "t": {
+   "uses": 70,
+   "distinct_numbers": 18,
+   "homophones_available": 251,
+   "numbers_used": [
+    {
+     "n": 16,
+     "count": 9,
+     "word": "the",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 14,
+     "count": 7,
+     "word": "to",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 26,
+     "count": 6,
+     "word": "to",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 41,
+     "count": 6,
+     "word": "the",
+     "rank_in_doi": 10
+    },
+    {
+     "n": 50,
+     "count": 6,
+     "word": "them",
+     "rank_in_doi": 11
+    },
+    {
+     "n": 3,
+     "count": 5,
+     "word": "the",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 29,
+     "count": 5,
+     "word": "the",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 34,
+     "count": 5,
+     "word": "the",
+     "rank_in_doi": 8
+    },
+    {
+     "n": 22,
+     "count": 4,
+     "word": "them",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 32,
+     "count": 4,
+     "word": "the",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 61,
+     "count": 3,
+     "word": "they",
+     "rank_in_doi": 15
+    },
+    {
+     "n": 60,
+     "count": 2,
+     "word": "that",
+     "rank_in_doi": 14
+    },
+    {
+     "n": 64,
+     "count": 2,
+     "word": "the",
+     "rank_in_doi": 16
+    },
+    {
+     "n": 643,
+     "count": 2,
+     "word": "to",
+     "rank_in_doi": 133
+    },
+    {
+     "n": 39,
+     "count": 1,
+     "word": "to",
+     "rank_in_doi": 9
+    },
+    {
+     "n": 54,
+     "count": 1,
+     "word": "to",
+     "rank_in_doi": 12
+    },
+    {
+     "n": 288,
+     "count": 1,
+     "word": "the",
+     "rank_in_doi": 67
+    },
+    {
+     "n": 554,
+     "count": 1,
+     "word": "the",
+     "rank_in_doi": 121
+    }
+   ],
+   "most_used": {
+    "n": 16,
+    "count": 9,
+    "share": 0.129,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.314,
+   "uses_at_rank1_(first_word_with_this_initial)": 5,
+   "first_word_with_this_initial": {
+    "n": 3,
+    "word": "the"
+   },
+   "mean_rank": 12.8,
+   "median_rank": 6.0,
+   "mean_normalised_rank": 0.049,
+   "max_number_used": 643,
+   "share_of_uses_with_n_le_100": 0.943,
+   "share_of_available_homophones_with_n_le_100": 0.112,
+   "reuse_rate_(1-distinct/uses)": 0.743
+  },
+  "u": {
+   "uses": 25,
+   "distinct_numbers": 8,
+   "homophones_available": 28,
+   "numbers_used": [
+    {
+     "n": 250,
+     "count": 6,
+     "word": "under",
+     "rank_in_doi": 3
+    },
+    {
+     "n": 316,
+     "count": 5,
+     "word": "usurpations",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 95,
+     "count": 4,
+     "word": "unalienable",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 239,
+     "count": 3,
+     "word": "usurpations",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 371,
+     "count": 3,
+     "word": "unless",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 388,
+     "count": 2,
+     "word": "utterly",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 409,
+     "count": 1,
+     "word": "unless",
+     "rank_in_doi": 7
+    },
+    {
+     "n": 440,
+     "count": 1,
+     "word": "uncomfortable",
+     "rank_in_doi": 9
+    }
+   ],
+   "most_used": {
+    "n": 250,
+    "count": 6,
+    "share": 0.24,
+    "rank_in_doi": 3
+   },
+   "share_top3_numbers": 0.6,
+   "uses_at_rank1_(first_word_with_this_initial)": 4,
+   "first_word_with_this_initial": {
+    "n": 95,
+    "word": "unalienable"
+   },
+   "mean_rank": 3.64,
+   "median_rank": 3.0,
+   "mean_normalised_rank": 0.112,
+   "max_number_used": 440,
+   "share_of_uses_with_n_le_100": 0.16,
+   "share_of_available_homophones_with_n_le_100": 0.036,
+   "reuse_rate_(1-distinct/uses)": 0.68
+  },
+  "v": {
+   "uses": 18,
+   "distinct_numbers": 1,
+   "homophones_available": 2,
+   "numbers_used": [
+    {
+     "n": 807,
+     "count": 18,
+     "word": "valuable",
+     "rank_in_doi": 1
+    }
+   ],
+   "most_used": {
+    "n": 807,
+    "count": 18,
+    "share": 1.0,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 1.0,
+   "uses_at_rank1_(first_word_with_this_initial)": 18,
+   "first_word_with_this_initial": {
+    "n": 807,
+    "word": "valuable"
+   },
+   "mean_rank": 1.0,
+   "median_rank": 1.0,
+   "mean_normalised_rank": 0.25,
+   "max_number_used": 807,
+   "share_of_uses_with_n_le_100": 0.0,
+   "share_of_available_homophones_with_n_le_100": 0.0,
+   "reuse_rate_(1-distinct/uses)": 0.944
+  },
+  "w": {
+   "uses": 13,
+   "distinct_numbers": 6,
+   "homophones_available": 58,
+   "numbers_used": [
+    {
+     "n": 40,
+     "count": 5,
+     "word": "which",
+     "rank_in_doi": 4
+    },
+    {
+     "n": 19,
+     "count": 2,
+     "word": "which",
+     "rank_in_doi": 2
+    },
+    {
+     "n": 66,
+     "count": 2,
+     "word": "which",
+     "rank_in_doi": 5
+    },
+    {
+     "n": 72,
+     "count": 2,
+     "word": "we",
+     "rank_in_doi": 6
+    },
+    {
+     "n": 1,
+     "count": 1,
+     "word": "when",
+     "rank_in_doi": 1
+    },
+    {
+     "n": 290,
+     "count": 1,
+     "word": "which",
+     "rank_in_doi": 13
+    }
+   ],
+   "most_used": {
+    "n": 40,
+    "count": 5,
+    "share": 0.385,
+    "rank_in_doi": 4
+   },
+   "share_top3_numbers": 0.692,
+   "uses_at_rank1_(first_word_with_this_initial)": 1,
+   "first_word_with_this_initial": {
+    "n": 1,
+    "word": "when"
+   },
+   "mean_rank": 4.62,
+   "median_rank": 4.0,
+   "mean_normalised_rank": 0.071,
+   "max_number_used": 290,
+   "share_of_uses_with_n_le_100": 0.923,
+   "share_of_available_homophones_with_n_le_100": 0.121,
+   "reuse_rate_(1-distinct/uses)": 0.538
+  },
+  "x": {
+   "uses": 4,
+   "distinct_numbers": 1,
+   "homophones_available": 1,
+   "numbers_used": [
+    {
+     "n": 1005,
+     "count": 4,
+     "word": "have",
+     "rank_in_doi": 1
+    }
+   ],
+   "most_used": {
+    "n": 1005,
+    "count": 4,
+    "share": 1.0,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 1.0,
+   "uses_at_rank1_(first_word_with_this_initial)": 4,
+   "first_word_with_this_initial": {
+    "n": 1005,
+    "word": "have"
+   },
+   "mean_rank": 1.0,
+   "median_rank": 1.0,
+   "mean_normalised_rank": 0.5,
+   "max_number_used": 1005,
+   "share_of_uses_with_n_le_100": 0.0,
+   "share_of_available_homophones_with_n_le_100": 0.0,
+   "reuse_rate_(1-distinct/uses)": 0.75
+  },
+  "y": {
+   "uses": 9,
+   "distinct_numbers": 1,
+   "homophones_available": 1,
+   "numbers_used": [
+    {
+     "n": 811,
+     "count": 9,
+     "word": "fundamentally",
+     "rank_in_doi": 1
+    }
+   ],
+   "most_used": {
+    "n": 811,
+    "count": 9,
+    "share": 1.0,
+    "rank_in_doi": 1
+   },
+   "share_top3_numbers": 1.0,
+   "uses_at_rank1_(first_word_with_this_initial)": 9,
+   "first_word_with_this_initial": {
+    "n": 811,
+    "word": "fundamentally"
+   },
+   "mean_rank": 1.0,
+   "median_rank": 1.0,
+   "mean_normalised_rank": 0.5,
+   "max_number_used": 811,
+   "share_of_uses_with_n_le_100": 0.0,
+   "share_of_available_homophones_with_n_le_100": 0.0,
+   "reuse_rate_(1-distinct/uses)": 0.889
+  }
+ }
+}

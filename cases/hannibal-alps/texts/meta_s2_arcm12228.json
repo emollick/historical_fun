@@ -1,0 +1,911 @@
+{
+ "paperId": "c69060af422dd96576d52b62055df72c771fa4dc",
+ "externalIds": {
+  "MAG": "2310403154",
+  "DOI": "10.1111/ARCM.12228",
+  "CorpusId": 53365546
+ },
+ "title": "Biostratigraphic Evidence Relating to the Age-Old Question of Hannibal's Invasion of Italy, II: Chemical Biomarkers and Microbial Signatures",
+ "citationCount": 15,
+ "openAccessPdf": {
+  "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/arcm.12228",
+  "status": "HYBRID",
+  "license": "CCBY",
+  "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/ARCM.12228?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/ARCM.12228, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+ },
+ "authors": [
+  {
+   "authorId": "4338720",
+   "name": "W. Mahaney"
+  },
+  {
+   "authorId": "34840474",
+   "name": "C. Allen"
+  },
+  {
+   "authorId": "88499820",
+   "name": "P. Pentlavalli"
+  },
+  {
+   "authorId": "4070783",
+   "name": "A. Kulakova"
+  },
+  {
+   "authorId": "49110955",
+   "name": "Jonathan M. Young"
+  },
+  {
+   "authorId": "70645054",
+   "name": "R. Dirszowsky"
+  },
+  {
+   "authorId": "104621472",
+   "name": "A. West"
+  },
+  {
+   "authorId": "50063449",
+   "name": "B. Kelleher"
+  },
+  {
+   "authorId": "13634465",
+   "name": "S. Jordan"
+  },
+  {
+   "authorId": "51447227",
+   "name": "Coren Pulleyblank"
+  },
+  {
+   "authorId": "1401151369",
+   "name": "S. O'Reilly"
+  },
+  {
+   "authorId": "2053393325",
+   "name": "B. Murphy"
+  },
+  {
+   "authorId": "90693201",
+   "name": "K. Lasberg"
+  },
+  {
+   "authorId": "66399987",
+   "name": "P. Somelar"
+  },
+  {
+   "authorId": "49255642",
+   "name": "M. Garneau"
+  },
+  {
+   "authorId": "8641644",
+   "name": "S. Finkelstein"
+  },
+  {
+   "authorId": "51211991",
+   "name": "M. Sobol"
+  },
+  {
+   "authorId": "21571417",
+   "name": "V. Kalm"
+  },
+  {
+   "authorId": "144143975",
+   "name": "Pedro J. M. Costa"
+  },
+  {
+   "authorId": "145236969",
+   "name": "R. Hancock"
+  },
+  {
+   "authorId": "39604757",
+   "name": "K. Hart"
+  },
+  {
+   "authorId": "70157211",
+   "name": "P. Tricart"
+  },
+  {
+   "authorId": "5685128",
+   "name": "R. Barendregt"
+  },
+  {
+   "authorId": "49847820",
+   "name": "T. Bunch"
+  },
+  {
+   "authorId": "31923073",
+   "name": "M. Milner"
+  }
+ ],
+ "citations": [
+  {
+   "paperId": "3a82cec9cc95b26e1b4b4673b22efce4c2ab5149",
+   "externalIds": {
+    "DOI": "10.34257/ljrhss229004uk",
+    "CorpusId": 290780193
+   },
+   "title": "Futile Route Quest of the Hannibal Invasion: Merging of Classical History and Surface Geology",
+   "year": 2026,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    }
+   ]
+  },
+  {
+   "paperId": "ba864511d734e60bea725f717490ca46c61881d5",
+   "externalIds": {
+    "DOI": "10.3389/fearc.2025.1544307",
+    "CorpusId": 276188724
+   },
+   "title": "Fecal lipid markers in tandem with ancient sedimentary DNA as a tool for tracing past livestock farming from soils and sediments",
+   "year": 2025,
+   "authors": [
+    {
+     "authorId": "2317684340",
+     "name": "Sabine Fiedler"
+    },
+    {
+     "authorId": "2317831634",
+     "name": "Sascha Scherer"
+    },
+    {
+     "authorId": "1387465541",
+     "name": "B. Krause-Kyora"
+    }
+   ]
+  },
+  {
+   "paperId": "2307510f205c22c88a0d4d7c0395925d30a47d64",
+   "externalIds": {
+    "DOI": "10.1007/s12520-023-01889-z",
+    "CorpusId": 265508182
+   },
+   "title": "Bioarchaeological approaches to understanding the long-term development of mountain societies",
+   "year": 2023,
+   "authors": [
+    {
+     "authorId": "2054303586",
+     "name": "Kevin Walsh"
+    },
+    {
+     "authorId": "2086578181",
+     "name": "Juliette Knockaert"
+    },
+    {
+     "authorId": "2299237649",
+     "name": "Katharina Dulias"
+    },
+    {
+     "authorId": "1398479820",
+     "name": "C. Giguet-Covex"
+    },
+    {
+     "authorId": "2428037457",
+     "name": "Dianne Unsain"
+    },
+    {
+     "authorId": "2268772907",
+     "name": "Sylvain Burri"
+    },
+    {
+     "authorId": "2268774171",
+     "name": "Pierre Magniez"
+    },
+    {
+     "authorId": "2241792287",
+     "name": "A. Pike"
+    },
+    {
+     "authorId": "2294818176",
+     "name": "David Orton"
+    },
+    {
+     "authorId": "2051012009",
+     "name": "F. Mocci"
+    }
+   ]
+  },
+  {
+   "paperId": "f825f9fb2f64f7751ae93d31e37d198bbbe1f1d2",
+   "externalIds": {
+    "DOI": "10.1007/s00531-023-02336-z",
+    "CorpusId": 260717762
+   },
+   "title": "Polybius: decipherer of Hannibal\u2019s alpine route and ancient stratigrapher",
+   "year": 2023,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    }
+   ]
+  },
+  {
+   "paperId": "2fd8c3f437426bfc307bf1fd42907c121182f778",
+   "externalIds": {
+    "DOI": "10.1111/aman.13844",
+    "CorpusId": 258193338
+   },
+   "title": "Heritage as liberation",
+   "year": 2023,
+   "authors": [
+    {
+     "authorId": "2005933367",
+     "name": "Tiffany C. Fryer"
+    }
+   ]
+  },
+  {
+   "paperId": "5d77ca8d6b0a80bc4a58c7392d4e86ad59b2f066",
+   "externalIds": {
+    "MAG": "3133246116",
+    "DOI": "10.3390/QUAT4010006",
+    "CorpusId": 232274383
+   },
+   "title": "Lake Sedimentary DNA Research on Past Terrestrial and Aquatic Biodiversity: Overview and Recommendations",
+   "year": 2021,
+   "authors": [
+    {
+     "authorId": "1471149497",
+     "name": "E. Capo"
+    },
+    {
+     "authorId": "1398479820",
+     "name": "C. Giguet-Covex"
+    },
+    {
+     "authorId": "70137530",
+     "name": "A. Rouillard"
+    },
+    {
+     "authorId": "15173073",
+     "name": "Kevin Nota"
+    },
+    {
+     "authorId": "5783127",
+     "name": "P. Heintzman"
+    },
+    {
+     "authorId": "31733071",
+     "name": "A. Vuillemin"
+    },
+    {
+     "authorId": "5463051",
+     "name": "D. Ariztegui"
+    },
+    {
+     "authorId": "6727293",
+     "name": "F. Arnaud"
+    },
+    {
+     "authorId": "1490684054",
+     "name": "S. Belle"
+    },
+    {
+     "authorId": "3478221",
+     "name": "S. Bertilsson"
+    },
+    {
+     "authorId": "6746392",
+     "name": "C. Bigler"
+    },
+    {
+     "authorId": "11497342",
+     "name": "R. Bindler"
+    },
+    {
+     "authorId": "2362310087",
+     "name": "Antony G. Brown"
+    },
+    {
+     "authorId": "49023140",
+     "name": "Charlotte L. Clarke"
+    },
+    {
+     "authorId": "66200873",
+     "name": "S. Crump"
+    },
+    {
+     "authorId": "2321253",
+     "name": "D. Debroas"
+    },
+    {
+     "authorId": "3977329",
+     "name": "G. Englund"
+    },
+    {
+     "authorId": "9815312",
+     "name": "G. Ficetola"
+    },
+    {
+     "authorId": "1443761576",
+     "name": "Rebecca E. Garner"
+    },
+    {
+     "authorId": "50229855",
+     "name": "J. Gauthier"
+    },
+    {
+     "authorId": "1390061865",
+     "name": "I. Gregory\u2010Eaves"
+    },
+    {
+     "authorId": "13060410",
+     "name": "Liv Heinecke"
+    },
+    {
+     "authorId": "5132465",
+     "name": "U. Herzschuh"
+    },
+    {
+     "authorId": "1999382751",
+     "name": "Anan Ibrahim"
+    },
+    {
+     "authorId": "46673497",
+     "name": "V. Kisand"
+    },
+    {
+     "authorId": "5765047",
+     "name": "K. Kj\u00e6r"
+    },
+    {
+     "authorId": "50059196",
+     "name": "Y. Lammers"
+    },
+    {
+     "authorId": "8346532",
+     "name": "J. Littlefair"
+    },
+    {
+     "authorId": "41068057",
+     "name": "E. Messager"
+    },
+    {
+     "authorId": "6361046",
+     "name": "Marie\u2010Eve Monchamp"
+    },
+    {
+     "authorId": "87365138",
+     "name": "Fredrik Olajos"
+    },
+    {
+     "authorId": "3503570",
+     "name": "W. Orsi"
+    },
+    {
+     "authorId": "48688026",
+     "name": "M. W. Pedersen"
+    },
+    {
+     "authorId": "8306032",
+     "name": "D. P. Rijal"
+    },
+    {
+     "authorId": "47755487",
+     "name": "J. Rydberg"
+    },
+    {
+     "authorId": "5695555",
+     "name": "Trisha L. Spanbauer"
+    },
+    {
+     "authorId": "1401588611",
+     "name": "K. Stoof-Leichsenring"
+    },
+    {
+     "authorId": "3484111",
+     "name": "P. Taberlet"
+    },
+    {
+     "authorId": "51137697",
+     "name": "L. Talas"
+    },
+    {
+     "authorId": "2148888014",
+     "name": "Camille Thomas"
+    },
+    {
+     "authorId": "48259313",
+     "name": "D. Walsh"
+    },
+    {
+     "authorId": "46395604",
+     "name": "Yu-Cheng Wang"
+    },
+    {
+     "authorId": "1812266",
+     "name": "E. Willerslev"
+    },
+    {
+     "authorId": "2489464677",
+     "name": "Anne van Woerkom"
+    },
+    {
+     "authorId": "50136172",
+     "name": "H. Zimmermann"
+    },
+    {
+     "authorId": "5134041",
+     "name": "M. Coolen"
+    },
+    {
+     "authorId": "3386352",
+     "name": "L. Epp"
+    },
+    {
+     "authorId": "5079588",
+     "name": "I. Domaizon"
+    },
+    {
+     "authorId": "3772555",
+     "name": "I. Alsos"
+    },
+    {
+     "authorId": "6361661",
+     "name": "L. Parducci"
+    }
+   ]
+  },
+  {
+   "paperId": "daff0dcd940f5c772c3d01e8f04c67c85f57c484",
+   "externalIds": {
+    "MAG": "2979469692",
+    "PubMedCentral": "6789010",
+    "DOI": "10.1038/s41598-019-50339-1",
+    "CorpusId": 204054908,
+    "PubMed": "31604959"
+   },
+   "title": "New insights on lake sediment DNA from the catchment: importance of taphonomic and analytical issues on the record quality",
+   "year": 2019,
+   "authors": [
+    {
+     "authorId": "1398479820",
+     "name": "C. Giguet-Covex"
+    },
+    {
+     "authorId": "9815312",
+     "name": "G. Ficetola"
+    },
+    {
+     "authorId": "29385131",
+     "name": "K. Walsh"
+    },
+    {
+     "authorId": "3930201",
+     "name": "J. Poulenard"
+    },
+    {
+     "authorId": "96453695",
+     "name": "M. Bajard"
+    },
+    {
+     "authorId": "108621642",
+     "name": "L. Fouinat"
+    },
+    {
+     "authorId": "38428165",
+     "name": "P. Sabatier"
+    },
+    {
+     "authorId": "4279143",
+     "name": "L. Gielly"
+    },
+    {
+     "authorId": "41068057",
+     "name": "E. Messager"
+    },
+    {
+     "authorId": "152191270",
+     "name": "A. Develle"
+    },
+    {
+     "authorId": "123716999",
+     "name": "F. David"
+    },
+    {
+     "authorId": "3484111",
+     "name": "P. Taberlet"
+    },
+    {
+     "authorId": "81607697",
+     "name": "E. Brisset"
+    },
+    {
+     "authorId": "9042245",
+     "name": "F. Guiter"
+    },
+    {
+     "authorId": "105016089",
+     "name": "R. Sinet"
+    },
+    {
+     "authorId": "6727293",
+     "name": "F. Arnaud"
+    }
+   ]
+  },
+  {
+   "paperId": "db9ab8fcf4179131865a6d908612d923182efc81",
+   "externalIds": {
+    "MAG": "2804455928",
+    "DOI": "10.1111/ARCM.12405",
+    "CorpusId": 134652541
+   },
+   "title": "Reconnaissance of the Hannibalic Route in the Upper Po Valley, Italy: Correlation with Biostratigraphic Historical Archaeological Evidence in the Upper Guil Valley, France",
+   "year": 2019,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    },
+    {
+     "authorId": "66399987",
+     "name": "P. Somelar"
+    },
+    {
+     "authorId": "104621472",
+     "name": "A. West"
+    },
+    {
+     "authorId": "70645054",
+     "name": "R. Dirszowsky"
+    },
+    {
+     "authorId": "34840474",
+     "name": "C. Allen"
+    },
+    {
+     "authorId": "2241333",
+     "name": "T. Remmel"
+    },
+    {
+     "authorId": "70157211",
+     "name": "P. Tricart"
+    }
+   ]
+  },
+  {
+   "paperId": "ac027e360754e513e194e4ede851c79bcdc86025",
+   "externalIds": {
+    "MAG": "2297153270",
+    "DOI": "10.1111/ARCM.12231",
+    "CorpusId": 53338027
+   },
+   "title": "Biostratigraphic Evidence Relating to the Age-Old Question of Hannibal's Invasion of Italy, I: History and Geological Reconstruction",
+   "year": 2017,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    },
+    {
+     "authorId": "34840474",
+     "name": "C. Allen"
+    },
+    {
+     "authorId": "88499820",
+     "name": "P. Pentlavalli"
+    },
+    {
+     "authorId": "4070783",
+     "name": "A. Kulakova"
+    },
+    {
+     "authorId": "49110955",
+     "name": "Jonathan M. Young"
+    },
+    {
+     "authorId": "70645054",
+     "name": "R. Dirszowsky"
+    },
+    {
+     "authorId": "104621472",
+     "name": "A. West"
+    },
+    {
+     "authorId": "50063449",
+     "name": "B. Kelleher"
+    },
+    {
+     "authorId": "13634465",
+     "name": "S. Jordan"
+    },
+    {
+     "authorId": "51447227",
+     "name": "Coren Pulleyblank"
+    },
+    {
+     "authorId": "1401151369",
+     "name": "S. O'Reilly"
+    },
+    {
+     "authorId": "2053393325",
+     "name": "B. Murphy"
+    },
+    {
+     "authorId": "90693201",
+     "name": "K. Lasberg"
+    },
+    {
+     "authorId": "66399987",
+     "name": "P. Somelar"
+    },
+    {
+     "authorId": "49255642",
+     "name": "M. Garneau"
+    },
+    {
+     "authorId": "8641644",
+     "name": "S. Finkelstein"
+    },
+    {
+     "authorId": "51211991",
+     "name": "M. Sobol"
+    },
+    {
+     "authorId": "21571417",
+     "name": "V. Kalm"
+    },
+    {
+     "authorId": "144143975",
+     "name": "Pedro J. M. Costa"
+    },
+    {
+     "authorId": "145236969",
+     "name": "R. Hancock"
+    },
+    {
+     "authorId": "39604757",
+     "name": "K. Hart"
+    },
+    {
+     "authorId": "70157211",
+     "name": "P. Tricart"
+    },
+    {
+     "authorId": "5685128",
+     "name": "R. Barendregt"
+    },
+    {
+     "authorId": "49847820",
+     "name": "T. Bunch"
+    },
+    {
+     "authorId": "31923073",
+     "name": "M. Milner"
+    }
+   ]
+  },
+  {
+   "paperId": "bdbf5f6a04a82187e1995bcb839e73011eb8f287",
+   "externalIds": {
+    "DOI": "10.54799/qvau4747",
+    "CorpusId": 251826977
+   },
+   "title": "Mobile Pastoralists in Archaic Southern Italy?",
+   "year": 2015,
+   "authors": [
+    {
+     "authorId": "2058607848",
+     "name": "C. Heitz"
+    }
+   ]
+  },
+  {
+   "paperId": "eedc150e85af604f2635571134437b37b944bce5",
+   "externalIds": {
+    "CorpusId": 252040286
+   },
+   "title": "THE HANNIBAL ENIGMA OF 218 BC: A FORENSIC EXERCISE OF IMPORTANCE TO HISTORICAL ARCHAEOLOGY",
+   "year": 2020,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    }
+   ]
+  },
+  {
+   "paperId": "b6b7427ada44b1a11e2a24b438f4a6dc3e9a0111",
+   "externalIds": {
+    "CorpusId": 250043155
+   },
+   "title": "THE HANNIBAL ROUTE QUESTION OF 218 BC: A FORENSIC EXERCISE RELATIVE TO HISTORICAL ARCHAEOLOGY",
+   "year": 2018,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    }
+   ]
+  },
+  {
+   "paperId": "2213e24dc4926bc7b74d31a6de4f9644dde5e3b2",
+   "externalIds": {
+    "CorpusId": 251922450
+   },
+   "title": "Mobile Pastoralists in Archaic Southern Italy? (cid:150) The Use of Social and Material Evidence for the Detection of an Ancient Economy*",
+   "year": 2018,
+   "authors": [
+    {
+     "authorId": "2058607848",
+     "name": "C. Heitz"
+    }
+   ]
+  },
+  {
+   "paperId": "6566cee62e5ee97257f535759822cbf8e5e3c37e",
+   "externalIds": {
+    "MAG": "3087998152",
+    "DOI": "10.5281/ZENODO.258081",
+    "CorpusId": 166224643
+   },
+   "title": "Notes on magnetic susceptibility in the Guil Valley alluvial mire correlated with the Punic invasion of Italia in 218 BC",
+   "year": 2017,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    },
+    {
+     "authorId": "66399987",
+     "name": "P. Somelar"
+    },
+    {
+     "authorId": "51447227",
+     "name": "Coren Pulleyblank"
+    },
+    {
+     "authorId": "70157211",
+     "name": "P. Tricart"
+    },
+    {
+     "authorId": "104621472",
+     "name": "A. West"
+    },
+    {
+     "authorId": "49110955",
+     "name": "Jonathan M. Young"
+    },
+    {
+     "authorId": "34840474",
+     "name": "C. Allen"
+    }
+   ]
+  },
+  {
+   "paperId": "f218cf35da7c85f2da2b201dfd99023aa39c44e0",
+   "externalIds": {
+    "CorpusId": 201677404
+   },
+   "title": "THE HANNIBAL ROUTE CONTROVERSY AND FUTURE HISTORICAL ARCHAEOLOGICAL EXPLORATION IN THE WESTERN ALPS",
+   "year": 2016,
+   "authors": [
+    {
+     "authorId": "4338720",
+     "name": "W. Mahaney"
+    }
+   ]
+  }
+ ],
+ "abstract": "\u00a9 2016 The Authors. Archaeometry published by John Wiley & Sons Ltd on behalf of University of Oxford As discussed in Part I, a large accumulation of mammalian faeces at the mire site in the upper Guil Valley near Mt. Viso, dated to 2168 cal 14 C yr., provides the first evidence of the passage of substantial but indeterminate numbers of mammals within the time frame of the Punic invasion of Italia. Specialized organic biomarkers bound up in a highly convoluted and bioturbated bed constitute an unusual anomaly in a histosol comprised of fibric and hemist horizons that are usually expected to display horizontal bedding. The presence of deoxycholic acid and ethylcoprostanol derived from faecal matter, coupled with high relative numbers of Clostridia 16S rRNA genes, suggests a substantial accumulation of mammalian faeces at the site over 2000 years ago. The results reported here constitute the first chemical and biological evidence of the passage of large numbers of mammals, possibly indicating the route of the Hannibalic army at this time. Combined with the geological analysis reported in Part I, these data provide a background supporting the need for further historical archaeological exploration in this area.",
+ "references": [
+  {
+   "paperId": "ac027e360754e513e194e4ede851c79bcdc86025",
+   "title": "Biostratigraphic Evidence Relating to the Age-Old Question of Hannibal's Invasion of Italy, I: History and Geological Reconstruction"
+  },
+  {
+   "paperId": "a9c91e1a97201f88227bacb30a12a052bf29551c",
+   "title": "Hannibal's Odyssey: The Environmental Background to the Alpine Invasion of Italia"
+  },
+  {
+   "paperId": "5ed27b3490f16bbfc1c63bf62cfec8c9058a2134",
+   "title": "Weathering rinds as mirror images of palaeosols: examples from the Western Alps with correlation to Antarctica and Mars"
+  },
+  {
+   "paperId": "d5f946e8c21d7fcfcb57a278238262d3665cdd68",
+   "title": "Pyrosequencing of 16S rRNA genes in fecal samples reveals high diversity of hindgut microflora in horses and potential links to chronic laminitis"
+  },
+  {
+   "paperId": "b8941703da0edf1f774cd276cf876ba08b22feaa",
+   "title": "Combined quantification of faecal sterols, stanols, stanones and bile acids in soils and terrestrial sediments by gas chromatography-mass spectrometry."
+  },
+  {
+   "paperId": "c9bdcfb42377718dbf7eea75134de6b24c3f22a5",
+   "title": "The equine intestinal microbiome"
+  },
+  {
+   "paperId": "690002610d789cbffd08429f39432925492de9da",
+   "title": "Faecal biomarker and archaeobotanical analyses of sediments from a public latrine shed new light on ruralisation in Sagalassos, Turkey"
+  },
+  {
+   "paperId": "8eccec170e9eb9765cb68832242a3d1b00dbc2ff",
+   "title": "The medieval climate anomaly in Europe: Comparison of the summer and annual mean signals in two reconstructions and in simulations with data assimilation"
+  },
+  {
+   "paperId": "6943befcccee40dcc5a66bf24549f0535b3c96a7",
+   "title": "Barcoded Primers Used in Multiplex Amplicon Pyrosequencing Bias Amplification"
+  },
+  {
+   "paperId": "cbd522d99d97382c5957c9bc1880e7870c0e832a",
+   "title": "The Medieval Climate Anomaly and Little Ice Age in Chesapeake Bay and the North Atlantic Ocean"
+  },
+  {
+   "paperId": "70b48fd1a0c3d9fef98600578308e1e033c0c67a",
+   "title": "QIIME allows analysis of high-throughput community sequencing data"
+  },
+  {
+   "paperId": "394b068dd7106952a53cbb9ed103f943a79f49c6",
+   "title": "Use of Sterol and Bile Acid Biomarkers to Identify Domesticated Animal Sources of Fecal Pollution"
+  },
+  {
+   "paperId": "615cdd8316ce10da17f9230977328ea1310636f0",
+   "title": "Identifying the Dominant Soil Bacterial Taxa in Libraries of 16S rRNA and 16S rRNA Genes"
+  },
+  {
+   "paperId": "6266b44b68b3456c73b2dd89d3f941a45dcedc11",
+   "title": "Ecological and evolutionary forces shaping microbial diversity in the human intestine."
+  },
+  {
+   "paperId": "4ffe94455f037fec9f39acf29ec5d477cc1bfcb9",
+   "title": "Reconstruction of temperature in the Central Alps during the past 2000 yr from a \u03b418O stalagmite record"
+  },
+  {
+   "paperId": "e07c12108d5a8dc487cd3da8685be67bdac182bf",
+   "title": "A comparison of plant and microbial biomarkers in grassland soils from the Prairie Ecozone of Canada"
+  },
+  {
+   "paperId": "41481e95932b9f8569a39c2d43a3fbc9704d71b1",
+   "title": "The application of steroidal biomarkers to track the abandonment of a Roman wastewater course at the Agora (Athens, Greece)"
+  },
+  {
+   "paperId": "717774f325c006dc7a00ea2541918aca7b9256c6",
+   "title": "Quantitative application of fecal sterols using gas chromatography-mass spectrometry to investigate fecal pollution in tropical waters: western Malaysia and Mekong Delta, Vietnam."
+  },
+  {
+   "paperId": "50284f3b2203b6a8c33bea021ac760808a9c5146",
+   "title": "Extensive Set of 16S rRNA-Based Probes for Detection of Bacteria in Human Feces"
+  },
+  {
+   "paperId": "5019da8a26019a3715dda30300cc9c9e43fa7a2e",
+   "title": "The origin of faeces by means of biomarker detection."
+  },
+  {
+   "paperId": "ec84dc72b3f2e5f0d59ad42ab643552e293b8547",
+   "title": "Rapid Method for Coextraction of DNA and RNA from Natural Environments for Analysis of Ribosomal DNA- and rRNA-Based Microbial Community Composition"
+  },
+  {
+   "paperId": "3b5e450f04d7439f7be6989b242de5cb89da7812",
+   "title": "Organic geochemical studies of soils from the Rothamsted classical experiments : V. The fate of lipids in different long-term experiments"
+  },
+  {
+   "paperId": "c80737379513635caa88afac123ae5da013ed8d6",
+   "title": "Muck \u2018n\u2019 molecules: organic geochemical methods for detecting ancient manuring"
+  },
+  {
+   "paperId": "f48a8f3df6adda5810d1945957ce8bf3c3c6f94e",
+   "title": "5\u03b2-Stigmastanol and Related 5\u03b2-Stanols as Biomarkers of Manuring: Analysis of Modern Experimental Material and Assessment of the Archaeological Potential"
+  },
+  {
+   "paperId": "4f95f3d2e896d80d0a88695daa3b2b33a3ebabae",
+   "title": "Using faecal sterols from humans and animals to distinguish faecal pollution in receiving waters"
+  },
+  {
+   "paperId": "df7455d16514b592378d720bb265a27059b6d9af",
+   "title": "Assessment of fecal sterols and ketones as indicators of urban sewage inputs to coastal waters"
+  },
+  {
+   "paperId": "07ff7dc2b48962e6d0570b7222bbea356af76761",
+   "title": "Reconstruction of temperature in the Central Alps during the past 2000 yr from a y 18 O stalagmite record"
+  },
+  {
+   "paperId": "e020beb014d04db332d30cb9a89171ca86ec8536",
+   "title": "Combined Analysis of Bile Acids and Sterols/Stanols from Riverine Particulates To Assess Sewage Discharges and Other Fecal Sources"
+  },
+  {
+   "paperId": "751560f0b9d1bc4a446ebcbeb16d41bf0c40a480",
+   "title": "Hannibal;: The struggle for power in the Mediterranean"
+  }
+ ]
+}

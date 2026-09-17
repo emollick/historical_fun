@@ -1,0 +1,21 @@
+Description of Additional Supplementary Files 
+ 
+File Name: Supplementary Movie 1 
+Description: Avalanche_Plastic_Strain 
+ 
+File Name: Supplementary Movie 2 
+Description: Avalanche_Velocity 
+ 
+File Name: Supplementary Movie 3 
+Description: Crash_Test_GM 
+ 
+File Name: Supplementary Movie 4 
+Description: Snow_Block_0.125m3 
+ 
+File Name: Supplementary Movie 5 
+Description: Snow_Block_0.25m3 
+ 
+File Name: Supplementary Movie 6 
+Description: Snow_Block_0.5m3 
+ 
+  

@@ -1,0 +1,38 @@
+title: For Caroline's Album
+author: Clement Clarke Moore
+date: 1845 (12 Jul.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 106-108; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooreforcarolinesalbum.htm
+form: iambic pentameter quatrains (abab)
+lines: 24
+attribution: certain
+notes: MS heading: 'Written at Schooley's Mountain, to serve instead of a Vignette in the album of a young Lady. July 12, 1845.' MS note identifies her as 'Miss Caroline Willett. Since dead.' Complimentary album verse; serious-gallant. Site line count 24 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+Sweet maiden, could I on this page impress
+The charms of Nature that surround us here,
+How exquisite would be my vignette's dress!
+And in thy book how worthy to appear!
+
+The ripening harvests that adorn the vales;
+The swelling mountains that majestic rise;
+The forests whispering to the taintless gales;
+The distant heights that melt into the skies;
+
+The chestnut's bloom amid the vivid green;
+The wild-flowers that beneath our footsteps blow;
+The woodman's frequent hut at distance seen;
+The streams all murmuring music as they flow;
+
+The cloudless azure of the early morn;
+The glories of the sun's departing ray;
+Things that dare speak e'en to the heart-forlorn;
+And for a while, at least, its griefs allay.
+
+Were scenes like these with tasteful skill combin'd,
+All fresh with Nature's Heav'n-inspired look,
+What lovelier picture could an artist find
+Wherewith to grace the pages of thy book?
+
+And would I yet impart a finish'd grace,
+I should not seek for sylph or woodland elf
+Amid the beauties of the scene to place;
+But I would add - a picture of thyself.

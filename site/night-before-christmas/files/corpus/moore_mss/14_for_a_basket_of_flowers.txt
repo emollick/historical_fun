@@ -1,0 +1,48 @@
+title: For a Basket of Flowers
+author: Clement Clarke Moore
+date: 1851 (15 Jul.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 120-122; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooreforabasketofflowers.htm
+form: iambic pentameter quatrains (abab); line 3 is short (trimeter) as transcribed
+lines: 32
+attribution: certain
+notes: MS heading: 'To a young lady who sent me a basket of flowers and a kind note on my seventy second birth day July 15, 1851'. Serious thanks from an old man contemplating death. Line 3 'Whose tints in harmony blend' is a foot short in the transcription (possibly a dropped word). Site line count 32 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+A thousand thanks, my young and lovely friend,
+Thanks for thy breathing flowrets' mingled bloom,
+Whose tints in harmony blend,
+And seem to glory in their rich perfume.
+
+But from the breathings of thy gentle breast,
+Toward one whose span of life must soon be past,
+I draw a pleasure of still higher zest,
+Untainted pleasure that with life shall last.
+
+For all the fragrance of a short-lived flower
+Can but to outward sense a joy impart;
+While genuine friendship's breath hath e'en the power
+To teach an old and sorrow-stricken heart.
+
+Thou hast, in all the fervor of thy mind,
+Pour'd forth the hope, by mortals held most dear,
+That to this earth I still may be confin'd,
+Nor part from life for many and many a year.
+
+Happy young creature! whom the touch of wo
+Hath never taught to know this world aright;
+Around whose steps the flowers of pleasure blow;
+Whose paths are smooth and all whose skies are bright.
+
+Long cloudless be the sunshine of thy skies!
+And long may gentle zephyrs round thee play!
+And should dark mists about thee e'er arise,
+May sunbeams cheer the ev'ning of thy day!
+
+For me, the shades of night are drawing near.
+Nor do I shun to muse upon that hour,
+But trust to meet the gloom, devoid of fear,
+Securely resting on Immortal Power.
+
+Yet, when my fading days grow chill and drear,
+And I am warn'd my spirit to resign,
+Still would I fain delay, could I still hear
+The tones of friendship breath'd from lips like thine.

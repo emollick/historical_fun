@@ -1,0 +1,344 @@
+{{short description|Part of the Viking invasions of England}}
+{{for|the Old English poem|Battle of Brunanburh (poem)}}
+{{good article}}
+{{Use British English|date=December 2014}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox military conflict
+| conflict    = Battle of Brunanburh
+| image       = Athelstan.jpg
+| caption     = ''A portrait of Æthelstan presenting a book to Saint Cuthbert''
+| part_of     = the [[Viking activity in the British Isles|Viking invasions of England]]
+| date        = Autumn 937
+| location    = Bromborough, Wirral Peninsula
+| coordinates = 
+| result      = Decisive English victory
+| combatant1  = [[Kingdom of England]]
+| combatant2  = [[Kingdom of Dublin]]<br>[[Kingdom of Alba]]<br>[[Kingdom of Strathclyde]]
+| commander1  = [[Æthelstan]]
+| commander2  = [[Olaf III Guthfrithson|Olaf Guthfrithson]]<br> [[Constantine II of Scotland|Constantine II]]<br>[[Owen I of Strathclyde|Owen I]]
+| strength1   = 
+| strength2   = 
+| casualties1 = 
+| casualties2 = 
+}}
+{{Campaignbox Anglo-Saxon invasions}}
+{{Campaignbox Viking invasions of England|state=collapsed}}
+
+The '''Battle of Brunanburh''' was fought in 937 between [[Æthelstan]], King of [[Kingdom of England|England]], and an alliance of [[Olaf Guthfrithson]], King of [[Kingdom of Dublin|Dublin]]; [[Constantine II of Scotland|Constantine II]], King of [[Scotland]]; and [[Owain ap Dyfnwal (fl. 934)|Owain]], King of [[Kingdom of Strathclyde|Strathclyde]]. The battle is sometimes cited as the point of origin for [[English national identity]]: historians such as [[Michael Livingston]] argue that "the men who fought and died on that field forged a political map of the future that remains, arguably making the Battle of Brunanburh one of the most significant battles in the long history not just of England, but of the whole of the British Isles."{{sfn|Livingston|2011|p=1}}
+
+Following an unchallenged [[Æthelstan's invasion of Scotland|invasion of Scotland by Æthelstan]] in 934, possibly launched because Constantine had violated a peace treaty, it became apparent that Æthelstan could be defeated only by an alliance of his enemies. Olaf led Constantine and Owen in the alliance. In August 937 Olaf and his army sailed from Dublin<ref name="Anonymous 2011. pp.152-3">Anonymous. ”Annals of Clonmacnoise". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 152–153</ref> to join forces with Constantine and Owen, but they were routed in the battle against Æthelstan. The poem "[[Battle of Brunanburh (poem)|Battle of Brunanburh]]" in the ''[[Anglo-Saxon Chronicle]]'' recounts that there were "never yet as many people killed before this with sword's edge&nbsp;... since the east Angles and Saxons came up over the broad sea".
+
+Æthelstan's victory preserved the unity of England. The historian [[Æthelweard (historian)|Æthelweard]] wrote around 975 that "[t]he fields of Britain were consolidated into one, there was peace everywhere, and abundance of all things". [[Alfred P. Smyth|Alfred Smyth]] has called the battle "the greatest single battle in Anglo-Saxon history before [[Battle of Hastings|Hastings]]". The site of the battle was debated, but is generally agreed to have been fought at [[Bromborough]] on the [[Metropolitan Borough of Wirral|Wirral]] in the UK.
+
+==Background==
+
+After Æthelstan defeated the [[Vikings]] at [[York]] in 927, King [[Constantine II of Scotland|Constantine]] of Scotland, King [[Hywel Dda]] of [[Deheubarth]], [[Ealdred I of Bamburgh]], and [[Owen I of Strathclyde|King Owen I of Strathclyde]] (or Morgan ap Owain of Gwent) accepted Æthelstan's overlordship at [[Eamont Bridge|Eamont]], near [[Penrith, Cumbria|Penrith]].{{sfn|Higham|1993|p=190}}{{sfn|Foot|2011|p=20}}{{efn|According to William of Malmesbury it was Owen of Strathclyde who was present at Eamont but the Anglo-Saxon Chronicle says Owain of Gwent; it may have been both.{{sfnm|1a1=Foot|1y=2011|1p=162|1loc=n. 15|2a1=Woolf|2y=2007|2p=151|3a1=Charles-Edwards|3y=2013|3pp=511–512}}}} Æthelstan became [[List of English monarchs|King of England]] and there was peace until 934.{{sfn|Foot|2011|p=20}}
+
+[[Æthelstan's invasion of Scotland|Æthelstan invaded Scotland]] with a large military and naval force in 934. Although the reason for this invasion is uncertain, [[John of Worcester]] stated that the cause was Constantine's violation of the peace treaty made in 927.{{sfnm|1a1=Foot|1y=2011|1pp=164-165|2a1=Woolf|2y=2007|2pp=158–165}} Æthelstan evidently travelled through [[Beverley]], [[Ripon]], and [[Chester-le-Street]]. The army harassed the Scots up to [[Kincardineshire]] and the navy up to [[Caithness]], but Æthelstan's force was never engaged.{{sfn|Stenton|2001|p=342}}
+
+Following the invasion of Scotland, it became apparent that Æthelstan could only be defeated by an allied force of his enemies.{{sfn|Stenton|2001|p=342}} The leader of the alliance was [[Olaf Guthfrithson]], King of Dublin, joined by Constantine II, King of Scotland and [[Owain ap Dyfnwal (fl. 934)|Owen]], King of Strathclyde.{{sfn|Foot|2011|p=170}} (According to [[John of Worcester]], Constantine was Olaf's father-in-law.){{sfn|Cavill|2001|p=103}} Though they had all been enemies in living memory, historian Michael Livingston points out that "they had agreed to set aside whatever political, cultural, historical, and even religious differences they might have had in order to achieve one common purpose: to destroy Æthelstan".{{sfn|Livingston|2011|p=11}}
+
+In August 937, Olaf sailed from Dublin<ref name="Anonymous 2011. pp.152-3"/> with his army to join forces with Constantine and Owen and in Livingston's opinion this suggests that the battle of Brunanburh occurred in early October of that year.{{sfn|Livingston|2011|p=14}} According to Paul Cavill, the invading armies raided [[Mercia]], from which Æthelstan obtained Saxon troops as he travelled north to meet them.{{sfn|Cavill|2001|p=101}} Michael Wood wrote that no source mentions any intrusion into Mercia.{{sfn|Wood|2013|pp=138–159}}
+
+Livingston thinks that the invading armies entered England in two waves, Constantine and Owen coming from the north, possibly engaging in some skirmishes with Æthelstan's forces as they followed the Roman road across the [[Lancashire]] plains between [[Carlisle, Cumbria|Carlisle]] and [[Manchester]], with Olaf's forces joining them on the way. Deakin argues against a western passage for the coalition army by demonstrating that on the few occasions Scottish armies had crossed into England, they had used the [[Stainmore]] Pass or [[Dere Street]] and were engaged in battle to the east of the Pennines.<ref>{{Cite web|url=http://www.eylhs.org.uk/product/390/volume-21-2020 |title = Brunnanburh 'The Burh at the Spring: The Battle of South Humberside}}</ref> Livingston speculates that the battle site at Brunanburh was chosen in agreement with Æthelstan, on which "there would be one fight, and to the victor went England".{{sfn|Livingston|2011|pp=15–18}}
+
+==Battle==
+After travelling north through Mercia, Æthelstan's army met the invading forces at Brunanburh.{{sfnm|1a1=Cavill|1y=2001|1pp=101–102|2a1=Stenton|2y=2001|2p=343}} In a battle that lasted all day, the English finally forced them to break up and flee.{{sfn|Cavill|2001|p=102}}{{sfn|Stenton|2001|p=343}} There was probably a prolonged period of hard fighting before the invaders were finally defeated.{{sfn|Wood|2013|pp=138–159}}{{sfn|Stenton|2001|p=343}} According to the poem, the English "clove the shield-wall, hacked the war-lime, with hammers's leavings". "There lay many a soldier of the men of the north, shot over shield, taken by spears, likewise Scottish also, sated, weary of war".{{sfn|Swanton|2000|pp=106-08}} Wood states that all large battles were described in this manner, so the description in the poem is not unique to Brunanburh.{{sfn|Wood|2013|pp=138–159}}
+
+Æthelstan and his army pursued the invaders until the end of the day, slaying great numbers of enemy troops.{{sfnm|1a1=Stenton|1y=2001|1p=343|2a1=Cavill|2y=2001|2p=102}} Olaf fled and sailed back to Dublin with the remnants of his army and Constantine escaped to Scotland; Owain's fate is not mentioned.{{sfnm|1a1=Stenton|1y=2001|1p=343|2a1=Cavill|2y=2001|2p=102}} According to the poem: "Then the Northmen, bloody survivors of darts, disgraced in spirit, departed on Ding's Mere, in nailed boats over deep water, to seek out Dublin, and their [own] land again." Never has there been greater slaughter "since the Angles and Saxons came here from the east...seized the country".{{sfn|Swanton|2000|pp=109-10}}
+
+The ''[[Annals of Ulster]]'' describe the battle as "great, lamentable and horrible" and record that "several thousands of Norsemen&nbsp;... fell".<ref name=ulster>{{cite book|title=The Annals of Ulster|date=2000|publisher=CELT: Corpus of Electronic Texts|page=386|url=https://www.ucc.ie/celt/published/T100001A/index.html|access-date=19 November 2015}}</ref> Among the casualties were five kings and seven earls from Olaf's army.{{sfn|Stenton|2001|p=343}} The poem records that Constantine lost several friends and family members in the battle, including his son.{{sfn|Foot|2011|pp=170-171}} The largest list of those killed in the battle is contained in the ''[[Annals of Clonmacnoise]]'', which names several kings and princes.{{sfn|Livingston|2011|pp=20–23}} A large number of English also died in the battle,{{sfn|Stenton|2001|p=343}} including two of Æthelstan's cousins, Ælfwine and Æthelwine.{{sfn|Foot|2011|p=183}}
+
+==Medieval sources==
+The battle of Brunanburh is mentioned or alluded to in over forty Anglo-Saxon, Irish, Welsh, Scottish, Norman and Norse medieval texts.
+
+One of the earliest and most informative sources is the Old English poem "[[Battle of Brunanburh (poem)|Battle of Brunanburh]]" in the [[Anglo-Saxon Chronicle]] (version A),{{sfn|Foot|2011|p=170}} which was written within two decades of the battle. The poem relates that Æthelstan and Edmund's army of West Saxons and Mercians fought at Brunanburh against the Vikings under Anlaf (i.e. Olaf Guthfrithson) and the Scots under Constantine. After a fierce battle lasting all day, five young kings, seven of Anlaf's earls, and countless others were killed in the greatest slaughter since the Anglo-Saxon invasions. Anlaf and a small band of men escaped by ship over ''[[Dingesmere]]'' (or Ding's Mere) to Dublin. Constantine's son was killed, and Constantine fled home.<ref>Anonymous. "Anglo-Saxon Chronicle (Version A)”. In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 40–43.</ref>
+
+Another very early source,<ref>Thompson Smith, Scott. "The Latin Tradition". in ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. p. 283</ref> the Irish ''[[Annals of Ulster]]'', calls the battle "a huge war, lamentable and horrible".<ref>Anonymous. "Annals of Ulster". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 144–145</ref> It notes Anlaf's return to Dublin with a few men the following year, associated with an event in the spring.{{sfn|Wood|2013|pp=138–159}}
+
+In its only entry for 937, the mid/late 10th-century Welsh chronicle ''[[Annales Cambriae]]'' laconically states "war at Brune".<ref>Anonymous. ”Annales Cambriae". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 48–49</ref>
+
+[[Æthelweard (historian)|Æthelweard]]'s ''Chronicon'' (ca. 980) says that the battle at "Brunandune" was still known as "the great war" to that day, and no enemy fleet had attacked the country since.<ref>Æthelweard. ”Chronicon". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 48–49</ref>
+
+[[Eadmer of Canterbury]]'s ''Vita Odonis'' (very late 11th century) is one of at least six medieval sources to recount [[Oda of Canterbury]]'s involvement in a miraculous restitution of Æthelstan's sword at the height of the battle.<ref>Eadmer of Canterbury. ”Vita Odonis". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 50–53</ref>
+
+[[William Ketel]]'s ''De Miraculis Sancti Joannis Beverlacensis'' (early 12th century) relates how, in 937, Æthelstan left his army on his way north to fight the Scots at Brunanburh, and went to visit the tomb of [[John of Beverley|Bishop John]] at [[Beverley]] to ask for his prayers in the forthcoming battle. In thanksgiving for his victory, Æthelstan gave certain privileges and rights to the church at Beverley.<ref>{{Cite web | url=https://beverleyminster.org.uk/visit-us-2/a-brief-history/ | title=A brief history}}</ref>
+
+According to [[Symeon of Durham]]'s ''[[Libellus de exordio]]'' (1104–15):
+:::…in the year 937 of the Lord´s Nativity, at Wendune which is called by another name Et Brunnanwerc or Brunnanbyrig, he [Æthelstan] fought against Anlaf, son of former king Guthfrith, who came with 615 ships and had with him the help of the Scots and the Cumbrians.<ref name="Durham 2011. pp.54-5">Symeon of Durham. ”Libellus de Exordio". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 54–55</ref>
+
+[[John of Worcester]]'s ''Chronicon ex chronicis'' (early 12th century) was an influential source for later authors and compilers.<ref>Thompson Smith, Scott. ”The Latin Tradition". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. p. 277</ref>
+It corresponds closely to the description of the battle in the Anglo-Saxon Chronicle, but adds that:
+:::Anlaf, the pagan king of the Irish and many other islands, incited by his father-in-law Constantine, king of the Scots, entered the mouth of the River Humber with a strong fleet.<ref name="Worcester 2011. pp.56">John of Worcester. ”Chronicon". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 56–57</ref>
+
+Another influential work, ''Gesta regum Anglorum'' by [[William of Malmesbury]] (1127) adds the detail that Æthelstan "purposely held back", letting Anlaf advance "far into England".<ref>William of Malmesbury. ”Gesta Regum Anglorum". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 56–61</ref> [[Michael Wood (historian)|Michael Wood]] argues that, in a twelfth-century context, "far into England" could mean anywhere in southern [[Kingdom of Northumbria|Northumbria]] or the [[North Midlands]].{{sfn|Wood|2013|pp=138–159}} William of Malmesbury further states that Æthelstan raised 100,000 soldiers. He is at variance with Symeon of Durham in calling Anlaf "son of [[Sitric Cáech|Sihtric]]” and asserting that Constantine himself had been slain.<ref>William of Malmesbury. "Gesta Regum Anglorum". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 56–61</ref>
+
+[[Henry of Huntingdon]]'s ''Historia Anglorum'' (1133) adds the detail that Danes living in England had joined Anlaf's army.<ref>Henry of Huntingdon. "Historia Anglorum". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 60–65</ref> Michael Wood argues that this, together with a similar remark in the [[Annals of Clonmacnoise]], suggests that Anlaf and his allies had established themselves in a centre of Anglo-Scandinavian power prior to the battle.{{sfn|Wood|2013|pp=138–159}}
+
+The mid-12th century text ''[[Estoire des Engleis]]'', by the Anglo-Norman chronicler [[Geoffrey Gaimar]], says that Æthelstan defeated the Scots, men of [[Cumberland]], Welsh and [[Picts]] at "Bruneswerce".<ref>Gaimar, Geoffrey. "Estoire des Engleis". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 64–5</ref>
+
+The ''[[Chronica de Mailros]]'' (1173–4) repeats Symeon of Durham's information that Anlaf arrived with 615 ships, but adds that he entered the mouth of the river [[Humber]].<ref>Anonymous. "Chronica de Mailros". in ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 66–7</ref>
+
+''[[Egil's Saga]]'' is an Icelandic saga written in [[Old Norse]] in 1220–40, which recounts a battle at ''Vínheiðr'' (Vin-heath) by ''Vínuskógr'' (Vin-wood) near ''Vínu''; it is generally accepted that this refers to the Battle of Brunanburh.{{sfn|Foot|2011|pp=179–180}} Egil's Saga contains information not found in other sources, such as military engagements prior to the battle, Æthelstan's use of Viking mercenaries, the topology of the battlefield, the position of Anlaf's and Æthelstan's headquarters, and the tactics and unfolding of events during the battle.<ref>Anonymous. "Egils Saga". in ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 69–81</ref> Historians such as [[Sarah Foot]] argue that Egil's Saga may contain elements of truth but is not an historically reliable narrative.{{sfn|Foot|2011|pp=179–180}}
+
+[[Pseudo-Ingulf]]'s ''Ingulfi Croylandensis Historia'' (ca. 1400) recounts that:
+{{blockquote|the Danes of Northumbria and Norfolk entered into a confederacy [against Æthelstan], which was joined by Constantine, king of the Scots, and many others; on which [Æthelstan] levied an army and led it into Northumbria. On his way, he was met by many pilgrims returning homeward from Beverley… [Æthelstan] offered his poniard upon the holy altar [at Beverley], and made a promise that, if the lord would grant him victory over his enemies, he would redeem the said poniard at a suitable price, which he accordingly did…. In the battle which was fought on this occasion there fell Constantine, king of Scots, and five other kings, twelve earls, and an infinite number of the lower classes, on the side of the barbarians.|source={{harvnb|Ingulf|1908|p=58}} }}
+
+The ''[[Annals of Clonmacnoise]]'' (an early medieval Irish chronicle of unknown date that survives only in an English translation from 1627{{sfn|Foot|2011|p=165}}) states that:
+:::Awley [i.e. Anlaf], with all the Danes of Dublin and north part of Ireland, departed and went overseas. The Danes that departed from Dublin arrived in England, & by the help of the Danes of that kingdom, they gave battle to the Saxons on the plaines of othlyn, where there was a great slaughter of Normans and Danes.<ref name="Anonymous 2011. pp.152-3"/>
+The ''Annals of Clonmacnoise'' records 34,800 Viking and Scottish casualties, including Ceallagh the prince of Scotland (Constantine's son) and nine other named men.<ref name="Anonymous 2011. pp.152-3"/>
+
+==Aftermath==
+Æthelstan's victory prevented the dissolution of England, and Foot writes that "[e]xaggerating the importance of this victory is difficult".{{sfn|Foot|2011|p=171}} Livingston writes that the battle was "the moment when Englishness came of age" and "one of the most significant battles in the long history not just of England but of the whole of the British isles".<ref>Livingston, Michael. "The Roads to Brunanburh", in Livingston 2011, p. 1</ref> The battle was called "the greatest single battle in Anglo-Saxon history before the [[Battle of Hastings|Hastings]]" by [[Alfred P. Smyth|Alfred Smyth]], who nonetheless says its consequences beyond Æthelstan's reign have been overstated.{{sfnm|1a1=Smyth|1y=1975|1p=62|2a1=Smyth|2y=1984|2p=204}}
+
+[[Alex Woolf]] describes it as a [[pyrrhic victory]] for Æthelstan: the campaign against the northern alliance ended in a stalemate, his ''imperium'' appears to have declined, and after he died in 939 Olaf acceded to the [[Kingdom of Northumbria]] without resistance.{{sfn|Woolf|2013|p= 256}} In 954 the Northumbrians finally submitted to southern kingship and expelled [[Eric Bloodaxe]].{{sfn|Higham|1993|p=211}}
+
+==Location==
+
+[[File:In the Rough - geograph.org.uk - 46233.jpg|thumb|right|The Brackenwood golf course at [[Bebington]], [[Metropolitan Borough of Wirral|Wirral]]]]
+
+The location of the battlefield is unknown{{sfn|Stenton|2001|p=343}} and has been the subject of lively debate among historians since at least the 17th century.<ref>Parker, Joanne. ”The Victorian Imagination". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 400–401</ref> Over forty locations have been proposed, from the southwest of England to Scotland,{{sfn|Foot|2011|pp=172–173}}<ref>Hill, Paul. ''The Age of Athelstan: Britain´s Forgotten History''. Tempus. 2004. pp. 141–142</ref> although most historians agree that a location in [[Northern England]] is the most plausible.{{sfn|Foot|2011|pp=174–175}}{{sfn|Wood|2013|pp=138–159.}} 
+
+Wirral Archaeology, a local volunteer group, have searched for the site of the battle near [[Bromborough]] on the [[Wirral Peninsula|Wirral]].<ref name=nac>{{cite web|url=https://liverpooluniversitypress.blog/2019/10/22/the-search-for-the-battle-of-brunanburh-is-over/|title=The search for the Battle of Brunanburh, is over.|author=Wirral Archaeology Press Release|publisher=Liverpool University Press blog|date=22 October 2019}}</ref> They found a field with a heavy concentration of artifacts which may be a result of metal working in a tenth-century army camp.<ref>{{cite web|url=https://www.medievalists.net/2019/10/battle-brunanburh-battlefield-discovered/|first=Michael|last=Livingston|title=Has the Battle of Brunanburh battlefield been discovered?|publisher=medievalists.net|year=2019}}</ref> The location of the field is being kept secret to protect it from [[Nighthawking|nighthawks]]. As of 2020, they are seeking funds to pursue their research further.<ref>{{cite web|url=http://www.wirralarchaeology.org/pages/project/battle-of-brunanburh-937ad/|title=The Search for the Battle of Brunanburh.|author=Wirral Archaeology|year=2019}}</ref> The military historian Michael Livingston argues in his 2021 book ''Never Greater Slaughter'' that Wirral Archaeology's case for Bromborough is conclusive, but this claim is criticised in a review of the book by Thomas Williams. He accepts that Bromborough is the only surviving place name which originates in Old English ''Brunanburh'', but says that there could have been others. He comments that evidence of military metal working is unsurprising in an area of Viking activity: it is not evidence for a battle, let alone any particular battle.<ref>{{cite journal|first=Thomas |last=Williams|title=Review of 'Never Greater Slaughter: Brunanburh and the Birth of England'|page=58|date=September–October 2021|journal=British Archaeology|issn=1357-4442}}</ref> In an article in ''[[Notes and Queries]]'' in 2022, Michael Deakin questions the philological case for [[Bromborough]] as ''Brunanburh'', suggesting that the first element in the name is 'brown' and not 'Bruna'. Bromborough would therefore be 'the brown [stone-built] manor or fort'. The corollary of this argument being the early names of Bromborough cannot be derived from Old English ''Brunanburh''.<ref name=Deakin>{{Cite web|url=https://academic.oup.com/nq/advance-article-abstract/doi/10.1093/notesj/gjac020/6534123|title = Bromborough, Brunanburh, and Dingesmere}}</ref> [[Michael Wood (historian)|Michael Wood]], in an article in ''[[Notes and Queries]]'' in 2017, discusses the alternative spelling ''Brunnanburh'' 'the burh at the spring or stream', found in several Anglo-Saxon Chronicle manuscripts.<ref>{{Cite web|url=https://academic.oup.com/nq/article-abstract/64/3/365/4035784?redirectedFrom=fulltext|title = The Spelling of Brunanburh}}</ref>
+
+The medieval texts employ a plethora of alternative names for the site of the battle, which historians have attempted to link to known places.<ref>Hill, Paul. ''The Age of Athelstan: Britain´s Forgotten History''. Tempus. 2004. pp. 139–153</ref>{{sfn|Foot|2011|pp=172–179}}<ref>Cavill, Paul. ”The Place-Name Debate". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 327–349</ref> The earliest relevant document is the “''Battle of Brunanburh''” poem in the [[Anglo-Saxon Chronicle]] (version A), written within two decades of the battle, which names the battlefield location as “''ymbe Brunanburh''” (around Brunanburh).<ref>Anonymous. "Anglo-Saxon Chronicle (Version A)”. In ''The Battle of Brunanburh. A Casebook. '' Ed. Michael Livingston. University of Exeter Press. 2011. pp. 40–43</ref> Many other medieval sources contain variations on the name Brunanburh, such as ''Brune'',<ref>Anonymous. ”Annales Cambriae". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 48–49</ref><ref>Anonymous. ”Brenhinedd y Saesson". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 90–91</ref> ''Brunandune'',<ref>Æthelweard. ”Chronicon". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 48–49</ref> ''Et Brunnanwerc'',<ref name="Durham 2011. pp.54-5"/> ''Bruneford'',<ref>William of Malmesbury. ”Gesta Regum Anglorum". In ''The Battle of Brunanburh. A Casebook.'' Ed. Michael Livingston. University of Exeter Press. 2011. pp. 56–61</ref> ''Cad Dybrunawc''<ref>Gwynfardd Brycheiniog. ”Canu y Dewi". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 66–67</ref> ''Duinbrunde''<ref>Anonymous. ”Scottish Chronicle". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 132–133</ref> and ''Brounnyngfelde''.<ref>Walter Bower. ”Scotichronicon". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 138–139</ref>
+
+It is thought that the recurring element ''Brun-'' could be a personal name, a river name, or the Old English or Old Norse word for a spring or stream.<ref name="Cavill, Paul 2011. pp.331-5">Cavill, Paul. ”The Place-Name Debate". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 331–335</ref>{{sfn|Wood|2013|pp=138–159}} Less mystery surrounds the suffixes ''–burh/–werc, -dun, -ford'' and ''–feld, ''which are the Old English words for a fortification, low hill, ford, and open land respectively.<ref name="Cavill, Paul 2011. pp.331-5"/> The spring or stream interpretation is supported by the consistency of all attested name variants — including ''Brunan-'', ''Brunnan-'', ''Brune-'', ''Brun'',''Brunde- and Brounn'' — with regular grammatical case forms of the [[Proto-Germanic]] word for a spring or well (''brunnō'' and ''brunnaz''), whose descendants include [[Old Norse]] ''brunnr'', [[Old English]] ''brunn'', and the living [[Northern England English|Northern English]] and [[Scots language|Scots]] word ''burn'' meaning a stream.{{sfn|Cleasby|Vigfusson|1874|p=83}}{{sfn|Kroonen|2013|p=80}}
+
+[[File:The Beck - Barton-upon-Humber.jpg|thumb|Ancient artesian spring at [[Barton-upon-Humber]]]]
+
+Not all the place-names contain the ''Brun-'' element, however. [[Symeon of Durham]] (early 12th C) gives the alternative name ''Weondune'' (or ''Wendune'') for the battle site,<ref name="Durham 2011. pp.54-5"/><ref name="Durham 2011. pp.64-5">Symeon of Durham. ”Historia Regum". In ''The Battle of Brunanburh. A Casebook.'' Ed. Michael Livingston. University of Exeter Press. 2011. pp. 64–65</ref> while the [[Annals of Clonmacnoise]] say the battle took place on the “''plaines of othlyn''”<ref>Anonymous. ”Annals of Clonmacnoise". In ''The Battle of Brunanburh. A Casebook. '' Ed. Michael Livingston. University of Exeter Press. 2011. pp. 152–153</ref> Egil's Saga names the locations ''Vínheiðr'' and ''Vínuskóga'' near ''Vínu''.<ref name="Anonymous 2011. pp.70-1">Anonymous. ”Egil´s Saga". In ''The Battle of Brunanburh. A Casebook.'' Ed. Michael Livingston. University of Exeter Press. 2011. pp. 70–71</ref>
+
+Few medieval texts refer to a known place, although the [[Humber]] estuary is mentioned by several sources. [[John of Worcester]]'s ''Chronicon'' (early 12th C),<ref name="Worcester 2011. pp.56"/> [[Symeon of Durham]]'s ''Historia Regum'' (mid-12th C),<ref name="Durham 2011. pp.64-5"/> the ''Chronicle of Melrose'' (late 12th C)<ref>Anonymous. ”Chronica de Mailros". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 66–67</ref> and [[Robert Mannyng]] of Brunne's ''Chronicle'' (1338)<ref name="Brune 2011. pp.126-33">Robert Mannyng of Brune. ”Chronicle". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 126–133</ref> all state that Olaf's fleet entered the mouth of the Humber, while [[Robert of Gloucester (historian)|Robert of Gloucester]]'s ''Metrical Chronicle'' (late 13th C)<ref>Robert of Gloucester. ”Metrical Chronicle". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 84–89</ref> says the invading army arrived "south of the Humber". [[Peter of Langtoft]]'s ''Chronique'' (ca. 1300)<ref>Peter of Langtoft. ”Chronique". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 90–97</ref> states the armies met at “''Bruneburgh on the Humber''”, while Robert Mannyng of Brunne's ''Chronicle'' (1338)<ref name="Brune 2011. pp.126-33"/> claims the battle was fought at “''Brunesburgh on Humber''”. [[Pseudo-Ingulf]] (ca. 1400)<ref>Pseudo-Ingulf. ”Ingulfi Croylandensis Historia". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 134–139</ref> says that as Æthelstan led his army into Northumbria (i.e. north of the Humber) he met on his way many pilgrims coming home from [[Beverley]]. [[Hector Boece]]'s ''Historia'' (1527)<ref>Hector Boece. ”Historiae". In ''The Battle of Brunanburh. A Casebook''. Ed. Michael Livingston. University of Exeter Press. 2011. pp. 146–153</ref> claims that the battle was fought by the [[River Ouse, Yorkshire|River Ouse]], which flows into the Humber estuary.  
+
+Few other geographical hints are contained in the medieval sources. The poem in the ''Anglo-Saxon Chronicle'' says that the invaders fled over deep water on ''Dingesmere'', perhaps meaning an area of the Irish Sea or an unidentified lake or river.{{sfn|Swanton|2000|p=109 n. 8}} Deakin noted that the term ''ding'' had been used in the Old English [[Andreas (poem)]] where it is suggested to have been used metaphorically for a grave and/or Hell. His analysis of the context of lines 53–56 of the ''Brunanburh'' poem suggest to him that ''dingesmere'' is a poetic and figurative term for the sea.<ref name=Deakin/>
+
+[[Egil's Saga]] contains more detailed topographical information than any of the other medieval texts, although its usefulness as historical evidence is disputed.{{sfn|Foot|2011|pp=179–180}} According to this account, Olaf's army occupied an unnamed fortified town north of a heath, with large inhabited areas nearby. Æthelstan's camp was pitched to the south of Olaf, between a river on one side and a forest on raised ground on the other, to the north of another unnamed town at several hours' ride from Olaf's camp.<ref name="Anonymous 2011. pp.70-1"/>
+
+Many sites have been suggested, including:
+* [[Bromborough]] on the Wirral{{efn|According to [[Michael Livingston]], the case for a location in the [[Metropolitan Borough of Wirral|Wirral]] has wide support among many scholars.{{sfn|Livingston|2011|p=19}} Charters from the 1200s suggest that [[Bromborough]] (a town on the Wirral Peninsula<ref name=dingesmere>{{cite journal|last1=Cavill|first1=Paul|last2=Harding|first2=Stephen|last3=Jesch|first3=Judith|title=Revisiting ''Dingesmere''|journal=Journal of the English Place Name Society|date=October 2004|volume=36|pages=25–36}}</ref>) was originally named ''Brunanburh''{{sfn|Foot|2011|p=178}} (which could mean "Bruna's fort").{{sfn|Cavill|2001|p=105}} In his essay "The Place-Name Debate", Paul Cavill listed the steps by which this transition may have occurred.<ref>Cavill, Paul. "The Place-Name Debate", in {{harvnb|Livingston|2011|p=328}}</ref> Evidence suggests that there were Scandinavian settlements in the area starting in the late 800s, and the town is also situated near the [[River Mersey]], which according to [[Sarah Foot]] was a commonly used route by Vikings sailing from Ireland.{{sfn|Foot|2011|p=178}} N.J. Higham suggests the Mersey was never a medieval shipping lane of any consequence. He doubts the Viking fleet used the river because of the extensive mosslands which would have hampered disembarkation. ("The Context of Brunanburh" in Rumble, A.R.; A.D. Mills (1997). Names, Places, People. An Onomastic Miscellany in Memory of John McNeal Dodgson. Stamford: Paul Watkins. p153). Additionally, the ''Chronicle'' states that the invaders escaped at ''[[Dingesmere]]'', and ''Dingesmere'' could be interpreted as "mere of the Thing". The word ''Thing'' (or þing, in [[Old Norse]]) might be a reference to the Viking [[Thing (assembly)|Thing]] (or assembly) at [[Thingwall]] on the Wirral. In Old English, ''mere'' refers to a body of water, although the specific type of body varies depending on the context. In some cases, it refers to a [[wetland]], and a large wetland is present in the area. Therefore, in their article "Revisiting ''Dingesmere''", Cavill, Harding, and Jesch propose that ''Dingesmere'' is a reference to a marshland or wetland near the Viking Thing at Thingwall on the Wirral Peninsula.<ref name=dingesmere/> Deakin questions the onomastic process by which ''Dingesmere'' is supposed to have been created and also argues that such a wetland on the tenth-century Wirral coast of the Dee was unlikely.<ref name=Deakin/> Since the ''Anglo-Saxon Chronicle'' describes the battle as taking place "ymbe Brunanburh" ("around Brunanburh"), numerous locations near Bromborough have been proposed, including the [[Brackenwood Golf Course]] in [[Bebington, Wirral]] (formerly within the Bromborough [[parish]]).<ref>[https://news.bbc.co.uk/2/hi/uk_news/england/merseyside/4112301.stm Birthplace of Englishness 'found'.] [[BBC News Online]] (URL accessed 27 August 2006).</ref> A site in the Wirral has suggested as a possible landing site for the Norse and Scots.<ref>Capener, David, ''Brunanburh and the Routes to Dingesmere'', 2014. Countyvise Ltd{{ISBN?}}{{page?|date=April 2023}}</ref> This is a feature called [[Wallasey Pool]]. This is in the north of the Wirral near the River Mersey. The pool is linked to the river by a creek which, before it was developed into modern docks, stretched inland some two miles, was, at high tide over {{Convert|20|ft||0}} deep and was surrounded by a moss or mere which is now known as Bidston Moss. In addition to this landing site an unconfirmed Roman Road is suggested to have led from the area of Bidston to Chester. Following the route of this road would take an invading force through the area the battle is believed to have been fought. Landscape survey<ref>Capener, David, 2014</ref> has identified a likely position for Bruna's burh. This survey places the burh at Brimstage approximately {{Convert|11|mi|}} from Chester.}}
+* [[Barnsdale]], [[South Yorkshire]]{{efn|The civil parish of [[Burghwallis]] was recorded as "Burg" in the [[Domesday Book]], likely because of a Roman fort situated near the place where the Great North Road ([[Ermine Street]]) is met by the road from [[Templeborough]]. The site is overlooked by a hill called "Barnsdale Bar", past which flows the [[River Went]]. [[Michael Wood (historian)|Michael Wood]] has suggested this site, noting the similarity between Went and Symeon of Durham's ''Wendun''.{{sfn|Wood|2013|pp=138–159}} }}
+* [[Brinsworth]], South Yorkshire{{efn|Michael Wood suggests Tinsley Wood, near [[Brinsworth]], as a possible site of the battle. He notes that there is a hill nearby, White Hill, and observes that the surrounding landscape is strikingly similar to the description of the battlefield contained in ''Egil's Saga''. There is an ancient Roman temple on White Hill, and Wood states that the name Symeon of Durham used for the place of the battle, ''Weondun'', means "the hill where there had been a pagan Roman sanctuary or temple". According to Wood, Frank Stenton believed that this piece of evidence could help in finding the location of the battle. There is also a Roman fort nearby, and ''burh'' means "fortified place" in Old English; Wood suggests that this fort may have been ''Brunanburh''.{{sfn|Wood|2001|pp=206–214}}}}
+* [[Leighton Bromswold|Bromswold]]{{efn|According to Alfred Smyth, the original form of the name Bromswold, ''Bruneswald'', could fit with ''Brunanburh'' and other variants of the name.{{sfn|Smyth|1975|pp=51–52}}}}
+* [[Burnley]]{{efn|In 1856, [[Burnley Grammar School]] master and [[antiquary]] [[Thomas T. Wilkinson]] published a paper suggesting that the battle occurred on the [[moorland|moors]] above Burnley, noting that the town stands on the [[River Brun]].{{sfn|Wilkinson|1857|pp=21–41}} His work was subsequently referenced and expanded by a number of local authors.{{sfn|Partington|1909|pp=28–43}} Notably Thomas Newbigging argued the battle took place six miles from Burnley, namely in [[Broadclough]], [[Rossendale Valley|Rossendale]], associating the battle with an area known as Broadclough Dykes.{{sfn|Newbigging|1893|pp=9–21}} Broadclough is also said to be the site where a Danish chieftain was killed in a battle between the Danes and Saxons. His grave is said to be at a farm near Stubbylee.<ref>{{cite web | url=https://link4life.org/images/pdfs/local-history-books/history-of-rochdale-fishwick/chapter-xx-miscellany-pages529-540.pdf | title=History of the Parish of Rochdale | publisher=The Rochdale Press | access-date=22 September 2019 | archive-date=17 September 2021 | archive-url=https://web.archive.org/web/20210917135747/https://link4life.org/images/pdfs/local-history-books/history-of-rochdale-fishwick/chapter-xx-miscellany-pages529-540.pdf | url-status=dead }}</ref>
+|name=|group=}}
+* Burnswark, situated near [[Lockerbie]] in southern Scotland{{efn|<ref>{{cite web|url=https://www.battlefieldstrust.com/resource-centre/viking/battleview.asp?BattleFieldId=59|title=Battle of Brunanburh|publisher=UK Battlefields Trust|access-date=7 June 2012}}</ref> Burnswark is a hill {{convert|280|m|ft}} tall, and is the site of two Roman military camps and many fortifications from the [[Iron Age]]. It was initially suggested as the site of the battle by George Neilson in 1899 and was the leading theory in the early 1900s, having obtained support from historians such as [[Charles Oman]]. Kevin Halloran argues that the different forms used by various authors when naming the battle site associate it with a hill and fortifications, since ''[[burh]]'' (used by the Anglo-Saxon Chronicle poem) means "a fortified place", and ''dune'' (used by [[Æthelweard (historian)|Æthelweard]] and Symeon of Durham, in names such as ''Brunandune'' and ''We(o)ndune'') means "a hill". He also states that the name "Burnswark" could be related to ''Bruneswerce'', another alternative name for the battle site used by Symeon of Durham and [[Geoffrey Gaimar]].{{sfn|Halloran|2005|pp=133–148}} }}
+* [[Lanchester, County Durham]]{{efn| [[Andrew Breeze]] has argued for Lanchester, since the Roman fort of [[Longovicium]] overlooks the point where the road known as [[Dere Street]] crossed the [[River Browney]].<ref name=Lanchester>{{Cite web|url = https://www.sal.org.uk/events/2014/12/brunanburh-in-937-bromborough-or-lanchester/|title = Brunanburh in 937: Bromborough or Lanchester?|date = 2014-12-04|access-date = 2015-04-04|last = Breeze|first = Andrew|series = Society of Antiquaries of London: Ordinary Meeting of Fellows}}</ref><ref name= Lanchester2>{{cite book|last = Breeze|first = Andrew|title=Brunanburh Located: The Battlefield and the Poem in Aspects of Medieval English Language and Literature (ed. Michiko Ogura and Hans Sauer)|date=2018|publisher=Peter Lang: Berlin|pages=61–80|url=https://www.peterlang.com/view/title/65791|access-date=27 April 2019}}</ref>}}
+* [[Hunwick]] in County Durham{{efn|Hunwick in County Durham is suggested by Stefan Bjornsson and Bjorn Verhardsson in their book Brunanburh: Located Through Egil's Saga.<ref>Björnsson, 2020</ref>}}
+* [[Londesborough]] and [[Nunburnholme]], East Riding of Yorkshire<ref>{{cite journal|title=The Nunburnholme Cross and the Battle of Brunanburh|first=Sally|last=England|url=https://www.cba-yorkshire.org.uk/forum-plus/|journal=The Archaeological Forum Journal|publisher= Council for British Archaeology|volume=2| year= 2020|pages=24–57}}</ref>
+* [[Heysham]], Lancashire<ref>{{cite web|url=http://www.heyshamheritage.org.uk/CeNtreWoRdS_2012_Article3_Brunanburh.pdf|title=Brun and Brunanburh: Burnley and Heysham|publisher=North West Regional Studies|access-date=3 July 2020|archive-date=4 July 2020|archive-url=https://web.archive.org/web/20200704131656/http://www.heyshamheritage.org.uk/CeNtreWoRdS_2012_Article3_Brunanburh.pdf|url-status=dead}}</ref>
+* [[Barton-upon-Humber]] in North Lincolnshire{{efn|Deakin suggested Barton-upon-Humber in North Lincolnshire, but he has since retracted it in favour of Bourn in Cambridgeshire.{{harvnb|Deakin|2020|pp=27–44}} }}
+*[[Little Weighton]], East Riding of Yorkshire.<ref>{{Cite book|title=Bulmer's History and Directory of East Yorkshire (1892).}}</ref>
+* [[Bourn]] in [[South Cambridgeshire]]{{efn|Michael Deakin  suggests the battle may have been fought much further south than had been previously thought, close to the [[Bourn Brook, Cambridgeshire]]. The stream is suggested to be the origin of the first element in the name of Brun(n)anburh. The suggestion is that the Bourn Brook Valley was the 'theatre of war', and that the battle may have taken place on the open fields of [[Haslingfield]], [[Harlton]] and [[Little Eversden]].<ref>{{cite journal|url=https://www.battlefieldstrust.com/page251.asp |title=Brunnanburh and Brunanburh, Two Names, One Place and a Battle in a Cambridgeshire Valley |first=Michael |last=Deakin |journal=Battalia|publisher=The Battlefields Trust |year=2025 |volume=III |pages=49–70 }}</ref> }}
+
+==References==
+===Notes===
+{{notelist}}
+
+===Citations===
+{{reflist}}
+
+===Sources===
+{{refbegin}}
+* {{cite book
+  | last = Björnsson
+  | first = Stefán
+  | title = Brunanburh – Located through Egils´saga
+  | url = https://www.academia.edu/44414461
+  | publisher = Hugfari
+  | edition = 3rd
+  | year = 2020
+  | ref = none
+  }}
+* {{cite book|last1=Cavill|first1=Paul|title=Vikings: Fear and Faith in Anglo-Saxon England|url=https://www.nottingham.ac.uk/-sczsteve/Cavill_2001.pdf|date=2001|publisher=HarperCollins Publishers}}
+* {{cite book|first=T. M.|last=Charles-Edwards|title=Wales and the Britons 350–1064|publisher=Oxford University Press|year=2013|isbn=978-0-19-821731-2}}
+* {{cite book|last1=Clarkson|first1=Tim|title=The Makers of Scotland: Picts, Romans, Gaels and Vikings|year=2012|publisher=Birlinn Limited|isbn=978-1-907909-01-6}}
+* {{cite journal |url=https://academic.oup.com/nq/advance-article-abstract/doi/10.1093/notesj/gjac020/6534123 |title=Bromborough, Brunanburh and Dingesmere |first=Michael |last=Deakin |journal=Notes and Queries |date=2022 |volume=69 |issue=2 |pages=65–71 |doi=10.1093/notesj/gjac020 |url-access=subscription }}
+*{{cite journal|url=https://www.academia.edu/43763747|title=Brunnanburh - The burh at the Spring: The Battle of South Humberside|first=Michael|last=Deakin|journal=The East Yorkshire Historian Journal|volume=21|date=2020|pages=27–44|issn=1469-980X}}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{cite book|last1=Downham|first1=Clare|title=Viking Kings of Britain and Ireland: The Dynasty of Ivarr to AD 1014|publisher=Dunedin Academic Press|year=2007|isbn=978-1906716066}}
+* {{cite book|last=Foot|first=Sarah |title=Æthelstan: The First King of England|date=2011|publisher=Yale University Press|isbn=978-0-300-12535-1|author-link=Sarah Foot}}
+*{{Cite journal |title=The Brunanburh Campaign: A Reappraisal |date=October 2005 |access-date=2015-04-06 |journal=The Scottish Historical Review |publisher=Edinburgh University Press |last=Halloran |first=Kevin |volume=84 |issue=218 |jstor=25529849 |pages=133–148 |doi=10.3366/shr.2005.84.2.133 |url=http://www.english.uga.edu/~jdmevans/Personal/Kevin%20Halloran%20-%20The%20Brunanburh%20Campaign%20A%20Reappraisal.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160304192433/http://www.english.uga.edu/~jdmevans/Personal/Kevin%20Halloran%20-%20The%20Brunanburh%20Campaign%20A%20Reappraisal.pdf |archive-date=4 March 2016 }}
+* {{cite book|last=Higham |first = N. J.| year=1993 |title=The Kingdom of Northumbria: AD 350–1100| publisher= Alan Sutton|isbn=978-0-86299-730-4}}
+* {{cite book|last1=Hill|first1=Paul|title=The Age of Athelstan: Britain's Forgotten History|date=2004|publisher=Tempus Publishing}}
+*{{Cite book| author=Ingulf| author-link=Ingulf| url=https://archive.org/details/ingulphschronic03petegoog| title=Ingulph's chronicle of the abbey of Croyland with the continuations by Peter of Blois and anonymous writers| location=London| publisher=H. G. Bohn| year=1908| translator=Henry T. Riley}}
+* {{cite book|editor-last=Livingston |editor-first=Michael |author-link=Michael Livingston |title=The Battle of Brunanburh: A Casebook |publisher=[[University of Exeter Press]] |date=2011 |isbn=978-0-85989-863-8}}
+*{{cite book|last= Livingston|first=Michael |authorlink= |title=Never Greater Slaughter: Brunanburh and the Birth of England |publisher=Osprey Publishing |location = Oxford, UK|year=2021|isbn=9781472849373}}
+* {{cite book|last1=Newbigging|first1=Thomas|title=History of the Forest of Rossendale|url=https://archive.org/stream/historyofforesto00newb#page/8|date=1893|publisher=Rossendale Free Press|edition=2nd}}
+* {{cite book|last1=Partington|first1=S. W.|title=The Danes in Lancashire and Yorkshire|url=https://archive.org/stream/danesinlancashir00partrich#page/28|date=1909|publisher=Sherratt & Hughes}}
+* {{cite book|last1=Smyth|first1=Alfred|title=Scandinavian York and Dublin|date=1975|publisher=Templekieran Press|location=Dublin}}
+* {{cite book |last1=Smyth |first1=Alfred P. |title=Warlords and Holy Men: Scotland, AD 80–1000 |date=1984 |publisher=E. Arnold |isbn=978-0-7131-6305-6 |url=https://books.google.com/books?id=PAvsvgEACAAJ |language=en }}
+* {{cite book|last1=Stenton|first1=Frank M.|title=Anglo-Saxon England|date=2001|publisher=Oxford University Press|isbn=978-0-19-280139-5|edition=3rd}}
+*{{cite book|editor-first=Michael|editor-last=Swanton|editor-link=Michael Swanton |title=The Anglo-Saxon Chronicles |publisher= Phoenix|location =London|year=2000|orig-date=1st edition 1996|edition=revised paperback|isbn=978-1-84212-003-3}}
+* {{cite book|last1=Wilkinson|first1=Thomas T.|title=Transactions of the Historic Society of Lancashire and Cheshire, Volume 9|url=https://books.google.com/books?id=18ExAQAAIAAJ&pg=PA21|date=1857|publisher=Society}}
+* {{cite book|first1=Michael|last1=Wood|title=In Search of England: Journeys into the English Past|year=2001|publisher=University of California Press|isbn=978-0-520-23218-1|author-link=Michael Wood (historian)}}
+*{{cite journal|last1=Wood|first1=Michael|title=Searching for Brunanburh: The Yorkshire Context of the 'Great War' of 937|journal=Yorkshire Archaeological Journal|volume=85|issue=1|year=2013|pages=138–159|issn=0084-4276|doi=10.1179/0084427613Z.00000000021|s2cid=129167209}}
+* {{cite book|author-link=Alex Woolf|last=Woolf|first= Alex |year=2007|title=From Pictland to Alba: 789–1070 |publisher=Edinburgh University Press|isbn=978-0-7486-1233-8}}
+* {{cite book|editor-first=Pauline|editor-last=Stafford|title=A Companion to the Early Middle Ages: Britain and Ireland c. 500-c. 1100|first=Alex|last=Woolf|chapter=Scotland|publisher=Wiley-Blackwell|location=Chichester, West Sussex|year=2013|isbn=978-1-118-42513-8}}
+{{refend}}
+
+{{cite book
+| last = Cleasby
+| first = Richard
+| last2 = Vigfusson
+| first2 = Gudbrand
+| year = 1874
+| title = An Icelandic-English Dictionary
+| publisher = Clarendon Press
+| location = Oxford
+| url = https://archive.org/details/icelandicenglish00cleauoft
+}}
+
+{{cite book
+| last = Kroonen
+| first = Guus
+| year = 2013
+| title = Etymological Dictionary of Proto-Germanic
+| series = Leiden Indo-European Etymological Dictionary Series
+| volume = 11
+| publisher = Brill
+| location = Leiden
+| isbn = 978-90-04-18340-7
+}}
+
+===Further reading===
+{{refbegin}}
+* {{cite journal
+  | last = Breeze
+  | first = Andrew
+  | title = The Battle of Brunanburh and Welsh tradition
+  | journal = [[Neophilologus]]
+  | volume = 83
+  | issue =3
+  | pages = 479–482
+  | year = 1999
+  | doi =10.1023/A:1004398614393| s2cid = 151098839
+  | ref=none
+ }}
+* {{cite journal
+  |last = Breeze
+  |first = Andrew
+  |title=The Battle of Brunanburh and Cambridge, CCC, MS183
+  |pages=138–145
+  |journal=Northern History
+  |volume=LIII
+  |number=1
+  |date=March 2016
+  |doi=10.1080/0078172x.2016.1127631| s2cid = 163455344
+  |ref=none
+ }}
+* {{cite web
+  | last = Campbell
+  | first = Alistair
+  | title = Skaldic Verse and Anglo-Saxon History
+  | work = Dorothea Coke Memorial Lecture
+  | publisher = Viking Society for Northern Research
+  | date = 1970-03-17
+  | url = http://vsnrweb-publications.org.uk/Skaldic%20verse%20and%20anglo-saxon%20history.pdf
+  | access-date = 2009-08-25
+  | ref=none
+}}
+*{{cite journal| last=Downham |first=Clare |journal= Transactions of the Historic Society of Lancashire and Cheshire|title=A Wirral Location for the Battle of Brunanburh|volume=170 |number= |year=2021 |pages=15–32 |doi=10.3828/transactions.170.5 |s2cid=239206076 |issn= }}
+* [[Sarah Foot|Foot, Sarah]], "Where English becomes British: Rethinking Contexts for ''Brunanburh''", in {{cite book
+  | last = Barrow
+  | first = Julia
+  | author2=Andrew Wareham
+  | title = Myth, Rulership, Church and Charters: Essays in Honour of Nicholas Brooks
+  | publisher = Ashgate
+  | year = 2008
+  | location = Aldershot
+  | pages = 127–144
+  | author2-link = Andrew Wareham
+  | ref=none
+ }}
+* {{cite journal
+  | last = Halloran
+  | first = Kevin
+  | title = The Brunanburh Campaign: A Reappraisal
+  | journal = Scottish Historical Review
+  | volume = 84
+  | issue = 2
+  | pages = 133–148
+  | year = 2005
+  | doi =10.3366/shr.2005.84.2.133| jstor = 25529849
+  | ref=none
+  }}
+* Higham, Nicholas J., "The Context of Brunanburh" in {{cite book
+  | last = Rumble | first = A.R.
+  | author2=A.D. Mills
+  | title = Names, Places, People. An Onomastic Miscellany in Memory of John McNeal Dodgson
+  | publisher = Paul Watkins
+  | year = 1997
+  | location = Stamford
+  | pages = 144–156
+  | ref=none
+  }}
+* {{cite journal
+  | last = Niles
+  | first = J.D.
+  | title = Skaldic Technique in ''Brunanburh''
+  | journal = Scandinavian Studies
+  | volume = 59
+  | issue = 3
+  | pages = 356–366
+  | year = 1987
+  | jstor = 40918870
+  | ref=none
+  }}
+* {{cite journal
+  | last = Orton
+  | first = Peter
+  | title = On the Transmission and Phonology of ''The Battle of Brunanburh''
+  | journal = Leeds Studies in English
+  | volume = 24
+  | pages = 1–28
+  | url = https://digital.library.leeds.ac.uk/319/1/LSE_1994_pp1-27_Orton_article.pdf
+  | year = 1994
+  | ref=none
+  }}
+* {{cite journal
+  | last = Wood
+  | first = Michael
+  | title = Brunanburh Revisited
+  | journal = Saga Book of the Viking Society for Northern Research
+  | volume = 20
+  | issue = 3
+  | pages = 200–217
+  | year = 1980
+  | ref=none
+  }}
+* {{cite book
+  | last = Wood
+  | first = Michael
+  | title = In Search of England
+  | chapter-url = https://archive.org/details/insearchofenglan00wood
+  | chapter-url-access = registration
+  | chapter = Tinsley Wood
+  | year = 1999
+  | location = London
+  | pages = [https://archive.org/details/insearchofenglan00wood/page/203 203–221]
+  | isbn = 9780520225824
+  | ref=none
+  }}
+{{refend}}
+
+{{commons}}
+==External links==
+{{Portal|Cheshire}}
+* [https://archive.org/details/BattleOfBrunanburgh Short documentary produced by C Bebenezer about aural traditions and the possible Burnley location of the battle]
+
+{{Scandinavian England}}
+{{Scandinavian Scotland}}
+{{Viking}}
+
+{{coord unknown|United Kingdom}}
+
+{{DEFAULTSORT:Brunanburh 937}}
+[[Category:930s conflicts]]
+[[Category:937]]
+[[Category:10th century in England]]
+[[Category:10th century in Scotland]]
+[[Category:Battles involving the Kingdom of Scotland]]
+[[Category:Battles involving the Anglo-Saxons]]
+[[Category:Battles involving the Vikings]]
+[[Category:Scandinavian Scotland]]
+[[Category:Battles involving Norway]]

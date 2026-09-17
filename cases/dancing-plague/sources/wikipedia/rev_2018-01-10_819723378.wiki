@@ -1,0 +1,42 @@
+[[File:Die Wallfahrt der Fallsuechtigen nach Meulebeeck.jpg|thumb|250px|Engraving of [[Hendrik Hondius]] portrays three women affected by the plague. Work based on original drawing by [[Pieter Bruegel the Elder|Pieter Brueghel]], who supposedly witnessed a subsequent outbreak in 1564 in [[Flanders]]]]
+The '''Dancing Plague''' (or '''Dance Epidemic''') '''of 1518''' was a case of [[dancing mania]] that occurred in [[Strasbourg]], [[Alsace]], (then part of the [[Holy Roman Empire]]) in July 1518. Around 400 people took to dancing for days without rest and, over the period of about one month, some of those affected collapsed or even died of [[heart attack]], [[stroke]], or [[Fatigue (medical)|exhaustion]].
+
+== Events ==
+
+The outbreak began in July 1518 when a woman, Mrs. Troffea, began to dance fervently in a street in Strasbourg.<ref name="Discovery Viegas">{{cite web |title='Dancing Plague' and Other Odd Afflictions Explained |last=Viegas |first=Jennifer |date=1 August 2008 |work=Discovery News |publisher=[[Discovery Communications]] |url=http://dsc.discovery.com/news/2008/08/01/dancing-death-mystery.html |accessdate=6 May 2013 |archiveurl=https://web.archive.org/web/20121013075434/http://dsc.discovery.com/news/2008/08/01/dancing-death-mystery.html |archivedate=13 October 2012 |deadurl=yes}}</ref> This lasted somewhere between four and six days. Within a week, 34 others had joined, and within a month, there were around 400 dancers, predominantly female. Some of these people would die from heart attacks, strokes, or exhaustion.<ref name="Discovery Viegas" />  One report indicates that for a period, the plague killed around fifteen people per day.<ref name = lancet>{{cite journal |author= Waller J |title=A forgot"ten plague: making sense of dancing mania |journal=Lancet |volume=373 |issue=9664 |pages=624–5 |date=February 2009 |pmid=19238695 |doi=10.1016/S0140-6736(09)60386-X |url= http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%2960386-X/fulltext}}</ref>
+
+Historical documents, including "physician notes, cathedral sermons, local and regional chronicles" and even notes issued by the Strasbourg city council are clear that the victims danced.<ref name="Discovery Viegas" /> It is not known why these people danced, some even to their deaths. 
+
+As the dancing plague worsened, concerned nobles sought the advice of local physicians, who ruled out [[astrological]] and [[supernatural]] causes, instead announcing that the plague was a "natural disease" caused by "hot blood". However, instead of prescribing [[Bloodletting|bleeding]], authorities encouraged more dancing, in part by opening two guildhalls and a grain market, and even constructing a wooden stage. The authorities did this because they believed that the dancers would recover only if they danced continuously night and day. To increase the effectiveness of the cure, authorities even paid for musicians to keep the afflicted moving.<ref name=end>{{cite journal |last=Waller |first=John C. |title=In a spin: the mysterious dancing epidemic of 1518 |journal= Endeavour |volume=32 |issue=3 |date=September 2008 |pages=117–121 |publisher=[[Elsevier]] |doi=10.1016/j.endeavour.2008.05.001 |issn=0160-9327 |pmid=18602695}}</ref>
+
+Historian John Waller stated that a marathon runner could not have lasted the intense workout that these men and women did hundreds of years ago.<ref>digitaljournal.com/article/258521</ref>
+
+==Theories==
+
+Modern theories include food-poisoning caused by the toxic and psychoactive chemical products of [[ergot|ergot fungi]], which grows commonly on grains in the wheat family (such as rye). [[Ergotamine]] is the main psychoactive product of ergot fungi; it is structurally related to the recreational drug [[lysergic acid diethylamide]] (LSD-25), and is the substance from which LSD-25 was originally synthesized. The same fungus has also been implicated in other major historical anomalies, including the [[Salem witch trials]]. Waller speculates that the dancing was "stress-induced psychosis" on a mass level, since the region where the people danced was riddled with starvation and disease, and the inhabitants tended to be superstitious. Seven other cases of dancing plague were reported in the same region during the medieval era. <ref>{{cite web|url=http://www.digitaljournal.com/article/258521|title=Mystery explained? 'Dancing Plague' of 1518, the bizarre dance that killed dozens|date=13 August 2008|publisher=|accessdate=3 July 2017}}</ref>
+
+==See also==
+*[[Dancing mania]]
+*[[Sydenham's chorea]]
+*[[Tanganyika laughter epidemic]]
+*[[Tarantism]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book |last=Backman |first=Eugene Louis |title=Religious Dances in the Christian Church and in Popular Medicine |year=1977 |origyear=1952 |location=Westport, CT |publisher=[[Greenwood Press]] |isbn=978-0-8371-9678-7}}
+*{{cite book |last=Waller |first=John |year=2008 |title=A Time to Dance, A Time to Die: The Extraordinary Story of the Dancing Plague of 1518 |location=Thriplow |publisher=Icon Books |isbn=978-1-84831-021-6}}
+*{{cite book |last=Waller |first=John |year=2009 |title=The Dancing Plague: The Strange, True Story of an Extraordinary Illness |location=Naperville, IL |publisher=Sourcebooks, Inc. |isbn=978-1-4022-1943-6}}
+
+==External links==
+*[http://news.bbc.co.uk/today/hi/today/newsid_7608000/7608874.stm "Dancing death"] by John Waller. BBC News. 12 September 2008.
+*[http://historicmysteries.com/the-dancing-plague-of-1518 "The Dancing Plague of 1518"] by Doug MacGowan. Historic Mysteries. 28 June 2011.
+
+[[Category:1518 in Europe]]
+[[Category:Ailments of unknown cause]]
+[[Category:Dance and health|Plague]]
+[[Category:History of Strasbourg]]
+[[Category:Mass hysteria]]
+[[Category:16th-century health disasters]]
+[[Category:1510s in France|1518]]

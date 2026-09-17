@@ -1,0 +1,83 @@
+== Test 1: the Bixby letter (paper's design; 50 random sequences; sample = 1.00 x smaller pool)
+type  n_types  Lincoln  Hay   margin(L-H)  winner
+word1     86   0.8953  0.9733  -0.0779     Hay
+word2    128   0.4766  0.6573  -0.1808     Hay
+word3    128   0.1406  0.2152  -0.0745     Hay
+word4    123   0.0163  0.0506  -0.0343     Hay
+word5    118   0.0085  0.0076  +0.0008     Lincoln
+char1     27   1.0000  1.0000  +0.0000     tie
+char2    207   1.0000  1.0000  +0.0000     tie
+char3    461   1.0000  1.0000  +0.0000     tie
+char4    582   0.9845  0.9979  -0.0134     Hay
+char5    642   0.9502  0.9885  -0.0384     Hay
+char6    677   0.8700  0.9535  -0.0835     Hay
+char7    695   0.7626  0.8730  -0.1104     Hay
+char8    702   0.6439  0.7564  -0.1125     Hay
+char9    703   0.5036  0.6298  -0.1262     Hay
+char10   700   0.3771  0.5049  -0.1278     Hay
+char11   695   0.2734  0.3837  -0.1104     Hay
+char12   690   0.1899  0.2753  -0.0854     Hay
+char13   685   0.1197  0.1980  -0.0783     Hay
+char14   680   0.0824  0.1448  -0.0624     Hay
+char15   675   0.0519  0.1047  -0.0529     Hay
+char16   670   0.0343  0.0782  -0.0439     Hay
+char17   665   0.0241  0.0568  -0.0328     Hay
+char18   660   0.0152  0.0402  -0.0251     Hay
+char19   655   0.0061  0.0280  -0.0219     Hay
+char20   650   0.0031  0.0183  -0.0153     Hay
+  char4-10: Lincoln 0, Hay 7, tie 0
+  word1-3: Lincoln 0, Hay 3, tie 0
+  all17: Lincoln 0, Hay 16, tie 1
+
+== Test 3: register-matched pieces (paper's design), majority of char 4-10
+  lincoln pieces: 63; majority char 4-10 wrong: 27, ties: 0; majority of all 17 wrong: 11
+    per-type accuracy: word1 0.37, word2 0.71, word3 0.89, word4 0.78, word5 0.49, char1 0.00, char2 0.16, char3 0.40, char4 0.19, char5 0.14, char6 0.30, char7 0.49, char8 0.70, char9 0.83, char10 0.86, char11 0.87, char12 0.84, char13 0.87, char14 0.87, char15 0.89, char16 0.87, char17 0.86, char18 0.83, char19 0.81, char20 0.86
+    wrong by char 4-10: basler-IV-0294 L3/H4; basler-VII-0654#0 L1/H6; basler-VII-0654#2 L2/H5; basler-VII-0765 L0/H7; basler-VIII-0334 L0/H7; L6-0134 L2/H5; L6-0135#3 L1/H6; L6-0135#5 L2/H5; L6-0204#0 L3/H4; L6-0204#1 L3/H4; L6-0204#3 L0/H7; L6-0204#4 L3/H4; L6-0232#0 L1/H6; L6-0232#1 L3/H4; L6-0294#0 L2/H5; L6-0476 L2/H5; L6-0481 L2/H5; L7-0012 L0/H7; L7-0276#0 L3/H4; L7-0276#2 L3/H4; sp_gettysburg#0 L1/H6; sp_gettysburg#1 L2/H5; sp_second_inaugural#3 L1/H6; sp_second_inaugural#4 L0/H7; sp_ellsworth#0 L0/H7; sp_ellsworth#1 L1/H6; sp_gurney#0 L3/H4
+  hay pieces: 57; majority char 4-10 wrong: 2, ties: 0; majority of all 17 wrong: 3
+    per-type accuracy: word1 0.95, word2 0.95, word3 0.81, word4 0.56, word5 0.46, char1 0.05, char2 0.47, char3 0.91, char4 0.93, char5 0.95, char6 0.96, char7 0.96, char8 0.98, char9 0.95, char10 0.95, char11 0.91, char12 0.86, char13 0.81, char14 0.74, char15 0.68, char16 0.68, char17 0.65, char18 0.63, char19 0.61, char20 0.61
+    wrong by char 4-10: hay_baker_06 L5/H2; hay_baker_07 L6/H1
+
+== Special texts (paper's design), majority of char 4-10 and all 17
+  special:bixby                (None, 138 w): char4-10 L 0 H 7; all17 L 0 H 16
+  special:gettysburg           (lincoln, 272 w): char4-10 L 3 H 4; all17 L 11 H 5
+  special:second_inaugural     (lincoln, 701 w): char4-10 L 5 H 2; all17 L 14 H 3
+  special:mccullough           (lincoln, 192 w): char4-10 L 4 H 3; all17 L 13 H 4
+  special:ellsworth            (lincoln, 266 w): char4-10 L 0 H 7; all17 L 3 H 14
+  special:gurney               (lincoln, 269 w): char4-10 L 6 H 1; all17 L 16 H 1
+  special:boker_1863           (hay_for_lincoln, 135 w): char4-10 L 0 H 7; all17 L 0 H 17
+  special:hay_condolence_1864  (hay, 55 w): char4-10 L 0 H 7; all17 L 0 H 16
+  special:garrison_1865        (hay_for_lincoln, 118 w): char4-10 L 0 H 7; all17 L 0 H 17
+  special:driggs_1865          (hay_for_lincoln, 51 w): char4-10 L 3 H 4; all17 L 3 H 13
+  special:charles_butler_1864  (hay_for_lincoln, 50 w): char4-10 L 5 H 2; all17 L 9 H 7
+
+== Test 2: leave-one-out attribution of every pool text (paper's design)
+type   Hay: rec  pre  F1 | Lincoln: rec  pre  F1 | acc  (ties counted wrong)
+word1       0.98 0.96 0.97 |         0.92 0.97 0.95 | 0.96
+word2       0.98 0.99 0.98 |         0.97 0.97 0.97 | 0.98
+word3       0.94 0.99 0.97 |         0.97 0.91 0.94 | 0.95
+word4       0.87 0.97 0.92 |         0.92 0.83 0.87 | 0.89
+word5       0.77 0.95 0.85 |         0.75 0.79 0.77 | 0.76
+char1       0.09 0.99 0.17 |         0.06 0.76 0.10 | 0.08
+char2       0.50 0.96 0.66 |         0.73 0.73 0.73 | 0.58
+char3       0.94 0.97 0.95 |         0.91 0.96 0.94 | 0.93
+char4       0.99 0.96 0.98 |         0.93 0.99 0.96 | 0.97
+char5       1.00 0.96 0.98 |         0.93 0.99 0.96 | 0.97
+char6       1.00 0.97 0.98 |         0.94 1.00 0.97 | 0.98
+char7       0.99 0.98 0.99 |         0.97 0.99 0.98 | 0.98
+char8       0.99 0.99 0.99 |         0.97 0.99 0.98 | 0.99
+char9       0.98 0.99 0.99 |         0.98 0.97 0.97 | 0.98
+char10      0.97 0.99 0.98 |         0.99 0.94 0.97 | 0.97
+char11      0.96 0.99 0.98 |         0.99 0.93 0.96 | 0.97
+char12      0.95 0.99 0.97 |         0.99 0.91 0.95 | 0.96
+char13      0.93 0.99 0.96 |         0.99 0.89 0.94 | 0.95
+char14      0.92 0.99 0.95 |         0.98 0.88 0.93 | 0.94
+char15      0.90 0.99 0.94 |         0.98 0.85 0.91 | 0.93
+char16      0.89 0.99 0.94 |         0.98 0.84 0.90 | 0.92
+char17      0.88 0.98 0.93 |         0.97 0.83 0.90 | 0.91
+char18      0.87 0.98 0.92 |         0.95 0.82 0.88 | 0.90
+char19      0.84 0.97 0.90 |         0.92 0.79 0.85 | 0.87
+char20      0.82 0.97 0.89 |         0.90 0.78 0.84 | 0.85
+  majority char vote: Lincoln texts 505, wrong 13; Hay texts 892, wrong 4
+    wrong: basler-I-0002 (lincoln_pre1860, L1/H6); basler-I-0063 (lincoln_pre1860, L2/H5); basler-I-0136 (lincoln_pre1860, L3/H4); basler-I-0208 (lincoln_pre1860, L0/H7); basler-I-0211 (lincoln_pre1860, L2/H5); basler-I-0296 (lincoln_pre1860, L3/H4); basler-I-0306 (lincoln_pre1860, L2/H5); basler-I-0307 (lincoln_pre1860, L0/H7); basler-I-0374 (lincoln_pre1860, L2/H5); L2-0064 (lincoln_pre1860, L2/H5); L2-0104 (lincoln_pre1860, L1/H6); L5-0011 (lincoln_pre1860, L3/H4); L5-0018 (lincoln_pre1860, L0/H7); hay-0313 (hay_all, L5/H2); hay-0608 (hay_all, L5/H2); hay-0870 (hay_all, L5/H1); hay-0879 (hay_all, L4/H3)
+  majority word vote: Lincoln texts 505, wrong 9; Hay texts 892, wrong 16
+    wrong: basler-I-0002 (lincoln_pre1860, L1/H2); basler-I-0136 (lincoln_pre1860, L1/H2); basler-I-0167 (lincoln_pre1860, L1/H2); basler-I-0190 (lincoln_pre1860, L1/H2); basler-I-0199 (lincoln_pre1860, L1/H2); basler-I-0208 (lincoln_pre1860, L1/H2); basler-I-0306 (lincoln_pre1860, L0/H3); basler-I-0307 (lincoln_pre1860, L0/H2); L5-0018 (lincoln_pre1860, L0/H3); hay-0073 (hay_all, L2/H1); hay-0080 (hay_all, L2/H1); hay-0099 (hay_all, L2/H1); hay-0110 (hay_all, L2/H1); hay-0140 (hay_all, L3/H0); hay-0272 (hay_all, L2/H1); hay-0313 (hay_all, L2/H1); hay-0538 (hay_all, L2/H1); hay-0542 (hay_all, L2/H1); hay-0564 (hay_all, L2/H1); hay-0653 (hay_all, L2/H1); hay-0805 (hay_all, L2/H1); hay-0830 (hay_all, L2/H1); hay-0870 (hay_all, L2/H1); hay-0879 (hay_all, L2/H1); hay-0885 (hay_all, L2/H1)

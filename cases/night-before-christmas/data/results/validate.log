@@ -1,0 +1,40 @@
+loaded: moore 46 poems, livingston 66, controls 2756
+--- validation reference=both, samples=132
+mfw100|delta     acc=0.705 n=132  {'Clement Clarke Moore|anapestic': 0.25, 'Clement Clarke Moore|other': 0.62, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 0.95}
+mfw100|cosine    acc=0.773 n=132  {'Clement Clarke Moore|anapestic': 0.5, 'Clement Clarke Moore|other': 0.7, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 1.0}
+mfw200|delta     acc=0.515 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.34, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw200|cosine    acc=0.795 n=132  {'Clement Clarke Moore|anapestic': 0.25, 'Clement Clarke Moore|other': 0.74, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw300|delta     acc=0.439 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.23, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw300|cosine    acc=0.864 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.85, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char3|delta      acc=0.886 n=132  {'Clement Clarke Moore|anapestic': 0.5, 'Clement Clarke Moore|other': 0.9, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 0.86}
+char3|cosine     acc=0.826 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.79, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char4|delta      acc=0.788 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.74, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char4|cosine     acc=0.811 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.77, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+phone|delta      acc=0.682 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.64, 'Henry Livingston Jr.|anapestic': 0.62, 'Henry Livingston Jr.|other': 0.86}
+phone|cosine     acc=0.652 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.53, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 0.9}
+--- validation reference=both_neutral, samples=132
+mfw100|delta     acc=0.674 n=132  {'Clement Clarke Moore|anapestic': 0.25, 'Clement Clarke Moore|other': 0.56, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw100|cosine    acc=0.750 n=132  {'Clement Clarke Moore|anapestic': 0.5, 'Clement Clarke Moore|other': 0.68, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 0.95}
+mfw200|delta     acc=0.530 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.36, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw200|cosine    acc=0.803 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.76, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw300|delta     acc=0.462 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.26, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw300|cosine    acc=0.841 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.81, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char3|delta      acc=0.894 n=132  {'Clement Clarke Moore|anapestic': 0.5, 'Clement Clarke Moore|other': 0.9, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 0.9}
+char3|cosine     acc=0.848 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.82, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char4|delta      acc=0.795 n=132  {'Clement Clarke Moore|anapestic': 0.25, 'Clement Clarke Moore|other': 0.74, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char4|cosine     acc=0.841 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.81, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+phone|delta      acc=0.697 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.66, 'Henry Livingston Jr.|anapestic': 0.62, 'Henry Livingston Jr.|other': 0.86}
+phone|cosine     acc=0.652 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.53, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 0.9}
+--- validation reference=anapestic, samples=132
+mfw100|delta     acc=0.288 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.02, 'Henry Livingston Jr.|anapestic': 0.94, 'Henry Livingston Jr.|other': 1.0}
+mfw100|cosine    acc=0.636 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.63, 'Henry Livingston Jr.|anapestic': 0.62, 'Henry Livingston Jr.|other': 0.62}
+mfw200|delta     acc=0.288 n=132  {'Clement Clarke Moore|anapestic': 0.0, 'Clement Clarke Moore|other': 0.01, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw200|cosine    acc=0.735 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.78, 'Henry Livingston Jr.|anapestic': 0.62, 'Henry Livingston Jr.|other': 0.57}
+mfw300|delta     acc=0.303 n=132  {'Clement Clarke Moore|anapestic': 0.5, 'Clement Clarke Moore|other': 0.01, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+mfw300|cosine    acc=0.742 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.77, 'Henry Livingston Jr.|anapestic': 0.62, 'Henry Livingston Jr.|other': 0.67}
+char3|delta      acc=0.288 n=132  {'Clement Clarke Moore|anapestic': 0.25, 'Clement Clarke Moore|other': 0.0, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char3|cosine     acc=0.727 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.74, 'Henry Livingston Jr.|anapestic': 0.62, 'Henry Livingston Jr.|other': 0.71}
+char4|delta      acc=0.295 n=132  {'Clement Clarke Moore|anapestic': 0.25, 'Clement Clarke Moore|other': 0.01, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+char4|cosine     acc=0.780 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.81, 'Henry Livingston Jr.|anapestic': 0.69, 'Henry Livingston Jr.|other': 0.67}
+phone|delta      acc=0.364 n=132  {'Clement Clarke Moore|anapestic': 0.5, 'Clement Clarke Moore|other': 0.1, 'Henry Livingston Jr.|anapestic': 1.0, 'Henry Livingston Jr.|other': 1.0}
+phone|cosine     acc=0.697 n=132  {'Clement Clarke Moore|anapestic': 1.0, 'Clement Clarke Moore|other': 0.67, 'Henry Livingston Jr.|anapestic': 0.75, 'Henry Livingston Jr.|other': 0.71}

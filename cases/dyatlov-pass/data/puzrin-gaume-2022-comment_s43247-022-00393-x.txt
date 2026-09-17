@@ -1,0 +1,265 @@
+COMMENT
+Post-publication careers: follow-up
+expeditions reveal avalanches at
+Dyatlov Pass
+Alexander M. Puzrin 1 ✉ & Johan Gaume 2,3
+Having shed new light on an old mystery — how nine Russian mountaineers
+perished in the Urals in 1959 — Alexander Puzrin and Johan Gaume got hooked.
+Three expeditions later it is clear that avalanches are not exceptional at
+Dyatlov Pass.
+Our 2021 study in Communications Earth & Environment 1 shows that a snow slab avalanche is a
+plausible explanation of the 1959 Dyatlov Pass incident. It was published on 28 January 2021 —
+exactly 62 years after a party of Russian mountaineers led by Igor Dyatlov set out on their skiing
+expedition from the abandoned North-2 mining settlement in Ural mountains, never to be seen
+again. The mystery had drawn much attention over the years; several investigations in Russia,
+stretching from 1959 to 2020, were not entirely conclusive.
+The media echo to our article motivated us to continue investigating, and brought us in
+contact with some incredible people: a brilliant Swiss documentary director, a leading snow
+scientist from the Moscow State University and two heroic mountain guides from the Urals. In
+the year since publication of our article, we helped them to organize three successful expeditions
+to the Dyatlov Pass. The direct evidence from the Dyatlov Pass area obtained in those expedi-
+tions conﬁrms that the region is avalanche prone and that slopes above the location where Igor
+Dyatlov and his group pitched their tent are steep enough for avalanches to release. Independent
+research by Russian snow and climate scientists supported assumptions and the main results of
+our slab avalanche modeling.
+The mystery
+The deaths of the mountaineers had variously been attributed to an infrasound-induced panic,
+animals, attacks by Yetis or local tribesmen, katabatic winds, a snow avalanche, a romantic
+dispute, KGB/CIA secret activities, ballistic rockets, or nuclear weapons tests. In our study 1,w e
+focused on the plausibility of a snow slab avalanche as the trigger. Using basic physics, we
+showed that in spite of a lower-than-usual apparent slope angle, scarcity of avalanche signs,
+uncertainties about the trigger, and unusual injuries of the victims, such an avalanche is indeed a
+possible explanation. One important ingredient of our proposed mechanism is the progressive
+wind-blown snow accumulation on the slope above the hikers ’ tent. Equally signi ﬁcantly, the
+topography of the slope is irregular, built of 4-to-6 m-high steps: although the average slope
+inclination (observed when the steps are covered by snow) is indeed too low for an avalanche to
+release, we assumed (based on the evidence available at that time), that a locally steeper slope
+above the tent had an inclination of at least 28 degrees. Such a high angle makes a slab avalanche
+possible, because a buried weak snow layer would follow this steep terrain.
+https://doi.org/10.1038/s43247-022-00393-x OPEN
+1 Institute for Geotechnical Engineering, ETH Zürich, Stefano-Franscini-Platz 5, Zürich, Switzerland. 2 School of Architecture, Civil and Environmental
+Engineering, EPFL, Route Cantonale, Lausanne, Switzerland. 3 WSL Institute for Snow and Avalanche Research SLF, Davos Dorf, Switzerland.
+✉email: alexander.puzrin@igt.baug.ethz.ch
+COMMUNICATIONS EARTH & ENVIRONMENT |            (2022) 3:63 | https://doi.org/10.1038/s43247-022-00393-x | www.nature.com/commsenv 1
+1234567890():,;
+Fig. 1 Infographics inspired by the Dyatlov Pass Incident and our paper in Communications Earth & Environment . The authors are depicted as comic
+heroes. Courtesy of PICTOLINE: www.pictoline.com.
+COMMENT COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-022-00393-x
+2 COMMUNICATIONS EARTH & ENVIRONMENT |            (2022) 3:63 | https://doi.org/10.1038/s43247-022-00393-x | www.nature.com/commsenv
+The media response
+The Nature press of ﬁce and video team put together a press
+release and video, and disseminated them to journalists just
+before publication of the paper. The media response was over-
+whelming. During the ﬁrst month, each of us was giving two to
+three interviews every day. This was not easy for our young
+families: because of pandemic restrictions, all the interviews took
+place in the home of ﬁce. At least our children were partially
+compensated, when Latin American graphic design company
+PICTOLINE was inspired by an article covering our work in the
+National Geographic2, and turned their fathers into comic heroes
+(Fig. 1).
+The media reporting outside Russia was in general very
+favorable. Within Russia it was mixed, however. Whereas the
+popular science publications were supportive 3, some tabloids
+were rather negative. Perhaps this is not surprising. Mysteries are
+more attractive while unsolved, or at least not solved with such a
+boring scienti ﬁc explanation. However, as so often, it was the
+negative responses that turned out to be the most useful ones.
+Follow-up work
+The main objections to our conclusion of a snow avalanche were:
+(i) there was no snow cover on the slope, (ii) there was no wind
+that night, (iii) there is no signi ﬁcant snow transfer by wind in
+that area, (iv) the slope is ﬂat (no steps), and (v) snow avalanches
+never happen in this area. This was worrying.
+Fortunately, we found the names of two prominent Russian
+scientists, who had helped the local prosecutor after the Dyatlov
+Group criminal case was reopened in 2019. Professor Victor
+Popovnin at the Moscow State University, a leading snow ava-
+lanche researcher in Russia, con ﬁrmed that the assumptions on
+the snow properties that we used in our models are consistent
+with his measurements during a winter expedition to Dyatlov
+Pass in 2019. The second scientist, Professor Galina Pigol ’tsina at
+the Voeikov Main Geophysical Observatory in St Petersburg,
+reports4 that during the night of the incident, 1st –2nd of Feb-
+ruary 1959, the snow cover above the tent exceeded 150 cm,
+consistent with our assumptions. Moreover, the snow transfer by
+wind during winter in this area can reach 600 –1000 m3/m, which
+would completely cover local topographic features such as the
+steps. Astonishingly, her best estimate of the wind velocity above
+the tent was 9 to 12 m/s, right in the range required to explain the
+observed delay in the slab avalanche release in our model.
+Into the mountains
+The question of irregular topography, however, remained open.
+Luckily, Radiotelevisione Svizzera (RSI) decided to produce a
+documentary “The Dyatlov Mystery ” focusing on our work. We
+helped them to organize two expeditions to Dyatlov Pass, one
+during the winter in March 2021 another at the end of summer in
+September 2021. Because of the snow cover, the winter expedition
+could not help us much with the terrain topography, but proved
+valuable later. The summer expedition, however, was equipped
+with a drone that allowed us to produce a high-resolution three-
+dimensional digital model of the terrain in the vicinity of the
+possible tent locations (Fig. 2). Clearly, the steps have inclinations
+exceeding 28 degrees, and many slopes are even steeper than 30
+degrees. What ’s more, these slopes are not just local, they are
+continuous: no matter where you pitch your tent you are likely to
+be below one of them.
+Finally, we had to investigate the objection that this area is not
+susceptible to avalanche hazard. In the Russian Federation Natural
+Hazards Handbook5 of 1997, the area of Dyatlov Pass is character-
+ized as the avalanche risk zone of Category II, deﬁned as at least one
+avalanche per kilometer every 10 years. January isﬂagged as the most
+dangerous month. However, the resolution of the hazard map was
+e x t r e m e l yl o w ,a l l o w i n gt h ec r i t i c st oc l a i mt h a tt h eC a t e g o r yI Ir i s k
+refers to western slopes of the mountain chain and not to the eastern
+ones, where the Dyatlov group’s tent was found.
+And here the story takes an almost mysterious turn. In October
+2021, we were contacted by a Russian mountain guide, Dmitriy
+Borisov, who had photographed on 29th of March 2021 a peculiar
+feature on the western slope of a nearby mountain (Fig. 3a, b),
+about 3 km away from the tent location. It looked like a local
+depression in the slope with probable avalanche traces. But we
+were concerned that it could also be a shadow from a cloud. Then
+30°
+A
+A’
+A-A’
+a
+b
+Fig. 2 Local topography. a Digital Elevation Model (DEM) showing the local slope angle. The DEM was obtained based on a drone photogrammetry analysis
+(summer 2021 survey) and has a resolution of 9 cm.b A–A′ section showing that although the average slope angle is around 20°, locally steeper steps have indeed
+an inclination exceeding 30° (given as an indicator by white dashed line).
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-022-00393-x COMMENT
+COMMUNICATIONS EARTH & ENVIRONMENT |            (2022) 3:63 | https://doi.org/10.1038/s43247-022-00393-x | www.nature.com/commsenv 3
+the RSI ﬁlm director Matteo Born went through the footage he
+took for the documentary during his own winter expedition and
+accidentally discovered the same features only in a higher reso-
+lution (Fig. 3c and Supplementary Movie 1) — taken during the
+following day, on the 30th of March! It is highly unlikely that a
+cloud would stay in the same place for close to 24 h. Although it is
+difﬁcult to conﬁrm the type of snow slope instability based on this
+picture’s resolution, the dark shaded zone below the ridge could
+be a tensile crown fracture resulting from one or several slab
+avalanches. A dozen international avalanche scientists or practi-
+tioners whom we talked to suggested that these could be classi ﬁed
+either as a snow cornice, cornice falls or small wind slab
+avalanches.
+The avalanches
+The uncertainty was, however, so unsettling that we decided to
+organize the third expedition, this time to study the particular
+area in Fig. 3b, c. On the 28th of January 2022, exactly 63 years
+after the Dyatlov group was seen alive for the last time, two
+professional mountain guides from Ekaterinburg, Oleg Demya-
+nenko and Dmitriy Borisov, left for the Dyatlov Pass on two
+snowmobiles. The initially favorable weather conditions quickly
+deteriorated, with wind and temperatures becoming similar to
+those on the night of the 1959 tragedy. Several times, the 300 kg
+snowmobiles and their drivers were overturned by wind gusts.
+Visibility became extremely poor. And then, when after a few
+failed attempts the two mountain guides approached their des-
+tination, the visibility brie ﬂy improved and revealed traces of two
+snow slab avalanches (Fig. 3d, e and Supplementary Movie 2).
+Contrary to multiple claims that snow avalanches have never
+been observed around this area, in two subsequent winter
+expeditions within the year since publication of our article, we
+can report several documented slab avalanches in an eastern
+slope <3 km away from the Dyatlov group tent. And while some
+b, 29 March 2021
+distance: 2.8 km
+d, 29 January 2022 e, 29 January 2022
+a
+c, 30 March 2021
+2021 monument
+Fig. 3d Fig. 3e
+Fig. 3 Avalanches near Dyatlov Pass. a Location of the area where avalanches were observed. Source: Google Earth © 2021 Maxar technologies Landsat/
+Copernicus.b Picture taken by Dmitriy Borisov on the 29th of March 2021 from the Dyatlov Pass. The zone highlighted in red is located ~3 km away from the tent.
+c Picture extracted from a video taken by Matteo Born (RSI movie director), the day later, i.e., 30th March 2021.d Picture of a crown tensile fracture on the left
+side of this slope taken by Dmitriy Borisov on 29th January 2022. e Picture of a small slab avalanche in the middle of the slope by Dmitriy Borisov on the same
+day (29th January 2022).
+COMMENT COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-022-00393-x
+4 COMMUNICATIONS EARTH & ENVIRONMENT |            (2022) 3:63 | https://doi.org/10.1038/s43247-022-00393-x | www.nature.com/commsenv
+doubts remain for the March 2021 instability type in Fig. 3b, c,
+the outcome of the January 2022 expedition is clear: the traces of
+two new snow slab avalanches were observed for weather con-
+ditions apparently similar to those on the night of the Dyatlov
+incident, during the same time of the year. The ﬁrst slab ava-
+lanche (Fig. 3d) is located on the left side of the slope, and has a
+crown thickness of about 1 m. The second one (Fig. 3ea n d
+Supplementary Movie 2), which was observed in the middle of
+the slope, appeared to have a smaller crown thickness, close to
+the one predicted in our model 1. It slid along a smooth weak
+interface with an older compacted snow and was very likely
+triggered by a local cornice fall. Oleg and Dmitriy report that this
+second avalanche was practically invisible after less than an hour,
+as it was covered by the wind-transported snow. They estimate
+that the avalanche released less than an hour before their arrival.
+No wonder then that the Dyatlov rescue team could not ﬁnd
+signs of an avalanche 3 weeks after the incident. This also
+explains why no avalanches have been observed there before: in
+such severe weather conditions the Pass cannot be easily accessed
+by hikers, while traces of small slab avalanches disappear within
+few hours.
+No ﬁnal word
+Some of the conditions leading to the avalanches observed on 29th
+J a n u a r y2 0 2 2w e r ev e r ys i m i l a rt ot h o s ee x p e r i e n c e db yt h eD y a t l o v
+group: eastern slope aspect, date in the year, low temperatures,
+strong winds and large amounts of wind-transported snow. Other
+conditions were different: the slab was softer, the slope was steeper, it
+was not undercut from below and the trigger was probably different,
+too. Nevertheless, the area is clearly avalanche prone, and the ava-
+lanche danger on the night of February 1st, 1959 was real.
+Time and again, we were asked whether our article brings to an
+end our work on the case. We always responded that, although
+the case itself remains open, our part is closed: we did not want to
+spend the rest of our lives trying to solve the Dyatlov Pass
+mystery. One year later, we are no longer so sure. If someone
+asks, we will refrain from an answer.
+Received: 5 February 2022; Accepted: 22 February 2022;
+References
+1. Gaume, J., Puzrin, A. M. Mechanisms of slab avalanche release and impact in
+the Dyatlov Pass incident in 1959. Commun. Earth Environ. 2, https://doi.org/
+10.1038/s43247-020-00081-8 (2021).
+2. Andrews, R. G. Has science solved one of history ’s greatest adventure
+mysteries? Natl. Geogr. https://www.nationalgeographic.com/science/article/
+has-science-solved-history-greatest-adventure-mystery-dyatlov (2021).
+3. Fishman, R. Pereval: Nauchnyi vzglyad na zagadku gibeli gruppy Dyatlova.
+Popular Mech. (Russian edition) , https://www.popmech.ru/science/750673-
+pereval (2021).
+4. Pigol ’tsina, G. B. Microclimatic characteristics of the Kholatchakhl mountain
+region (Dyatlov pass) for February 1 –2, 1959. Proceedings of Voeikov Main
+Geophysical Observatory ISSN 0367-1274 (Federal Service of
+Hydrometeorology and Environmental Monitoring, 2020).
+5. Khairullin, K. S. H. (ed.) Handbook on Natural Hazards in Republics and
+Regions of Russian Federation , 2nd edn (Roshydromet, St Petersburg IBSN 5-
+286-01249-3, 1997).
+Acknowledgements
+We would like to thank Matteo Born, Prof. Victor Popovnin, Oleg Demyanenko, and
+Dmitriy Borisov for their enormous effort in helping us to obtainﬁeld evidence in support of
+the slab avalanche hypothesis. We also acknowledge Dr. Alessandro Cicoira and Dr. Xingyue
+Li for making the digital elevation model and performing slope angle calculations.
+Author contributions
+A.M.P. conceived the idea of the article, co-organized expeditions and co-wrote the
+paper. J.G. co-organized expeditions and co-wrote the paper.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains supplementary material
+available at https://doi.org/10.1038/s43247-022-00393-x.
+Correspondence and requests for materials should be addressed to Alexander M. Puzrin.
+Reprints and permission information is available at http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional af ﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons license, and indicate if changes were made. The images or other third party
+material in this article are included in the article ’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2022, corrected publication 2022
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-022-00393-x COMMENT
+COMMUNICATIONS EARTH & ENVIRONMENT |            (2022) 3:63 | https://doi.org/10.1038/s43247-022-00393-x | www.nature.com/commsenv 5

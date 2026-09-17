@@ -1,0 +1,19 @@
+title: Fashion
+author: Samuel Woodworth
+date: ed. 1818
+source: https://archive.org/details/poemsodessongs00woodrich (The Poems, Odes, Songs, and Other Metrical Effusions of Samuel Woodworth, New York: Abraham Asten and Matthias Lopez, 1818; OCR text)
+form: ballad
+lines: 9
+attribution: certain
+notes: OCR source (archive.org); stanza breaks approximate; New York; many songs
+
+To tyrant Fashion all must yield,
+He rules with sway despotic,
+And he who dares contest the field,
+Must be indeed Quixotic.
+But though, when he appears, we must.
+Like courteous slaves, receive him;
+The wise will ne'er embrace him Jirst,
+Nor be the last to leave him.
+
+Sentimental. WOOD WORTH'S. 41

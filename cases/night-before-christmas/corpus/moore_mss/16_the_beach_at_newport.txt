@@ -1,0 +1,58 @@
+title: A Morning on the Beach at Newport
+author: Clement Clarke Moore
+date: 1852
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 122-124; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/moorenewportbeach.htm
+form: iambic pentameter quatrains (abab)
+lines: 40
+attribution: certain
+notes: MS heading: 'A morning on the beach at Newport. 1852.' Site index title 'Newport Beach' / 'The Beach at Newport'. Serious descriptive-moral verse recommending the beach at dawn over crowded evening rooms; Moore summered at Newport. Site line count 40 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+'Twas an autumnal morn, celestial bright;
+The rising sun-beams on the water play'd;
+No mist or cloud bedimm'd the sacred light
+In which earth, sky and ocean were array'd.
+
+The rage of stormy winds and waves was hush'd;
+All Nature's fiercer passions lull'd in sleep.
+Th' untainted breath of Heaven lightly brush'd
+The proudly swelling bosom of the deep.
+
+The morning breeze invigorating blew,
+But with mild influence breathing soft and bland.
+Untir'd I stood, the curling waves to view,
+In measur'd cadence, breaking on the strand.
+
+A sense of Awe the lighter spirits bound.
+The sullen murmur of the ocean's voice
+That utter'd, grave and slow, an awful sound,
+As though 'twould say - Beware how you rejoice;
+
+The vast abyss, on which appear'd to lean
+The wide-spread margin of the vaulted sky;
+All gave a solemn grandeur to the scene,
+That fill'd the soul, and rous'd the thoughts on high.
+
+Unlike the joys to wealth supplied by art,
+That for a moment catch the outward sense,
+The charms of Nature sink into the heart,
+And waken raptures more and more intense.
+
+Ye who in throngs frequent this happy clime,
+To breathe its pure and health-bestowing air.
+To stay awhile the wasting hand of Time,
+And injur'd health and failing strength repair,
+
+Oh! seek not oft the dense and nightly crowd
+Where tainted air, and phantoms whirling round,
+And oft-repeated strains resounding loud,
+And glaring lights, the sight and brain confound.
+
+Hie to the beach or cliff at early prime,
+The hour when Nature sings her noblest strain,
+And taste of pleasures simple and sublime
+That give no sting, and leave behind no stain.
+
+And ye frail mortals, tottering, faint and weak,
+Who roam o'er sea and land, relief to find,
+In this soft clime a twofold blessing seek -
+Health to the body, vigor to the mind.

@@ -1,0 +1,3880 @@
+{
+ "Fourques, Gard, France": [
+  {
+   "place_id": 82889663,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 384076,
+   "lat": "43.6929050",
+   "lon": "4.6093100",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5516910028545261,
+   "addresstype": "village",
+   "name": "Fourques",
+   "display_name": "Fourques, N\u00eemes, Gard, Occitanie, France m\u00e9tropolitaine, 30300, France",
+   "boundingbox": [
+    "43.6854578",
+    "43.7355608",
+    "4.4638631",
+    "4.6275084"
+   ]
+  }
+ ],
+ "Beaucaire, Gard, France": [
+  {
+   "place_id": 82928743,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 384088,
+   "lat": "43.8085436",
+   "lon": "4.6392648",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5725558566278154,
+   "addresstype": "town",
+   "name": "Beaucaire",
+   "display_name": "Beaucaire, N\u00eemes, Gard, Occitanie, France m\u00e9tropolitaine, 30300, France",
+   "boundingbox": [
+    "43.7242141",
+    "43.8385704",
+    "4.5270651",
+    "4.6553651"
+   ]
+  }
+ ],
+ "Tarascon, Bouches-du-Rhone, France": [
+  {
+   "place_id": 83446337,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 74016,
+   "lat": "43.8053654",
+   "lon": "4.6585115",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5250145515213076,
+   "addresstype": "town",
+   "name": "Tarascon",
+   "display_name": "Tarascon, Arles, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 13150, France",
+   "boundingbox": [
+    "43.7285603",
+    "43.8660102",
+    "4.6282343",
+    "4.7422529"
+   ]
+  }
+ ],
+ "Avignon, Vaucluse, France": [
+  {
+   "place_id": 82636973,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 102478,
+   "lat": "43.9492493",
+   "lon": "4.8059012",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6737176436675905,
+   "addresstype": "city",
+   "name": "Avignon",
+   "display_name": "Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 84000, France",
+   "boundingbox": [
+    "43.8873819",
+    "43.9967419",
+    "4.7396309",
+    "4.9271468"
+   ]
+  },
+  {
+   "place_id": 82666823,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1693195,
+   "lat": "43.9636478",
+   "lon": "4.9424636",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.48695080752007786,
+   "addresstype": "municipality",
+   "name": "Avignon",
+   "display_name": "Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "43.8504637",
+    "44.0766814",
+    "4.7396309",
+    "5.1599743"
+   ]
+  }
+ ],
+ "Roquemaure, Gard, France": [
+  {
+   "place_id": 87788124,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 384816,
+   "lat": "44.0523514",
+   "lon": "4.7788273",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5598457028590373,
+   "addresstype": "village",
+   "name": "Roquemaure",
+   "display_name": "Roquemaure, N\u00eemes, Gard, Occitanie, France m\u00e9tropolitaine, 30150, France",
+   "boundingbox": [
+    "44.0134062",
+    "44.0750137",
+    "4.7118758",
+    "4.8070733"
+   ]
+  }
+ ],
+ "Orange, Vaucluse, France": [
+  {
+   "place_id": 87755131,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 187038,
+   "lat": "44.1371311",
+   "lon": "4.8078783",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5770407718735688,
+   "addresstype": "town",
+   "name": "Orange",
+   "display_name": "Orange, Carpentras, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 84100, France",
+   "boundingbox": [
+    "44.0647104",
+    "44.1878340",
+    "4.7278251",
+    "4.8786802"
+   ]
+  }
+ ],
+ "Caderousse, Vaucluse, France": [
+  {
+   "place_id": 87083221,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 148147,
+   "lat": "44.1025641",
+   "lon": "4.7571511",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5128187562941472,
+   "addresstype": "village",
+   "name": "Caderousse",
+   "display_name": "Caderousse, Carpentras, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 84860, France",
+   "boundingbox": [
+    "44.0786070",
+    "44.1526760",
+    "4.7061511",
+    "4.7855989"
+   ]
+  }
+ ],
+ "Bollene, Vaucluse, France": [
+  {
+   "place_id": 88117420,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 148135,
+   "lat": "44.2803882",
+   "lon": "4.7484092",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5240788011048406,
+   "addresstype": "town",
+   "name": "Boll\u00e8ne",
+   "display_name": "Boll\u00e8ne, Carpentras, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 84500, France",
+   "boundingbox": [
+    "44.2502391",
+    "44.3268758",
+    "4.6956222",
+    "4.8065561"
+   ]
+  }
+ ],
+ "Pierrelatte, Drome, France": [
+  {
+   "place_id": 87494392,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 70411,
+   "lat": "44.3778474",
+   "lon": "4.6976609",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.549986827416023,
+   "addresstype": "town",
+   "name": "Pierrelatte",
+   "display_name": "Pierrelatte, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26700, France",
+   "boundingbox": [
+    "44.3205266",
+    "44.4063657",
+    "4.6469077",
+    "4.7304568"
+   ]
+  }
+ ],
+ "Montelimar, Drome, France": [
+  {
+   "place_id": 87715343,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 70292,
+   "lat": "44.5579391",
+   "lon": "4.7503180",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5717564119762144,
+   "addresstype": "town",
+   "name": "Mont\u00e9limar",
+   "display_name": "Mont\u00e9limar, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26200, France",
+   "boundingbox": [
+    "44.5199345",
+    "44.5892466",
+    "4.6920988",
+    "4.7987248"
+   ]
+  }
+ ],
+ "Loriol-sur-Drome, Drome, France": [
+  {
+   "place_id": 87771259,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 76921,
+   "lat": "44.7518413",
+   "lon": "4.8222790",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5455453482448395,
+   "addresstype": "village",
+   "name": "Loriol-sur-Dr\u00f4me",
+   "display_name": "Loriol-sur-Dr\u00f4me, Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26270, France",
+   "boundingbox": [
+    "44.7265446",
+    "44.7722868",
+    "4.7590145",
+    "4.8696385"
+   ]
+  }
+ ],
+ "Valence, Drome, France": [
+  {
+   "place_id": 87635067,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 37586,
+   "lat": "44.9332277",
+   "lon": "4.8920811",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6153810138592339,
+   "addresstype": "city",
+   "name": "Valence",
+   "display_name": "Valence, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26000, France",
+   "boundingbox": [
+    "44.8870479",
+    "44.9597550",
+    "4.8533327",
+    "4.9783075"
+   ]
+  },
+  {
+   "place_id": 89808841,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1687222,
+   "lat": "45.0580200",
+   "lon": "5.0479152",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5262559125366509,
+   "addresstype": "municipality",
+   "name": "Valence",
+   "display_name": "Valence, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "44.7716967",
+    "45.3439766",
+    "4.7990573",
+    "5.2371831"
+   ]
+  }
+ ],
+ "Lyon, France": [
+  {
+   "place_id": 94318237,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 120965,
+   "lat": "45.7578137",
+   "lon": "4.8320114",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.7489604368049191,
+   "addresstype": "city",
+   "name": "Lyon",
+   "display_name": "Lyon, M\u00e9tropole de Lyon, Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.7073666",
+    "45.8082628",
+    "4.7718132",
+    "4.8984245"
+   ]
+  },
+  {
+   "place_id": 89777051,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1663048,
+   "lat": "45.6963425",
+   "lon": "4.7359480",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5313526443965992,
+   "addresstype": "municipality",
+   "name": "Lyon",
+   "display_name": "Lyon, Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.4540260",
+    "45.9392640",
+    "4.3480714",
+    "5.1603205"
+   ]
+  }
+ ],
+ "Vienne, Isere, France": [
+  {
+   "place_id": 89905383,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 169848,
+   "lat": "45.5252400",
+   "lon": "4.8747700",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6115583188275913,
+   "addresstype": "town",
+   "name": "Vienne",
+   "display_name": "Vienne, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 38200, France",
+   "boundingbox": [
+    "45.4867243",
+    "45.5574883",
+    "4.8358868",
+    "4.9233427"
+   ]
+  },
+  {
+   "place_id": 89583814,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1680013,
+   "lat": "45.4410757",
+   "lon": "5.0382044",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5235064432138317,
+   "addresstype": "municipality",
+   "name": "Vienne",
+   "display_name": "Vienne, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.2043672",
+    "45.6778044",
+    "4.7415728",
+    "5.4572295"
+   ]
+  }
+ ],
+ "Romans-sur-Isere, Drome, France": [
+  {
+   "place_id": 89983412,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 36664,
+   "lat": "45.0458886",
+   "lon": "5.0528681",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5662386222714181,
+   "addresstype": "town",
+   "name": "Romans-sur-Is\u00e8re",
+   "display_name": "Romans-sur-Is\u00e8re, Valence, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26100, France",
+   "boundingbox": [
+    "45.0268221",
+    "45.0955806",
+    "4.9857919",
+    "5.1097371"
+   ]
+  }
+ ],
+ "Saint-Marcellin, Isere, France": [
+  {
+   "place_id": 90984799,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 191569,
+   "lat": "45.1539715",
+   "lon": "5.3203470",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5810914630070025,
+   "addresstype": "village",
+   "name": "Saint-Marcellin",
+   "display_name": "Saint-Marcellin, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 38160, France",
+   "boundingbox": [
+    "45.1241647",
+    "45.1808427",
+    "5.3011395",
+    "5.3323168"
+   ]
+  }
+ ],
+ "Tullins, Isere, France": [
+  {
+   "place_id": 89899207,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 190861,
+   "lat": "45.2977714",
+   "lon": "5.4829748",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5789363916449071,
+   "addresstype": "village",
+   "name": "Tullins",
+   "display_name": "Tullins, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 38210, France",
+   "boundingbox": [
+    "45.2580843",
+    "45.3268126",
+    "5.4382222",
+    "5.5364107"
+   ]
+  }
+ ],
+ "Voreppe, Isere, France": [
+  {
+   "place_id": 89921308,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 85956,
+   "lat": "45.2928424",
+   "lon": "5.6361825",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5802602364946263,
+   "addresstype": "village",
+   "name": "Voreppe",
+   "display_name": "Voreppe, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 38340, France",
+   "boundingbox": [
+    "45.2547739",
+    "45.3175418",
+    "5.5872249",
+    "5.6962665"
+   ]
+  }
+ ],
+ "Grenoble, France": [
+  {
+   "place_id": 89727718,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 80348,
+   "lat": "45.1875602",
+   "lon": "5.7357819",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6939776315266458,
+   "addresstype": "city",
+   "name": "Grenoble",
+   "display_name": "Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.1541442",
+    "45.2140762",
+    "5.6776059",
+    "5.7531315"
+   ]
+  },
+  {
+   "place_id": 89153469,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1676230,
+   "lat": "45.0940786",
+   "lon": "5.6971980",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5672440793902686,
+   "addresstype": "municipality",
+   "name": "Grenoble",
+   "display_name": "Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "44.6958924",
+    "45.4923349",
+    "5.1346493",
+    "6.3590884"
+   ]
+  }
+ ],
+ "Pontcharra, Isere, France": [
+  {
+   "place_id": 88416730,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 88810,
+   "lat": "45.4327537",
+   "lon": "6.0204233",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5784986445093598,
+   "addresstype": "village",
+   "name": "Pontcharra",
+   "display_name": "Pontcharra, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 38530, France",
+   "boundingbox": [
+    "45.3896963",
+    "45.4541412",
+    "5.9990093",
+    "6.0507292"
+   ]
+  }
+ ],
+ "Montmelian, Savoie, France": [
+  {
+   "place_id": 88716189,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 113499,
+   "lat": "45.5009946",
+   "lon": "6.0587974",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5504280408576457,
+   "addresstype": "village",
+   "name": "Montm\u00e9lian",
+   "display_name": "Montm\u00e9lian, Chamb\u00e9ry, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73800, France",
+   "boundingbox": [
+    "45.4898296",
+    "45.5242554",
+    "6.0385762",
+    "6.0742212"
+   ]
+  }
+ ],
+ "Aiguebelle, Savoie, France": [
+  {
+   "place_id": 89221076,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 109683,
+   "lat": "45.5329926",
+   "lon": "6.3032050",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5125318026880386,
+   "addresstype": "city_district",
+   "name": "Aiguebelle",
+   "display_name": "Aiguebelle, Val-d'Arc, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73220, France",
+   "boundingbox": [
+    "45.5168975",
+    "45.5495615",
+    "6.2923765",
+    "6.3149659"
+   ]
+  },
+  {
+   "place_id": 89124089,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 41644900,
+   "lat": "45.5415041",
+   "lon": "6.3060463",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.1467263164721141,
+   "addresstype": "village",
+   "name": "Aiguebelle",
+   "display_name": "Aiguebelle, Val-d'Arc, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73220, France",
+   "boundingbox": [
+    "45.5215041",
+    "45.5615041",
+    "6.2860463",
+    "6.3260463"
+   ]
+  },
+  {
+   "place_id": 89416952,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6426611336,
+   "lat": "45.5429159",
+   "lon": "6.3045688",
+   "class": "place",
+   "type": "quarter",
+   "place_rank": 20,
+   "importance": 0.13339298313878079,
+   "addresstype": "quarter",
+   "name": "Aiguebelle",
+   "display_name": "Aiguebelle, Val-d'Arc, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73220, France",
+   "boundingbox": [
+    "45.5329159",
+    "45.5529159",
+    "6.2945688",
+    "6.3145688"
+   ]
+  }
+ ],
+ "La Chambre, Savoie, France": [
+  {
+   "place_id": 88301041,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 128282,
+   "lat": "45.3575951",
+   "lon": "6.3009670",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5336460591341984,
+   "addresstype": "village",
+   "name": "La Chambre",
+   "display_name": "La Chambre, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73130, France",
+   "boundingbox": [
+    "45.3532312",
+    "45.3840093",
+    "6.2783748",
+    "6.3076582"
+   ]
+  }
+ ],
+ "Saint-Jean-de-Maurienne, Savoie, France": [
+  {
+   "place_id": 88673961,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 128281,
+   "lat": "45.2775475",
+   "lon": "6.3451720",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.555746706657391,
+   "addresstype": "town",
+   "name": "Saint-Jean-de-Maurienne",
+   "display_name": "Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73300, France",
+   "boundingbox": [
+    "45.2442031",
+    "45.3018517",
+    "6.3150169",
+    "6.3779297"
+   ]
+  },
+  {
+   "place_id": 88311803,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1670150,
+   "lat": "45.3246130",
+   "lon": "6.9265087",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5030090477054389,
+   "addresstype": "municipality",
+   "name": "Saint-Jean-de-Maurienne",
+   "display_name": "Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.0516188",
+    "45.5976022",
+    "6.1257253",
+    "7.1859342"
+   ]
+  }
+ ],
+ "Saint-Michel-de-Maurienne, Savoie, France": [
+  {
+   "place_id": 87755734,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 129440,
+   "lat": "45.2178751",
+   "lon": "6.4750846",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5425400752183612,
+   "addresstype": "village",
+   "name": "Saint-Michel-de-Maurienne",
+   "display_name": "Saint-Michel-de-Maurienne, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73140, France",
+   "boundingbox": [
+    "45.1939357",
+    "45.2858517",
+    "6.4557283",
+    "6.5343964"
+   ]
+  },
+  {
+   "place_id": 87961255,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 16620336,
+   "lat": "45.2180397",
+   "lon": "6.4770078",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16005966353856715,
+   "addresstype": "city_district",
+   "name": "Saint-Michel-de-Maurienne",
+   "display_name": "Saint-Michel-de-Maurienne, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73140, France",
+   "boundingbox": [
+    "45.1939357",
+    "45.2421639",
+    "6.4557283",
+    "6.5172773"
+   ]
+  }
+ ],
+ "Modane, Savoie, France": [
+  {
+   "place_id": 88359036,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 114188,
+   "lat": "45.2015369",
+   "lon": "6.6728169",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5531975789748458,
+   "addresstype": "village",
+   "name": "Modane",
+   "display_name": "Modane, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.1094455",
+    "45.2813650",
+    "6.5764692",
+    "6.7144790"
+   ]
+  }
+ ],
+ "Bramans, Savoie, France": [
+  {
+   "place_id": 88793032,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 133907,
+   "lat": "45.1848889",
+   "lon": "6.8526276",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5032203563649139,
+   "addresstype": "city_district",
+   "name": "Bramans",
+   "display_name": "Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.1272781",
+    "45.2421787",
+    "6.7583982",
+    "6.9472475"
+   ]
+  },
+  {
+   "place_id": 88729249,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 41645019,
+   "lat": "45.2238391",
+   "lon": "6.7757428",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.5032203563649139,
+   "addresstype": "village",
+   "name": "Bramans",
+   "display_name": "Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.2038391",
+    "45.2438391",
+    "6.7557428",
+    "6.7957428"
+   ]
+  }
+ ],
+ "Termignon, Savoie, France": [
+  {
+   "place_id": 88316834,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 133885,
+   "lat": "45.2769434",
+   "lon": "6.8169262",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5009512625760972,
+   "addresstype": "village",
+   "name": "Termignon",
+   "display_name": "Termignon, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.2575885",
+    "45.4255445",
+    "6.7314248",
+    "6.9884222"
+   ]
+  }
+ ],
+ "Lanslebourg-Mont-Cenis, Savoie, France": [
+  {
+   "place_id": 88651864,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 133934,
+   "lat": "45.2509937",
+   "lon": "6.9325221",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5045627281328381,
+   "addresstype": "city_district",
+   "name": "Lanslebourg-Mont-Cenis",
+   "display_name": "Lanslebourg-Mont-Cenis, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73480, France",
+   "boundingbox": [
+    "45.1761522",
+    "45.3255782",
+    "6.8437637",
+    "7.0510821"
+   ]
+  },
+  {
+   "place_id": 88080771,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1704925507,
+   "lat": "45.2852643",
+   "lon": "6.8766492",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.5045627281328381,
+   "addresstype": "village",
+   "name": "Lanslebourg-Mont-Cenis",
+   "display_name": "Lanslebourg-Mont-Cenis, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73480, France",
+   "boundingbox": [
+    "45.2652643",
+    "45.3052643",
+    "6.8566492",
+    "6.8966492"
+   ]
+  }
+ ],
+ "Col du Mont Cenis": [
+  {
+   "place_id": 88583719,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2178653980,
+   "lat": "45.2598281",
+   "lon": "6.9008841",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.45839591610396974,
+   "addresstype": "mountain_pass",
+   "name": "Col du Mont Cenis",
+   "display_name": "Col du Mont Cenis, Lanslebourg-Mont-Cenis, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73480, France",
+   "boundingbox": [
+    "45.2597781",
+    "45.2598781",
+    "6.9008341",
+    "6.9009341"
+   ]
+  },
+  {
+   "place_id": 88550687,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13655628656,
+   "lat": "45.2061986",
+   "lon": "6.9642573",
+   "class": "natural",
+   "type": "saddle",
+   "place_rank": 22,
+   "importance": 0.10672424277103836,
+   "addresstype": "saddle",
+   "name": "Col du Mont-Cenis",
+   "display_name": "Col du Mont-Cenis, Moncenisio, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "45.2061486",
+    "45.2062486",
+    "6.9642073",
+    "6.9643073"
+   ]
+  }
+ ],
+ "Col du Petit Mont Cenis": [
+  {
+   "place_id": 87854173,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6712847446,
+   "lat": "45.2108326",
+   "lon": "6.8661704",
+   "class": "natural",
+   "type": "saddle",
+   "place_rank": 22,
+   "importance": 0.10672417410543981,
+   "addresstype": "saddle",
+   "name": "Col du Petit Mont Cenis",
+   "display_name": "Col du Petit Mont Cenis, Les Coulours, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.2107826",
+    "45.2108826",
+    "6.8661204",
+    "6.8662204"
+   ]
+  },
+  {
+   "place_id": 423736042,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14027485710,
+   "lat": "45.2103428",
+   "lon": "6.8654970",
+   "class": "information",
+   "type": "guidepost",
+   "place_rank": 30,
+   "importance": 5.750743877312913e-05,
+   "addresstype": "information",
+   "name": "Col du Petit Mont Cenis",
+   "display_name": "Col du Petit Mont Cenis, Route du Petit Mont Cenis, Les Coulours, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.2102928",
+    "45.2103928",
+    "6.8654470",
+    "6.8655470"
+   ]
+  }
+ ],
+ "Le Planay, Bramans, Savoie, France": [
+  {
+   "place_id": 88553768,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4036393927,
+   "lat": "45.2070642",
+   "lon": "6.8349979",
+   "class": "place",
+   "type": "hamlet",
+   "place_rank": 20,
+   "importance": 0.1333908407721065,
+   "addresstype": "hamlet",
+   "name": "Le Planay",
+   "display_name": "Le Planay, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.1870642",
+    "45.2270642",
+    "6.8149979",
+    "6.8549979"
+   ]
+  },
+  {
+   "place_id": 88510565,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 9905786445,
+   "lat": "45.2071570",
+   "lon": "6.8347500",
+   "class": "information",
+   "type": "guidepost",
+   "place_rank": 30,
+   "importance": 5.750743877312913e-05,
+   "addresstype": "information",
+   "name": "Le Planay",
+   "display_name": "Le Planay, D 100, Le Planay, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.2071070",
+    "45.2072070",
+    "6.8347000",
+    "6.8348000"
+   ]
+  }
+ ],
+ "Lac Savine, Savoie": [
+  {
+   "place_id": 88587543,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 12406687,
+   "lat": "45.1753807",
+   "lon": "6.9133711",
+   "class": "water",
+   "type": "lake",
+   "place_rank": 20,
+   "importance": 0.27236747457604304,
+   "addresstype": "lake",
+   "name": "Lac de Savine",
+   "display_name": "Lac de Savine, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.1729730",
+    "45.1777328",
+    "6.9107534",
+    "6.9159794"
+   ]
+  }
+ ],
+ "Col Clapier": [
+  {
+   "place_id": 88085741,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1409452160,
+   "lat": "45.1681847",
+   "lon": "6.9231775",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.306026056337308,
+   "addresstype": "mountain_pass",
+   "name": "Col Clapier / Colle Clapier",
+   "display_name": "Col Clapier / Colle Clapier, Bramans, Val-Cenis, Saint-Jean-de-Maurienne, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73500, France",
+   "boundingbox": [
+    "45.1681347",
+    "45.1682347",
+    "6.9231275",
+    "6.9232275"
+   ]
+  },
+  {
+   "place_id": 87906457,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2021663968,
+   "lat": "44.9715680",
+   "lon": "7.0908270",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.13339733043411917,
+   "addresstype": "mountain_pass",
+   "name": "Col Clapier",
+   "display_name": "Col Clapier, Perrero, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "44.9715180",
+    "44.9716180",
+    "7.0907770",
+    "7.0908770"
+   ]
+  }
+ ],
+ "Giaglione, Torino, Italia": [
+  {
+   "place_id": 88236796,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44299,
+   "lat": "45.1402386",
+   "lon": "7.0147562",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5992074911268542,
+   "addresstype": "village",
+   "name": "Giaglione",
+   "display_name": "Giaglione, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "45.1291171",
+    "45.1712625",
+    "6.8841425",
+    "7.0385367"
+   ]
+  }
+ ],
+ "Susa, Torino, Italia": [
+  {
+   "place_id": 88567293,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44287,
+   "lat": "45.1383808",
+   "lon": "7.0493387",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.609699394505166,
+   "addresstype": "village",
+   "name": "Susa",
+   "display_name": "Susa, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "45.1240904",
+    "45.1453299",
+    "7.0312350",
+    "7.1268982"
+   ]
+  }
+ ],
+ "Bussoleno, Torino, Italia": [
+  {
+   "place_id": 88210101,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44134,
+   "lat": "45.1392706",
+   "lon": "7.1477166",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6015521816842535,
+   "addresstype": "village",
+   "name": "Bussoleno",
+   "display_name": "Bussoleno, Torino, Piemonte, 10053, Italia",
+   "boundingbox": [
+    "45.0623807",
+    "45.1876797",
+    "7.0944431",
+    "7.1683266"
+   ]
+  }
+ ],
+ "Sant'Ambrogio di Torino, Torino, Italia": [
+  {
+   "place_id": 88452823,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44184,
+   "lat": "45.0994450",
+   "lon": "7.3623150",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6014312015990894,
+   "addresstype": "village",
+   "name": "Sant'Ambrogio di Torino",
+   "display_name": "Sant'Ambrogio di Torino, Torino, Piemonte, 10057, Italia",
+   "boundingbox": [
+    "45.0835035",
+    "45.1114943",
+    "7.3374218",
+    "7.3900340"
+   ]
+  }
+ ],
+ "Avigliana, Torino, Italia": [
+  {
+   "place_id": 88462380,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44097,
+   "lat": "45.0779435",
+   "lon": "7.3983904",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6025517513651716,
+   "addresstype": "town",
+   "name": "Avigliana",
+   "display_name": "Avigliana, Torino, Piemonte, 10051, Italia",
+   "boundingbox": [
+    "45.0430860",
+    "45.1018699",
+    "7.3482088",
+    "7.4343990"
+   ]
+  }
+ ],
+ "Rivoli, Torino, Italia": [
+  {
+   "place_id": 88527751,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44071,
+   "lat": "45.0697151",
+   "lon": "7.5176764",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6055884514839852,
+   "addresstype": "town",
+   "name": "Rivoli",
+   "display_name": "Rivoli, Torino, Piemonte, 10098, Italia",
+   "boundingbox": [
+    "45.0390531",
+    "45.0959378",
+    "7.4761095",
+    "7.5798488"
+   ]
+  }
+ ],
+ "Torino, Italia": [
+  {
+   "place_id": 88560036,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43992,
+   "lat": "45.0677551",
+   "lon": "7.6824892",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.7702527988338493,
+   "addresstype": "city",
+   "name": "Torino",
+   "display_name": "Torino, Piemonte, Italia",
+   "boundingbox": [
+    "45.0067924",
+    "45.1402175",
+    "7.5778348",
+    "7.7733388"
+   ]
+  },
+  {
+   "place_id": 88274419,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44880,
+   "lat": "45.1580392",
+   "lon": "7.5123631",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.5945198719783057,
+   "addresstype": "county",
+   "name": "Torino",
+   "display_name": "Torino, Piemonte, Italia",
+   "boundingbox": [
+    "44.7137550",
+    "45.6023219",
+    "6.6272658",
+    "8.1518662"
+   ]
+  }
+ ],
+ "Albertville, Savoie, France": [
+  {
+   "place_id": 88705698,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 111528,
+   "lat": "45.6754622",
+   "lon": "6.3925417",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6196837457389044,
+   "addresstype": "town",
+   "name": "Albertville",
+   "display_name": "Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73200, France",
+   "boundingbox": [
+    "45.6411143",
+    "45.6882226",
+    "6.3595871",
+    "6.4604269"
+   ]
+  },
+  {
+   "place_id": 88649510,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1670157,
+   "lat": "45.5806909",
+   "lon": "6.6370507",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5134662851420186,
+   "addresstype": "municipality",
+   "name": "Albertville",
+   "display_name": "Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.2518535",
+    "45.9094619",
+    "6.2202017",
+    "7.1147114"
+   ]
+  }
+ ],
+ "Moutiers, Savoie, France": [
+  {
+   "place_id": 88055956,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 129478,
+   "lat": "45.4849883",
+   "lon": "6.5340061",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.55378506741557,
+   "addresstype": "village",
+   "name": "Mo\u00fbtiers",
+   "display_name": "Mo\u00fbtiers, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73600, France",
+   "boundingbox": [
+    "45.4759658",
+    "45.4972462",
+    "6.5218199",
+    "6.5542024"
+   ]
+  }
+ ],
+ "Aime-la-Plagne, Savoie, France": [
+  {
+   "place_id": 89065201,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5804822,
+   "lat": "45.5660919",
+   "lon": "6.6121397",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.4866409759113517,
+   "addresstype": "city",
+   "name": "Aime-la-Plagne",
+   "display_name": "Aime-la-Plagne, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73210, France",
+   "boundingbox": [
+    "45.4911283",
+    "45.6411781",
+    "6.5543548",
+    "6.6693818"
+   ]
+  }
+ ],
+ "Bourg-Saint-Maurice, Savoie, France": [
+  {
+   "place_id": 88980691,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 128060,
+   "lat": "45.6186105",
+   "lon": "6.7695277",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.558615556874084,
+   "addresstype": "town",
+   "name": "Bourg-Saint-Maurice",
+   "display_name": "Bourg-Saint-Maurice, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73700, France",
+   "boundingbox": [
+    "45.5476946",
+    "45.7797630",
+    "6.6708695",
+    "6.8520349"
+   ]
+  }
+ ],
+ "Seez, Savoie, France": [
+  {
+   "place_id": 89035373,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 133460,
+   "lat": "45.6229873",
+   "lon": "6.8001912",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5417081212693701,
+   "addresstype": "village",
+   "name": "S\u00e9ez",
+   "display_name": "S\u00e9ez, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73700, France",
+   "boundingbox": [
+    "45.5955579",
+    "45.6905380",
+    "6.7842992",
+    "6.9068194"
+   ]
+  }
+ ],
+ "Col du Petit-Saint-Bernard": [
+  {
+   "place_id": 88794651,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6126335144,
+   "lat": "45.6792488",
+   "lon": "6.8829399",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.4678393325290842,
+   "addresstype": "mountain_pass",
+   "name": "Col du Petit-Saint-Bernard",
+   "display_name": "Col du Petit-Saint-Bernard, S\u00e9ez, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73700, France",
+   "boundingbox": [
+    "45.6791988",
+    "45.6792988",
+    "6.8828899",
+    "6.8829899"
+   ]
+  }
+ ],
+ "La Thuile, Aosta, Italia": [
+  {
+   "place_id": 88598973,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 45585,
+   "lat": "45.6971464",
+   "lon": "6.9182886",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5207057315418584,
+   "addresstype": "city",
+   "name": "La Thuile",
+   "display_name": "La Thuile, Valle d'Aosta / Vall\u00e9e d'Aoste, 11016, Italia",
+   "boundingbox": [
+    "45.6308026",
+    "45.7636411",
+    "6.8080067",
+    "7.0283212"
+   ]
+  },
+  {
+   "place_id": 88966950,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 258628667,
+   "lat": "45.7162875",
+   "lon": "6.9486119",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.14672484245059886,
+   "addresstype": "village",
+   "name": "La Thuile",
+   "display_name": "La Thuile, Valle d'Aosta / Vall\u00e9e d'Aoste, 11016, Italia",
+   "boundingbox": [
+    "45.6962875",
+    "45.7362875",
+    "6.9286119",
+    "6.9686119"
+   ]
+  }
+ ],
+ "Pre-Saint-Didier, Aosta, Italia": [
+  {
+   "place_id": 89351005,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 46032,
+   "lat": "45.7639422",
+   "lon": "6.9853467",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5120068256553122,
+   "addresstype": "village",
+   "name": "Pr\u00e9-Saint-Didier",
+   "display_name": "Pr\u00e9-Saint-Didier, Valle d'Aosta / Vall\u00e9e d'Aoste, Italia",
+   "boundingbox": [
+    "45.7232567",
+    "45.7894431",
+    "6.8942299",
+    "7.0094898"
+   ]
+  }
+ ],
+ "Morgex, Aosta, Italia": [
+  {
+   "place_id": 88764070,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 45956,
+   "lat": "45.7536885",
+   "lon": "7.0231363",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5125318026880386,
+   "addresstype": "city",
+   "name": "Morgex",
+   "display_name": "Morgex, Valle d'Aosta / Vall\u00e9e d'Aoste, 11017, Italia",
+   "boundingbox": [
+    "45.6962261",
+    "45.8111008",
+    "6.9734235",
+    "7.0602077"
+   ]
+  },
+  {
+   "place_id": 88536964,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1735580745,
+   "lat": "45.7580223",
+   "lon": "7.0354328",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.1467243373769741,
+   "addresstype": "village",
+   "name": "Morgex",
+   "display_name": "Morgex, Valle d'Aosta / Vall\u00e9e d'Aoste, 11017, Italia",
+   "boundingbox": [
+    "45.7380223",
+    "45.7780223",
+    "7.0154328",
+    "7.0554328"
+   ]
+  }
+ ],
+ "Aosta, Italia": [
+  {
+   "place_id": 89049941,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 45916,
+   "lat": "45.7373075",
+   "lon": "7.3204025",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5985499922570914,
+   "addresstype": "city",
+   "name": "Aosta / Aoste",
+   "display_name": "Aosta / Aoste, Valle d'Aosta / Vall\u00e9e d'Aoste, 11100, Italia",
+   "boundingbox": [
+    "45.7262577",
+    "45.7726487",
+    "7.2386238",
+    "7.3479510"
+   ]
+  },
+  {
+   "place_id": 88703528,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 45155,
+   "lat": "45.7300990",
+   "lon": "7.3874260",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 8,
+   "importance": 0.7300272810440837,
+   "addresstype": "state",
+   "name": "Valle d'Aosta / Vall\u00e9e d'Aoste",
+   "display_name": "Valle d'Aosta / Vall\u00e9e d'Aoste, Italia",
+   "boundingbox": [
+    "45.4669522",
+    "45.9877112",
+    "6.8015322",
+    "7.9395040"
+   ]
+  }
+ ],
+ "Chatillon, Valle d'Aosta, Italia": [
+  {
+   "place_id": 88807459,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 2202526,
+   "lat": "45.7588243",
+   "lon": "7.6245217",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5183086090935324,
+   "addresstype": "city",
+   "name": "Ch\u00e2tillon",
+   "display_name": "Ch\u00e2tillon, Valle d'Aosta / Vall\u00e9e d'Aoste, 11024, Italia",
+   "boundingbox": [
+    "45.7005494",
+    "45.8172589",
+    "7.5862978",
+    "7.6649607"
+   ]
+  },
+  {
+   "place_id": 88698824,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 726133632,
+   "lat": "45.7487855",
+   "lon": "7.6125287",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.14672440756847482,
+   "addresstype": "village",
+   "name": "Ch\u00e2tillon",
+   "display_name": "Ch\u00e2tillon, Valle d'Aosta / Vall\u00e9e d'Aoste, 11024, Italia",
+   "boundingbox": [
+    "45.7287855",
+    "45.7687855",
+    "7.5925287",
+    "7.6325287"
+   ]
+  }
+ ],
+ "Pont-Saint-Martin, Aosta, Italia": [
+  {
+   "place_id": 88434789,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 45463,
+   "lat": "45.5989362",
+   "lon": "7.8162295",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5155463297708418,
+   "addresstype": "city",
+   "name": "Pont-Saint-Martin",
+   "display_name": "Pont-Saint-Martin, Valle d'Aosta / Vall\u00e9e d'Aoste, 11026, Italia",
+   "boundingbox": [
+    "45.5863863",
+    "45.6113708",
+    "7.7844019",
+    "7.8488728"
+   ]
+  },
+  {
+   "place_id": 92896298,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 838565100,
+   "lat": "45.5994401",
+   "lon": "7.7994375",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.5155463297708418,
+   "addresstype": "village",
+   "name": "Pont-Saint-Martin",
+   "display_name": "Pont-Saint-Martin, Valle d'Aosta / Vall\u00e9e d'Aoste, 11026, Italia",
+   "boundingbox": [
+    "45.5794401",
+    "45.6194401",
+    "7.7794375",
+    "7.8194375"
+   ]
+  }
+ ],
+ "Ivrea, Torino, Italia": [
+  {
+   "place_id": 88848449,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44971,
+   "lat": "45.4518030",
+   "lon": "7.8932496",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6304391034230564,
+   "addresstype": "city",
+   "name": "Ivrea",
+   "display_name": "Ivrea, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "45.4131842",
+    "45.4901158",
+    "7.8419122",
+    "7.9307319"
+   ]
+  }
+ ],
+ "Chivasso, Torino, Italia": [
+  {
+   "place_id": 88739831,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44385,
+   "lat": "45.1898322",
+   "lon": "7.8860277",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6075843776823219,
+   "addresstype": "town",
+   "name": "Chivasso",
+   "display_name": "Chivasso, Torino, Piemonte, 10034, Italia",
+   "boundingbox": [
+    "45.1724108",
+    "45.2514127",
+    "7.8324765",
+    "7.9572441"
+   ]
+  }
+ ],
+ "Vercelli, Italia": [
+  {
+   "place_id": 75594758,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1552705,
+   "lat": "45.5553827",
+   "lon": "8.3462837",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.718554357392102,
+   "addresstype": "county",
+   "name": "Vercelli",
+   "display_name": "Vercelli, Piemonte, Italia",
+   "boundingbox": [
+    "45.1595211",
+    "45.9507585",
+    "7.8613734",
+    "8.5811897"
+   ]
+  },
+  {
+   "place_id": 75677120,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1552703,
+   "lat": "45.3251557",
+   "lon": "8.4227666",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6094498838229085,
+   "addresstype": "city",
+   "name": "Vercelli",
+   "display_name": "Vercelli, Piemonte, Italia",
+   "boundingbox": [
+    "45.2777348",
+    "45.3723426",
+    "8.3161725",
+    "8.5136793"
+   ]
+  }
+ ],
+ "Novara, Italia": [
+  {
+   "place_id": 75134122,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1552704,
+   "lat": "45.5842500",
+   "lon": "8.5459970",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.7192882277749583,
+   "addresstype": "county",
+   "name": "Novara",
+   "display_name": "Novara, Piemonte, Italia",
+   "boundingbox": [
+    "45.2916099",
+    "45.8767896",
+    "8.3105682",
+    "8.8428962"
+   ]
+  },
+  {
+   "place_id": 75408372,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44898,
+   "lat": "45.4464036",
+   "lon": "8.6196550",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6287677331331414,
+   "addresstype": "city",
+   "name": "Novara",
+   "display_name": "Novara, Piemonte, 28100, Italia",
+   "boundingbox": [
+    "45.3815208",
+    "45.5050719",
+    "8.5290600",
+    "8.7034022"
+   ]
+  }
+ ],
+ "Milano, Italia": [
+  {
+   "place_id": 76514440,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44915,
+   "lat": "45.4641943",
+   "lon": "9.1896346",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.8015398856785414,
+   "addresstype": "city",
+   "name": "Milano",
+   "display_name": "Milano, Rodano, Milano, Lombardia, Italia",
+   "boundingbox": [
+    "45.3867381",
+    "45.5358482",
+    "9.0408867",
+    "9.2781103"
+   ]
+  },
+  {
+   "place_id": 75899294,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44881,
+   "lat": "45.4542119",
+   "lon": "9.1113510",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.5591950659226008,
+   "addresstype": "county",
+   "name": "Milano",
+   "display_name": "Milano, Lombardia, Italia",
+   "boundingbox": [
+    "45.1614258",
+    "45.6434829",
+    "8.7060961",
+    "9.5514570"
+   ]
+  }
+ ],
+ "Cavaillon, Vaucluse, France": [
+  {
+   "place_id": 82578763,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 73936,
+   "lat": "43.8356808",
+   "lon": "5.0383522",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5383233325479342,
+   "addresstype": "town",
+   "name": "Cavaillon",
+   "display_name": "Cavaillon, Apt, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 84300, France",
+   "boundingbox": [
+    "43.8064281",
+    "43.8906422",
+    "4.9735978",
+    "5.0928394"
+   ]
+  }
+ ],
+ "Pertuis, Vaucluse, France": [
+  {
+   "place_id": 83150237,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 71963,
+   "lat": "43.6951468",
+   "lon": "5.5032671",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.526086082855367,
+   "addresstype": "town",
+   "name": "Pertuis",
+   "display_name": "Pertuis, Apt, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 84120, France",
+   "boundingbox": [
+    "43.6586727",
+    "43.7275637",
+    "5.4453599",
+    "5.6241172"
+   ]
+  }
+ ],
+ "Manosque, Alpes-de-Haute-Provence, France": [
+  {
+   "place_id": 82399289,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 365373,
+   "lat": "43.8338026",
+   "lon": "5.7826657",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.548448964660055,
+   "addresstype": "town",
+   "name": "Manosque",
+   "display_name": "Manosque, Forcalquier, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04100, France",
+   "boundingbox": [
+    "43.7746858",
+    "43.8840456",
+    "5.7270218",
+    "5.8520753"
+   ]
+  }
+ ],
+ "Sisteron, Alpes-de-Haute-Provence, France": [
+  {
+   "place_id": 87932707,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 186893,
+   "lat": "44.1963467",
+   "lon": "5.9443791",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5510843371943279,
+   "addresstype": "town",
+   "name": "Sisteron",
+   "display_name": "Sisteron, Forcalquier, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04200, France",
+   "boundingbox": [
+    "44.1492000",
+    "44.2495255",
+    "5.8730086",
+    "5.9828434"
+   ]
+  }
+ ],
+ "Tallard, Hautes-Alpes, France": [
+  {
+   "place_id": 88056845,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 196622,
+   "lat": "44.4618971",
+   "lon": "6.0550731",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5245809813568343,
+   "addresstype": "village",
+   "name": "Tallard",
+   "display_name": "Tallard, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05130, France",
+   "boundingbox": [
+    "44.4371299",
+    "44.4828516",
+    "6.0141790",
+    "6.0826305"
+   ]
+  }
+ ],
+ "Gap, Hautes-Alpes, France": [
+  {
+   "place_id": 88382057,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 367142,
+   "lat": "44.5612032",
+   "lon": "6.0820639",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5884041815687323,
+   "addresstype": "town",
+   "name": "Gap",
+   "display_name": "Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05000, France",
+   "boundingbox": [
+    "44.4947938",
+    "44.6650138",
+    "5.9805869",
+    "6.1411293"
+   ]
+  },
+  {
+   "place_id": 88224610,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1686356,
+   "lat": "44.5305243",
+   "lon": "6.1580317",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5293612920116202,
+   "addresstype": "municipality",
+   "name": "Gap",
+   "display_name": "Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "44.1863785",
+    "44.8745992",
+    "5.4183896",
+    "6.6843970"
+   ]
+  }
+ ],
+ "Chorges, Hautes-Alpes, France": [
+  {
+   "place_id": 88020058,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 367132,
+   "lat": "44.5450837",
+   "lon": "6.2754561",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5236830867036473,
+   "addresstype": "village",
+   "name": "Chorges",
+   "display_name": "Chorges, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05230, France",
+   "boundingbox": [
+    "44.4911076",
+    "44.6033931",
+    "6.2380597",
+    "6.3362872"
+   ]
+  }
+ ],
+ "Savines-le-Lac, Hautes-Alpes, France": [
+  {
+   "place_id": 89051237,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 76347,
+   "lat": "44.5257904",
+   "lon": "6.4049867",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5223464987992218,
+   "addresstype": "village",
+   "name": "Savines-le-Lac",
+   "display_name": "Savines-le-Lac, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05160, France",
+   "boundingbox": [
+    "44.4876508",
+    "44.5725680",
+    "6.3552525",
+    "6.4339701"
+   ]
+  }
+ ],
+ "Embrun, Hautes-Alpes, France": [
+  {
+   "place_id": 88286784,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 76329,
+   "lat": "44.5641764",
+   "lon": "6.4958189",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5419254480658402,
+   "addresstype": "town",
+   "name": "Embrun",
+   "display_name": "Embrun, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05200, France",
+   "boundingbox": [
+    "44.5420808",
+    "44.6194995",
+    "6.4302968",
+    "6.5204521"
+   ]
+  }
+ ],
+ "Guillestre, Hautes-Alpes, France": [
+  {
+   "place_id": 88549441,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 80451,
+   "lat": "44.6597849",
+   "lon": "6.6493945",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.518975427565591,
+   "addresstype": "village",
+   "name": "Guillestre",
+   "display_name": "Guillestre, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05600, France",
+   "boundingbox": [
+    "44.6024243",
+    "44.7167675",
+    "6.5907901",
+    "6.8057591"
+   ]
+  }
+ ],
+ "L'Argentiere-la-Bessee, Hautes-Alpes, France": [
+  {
+   "place_id": 88448103,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 75179,
+   "lat": "44.7896878",
+   "lon": "6.5588696",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5224813918111655,
+   "addresstype": "village",
+   "name": "L'Argenti\u00e8re-la-Bess\u00e9e",
+   "display_name": "L'Argenti\u00e8re-la-Bess\u00e9e, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05120, France",
+   "boundingbox": [
+    "44.7573449",
+    "44.8096793",
+    "6.3530095",
+    "6.5902933"
+   ]
+  }
+ ],
+ "Briancon, Hautes-Alpes, France": [
+  {
+   "place_id": 87788540,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 85421,
+   "lat": "44.8984037",
+   "lon": "6.6436313",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5709149346441321,
+   "addresstype": "town",
+   "name": "Brian\u00e7on",
+   "display_name": "Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05100, France",
+   "boundingbox": [
+    "44.8692177",
+    "44.9297935",
+    "6.6004291",
+    "6.7065027"
+   ]
+  },
+  {
+   "place_id": 88158220,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1686355,
+   "lat": "44.8317852",
+   "lon": "6.6722988",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.49352556223521465,
+   "addresstype": "municipality",
+   "name": "Brian\u00e7on",
+   "display_name": "Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "44.5370023",
+    "45.1266002",
+    "6.2007941",
+    "7.0771437"
+   ]
+  }
+ ],
+ "Col de Montgenevre": [
+  {
+   "place_id": 88155126,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 442880977,
+   "lat": "44.9312741",
+   "lon": "6.7257053",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.4280914242677236,
+   "addresstype": "mountain_pass",
+   "name": "Col de Montgen\u00e8vre - Colle del Monginevro",
+   "display_name": "Col de Montgen\u00e8vre - Colle del Monginevro, Montgen\u00e8vre, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05100, France",
+   "boundingbox": [
+    "44.9312241",
+    "44.9313241",
+    "6.7256553",
+    "6.7257553"
+   ]
+  }
+ ],
+ "Claviere, Torino, Italia": [
+  {
+   "place_id": 88197567,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43802,
+   "lat": "44.9387991",
+   "lon": "6.7502942",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5981056043544566,
+   "addresstype": "village",
+   "name": "Claviere",
+   "display_name": "Claviere, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "44.9133215",
+    "44.9480710",
+    "6.7436590",
+    "6.7656257"
+   ]
+  }
+ ],
+ "Cesana Torinese, Torino, Italia": [
+  {
+   "place_id": 88247608,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43801,
+   "lat": "44.9524431",
+   "lon": "6.7906727",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6062167834086543,
+   "addresstype": "village",
+   "name": "Cesana Torinese",
+   "display_name": "Cesana Torinese, Torino, Piemonte, 10054, Italia",
+   "boundingbox": [
+    "44.8432822",
+    "45.0144817",
+    "6.7373504",
+    "6.9314224"
+   ]
+  }
+ ],
+ "Oulx, Torino, Italia": [
+  {
+   "place_id": 88922218,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43955,
+   "lat": "45.0330519",
+   "lon": "6.8325100",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6035948983807535,
+   "addresstype": "village",
+   "name": "Oulx",
+   "display_name": "Oulx, Torino, Piemonte, 10056, Italia",
+   "boundingbox": [
+    "44.9868739",
+    "45.1138916",
+    "6.7034463",
+    "6.9176943"
+   ]
+  }
+ ],
+ "Exilles, Torino, Italia": [
+  {
+   "place_id": 88622400,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 44125,
+   "lat": "45.0973834",
+   "lon": "6.9290646",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6001197843200708,
+   "addresstype": "village",
+   "name": "Exilles",
+   "display_name": "Exilles, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "45.0603018",
+    "45.1448228",
+    "6.8480080",
+    "6.9707513"
+   ]
+  }
+ ],
+ "Crest, Drome, France": [
+  {
+   "place_id": 87563811,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 84754,
+   "lat": "44.7282675",
+   "lon": "5.0236641",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5518919822928422,
+   "addresstype": "village",
+   "name": "Crest",
+   "display_name": "Crest, Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26400, France",
+   "boundingbox": [
+    "44.7024023",
+    "44.7601040",
+    "4.9800735",
+    "5.0622656"
+   ]
+  }
+ ],
+ "Saillans, Drome, France": [
+  {
+   "place_id": 88080643,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 18476605,
+   "lat": "44.6975415",
+   "lon": "5.1972501",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5420754837194226,
+   "addresstype": "village",
+   "name": "Saillans",
+   "display_name": "Saillans, Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26340, France",
+   "boundingbox": [
+    "44.6709380",
+    "44.7707297",
+    "5.1416658",
+    "5.2347504"
+   ]
+  },
+  {
+   "place_id": 87966435,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 86455,
+   "lat": "44.6940841",
+   "lon": "5.1900057",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.5420754837194226,
+   "addresstype": "city_district",
+   "name": "Saillans",
+   "display_name": "Saillans, Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26340, France",
+   "boundingbox": [
+    "44.6709380",
+    "44.7170080",
+    "5.1416658",
+    "5.2171447"
+   ]
+  }
+ ],
+ "Die, Drome, France": [
+  {
+   "place_id": 87680147,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 66441,
+   "lat": "44.7533712",
+   "lon": "5.3689136",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5571902299318445,
+   "addresstype": "town",
+   "name": "Die",
+   "display_name": "Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26150, France",
+   "boundingbox": [
+    "44.7110715",
+    "44.7919007",
+    "5.3140953",
+    "5.4612100"
+   ]
+  },
+  {
+   "place_id": 88137202,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 2846697,
+   "lat": "44.7732878",
+   "lon": "5.2488838",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5233071481125083,
+   "addresstype": "municipality",
+   "name": "Die",
+   "display_name": "Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "44.4581120",
+    "45.0886399",
+    "4.7590145",
+    "5.8303491"
+   ]
+  }
+ ],
+ "Luc-en-Diois, Drome, France": [
+  {
+   "place_id": 87928255,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 88556,
+   "lat": "44.6152000",
+   "lon": "5.4517754",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5422251764340694,
+   "addresstype": "village",
+   "name": "Luc-en-Diois",
+   "display_name": "Luc-en-Diois, Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26310, France",
+   "boundingbox": [
+    "44.5770179",
+    "44.6494102",
+    "5.4230126",
+    "5.4886905"
+   ]
+  }
+ ],
+ "Col de Cabre, Drome": [
+  {
+   "place_id": 87696875,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1947205676,
+   "lat": "44.5495973",
+   "lon": "5.5983269",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.2328416436185146,
+   "addresstype": "mountain_pass",
+   "name": "Col de Cabre",
+   "display_name": "Col de Cabre, La Beaume, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05140, France",
+   "boundingbox": [
+    "44.5495473",
+    "44.5496473",
+    "5.5982769",
+    "5.5983769"
+   ]
+  }
+ ],
+ "Col de Grimone": [
+  {
+   "place_id": 87897455,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 858361284,
+   "lat": "44.6914457",
+   "lon": "5.6539885",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.311877314681546,
+   "addresstype": "mountain_pass",
+   "name": "Col de Grimone",
+   "display_name": "Col de Grimone, Glandage, Die, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 26410, France",
+   "boundingbox": [
+    "44.6913957",
+    "44.6914957",
+    "5.6539385",
+    "5.6540385"
+   ]
+  }
+ ],
+ "La Beaume, Hautes-Alpes, France": [
+  {
+   "place_id": 87835923,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 937365,
+   "lat": "44.5533503",
+   "lon": "5.6358252",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5187380567579033,
+   "addresstype": "village",
+   "name": "La Beaume",
+   "display_name": "La Beaume, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05140, France",
+   "boundingbox": [
+    "44.5193630",
+    "44.5757596",
+    "5.5966760",
+    "5.7063330"
+   ]
+  }
+ ],
+ "Aspres-sur-Buech, Hautes-Alpes, France": [
+  {
+   "place_id": 88126783,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 276325,
+   "lat": "44.5219283",
+   "lon": "5.7502024",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5212801128253429,
+   "addresstype": "village",
+   "name": "Aspres-sur-Bu\u00ebch",
+   "display_name": "Aspres-sur-Bu\u00ebch, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05140, France",
+   "boundingbox": [
+    "44.4884551",
+    "44.6326496",
+    "5.7200594",
+    "5.8153761"
+   ]
+  }
+ ],
+ "Veynes, Hautes-Alpes, France": [
+  {
+   "place_id": 88249432,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 556905,
+   "lat": "44.5349009",
+   "lon": "5.8244718",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5242539095892312,
+   "addresstype": "village",
+   "name": "Veynes",
+   "display_name": "Veynes, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05400, France",
+   "boundingbox": [
+    "44.5120526",
+    "44.6076507",
+    "5.7809051",
+    "5.8645250"
+   ]
+  }
+ ],
+ "Chateau-Ville-Vieille, Hautes-Alpes, France": [
+  {
+   "place_id": 88255405,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 373028,
+   "lat": "44.7624644",
+   "lon": "6.8114557",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5149947217046412,
+   "addresstype": "city",
+   "name": "Ch\u00e2teau-Ville-Vieille",
+   "display_name": "Ch\u00e2teau-Ville-Vieille, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05350, France",
+   "boundingbox": [
+    "44.7029769",
+    "44.8211761",
+    "6.7478353",
+    "6.8735930"
+   ]
+  }
+ ],
+ "Aiguilles, Hautes-Alpes, France": [
+  {
+   "place_id": 88303419,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 373838,
+   "lat": "44.7811050",
+   "lon": "6.8686622",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5146412638389467,
+   "addresstype": "village",
+   "name": "Aiguilles",
+   "display_name": "Aiguilles, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05470, France",
+   "boundingbox": [
+    "44.7370438",
+    "44.8287075",
+    "6.8293757",
+    "6.9252703"
+   ]
+  }
+ ],
+ "Abries, Hautes-Alpes, France": [
+  {
+   "place_id": 88198539,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 385769,
+   "lat": "44.8122221",
+   "lon": "6.9463074",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.4833777104991055,
+   "addresstype": "city_district",
+   "name": "Abri\u00e8s",
+   "display_name": "Abri\u00e8s, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7599586",
+    "44.8644491",
+    "6.8662466",
+    "7.0250798"
+   ]
+  },
+  {
+   "place_id": 88674370,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 285073587,
+   "lat": "44.7940562",
+   "lon": "6.9279072",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.14672417868314636,
+   "addresstype": "village",
+   "name": "Abri\u00e8s",
+   "display_name": "Abri\u00e8s, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7740562",
+    "44.8140562",
+    "6.9079072",
+    "6.9479072"
+   ]
+  },
+  {
+   "place_id": 88724805,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 8845466,
+   "lat": "44.7717428",
+   "lon": "6.9656411",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.44379706256812973,
+   "addresstype": "city",
+   "name": "Abri\u00e8s-Ristolas",
+   "display_name": "Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.6794759",
+    "44.8644491",
+    "6.8662466",
+    "7.0771437"
+   ]
+  }
+ ],
+ "Ristolas, Hautes-Alpes, France": [
+  {
+   "place_id": 88849354,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 971975,
+   "lat": "44.7357381",
+   "lon": "6.9769309",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.4877572095098274,
+   "addresstype": "city_district",
+   "name": "Ristolas",
+   "display_name": "Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.6794759",
+    "44.7918964",
+    "6.9221523",
+    "7.0771437"
+   ]
+  },
+  {
+   "place_id": 88478162,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1872880875,
+   "lat": "44.7732742",
+   "lon": "6.9558493",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.14672283741512165,
+   "addresstype": "village",
+   "name": "Ristolas",
+   "display_name": "Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7532742",
+    "44.7932742",
+    "6.9358493",
+    "6.9758493"
+   ]
+  }
+ ],
+ "L'Echalp, Ristolas, Hautes-Alpes": [
+  {
+   "place_id": 88121004,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 3461978643,
+   "lat": "44.7581006",
+   "lon": "6.9928801",
+   "class": "highway",
+   "type": "platform",
+   "place_rank": 30,
+   "importance": 5.617074845497852e-05,
+   "addresstype": "highway",
+   "name": "L'Echalp",
+   "display_name": "L'Echalp, D 947, L'\u00c9chalp, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7580506",
+    "44.7581506",
+    "6.9928301",
+    "6.9929301"
+   ]
+  },
+  {
+   "place_id": 88449381,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 6772509744,
+   "lat": "44.7573667",
+   "lon": "6.9925889",
+   "class": "information",
+   "type": "guidepost",
+   "place_rank": 30,
+   "importance": 5.617074845497852e-05,
+   "addresstype": "information",
+   "name": "L'Echalp",
+   "display_name": "L'Echalp, D 947, L'\u00c9chalp, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7573167",
+    "44.7574167",
+    "6.9925389",
+    "6.9926389"
+   ]
+  },
+  {
+   "place_id": 88477131,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2008958012,
+   "lat": "44.7581137",
+   "lon": "6.9927832",
+   "class": "highway",
+   "type": "bus_stop",
+   "place_rank": 30,
+   "importance": 5.617074845497852e-05,
+   "addresstype": "highway",
+   "name": "L'Echalp",
+   "display_name": "L'Echalp, D 947, L'\u00c9chalp, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7580637",
+    "44.7581637",
+    "6.9927332",
+    "6.9928332"
+   ]
+  },
+  {
+   "place_id": 88467479,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1894559841,
+   "lat": "44.7596542",
+   "lon": "6.9935231",
+   "class": "place",
+   "type": "hamlet",
+   "place_rank": 20,
+   "importance": 0.13338950408178835,
+   "addresstype": "hamlet",
+   "name": "L'\u00c9chalp",
+   "display_name": "L'\u00c9chalp, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7396542",
+    "44.7796542",
+    "6.9735231",
+    "7.0135231"
+   ]
+  }
+ ],
+ "Refuge du Viso, Ristolas": [
+  {
+   "place_id": 88107719,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 181010670,
+   "lat": "44.7004404",
+   "lon": "7.0514593",
+   "class": "tourism",
+   "type": "alpine_hut",
+   "place_rank": 30,
+   "importance": 0.22274623325780465,
+   "addresstype": "tourism",
+   "name": "Refuge du Viso",
+   "display_name": "Refuge du Viso, Normale Alle Rocce Fourioun, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7003209",
+    "44.7005481",
+    "7.0512550",
+    "7.0516635"
+   ]
+  },
+  {
+   "place_id": 88588874,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 7916290898,
+   "lat": "44.7003591",
+   "lon": "7.0517571",
+   "class": "information",
+   "type": "guidepost",
+   "place_rank": 30,
+   "importance": 5.617074845497852e-05,
+   "addresstype": "information",
+   "name": "Refuge du Viso",
+   "display_name": "Refuge du Viso, Normale Alle Rocce Fourioun, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7003091",
+    "44.7004091",
+    "7.0517071",
+    "7.0518071"
+   ]
+  }
+ ],
+ "Col de la Traversette": [
+  {
+   "place_id": 88550622,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 293467280,
+   "lat": "44.7108916",
+   "lon": "7.0663531",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.2659205816262254,
+   "addresstype": "mountain_pass",
+   "name": "Col de la Traversette / Colle Delle Traversette",
+   "display_name": "Col de la Traversette / Colle Delle Traversette, Ristolas, Abri\u00e8s-Ristolas, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05460, France",
+   "boundingbox": [
+    "44.7108416",
+    "44.7109416",
+    "7.0663031",
+    "7.0664031"
+   ]
+  },
+  {
+   "place_id": 89317017,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2505146523,
+   "lat": "45.6573608",
+   "lon": "6.8763509",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.13339273441672386,
+   "addresstype": "mountain_pass",
+   "name": "Col de la Traversette",
+   "display_name": "Col de la Traversette, Montvalezan, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73700, France",
+   "boundingbox": [
+    "45.6573108",
+    "45.6574108",
+    "6.8763009",
+    "6.8764009"
+   ]
+  }
+ ],
+ "Pian del Re, Crissolo": [
+  {
+   "place_id": 88636883,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2323029489,
+   "lat": "44.7006561",
+   "lon": "7.0960142",
+   "class": "place",
+   "type": "locality",
+   "place_rank": 25,
+   "importance": 0.24930035976498935,
+   "addresstype": "locality",
+   "name": "Pian del Re",
+   "display_name": "Pian del Re, Crissolo, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.6906561",
+    "44.7106561",
+    "7.0860142",
+    "7.1060142"
+   ]
+  }
+ ],
+ "Crissolo, Cuneo, Italia": [
+  {
+   "place_id": 87197472,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43463,
+   "lat": "44.7030562",
+   "lon": "7.1197040",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5865477637732518,
+   "addresstype": "city",
+   "name": "Crissolo",
+   "display_name": "Crissolo, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.6627410",
+    "44.7433496",
+    "7.0652277",
+    "7.1810422"
+   ]
+  }
+ ],
+ "Paesana, Cuneo, Italia": [
+  {
+   "place_id": 87902081,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43399,
+   "lat": "44.6697772",
+   "lon": "7.2512548",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5858516815495207,
+   "addresstype": "city",
+   "name": "Paesana",
+   "display_name": "Paesana, Cuneo, Piemonte, 12034, Italia",
+   "boundingbox": [
+    "44.6197825",
+    "44.7184001",
+    "7.2007067",
+    "7.3097876"
+   ]
+  }
+ ],
+ "Saluzzo, Cuneo, Italia": [
+  {
+   "place_id": 87904316,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43392,
+   "lat": "44.6843130",
+   "lon": "7.4942240",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5984726176843624,
+   "addresstype": "city",
+   "name": "Saluzzo",
+   "display_name": "Saluzzo, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.6080527",
+    "44.7593561",
+    "7.4301020",
+    "7.5485815"
+   ]
+  },
+  {
+   "place_id": 88291553,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 63626805,
+   "lat": "44.6446052",
+   "lon": "7.4926009",
+   "class": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.16006544518196383,
+   "addresstype": "town",
+   "name": "Saluzzo",
+   "display_name": "Saluzzo, Cuneo, Piemonte, 12037, Italia",
+   "boundingbox": [
+    "44.6046052",
+    "44.6846052",
+    "7.4526009",
+    "7.5326009"
+   ]
+  }
+ ],
+ "Carmagnola, Torino, Italia": [
+  {
+   "place_id": 88368900,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43663,
+   "lat": "44.8455856",
+   "lon": "7.7192711",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6056452488671941,
+   "addresstype": "town",
+   "name": "Carmagnola",
+   "display_name": "Carmagnola, Torino, Piemonte, 10022, Italia",
+   "boundingbox": [
+    "44.8102308",
+    "44.9135190",
+    "7.6465053",
+    "7.8228258"
+   ]
+  },
+  {
+   "place_id": 88355028,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 142250167,
+   "lat": "44.8706272",
+   "lon": "7.6777073",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.18673134279392686,
+   "addresstype": "city",
+   "name": "Carmagnola",
+   "display_name": "Carmagnola, Torino, Piemonte, Italia",
+   "boundingbox": [
+    "44.8682234",
+    "44.8730755",
+    "7.6726281",
+    "7.6831595"
+   ]
+  }
+ ],
+ "Col Agnel": [
+  {
+   "place_id": 88013650,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 412129180,
+   "lat": "44.6838851",
+   "lon": "6.9795875",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.4220295981021329,
+   "addresstype": "mountain_pass",
+   "name": "Col Agnel / Colle dell'Agnello",
+   "display_name": "Col Agnel / Colle dell'Agnello, Pontechianale, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.6838351",
+    "44.6839351",
+    "6.9795375",
+    "6.9796375"
+   ]
+  }
+ ],
+ "Colle della Croce, Cuneo": [],
+ "Le Lauzet-Ubaye, Alpes-de-Haute-Provence, France": [
+  {
+   "place_id": 87689602,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 454762,
+   "lat": "44.4284580",
+   "lon": "6.4339749",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5216223390046109,
+   "addresstype": "village",
+   "name": "Le Lauzet-Ubaye",
+   "display_name": "Le Lauzet-Ubaye, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04340, France",
+   "boundingbox": [
+    "44.3668197",
+    "44.4839617",
+    "6.3261786",
+    "6.4849928"
+   ]
+  }
+ ],
+ "Barcelonnette, Alpes-de-Haute-Provence, France": [
+  {
+   "place_id": 88016746,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 363726,
+   "lat": "44.3862043",
+   "lon": "6.6513554",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5361723827571145,
+   "addresstype": "town",
+   "name": "Barcelonnette",
+   "display_name": "Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04400, France",
+   "boundingbox": [
+    "44.3381044",
+    "44.4129472",
+    "6.6187913",
+    "6.6733869"
+   ]
+  },
+  {
+   "place_id": 88032705,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1687248,
+   "lat": "44.4553239",
+   "lon": "6.7722008",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.4807552415105173,
+   "addresstype": "municipality",
+   "name": "Barcelonnette",
+   "display_name": "Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "44.2508214",
+    "44.6599148",
+    "6.2324550",
+    "6.9691427"
+   ]
+  }
+ ],
+ "Jausiers, Alpes-de-Haute-Provence, France": [
+  {
+   "place_id": 89362454,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 363687,
+   "lat": "44.4194297",
+   "lon": "6.7340119",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5258944965632636,
+   "addresstype": "village",
+   "name": "Jausiers",
+   "display_name": "Jausiers, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04850, France",
+   "boundingbox": [
+    "44.3154696",
+    "44.4421503",
+    "6.6795874",
+    "6.8701952"
+   ]
+  }
+ ],
+ "Larche, Alpes-de-Haute-Provence, France": [
+  {
+   "place_id": 88564890,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 375147,
+   "lat": "44.4511952",
+   "lon": "6.8462900",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.4997547676148695,
+   "addresstype": "hamlet",
+   "name": "Larche",
+   "display_name": "Larche, Val-d'Oronaye, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04530, France",
+   "boundingbox": [
+    "44.3515141",
+    "44.4909060",
+    "6.8079534",
+    "6.9480770"
+   ]
+  }
+ ],
+ "Col de Larche": [
+  {
+   "place_id": 87765777,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 928715494,
+   "lat": "44.4218328",
+   "lon": "6.8984272",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.4242810569321047,
+   "addresstype": "mountain_pass",
+   "name": "Col de Larche / Colle della Maddalena",
+   "display_name": "Col de Larche / Colle della Maddalena, Val-d'Oronaye, Barcelonnette, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04530, France",
+   "boundingbox": [
+    "44.4217828",
+    "44.4218828",
+    "6.8983772",
+    "6.8984772"
+   ]
+  }
+ ],
+ "Col de Vars": [
+  {
+   "place_id": 88273121,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 454117813,
+   "lat": "44.5388042",
+   "lon": "6.7028384",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.3898810858579735,
+   "addresstype": "mountain_pass",
+   "name": "Col de Vars",
+   "display_name": "Col de Vars, Vars, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 05560, France",
+   "boundingbox": [
+    "44.5387542",
+    "44.5388542",
+    "6.7027884",
+    "6.7028884"
+   ]
+  }
+ ],
+ "Argentera, Cuneo, Italia": [
+  {
+   "place_id": 87701256,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43108,
+   "lat": "44.3746290",
+   "lon": "6.9542095",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5843321915582237,
+   "addresstype": "city",
+   "name": "Argentera",
+   "display_name": "Argentera, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.3192926",
+    "44.4299575",
+    "6.8870076",
+    "7.0305108"
+   ]
+  }
+ ],
+ "Pietraporzio, Cuneo, Italia": [
+  {
+   "place_id": 88327350,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43029,
+   "lat": "44.3437676",
+   "lon": "7.0334623",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.585603724403626,
+   "addresstype": "village",
+   "name": "Pietraporzio",
+   "display_name": "Pietraporzio, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.2800848",
+    "44.3795261",
+    "6.9527520",
+    "7.0582895"
+   ]
+  }
+ ],
+ "Vinadio, Cuneo, Italia": [
+  {
+   "place_id": 91610079,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 42966,
+   "lat": "44.2761309",
+   "lon": "7.0947094",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5874284207118172,
+   "addresstype": "city",
+   "name": "Vinadio",
+   "display_name": "Vinadio, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.1972342",
+    "44.3540922",
+    "6.9945833",
+    "7.2209632"
+   ]
+  }
+ ],
+ "Demonte, Cuneo, Italia": [
+  {
+   "place_id": 87189319,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43012,
+   "lat": "44.3243071",
+   "lon": "7.3033518",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5869602111454814,
+   "addresstype": "city",
+   "name": "Demonte",
+   "display_name": "Demonte, Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.2612319",
+    "44.3873930",
+    "7.1014235",
+    "7.3797359"
+   ]
+  }
+ ],
+ "Borgo San Dalmazzo, Cuneo, Italia": [
+  {
+   "place_id": 88515351,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43024,
+   "lat": "44.3269526",
+   "lon": "7.4695328",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5876612761896459,
+   "addresstype": "city",
+   "name": "Borgo San Dalmazzo",
+   "display_name": "Borgo San Dalmazzo, Cuneo, Piemonte, 12011, Italia",
+   "boundingbox": [
+    "44.2981992",
+    "44.3557533",
+    "7.4183548",
+    "7.5240550"
+   ]
+  },
+  {
+   "place_id": 87802810,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 63626393,
+   "lat": "44.3286517",
+   "lon": "7.4874561",
+   "class": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.1600647981994354,
+   "addresstype": "town",
+   "name": "Borgo San Dalmazzo",
+   "display_name": "Borgo San Dalmazzo, Cuneo, Piemonte, 12011, Italia",
+   "boundingbox": [
+    "44.2886517",
+    "44.3686517",
+    "7.4474561",
+    "7.5274561"
+   ]
+  }
+ ],
+ "Cuneo, Italia": [
+  {
+   "place_id": 88080498,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 42845,
+   "lat": "44.4580704",
+   "lon": "7.5581367",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.7250693826333917,
+   "addresstype": "county",
+   "name": "Cuneo",
+   "display_name": "Cuneo, Piemonte, Italia",
+   "boundingbox": [
+    "44.0597158",
+    "44.8566056",
+    "6.8545067",
+    "8.2692128"
+   ]
+  },
+  {
+   "place_id": 88609677,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43083,
+   "lat": "44.3896330",
+   "lon": "7.5479007",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6265823348714198,
+   "addresstype": "city",
+   "name": "Cuneo",
+   "display_name": "Cuneo, Piemonte, 12100, Italia",
+   "boundingbox": [
+    "44.3472648",
+    "44.4899189",
+    "7.4745897",
+    "7.6406940"
+   ]
+  }
+ ],
+ "Savigliano, Cuneo, Italia": [
+  {
+   "place_id": 88738008,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 43285,
+   "lat": "44.6138134",
+   "lon": "7.6412661",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5940772906576484,
+   "addresstype": "city",
+   "name": "Savigliano",
+   "display_name": "Savigliano, Cuneo, Piemonte, 12038, Italia",
+   "boundingbox": [
+    "44.5365530",
+    "44.6897021",
+    "7.5571237",
+    "7.7145569"
+   ]
+  },
+  {
+   "place_id": 88570764,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 63625935,
+   "lat": "44.6440370",
+   "lon": "7.6559290",
+   "class": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.16006508659494925,
+   "addresstype": "town",
+   "name": "Savigliano",
+   "display_name": "Savigliano, Cuneo, Piemonte, 12038, Italia",
+   "boundingbox": [
+    "44.6040370",
+    "44.6840370",
+    "7.6159290",
+    "7.6959290"
+   ]
+  }
+ ],
+ "Bourgoin-Jallieu, Isere, France": [
+  {
+   "place_id": 88781560,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 78763,
+   "lat": "45.5860438",
+   "lon": "5.2772265",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5871445500275752,
+   "addresstype": "town",
+   "name": "Bourgoin-Jallieu",
+   "display_name": "Bourgoin-Jallieu, La Tour-du-Pin, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 38300, France",
+   "boundingbox": [
+    "45.5687883",
+    "45.6362954",
+    "5.2258778",
+    "5.3235660"
+   ]
+  }
+ ],
+ "Chambery, Savoie, France": [
+  {
+   "place_id": 89325361,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 74386,
+   "lat": "45.5662672",
+   "lon": "5.9203636",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6251931036636355,
+   "addresstype": "town",
+   "name": "Chamb\u00e9ry",
+   "display_name": "Chamb\u00e9ry, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, 73000, France",
+   "boundingbox": [
+    "45.5480625",
+    "45.6164340",
+    "5.8712335",
+    "5.9414391"
+   ]
+  },
+  {
+   "place_id": 89378612,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1670129,
+   "lat": "45.6452246",
+   "lon": "5.9636241",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5337595937494201,
+   "addresstype": "municipality",
+   "name": "Chamb\u00e9ry",
+   "display_name": "Chamb\u00e9ry, Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.3524661",
+    "45.9382736",
+    "5.6218274",
+    "6.2982641"
+   ]
+  }
+ ],
+ "Annecy, Haute-Savoie, France": [
+  {
+   "place_id": 88514330,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 6791758,
+   "lat": "45.8992348",
+   "lon": "6.1288847",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.6280772037744516,
+   "addresstype": "city",
+   "name": "Annecy",
+   "display_name": "Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.8280024",
+    "45.9766928",
+    "6.0484121",
+    "6.2043932"
+   ]
+  },
+  {
+   "place_id": 89051741,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1668737,
+   "lat": "45.8782687",
+   "lon": "6.1700093",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 14,
+   "importance": 0.5155213572122379,
+   "addresstype": "municipality",
+   "name": "Annecy",
+   "display_name": "Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, France m\u00e9tropolitaine, France",
+   "boundingbox": [
+    "45.6817078",
+    "46.0702526",
+    "5.8624243",
+    "6.5559605"
+   ]
+  }
+ ],
+ "Geneve, Suisse": [
+  {
+   "place_id": 91143071,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1685488,
+   "lat": "46.2017559",
+   "lon": "6.1466014",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.7523100793715075,
+   "addresstype": "city",
+   "name": "Gen\u00e8ve",
+   "display_name": "Gen\u00e8ve, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.1777742",
+    "46.2318859",
+    "6.1102325",
+    "6.1758454"
+   ]
+  },
+  {
+   "place_id": 91240771,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1702419,
+   "lat": "46.2256509",
+   "lon": "6.1439209",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 8,
+   "importance": 0.6016729386959933,
+   "addresstype": "state",
+   "name": "Gen\u00e8ve",
+   "display_name": "Gen\u00e8ve, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.1285503",
+    "46.3645785",
+    "5.9559020",
+    "6.3102823"
+   ]
+  }
+ ],
+ "Villeneuve, Vaud, Suisse": [
+  {
+   "place_id": 91676721,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1685193,
+   "lat": "46.3965712",
+   "lon": "6.9248129",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.4567623492664263,
+   "addresstype": "village",
+   "name": "Villeneuve (VD)",
+   "display_name": "Villeneuve (VD), District d'Aigle, Vaud, 1844, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.3696776",
+    "46.4432649",
+    "6.8796897",
+    "7.0406211"
+   ]
+  }
+ ],
+ "Saint-Maurice, Valais, Suisse": [
+  {
+   "place_id": 91323740,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 2757524,
+   "lat": "46.2197694",
+   "lon": "7.0045193",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.4748944562310848,
+   "addresstype": "village",
+   "name": "Saint-Maurice",
+   "display_name": "Saint-Maurice, Bas-Valais, Valais/Wallis, 1890, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.1669526",
+    "46.2255279",
+    "6.9454138",
+    "7.0346737"
+   ]
+  },
+  {
+   "place_id": 90926570,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1685368,
+   "lat": "46.2028333",
+   "lon": "7.0072913",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.4748944562310848,
+   "addresstype": "city_district",
+   "name": "Saint-Maurice",
+   "display_name": "Saint-Maurice, Bas-Valais, Valais/Wallis, 1890, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.1802480",
+    "46.2255279",
+    "6.9939979",
+    "7.0346737"
+   ]
+  },
+  {
+   "place_id": 91293244,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1686708,
+   "lat": "46.1499203",
+   "lon": "6.9864621",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.41264182722604775,
+   "addresstype": "county",
+   "name": "Saint-Maurice",
+   "display_name": "Saint-Maurice, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.0425240",
+    "46.2573012",
+    "6.8414232",
+    "7.0883193"
+   ]
+  }
+ ],
+ "Martigny, Valais, Suisse": [
+  {
+   "place_id": 91101216,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1685332,
+   "lat": "46.1031150",
+   "lon": "7.0727354",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5348470653377009,
+   "addresstype": "town",
+   "name": "Martigny",
+   "display_name": "Martigny, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "46.0733883",
+    "46.1406744",
+    "7.0284491",
+    "7.1572630"
+   ]
+  },
+  {
+   "place_id": 91807234,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1686706,
+   "lat": "46.1089479",
+   "lon": "7.0884602",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.45012717076902703,
+   "addresstype": "county",
+   "name": "Martigny",
+   "display_name": "Martigny, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "45.9805773",
+    "46.2372260",
+    "6.9483193",
+    "7.2955995"
+   ]
+  }
+ ],
+ "Orsieres, Valais, Suisse": [
+  {
+   "place_id": 88730248,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1685351,
+   "lat": "46.0300676",
+   "lon": "7.1453627",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.4299627096914104,
+   "addresstype": "village",
+   "name": "Orsi\u00e8res",
+   "display_name": "Orsi\u00e8res, Entremont, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "45.8581851",
+    "46.0603877",
+    "7.0084897",
+    "7.2013601"
+   ]
+  }
+ ],
+ "Bourg-Saint-Pierre, Valais, Suisse": [
+  {
+   "place_id": 89089025,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 1685281,
+   "lat": "45.9489252",
+   "lon": "7.2088271",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.4021043189142469,
+   "addresstype": "village",
+   "name": "Bourg-Saint-Pierre",
+   "display_name": "Bourg-Saint-Pierre, Entremont, Bas-Valais, Valais/Wallis, 1946, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "45.8586792",
+    "45.9742085",
+    "7.1375992",
+    "7.3008322"
+   ]
+  }
+ ],
+ "Col du Grand-Saint-Bernard": [
+  {
+   "place_id": 88889789,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2001818936,
+   "lat": "45.8690526",
+   "lon": "7.1704088",
+   "class": "mountain_pass",
+   "type": "yes",
+   "place_rank": 20,
+   "importance": 0.5075354900693441,
+   "addresstype": "mountain_pass",
+   "name": "Col du Grand Saint-Bernard",
+   "display_name": "Col du Grand Saint-Bernard, Bourg-Saint-Pierre, Entremont, Bas-Valais, Valais/Wallis, 1946, Schweiz/Suisse/Svizzera/Svizra",
+   "boundingbox": [
+    "45.8690026",
+    "45.8691026",
+    "7.1703588",
+    "7.1704588"
+   ]
+  },
+  {
+   "place_id": 424640538,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14070855076,
+   "lat": "45.8681192",
+   "lon": "7.1652726",
+   "class": "place",
+   "type": "isolated_dwelling",
+   "place_rank": 22,
+   "importance": 0.10671457465476461,
+   "addresstype": "isolated_dwelling",
+   "name": "Col du Grand-Saint-Bernard",
+   "display_name": "Col du Grand-Saint-Bernard, Fontintes, Saint-Rh\u00e9my-en-Bosses, Valle d'Aosta / Vall\u00e9e d'Aoste, Italia",
+   "boundingbox": [
+    "45.8680692",
+    "45.8681692",
+    "7.1652226",
+    "7.1653226"
+   ]
+  }
+ ],
+ "Saint-Rhemy-en-Bosses, Aosta, Italia": [
+  {
+   "place_id": 88913814,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 46104,
+   "lat": "45.8237439",
+   "lon": "7.1821889",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.5133372905481284,
+   "addresstype": "village",
+   "name": "Saint-Rh\u00e9my-en-Bosses",
+   "display_name": "Saint-Rh\u00e9my-en-Bosses, Valle d'Aosta / Vall\u00e9e d'Aoste, Italia",
+   "boundingbox": [
+    "45.7761917",
+    "45.8792527",
+    "7.0769521",
+    "7.2018862"
+   ]
+  }
+ ],
+ "Etroubles, Aosta, Italia": [
+  {
+   "place_id": 89206472,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 46197,
+   "lat": "45.8409505",
+   "lon": "7.2354527",
+   "class": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.51056800096375,
+   "addresstype": "city",
+   "name": "\u00c9troubles",
+   "display_name": "\u00c9troubles, Valle d'Aosta / Vall\u00e9e d'Aoste, 11014, Italia",
+   "boundingbox": [
+    "45.7900510",
+    "45.8919978",
+    "7.1932557",
+    "7.2645888"
+   ]
+  },
+  {
+   "place_id": 88715987,
+   "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 342444766,
+   "lat": "45.8205823",
+   "lon": "7.2305740",
+   "class": "place",
+   "type": "village",
+   "place_rank": 19,
+   "importance": 0.14672399404898143,
+   "addresstype": "village",
+   "name": "\u00c9troubles",
+   "display_name": "\u00c9troubles, Valle d'Aosta / Vall\u00e9e d'Aoste, 11014, Italia",
+   "boundingbox": [
+    "45.8005823",
+    "45.8405823",
+    "7.2105740",
+    "7.2505740"
+   ]
+  }
+ ]
+}

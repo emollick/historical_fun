@@ -1,0 +1,18 @@
+title: The Young Rose
+author: Thomas Moore
+date: c. 1800-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 8
+attribution: certain
+notes: song (Ballads, Songs, Miscellaneous Poems)
+
+The young rose I give thee, so dewy and bright,
+Was the floweret most dear to the sweet bird of night,
+Who oft, by the moon, o'er her blushes hath hung,
+And thrilled every leaf with the wild lay he sung.
+
+Oh, take thou this young rose, and let her life be
+Prolonged by the breath she will borrow from thee;
+For, while o'er her bosom thy soft notes shall thrill,
+She'll think the sweet night-bird is courting her still.

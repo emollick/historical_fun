@@ -1,0 +1,629 @@
+{
+ "tokenisation": "letters+apostrophes; hyphens/dashes split words",
+ "pamphlet_words_hyphen_split": 1324,
+ "pamphlet_words_hyphen_joined": 1322,
+ "nara_words_hyphen_split": 1322,
+ "gillogly_table1_words": 1322,
+ "last_printed_marker": 816,
+ "segment_anomalies": [
+  {
+   "segment_end_marker": 250,
+   "prev_marker": 240,
+   "words_in_segment": 11,
+   "marker_step": 10,
+   "words": "invariably the same object evinces a design to reduce them under"
+  },
+  {
+   "segment_end_marker": 480,
+   "prev_marker": 480,
+   "words_in_segment": 10,
+   "marker_step": 0,
+   "words": "he has refused for a long time after such dissolutions"
+  },
+  {
+   "segment_end_marker": 510,
+   "prev_marker": 500,
+   "words_in_segment": 9,
+   "marker_step": 10,
+   "words": "for their exercise the state remaining in the meantime"
+  },
+  {
+   "segment_end_marker": 640,
+   "prev_marker": 630,
+   "words_in_segment": 11,
+   "marker_step": 10,
+   "words": "of peace standing armies without the consent of our legislature he"
+  },
+  {
+   "segment_end_marker": 680,
+   "prev_marker": 670,
+   "words_in_segment": 11,
+   "marker_step": 10,
+   "words": "unacknowledged by our laws giving his assent to their acts of"
+  }
+ ],
+ "marker_offsets_vs_straight_count": [
+  {
+   "marker": 1,
+   "word": "when",
+   "straight_position": 1,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 2,
+   "word": "in",
+   "straight_position": 2,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 3,
+   "word": "the",
+   "straight_position": 3,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 4,
+   "word": "course",
+   "straight_position": 4,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 5,
+   "word": "of",
+   "straight_position": 5,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 6,
+   "word": "human",
+   "straight_position": 6,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 7,
+   "word": "events",
+   "straight_position": 7,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 8,
+   "word": "it",
+   "straight_position": 8,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 9,
+   "word": "becomes",
+   "straight_position": 9,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 10,
+   "word": "necessary",
+   "straight_position": 10,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 20,
+   "word": "have",
+   "straight_position": 20,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 30,
+   "word": "powers",
+   "straight_position": 30,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 40,
+   "word": "which",
+   "straight_position": 40,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 50,
+   "word": "them",
+   "straight_position": 50,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 60,
+   "word": "that",
+   "straight_position": 60,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 70,
+   "word": "the",
+   "straight_position": 70,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 80,
+   "word": "that",
+   "straight_position": 80,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 90,
+   "word": "by",
+   "straight_position": 90,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 100,
+   "word": "are",
+   "straight_position": 100,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 110,
+   "word": "secure",
+   "straight_position": 110,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 120,
+   "word": "just",
+   "straight_position": 120,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 130,
+   "word": "any",
+   "straight_position": 130,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 140,
+   "word": "is",
+   "straight_position": 140,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 150,
+   "word": "abolish",
+   "straight_position": 150,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 160,
+   "word": "foundation",
+   "straight_position": 160,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 170,
+   "word": "form",
+   "straight_position": 170,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 180,
+   "word": "their",
+   "straight_position": 180,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 190,
+   "word": "long",
+   "straight_position": 190,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 200,
+   "word": "causes",
+   "straight_position": 200,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 210,
+   "word": "now",
+   "straight_position": 210,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 220,
+   "word": "right",
+   "straight_position": 220,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 230,
+   "word": "accustomed",
+   "straight_position": 230,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 240,
+   "word": "pursuing",
+   "straight_position": 240,
+   "marker_minus_straight": 0
+  },
+  {
+   "marker": 250,
+   "word": "under",
+   "straight_position": 251,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 260,
+   "word": "duty",
+   "straight_position": 261,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 270,
+   "word": "guards",
+   "straight_position": 271,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 280,
+   "word": "sufferance",
+   "straight_position": 281,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 290,
+   "word": "which",
+   "straight_position": 291,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 300,
+   "word": "the",
+   "straight_position": 301,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 310,
+   "word": "a",
+   "straight_position": 311,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 320,
+   "word": "direct",
+   "straight_position": 321,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 330,
+   "word": "states",
+   "straight_position": 331,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 340,
+   "word": "candid",
+   "straight_position": 341,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 350,
+   "word": "most",
+   "straight_position": 351,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 360,
+   "word": "forbidden",
+   "straight_position": 361,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 370,
+   "word": "importance",
+   "straight_position": 371,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 380,
+   "word": "be",
+   "straight_position": 381,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 390,
+   "word": "to",
+   "straight_position": 391,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 400,
+   "word": "laws",
+   "straight_position": 401,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 410,
+   "word": "those",
+   "straight_position": 411,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 420,
+   "word": "legislature",
+   "straight_position": 421,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 430,
+   "word": "only",
+   "straight_position": 431,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 440,
+   "word": "uncomfortable",
+   "straight_position": 441,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 450,
+   "word": "for",
+   "straight_position": 451,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 460,
+   "word": "his",
+   "straight_position": 461,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 470,
+   "word": "with",
+   "straight_position": 471,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 480,
+   "word": "people",
+   "straight_position": 481,
+   "marker_minus_straight": -1
+  },
+  {
+   "marker": 480,
+   "word": "dissolutions",
+   "straight_position": 491,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 490,
+   "word": "powers",
+   "straight_position": 501,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 500,
+   "word": "large",
+   "straight_position": 511,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 510,
+   "word": "meantime",
+   "straight_position": 520,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 520,
+   "word": "and",
+   "straight_position": 530,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 530,
+   "word": "of",
+   "straight_position": 540,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 540,
+   "word": "naturalization",
+   "straight_position": 550,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 550,
+   "word": "migration",
+   "straight_position": 560,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 560,
+   "word": "lands",
+   "straight_position": 570,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 570,
+   "word": "his",
+   "straight_position": 580,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 580,
+   "word": "made",
+   "straight_position": 590,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 590,
+   "word": "of",
+   "straight_position": 600,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 600,
+   "word": "salaries",
+   "straight_position": 610,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 610,
+   "word": "sent",
+   "straight_position": 620,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 620,
+   "word": "eat",
+   "straight_position": 630,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 630,
+   "word": "times",
+   "straight_position": 640,
+   "marker_minus_straight": -10
+  },
+  {
+   "marker": 640,
+   "word": "he",
+   "straight_position": 651,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 650,
+   "word": "superior",
+   "straight_position": 661,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 660,
+   "word": "to",
+   "straight_position": 671,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 670,
+   "word": "and",
+   "straight_position": 681,
+   "marker_minus_straight": -11
+  },
+  {
+   "marker": 680,
+   "word": "of",
+   "straight_position": 692,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 690,
+   "word": "among",
+   "straight_position": 702,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 700,
+   "word": "punishment",
+   "straight_position": 712,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 710,
+   "word": "inhabitants",
+   "straight_position": 722,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 720,
+   "word": "all",
+   "straight_position": 732,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 730,
+   "word": "without",
+   "straight_position": 742,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 740,
+   "word": "the",
+   "straight_position": 752,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 750,
+   "word": "seas",
+   "straight_position": 762,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 760,
+   "word": "free",
+   "straight_position": 772,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 770,
+   "word": "therein",
+   "straight_position": 782,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 780,
+   "word": "to",
+   "straight_position": 792,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 790,
+   "word": "for",
+   "straight_position": 802,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 800,
+   "word": "taking",
+   "straight_position": 812,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 810,
+   "word": "altering",
+   "straight_position": 822,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 811,
+   "word": "fundamentally",
+   "straight_position": 823,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 812,
+   "word": "the",
+   "straight_position": 824,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 813,
+   "word": "powers",
+   "straight_position": 825,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 814,
+   "word": "of",
+   "straight_position": 826,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 815,
+   "word": "our",
+   "straight_position": 827,
+   "marker_minus_straight": -12
+  },
+  {
+   "marker": 816,
+   "word": "governments",
+   "straight_position": 828,
+   "marker_minus_straight": -12
+  }
+ ]
+}

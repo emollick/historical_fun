@@ -1,0 +1,5917 @@
+[
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 2943,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.15
+  },
+  "key": "ad_bonduca_1696",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.1095
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 2688,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.58
+  },
+  "key": "ad_bonduca_1696",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.1404
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 663,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.8
+  },
+  "key": "ad_bonduca_1696",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.3273
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 1970,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.3
+  },
+  "key": "ad_bonduca_1696",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.3625
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 1874,
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.77
+  },
+  "key": "ad_bonduca_1696",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.194
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3492,
+  "gi": {
+   "SH": 0.12,
+   "FL": 0.75
+  },
+  "key": "ad_bonduca_1696",
+  "orig": "fl_bonduca",
+  "orig_class": "FL",
+  "ret4": 0.399
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 3507,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.01
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0106
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 1819,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.41
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0958
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1474,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.75
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.2332
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 921,
+  "gi": {
+   "SH": 0.62,
+   "FL": 0.57
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0033
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 2181,
+  "gi": {
+   "SH": 0.6,
+   "FL": 0.4
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0712
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 617,
+  "gi": {
+   "SH": 0.68,
+   "FL": 0.74
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.2671
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1223,
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.27
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0098
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 1517,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.65
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0601
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 2511,
+  "gi": {
+   "SH": 0.38,
+   "FL": 0.4
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0012
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 528,
+  "gi": {
+   "SH": 0.69,
+   "FL": 0.76
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.2229
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 839,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.26
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0012
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 426,
+  "gi": {
+   "SH": 0.68,
+   "FL": 0.45
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.1064
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 784,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.55
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 2074,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.55
+  },
+  "key": "ad_caius_marius_1680",
+  "orig": "sh_romeo",
+  "orig_class": "SH",
+  "ret4": 0.1217
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 536,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.71
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.788
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 450,
+  "gi": {
+   "SH": 0.22,
+   "FL": 0.68
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8568
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 276,
+  "gi": {
+   "SH": 0.62,
+   "FL": 0.87
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7399
+ },
+ {
+  "act": 1,
+  "scene": 4,
+  "n_words": 78,
+  "gi": {
+   "SH": 0.54,
+   "FL": 0.82
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7733
+ },
+ {
+  "act": 1,
+  "scene": 5,
+  "n_words": 79,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.69
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8158
+ },
+ {
+  "act": 1,
+  "scene": 6,
+  "n_words": 419,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.43
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8221
+ },
+ {
+  "act": 1,
+  "scene": 7,
+  "n_words": 255,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.73
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7817
+ },
+ {
+  "act": 1,
+  "scene": 8,
+  "n_words": 234,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.65
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.6104
+ },
+ {
+  "act": 1,
+  "scene": 9,
+  "n_words": 878,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.31
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.76
+ },
+ {
+  "act": 1,
+  "scene": 10,
+  "n_words": 348,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.61
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7275
+ },
+ {
+  "act": 1,
+  "scene": 11,
+  "n_words": 514,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.82
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.8767
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1185,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.75
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.758
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 1378,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.91
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7833
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 712,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.64
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.4711
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 1031,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.92
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.6965
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 355,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.61
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.3097
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 300,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.69
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.7912
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 1226,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.82
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.5568
+ },
+ {
+  "act": 3,
+  "scene": 5,
+  "n_words": 207,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.74
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.4363
+ },
+ {
+  "act": 3,
+  "scene": 6,
+  "n_words": 431,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.86
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.5164
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 688,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.46
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0015
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 959,
+  "gi": {
+   "SH": 0.15,
+   "FL": 0.49
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0063
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 1039,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.5
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0058
+ },
+ {
+  "act": 4,
+  "scene": 4,
+  "n_words": 876,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.69
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0034
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 147,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.52
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 428,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.5
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 1084,
+  "gi": {
+   "SH": 0.32,
+   "FL": 0.37
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0019
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 1726,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.39
+  },
+  "key": "ad_chances_1682",
+  "orig": "fl_chances",
+  "orig_class": "FL",
+  "ret4": 0.0035
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 1603,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.47
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.3069
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 961,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.5
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.0532
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 465,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.64
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.4654
+ },
+ {
+  "act": 1,
+  "scene": 4,
+  "n_words": 615,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.54
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.3431
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1113,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.27
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2459
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 1494,
+  "gi": {
+   "SH": 0.61,
+   "FL": 0.14
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2985
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 3394,
+  "gi": {
+   "SH": 0.6,
+   "FL": 0.3
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2395
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 4067,
+  "gi": {
+   "SH": 0.63,
+   "FL": 0.24
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.2266
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 1610,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.11
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.0498
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 1866,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.13
+  },
+  "key": "ad_coriolanus_1682",
+  "orig": "sh_coriolanus",
+  "orig_class": "SH",
+  "ret4": 0.0574
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 6532,
+  "gi": {
+   "SH": 0.95,
+   "FL": 0.04
+  },
+  "key": "ad_hamlet_1676",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.6097
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 5111,
+  "gi": {
+   "SH": 0.84,
+   "FL": 0.05
+  },
+  "key": "ad_hamlet_1676",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.6543
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 6931,
+  "gi": {
+   "SH": 0.86,
+   "FL": 0.14
+  },
+  "key": "ad_hamlet_1676",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.6374
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 4953,
+  "gi": {
+   "SH": 0.88,
+   "FL": 0.27
+  },
+  "key": "ad_hamlet_1676",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.5432
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 5166,
+  "gi": {
+   "SH": 0.91,
+   "FL": 0.17
+  },
+  "key": "ad_hamlet_1676",
+  "orig": "sh_hamlet",
+  "orig_class": "SH",
+  "ret4": 0.5508
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 600,
+  "gi": {
+   "SH": 0.95,
+   "FL": 0.33
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7672
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 1660,
+  "gi": {
+   "SH": 0.9,
+   "FL": 0.19
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8063
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 2307,
+  "gi": {
+   "SH": 0.95,
+   "FL": 0.25
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8069
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 720,
+  "gi": {
+   "SH": 0.7,
+   "FL": 0.49
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.795
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 822,
+  "gi": {
+   "SH": 0.76,
+   "FL": 0.3
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7497
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 852,
+  "gi": {
+   "SH": 0.76,
+   "FL": 0.36
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8563
+ },
+ {
+  "act": 2,
+  "scene": 4,
+  "n_words": 4023,
+  "gi": {
+   "SH": 0.85,
+   "FL": 0.21
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8261
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 1090,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.23
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8362
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1024,
+  "gi": {
+   "SH": 0.75,
+   "FL": 0.08
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8276
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 1618,
+  "gi": {
+   "SH": 0.82,
+   "FL": 0.42
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8625
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 1043,
+  "gi": {
+   "SH": 0.87,
+   "FL": 0.1
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7856
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 680,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.53
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8966
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 888,
+  "gi": {
+   "SH": 0.89,
+   "FL": 0.07
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8056
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 990,
+  "gi": {
+   "SH": 0.91,
+   "FL": 0.57
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8511
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 1211,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.32
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.7964
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 908,
+  "gi": {
+   "SH": 0.67,
+   "FL": 0.29
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.8475
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 156,
+  "gi": {
+   "SH": 0.54,
+   "FL": 0.31
+  },
+  "key": "ad_henry4_1700",
+  "orig": "sh_1henry4",
+  "orig_class": "SH",
+  "ret4": 0.719
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 678,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.09
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.04
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 777,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.02
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0736
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 798,
+  "gi": {
+   "SH": 0.2,
+   "FL": 0.1
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 751,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.04
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0789
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 755,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.17
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0505
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 791,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.07
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0013
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 761,
+  "gi": {
+   "SH": 0.18,
+   "FL": 0.22
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0567
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 770,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.09
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0156
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 802,
+  "gi": {
+   "SH": 0.69,
+   "FL": 0.01
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.005
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 775,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.17
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0142
+ },
+ {
+  "act": 0,
+  "scene": 11,
+  "n_words": 756,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.04
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 12,
+  "n_words": 794,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.01
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 13,
+  "n_words": 787,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.08
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0204
+ },
+ {
+  "act": 0,
+  "scene": 14,
+  "n_words": 786,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.36
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.0255
+ },
+ {
+  "act": 0,
+  "scene": 15,
+  "n_words": 788,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.07
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.172
+ },
+ {
+  "act": 0,
+  "scene": 16,
+  "n_words": 750,
+  "gi": {
+   "SH": 0.7,
+   "FL": 0.05
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.1901
+ },
+ {
+  "act": 0,
+  "scene": 17,
+  "n_words": 733,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.49
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.1671
+ },
+ {
+  "act": 0,
+  "scene": 18,
+  "n_words": 731,
+  "gi": {
+   "SH": 0.68,
+   "FL": 0.04
+  },
+  "key": "ad_henry5_1723",
+  "orig": "sh_henry5",
+  "orig_class": "SH",
+  "ret4": 0.081
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 3791,
+  "gi": {
+   "SH": 0.56,
+   "FL": 0.11
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0681
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 5004,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.07
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.1212
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 302,
+  "gi": {
+   "SH": 0.68,
+   "FL": 0.07
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.2709
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1890,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.21
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0164
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 1279,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.32
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.1975
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 8404,
+  "gi": {
+   "SH": 0.62,
+   "FL": 0.37
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0568
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 2120,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.22
+  },
+  "key": "ad_henry6_1681",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0316
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 3099,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.87
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8547
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 688,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.8
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8891
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 360,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.86
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8711
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 1002,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.73
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8498
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 1018,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.92
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8374
+ },
+ {
+  "act": 2,
+  "scene": 4,
+  "n_words": 1683,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.9
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8607
+ },
+ {
+  "act": 2,
+  "scene": 5,
+  "n_words": 285,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.3
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.9504
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 242,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.67
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8828
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1056,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.84
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8547
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 877,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.83
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8307
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 793,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.85
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8595
+ },
+ {
+  "act": 3,
+  "scene": 5,
+  "n_words": 988,
+  "gi": {
+   "SH": 0.45,
+   "FL": 0.65
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8234
+ },
+ {
+  "act": 3,
+  "scene": 6,
+  "n_words": 1251,
+  "gi": {
+   "SH": 0.56,
+   "FL": 0.7
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8966
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 1437,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.86
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8396
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 1335,
+  "gi": {
+   "SH": 0.56,
+   "FL": 0.62
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8093
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 2059,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.9
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7724
+ },
+ {
+  "act": 4,
+  "scene": 4,
+  "n_words": 843,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.76
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7548
+ },
+ {
+  "act": 4,
+  "scene": 5,
+  "n_words": 285,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.62
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7447
+ },
+ {
+  "act": 4,
+  "scene": 6,
+  "n_words": 102,
+  "gi": {
+   "SH": 0.56,
+   "FL": 0.55
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8788
+ },
+ {
+  "act": 4,
+  "scene": 7,
+  "n_words": 1628,
+  "gi": {
+   "SH": 0.38,
+   "FL": 0.88
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7926
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 475,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.82
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7966
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 519,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.76
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.7926
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 763,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.81
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.85
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 334,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.56
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8066
+ },
+ {
+  "act": 5,
+  "scene": 5,
+  "n_words": 591,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.79
+  },
+  "key": "ad_humorous_lieutenant_1697",
+  "orig": "fl_humorous_lieutenant",
+  "orig_class": "FL",
+  "ret4": 0.8299
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 777,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.33
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0065
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 781,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.41
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.009
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 787,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.25
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0077
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 735,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.2
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0068
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 898,
+  "gi": {
+   "SH": 0.18,
+   "FL": 0.3
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0101
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 751,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.53
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0067
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 863,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.49
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0198
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 804,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.5
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0037
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 790,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.12
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0013
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 687,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.39
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0044
+ },
+ {
+  "act": 0,
+  "scene": 11,
+  "n_words": 891,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.35
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0011
+ },
+ {
+  "act": 0,
+  "scene": 12,
+  "n_words": 809,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.34
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 13,
+  "n_words": 677,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.55
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0163
+ },
+ {
+  "act": 0,
+  "scene": 14,
+  "n_words": 712,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.13
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0014
+ },
+ {
+  "act": 0,
+  "scene": 15,
+  "n_words": 766,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.43
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 16,
+  "n_words": 712,
+  "gi": {
+   "SH": 0.24,
+   "FL": 0.44
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0028
+ },
+ {
+  "act": 0,
+  "scene": 17,
+  "n_words": 720,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.54
+  },
+  "key": "ad_inconstant_1702",
+  "orig": "fl_wild_goose_chase",
+  "orig_class": "FL",
+  "ret4": 0.0014
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 2238,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.19
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0497
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 1496,
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.22
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.3188
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 893,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.22
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0551
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 2037,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.1
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.1234
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 892,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.3
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.1429
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 1490,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.37
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.232
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1841,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.11
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0729
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 444,
+  "gi": {
+   "SH": 0.59,
+   "FL": 0.54
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 979,
+  "gi": {
+   "SH": 0.69,
+   "FL": 0.45
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0891
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 613,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.2
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0049
+ },
+ {
+  "act": 4,
+  "scene": 4,
+  "n_words": 1557,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.43
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.1403
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 1796,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.2
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0156
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 1348,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.2
+  },
+  "key": "ad_injured_princess_1682",
+  "orig": "sh_cymbeline",
+  "orig_class": "SH",
+  "ret4": 0.0714
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 3512,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.91
+  },
+  "key": "ad_island_princess_1669",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7432
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 5089,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.7
+  },
+  "key": "ad_island_princess_1669",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.639
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 2819,
+  "gi": {
+   "SH": 0.11,
+   "FL": 0.96
+  },
+  "key": "ad_island_princess_1669",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7145
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 3403,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.87
+  },
+  "key": "ad_island_princess_1669",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7218
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 3780,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.91
+  },
+  "key": "ad_island_princess_1669",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.6587
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 1837,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.74
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.2285
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 720,
+  "gi": {
+   "SH": 0.75,
+   "FL": 0.76
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4268
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1566,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.7
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3768
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 776,
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.66
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3532
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 626,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.72
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3884
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 634,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.71
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7702
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 1113,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.42
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1784
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 639,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.69
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4119
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 1077,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.66
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.7272
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 162,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.72
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4151
+ },
+ {
+  "act": 4,
+  "scene": 4,
+  "n_words": 1441,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.43
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1287
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 2806,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.86
+  },
+  "key": "ad_island_princess_1687",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.4299
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 1524,
+  "gi": {
+   "SH": 0.32,
+   "FL": 0.24
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1473
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 256,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.49
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0632
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 215,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.5
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3019
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 1583,
+  "gi": {
+   "SH": 0.18,
+   "FL": 0.41
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.1184
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 267,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.6
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.178
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 328,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.53
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.3108
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1412,
+  "gi": {
+   "SH": 0.09,
+   "FL": 0.16
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0362
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 885,
+  "gi": {
+   "SH": 0.38,
+   "FL": 0.69
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.042
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 2303,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.59
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0096
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 370,
+  "gi": {
+   "SH": 0.15,
+   "FL": 0.41
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 344,
+  "gi": {
+   "SH": 0.18,
+   "FL": 0.42
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0205
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 539,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.34
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0205
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 464,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.31
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0108
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 126,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.3
+  },
+  "key": "ad_island_princess_1699",
+  "orig": "fl_island_princess",
+  "orig_class": "FL",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 714,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.54
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.09
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 604,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.28
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.1248
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 562,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.32
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.0304
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 688,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.38
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.0321
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 680,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.28
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.0665
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 648,
+  "gi": {
+   "SH": 0.62,
+   "FL": 0.22
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.0961
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 655,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.12
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.1656
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 607,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.49
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.053
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 618,
+  "gi": {
+   "SH": 0.65,
+   "FL": 0.54
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.0504
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 725,
+  "gi": {
+   "SH": 0.2,
+   "FL": 0.33
+  },
+  "key": "ad_jew_of_venice_1701",
+  "orig": "sh_merchant",
+  "orig_class": "SH",
+  "ret4": 0.0194
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 4500,
+  "gi": {
+   "SH": 0.83,
+   "FL": 0.34
+  },
+  "key": "ad_julius_caesar_1684",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.9008
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 4173,
+  "gi": {
+   "SH": 0.92,
+   "FL": 0.36
+  },
+  "key": "ad_julius_caesar_1684",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.858
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 4677,
+  "gi": {
+   "SH": 0.84,
+   "FL": 0.52
+  },
+  "key": "ad_julius_caesar_1684",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.8562
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 3149,
+  "gi": {
+   "SH": 0.87,
+   "FL": 0.37
+  },
+  "key": "ad_julius_caesar_1684",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.8312
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 2779,
+  "gi": {
+   "SH": 0.94,
+   "FL": 0.61
+  },
+  "key": "ad_julius_caesar_1684",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.8548
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 734,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.05
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0055
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 787,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.34
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 802,
+  "gi": {
+   "SH": 0.54,
+   "FL": 0.36
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.2203
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 751,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.26
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.1257
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 745,
+  "gi": {
+   "SH": 0.7,
+   "FL": 0.14
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0674
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 729,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.47
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0579
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 746,
+  "gi": {
+   "SH": 0.2,
+   "FL": 0.36
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0094
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 740,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.34
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0054
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 733,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.25
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0192
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 727,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.16
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0138
+ },
+ {
+  "act": 0,
+  "scene": 11,
+  "n_words": 789,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.66
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0496
+ },
+ {
+  "act": 0,
+  "scene": 12,
+  "n_words": 733,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.43
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0178
+ },
+ {
+  "act": 0,
+  "scene": 13,
+  "n_words": 780,
+  "gi": {
+   "SH": 0.68,
+   "FL": 0.47
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.1647
+ },
+ {
+  "act": 0,
+  "scene": 14,
+  "n_words": 868,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.65
+  },
+  "key": "ad_julius_caesar_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.2324
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 3153,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.09
+  },
+  "key": "ad_lear_1681",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.1413
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 2789,
+  "gi": {
+   "SH": 0.59,
+   "FL": 0.23
+  },
+  "key": "ad_lear_1681",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.2861
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 4293,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.33
+  },
+  "key": "ad_lear_1681",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.183
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 3882,
+  "gi": {
+   "SH": 0.64,
+   "FL": 0.42
+  },
+  "key": "ad_lear_1681",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.2895
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3377,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.37
+  },
+  "key": "ad_lear_1681",
+  "orig": "sh_lear",
+  "orig_class": "SH",
+  "ret4": 0.0744
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 674,
+  "gi": {
+   "SH": 0.24,
+   "FL": 0.33
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 669,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.25
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0045
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 752,
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.26
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0093
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 712,
+  "gi": {
+   "SH": 0.21,
+   "FL": 0.48
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0014
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 652,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.2
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0031
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 668,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.52
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0135
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 671,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.29
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0015
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 671,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.28
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.003
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 674,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.19
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0298
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 607,
+  "gi": {
+   "SH": 0.21,
+   "FL": 0.36
+  },
+  "key": "ad_love_betrayd_1703",
+  "orig": "sh_twelfth_night",
+  "orig_class": "SH",
+  "ret4": 0.0132
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 685,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.54
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8842
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 1183,
+  "gi": {
+   "SH": 0.15,
+   "FL": 0.88
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8678
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 2342,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.87
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.897
+ },
+ {
+  "act": 1,
+  "scene": 4,
+  "n_words": 306,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.72
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8812
+ },
+ {
+  "act": 1,
+  "scene": 5,
+  "n_words": 836,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.83
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.886
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 3232,
+  "gi": {
+   "SH": 0.14,
+   "FL": 0.89
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8675
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 604,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.76
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8652
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 548,
+  "gi": {
+   "SH": 0.2,
+   "FL": 0.67
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8679
+ },
+ {
+  "act": 2,
+  "scene": 4,
+  "n_words": 322,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.8
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8464
+ },
+ {
+  "act": 2,
+  "scene": 5,
+  "n_words": 1114,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.94
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8992
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 211,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.66
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7885
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 1379,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.75
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8968
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 1085,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.95
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8752
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 722,
+  "gi": {
+   "SH": 0.12,
+   "FL": 0.74
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7844
+ },
+ {
+  "act": 3,
+  "scene": 5,
+  "n_words": 448,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.75
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.782
+ },
+ {
+  "act": 3,
+  "scene": 6,
+  "n_words": 1106,
+  "gi": {
+   "SH": 0.15,
+   "FL": 0.9
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8749
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 530,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.77
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7875
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 829,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.72
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8329
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 1454,
+  "gi": {
+   "SH": 0.1,
+   "FL": 0.91
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8215
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 512,
+  "gi": {
+   "SH": 0.65,
+   "FL": 0.77
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.89
+ },
+ {
+  "act": 4,
+  "scene": 4,
+  "n_words": 1382,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.77
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8238
+ },
+ {
+  "act": 4,
+  "scene": 5,
+  "n_words": 1019,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.72
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7569
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 265,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.8
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8397
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 1011,
+  "gi": {
+   "SH": 0.2,
+   "FL": 0.96
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8393
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 240,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.88
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.8143
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 305,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.78
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.894
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 631,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.79
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.7994
+ },
+ {
+  "act": 5,
+  "scene": 5,
+  "n_words": 1065,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.94
+  },
+  "key": "ad_loyal_subject_1700",
+  "orig": "fl_loyal_subject",
+  "orig_class": "FL",
+  "ret4": 0.855
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 4002,
+  "gi": {
+   "SH": 0.7,
+   "FL": 0.16
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2686
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 2856,
+  "gi": {
+   "SH": 0.78,
+   "FL": 0.26
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2093
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 3968,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.37
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2726
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 3033,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.31
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2267
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 267,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.42
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.4773
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 177,
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.3
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.0115
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 379,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.56
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.0585
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 637,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.21
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.2145
+ },
+ {
+  "act": 5,
+  "scene": 5,
+  "n_words": 1029,
+  "gi": {
+   "SH": 0.62,
+   "FL": 0.32
+  },
+  "key": "ad_macbeth_1674",
+  "orig": "shx_macbeth",
+  "orig_class": "SH",
+  "ret4": 0.0828
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 681,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.23
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 730,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.13
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 712,
+  "gi": {
+   "SH": 0.21,
+   "FL": 0.21
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 707,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.28
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0014
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 659,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.49
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 706,
+  "gi": {
+   "SH": 0.32,
+   "FL": 0.24
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 730,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.13
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 651,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.07
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0031
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 755,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.01
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 721,
+  "gi": {
+   "SH": 0.24,
+   "FL": 0.21
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 11,
+  "n_words": 658,
+  "gi": {
+   "SH": 0.65,
+   "FL": 0.53
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0122
+ },
+ {
+  "act": 0,
+  "scene": 12,
+  "n_words": 702,
+  "gi": {
+   "SH": 0.32,
+   "FL": 0.27
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0029
+ },
+ {
+  "act": 0,
+  "scene": 13,
+  "n_words": 677,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.29
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.003
+ },
+ {
+  "act": 0,
+  "scene": 14,
+  "n_words": 689,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.68
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0087
+ },
+ {
+  "act": 0,
+  "scene": 15,
+  "n_words": 707,
+  "gi": {
+   "SH": 0.17,
+   "FL": 0.25
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0043
+ },
+ {
+  "act": 0,
+  "scene": 16,
+  "n_words": 785,
+  "gi": {
+   "SH": 0.12,
+   "FL": 0.36
+  },
+  "key": "ad_marcus_brutus_1723",
+  "orig": "sh_julius_caesar",
+  "orig_class": "SH",
+  "ret4": 0.0026
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 2419,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.33
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1064
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1126,
+  "gi": {
+   "SH": 0.32,
+   "FL": 0.06
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1407
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 2084,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.04
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0259
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 2252,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.45
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0925
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 761,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.52
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 450,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.43
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1521
+ },
+ {
+  "act": 4,
+  "scene": 3,
+  "n_words": 1874,
+  "gi": {
+   "SH": 0.22,
+   "FL": 0.14
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.0647
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 2673,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.09
+  },
+  "key": "ad_measure_1700",
+  "orig": "shx_measure",
+  "orig_class": "SH",
+  "ret4": 0.1206
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 4053,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.43
+  },
+  "key": "ad_misery_civil_war_1680",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0346
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 4106,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.36
+  },
+  "key": "ad_misery_civil_war_1680",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0088
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 4579,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.15
+  },
+  "key": "ad_misery_civil_war_1680",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.002
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 4746,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.39
+  },
+  "key": "ad_misery_civil_war_1680",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0025
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3406,
+  "gi": {
+   "SH": 0.38,
+   "FL": 0.14
+  },
+  "key": "ad_misery_civil_war_1680",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0021
+ },
+ {
+  "act": 6,
+  "scene": 0,
+  "n_words": 737,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.36
+  },
+  "key": "ad_misery_civil_war_1680",
+  "orig": "shx_2henry6",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 978,
+  "gi": {
+   "SH": 0.18,
+   "FL": 0.76
+  },
+  "key": "ad_pilgrim_1700",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.1179
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 1575,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.8
+  },
+  "key": "ad_pilgrim_1700",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.2933
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 3201,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.73
+  },
+  "key": "ad_pilgrim_1700",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.2076
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 3821,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.91
+  },
+  "key": "ad_pilgrim_1700",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.2658
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 4398,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.82
+  },
+  "key": "ad_pilgrim_1700",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.1925
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3215,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.78
+  },
+  "key": "ad_pilgrim_1700",
+  "orig": "fl_pilgrim",
+  "orig_class": "FL",
+  "ret4": 0.1283
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 1202,
+  "gi": {
+   "SH": 0.45,
+   "FL": 0.11
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2377
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 484,
+  "gi": {
+   "SH": 0.13,
+   "FL": 0.2
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1081
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 1325,
+  "gi": {
+   "SH": 0.4,
+   "FL": 0.05
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2443
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 2044,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.13
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1347
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 713,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.2
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2085
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 1212,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.29
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.0017
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 335,
+  "gi": {
+   "SH": 0.67,
+   "FL": 0.3
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.253
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 389,
+  "gi": {
+   "SH": 0.62,
+   "FL": 0.23
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.0803
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 1404,
+  "gi": {
+   "SH": 0.6,
+   "FL": 0.08
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2605
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 956,
+  "gi": {
+   "SH": 0.63,
+   "FL": 0.23
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2267
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 1375,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.16
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.0015
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 1332,
+  "gi": {
+   "SH": 0.55,
+   "FL": 0.24
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2656
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 692,
+  "gi": {
+   "SH": 0.69,
+   "FL": 0.27
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2946
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 818,
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.13
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2086
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 738,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.12
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.2204
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 500,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.24
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1489
+ },
+ {
+  "act": 5,
+  "scene": 5,
+  "n_words": 312,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.46
+  },
+  "key": "ad_richard2_1681",
+  "orig": "sh_richard2",
+  "orig_class": "SH",
+  "ret4": 0.1521
+ },
+ {
+  "act": 0,
+  "scene": 1,
+  "n_words": 793,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.15
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0013
+ },
+ {
+  "act": 0,
+  "scene": 2,
+  "n_words": 783,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.32
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 0,
+  "scene": 3,
+  "n_words": 787,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.03
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0663
+ },
+ {
+  "act": 0,
+  "scene": 4,
+  "n_words": 785,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.21
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0141
+ },
+ {
+  "act": 0,
+  "scene": 5,
+  "n_words": 746,
+  "gi": {
+   "SH": 0.54,
+   "FL": 0.52
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0996
+ },
+ {
+  "act": 0,
+  "scene": 6,
+  "n_words": 724,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.24
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.1082
+ },
+ {
+  "act": 0,
+  "scene": 7,
+  "n_words": 774,
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.25
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0791
+ },
+ {
+  "act": 0,
+  "scene": 8,
+  "n_words": 780,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.38
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0541
+ },
+ {
+  "act": 0,
+  "scene": 9,
+  "n_words": 739,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.1
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.1467
+ },
+ {
+  "act": 0,
+  "scene": 10,
+  "n_words": 795,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.3
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0164
+ },
+ {
+  "act": 0,
+  "scene": 11,
+  "n_words": 751,
+  "gi": {
+   "SH": 0.61,
+   "FL": 0.15
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.1578
+ },
+ {
+  "act": 0,
+  "scene": 12,
+  "n_words": 748,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.41
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.1893
+ },
+ {
+  "act": 0,
+  "scene": 13,
+  "n_words": 698,
+  "gi": {
+   "SH": 0.24,
+   "FL": 0.36
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0014
+ },
+ {
+  "act": 0,
+  "scene": 14,
+  "n_words": 722,
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.31
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0737
+ },
+ {
+  "act": 0,
+  "scene": 15,
+  "n_words": 723,
+  "gi": {
+   "SH": 0.56,
+   "FL": 0.4
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0625
+ },
+ {
+  "act": 0,
+  "scene": 16,
+  "n_words": 734,
+  "gi": {
+   "SH": 0.46,
+   "FL": 0.29
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.1778
+ },
+ {
+  "act": 0,
+  "scene": 17,
+  "n_words": 755,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.3
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.2074
+ },
+ {
+  "act": 0,
+  "scene": 18,
+  "n_words": 741,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.19
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0867
+ },
+ {
+  "act": 0,
+  "scene": 19,
+  "n_words": 761,
+  "gi": {
+   "SH": 0.49,
+   "FL": 0.09
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0871
+ },
+ {
+  "act": 0,
+  "scene": 20,
+  "n_words": 736,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.07
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.0805
+ },
+ {
+  "act": 0,
+  "scene": 21,
+  "n_words": 919,
+  "gi": {
+   "SH": 0.5,
+   "FL": 0.13
+  },
+  "key": "ad_richard3_1700",
+  "orig": "sh_richard3",
+  "orig_class": "SH",
+  "ret4": 0.1092
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 3073,
+  "gi": {
+   "SH": 0.09,
+   "FL": 0.93
+  },
+  "key": "ad_rule_a_wife_1697",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.8313
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 2925,
+  "gi": {
+   "SH": 0.28,
+   "FL": 0.62
+  },
+  "key": "ad_rule_a_wife_1697",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.8084
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 4808,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.77
+  },
+  "key": "ad_rule_a_wife_1697",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.7619
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 3740,
+  "gi": {
+   "SH": 0.14,
+   "FL": 0.87
+  },
+  "key": "ad_rule_a_wife_1697",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.7792
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3713,
+  "gi": {
+   "SH": 0.16,
+   "FL": 0.84
+  },
+  "key": "ad_rule_a_wife_1697",
+  "orig": "fl_rule_a_wife",
+  "orig_class": "FL",
+  "ret4": 0.831
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 1358,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.41
+  },
+  "key": "ad_sauny_scot_1698",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.1004
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 4353,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.56
+  },
+  "key": "ad_sauny_scot_1698",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0657
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 4556,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.65
+  },
+  "key": "ad_sauny_scot_1698",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0901
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 5310,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.38
+  },
+  "key": "ad_sauny_scot_1698",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0624
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3585,
+  "gi": {
+   "SH": 0.2,
+   "FL": 0.84
+  },
+  "key": "ad_sauny_scot_1698",
+  "orig": "sh_shrew",
+  "orig_class": "SH",
+  "ret4": 0.0064
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 5400,
+  "gi": {
+   "SH": 0.1,
+   "FL": 0.37
+  },
+  "key": "ad_sham_lawyer_1697",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0059
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 6286,
+  "gi": {
+   "SH": 0.23,
+   "FL": 0.32
+  },
+  "key": "ad_sham_lawyer_1697",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0011
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 6240,
+  "gi": {
+   "SH": 0.09,
+   "FL": 0.22
+  },
+  "key": "ad_sham_lawyer_1697",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.003
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 4363,
+  "gi": {
+   "SH": 0.13,
+   "FL": 0.14
+  },
+  "key": "ad_sham_lawyer_1697",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0011
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3784,
+  "gi": {
+   "SH": 0.05,
+   "FL": 0.35
+  },
+  "key": "ad_sham_lawyer_1697",
+  "orig": "fl_wit_without_money",
+  "orig_class": "FL",
+  "ret4": 0.0019
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 3597,
+  "gi": {
+   "SH": 0.84,
+   "FL": 0.17
+  },
+  "key": "ad_tempest_1670",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3069
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 4802,
+  "gi": {
+   "SH": 0.61,
+   "FL": 0.52
+  },
+  "key": "ad_tempest_1670",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0738
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 5789,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.41
+  },
+  "key": "ad_tempest_1670",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0923
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 6175,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.28
+  },
+  "key": "ad_tempest_1670",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0041
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 2735,
+  "gi": {
+   "SH": 0.08,
+   "FL": 0.21
+  },
+  "key": "ad_tempest_1670",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0443
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 152,
+  "gi": {
+   "SH": 0.66,
+   "FL": 0.41
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2148
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 482,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.09
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2067
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 354,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.23
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2934
+ },
+ {
+  "act": 1,
+  "scene": 4,
+  "n_words": 346,
+  "gi": {
+   "SH": 0.79,
+   "FL": 0.56
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2274
+ },
+ {
+  "act": 1,
+  "scene": 5,
+  "n_words": 265,
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.43
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 1,
+  "scene": 6,
+  "n_words": 303,
+  "gi": {
+   "SH": 0.65,
+   "FL": 0.17
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.01
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 97,
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.38
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 408,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.48
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4173
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 109,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.52
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2264
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 87,
+  "gi": {
+   "SH": 0.27,
+   "FL": 0.29
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0833
+ },
+ {
+  "act": 2,
+  "scene": 4,
+  "n_words": 120,
+  "gi": {
+   "SH": 0.63,
+   "FL": 0.41
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 2,
+  "scene": 5,
+  "n_words": 287,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.09
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2711
+ },
+ {
+  "act": 2,
+  "scene": 6,
+  "n_words": 540,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.58
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.121
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 202,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.33
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3367
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 199,
+  "gi": {
+   "SH": 0.81,
+   "FL": 0.3
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4133
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 92,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.41
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3371
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 226,
+  "gi": {
+   "SH": 0.64,
+   "FL": 0.39
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4753
+ },
+ {
+  "act": 3,
+  "scene": 5,
+  "n_words": 212,
+  "gi": {
+   "SH": 0.59,
+   "FL": 0.44
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.4928
+ },
+ {
+  "act": 3,
+  "scene": 6,
+  "n_words": 78,
+  "gi": {
+   "SH": 0.6,
+   "FL": 0.61
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.2533
+ },
+ {
+  "act": 3,
+  "scene": 7,
+  "n_words": 500,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.36
+  },
+  "key": "ad_tempest_opera_1756",
+  "orig": "sh_tempest",
+  "orig_class": "SH",
+  "ret4": 0.3581
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 4322,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.29
+  },
+  "key": "ad_timon_1678",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0579
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 4819,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.37
+  },
+  "key": "ad_timon_1678",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0569
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 5126,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.29
+  },
+  "key": "ad_timon_1678",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0711
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 4688,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.52
+  },
+  "key": "ad_timon_1678",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0988
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 3880,
+  "gi": {
+   "SH": 0.61,
+   "FL": 0.53
+  },
+  "key": "ad_timon_1678",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0678
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 483,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.25
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.6542
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 741,
+  "gi": {
+   "SH": 0.82,
+   "FL": 0.46
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.584
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 184,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.46
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.5856
+ },
+ {
+  "act": 1,
+  "scene": 4,
+  "n_words": 519,
+  "gi": {
+   "SH": 0.8,
+   "FL": 0.28
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.3837
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 295,
+  "gi": {
+   "SH": 0.43,
+   "FL": 0.61
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.7637
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 261,
+  "gi": {
+   "SH": 0.63,
+   "FL": 0.53
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 238,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.2
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 2,
+  "scene": 4,
+  "n_words": 276,
+  "gi": {
+   "SH": 0.69,
+   "FL": 0.55
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0
+ },
+ {
+  "act": 2,
+  "scene": 5,
+  "n_words": 371,
+  "gi": {
+   "SH": 0.22,
+   "FL": 0.23
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0054
+ },
+ {
+  "act": 2,
+  "scene": 6,
+  "n_words": 1156,
+  "gi": {
+   "SH": 0.89,
+   "FL": 0.43
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.6592
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 488,
+  "gi": {
+   "SH": 0.6,
+   "FL": 0.36
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.7649
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 310,
+  "gi": {
+   "SH": 0.47,
+   "FL": 0.67
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0945
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 508,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.85
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0693
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 326,
+  "gi": {
+   "SH": 0.19,
+   "FL": 0.56
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0186
+ },
+ {
+  "act": 3,
+  "scene": 5,
+  "n_words": 799,
+  "gi": {
+   "SH": 0.63,
+   "FL": 0.28
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.5264
+ },
+ {
+  "act": 3,
+  "scene": 6,
+  "n_words": 713,
+  "gi": {
+   "SH": 0.71,
+   "FL": 0.62
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.7155
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 696,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.45
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0014
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 1661,
+  "gi": {
+   "SH": 0.64,
+   "FL": 0.55
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.5585
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 718,
+  "gi": {
+   "SH": 0.61,
+   "FL": 0.53
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.2909
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 896,
+  "gi": {
+   "SH": 0.68,
+   "FL": 0.44
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0022
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 1231,
+  "gi": {
+   "SH": 0.33,
+   "FL": 0.21
+  },
+  "key": "ad_timon_1772",
+  "orig": "shx_timon",
+  "orig_class": "SH",
+  "ret4": 0.0016
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 434,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.31
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.6937
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 1000,
+  "gi": {
+   "SH": 0.51,
+   "FL": 0.38
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3771
+ },
+ {
+  "act": 1,
+  "scene": 3,
+  "n_words": 954,
+  "gi": {
+   "SH": 0.64,
+   "FL": 0.28
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3743
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 2675,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.53
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3372
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 2735,
+  "gi": {
+   "SH": 0.76,
+   "FL": 0.14
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.2145
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 3305,
+  "gi": {
+   "SH": 0.57,
+   "FL": 0.42
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.3546
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 5864,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.28
+  },
+  "key": "ad_titus_1687",
+  "orig": "shx_titus",
+  "orig_class": "SH",
+  "ret4": 0.1708
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 2959,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.78
+  },
+  "key": "ad_trick_for_trick_1678",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.1773
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 725,
+  "gi": {
+   "SH": 0.21,
+   "FL": 0.88
+  },
+  "key": "ad_trick_for_trick_1678",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.1122
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 2371,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.67
+  },
+  "key": "ad_trick_for_trick_1678",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.1829
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 2492,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.5
+  },
+  "key": "ad_trick_for_trick_1678",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.0566
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 3074,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.13
+  },
+  "key": "ad_trick_for_trick_1678",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.0049
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 2338,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.4
+  },
+  "key": "ad_trick_for_trick_1678",
+  "orig": "fl_monsieur_thomas",
+  "orig_class": "FL",
+  "ret4": 0.0111
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 804,
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.2
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.1186
+ },
+ {
+  "act": 1,
+  "scene": 2,
+  "n_words": 2222,
+  "gi": {
+   "SH": 0.67,
+   "FL": 0.47
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.205
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1512,
+  "gi": {
+   "SH": 0.52,
+   "FL": 0.34
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.1312
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 1532,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.54
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0517
+ },
+ {
+  "act": 2,
+  "scene": 3,
+  "n_words": 1957,
+  "gi": {
+   "SH": 0.58,
+   "FL": 0.4
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0768
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 1534,
+  "gi": {
+   "SH": 0.76,
+   "FL": 0.36
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.2913
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 3686,
+  "gi": {
+   "SH": 0.42,
+   "FL": 0.2
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.1187
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 975,
+  "gi": {
+   "SH": 0.64,
+   "FL": 0.51
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.2202
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 4159,
+  "gi": {
+   "SH": 0.73,
+   "FL": 0.38
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.2067
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 1504,
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.48
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0187
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 2709,
+  "gi": {
+   "SH": 0.29,
+   "FL": 0.37
+  },
+  "key": "ad_troilus_1679",
+  "orig": "sh_troilus",
+  "orig_class": "SH",
+  "ret4": 0.0159
+ },
+ {
+  "act": 1,
+  "scene": 0,
+  "n_words": 2890,
+  "gi": {
+   "SH": 0.05,
+   "FL": 0.25
+  },
+  "key": "ad_unhappy_kindness_1697",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.0031
+ },
+ {
+  "act": 2,
+  "scene": 0,
+  "n_words": 3644,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.52
+  },
+  "key": "ad_unhappy_kindness_1697",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.2725
+ },
+ {
+  "act": 3,
+  "scene": 0,
+  "n_words": 2545,
+  "gi": {
+   "SH": 0.69,
+   "FL": 0.56
+  },
+  "key": "ad_unhappy_kindness_1697",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.5566
+ },
+ {
+  "act": 4,
+  "scene": 0,
+  "n_words": 4343,
+  "gi": {
+   "SH": 0.04,
+   "FL": 0.65
+  },
+  "key": "ad_unhappy_kindness_1697",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.3986
+ },
+ {
+  "act": 5,
+  "scene": 0,
+  "n_words": 2805,
+  "gi": {
+   "SH": 0.26,
+   "FL": 0.12
+  },
+  "key": "ad_unhappy_kindness_1697",
+  "orig": "fl_wife_for_month",
+  "orig_class": "FL",
+  "ret4": 0.1031
+ },
+ {
+  "act": 1,
+  "scene": 1,
+  "n_words": 3747,
+  "gi": {
+   "SH": 0.11,
+   "FL": 0.29
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.3128
+ },
+ {
+  "act": 2,
+  "scene": 1,
+  "n_words": 1500,
+  "gi": {
+   "SH": 0.31,
+   "FL": 0.75
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.4796
+ },
+ {
+  "act": 2,
+  "scene": 2,
+  "n_words": 1437,
+  "gi": {
+   "SH": 0.21,
+   "FL": 0.85
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.6555
+ },
+ {
+  "act": 3,
+  "scene": 1,
+  "n_words": 521,
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.43
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.1448
+ },
+ {
+  "act": 3,
+  "scene": 2,
+  "n_words": 454,
+  "gi": {
+   "SH": 0.21,
+   "FL": 0.11
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0022
+ },
+ {
+  "act": 3,
+  "scene": 3,
+  "n_words": 1722,
+  "gi": {
+   "SH": 0.15,
+   "FL": 0.13
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0122
+ },
+ {
+  "act": 3,
+  "scene": 4,
+  "n_words": 874,
+  "gi": {
+   "SH": 0.25,
+   "FL": 0.42
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.6028
+ },
+ {
+  "act": 4,
+  "scene": 1,
+  "n_words": 1829,
+  "gi": {
+   "SH": 0.34,
+   "FL": 0.32
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.1742
+ },
+ {
+  "act": 4,
+  "scene": 2,
+  "n_words": 3293,
+  "gi": {
+   "SH": 0.12,
+   "FL": 0.61
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.4584
+ },
+ {
+  "act": 5,
+  "scene": 1,
+  "n_words": 642,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.28
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0031
+ },
+ {
+  "act": 5,
+  "scene": 2,
+  "n_words": 1341,
+  "gi": {
+   "SH": 0.36,
+   "FL": 0.72
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.3662
+ },
+ {
+  "act": 5,
+  "scene": 3,
+  "n_words": 353,
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.71
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.68
+ },
+ {
+  "act": 5,
+  "scene": 4,
+  "n_words": 2129,
+  "gi": {
+   "SH": 0.35,
+   "FL": 0.78
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.683
+ },
+ {
+  "act": 5,
+  "scene": 5,
+  "n_words": 2182,
+  "gi": {
+   "SH": 0.12,
+   "FL": 0.25
+  },
+  "key": "ad_valentinian_1685",
+  "orig": "fl_valentinian",
+  "orig_class": "FL",
+  "ret4": 0.0014
+ }
+]

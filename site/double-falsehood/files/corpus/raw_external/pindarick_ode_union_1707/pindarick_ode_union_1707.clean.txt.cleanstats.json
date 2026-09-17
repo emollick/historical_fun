@@ -1,0 +1,32 @@
+{
+ "stats": {
+  "noise": 279,
+  "sig": 15,
+  "pagenum": 41,
+  "hyphen_join": 6,
+  "auto": 2,
+  "override": 2,
+  "words_out": 2742,
+  "lines_out": 558
+ },
+ "top_replacements": [
+  [
+   "defire>desire",
+   1
+  ],
+  [
+   "fave>save",
+   1
+  ],
+  [
+   "fo>so",
+   1
+  ],
+  [
+   "furround>surround",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

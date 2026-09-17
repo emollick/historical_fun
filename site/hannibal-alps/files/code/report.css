@@ -1,0 +1,92 @@
+/* Design tokens. Subject: a late-October crossing of the western Alps. Ground: snow-grey with a blue bias
+   (the light on the cols at that season); accent: larch gold (the larches of the Queyras and Maurienne turn in
+   the last week of October, the week Polybius puts the army at the summit); secondary: glacier blue. */
+:root{
+  --ground:#EEF1F3; --panel:#E1E7EB; --panel-2:#D5DEE4; --ink:#182129; --ink-2:#4A5B66; --ink-3:#71838E;
+  --rule:#C4CED5; --accent:#A3690F; --accent-ink:#7A4E08; --accent-soft:#F1E3C4; --second:#2C6A8A; --second-soft:#D3E4EC;
+  --snow:#FAFBFC; --rock:#8E9AA3; --code:#1D2A33; --code-ink:#E6EDF1; --focus:#B8862B;
+  --bar:#A3690F; --bar-2:#2C6A8A; --bar-other:#8E9AA3; --good:#2F7D4F; --warn:#A0442C;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#101820; --panel:#172129; --panel-2:#1F2B35; --ink:#E8EDF0; --ink-2:#B0BEC7; --ink-3:#83939D;
+    --rule:#2E3D48; --accent:#E2A83C; --accent-ink:#F0C46A; --accent-soft:#3A2C10; --second:#7CB8D6; --second-soft:#163241;
+    --snow:#1B2630; --rock:#6E7E88; --code:#0B1218; --code-ink:#D9E3E9; --focus:#E0B25A;
+    --bar:#E2A83C; --bar-2:#7CB8D6; --bar-other:#5F6E78; --good:#6FC08F; --warn:#E08A70;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#101820; --panel:#172129; --panel-2:#1F2B35; --ink:#E8EDF0; --ink-2:#B0BEC7; --ink-3:#83939D;
+  --rule:#2E3D48; --accent:#E2A83C; --accent-ink:#F0C46A; --accent-soft:#3A2C10; --second:#7CB8D6; --second-soft:#163241;
+  --snow:#1B2630; --rock:#6E7E88; --code:#0B1218; --code-ink:#D9E3E9; --focus:#E0B25A;
+  --bar:#E2A83C; --bar-2:#7CB8D6; --bar-other:#5F6E78; --good:#6FC08F; --warn:#E08A70;
+}
+*{box-sizing:border-box}
+html{color-scheme:light dark}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:"Source Serif 4","Gentium Plus",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55;padding-inline:clamp(16px,4vw,48px);padding-block:0 72px}
+a{color:var(--accent-ink);text-decoration-thickness:1px;text-underline-offset:2px}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.wrap{max-width:1060px;margin:0 auto}
+.prose{max-width:68ch}
+h1,h2,h3{font-family:"Newsreader",Georgia,serif;font-weight:500;line-height:1.12;text-wrap:balance;margin:0}
+h1{font-size:clamp(2.1rem,5.2vw,3.6rem);font-variation-settings:"opsz" 72;letter-spacing:-0.012em}
+h2{font-size:clamp(1.5rem,3vw,2rem);margin-top:2.8rem;margin-bottom:.8rem;padding-top:1.2rem;border-top:1px solid var(--rule)}
+h3{font-size:1.18rem;font-weight:600;margin-top:1.8rem;margin-bottom:.5rem}
+p{margin:0 0 1rem}
+ul,ol{padding-left:1.3rem;margin:0 0 1rem}
+li{margin-bottom:.35rem}
+.eyebrow{font-family:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
+header.masthead{padding-block:40px 22px;border-bottom:1px solid var(--rule);display:grid;gap:14px}
+.standfirst{font-size:1.2rem;color:var(--ink-2);max-width:64ch;margin:0}
+.meta{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.78rem;color:var(--ink-3);display:flex;flex-wrap:wrap;gap:6px 22px}
+.verdict{margin-top:28px;background:var(--panel);border-left:5px solid var(--accent);padding:22px 24px;display:grid;gap:10px}
+.verdict .big{font-family:"Newsreader",Georgia,serif;font-size:clamp(1.5rem,3.4vw,2.2rem);font-weight:500;line-height:1.2;text-wrap:balance}
+.verdict .big b{color:var(--accent-ink);font-weight:600}
+.verdict p{margin:0;max-width:78ch}
+.verdict-grid{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(280px,1fr);gap:22px;align-items:start;margin-top:22px}
+@media (max-width:760px){.verdict-grid{grid-template-columns:1fr}}
+.sens{background:var(--snow);border:1px solid var(--rule);padding:14px 16px;font-size:.92rem}
+.sens h3{margin-top:0;font-size:1rem}
+.sens table{font-size:.86rem}
+.sens td,.sens th{padding:5px 6px}
+.badge{display:inline-block;font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border:1px solid var(--rule);border-radius:2px;color:var(--ink-2);background:var(--snow)}
+.badge.shift{border-color:var(--accent);color:var(--accent-ink)}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;align-items:start}
+figure{margin:1.4rem 0}
+figcaption{font-size:.88rem;color:var(--ink-2);margin-top:8px;max-width:80ch}
+.plate{background:var(--panel);padding:14px;border-radius:3px}
+.plate img,.plate svg{max-width:100%;height:auto;display:block;margin:0 auto}
+svg.chart{width:100%;height:auto;display:block}
+.chart text{font-family:"JetBrains Mono",ui-monospace,monospace;fill:var(--ink)}
+.chart .lbl{font-size:12px}
+.chart .val{font-size:12px;font-weight:600}
+.chart .axis{stroke:var(--rule);stroke-width:1}
+.chart .tick{font-size:10px;fill:var(--ink-3)}
+.chart .bar{fill:var(--bar)}
+.chart .bar.second{fill:var(--bar-2)}
+.chart .bar.other{fill:var(--bar-other)}
+.chart .range{stroke:var(--ink);stroke-width:1.5}
+.tablewrap{overflow-x:auto;margin:1rem 0}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{text-align:left;vertical-align:top;padding:8px 10px;border-bottom:1px solid var(--rule)}
+th{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);font-weight:500}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.84rem}
+tr.hl td{background:var(--accent-soft)}
+.q{background:var(--panel);border-left:3px solid var(--rule);padding:10px 14px;margin:.6rem 0 1rem;font-size:.97rem}
+.q .orig{display:block;font-family:"Gentium Plus","Gentium Book Plus","Source Serif 4",Georgia,serif;font-style:italic;font-size:1.02rem}
+.q .tr{display:block;color:var(--ink-2);margin-top:5px}
+.q .cite{display:block;font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.74rem;color:var(--ink-3);margin-top:6px}
+.note{font-size:.92rem;color:var(--ink-2);border-top:1px dashed var(--rule);border-bottom:1px dashed var(--rule);padding:10px 0;margin:1rem 0}
+details{border:1px solid var(--rule);padding:8px 14px;margin:1rem 0;background:var(--snow)}
+summary{cursor:pointer;font-weight:600}
+code,pre{font-family:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;font-size:.86rem}
+pre{background:var(--code);color:var(--code-ink);padding:12px 14px;overflow-x:auto;border-radius:3px}
+.refs li{font-size:.92rem;margin-bottom:.45rem}
+.cands h3 span.h{font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.78rem;color:var(--ink-3);font-weight:500;margin-left:8px}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:4px 16px;font-size:.93rem;margin:.6rem 0 1rem}
+.kv dt{color:var(--ink-3);font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;padding-top:3px}
+.kv dd{margin:0}
+@media (prefers-reduced-motion: no-preference){a{transition:color .15s}}
+@media (max-width:480px){body{font-size:16px} .kv{grid-template-columns:1fr}}
+
+.sub{display:block;font-family:"JetBrains Mono",ui-monospace,monospace;font-size:.74rem;color:var(--ink-3);letter-spacing:.01em;margin-top:2px}

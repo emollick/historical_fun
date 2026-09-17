@@ -1,0 +1,1577 @@
+SOURCE HEADER | URL: https://raw.githubusercontent.com/textcreationpartnership/A12470/master/A12470.xml | Edition: John Smith, A True Relation of such occurrences and accidents of noate as hath hapned in Virginia, London: for John Tappe, 1608 (STC 22795.5), EEBO-TCP A12470 (quarto unpaginated) | Fetched: 2026-09-14 (UTC) by worker B | EEBO-TCP transcription converted to plain text; [[PAGE n]] = original page breaks, [[MARGIN: ...]] = original marginal notes, [?] = illegible letter in TCP
+----
+
+
+
+ Indians of North America -- Virginia.
+ Virginia -- History -- Colonial period, ca. 1600-1775.
+
+ 2005-04
+ TCPAssigned for keying and markup
+
+ 2005-05
+ AptaraKeyed and coded from ProQuest page images
+
+ 2005-07
+ Judith SiefringSampled and proofread
+
+ 2005-07
+ Judith SiefringText and markup reviewed and edited
+
+ 2005-10
+ pfsBatch review (QC) and XML conversion
+
+[[PB facs tcp:26291:1]]
+
+[[PB facs tcp:26291:1]]
+
+ A
+TRVE RElation
+of ſuch occurrences
+and accidents of noate as
+hath hapned in Virginia ſince the firſt
+planting of that Collony, which is now
+reſident in the South part thereof, till
+the laſt returne from
+thence.
+
+ Written by Captaine Smith Coronell of the ſaid Collony, to a
+worſhipfull friend of his in England.
+
+ LONDON
+Printed for Iohn Tappe, and are to bee ſolde at the Greyhound
+in Paules-Church-yard, by W. W.
+1608
+
+[[PAGE simple:additions]]
+
+[[PB facs tcp:26291:2]]
+
+[[PB facs tcp:26291:3]]
+
+[[PB facs tcp:26291:3]]
+
+ [?]
+
+[[PB facs tcp:26291:4]]
+
+[[PB facs tcp:26291:4]]
+
+ To the Courteous Reader.
+
+ COurteous, Kind, & indifferent Readers, whoſe willingneſſe
+to reade & heare this following diſcourſe,
+doth explaine to the world your hearty affection,
+to the proſecuting and furtherance of ſo worthy an action:
+ſo it is, that like to an vnskilfull actor, who hauing
+by miſconſtruction of his right Cue, ouer-ſlipt himſelfe,
+in beginning of a contrary part, and fearing the
+hatefull hiſſe of the captious multitude, with a modeſt
+bluſh retires himſelfe in priuate; as doubting the reprehenſion
+of his whole audience in publicke, and yet againe
+vpon further deliberation, thinking it better to
+know their cenſures at the firſt, and vpon ſubmisſion to
+reape pardon, then by ſeeking to ſmother it, to incurre
+the danger of a ſecret ſcandall: Imboldening himſelfe
+vpon the curteous kindneſſe of the beſt, and not greatly
+reſpecting the worſt, comes fourth againe, makes an Apollogie
+for himſelfe, ſhewes the cauſe of his error,
+craues pardon for his raſhnes, and in fine, receiues a generall
+applauditie of the whole aſſemblie: ſo I gentle
+Readers, happening vpon this relation by chance (as I
+take it, at the ſecond or third hand) induced thereunto
+by diuers well willers of the action, and none wiſhing
+better towards it then my ſelfe, ſo farre foorth as my
+poore abilitie can or may ſtretch too, I thought good to
+publiſh it: but the Author being abſent from the preſſe,
+it cannot be doubted but that ſome faults haue eſcaped
+in the printing, eſpecially in the names of Countries,
+
+[[PB facs tcp:26291:5]]
+
+Townes, and People, which are ſomewhat ſtrange vnto
+vs: but moſt of all, and which is the chiefe error, (for
+want of knowledge of the Writer) ſome of the bookes
+were printed vnder the name of Thomas Watſon, by
+whoſe occaſion I know not, vnleſſe it were the ouer raſhneſſe,
+or miſtaking of the workemen, but ſince hauing
+learned that the ſaide diſcourſe was written by Captaine
+Smith, who is one of the Counſell there in Virginia: I
+thought good to make the like Apollogie, by ſhewing
+the true Author ſo farre as my ſelfe could learne, not
+doubting, but that the wiſe noting it as an error of ignorance,
+will paſſe it ouer with patience, and if worthy an
+applauditie, to reſerue it to the Author, whoſe paines in
+my iudgement deſerueth commendations; ſomewhat
+more was by him written, which being as I thought (fit
+to be priuate) I would not aduenture to make it publicke
+what more may be expected concerning the ſcituation of
+the Country, the nature, of the clime, number of our people
+there reſident, the manner of their gouernment, and
+liuing, the commodities to be produced, & the end & effect
+it maycome too, I can ſay nothing more then is here
+written, only what I haue learned and gathered from the
+generall conſent of all (that I haue conuerſed withall) aſwell
+marriners as others, which haue had imploymēt that
+way; is that the Country is ex[?]cellēt & pleaſant, the clime
+temperate and healthfull, the ground fertill and good,
+the commodities to be expected (if well followed) many,
+for our people, the worſt being already paſt, theſe former
+hauing indured the heate of the day, whereby thoſe that
+ſha[?]l ſucceede, may at eaſe labour for their profit, in the
+moſt ſweete, coole, and temperate ſhade: the action moſt
+honorable, and the end to the high glory of God, to the
+erecting of true religion among Infidells, to the ouerthrow
+of ſuperſtition and idolatrie, to the winning of
+
+[[PB facs tcp:26291:5]]
+
+many thouſands of wandring ſheepe, vnto Chriſts fold,
+who now, and till now, haue ſtrayed in the vnknowne
+paths of Paganiſme, Idolatrie, and ſuſperſtition: yea, I
+ſay the Action being well followed, as by the graue Senators,
+and worthy aduenturors, it hath beene worthily
+begunne: will tend to the euerlaſting renowne of our
+Nation, and to the exceeding good and benefit of our
+Weale publicke in generall: whoſe Counſells, labours,
+godly and induſtrious endeuours, I beſeech the mightie
+Iehouah to bleſſe, proſper, and further, with his heauenly
+ayde, and holy aſſiſtance.
+
+ Farewell.
+I. H.
+
+[[PB facs tcp:26291:6]]
+
+[[PB facs tcp:26291:6]]
+
+ A
+True relation of ſuch occurrences
+and accidents of note, as hath hapned in Virginia,
+ſince the firſt planting of that Collony,
+which is now reſident in the South part
+thereof, till the laſt returne.
+
+ KInde Sir, commendations remembred,
+&c. You ſhall vnderſtand
+that after many croſſes in the downes
+by tempeſts wee arriued ſafely vppon
+the Southweſt part of the great Canaries:
+within foure or fiue daies after
+we ſet ſaile for Dominica, the 26. of
+Aprill: the firſt land we made, wee fell
+with Cape Henry, the verie mouth of
+the Bay of Chiſſiapiacke, which at that preſent we little expected,
+hauing by a cruell ſtorme bene put to the Northward:
+anchoring in this Bay twentie or thirtie went a ſhore with
+the Captain▪ and in comming aboard, they were aſſalted with
+certaine Indians, which charged them within Piſtoll ſhot: in
+which conflict, Captaine Archer and Mathew Morton were
+ſhot: wherupon, Captaine Newport ſeconding them, made a
+ſhot at them, which the Indians little reſpected, but hauing
+ſpent their arrowes retyred without harme and in that place
+was the Bar opened, wherin the Counſell for Virginia was
+nonnnated: and arriuing at the place where we are now ſeated,
+the Counſell was ſworne, the Preſident elected, which for
+that yeare was Maiſter Edm. Maria Wingfield, where was
+
+[[PB facs tcp:26291:7]]
+
+made choice for our ſcituation, a verie fit place for the erecting
+of a great cittie, about which ſome contention paſſed betwixt
+Captaine Wingfield and Captaine Goſnold, not-withſtanding
+all out prouiſion was brought a ſhore, and with as
+much ſpeede as might bee wee went about our fortification.
+
+ The two and twenty day of Aprill, Captain Newport and
+my ſelfe with diuers others, to the number of twenty two
+perſons, ſet forward to diſcouer the Riuer, ſome fiftie or ſixtie
+miles, finding it in ſome places broader, & in ſome narrower,
+the Countrie (for the moſte part) on each ſide plaine high
+ground, with many freſh Springes, the people in all places
+kindely intreating vs, daunſing and feaſting vs with ſtrawberries,
+Mulberies, Bread, Fiſh, and other their Countrie
+prouiſions wherof we had plenty: for which Captaine Newport
+kindely requited thei[?] leaſt fauours with Bels Pinnes,
+Needles, beades or Glaſſes, which ſo contented them that his
+liberallitie made them follow vs from place to place, and euer
+kindely to reſpect vs. In the midway ſtaying to refreſh our
+ſelues in a little Ile foure or fiue ſauages came vnto vs which
+deſcribed vnto vs the courſe of the Riuer, and after in our
+iourney, they often met vs, trading with vs for ſuch prouiſion
+as wee had, and ariuing at Ar[?]atecke, hee whom we ſuppoſed
+to bee the chiefe King of all the reſt, moſte kindely entertained
+vs, giuing vs in a guide to go with vs vp the Riuer to Powhatan,
+of which place their great Emperor taketh his name,
+where he that they honored for King vſed vs kindely. But to
+finiſh this diſcouerie, we paſſed on further, where within an
+ile we were interrepted with great craggy ſtones yt in midſt
+of the riuer, where the water falleth ſo rudely, and with ſuch a
+violence, as not any boat can poſſibly paſſe, and ſo broad diſperſeth
+the ſtreame, as there is not paſt flue or ſire Foote at a
+low water, and to the ſhore ſcarce paſſage with a barge, the
+water floweth foure foote, and the freſhes by reaſon of the
+Rockes haue left markes of the inundations 8. or 9. foote:
+The ſooth ſide is plaine low ground, and the north ſide high
+
+[[PB facs tcp:26291:7]]
+
+mountaines, the rockes being of a grauelly nature, interlace[?]
+with many vains of gliſtring ſpangles That night we returned
+to Powhatan: the next day (being Whitſunday after dinner)
+we returned to the fals, leauing a mariner in pawn with
+the Indians for a guide of theirs, hee that they honoured for
+King followed vs by the riuer. That afternoone we trifled in
+looking vpon the Rockes and riuer (further he would not goe)
+ſo there we erected acroſſe, and that night taking our man at
+Powhatans, Cap. Newport congratulated his kindenes with
+a Gown and a Hatchet: returning to Arſetecke, and ſtayed
+there the next day to obſerue the height therof, & ſo with many
+ſlgnes of loue we departed. The next day the Queene of Agamatack
+kindely intreated vs, her people being no leſſe contented
+then the reſt, and from thence we went to another place,
+(the name whereof I doe not remember) where the people
+ſhewed vs the manner of their diuing for Muſſels, in which
+they finde Pearles.
+
+ That night paſſing by Weanock ſome twentie miles from
+our Fort, they according to their former churliſh condition,
+ſeemed little to affect vs, but as wee departed and lodged at
+the point of Weanocke, the people the next morning ſeemed
+kindely to content vs, yet we might perceiue many ſignes of
+a more Iealouſie in them then before, and alſo the Hinde that
+the King of Arſeteck had giuen vs, altered his reſolution in
+going to our Fort, and with many kinde circumſtances left
+vs there. This gaue vs ſome occaſion to doubt ſome miſchiefe
+at the Fort, yet Capt. Newport intended to haue viſited Paſpahegh
+and Tappahanocke, but the inſtant change of the
+winde being faire for our return, we repaired to the fort withall
+ſpeed, where the firſt we heard was that 400. Indians the
+day before had aſſalted the fort, & ſuppriſed it, had not God (beyond
+al their expectations) by meanes of the ſhippes at whom
+they ſhot with their Ordinances & Muskets, cauſed them to
+retire, they had entred the fort with our own men, which were
+then buſied in ſetting Corne, their armes beeing then in drieſats
+& few ready but certain Gentlemē of their own, in which
+
+[[PB facs tcp:26291:8]]
+
+conflict, moſt of the Counſel was hurt, a boy ſlaine in the Pinnas,
+and thirteene or fourteene more hurt Withall ſpeede we
+palliſadeed our Fort: (each other day) for ſixe or ſeauen daies
+we had alarums by ambuſcadoes, and foure or fiue cruelly
+wounded by being abroad: the Indians loſſe wee know not,
+but as they report three were ſlain and diuers hurt.
+
+ Captaine Newport hauing ſet things in order, ſet ſaile for
+England the 22 of June, leauing prouiſion for 13. or 14
+weeks. The day before the Ships departure, the King of Pamaun[?]e
+ſent the Indian that had met vs before in our diſcouerie,
+to aſſure vs peace, our fort being then paliſadoed round,
+and all our men in good health and comfort, albeit, that throgh
+ſome diſcentented humors, it did not ſo long continue, for the
+Preſident and Captaine Goſnold, with the reſt of the Counſell,
+being for the moſte part diſcontented with one another in
+ſo much, that things were neither carried with that diſcretion
+nor any buſines effected in ſuch good ſort as wiſdome would,
+nor our owne good and ſafetie required thereby, and through
+the hard dealing of our Preſident, the reſt of the counſell beeing
+diuerſlie affected through his audarious commaund, and
+for Captaine Martin, (albeit verie honeſt) and wiſhing the
+beſt good, yet ſo ſicke and weake, and my ſelfe ſo diſgrac'd
+through others mallice, through which diſorder God (being
+angrie with vs) plagued vs with ſuch famin and ſicknes, that
+the liuing were ſcarce able ſo bury the dead: our want of ſufficient
+and good victualls, with continuall watching, foure or
+fiue each night at three Bulwarkes, being the chiefe
+cauſe: onely of Sturgion wee had great ſtore, whereon
+our men would ſo greedily ſurfet, as it coſt manye
+their liues: the Sack, Aquauitie, and other preſeruatiues for
+our health, being kept onely in the Preſidents hands, for his
+owne diet, and his few aſſociates: ſhortly after Captaine Goſnold
+fell ſicke, and within thrée wéekes died, Captaine Ratcliffe
+being then alſo verie ſicke and weake, and my ſelfe hauing
+alſo taſted of the extremitie therof, but by Gods aſſiſtāce
+being well recouered. Kendall about this time, for diuers
+
+[[PB facs tcp:26291:8]]
+
+reaſons depoſed from being of the Councell: and ſhortly after
+it pleaſed God (in our extremity) to moue the Indians to bring
+vs Corne, ere it was halfe ripe, to refreſh vs, when we rather
+expected when they would deſtroy vs: about the tenth of
+September there was about 46. of our men dead, at which
+time Captaine Wingefield hauing ordred the affaires in ſuch
+ſort that he was generally hated of all, in which reſpect with
+one conſent he was depoſed from his preſidencie, and Captaine
+Ratcliffe according to his courſe was elected.
+
+ Our prouiſion being now within twentie dayes ſpent, the
+Indians brought vs great ſtore both of Corne and bread ready
+made: and alſo there came ſuch aboundance of Fowles into
+the Riuers as greatly refreſhed our weake eſtates, wherevppon
+many of our weake men were preſently able to goe abroad.
+As yet we had no houſes to couer vs, our Tents were
+rotten, and our Cabbins worſe then nought: our beſt commoditie
+was Yron which we made into little chiſſels, the preſident,
+and Captaine Martins ſicknes, conſtrayned me to be
+Cape Marchant, and yet to ſpare no paines in making houſes
+for the company, who notwithſtanding our miſery, little
+ceaſed their mallice, grudging and mattering. As at this time
+were moſt of our chiefeſt men either ſicke or diſcontented, the
+reſt being in ſuch diſpaire, as they would rather ſtarue and
+rot with idlenes, then be perſwaded to do any thing for their
+owne reliefe without conſtraint: our victualles being now
+within eighteene dayes ſpent, and the Indians trade decreaſing,
+I was ſent to the mouth of y• riuer, to Kegquouhtan an
+Indian Towne, to trade for Corne, and try the riuer for Fiſh,
+but our fiſhing we could not effect by reaſon of the ſtormy
+weather. The Indians thinking vs neare famiſhed, with
+careleſſe kindnes, offred vs little pieces of bread, & ſmall handfulls
+of beanes or wheat, for a hatchet or a piece of copper: In
+the like maner I entertained their kindnes, and in like ſcorne
+offered them like commodities, but the Children, or any that
+ſhewed extraordinary kindenes, I liberally contented with
+free gifte, ſuch trifles as wel cōtented them▪ finding this co[?]e
+
+[[PB facs tcp:26291:9]]
+
+comfort, I anchored before the Towne, and the next day returned
+to trade, but God (the abſolute diſpoſer of all heartes)
+altered their conceits, for now they were no leſſe deſirous of
+cut commodities then we of their Corne: vnder colour to
+fetch freſh water, I ſent a man to diſcouer the Towne,
+their Corne, and force, to trie their intent, in that they deſired
+me vp to their houſes: which well vnderſtanding, with
+foure ſhot I viſited them, with fiſh, oyſters, bread and déere,
+they kindly trades with me and my men, beeing no leſſe in
+doubt of my intent, then I of theirs, for well I might with
+twentie men haue fraighted a Shippe with Corne: The
+Towne conteineth eighteene houſes, pleaſantly ſeated vpon
+three acres of ground, vppon a plaine, halfe inuironed with
+a great Bay of the great Riuer, the other parte with a Baye
+of the other Riuer falling into the great Baye, with a little
+Ile fit for a Caſtle in the mouth thereof, the Towne
+adioyning to the mains by a necke of Land of ſixtie yardes.
+With ſixteene buſhells of Corne I returned towards our
+Forte: by the way I encountred with two Canowes of Indians,
+who came ab[?]ord me, being the inhabitants of waroſkoyack,
+a kingdome on the ſouth ſide of the riuer, which is in
+breadth 5. miles and 20 mile or neare from the mouth: with
+theſe I traded, who hauing but their hunting prouiſion, requeſted
+me to returne to their Towne, where I ſhould load
+my boat with corne, & with near thirtie buſhells I returned to
+the fort, the very name wherof gaue great comfort to our deſparing
+company: time thus paſſing away, & hauing not aboue
+14. daies vituals left, ſome motiōs were made about our preſidents
+& Capt. Archeri going for England, to procure a ſupply,
+in which meane time we had reaſonablly fitted vs with
+houſes, and our Preſident & Capt. Martin being able to walk
+abroad, with much ado do it was concluded, that the pinnace and
+barge ſhould goe towards Powhatan, to trade for corne: Letts
+were caſt who ſhould go in her, the chance was mine, & while
+ſhe was arigging. I made a voiage to Topohanack, where ariuing,
+there was but certain women & children who fled from
+their houſes, yet at laſt I drew them to draw néere, truck they
+
+[[PB facs tcp:26291:9]]
+
+durſt not, corne they had plenty, & to ſpoile I had no cōmiſſion:
+In my reſume to Paſpahegh, I traded with that churliſh &
+trecherous nation: hauing loaded 10 or 12 buſhels of corne,
+they offred to take our pieces and ſwords, yet by ſtelth, but ſéeming
+to diſlike it, they were ready to aſſault vs, yet ſtāding vpon
+our guard in coaſting the ſhore, diuers out of the woods
+would meet with vs with corn & trade, but leaſt we ſhould be
+conſtrained, either to indure ouermuch wrong or directly fal to
+reuenge, ſéeing them dog vs, from place to place, it being night,
+& our neceſſitie not fit for warres, we tooke occaſion to returne
+with 10 buſhells of corne: Cap. Martin after made 2 iournies
+to that nation of Paſpahegh but eache tune returned with 8.
+or 10. buſhells. All things being now ready for my iourney to
+Powhatan, for the performance thereof, I had 8. men and my
+ſelfe for the barge, as well for diſcouerie, as trading, the Pinnace,
+5. Marriners, & 2. landmen to take in out ladings at conuenient
+places. The 9 of Nouember I ſet forward for the diſcouery
+of the country of Chikhamania, leauing the pinnace
+the next tide to followe and ſtay for my comming at Point
+weanock, 20 miles from our fort: the mouth of this riuer falleth
+into the great riuer at Paſpahegh, 8 miles aboue our fort:
+that afternoone I ſtayed the eb, in the bay of Paſpahegh with
+the Indiās: towards the euening certaine Indians haled me,
+one of them being of Chikahamania, offred to cōduct me to his
+country, the Paſpabegheans grudged therat: along we went
+by moonelight, at midnight he brought vs before his Towne,
+deſiring one of our men to go vp with him, whom he kindely
+intertained, and returned back to the barge: the next morning
+I went vp to the towne, and ſhewed them what copper and
+hatchets they ſhold haue for corne, each family ſeeking to giue
+me moſt content: ſo long they cauſed me to ſtay yt 100 at leaſt
+was expecting my comming by the riuer with corne, what I
+liked I bought, and leaſt they ſhould perceiue my too great
+want I went higher vp the riuer: this place is called Manoſquoſick
+a quarter of a mile from the riuer, conteining thirtie
+or fortie houſes, vppon an exceeding high land: at the foote
+of the hill towards the riuer, is a plaine wood, watered
+with many ſpringes, which fall twentie yardes right downe
+
+[[PB facs tcp:26291:10]]
+
+into the riuer: right againſt yt ſame is a great marſh, of 4. or 5.
+miles circuit, deuided in 2 Ilands, by the parting of the riuer,
+abounding with fiſh & fouls all ſorts a mile from thence is a
+Towne called Oraniocke, I further diſcouered the Townes
+of M[?]nſa, Apahaock, Werawahone, & Mamanahūt at eche
+place kindely vſed, eſpecially at the laſt, being the hart of the
+Country, where were aſſembled 200. people with ſuch aboū
+ dāce
+of corne, as hauing laded our barge, as alſo I might haue
+laded a ſhip: I returned to Paſpahhegh, & conſidering yt want
+of Corne at our Fort, it being night, with yt ebb, by midnight
+I ariued at our fort, where I found our Pinnis run aground:
+the next morning I vnladed ſeauē hogſheds into our ſtore, the
+next morning I returned againe: the ſecond day I ariued at
+Mamanahūt, wher y• people hauing heard of my cōming, were
+ready with 3 or 400. baskets litle & great, of which hauing laded
+my barge, with many ſignes of great kindnes I returned:
+at my departure they requeſted me to hear our pieces, being in
+the midſt of the riuer, which in regard of y• eccho ſéemed a peale
+of ordnance, many birds and fowles they ſee vs dayly kil that
+much feared them, ſo deſirous of trade wer they, yt they would
+follow me with their canowes, & for any thing giue it me, rather
+then returne it back: ſo I vnladed again 7 or 8. hogſheads
+at our fort. Hauing thus by Gods aſſiſtance gotten good ſtore
+of corne, notwithſtanding ſome bad ſpirrits not content with
+Gods prouidence, ſtill grew [?]tinous, in ſo much, that our
+preſident hauing ocaſion to chide the ſ[?]ith for his miſdeamenor,
+he not only gaue him bad language, but alſo offred to ſtrike
+him with ſome of his tooles, for which rebellious act, the smith
+was by a Jury condemned to be hanged, but being vppon the
+ladder continuing verry obſtinate, as hoping vpon a reſcue:
+when he ſaw no other way but death with him, he became penitent,
+& declared a dangerous conſpiracy, for which Captains
+Kendall as principal, was by a Jury condē
+ [?]ed & ſhot to death.
+This conſpiracy appeaſed, I ſet forward for the diſcouery of
+the Riuer of Checka Hamania: this third time I diſcouered y•
+Townes of Matapamient, Morinogh, Aſcacap, moyſenock
+Righkahauck, Nechanichock, Mattalūt, Attamuſpincke, &
+diuers others, their plenty of corne I found decreaſed, yet lading
+
+[[PB facs tcp:26291:10]]
+
+the barge, I returned to our fort: our ſtore being now
+indifferently wel prouided with corne, there was much adoe
+for to haue the pinace goe for England, againſt which Captain
+Martin & my ſelfe, ſtanding chiefly againſt it, and in fine after
+many debatings, pro & contra, it was reolued to ſtay a [?]urther
+reſolutiō: this matter alſo quieted, I ſet forward to finiſh
+this diſcouery, which as yet I had neglected in regard of y• neceſſitie
+we had to take in prouiſion whilſt it was to be had: 4[?].
+miles I paſſed vp yt riuer, which for the moſt part is a quarter
+of a mile broad, & 3. fatham & a half deep, exceeding vſey, many
+great low marſhes, & many high lāds, eſpecially about yt midſt
+at a place called Moyſonicke, a Peninſule of 4. miles cicuit,
+betwixt two riuers ioyned to the main, by a neck of 40. or 50.
+yards, and 40. or 50 yards from the high water marke: on both
+ſides in the very necke of the maine, are high hills and dales,
+yet much inhabited, the Ile declining in a plaine fertile corn[?]
+field, the lower end a low marſh, more plentie of ſwannes,
+cranes, geeſe, duckes, and mallards, & diuers ſorts of fowles
+none would deſire: more plaine fertile planted ground, in ſuch
+great proportions as there I had not ſeene, of a light blacke
+ſandy mould, the cliffes commonly red, white and yellowe coloured
+ſand, & vnder red & white clay, fiſh great plenty, & people
+aboundance, the moſt of their inhabitants, in view of yt neck of
+Land, where a better ſeat for a towne cannot be deſired: at the
+end of forty miles this riuer inuironeth many low Ilands, at
+each high water drowned for a mile, where it vniteth it ſelfe,
+at a place called. Apokant the higheſt Towns inhabited. 10.
+miles higher I diſcouered with the barge; in the mid way, a
+great tree hindred my paſſage which I cut in two: heere the riuer
+became narrower, 8. 9 or 10. foote at a high water, and 6.
+or 7. at a lowe: the ſtreame exceeding ſwift, & the bottom hard
+channell, the ground moſt part of a low plaine, ſandy ſoyle, this
+occaſioned me to ſuppoſe it might iſſue from ſome lake or ſome
+broad ford, for it could not be far the head, but rather then I
+would endanger the barge, yet to haue beene able to reſolue
+this doubt, & to diſcharge the imputation of malicious tungs,
+that halfe ſuſpected I durſt not for ſo long delaying, ſome of
+the company as deſirous as my ſelf, we reſolued to bier a Canow,
+
+[[PB facs tcp:26291:11]]
+
+and returne with the barge to Apocant, there to leaue
+the barge ſecute, and put our ſelues vppon the aduenturs:
+the country onely a vaſt and wilde wildernes, and but onely
+that Towne: within three or foure mile we hired a Canow,
+and 2. Indians to row vs yt next day a fowling: hauing made
+ſuch prouiſion for the barge as was needfull, I lett her there to
+ride, with expreſſe th[?]rge not any to go aſhore til my returne.
+Though ſome wiſe men may condemn this too bould attempt
+of too much indiſcretion, yet if they well cōſider the friendſhip
+of the Indians, inconducting me, the deſolatenes of the country,
+the propabilitie of ſome lacke, & the malicious iudges of my
+actions at home[?]as alſo to ha[?]e ſome matters of worth to incourage
+our aduenturers in england, might well haue cauſed
+any honeſt [?] to haue done the like, as wel for his own diſcharge
+as for the publike g[?]d: hauing 2 Indians for my guide
+& 2 of our own company, I ſet forward, leauing 7 in the bargs:
+hauing diſco[?]ered 20 miles further in this deſart, the riuer ſtil
+kept his depth and bredth, but much more combred with trées:
+here we went aſhore (being ſome 12 miles higher then yt barge
+had bene) to refreſh our ſelues, during the boyling of our vituals:
+one of the Indians I to[?]ke with me, to ſée the nature of the
+ſoile, & to croſſe the bought[?] of the riuer, the other Indian I
+leſt with M. Robbinſon and Thomas Emry, with their matches
+light and order to diſcharge a peace, for my retreat at the
+firſt ſight of any Indian, but within a quarter of an houre I
+heard a leud cry, and hollowing of Indians, but no warning
+peece, ſuppoſing them ſurpriſed, and that the Indians had betraid
+vs, preſently I ſeazed him & bound his arme faſt to my
+hand in a garter, with my piſtoll ready bent to be reuenged on
+him: he aduiſed me to fly, and ſeemed dignorant of what was
+done, but as we went diſcourſing, I was ſtruck with an arrow
+an the right thigh, but without harme: vpon this occaſion
+I eſpied 2 Indians drawing their bowes, which I preuented
+in diſcharging a french piſtoll: by that I had charged againe 3
+or 4 more did the like, for the firſt fell downe and fled: at my
+diſcharge they did the like, my hinde I made my barricado
+who offeced not to ſtriue, 20. or 30. arrowes were ſhot at me
+but ſhort, 3 or 4 times I had diſcharged my piſtoll [?]re the
+
+[[PB facs tcp:26291:11]]
+
+king of Pamaūck called Opeckākenough with 200 men, inuironed[?]e,
+eache drawing their bowe, which d[?]e they laid
+them vpon the ground, yet without ſhot, my hinde treated betwixt
+them and me of conditions of peace, he diſcouered me to
+be the Captaine, my requeſt was to retire to yt boate, they demaunded
+my armes, the reſt they ſaide were ſlaine, onely
+me they would reſerue: the Indian importuned me not to
+that. In retiring being in the midst of alow quagmire, and
+minding them more then my ſteps, I ſlept faſt into the quagmire,
+and alſo the Indian in drawing me forth: thus ſurpriſed,
+I reſolued to trie their mercies, my armes I caſts from
+me, till which none durſt approch me: being ceazed on me, they
+drew me out and led me to the King, I preſented him with
+a compaſſe diall, deſcribing by my beſt [?] the vſe therof,
+whereat he ſo amazedly admired, as he ſuffered me to proceed
+in a diſcourſe of the roundnes of the earth, the courſe of the
+sunne, moone, ſtarres and plannets, with kinde ſpeeches and
+bread he requited me, conducting me where the Canow lay
+and Iohn Robbinſon ſlaine, with 20 or 30. arrowes in him.
+Emry I ſaw not, I perceiued by the aboundance of fires
+all ouer the woods, at each place I expected when they would
+execute me, yet they vſed me with what kindnes they
+could: approaching their Towne, which was within 6 miles
+where I was taken, onely made as arbors and couered with
+mats, which they remoue as occaſion requires: all the women
+and children, being aduertiſed of this accident, came
+foorth to meet them, the King well guarded with 20 bowmen
+5 flanck and rear, and each flanck before him aſword & a péece,
+and after him the like, then a bowman, then I on each hand
+a boweman, the reſt in file in the reare, which reare led foorth
+amongſt the trees in a viſhion, eache his bowe and a handfull
+of arrowes, a quiner at his back gumly paintes: on eache
+fl[?]nck a ſargeant, the one running alwaies towarde the front
+the other towards the reare, each a true pace and in excéeding
+good order, this being a good time continued, they [?] themſelues
+in a ring with a daunce, and [?] eache man departed to
+
+[[PB facs tcp:26291:12]]
+
+his lodging, the Captain conducting me to his lodging a quarter
+of Veniſon and ſome ten pound of bread I had for ſupper,
+what I left was reſerued for me, and ſent with me to my l[?]dging:
+each morning 3. women [?] me three great platters
+of fine bread, more veniſon then ten men could deuour I had,
+my gowne, points and garters, my compas and a tablet they
+gaue me again, though 8 ordinarily guarded me, I wanted
+not what they could deuiſe to content me: and ſtill our longer
+acquaintance increaſed our [?]etter affection: much they threatned
+to aſſault our forts, as they were ſolicited by the King of
+Paſpahegh, who ſhewed at our fort great ſignes of ſorrow for
+this miſchance: the King too he great delight in vnderſtanding
+the manner of our ſhips and ſayling the ſeas, the earth & skies
+and of our God: what he knew of the dominious he ſpared not
+to acquaint me with, as of certaine men cloathed at a place called
+Ocanahonan, cloathed like me, the courſe of our riuer, and
+that within 4 or 5 daies iourney of the falles, was a great turning
+of ſalt water: I deſired he would ſend a meſſenger to Paſpahegh,
+with a letter I would write, by which they ſhold vnderſtand,
+how kindly they vſed me, and that I was well leaſt
+they ſhould reuenge my death: this he granted and ſent three
+men, in ſuch weather, as in reaſon were vnpoſſible, by any naked
+to be indured: their cruell mindes towards the fort I had
+deuerted, in deſcribing the ordinance & the mines in the fields,
+as alſo the reuenge Captain Newport would take of them at
+his returne, their intent, I incerted the fort, the people of Ocanahonum
+and the back ſea, this report they after found diuers
+Indians that c[?]nfirmed the next day after my letter, came a
+ſaluage to my lodging, with his ſword to haue ſlaine me, but
+being by my guard intercepted, with abowe and arrow he offred
+to haue effected his purpoſe: the cauſe I knew not, till
+the King vnderſtanding thereof came and told me of a man a
+dying, wounded with my piſtoll: he tould me alſo of another
+I had ſlayne, yet the moſt concealed they had any hurte: this
+was the father of him I had ſlayne, whoſe fury to pre
+ [?]ent,
+the King preſently conducted me to another Kingdome,
+
+[[PB facs tcp:26291:12]]
+
+vpon the top of the next northerly riuer, called Youghtanan,
+hauing feaſted me, he further led me to another branch of the riuer,
+called Mattapament, to ſwo other hunting townes they
+led me, and to each of theſe Countries, a houſe of the great Emperour
+of Pewhakan, whom as yet I ſuppoſed to bee at the
+Fals, to him I tolde him I muſt goe, and to returne to Paſpahegh,
+after this foure or fiue dayes marſh, we returned to Raſawrack,
+the firſt towne they brought me too, where binding
+the Mats in bundels, they marched two dayes iourney, and
+croſſed the Riuer of Youghtanan, where it was as broad as
+Thames: ſo conducting me to a place called Menapacute in
+Pamaunke, where ye King inhabited: the next day another King
+of that nation called Kekataugh, hauing receiued ſome kindnes
+of me at the Fort, kindly inuited me to feaſt at his houſe, the people
+from all places flocked to ſée me, each ſhewing to content
+me. By this the great King hath foure or fiue houſes, each
+containing foureſcore or an hundred foote in length, pleaſantly
+ſeated vpon an high ſandy hill, from whence you may ſée weſterly
+a goodly low Country, the riuer before the which his crooked
+courſe cauſeth many great Marſhes of excéeding good ground.
+An hundred houſes, and many large plaines are here togither
+inhabited more abundance of fiſhe fowle, and a pleaſanter ſeat
+cannot be imagined: the King with fortie Bowmen to guard
+me, intreated me to diſcharge my Piſtoll, which they there preſented
+me with a mark at ſix ſcore to ſtrike therwith but to ſpoil
+the pr[?]ctiſe I broke the cocke, whereat they were much diſcontented
+though a chaunce ſuppoſed.
+
+ From hence this kind King conducted mee to a place called
+Topahanocke, a kingdome vpon another Riuer northward:
+the cauſe of this was, that the yeare before, a ſhippe had béene
+in the Riuer of Pamaunke, who hauing beene kindly entertained
+by Powhatan their Emperour, they returned thence, and
+diſcouered the Riuer of Topahanocke, where being receiued
+with like kindneſſe, yet he ſlue the King, and looks of his people,
+and they ſuppoſed I were hee, but the people reported him a
+great man that was Captaine, and vſing mee kindly, the
+
+[[PB facs tcp:26291:13]]
+
+next day we departed.
+
+ This Riuer of Topahanock, ſéemeth in breadth not much
+leſſe then that we dwell vpon. [?] the [?] of the Riuer is a
+Countrey called Cuttata women vpwards is Ma[?]rough tacum
+Tapohanock, Appamatuck, and Nantengs [?]acum; at
+Topmanahocks, the head iſſuing from many Mountaines,
+the next night I lodged at a hunting town of Powha[?]ams, and
+the next day arriued at Waran[?]comoco vpon the riuer of Pama[?]ncke,
+where the great king is reſident: by the way we paſſed
+by the top of another little riuer, which is betwixt the two
+called Payankatank. The moſt of this Countrey though Deſert,
+yet excéeding fertil, good timber, moſt hils and dales, in each
+valley a criſtall ſpring.
+
+ Arrioing at Weramocomoco their Emperour, proudly
+lying vppon a Bedſtead a foote high vpon ſeune or twelue
+Mattes, richly hung with manie Chaynes of great Pearles
+about his necke, and couered with a great Coucring of
+Rahaughcums: At heade ſat a woman, at his feete another,
+on each ſide ſitting vppon a Matte vppon the ground
+were raunged his chiefe men on each ſide the fire, tenne in a
+ranke, and behinde them as many yong women, each a great
+Chaine of white Beades ouer their ſhoulders: their heades
+painted in ridde and with ſuch a graue and Maieſticall countenance,
+as draue me into admiration to ſée ſuch ſtate in a naked
+Saluage, hee kindly welcomed me with good wordes, and
+great Platters of ſondrie V[?]ctuals, aſſuring mee his friendſhip,
+and my libertie within foure dayes, hee much delighted in
+Opechan Comoughs relation of what I ha[?] deſcribed to him,
+and oft examined me vpon the ſame. Hee aſked mee the cauſe
+of our comming, I tolde him being in fight with the Spaniards
+our enemie, beeing ouer powred neare put to retreat, and
+by extreame weather put to this ſhore, where landing at Cheſipiack,
+the people ſhal vs, but at Ke[?]u[?]ughtan they kindly
+vſed vs, we by ſignes demaunded freſh water, they deſcribed
+vs vp the Riuer was all freſh water, at P[?]ſpahegh, alſo they
+kindly vſed vs, one Pinnſſe being leake wee were inforced to
+
+[[PB facs tcp:26291:13]]
+
+ſtay to mend her, till Captaine Newport my father came to
+conduct vs away. He demaunded why we went further with
+our Boa[?]e, I tolde him, in that I would haue occaſion to
+talke of the backe Sea, that on the other ſide the maine, where
+was ſalt water, my father had a childe flaine, whiche wée
+ſuppoſed M[?]nocan his enemie, whoſe death we intended to
+reuenge.
+
+ After good deliberation, hée began to deſcribe mee the
+Countreys beyonde the Falles, with many of the reſt, confirming
+what not onely Opechancanoyes, and an Indian
+which had beene proſoner to Pewhatan had before tolde mee,
+but ſome called it fiue dayes, ſome ſixe, ſome eight, where the
+ſayde water daſhed amongeſt many ſtones and rockes, each
+ſtorme which cauſed off tymes the heade of the Riuer to bee
+brackiſh: Anchanachuck he deſcribed to bee the people that
+had ſlaine my brother, whoſe death hée would reuenge. Hée
+deſcribed alſo vpon the ſame Sea, a mighty Nation called
+Pocoughtronack, a fierce Nation that did eate men, and
+warred with the people of Moyaoncer, and Pataromerke,
+Nations vpon the toppe or the heade of the Bay, vnder his
+territories, where the yeare before they had ſlein an hundred,
+he ſignified their crownes were ſhauen, long haire in the necke,
+tied on a knot, Swords like Polla[?]es.
+
+ Beyond them he deſcribed people with ſhort Coates, and
+Sléeues to the Elbowes, that paſſed that way in Shippes
+like ours. Many Kingdomes hée deſcribed mée to the heade
+of the Bay, which ſéemed to bée a mightie Riuer, iſſuing
+from mightie Mountaines betwixt the two Seas, the people
+cloathed at Ocamahowan. He alſo confirmed, and the Southerly
+Countries alſo, as the reſt, that reported vs to be within a
+day & a halfe of Mangoge, two dayes of Chawwonock, 6. frō
+ Roo[?]ock, to the ſouth part of the backe ſea: he deſcribed a countrie
+called Anone, where they haue abundance of Braſſe,
+and houſes walled as outs. I required his diſcourſe, ſeeing
+what pride hée had in his great and ſpacious Dominions,
+ſeeing that all hee knewe were vnder his Territories.
+
+[[PB facs tcp:26291:14]]
+
+In deſcribing to him the territorles of Europe, which was
+ſubiect to our great King whoſe ſubiect I was, the innumerable
+multitude of his ſhips, I gaue him to vnderſtand the noyſe of
+Trumpets, and terrible manner of fighting were vnder captain
+Newport my father, whom I intituled the Meworames which
+they call King of all the waters, at his greatneſſe hee admired,
+and not a little feared: hee deſired mee to forſake Paſpaliegh,
+and to liue with him vpon his Riuer, a Countrie called Capa
+Howaſicke: hée promiſed to giue me Corne, Veniſon, or what
+I wanted to feede vs, Hatchets and Copper wee ſhould make
+him, and none ſhould diſturbe vs. This requeſt I promiſed to
+performe: and thus hauing with all the kindnes hee could deuiſe,
+ſought to content me: hee ſent me home with 4. men, one
+that vſually carried my Gowne and Knapſacke after me, two
+other loded with bread, and one to accompanie me.
+
+ This Riuer of Pamaunke is not paſt twelue mile from that
+we dwell on, his courſe northweſt, and weſterly, as the other.
+Weraocomoco, is vpon ſalt water, in bredth two myles, and
+to keepeth his courſe without any tarrying ſome twenty miles,
+where at the parting of the freſh water and the ſalt, if diuideth
+it ſelfe into two partes, the one part to Goughland, as broad as
+Thames, and [?]auigable, with a Boats threeſcore or foure ſcore
+miles, and with a Shippe [?], excéeding crooked, and manie
+low grounds and mariſhes, but inhabited with aboundance of
+warlike and tall people. The Countrey of Youghtomam, of
+no leſſe worth, onely it is lower, but all the ſoyle, a fatte, fertill,
+ſandie ground. Aboue Manapacumter, many high ſandie
+Mountaines. By the Riuer is many Rockes, ſeeming if not of
+ſeuerall Mines: The other branch a little leſſe in breadth, yet
+extendeth not neare ſo farre, nor ſo well inbabited, ſomewhat
+lower, and a white ſandle, and a white clay ſoyle: here is their
+beſt Terra Sigillata: The month of the Riuer, as I ſee in the
+diſcouerie therof with captain Newport, is halfe a wile broad, &
+within foure miles not aboue a Muſket ſhot: the channell excéeding
+good and dée[?]s, the Riuer ſtraight to the [?]. Kiskirk
+the neareſt Nation to the entrances.
+
+[[PB facs tcp:26291:14]]
+
+Their religion and Ceremonie I obſerued was thus: thrée
+or foure dayes after my taking ſeuen of them in the houſe where
+I lay, each with a rattle began at ten a clocke in the morning to
+ſing about the fire, which they inuironed with a Circle of
+meale, and after a foote or two from that, at the end of each ſong,
+layde downe two or thrée graines of wheate, continuing this order
+till they haue included ſixe or ſeuen hundred in a halfe Circle,
+and after that two or thrée more Circles in like maner, a hand
+bredth from other: that done, at each ſong, they put betwixt euerie
+three, two or fiue graines, a little ſlicke, ſo counting as an
+old woman her Pater noſter.
+
+ One diſguiſed with a great Skinne, his bead [?]ung round
+with little Skinnes of Weaſels, and other vermine, with a
+Crownel of feathers on his head, painted as vgly as the diuell,
+at the end of each ſong will make many ſignes and demonſtrations,
+with ſtrange and vehement actions, great cakes of Déere
+ſuet, Deare, and Tobacco he caſteth in the fire, till ſixe a clocke
+in the Euening, their howling would continue ere they would
+depart. Each morning in the coldeſt froſt, the principall to the
+number of twentie or thirtie, aſſembled themſelues in a round
+circle, a good diſtance from the towne, where they told me they
+there conſulted where to hunt the next day: ſo fat they fed nice,
+that I much doubted they intended to haue ſacrificed mee to the
+Quiyoughquoſicke, which is a ſuperiour power they worſhip,
+a more vglier thing cannot be deſcribed: one they haue for
+chief ſacrifices, which alſo they call Quiyoughquoſick: to cure
+the ſick, a man with a Rattle, and extreame howling, ſhowting,
+singing, and ſuch violent geſtures, and Anticke actions ouer
+the patient will ſucke out blood and flegme from the patient out
+of their vnable ſtomacke, or any diſeaſed place, as no labour will
+more tire them, Tobacco they offer the water in paſſing in fowle
+weather. The death of any they lament with great ſorrow and
+weeping: their Kings they burie betwixt two mattes within
+their houſes, with all his beads, tewels, hatchets, and copper: the
+other in graues like ours. They acknowledge no reſurrection.
+Powhatan hath thrée brethren, and two ſiſters, each of his bretheren
+
+[[PB facs tcp:26291:15]]
+
+ſuccéeded other.
+
+ For the Crowne, their heyres inverite not, but the firſt
+heyres of the Siſters, and ſo ſucceſſiuely the weomens heires:
+For the Kings haue as many weomen as they will, his Subiects
+two, and moſt but one.
+
+ From Weramocomoco is but 12. miles, yet the Indians
+trifled away that day, and would not goe to our Forte by any
+perſwaſions: but to certaine olde hunting houſes of Paſpahegh
+we lodged all night. The next morning ere Sunne riſe,
+we ſet forward for our Fort, where we arriued within an houre,
+where each man with the trueſt signes of ioy they could expreſſe
+welcommed mee, except M. Archer, and ſome 2. or 3. of his,
+who was then in my abſence, ſworne Counſellour, though not
+with the conſent of Captaine Martin: great blame and imputation
+was laide vpon mée by them, for the loſſe of our two men
+which the Indians ſlew: inſo much that they purpoſed to depoſe
+me, but in the midſt of my miſeries, it pleaſed God to ſend Captaine
+Nuport, who arriuing there the ſame night, ſo tripled our
+ioy, as for a while theſe plots againſt me were deferred though
+with much malies againſt me, which captain Newport in ſhort
+time did plainly ſee. Now was maiſter Scriuener, captaine
+Martin, and my ſelfe, called Counſ[?]llers.
+
+ Within fiue or ſixe dayes after the arriuall of the Ship, by a
+miſchaunce our Fort was burned and the moſt of our apparell,
+lodging and priuate prouiſion, many of our old men diſeaſed,
+and of our new for want of lodging periſhed. The Empercur
+Powhatan each wéeke once or twice ſent me many presents of
+Deare, bread Raugroughcuns, halfe alwayes for my father,
+whom he much deſired to ſée, and halfe for me: and ſo continually
+importuned by meſſengers and preſents, that I would come to
+fetch the corne, and take the Countrie their King had giuen me,
+as at laſt Captaine Newport reſolued to go ſee him. Such
+acquaintance I had amongſt the Indians, 
+ [?]and ſuch confidence
+they had in me, as neare the Fort they would not come till I
+came to them, euery of them calling me by my name, would not
+ſell any thing till I had firſt receiued their preſents, and what
+
+[[PB facs tcp:26291:15]]
+
+they had that I liked, they deferred ſo my diſcreſion: but after
+acquaintance, they vſually came into the Fort at their pleasure:
+The Preſident, and the reſt of the Councell, they kenew
+not, but Captaine Newports greatneſſe I had ſo deſcribed, as
+they conceyued him the chiefe, the reſt his children, Officers, and
+ſeruants. We had agreed with yt king of Paſpahegh to conduct
+two of our men to a place called Panawicke beyond R[?]onok,
+where he reported many men to be apparelled. Wee lended
+him at Warraskoyack, where playing the villaine, and deluding
+vs for rewards, returned within thrée or foure dayes after
+without going further. Captaine Newport, maiſter Scrinener,
+and my ſelfe, found the mouth of Pamauncks riuer, ſome
+25. or 30. miles northward from Cape Henricke, the chanell
+good as before expreſſed.
+
+ Arriuing at Weramocomoca, being iealous of the intent of
+this politick ſaluage, to diſcouer his intent the better, I with 20.
+ſhot armed in Jacks went a ſhore, the Bay where he dwelleth
+hath in it 3. cricks, and a[?]ile and a halfe from the chanel all eſt,
+being conducter to the towne, I found my ſelfe miſtaken in the
+cr[?]eke, for they al there were within leſſe then a mile, the Emperors
+ſonne called Naukaquawis, the captaine that looke me, and
+diuerſe others of his chiefe men conducted me to their kings habitation,
+but in the mid way I was intercepted by a great créek
+ouer which they had made a bridge of grained ſtakes & ratles,
+the king of Kiskieck, and Namontack, who all the iourney the
+king had ſent to guide vs, had conducted vs this paſſage, which
+cauſed me to ſuſpect ſome miſchiefe: the barge I had ſent to méet
+me at the right lanting, when I found my ſelfe firſt deceyued,
+and knowing by experience the moſt of their courages to procéede
+from others feare, though fewe lyked the paſſage, I intermingled
+the Kings ſonne, our conductors, and his chiefe men
+amongſt ours, and led forward, leauing halfe at the one ende
+to make a guard for the paſſage of the Front. The Indians
+ſeeing the weakeneſſe of the Bridge, came with a Canow, and
+tooke me in of the middeſt with foure or flue more, bring landed
+wee made a guard for the reſt till all were paſſed, two in
+
+[[PB facs tcp:26291:16]]
+
+a ranke we marched to the Emperors houſe. Before his houſe
+ſtood fortie or fiftie great Platters of fine bread, being entred the
+houſe, with loude tunes they all made ſignes of great ioy. This
+proude ſaluags, hauing his fineſt women, and the principall of
+his chiefe men aſſemble[?], ſate in rankes as before is expreſſed,
+himſelfe as vpon a Throne at the vpper ende of the houſe, with
+ſuch a Maieſtie as I cannot expreſſe, nor yet haue often ſeene,
+either in Pagan or Chriſtian, with a kinde countenance hee
+has [?]ce welcome, and cauſed a place to bee made by himſelfe
+to ſit, I preſented him a ſute of red cloath, a white Greyhound,
+and a Hatte, as Jewels he eſtéemed them, and with a great
+Oration made by thrée of his Nobles, if there be any amongſt
+Saluages, kindly accepted them, with a publike confirmation
+of a perpetuall league and friendſhip.
+
+ After that, he commaunded the Quéen[?] of Apamatuc, a
+comely yong Saluage, to giue [?]water[?] water, a Turkie-cocke, and
+breade to eate: being thus feaſted, hee began his diſcourse to
+this purpoſe. Your kinde viſitation doth much content mee,
+but where is your father whom I much deſire to ſee, is he not
+with you. I told him he remained aboord, but the next day he
+would come vnto him, with a merrie coūtenance he aſked me for
+certaine péeces I which promiſed him, when I went to Paſpahegh,
+I told according to my promiſe, that I proffered the man
+that went with me foure [?] Coluerings, in that he ſo deſired
+a great Gunne, but they re[?]ſed to take them, whereat with
+alowde laughter, he deſired to giue him ſome of leſſe burthen,
+as for the other I gaue him them, being ſure that none could
+carrie them: but where are theſe men you promiſed to come
+with you, I told him without, who thervpon gaue order to hau[?]
+them brought in, two after two, euer mainteining the guard
+without. And as they preſented themſelues euer with thankes,
+he would ſainte me, and cauſed each of them to haue foure or fiue
+pound of bread giuen them. This done, I aſked him for the
+corne and ground he promiſed me He told me I ſhould haue it,
+but he expected to haue all theſe men lay their armes at his féet,
+as did his ſubiects. I tolde him that was a ceremonie our enemies
+
+[[PB facs tcp:26291:16]]
+
+deſired, but neuer our Friends, as we preſented our
+ſelues vnto him, yet that he ſhould [?] doubt of our friendſhip:
+the next day my Father would giue him a child of [?]is,
+in full aſſurance of our loues, and not only that, but when he
+ſhould thinke it conuenient, wée would deliuer vnder his
+ſubiection the Country of Manacam and Pocough[?]aonack
+his enemies.
+
+ This ſo contented him, as immediatly with attentiue ſilence,
+with a lowd oration he proclaimed me Awerowanes
+of Powhaton, and that all his ſubiects ſhould so eſtéeme vs,
+and no man account vs ſtrangers nor Paſpaheghans, but
+Powhatans, and that the Corne, weomen and Country,
+ſhould be to vs as to his owne people: this proffered kindnes
+for many reaſons we contemned not, but with the beſt
+Languages and ſignes of thankes I could expreſſe, I tooke
+my leaue.
+
+ The King riſing from his ſeat, conducted me foorth, and
+cauſed each of my men to haue as much more bread as hée
+could beare: giuing me ſome in a baſket, & as much he ſent
+a board for a preſent to my Father: victuals you muſt know
+is all there wealth, and the greateſt kindnes they could ſhew
+vs: arriuing at the Riuer, the Barge was fallen ſo low with
+the ebbe, though I had giuen order and oft ſent to preuent
+the ſame, yet the meſſengers deceiued mée, the Skies being
+very thicke and rainie, the King vnderſtanding this miſchance,
+ſent his Sonne and Mamontacke, to conduct mée
+to a great houſe ſufficient to lodge mée, where entring I ſaw
+it hung round with bowes and arrowes.
+
+ The Indians vſed all diligence to make vs fires, & giue
+vs content: the kings Orators preſently entertained vs
+with a kinde oration, with expreſſe charge that not any
+ſhould ſteale, or take out bowes or arrowes, or offer any
+iniury.
+
+ Preſently after he ſent me a quarter of Venizon to ſlay my
+ſtomacke: in the euening hée ſent for mee to come onely
+
+[[PB facs tcp:26291:17]]
+
+with two ſhot with me: the company I g[?]ue order to ſtand
+vpon their guard, & to maintaine two ſentries at the ports
+all night. To my ſupper he ſet before me meate for twenty
+men, & ſeeing I could not eate, hee cauſed it to be giuen to my
+men: for this is a generall cuſtome, that what they giue, not
+to take againe, but you moſt either eate it, giue it away, or
+carry it with you: two or thrée houres we ſpent in our a[?]
+ ent
+diſcourſes, which done, I was with a fire ſtick lighted to
+my lodging.
+
+ The next day the King conducting mée to the Riuer,
+ſhewed me his Canawes, and deſcribed vnto me how hée
+ſent them ouer the Baye, for tribute Beades: and alſo what
+Countries paide him Beads, Copper or [?]. But ſéeing
+Captaine Nuport, and Maiſter Scriuener, comming a
+ſhore, the King retu[?]ned to his houſe, and I went to meete
+him, with a trumpet before him, wée marched to the King:
+who after his old manner kindly receiued him, eſpecially a
+Boy of thirtéen yeeres old, called Thomas Saluage, whom
+he gaue him as his Sanne: he requited this kindnes with
+each of vs a great baſket of Beanes, and entertaining him
+with the former diſcourſe, we paſſed away that day, and agréed
+to bargaine the next day, and ſo returned to our Pinnis:
+the next day comming[?] ſhore in like order, the king
+hauing kindly entertained vs with a breakfaſt, queſtioned
+with vs in this manner.
+
+ Why we came armed in that ſort, ſéeing hée was our
+friend, and had neither bowes nor arrowes, what did wée
+doubt? I told him it was the cuſtome of our Country, not
+doubting of his kindnes any waies, wherewith though hée
+ſéemed ſatiſfied, yet Captaine Nuport cauſed all our men to
+retire to the water ſide, which was ſome thirtie ſcore from
+thence: but to preuent the worſt, Maiſter Scriuener or I
+were either the one or other by the Barge, experience had
+w[?]ll taught me to beléeue his friendſhip, till conuenient opportunity
+ſuff[?]ed him to betrey vs, but quickly this polititian
+
+[[PB facs tcp:26291:17]]
+
+had perceiued my abſence, and [?]unningly ſent for mée;
+I ſent for Maiſter Scriuener to ſupply my place, the King
+would demaund for him, I would againe relée[?] him, and
+they ſought to ſatiſfie our ſuſpition with kind Language, and
+not being agréed to trade for corne, hée deſired to ſée all our
+Hatchets and Copper together, for which he would giue vs
+corne, with that auncient trick[?] the Chick ahamaniens had
+oft acquainted me: his offer I refuſed, offering firſt to ſée
+what hée would giue for one piece, hée ſéeming to deſpiſe the
+nature of a Merchant, did ſcorne to ſell, but we freely ſhould
+giue him, and he liberally would requite vs.
+
+ Captaine Nuport would not with leſſe then twelue great
+Coppers try his kindnes, which he liberally requited with
+as much corne as of Chickah[?]mania, I had for one of leſſe
+proportion: our Hatchets hée would alſo haue at his owne
+rate, for which kindnes [?]ée much ſéemed to affect Captaine
+Nuport, ſome few bunches of blew Beades I had, which he
+much deſired, and ſeeing ſo few, he off[?]d me a baſket of two
+pecks, and that which I drew to be thrée pecks at the leaſt,
+and yet ſéemed contented and deſired more: I agréed with
+him the next day for two buſhells, for y• ebbe now conſtrained
+vs to returne to our Boate, although he earneſtly veſi
+ [?]ed
+vs to ſtay dinner which was a prouiding, and being ready
+he ſent aboard after vs, which was bread and venizon,
+ſufficient for fiftie or ſixtie perſons.
+
+ The next day hee ſent his Sonne in the morning not to
+bring a ſhore with vs any pieces, leaſt his weomen and children
+ſhould fears. Captaine Nuports good beliefe would
+haue ſatiſfied that requeſt, yet twentie or twentie five ſhot
+we got a ſhore: the King in portuning mée to leave my
+armes aboard, much miſliking my ſword, piſtol and target,
+I told him the man that ſlew my Brother with the like
+tearmes had perſwaded me, and being vnarmed ſhot at vs,
+and ſo betraide vs.
+
+ He oft entreated Captaine Nuport that his men might
+
+[[PB facs tcp:26291:18]]
+
+leane their armes, which ſtill hée commanded to the water
+ſide, this day we ſpent in trading for blew Beads, and hauing
+neare ſtraighted our Barge.
+
+ Captaine Nuport returned with them that came abord,
+hauing me and Maiſter Scriuener a ſhore, to follow in Canowes;
+into one I got with ſixe of our men, which béeing
+lan[?]hed a ſtones caſt from the ſhore ſtuck faſt in the Oſe:
+Maiſter Scriuener ſéeing this example, with ſeuen or eight
+more paſſed the dreadfull bridge, thinking to haue found
+déeper water on the other cr[?]ke, but they were in forced to
+ſtay with ſuch entertainment as a saluage, being forced aſhore
+with wind and raine, hauing in his Canow, as commonly
+they haue, his houſe and houſhold, inſtantly seeing [?] vp a
+houſe of mats which ſuccoured them from the ſtorme. [?]
+
+ The Indians ſeeing [?] peſtred in the Oſe, called to me,
+ſixe or ſeuen of the Kings chiefs men threw off their ſkins,
+and to the middle in Oſe came to bear me out on their heads,
+their import[?]acie cauſed me better to like the Canow then
+their curteſ[?]e, excuſing my deniall for feare to fall into the
+Oſe, deſiring them to bring me ſome w[?]d, fire, and mats, to
+couer me, and I would content them: each preſently gaue
+his helpe to ſatiſfie my requeſt, which paines a horſe would
+ſcarce haue indured, yet a couple of bells richly contented
+them.
+
+ The Emperors ſent his Seaman Mantiuas in the euening
+with bread and victuall for me and my men, he no more
+ſcrip[?]s then the reſt ſéemed to take a pride in ſhewing
+how [?] he regarded that miſerable cold and d[?]rty paſſage,
+though a d[?]ggs would ſcarce haue indured it, this kindnes
+I found, when I litle expected leſſe then a miſchiefs, but the
+black[?] night parting our companies, ere midnight the
+[?] ſerued to carry vs aboard: the next day we came aſhore,
+the King with a ſolemne diſcourſe cauſing all to depart,
+but his principall men, and this was the effect, when as
+hée perceiued that we had a deſire to inuade Monacum, againſt
+
+[[PB facs tcp:26291:18]]
+
+whom he was no profeſſed enemy, yet thus farre hée
+would aſſiſt vs in this enterpriſe: Firſt hée would ſend his
+ſpies, perfectly to vnderſtand their ſtrength and ability [?]o
+fight, with which he would acquaint vs himſelfe.
+
+ Captaine Nuport would not be ſéene in it himſelfe, being
+great Werowances, they would ſtay at home, but I,
+Maiſter Scriuener, and two of his Sonnes, and Opechankanough.
+The King of Pamaunke ſhould haue 100. of
+his men to goe before as though they were hunting, they
+giuing vs notiſe where was the aduantage we ſhould kill
+them, the wcomen and young children he wiſhed we ſhould
+ſpare, & bring them to him, only 100. or 150. of our men he
+held ſufficient for this exploit: our boats ſhould ſtay at the
+falls, where we might hew timber, which we might conuey
+each man a piece till we were paſt the ſtones, and there
+ioyne them, to paſſe our men by water, if any were ſhot, his
+men ſhould bring them backe to our boats, this faire tale
+had almoſt made Captaine Nuport vndertake, by this
+meanes to diſcouer the South ſea, which will not be without
+trecherie, if wée ground our intent vpon his conſtancie.
+
+ This day we ſpent in trading, dancing, and much mirth,
+the King of Pamaunke ſent his meſſenger, as yet not knowing
+Captaine Nuport, to come vnto him: who had long
+expected mée, deſiring alſo my Father to viſite him: the
+meſſenger ſtayed to conduct vs, but Powhatan vnderſtanding
+that we had Hatchets lately come from Paſpahegh,
+deſired the next day to trade with vs, and not to go further.
+
+ This new tricke he cunningly pot vpon him, but onely
+to haue what hee liſted, and to try whether we would go or
+ſtay, Opechanke[?]oughs meſſenger returned that wée
+would not come: the next day his Daughter came to entreat
+me, ſhewing her Father had hurt his legge, and much ſorrowed
+he could not ſee me.
+
+[[PB facs tcp:26291:19]]
+
+Captaine Nuport being not to bée perſwaded to goe in,
+that Powhatan had deſired vs to ſtay: ſent her away with
+the like anſwer, yet the next day vpon better conſideration
+intreatie pre[?]ailed, and wée anchored at Cinquoateck, the
+firſt [?]waine aboue the parting of the riuer, where dwelled
+two Kings of Pamaunke, Brothers to Powhatan: the one
+called Opitchapam, the other Katatough, to theſe I went
+a ſhore, who kindly intreated mée and Maiſter Scriuener,
+ſending ſome preſents aboard to Captain[?] 
+ Nuport, whilſt
+we were trucking with theſe Kings.
+
+ Opechankanough his wife, weomen, and children
+came to méete me with a naturall kind affection, hée ſéemed
+to reioyce to ſée me.
+
+ Captaine Nuport came a ſhore, with many kind diſcourſes
+wée paſſed that foren[?]ne: and after di[?]er, Captaine
+Nuport went about with the Pinnis to Menapacant
+which is twenty miles by water, and not one by land: Opechankanough,
+conducted me and Maiſter Scriuener by
+land, where hauing built a feaſting houſe a purpoſe to entertaine
+vs with a kind Orali[?]n, after their manner and
+his beſt prouiſion, kindly welcomed vs, that day he would
+not trucks, but did his beſt to delight vs with content: Captaine
+Nuport arriued towards euening, whom the King
+preſented with ſixe great platters of fiue bread, and Panſa
+ [?]owm[?]a,
+the next day till none wée traded: the King
+feaſted all the company, and the afternoone was ſpent in
+playing, dauncing, and delight, by no meanes hée would
+haue vs depart till the next day, he had feaſted vs with veni
+ [?]on,
+for which he had ſent, hauing ſpent his firſt and ſecond
+prouiſion in expecting out comming: the next day he performed
+his promiſe, giuing more to vs three, then would haue
+ſufficed 30. and in that we carried not away what we le[?],
+hée ſent it after vs to the Pinnis, with what words or
+ſignes of loue he could expreſſe, we departed.
+
+ Captaine. Nuport in the Pinnis, leauing mée in the
+
+[[PB facs tcp:26291:19]]
+
+Barge to digge a rocke, where wée ſuppoſed a Mine at
+Cinquaoreck, which done, ere midnight I arriued at Werac[?]m[?]co,
+where our Pinnis anchored, b[?]ing 20. miles
+from Cinquao[?]ecke, the next day we tooke leaue of Powhatan,
+who in regard of his kindnes gaue him an Indian,
+he will affected to goe with him for England in ſtéed of his
+Sonne, y• cauſe I aſſure me was to know our ſtrength and
+Countries condition: y• next day we arriued at Kiskiack, the
+people ſo ſcornefully entertained vs, as with what ſignes
+of ſcorne and diſcontent we could, we departed and returned
+to our Fort with 250. buſhells of Corne, our preſident being
+not wholy recouered of his ſicknes, in diſcharging, his
+Piece brake and ſplit his hand off, which he is not yet well
+recouered.
+
+ At Captaine Nuports arriuall, wée were victualled for
+tw[?]lue wéekes, and hauing furniſhed him of what hée
+thought good, hée ſet ſaile for England the tenth of Aprill:
+Maiſter Scriuener and my ſelfe with our ſhallop, accompanied
+him to Captaine Hendrick.
+
+ Powhatan hauing for a farrewell, ſent him fiue or ſixe
+mens loadings, with Torkeyes for ſwords, which hée ſent
+him in our return to y• 
+ [?]ort: we diſcouered the [?] of Nauſamd,
+a proud warlike Nation, as well we may teſtified, at
+our firſt arriuall at Cheſiapiack: but that iniury Captaine
+Nuport well reuenged at his returne, where ſome
+of them in[?]i[?]ng him to their [?] by a da[?]nce, hee
+perceiuing their intent, with a vally of muſket that, ſlew
+one, and ſhot one or two more, as themſelues confeſſe, the
+King at our ariuall ſent for me to come vnto him: I ſent him
+word what commodities I had to exchange for wheat, and
+if he would as had the reſt of his Neighbours, conclude a
+Peace, we were contented, at laſt he came downe before the
+Boate which rid at anchor ſome fortie yards from y• ſhore,
+he ſignified to me to come a ſhore, and ſent a Canow with
+foure or fiue of his men, two whereof I deſired to come aboard
+
+[[PB facs tcp:26291:20]]
+
+& to ſtay, & I would ſend two to talke with their King
+a ſhore, to this hée agréed: the King wée preſented with a
+piece of Copper, which he kindly excepted, and ſent for victualls
+to entertaine the meſſengers.
+
+ Maiſter Scriuener and my ſelfe alſo, after that went a
+ſhore: the King kindly feaſted vs, requeſting vs to ſtay to
+trade till the next day, which hauing done, we returned to
+the Fort, this riuer is a muſket ſhot broad, each ſide being
+ſhould bayes, a narrow channell but three f[?]dom, his courſe
+for eightéene miles, almoſt directly South, and by Weſt,
+where beginneth the firſt inhabitants, for a mile it turneth
+directly Eaſt, towards the Weſt, a great bay and a white
+chaukie Iland, conuenient for a Fort: his next courſe
+South, where within a quarter of a mile, the riuer diuideth
+in two, the neck a plaine high Corne field, the weſter bought
+a high plaine likewiſe, the Northeaſt anſwerable in all reſpects:
+in theſe plaines are planted aboundance of houſes
+and people, they may containe 1000. Acres of moſt excellent
+fertill ground, ſo ſweéete, ſo pleaſant, ſo beautifull, and
+ſo ſtrong a proſpect, for an inuincible ſtrong Citty, with ſo
+many commodities, that I know as yet I haue not ſeene:
+This is within one deies iourney of Chawwonocke, the
+riuer falleth into the Kings riuer, within twelue miles of
+Cape-hendicke.
+
+ At our Fort, the [?]ooles we had were ſo ordinarily ſtolen
+by the Indians, as neceſſity inforced vs to correct their brauing
+théeuerie: for he that ſtol[?] to day, durſt came againe
+the next day. One amongſt the reſt, hauing ſtolen two
+ſwords, I got the Counſels conſent to ſet in the bilboes:
+the next day with three more, he came with their woodden
+ſwords in the midſt of our men to ſteale, their cuſtome is to
+take any thing they can ceaze off, onely the people of Pamaunke,
+wee haue not found ſtealing: but what others
+can ſteale, their King receiueth.
+
+ I had them depart, but flouriſhing their ſwords, they
+
+[[PB facs tcp:26291:20]]
+
+ſéemed to defend what they could catch but out of our
+hands, his pride vrged me to turne him from amongſt vs,
+whereat he offred to ſtrike me with his ſword, which I preuented,
+ſtriking him firſt: the reſt eff[?]ing to reuenge the
+blow, receiued ſuck an incounter, and ſled; the better to
+affright them, I purſued them with fiue or ſixe ſhot, and ſo
+chaſed them out of the Iland: the beginning of this broyle,
+litle expecting by his carriage, we durſt haue reſiſted, hauing
+euen till that preſent, not béene contradicted, eſpecially them
+of Paſpahegh: theſe Indians within one houre, hauing by
+other Saluages, then in the Fort, vnderſtood that I threatned
+to be reuenged, came preſently of themſelues, and fell
+to working vpon our wears, which were then in hand by other
+Saluages, who ſéeing their pride ſo incountred, were ſo
+ſo ſubmiſſiue, and willing to doe any thing as might be, and
+with trembling feare, deſired to be friends within thrée daies
+after: From Nawſamond which is 30. miles from vs, the
+King ſent vs a Hatchet, which they had ſtollen from vs at
+our being there: the meſſenger as is the cuſtome, alſo wée
+well rewarded and contented.
+
+ The twenty of Aprill, being at worke, in hewing downe
+Trees, and ſetting Corne, an alarum cauſed vs with all
+ſpeede to take our armes, each expecting a new aſſault of the
+Saluages: but vnderſtanding it a Boate vnder ſaile, our
+doubts were pr[?]ently ſatiſfied, with the happy ſight of
+Maiſter Nelſon, his many perrills of extreame ſtormes
+and tempeſts. His ſhip well, as his company could teſtifie
+his care in ſparing our prouiſion, was well: but the prouidence
+thereof, as alſo of our ſtones, Hatchets, and other
+fooles, onely ours excepted, which of all the reſt was moſt
+neceſſary, which might inforce vs, to think either a ſeditious
+traitor to our action, or a moſt vnconſcionable deceiuer of
+our treaſures. This happy arriuall of Maiſter Nelſon in
+the Phenix, hauing beene then about thrée monethes miſſing,
+after Captaine Nuports arriuall, being to all our expectations
+
+[[PB facs tcp:26291:21]]
+
+loſt: albeit, that now at the laſt, hauing béene
+long croſſed with tempeſt[?]ous weather, and contrary
+winds, his ſo vnexpected comming, did ſo rauiſh vs with exceeding
+ioy, that now we thought our ſelues as well filled,
+as our harts could wiſh, both with a competent number of
+men, as alſo for all other néedfull prouiſions, till a further
+ſupply ſhould come vnto vs: whereupon the firſt thing that
+was concluded, was, that my ſelfe, and Maiſter Scriuener,
+ſhould with 70. men goe with the beſt meanes we could
+prouide, to diſcouer beyond the Falls, as in our iudgements
+conueniently we might: ſixe or ſeauen daies we ſpent only
+in trayning, our men to march, fight, and ſcirwiſh in the
+woods, their willing minds to this action, ſo quickned their
+vnderſtanding in this exerciſe, as in all iudgements wée
+were better able to fight with Powhatans whole force: in
+our order of battle amongſt the Trées, (for Thicks there is
+few) then the Fort was to rep[?]ſ[?] 400. at the firſt ass[?]ult,
+with ſome tenne or twenty ſhot, not knowing what to doe,
+nor how to vſe a Piece: our warrant being ſ[?]aled, Maiſter
+Nelſon refuſed to [?] vs with the voluntary Marriners,
+and himſelfe as be promiſed, vnleſſe we would ſtand bound
+to pay the hire for ſhippe, and Marriners, for the time they
+ſtayed: and further there was ſome controuerſie, through
+the diuerſitie of Contrary opinions, ſome alleadging, that
+how profitable, and to what good purpoſe ſoeuer our iourney
+ſhould portend, yet our commiſſion, commanding no
+certaine deſigne, we ſhould be taxed for the moſt indiſcréete
+men in the world, beſides the wrong we ſhould doe to Captaine
+Nuport, to whom only all diſcoueries did belong, and
+[?] no other: the meanes for guides, beſide the vncertaine
+courſes of the riuer, from which we could not erre much,
+each night would fortifie vs in two houres, better then that
+they firſt called the Fort, their Townes vpon the riuer, each
+within one dayes iourney of other, beſides our ordinary
+prouiſion, might well be ſupp[?]ſed to adde reliefe: for truck
+
+[[PB facs tcp:26291:21]]
+
+& dealing only, but in loue & peace, as wt the rest; if they aſſalted
+vs, their Townes they cannot defend, nor their lnggage
+to conuey, that we ſhould not ſhare, but admit the worſt, 16.
+daies prouiſion we had of Ch[?]ſe, O[?]tmeale, and b[?]ket beſides
+our rand[?]nous, we could and might haue hid in the
+ground. With ſixe men, Captaine Martin, would haue vndertaken
+it himſelfe, leauing the reſt to defend the Fort, and
+plant our Corne: yet no reaſon could be reaſon, to procéed[?]
+forward, though we were going aboard to ſet ſaile: Theſe
+diſcontents cauſed ſo many doubts to ſome, and diſcouragement
+to others, as our iourney ended: yet ſome of vs procured
+petitions to ſet vs forward, only with hope o[?] our
+owne confuſions, our next courſe was to turne huſbandmen,
+to fell Trées and ſet Corne. Fiftie of our men, we imployed
+in this ſeruice, the reſt kept the Fort, to doe the command
+of the preſident, and Captaine Martin, 30. dayes the
+ſhip lay expecting yt triall of certain matters, which for ſome
+cauſe I keepe priuate: yt next exploit was an Indian hauing
+ſtolen an Are was ſo purſued by Maiſter Scriuener, & them
+next him, as he threw it downe, and flying, drew his how
+at any that durſt incounter him: within foure or fiue dayes
+alter, Maiſter Scr[?]uener and I, being a little from the Fort,
+among the Corne, two Indiants, each with a codgell, and
+all newly painted with T[?]rraſigillate, came circling about
+mée, as though they would haue clubed me like a hare: I
+knew their faining loue is towards me, not withort a deadly
+hatred, but to preuent the worſt, I calling maiſter Scriuener
+retired to the Fort: the Indians ſeeing me ſuſpect them,
+with good [?], aſked me for ſome of their men, whom
+they would beate, and went with me into our Fort, [?]nding
+one that lay ordinarily with vs, only for a ſpie: they offered
+to beat him, I in perſwading them to forbeare, they offered
+to beginne with me being now foure for two other arrayed
+in like manner, came in on the other ſide the Fort: wherevpon
+I cauſed to ſhut the Ports, and apprehend them. The
+
+[[PB facs tcp:26291:22]]
+
+preſident and Counſell, being preſently acquainted, remembring
+at the firſt aſſault, they came in like manner, and neuer
+elſe but againſt ſome villauie, concluded to commit them
+to priſon, and expect the euent, eight more we ceazed at that
+preſent, an houre after came three or foure other ſtrangers,
+extraordinarily fited with arrowes, ſ[?]innes, and ſhooting
+glo[?]es, their iealouſie and feare, bewrayed their bad intent,
+as alſo their ſuſpitious departure.
+
+ The next day came firſt an Indian, then another as Embaſſa[?]ors
+for their men, they deſired to ſpeake with me, our
+diſcourſe was, that what Spades, Shouells, ſwords, or
+fooles they had ſtaine, to bring home (if not the next day,
+they ſhould hang) the next newes was, they had taken two
+of our men, ranging in the woods, which miſchiefe no puniſhment
+will preuent bat hanging, and theſe they would
+ſhould redeeme their owne 16. or 18. thus brauing vs
+to our doores, we deſired the preſident, and Captaine Martin,
+that afternoone to ſally vpon them, that, they might but
+know, what we durſt to doe, and al night mand our Barge,
+and burnt their Townes, and ſpoiled, and deſtroyes, what
+we could, but they brought our men, and fréely deliuered
+them: the preſident releaſed one, the reſt we brought well
+guarded, to Morning and Euening prayers Our men all
+in armes, their trembling feare, then cauſed them to much
+ſorrow, which till then ſcoffed, and ſcorned at what we durſt
+doe, the Counſell concluded, that I ſhould terrifle them
+with ſome torture, to know if I co[?]ld know their intent the
+next day I bound one in hold, to the maint Maſt, and preſenting
+fire Muſkets with match in the cockes, forced him
+to desire life, to anſwere my demaunds he could not, but
+one of his Comouodos was of the counſell of Paſpahegh,
+that could ſatiſfie me: I releaſing him out of ſight, I affrighted
+the other, firſt with the rack, then with Muſkets, which
+ſéeing, he deſired me to ſtay, and hée would confeſſe to this
+execution Maiſter Scriuener came, his diſcourſe was to
+
+[[PB facs tcp:26291:22]]
+
+this effect, that Paſpehegh, the Chickahamaniar, Youghtanum,
+Pamaunka, Mattapanient, & Kiskiack. Theſe Nations
+were altogether a hunting that tooke me, Paſpahegh, &
+Chicahamanya, had entended to ſurpriſe vs at worke, to
+haue had our tools: Powhatan, & al his would ſ[?]me friends,
+till Captaine Nuports returne, that he had againe his men,
+which he called Namontack, where with a great feaſt hee
+would ſo enamor Captain Nuport & his men, as they ſhould
+ceaze on him, and the like traps would be laied for [?].
+
+ This trap for our fooles, we ſuſpected the chiefe occaſion
+was foure daies before Powhatan 
+ [?] ſent the boy he had
+to vs, with many Turkies to Maiſter Scriuener, and mée,
+vnderſtanding I would go vp into his Countries to deſtroy
+them, and he doubled it the more, in that I ſo oft practiſed
+my men, whoſe ſhooting he heard to his owne lodging, that
+much feared his wiues, and children; we ſent him word, we
+entended no ſuch thing, but only to goe to Powhatan, to
+ſéeke ſtones to make Hatchets, except his men ſhoot at vs,
+as Paſpahegh had told vs they would, which if they did
+ſhoote but one arrowe, we would deſtroy them, and leaſt
+this miſchiefe might happen, ſent the boy to acquaint him
+thus much, and requeſt him to ſend vs Weanock, one of his
+ſubiects for a guide, yt boy he returned backe with his Cheſt,
+& apparell, which then we had giuen him, deſiring another
+for him, y• cauſe was, he was practiſing with the Chikahamanias,
+as the boy ſuſpected ſome vnlanie, by their extraordinary
+reſort, & ſecret conference [?]: whence they would ſend
+him. The boy we keepe, now we would ſend him many me[?]s;
+ſengers, & preſents, the guide we deſired be ſent vs & withall
+requeſted vs to returne him, either the boy or ſome order,
+but none he could haue, & that day theſe Indians were apprehended,
+his ſonne with others yt had loaded at our Fort,
+returned & being out of the Fart, rayl[?]d on me, to [?]
+our [?] enemies to [?] & to y• 
+ [?]
+after W[?]anock yt had [?] with [?]
+kept to haue [?]
+
+[[PB facs tcp:26291:23]]
+
+returned, and ſecretly after him, Amocis toe Paſpaheyan,
+who alwaies they kept amongſt vs for, [?], whom the
+better to auoide ſuſpition, preſently after they came to bea[?]e
+away: theſe preſumptions induced me to take any occaſion,
+not onely to try the honeſty of Amocis, the ſpie but alſo
+the meaning o[?] theſe cunning crickes of their Emperour
+of Powhatan; whoſe true [?] Captaine Ma[?]n moſt
+confidently pleades.
+
+ [?] of M[?]cano[?], which was the counſeller of
+Pasp[?]gh: firſt I then Maiſter [?], vpon their
+ſeuerall examinations, [?]ound by them all confirmed, that
+Paſpahegh, and C[?]kahammania did hate vs, and intended
+ſome miſchiefe, and who they were that tooke me, the
+names of them that ſtole our tooles, and ſwords, and that
+Powhatan receiued them, they all agreed: certaine vo[?]lies of
+ſhot we cauſed to be diſcharged, which cauſed each other to
+thinke that their fellowes had beene ſlaine.
+
+ Powhatan vnderſtanding we detained certaine Saluages,
+ſeat his Daughter, a child al tenne yeares old, which
+not only for feature, countenance, & proportion much exceedeth
+any of the reſt of his people, but for wit, and ſpirit, the
+only Nonpariel of his Country: this hee ſent by his
+moſt truſtie meſſenger, called Rawhunt, as much excéeding
+in [?] perſon, but of a ſubtill wit, and crafty
+vnderſtanding, he with a long circumſtance, told mee, how
+well Powhatan, loued and reſpected mée, and in that I
+ſhould not doubt any way of his kindneſſe, [?]e had ſent his
+child, which he moſt esteemed, to ſee me, a Deere, and bread,
+beſides for a preſent: deſiring me that the Boy might come
+againe, which he loued exceedingly, his little Daughter hée
+had taught this leſſon alſo: not taking notice at all of the
+Ind[?]ans that had beene priſoners three daies, till that morning
+that ſhe saw their fathers are friends come quietly,
+and in good [?]earmes to entreate their libertie.
+
+ Opechaukanough, ſent also vnto vs, that for his ſake, we
+
+[[PB facs tcp:26291:23]]
+
+would releaſe two that were his friends, and for a token
+ſent me his ſhooting Gloue, and Bracer, which the day our
+men was taken vpon, [?] himſelfe from the reſt a
+long time, intreated to ſpeake with me, where in token of
+peace, he had preferred me the ſame: now all of them hauing
+found their perempſorie conditions, but to increaſe our malice,
+which they ſeeing vs begin to threaten to deſtroy them,
+as familiarly as before, without ſuſpition, or feare, came amongſt
+vs, to begge libertie for their men: In the afternoone
+they being gone, we guarded them as before to the Church,
+and after prayer, gaue them to Pocahuntas, the Kings
+Daughter, in regard of her fathers kindneſſe in ſending
+her: after hauing well fed them, as all the time of their impriſonment,
+we gaue them their bowes, arrowes, or
+what elſe they had, and with much content, ſent them
+packing: Pocahuntas, alſo we requited, with ſuch trifles
+as contented her, to tel that we had vſed yt 
+ Paſpaheyans very
+kindly in ſo releaſing them. The next day we had ſuſpition
+of ſome other practiſe for an Ambuſcado, but perfectly wée
+could not diſcouer it, two daies after a Paſpheyan, came
+to ſhew vs a gliſtering Minerall ſtone: and with ſignes demonſtrating
+it to be in great aboundance, like vnto Rockes,
+with ſome dozen more, I was ſent to ſeeke to digge ſome
+quantitie, and the Indean to conduct me: but ſuſpecting
+this ſome tricke to delude vs, for to get ſome Copper of vs,
+or with ſome ambuſcado to betray vs, ſéeing him falter in his
+tale, being two miles on our way, led him aſhore, where
+abuſing vs from place to place, and ſo ſeeking either to haue
+drawne vs with him into the [?], or to haue giuen vs the
+ſ[?]ppe: I ſhewed him Copper, which I promiſed to haue giuen
+him, if he had performed his promiſe, but for his ſcoffing
+and abuſing vs, I gaue him twentie laſhes with a Rope,
+and his bowes and arrowes, bidding him [?] if he durſt,
+and ſo let him goe.
+
+ In all this time, our men being all or the moſt part well
+
+[[PB facs tcp:26291:24]]
+
+recouered, and we not willing to trifle away more time then
+neceſſitie enforced vs vnto, we thought good for the better
+content of the aduenturers, in ſome reaſonable ſort to
+[?]raight home Maiſter Nelſon with Cedar wood, about
+which, our men going with willing minds, was in very good
+time effected, and the ſhip ſent for England; wee now remaining
+being in good health, all our men wel cōtended, free
+from mutinies, in loue one with another, & as we hope in a
+continuall peace with the Indians, where we doubt not but
+by Gods gracious aſſiſtance, and the aduenturers willing
+minds, and ſpeedie furtherance to ſo honorable an action in
+after times, to ſée our Nation to enioy a Country, not onely
+excéeding pleaſant for habitation, but alſo very profitable for
+comerce in generall, no doubt pleaſing to almightie God,
+honourable to our gracio[?]s Soueraigne, and commodious
+generally to the whole Kingdome.
+
+ FINIS.
+
+[[PAGE simple:additions]]
+

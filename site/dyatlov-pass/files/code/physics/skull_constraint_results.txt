@@ -1,0 +1,22 @@
+== 1. Force cap F = sigma_c * A (kN) ==
+                                       bone piece 3 x 3.5 cm  Allsop plate 5 x 10 cm     depression 9 x 7 cm  section D largest area
+GP21 slab p0 (300 kg/m3)                                0.03                    0.15                    0.19                    0.30
+GP21 wind slab p0w (400 kg/m3)                          0.10                    0.50                    0.63                    1.00
+section D hardest snow                                  0.32                    1.50                    1.89                    3.00
+Mellor 1975, 0.40 g/cm3, lower                          0.32                    1.50                    1.89                    3.00
+Mellor 1975, 0.40 g/cm3, upper                          0.73                    3.50                    4.41                    7.00
+Mellor 1975, 0.46 g/cm3, upper                          1.00                    4.75                    5.99                    9.50
+
+== 2. Crushing pressure needed to reach each threshold (kPa) ==
+                                       bone piece 3 x 3.5 cm  Allsop plate 5 x 10 cm     depression 9 x 7 cm  section D largest area
+Allsop floor 2.5 kN                                     2381                     500                     397                     250
+Allsop mean 5.2 kN                                      4952                    1040                     825                     520
+Allsop ceiling 10.0 kN                                  9524                    2000                    1587                    1000
+
+Reading: over the whole depression the 2.5 kN floor needs about 400 kPa and the 5.2 kN
+mean about 800 kPa; over the bone piece alone 2.4 and 5.0 MPa (ice or rock, not snow).
+At the 100 kPa the 2021 model assigns its wind slab, a face on the whole depression gives
+0.6 kN.  Mellor's rapid-loading band for laboratory snow at the site densities reaches
+400-950 kPa.  So: a soft or medium slab is excluded as the sole loader; a hard, well-
+sintered slab or crust bearing on most of the depression with the head backed, or a hard
+object between snow and bone, is not.  A constraint, not an exclusion; no share moves.

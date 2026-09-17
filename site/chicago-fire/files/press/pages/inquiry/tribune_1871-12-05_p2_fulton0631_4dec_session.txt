@@ -1,0 +1,78 @@
+SOURCE: fultonhistory.com scan 'Chicago IL Tribune 1871 - 0631.pdf' = Chicago Tribune, Tuesday 5 December 1871, printed page 2 (folio '2' and running head 'THE CHICAGO TRIBUNE: TUESDAY, DECEMBER 5, 1871' visible on the scan, see pages/fulton/0631_masthead.png). This page is NOT in the LoC copy of the issue: LoC has four pages of 5 Dec, which match Fulton scans 0632, 0633, 0634 and 0636; scans 0631 and 0635 match nothing in LoC.
+URL: https://fultonhistory.com/Newspapers%2023/Chicago%20IL%20Tribune/Chicago%20IL%20Tribune%201871/Chicago%20IL%20Tribune%201871%20-%200631.pdf
+Headline as read from the rendering pages/fulton/0631_head.png: 'THE GREAT FIRE. Conclusion of the Investigation by the P[olice] and Fire Commissioners--Testimony of [Ryer]son's Foreman--Money Paid to Firemen[, Etc.]'
+Text = PyMuPDF extraction of Fulton's OCR layer (column-interleaved with the Common Council proceedings). Segments: [A] headline + report (chars 12233-14263 of the extracted text); [B] closing sentence (chars 16939-17159).
+
+[A]
+d 
+Tbe first bsMstrwtelsai' as follows: Whole num. 
+beref votaaeast, tg; necessary to a ohoice, i l ; 
+( ' • • e t a s t a n ol" t h e i n v e « t i . a » t i « M b y t h e F e l i c e 
+a n d Fibre C o m n t a a t o n e r s — T e s t l m s a y a f K.y«r« 
+s e a ' s F o r e m a n — > I o « * y 
+P a i d t g F i r e m e n , E t c 
+The Board of Police and Ftre Commisaionerg 
+met at i o'clock yesterday afternoon, for the pur 
+pose of continuing their investigation as to the 
+cause of the fire, aad the other circumstances 
+connected with it needing investigation. At 3 
+o'clack the foreman of Ryersoa A Oa.'s lumber 
+yard had not appeared, and, he being the only 
+witness left to examine, tag hoard declared that 
+tne examination wan concluded, and dismissed 
+their 
+official 
+stenographer. 
+After 
+the 
+board adjourned from its regular session the 
+foreman arrived, and was subjected to an ex-
+am to at ion as regards the moaey paid to firemen. 
+He testified that at the time of the Are the Chi-
+cago and foreign companies had done such ex-
+calk nt service that the owners of property-de-
+termined upon making up a parse tor them. The 
+sum raised was 13,900 which was distributed 
+among Ave or six companies. Mat. Bennert the 
+Third Assistant Fire Marshal, received gaoo, 
+while the Chicago companies received | » » . 
+A 
+Httshnrgh 
+and 
+Blooaaington 
+com-
+pany 
+were 
+presented 
+with 
+tafflo 
+ftfio rest ectivery. When asked if any 
+AMreeament was made by either of the oompa-
+alea the witness said there was nothing of the 
+kind. He believed they s>aid no more attention to 
+Ryerson's yard than to any other property, but 
+did their best throughout, and the property own* 
+era whose property had been saved by them felt 
+A" second ballot resulted the same way. 
+Aid. Dixon said whan the Council was a tie tbe 
+Mayor had a easting vote. He movad the Mayor 
+be sentfor. 
+^ 
+,, 
+The Clerk said no motion v a t la order, and 
+ordered the tetters to proceed. The third ballot 
+resulted: 
+Whole number oi ratm 
+east, 4*j 
+Necessary t
+
+[B]
+This ends the lavestigutiom. The board have 
+now all the testimony lief ore them, aad will after 
+due dehbcratlou and consultation, prepare a re-
+port upon it- 
+m 
+AJIUSEMEKTS. 
+MrnrHorrao>, 
+f uite won rejpe 
+tog, (he o

@@ -1,0 +1,73 @@
+== 0. Replication of Gaume & Puzrin (2021) 'The Dyatlov case' ==
+L0=7.236 m  lambda0=52.36  r1=7.753
+phi_min=18.11 deg  phi_max(lambda0)=22.91 deg
+hw0_min=0.236 m (paper 0.24)   hw0_max=0.444 m (paper 0.44)
+dt_min=7.21 h (paper 7.2)     dt_max=13.55 h (paper 13.5)
+tension crack at lcw=4.95 m (paper 4.95); width B=8.81 m (paper 8.8); line mass=815 kg/m; slab mass=7.2 t; volume=20.6 m^3
+   c= 300 Pa: hw0_min=0.000  hw0_max=0.000  -> immediate failure at cut
+   c= 400 Pa: hw0_min=0.040  hw0_max=0.042  -> delayed release
+   c= 440 Pa: hw0_min=0.236  hw0_max=0.444  -> delayed release
+   c= 450 Pa: hw0_min=0.285  hw0_max=inf  -> delayed release only if wind snow does not sinter
+   c= 500 Pa: hw0_min=0.531  hw0_max=inf  -> delayed release only if wind snow does not sinter
+   c= 600 Pa: hw0_min=1.023  hw0_max=inf  -> delayed release only if wind snow does not sinter
+
+== 1. Delay vs weak-layer slope angle (all other parameters as in the paper) ==
+alpha=22 deg: phi_min=12.16  phi_max(l0)=17.81  hw0=[inf,inf] m  dt=[inf,inf] h  -> no release (wind load never reaches peak strength)
+alpha=23 deg: phi_min=13.15  phi_max(l0)=18.65  hw0=[inf,inf] m  dt=[inf,inf] h  -> no release (wind load never reaches peak strength)
+alpha=25 deg: phi_min=15.13  phi_max(l0)=20.34  hw0=[5.228,inf] m  dt=[159.49,inf] h  -> delayed release only if wind snow does not sinter
+alpha=28 deg: phi_min=18.11  phi_max(l0)=22.91  hw0=[0.236,0.444] m  dt=[7.21,13.55] h  -> delayed release
+alpha=30 deg: phi_min=20.10  phi_max(l0)=24.65  hw0=[0.000,0.000] m  dt=[0.00,0.00] h  -> immediate failure at cut
+
+== 2. Regime map ==
+
+== 3. Delay vs deposition flux Q ==
+alpha=23: no delayed release with paper parameters (no release (wind load never reaches peak strength))
+alpha=30: no delayed release with paper parameters (immediate failure at cut)
+Sturm&Stuefer envelope at w=5 m/s: Q_lower=1.15e-04, Q_upper=7.27e-02 kg/m/s
+Sturm&Stuefer envelope at w=8 m/s: Q_lower=2.45e-03, Q_upper=2.35e-01 kg/m/s
+Sturm&Stuefer envelope at w=10 m/s: Q_lower=1.04e-02, Q_upper=4.11e-01 kg/m/s
+Sturm&Stuefer envelope at w=12 m/s: Q_lower=3.41e-02, Q_upper=6.48e-01 kg/m/s
+  w= 5 m/s: dt_max =     1.49 h (upper-bound flux) ...   940.35 h (lower-bound flux)
+  w= 8 m/s: dt_max =     0.46 h (upper-bound flux) ...    44.31 h (lower-bound flux)
+  w= 9 m/s: dt_max =     0.34 h (upper-bound flux) ...    20.61 h (lower-bound flux)
+  w=10 m/s: dt_max =     0.26 h (upper-bound flux) ...    10.39 h (lower-bound flux)
+  w=12 m/s: dt_max =     0.17 h (upper-bound flux) ...     3.18 h (lower-bound flux)
+  w=15 m/s: dt_max =     0.10 h (upper-bound flux) ...     0.74 h (lower-bound flux)
+
+== 4. Sensitivity (one-at-a-time, +/-10 % or +/-1 deg) around the paper's point ==
+alpha_deg   28.000 -1: dt=[ 15.62,   inf] (delayed release only if wind snow does not sinter);  +1: dt=[  2.63,  2.91] (delayed release)
+phi_deg     20.000 -1: dt=[  2.53,  2.77] (delayed release);  +1: dt=[ 16.76,   inf] (delayed release only if wind snow does not sinter)
+c          440.000 -44: dt=[  0.61,  0.62] (delayed release);  +44: dt=[ 13.80,   inf] (delayed release only if wind snow does not sinter)
+h0           0.500 -0.05: dt=[ 15.02,   inf] (delayed release only if wind snow does not sinter);  +0.05: dt=[  0.00,  0.00] (immediate failure at cut)
+hc           0.100 -0.01: dt=[  7.36,   inf] (delayed release only if wind snow does not sinter);  +0.01: dt=[  7.07, 11.16] (delayed release)
+lc           4.000 -0.4: dt=[  7.40,   inf] (delayed release only if wind snow does not sinter);  +0.4: dt=[  7.19, 10.13] (delayed release)
+le0          1.000 -0.1: dt=[  3.95,  4.69] (delayed release);  +0.1: dt=[ 10.87,   inf] (delayed release only if wind snow does not sinter)
+rho        300.000 -30: dt=[ 13.08,   inf] (delayed release only if wind snow does not sinter);  +30: dt=[  1.33,  1.41] (delayed release)
+rho_w      400.000 -40: dt=[  7.21,   inf] (delayed release only if wind snow does not sinter);  +40: dt=[  7.21, 11.76] (delayed release)
+K0           0.500 -0.05: dt=[  9.82,   inf] (delayed release only if wind snow does not sinter);  +0.05: dt=[  4.60,  6.03] (delayed release)
+Q            0.008 -0.0008: dt=[  8.01, 15.06] (delayed release);  +0.0008: dt=[  6.55, 12.32] (delayed release)
+
+== 5. Low-slope window: (phi, c) combinations giving a 9.5-13.5 h release (Q = 0.008) ==
+alpha=22: delayed-release cells=2226, cells overlapping 9.5-13.5 h=281; phi range with any delayed release: 5.0-16.8 deg
+          window: phi 5.0-15.2 deg, c 400-988 Pa
+alpha=23: delayed-release cells=2406, cells overlapping 9.5-13.5 h=315; phi range with any delayed release: 5.0-17.8 deg
+          window: phi 5.0-16.2 deg, c 400-1025 Pa
+alpha=25: delayed-release cells=2748, cells overlapping 9.5-13.5 h=403; phi range with any delayed release: 5.0-19.2 deg
+          window: phi 5.0-18.0 deg, c 400-1125 Pa
+alpha=28: delayed-release cells=3229, cells overlapping 9.5-13.5 h=543; phi range with any delayed release: 5.0-21.8 deg
+          window: phi 5.0-20.2 deg, c 425-1262 Pa
+alpha=30: delayed-release cells=3533, cells overlapping 9.5-13.5 h=646; phi range with any delayed release: 5.0-23.2 deg
+          window: phi 5.0-21.5 deg, c 450-1350 Pa
+
+== 6. Critical crack length (Gaume et al. 2017 form) for comparison ==
+alpha=21 D=0.5 m: tau_p=940 Pa, a_c=0.45 m
+alpha=21 D=1.0 m: tau_p=1440 Pa, a_c=0.36 m
+alpha=23 D=0.5 m: tau_p=933 Pa, a_c=0.39 m
+alpha=23 D=1.0 m: tau_p=1426 Pa, a_c=0.26 m
+alpha=25 D=0.5 m: tau_p=925 Pa, a_c=0.33 m
+alpha=25 D=1.0 m: tau_p=1411 Pa, a_c=0.16 m
+alpha=28 D=0.5 m: tau_p=913 Pa, a_c=0.24 m
+alpha=28 D=1.0 m: tau_p=1386 Pa, a_c=0.00 m
+alpha=30 D=0.5 m: tau_p=904 Pa, a_c=0.18 m
+alpha=30 D=1.0 m: tau_p=1368 Pa, a_c=0.00 m
+(a_c of order 0.2-0.45 m -- far shorter than the ~6.5 m cut and the ~5 m wind-loaded zone -- means that once the weak layer yields over the cut, self-sustained propagation is plausible; a_c = 0 marks cases where the slab is already at failure; this is a scale check with the anticrack formula, not a replication of the paper.)

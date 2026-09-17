@@ -1,0 +1,71 @@
+convention,group,early_form,late_form,words
+every thing / everything,beale_letters,0,2,2716
+every thing / everything,narrative,0,0,3954
+every thing / everything,morriss,0,0,865
+every thing / everything,early,14,4,116700
+every thing / everything,late,1,24,106881
+any thing / anything,beale_letters,0,0,2716
+any thing / anything,narrative,0,0,3954
+any thing / anything,morriss,0,0,865
+any thing / anything,early,17,7,116700
+any thing / anything,late,1,26,106881
+some thing / something,beale_letters,0,1,2716
+some thing / something,narrative,0,2,3954
+some thing / something,morriss,0,0,865
+some thing / something,early,0,15,116700
+some thing / something,late,0,48,106881
+every one / everyone,beale_letters,1,0,2716
+every one / everyone,narrative,3,0,3954
+every one / everyone,morriss,1,0,865
+every one / everyone,early,11,0,116700
+every one / everyone,late,8,1,106881
+any one / anyone,beale_letters,0,0,2716
+any one / anyone,narrative,0,0,3954
+any one / anyone,morriss,0,0,865
+any one / anyone,early,7,0,116700
+any one / anyone,late,10,1,106881
+some one / someone,beale_letters,3,0,2716
+some one / someone,narrative,1,0,3954
+some one / someone,morriss,0,0,865
+some one / someone,early,4,0,116700
+some one / someone,late,9,0,106881
+in the mean time / meantime,beale_letters,0,1,2716
+in the mean time / meantime,narrative,0,0,3954
+in the mean time / meantime,morriss,0,1,865
+in the mean time / meantime,early,6,2,116700
+in the mean time / meantime,late,0,9,106881
+&c. / etc.,beale_letters,2,0,2716
+&c. / etc.,narrative,0,0,3954
+&c. / etc.,morriss,0,0,865
+&c. / etc.,early,29,14,116700
+&c. / etc.,late,5,9,106881
+"-our / -or (honour, favour, labour...)",beale_letters,0,8,2716
+"-our / -or (honour, favour, labour...)",narrative,0,5,3954
+"-our / -or (honour, favour, labour...)",morriss,0,3,865
+"-our / -or (honour, favour, labour...)",early,87,72,116700
+"-our / -or (honour, favour, labour...)",late,11,137,106881
+enquir- / inquir-,beale_letters,1,0,2716
+enquir- / inquir-,narrative,0,0,3954
+enquir- / inquir-,morriss,0,0,865
+enquir- / inquir-,early,17,15,116700
+enquir- / inquir-,late,2,11,106881
+"-ence / -ense (pretence, defence, offence)",beale_letters,0,1,2716
+"-ence / -ense (pretence, defence, offence)",narrative,0,0,3954
+"-ence / -ense (pretence, defence, offence)",morriss,0,0,865
+"-ence / -ense (pretence, defence, offence)",early,21,1,116700
+"-ence / -ense (pretence, defence, offence)",late,9,9,106881
+shew / show,beale_letters,0,1,2716
+shew / show,narrative,0,0,3954
+shew / show,morriss,0,0,865
+shew / show,early,2,35,116700
+shew / show,late,0,55,106881
+connexion / connection,beale_letters,0,2,2716
+connexion / connection,narrative,1,2,3954
+connexion / connection,morriss,0,0,865
+connexion / connection,early,0,6,116700
+connexion / connection,late,0,9,106881
+untill / until,beale_letters,0,6,2716
+untill / until,narrative,0,11,3954
+untill / until,morriss,0,6,865
+untill / until,early,1,59,116700
+untill / until,late,0,61,106881

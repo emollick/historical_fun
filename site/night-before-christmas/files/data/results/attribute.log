@@ -1,0 +1,27 @@
+loaded: moore 46 poems, livingston 66, controls 2756
+--- attribution of 1823 text
+mfw100 {'gi_moore_vs_controls+liv_neutral': 0.098, 'gi_liv_vs_controls+moore_neutral': 0.043, 'gi_moore_vs_controls+liv': 0.122, 'gi_liv_vs_controls+moore': 0.08, 'gi_moore_vs_controls': 0.098, 'gi_liv_vs_controls': 0.1}
+   centroid both cosine: {'Clement Clarke Moore': 1.016, 'Henry Livingston Jr.': 0.984} | anapestic: {'Clement Clarke Moore': 0.749, 'Henry Livingston Jr.': 1.251}
+mfw200 {'gi_moore_vs_controls+liv_neutral': 0.102, 'gi_liv_vs_controls+moore_neutral': 0.06, 'gi_moore_vs_controls+liv': 0.068, 'gi_liv_vs_controls+moore': 0.05, 'gi_moore_vs_controls': 0.062, 'gi_liv_vs_controls': 0.077}
+   centroid both cosine: {'Clement Clarke Moore': 1.131, 'Henry Livingston Jr.': 0.869} | anapestic: {'Clement Clarke Moore': 0.856, 'Henry Livingston Jr.': 1.144}
+mfw300 {'gi_moore_vs_controls+liv_neutral': 0.092, 'gi_liv_vs_controls+moore_neutral': 0.055, 'gi_moore_vs_controls+liv': 0.045, 'gi_liv_vs_controls+moore': 0.055, 'gi_moore_vs_controls': 0.058, 'gi_liv_vs_controls': 0.075}
+   centroid both cosine: {'Clement Clarke Moore': 1.143, 'Henry Livingston Jr.': 0.857} | anapestic: {'Clement Clarke Moore': 0.875, 'Henry Livingston Jr.': 1.125}
+char3 {'gi_moore_vs_controls+liv_neutral': 0.092, 'gi_liv_vs_controls+moore_neutral': 0.003, 'gi_moore_vs_controls+liv': 0.035, 'gi_liv_vs_controls+moore': 0.0, 'gi_moore_vs_controls': 0.02, 'gi_liv_vs_controls': 0.003}
+   centroid both cosine: {'Clement Clarke Moore': 1.013, 'Henry Livingston Jr.': 0.987} | anapestic: {'Clement Clarke Moore': 0.851, 'Henry Livingston Jr.': 1.149}
+char4 {'gi_moore_vs_controls+liv_neutral': 0.015, 'gi_liv_vs_controls+moore_neutral': 0.003, 'gi_moore_vs_controls+liv': 0.003, 'gi_liv_vs_controls+moore': 0.0, 'gi_moore_vs_controls': 0.003, 'gi_liv_vs_controls': 0.0}
+   centroid both cosine: {'Clement Clarke Moore': 1.066, 'Henry Livingston Jr.': 0.934} | anapestic: {'Clement Clarke Moore': 0.859, 'Henry Livingston Jr.': 1.141}
+phone {'gi_moore_vs_controls+liv_neutral': 0.158, 'gi_liv_vs_controls+moore_neutral': 0.077, 'gi_moore_vs_controls+liv': 0.135, 'gi_liv_vs_controls+moore': 0.09, 'gi_moore_vs_controls': 0.147, 'gi_liv_vs_controls': 0.085}
+   centroid both cosine: {'Clement Clarke Moore': 1.291, 'Henry Livingston Jr.': 0.709} | anapestic: {'Clement Clarke Moore': 1.013, 'Henry Livingston Jr.': 0.987}
+--- attribution of 1844 text
+mfw100 {'gi_moore_vs_controls+liv_neutral': 0.128, 'gi_liv_vs_controls+moore_neutral': 0.03, 'gi_moore_vs_controls+liv': 0.138, 'gi_liv_vs_controls+moore': 0.06, 'gi_moore_vs_controls': 0.092, 'gi_liv_vs_controls': 0.095}
+   centroid both cosine: {'Clement Clarke Moore': 1.001, 'Henry Livingston Jr.': 0.999} | anapestic: {'Clement Clarke Moore': 0.749, 'Henry Livingston Jr.': 1.251}
+mfw200 {'gi_moore_vs_controls+liv_neutral': 0.11, 'gi_liv_vs_controls+moore_neutral': 0.055, 'gi_moore_vs_controls+liv': 0.075, 'gi_liv_vs_controls+moore': 0.05, 'gi_moore_vs_controls': 0.065, 'gi_liv_vs_controls': 0.055}
+   centroid both cosine: {'Clement Clarke Moore': 1.121, 'Henry Livingston Jr.': 0.879} | anapestic: {'Clement Clarke Moore': 0.865, 'Henry Livingston Jr.': 1.135}
+mfw300 {'gi_moore_vs_controls+liv_neutral': 0.1, 'gi_liv_vs_controls+moore_neutral': 0.05, 'gi_moore_vs_controls+liv': 0.055, 'gi_liv_vs_controls+moore': 0.045, 'gi_moore_vs_controls': 0.075, 'gi_liv_vs_controls': 0.062}
+   centroid both cosine: {'Clement Clarke Moore': 1.126, 'Henry Livingston Jr.': 0.874} | anapestic: {'Clement Clarke Moore': 0.882, 'Henry Livingston Jr.': 1.118}
+char3 {'gi_moore_vs_controls+liv_neutral': 0.028, 'gi_liv_vs_controls+moore_neutral': 0.003, 'gi_moore_vs_controls+liv': 0.01, 'gi_liv_vs_controls+moore': 0.0, 'gi_moore_vs_controls': 0.007, 'gi_liv_vs_controls': 0.0}
+   centroid both cosine: {'Clement Clarke Moore': 1.009, 'Henry Livingston Jr.': 0.991} | anapestic: {'Clement Clarke Moore': 0.853, 'Henry Livingston Jr.': 1.147}
+char4 {'gi_moore_vs_controls+liv_neutral': 0.0, 'gi_liv_vs_controls+moore_neutral': 0.0, 'gi_moore_vs_controls+liv': 0.0, 'gi_liv_vs_controls+moore': 0.0, 'gi_moore_vs_controls': 0.0, 'gi_liv_vs_controls': 0.0}
+   centroid both cosine: {'Clement Clarke Moore': 1.068, 'Henry Livingston Jr.': 0.932} | anapestic: {'Clement Clarke Moore': 0.871, 'Henry Livingston Jr.': 1.129}
+phone {'gi_moore_vs_controls+liv_neutral': 0.168, 'gi_liv_vs_controls+moore_neutral': 0.075, 'gi_moore_vs_controls+liv': 0.172, 'gi_liv_vs_controls+moore': 0.068, 'gi_moore_vs_controls': 0.163, 'gi_liv_vs_controls': 0.07}
+   centroid both cosine: {'Clement Clarke Moore': 1.281, 'Henry Livingston Jr.': 0.719} | anapestic: {'Clement Clarke Moore': 1.038, 'Henry Livingston Jr.': 0.962}

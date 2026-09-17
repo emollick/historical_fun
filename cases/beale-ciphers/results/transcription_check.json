@@ -1,0 +1,209 @@
+{
+ "comparisons": [
+  {
+   "source": "Gillogly 1980 Table II (B1)",
+   "ours_len": 520,
+   "theirs_len": 520,
+   "differences": [
+    {
+     "op": "replace",
+     "ours_pos": 260,
+     "ours": [
+      324
+     ],
+     "theirs_pos": 260,
+     "theirs": [
+      320
+     ],
+     "theirs_raw": [
+      "320"
+     ]
+    },
+    {
+     "op": "replace",
+     "ours_pos": 263,
+     "ours": [
+      64
+     ],
+     "theirs_pos": 263,
+     "theirs": [
+      68
+     ],
+     "theirs_raw": [
+      "68"
+     ]
+    },
+    {
+     "op": "replace",
+     "ours_pos": 417,
+     "ours": [
+      39
+     ],
+     "theirs_pos": 417,
+     "theirs": [
+      36
+     ],
+     "theirs_raw": [
+      "36"
+     ]
+    },
+    {
+     "op": "replace",
+     "ours_pos": 462,
+     "ours": [
+      868
+     ],
+     "theirs_pos": 462,
+     "theirs": [
+      858
+     ],
+     "theirs_raw": [
+      "858"
+     ]
+    },
+    {
+     "op": "replace",
+     "ours_pos": 489,
+     "ours": [
+      428
+     ],
+     "theirs_pos": 489,
+     "theirs": [
+      328
+     ],
+     "theirs_raw": [
+      "328"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "Love (copy of Remington) B2",
+   "ours_len": 762,
+   "theirs_len": 762,
+   "differences": [
+    {
+     "op": "replace",
+     "ours_pos": 629,
+     "ours": [
+      138
+     ],
+     "theirs_pos": 629,
+     "theirs": [
+      188
+     ],
+     "theirs_raw": [
+      "188/138,"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "unmuseum.org bealepap.htm (Wayback) B1",
+   "ours_len": 520,
+   "theirs_len": 520,
+   "differences": []
+  },
+  {
+   "source": "unmuseum.org bealepap.htm (Wayback) B2",
+   "ours_len": 762,
+   "theirs_len": 763,
+   "differences": [
+    {
+     "op": "replace",
+     "ours_pos": 571,
+     "ours": [
+      108
+     ],
+     "theirs_pos": 571,
+     "theirs": [
+      10,
+      8
+     ],
+     "theirs_raw": null
+    },
+    {
+     "op": "replace",
+     "ours_pos": 666,
+     "ours": [
+      440
+     ],
+     "theirs_pos": 667,
+     "theirs": [
+      40
+     ],
+     "theirs_raw": null
+    }
+   ]
+  },
+  {
+   "source": "unmuseum.org bealepap.htm (Wayback) B3",
+   "ours_len": 618,
+   "theirs_len": 618,
+   "differences": [
+    {
+     "op": "replace",
+     "ours_pos": 92,
+     "ours": [
+      154
+     ],
+     "theirs_pos": 92,
+     "theirs": [
+      151
+     ],
+     "theirs_raw": null
+    }
+   ]
+  }
+ ],
+ "love_annotated_entries": [
+  [
+   42,
+   "95*"
+  ],
+  [
+   65,
+   "1005/994,"
+  ],
+  [
+   83,
+   "1005/994,"
+  ],
+  [
+   223,
+   "84/85,"
+  ],
+  [
+   485,
+   "1005/994,"
+  ],
+  [
+   531,
+   "53/54,"
+  ],
+  [
+   571,
+   "108/10,8,"
+  ],
+  [
+   629,
+   "188/138,"
+  ],
+  [
+   666,
+   "440/40,"
+  ],
+  [
+   701,
+   "84/85,"
+  ],
+  [
+   703,
+   "1005/994,"
+  ],
+  [
+   722,
+   "96/95,"
+  ]
+ ]
+}

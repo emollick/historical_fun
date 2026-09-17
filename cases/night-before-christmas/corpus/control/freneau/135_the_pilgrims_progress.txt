@@ -1,0 +1,36 @@
+title: The Pilgrim's Progress
+author: Philip Freneau
+date: c. 1780-1791
+source: https://www.gutenberg.org/ebooks/38529 (The Poems of Philip Freneau, ed. F. L. Pattee, Princeton, 1902-07, vol. 2, poems of 1780-1791)
+form: iambic trimeter
+lines: 24
+attribution: certain
+notes: 
+
+From his obscure abode,
+On many a tiresome road
+The pilgrim, musing, took his way:
+Through dark and dismal groves
+Where the sad turtle loves
+To pass the night, and kill the day.
+
+In an obscure retreat,
+I saw the pilgrim greet,
+A barren soil and dreary town;--
+Thy streets be-gloomed with trees
+With pain the traveller sees,
+Sylvania, barren of renown.--
+
+What can console him there?--
+Not even a house of prayer
+With glittering spire is seen to rise--
+No nymphs in gaudy trim
+Will there be seen by him;--
+No music, sermons, balls, or pigeon pies.
+
+Dull, melancholy streams,
+Dutch politics and schemes,
+Owls screeching in the empty street--
+Wolves howling at the doors--
+Bears breaking into stores;
+These make the picture of the town--complete.

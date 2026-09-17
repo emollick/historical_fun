@@ -1,0 +1,23 @@
+title: Sonnet Iv
+author: Robert Southey
+date: 1797
+source: https://www.gutenberg.org/ebooks/8212 (Poems, Bristol: Cottle, 1797)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+'Tis night; the mercenary tyrants sleep
+As undisturb'd as Justice! but no more
+The wretched Slave, as on his native shore,
+Rests on his reedy couch: he wakes to weep!
+Tho' thro' the toil and anguish of the day
+No tear escap'd him, not one suffering groan
+Beneath the twisted thong, he weeps alone
+In bitterness; thinking that far away
+Tho' the gay negroes join the midnight song,
+Tho' merriment resounds on Niger's shore,
+She whom he loves far from the chearful throng
+Stands sad, and gazes from her lowly door
+With dim grown eye, silent and woe-begone,
+And weeps for him who will return no more.

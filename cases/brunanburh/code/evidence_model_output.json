@@ -1,0 +1,487 @@
+{
+ "n": 20000,
+ "prior": {
+  "Bromborough (Wirral)": 0.05,
+  "Went valley / Burghwallis (Wood 2013)": 0.04,
+  "Brinsworth / Tinsley (Wood 1980)": 0.03,
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.04,
+  "Burnswark (Dumfriesshire)": 0.04,
+  "Lanchester (Co. Durham)": 0.03,
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.05,
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.02,
+  "Other, unidentified site": 0.7
+ },
+ "point": {
+  "Bromborough (Wirral)": 0.6432690623629134,
+  "Went valley / Burghwallis (Wood 2013)": 0.03492746699155826,
+  "Brinsworth / Tinsley (Wood 1980)": 0.0189534585544993,
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.02973663231368124,
+  "Burnswark (Dumfriesshire)": 0.020742348777438583,
+  "Lanchester (Co. Durham)": 0.00826017564268923,
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.04042227214695027,
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.001688508290603715,
+  "Other, unidentified site": 0.20200007491966612
+ },
+ "mc": {
+  "Bromborough (Wirral)": {
+   "mean": 0.6230896650617509,
+   "p05": 0.36092248979726743,
+   "p50": 0.6363025616056315,
+   "p95": 0.8438285954185193
+  },
+  "Went valley / Burghwallis (Wood 2013)": {
+   "mean": 0.03809657666697972,
+   "p05": 0.01196342783295375,
+   "p50": 0.033558863154334914,
+   "p95": 0.07981637044337955
+  },
+  "Brinsworth / Tinsley (Wood 1980)": {
+   "mean": 0.020674603508948928,
+   "p05": 0.006566997237618718,
+   "p50": 0.018310432613568232,
+   "p95": 0.04301912204205556
+  },
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": {
+   "mean": 0.032457376839037856,
+   "p05": 0.01035643367278457,
+   "p50": 0.028445362544185313,
+   "p95": 0.06818193967077886
+  },
+  "Burnswark (Dumfriesshire)": {
+   "mean": 0.023824470007302385,
+   "p05": 0.006342853160967581,
+   "p50": 0.019766274241918007,
+   "p95": 0.05453526691303676
+  },
+  "Lanchester (Co. Durham)": {
+   "mean": 0.009070656164065018,
+   "p05": 0.002801878375773004,
+   "p50": 0.00789924372766562,
+   "p95": 0.019452328880012644
+  },
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": {
+   "mean": 0.045333199931966425,
+   "p05": 0.012858267491781553,
+   "p50": 0.0390032847474502,
+   "p95": 0.09982175658525017
+  },
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": {
+   "mean": 0.0019010425994689972,
+   "p05": 0.0005518068218100254,
+   "p50": 0.0016121912048457773,
+   "p95": 0.004203490081577333
+  },
+  "Other, unidentified site": {
+   "mean": 0.20555240922048124,
+   "p05": 0.085714587780672,
+   "p50": 0.19837644203560906,
+   "p95": 0.34879641860326616
+  }
+ },
+ "top_share": {
+  "Bromborough (Wirral)": 0.99995,
+  "Went valley / Burghwallis (Wood 2013)": 0.0,
+  "Brinsworth / Tinsley (Wood 1980)": 0.0,
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.0,
+  "Burnswark (Dumfriesshire)": 0.0,
+  "Lanchester (Co. Durham)": 0.0,
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 5e-05,
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.0,
+  "Other, unidentified site": 0.0
+ },
+ "leave_one_out": {
+  "E1 Name: a place-name at the site regularly descends from OE Brunanburh / Brunnanwerc / Brunandun": {
+   "Bromborough (Wirral)": 0.23869861427027614,
+   "Went valley / Burghwallis (Wood 2013)": 0.07625334588385303,
+   "Brinsworth / Tinsley (Wood 1980)": 0.04604233180668366,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.0551720371897498,
+   "Burnswark (Dumfriesshire)": 0.03848443986796339,
+   "Lanchester (Co. Durham)": 0.01737755830105772,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.07499770245199104,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.003235525273207461,
+   "Other, unidentified site": 0.44973844495521775
+  },
+  "E2 Dingesmere: a Thing-name beside the water from which the Norse sailed for Dublin": {
+   "Bromborough (Wirral)": 0.4102581985479883,
+   "Went valley / Burghwallis (Wood 2013)": 0.059819896442393994,
+   "Brinsworth / Tinsley (Wood 1980)": 0.03246138428043994,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.05666923833453932,
+   "Burnswark (Dumfriesshire)": 0.019094219809306916,
+   "Lanchester (Co. Durham)": 0.01574145509292758,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.04992303266344436,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.0032177980929617247,
+   "Other, unidentified site": 0.3528147767359979
+  },
+  "E3 Humber tradition: John of Worcester (c.1140) says the fleet entered the Humber": {
+   "Bromborough (Wirral)": 0.7224417932332089,
+   "Went valley / Burghwallis (Wood 2013)": 0.01399641333653084,
+   "Brinsworth / Tinsley (Wood 1980)": 0.007595181183613887,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.011916300635236911,
+   "Burnswark (Dumfriesshire)": 0.023295290452173528,
+   "Lanchester (Co. Durham)": 0.005733232816248782,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.04539739354032266,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.001379043830379344,
+   "Other, unidentified site": 0.16824535097228518
+  },
+  "E4 We(o)ndun and Brunandun: independent traditions that the site was a dun (low hill), with a Durham name": {
+   "Bromborough (Wirral)": 0.6403106827940906,
+   "Went valley / Burghwallis (Wood 2013)": 0.029546129518800972,
+   "Brinsworth / Tinsley (Wood 1980)": 0.01714028148441607,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.026891886079234043,
+   "Burnswark (Dumfriesshire)": 0.025917954147416506,
+   "Lanchester (Co. Durham)": 0.006628939315115602,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.046761680637047796,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.0017493726535205653,
+   "Other, unidentified site": 0.20505307337035786
+  },
+  "E5 Egil's saga: Vinheidr, a northern heath with a borg, on the Scottish frontier": {
+   "Bromborough (Wirral)": 0.6682104124319804,
+   "Went valley / Burghwallis (Wood 2013)": 0.028765040056346388,
+   "Brinsworth / Tinsley (Wood 1980)": 0.015609405476161322,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.024490050190316505,
+   "Burnswark (Dumfriesshire)": 0.017727527447634298,
+   "Lanchester (Co. Durham)": 0.0068027917195323615,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.039588134258853894,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.001966600238261552,
+   "Other, unidentified site": 0.19684003818091322
+  },
+  "E6 The poem: Norse sail from Dingesmere over deep water to Dublin; Constantine goes north by land; Irish annals": {
+   "Bromborough (Wirral)": 0.4985185793297829,
+   "Went valley / Burghwallis (Wood 2013)": 0.0629972845789331,
+   "Brinsworth / Tinsley (Wood 1980)": 0.034185600192576,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.05363478229717732,
+   "Burnswark (Dumfriesshire)": 0.018706075208425602,
+   "Lanchester (Co. Durham)": 0.014898550638104809,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.03132632185039043,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.0035166350867861396,
+   "Other, unidentified site": 0.2822161708178237
+  },
+  "E7 Strategy and logistics: convergence of three armies, an English battlefield that Aethelstan defended (ealgian), routes and distances": {
+   "Bromborough (Wirral)": 0.5180079262022218,
+   "Went valley / Burghwallis (Wood 2013)": 0.03827489000423922,
+   "Brinsworth / Tinsley (Wood 1980)": 0.02413249442679446,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.03786217230581356,
+   "Burnswark (Dumfriesshire)": 0.03901044958376655,
+   "Lanchester (Co. Durham)": 0.016293284754627952,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.0398666819574375,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.004807307958917924,
+   "Other, unidentified site": 0.28174479280618114
+  },
+  "E8 Archaeology: the mid-Wirral assemblage (consistent with a camp, not conclusive; no findspots)": {
+   "Bromborough (Wirral)": 0.5955238606695141,
+   "Went valley / Burghwallis (Wood 2013)": 0.039602191777688284,
+   "Brinsworth / Tinsley (Wood 1980)": 0.021490207140047183,
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.03371661094100049,
+   "Burnswark (Dumfriesshire)": 0.023518524100312167,
+   "Lanchester (Co. Durham)": 0.009365725261389022,
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.045832426784351045,
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.0019144998164014194,
+   "Other, unidentified site": 0.22903595350929626
+  }
+ },
+ "factor_needed_to_tie_leader": {
+  "Went valley / Burghwallis (Wood 2013)": 18.41728352412121,
+  "Brinsworth / Tinsley (Wood 1980)": 33.93940269599027,
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": 21.632209578317244,
+  "Burnswark (Dumfriesshire)": 31.012353965554567,
+  "Lanchester (Co. Durham)": 77.87595448194212,
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 15.91372845208668,
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 380.96885040044236
+ },
+ "worst_case_for_leader": {
+  "Bromborough (Wirral)": 0.02507321145585745,
+  "Went valley / Burghwallis (Wood 2013)": 0.164279681458778,
+  "Brinsworth / Tinsley (Wood 1980)": 0.08292964689024848,
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.13608967694810006,
+  "Burnswark (Dumfriesshire)": 0.14832197532331676,
+  "Lanchester (Co. Durham)": 0.040322867243881504,
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.2376954732745461,
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 0.009026356124108681,
+  "Other, unidentified site": 0.15626111128116282
+ },
+ "best_case_for_leader": {
+  "Bromborough (Wirral)": 0.9826631880448855,
+  "Went valley / Burghwallis (Wood 2013)": 0.00044216020258770744,
+  "Brinsworth / Tinsley (Wood 1980)": 0.00025792678484282935,
+  "Other Humber-bank sites (E. Riding, Barrow, Brough)": 0.00038689017726424395,
+  "Burnswark (Dumfriesshire)": 0.0001727188291358232,
+  "Lanchester (Co. Durham)": 0.0001007526503292302,
+  "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": 0.0004093076419624977,
+  "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": 1.8807161394789638e-05,
+  "Other, unidentified site": 0.015548248507597253
+ },
+ "evidence": {
+  "E1 Name: a place-name at the site regularly descends from OE Brunanburh / Brunnanwerc / Brunandun": {
+   "Bromborough (Wirral)": [
+    3.0,
+    12.0
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    0.8,
+    1.3
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    0.7,
+    1.2
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    0.9,
+    1.6
+   ],
+   "Burnswark (Dumfriesshire)": [
+    0.9,
+    1.6
+   ],
+   "Lanchester (Co. Durham)": [
+    0.8,
+    1.4
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    0.9,
+    1.6
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.9,
+    1.5
+   ]
+  },
+  "E2 Dingesmere: a Thing-name beside the water from which the Norse sailed for Dublin": {
+   "Bromborough (Wirral)": [
+    1.5,
+    5.0
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    0.8,
+    1.3
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    0.8,
+    1.3
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    0.7,
+    1.2
+   ],
+   "Burnswark (Dumfriesshire)": [
+    1.2,
+    3.0
+   ],
+   "Lanchester (Co. Durham)": [
+    0.7,
+    1.2
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    1.0,
+    2.0
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.7,
+    1.2
+   ]
+  },
+  "E3 Humber tradition: John of Worcester (c.1140) says the fleet entered the Humber": {
+   "Bromborough (Wirral)": [
+    0.5,
+    1.1
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    1.6,
+    2.7
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    1.6,
+    2.7
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    1.6,
+    2.7
+   ],
+   "Burnswark (Dumfriesshire)": [
+    0.5,
+    1.1
+   ],
+   "Lanchester (Co. Durham)": [
+    0.9,
+    1.6
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    0.5,
+    1.1
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.8,
+    1.3
+   ]
+  },
+  "E4 We(o)ndun and Brunandun: independent traditions that the site was a dun (low hill), with a Durham name": {
+   "Bromborough (Wirral)": [
+    0.8,
+    1.3
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    0.9,
+    1.6
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    0.9,
+    1.4
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    0.9,
+    1.4
+   ],
+   "Burnswark (Dumfriesshire)": [
+    0.6,
+    1.1
+   ],
+   "Lanchester (Co. Durham)": [
+    1.0,
+    1.6
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    0.7,
+    1.1
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.8,
+    1.2
+   ]
+  },
+  "E5 Egil's saga: Vinheidr, a northern heath with a borg, on the Scottish frontier": {
+   "Bromborough (Wirral)": [
+    0.8,
+    1.1
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    1.0,
+    1.4
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    1.0,
+    1.4
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    1.0,
+    1.4
+   ],
+   "Burnswark (Dumfriesshire)": [
+    1.0,
+    1.3
+   ],
+   "Lanchester (Co. Durham)": [
+    1.0,
+    1.4
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    0.9,
+    1.1
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.7,
+    1.0
+   ]
+  },
+  "E6 The poem: Norse sail from Dingesmere over deep water to Dublin; Constantine goes north by land; Irish annals": {
+   "Bromborough (Wirral)": [
+    1.3,
+    2.5
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    0.6,
+    1.0
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    0.6,
+    1.0
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    0.6,
+    1.0
+   ],
+   "Burnswark (Dumfriesshire)": [
+    1.2,
+    2.0
+   ],
+   "Lanchester (Co. Durham)": [
+    0.6,
+    1.0
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    1.3,
+    2.5
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.5,
+    0.9
+   ]
+  },
+  "E7 Strategy and logistics: convergence of three armies, an English battlefield that Aethelstan defended (ealgian), routes and distances": {
+   "Bromborough (Wirral)": [
+    1.2,
+    2.5
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    0.9,
+    1.8
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    0.8,
+    1.5
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    0.8,
+    1.5
+   ],
+   "Burnswark (Dumfriesshire)": [
+    0.5,
+    1.1
+   ],
+   "Lanchester (Co. Durham)": [
+    0.5,
+    1.0
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    1.0,
+    2.0
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    0.3,
+    0.8
+   ]
+  },
+  "E8 Archaeology: the mid-Wirral assemblage (consistent with a camp, not conclusive; no findspots)": {
+   "Bromborough (Wirral)": [
+    1.0,
+    1.5
+   ],
+   "Went valley / Burghwallis (Wood 2013)": [
+    1.0,
+    1.0
+   ],
+   "Brinsworth / Tinsley (Wood 1980)": [
+    1.0,
+    1.0
+   ],
+   "Other Humber-bank sites (E. Riding, Barrow, Brough)": [
+    1.0,
+    1.0
+   ],
+   "Burnswark (Dumfriesshire)": [
+    1.0,
+    1.0
+   ],
+   "Lanchester (Co. Durham)": [
+    1.0,
+    1.0
+   ],
+   "Lancashire west coast (Ribble, Fylde, Wigan, Burnley)": [
+    1.0,
+    1.0
+   ],
+   "Southern / inland (Bourn, Bromswold, Bourne, Axminster)": [
+    1.0,
+    1.0
+   ]
+  }
+ }
+}

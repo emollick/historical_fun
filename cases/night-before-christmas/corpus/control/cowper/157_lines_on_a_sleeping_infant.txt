@@ -1,0 +1,18 @@
+title: Lines on a Sleeping Infant
+author: William Cowper
+date: 1792
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: trochaic tetrameter
+lines: 8
+attribution: certain
+notes: 
+
+Sweet babe! whose image here express'd
+Does thy peaceful slumbers show;
+Guilt or fear, to break thy rest,
+Never did thy spirit know.
+
+Soothing slumbers! soft repose,
+Such as mock the painter's skill,
+Such as innocence bestows,
+Harmless infant! lull thee still.

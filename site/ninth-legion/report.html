@@ -1,0 +1,557 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>html{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>The Ninth's Last Decade</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* Design tokens: cool limestone ground, iron-oxide red accent (used once per section at most), verdigris for the second series. */
+:root{
+  --bg:#E9EBE8; --surface:#F6F7F4; --surface-2:#DFE3DF; --text:#1B2028; --muted:#5A6370; --rule:#C6CCC8;
+  --accent:#963727; --accent-soft:#B9573F; --green:#356E5C; --green-soft:#6FA893; --band:#C9B8A6; --scen:#D9DDD9;
+  --fixed:#1B2028;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181D; --surface:#1C2229; --surface-2:#242C34; --text:#E5E8EB; --muted:#9AA4AE; --rule:#323B44;
+    --accent:#E2836C; --accent-soft:#C96A55; --green:#6FBFA0; --green-soft:#4F8F79; --band:#6B5E52; --scen:#1F262D;
+    --fixed:#E5E8EB;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14181D; --surface:#1C2229; --surface-2:#242C34; --text:#E5E8EB; --muted:#9AA4AE; --rule:#323B44;
+  --accent:#E2836C; --accent-soft:#C96A55; --green:#6FBFA0; --green-soft:#4F8F79; --band:#6B5E52; --scen:#1F262D;
+  --fixed:#E5E8EB;
+  color-scheme:dark;
+}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.55;padding-inline:clamp(16px,4vw,40px);padding-block:32px 64px}
+.wrap{max-width:72rem;margin:0 auto}
+.prose{max-width:68ch}
+h1,h2,h3{text-wrap:balance;line-height:1.15;margin:0}
+h1{font-family:"Cinzel",Georgia,serif;font-weight:600;font-size:clamp(1.9rem,4.5vw,3rem);letter-spacing:.02em}
+h2{font-family:"Source Serif 4",Georgia,serif;font-weight:600;font-size:1.55rem;margin-top:2.6rem;margin-bottom:.8rem;padding-top:.9rem;border-top:1px solid var(--rule)}
+h3{font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif;font-weight:600;font-size:1.05rem;margin-top:1.6rem;margin-bottom:.4rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+p{margin:.65rem 0}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.eyebrow{font-family:"Source Sans 3",Arial,sans-serif;text-transform:uppercase;letter-spacing:.14em;font-size:.78rem;color:var(--muted);margin-bottom:.6rem}
+.lede{font-size:1.12rem;color:var(--text);max-width:68ch;margin-top:1rem}
+.verdict{margin-top:1.8rem;border-left:4px solid var(--accent);background:var(--surface);padding:1rem 1.3rem;max-width:68ch}
+.verdict .big{font-family:"Source Serif 4",Georgia,serif;font-size:1.35rem;font-weight:600;line-height:1.3;margin:0 0 .5rem}
+.probs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:1.2rem 0 0;padding:0;list-style:none;max-width:60rem}
+.probs li{background:var(--surface);border:1px solid var(--rule);padding:.7rem .9rem}
+.probs .num{font-family:"Source Sans 3",Arial,sans-serif;font-variant-numeric:tabular-nums;font-size:1.6rem;font-weight:600;color:var(--text);line-height:1}
+.probs .lab{font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted);margin-top:.3rem}
+.probs li.lead .num{color:var(--accent)}
+table{border-collapse:collapse;width:100%;font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif;font-size:.92rem;line-height:1.35}
+.tablewrap{overflow-x:auto;margin:1rem 0 1.4rem;border-top:2px solid var(--text)}
+th{text-align:left;font-weight:600;padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:bottom;white-space:nowrap;font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+td{padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.ref{white-space:nowrap}
+tr.total td{font-weight:600;border-top:2px solid var(--text)}
+.latin{font-family:"Source Serif 4",Georgia,serif;font-style:normal}
+.latin .cap{text-transform:uppercase;letter-spacing:.08em;font-size:.9em}
+blockquote{margin:1rem 0;padding:.2rem 0 .2rem 1rem;border-left:2px solid var(--rule);color:var(--text)}
+blockquote .src{display:block;font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted);margin-top:.3rem}
+.chart{display:block;max-width:100%;height:auto;margin:.8rem 0 .3rem}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.chart .tick,.chart .axis,.chart .rowlab,.chart .note,.chart .scenlab{fill:var(--muted);font-family:"Source Sans 3",Arial,sans-serif;font-size:12px}
+.chart .rowlab{fill:var(--text);font-size:13px}
+.chart .note{font-size:11.5px}
+.chart .scen{fill:var(--scen)}
+.chart .scenlab{font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+.chart .band{fill:var(--band)}
+.chart .band.alt{fill:var(--surface-2);stroke:var(--band);stroke-width:1;stroke-dasharray:3 2}
+.chart .median{stroke:var(--accent);stroke-width:2.5}
+.chart .fixed{fill:var(--fixed)}
+.chart .line{fill:none;stroke-width:2.5;stroke-linejoin:round}
+.chart .line.main{stroke:var(--accent)}
+.chart .line.alt{stroke:var(--green);stroke-dasharray:6 4}
+.caption{font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted);max-width:68ch;margin:.2rem 0 1rem}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:1rem 0}
+.card{background:var(--surface);border:1px solid var(--rule);padding:.9rem 1.1rem}
+.card h4{margin:0 0 .4rem;font-family:"Source Sans 3",Arial,sans-serif;font-size:.95rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.card .pct{font-family:"Source Sans 3",Arial,sans-serif;font-size:1.5rem;font-weight:600;font-variant-numeric:tabular-nums}
+.card.lead{border-color:var(--accent)}
+.card.lead .pct{color:var(--accent)}
+ul.tight{padding-left:1.2rem;margin:.4rem 0}
+ul.tight li{margin:.25rem 0}
+.biblio{font-family:"Source Sans 3",Arial,sans-serif;font-size:.9rem;padding-left:1.2rem}
+.biblio li{margin:.3rem 0}
+.toc{font-family:"Source Sans 3",Arial,sans-serif;font-size:.9rem;display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:1.4rem 0 0;padding:0;list-style:none}
+.toc a{color:var(--muted)}
+.foot{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--rule);font-family:"Source Sans 3",Arial,sans-serif;font-size:.85rem;color:var(--muted)}
+sup{font-size:.72em;line-height:0}
+.small{font-size:.9rem;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.hyp{margin:1.4rem 0;padding-left:1rem;border-left:3px solid var(--rule)}
+.hyp.lead{border-left-color:var(--accent)}
+.hyp h3{margin-top:0;color:var(--text);text-transform:none;letter-spacing:0;font-size:1.1rem;font-family:"Source Serif 4",Georgia,serif}
+.tag{display:inline-block;font-family:"Source Sans 3",Arial,sans-serif;font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;padding:.1rem .45rem;border:1px solid var(--rule);color:var(--muted);vertical-align:middle;margin-left:.4rem}
+</style>
+</head>
+<body>
+<div id="mm-nav" style="font:14px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif;padding:9px 16px;background:#1B2026;color:#E6E8E3;display:flex;flex-wrap:wrap;gap:6px 22px"><a href="./" style="color:#E6E8E3;text-decoration:none">&larr; Case page: The Last Decade of the Ninth Legion</a><a href="../" style="color:#E6E8E3;text-decoration:none">Historical Mysteries</a><span style="opacity:.7">Full report · 14 September 2026</span><span style="opacity:.7;flex-basis:100%">Researched and written by Claude, an AI system, from the sources each case cites. Claude also drew the maps and charts marked &quot;made for this report&quot; from the data named in their captions.</span></div>
+<div class="wrap">
+<header>
+  <div class="eyebrow">Roman Britain · Legio IX Hispana</div>
+  <h1>The Ninth's last decade</h1>
+  <p class="lede">Some time between December 107 and December 108 the Ninth Legion, Legio IX Hispana, a unit of about five thousand Roman soldiers, finished a gate of its fortress at York in northern England. It had been in Britain since the Roman invasion of AD 43. It had been mauled by the rebels of the British queen Boudica in 60 and refilled with two thousand men from Germany, and it had been attacked by night in its camp in Caledonia, now Scotland, in the 80s. A slab was carved for the new gate recording that the emperor Trajan had built it "through the agency of the Ninth Legion Hispana". Part of that slab survives, and it is the last dated text that names the legion anywhere in the Roman world.</p>
+  <p class="lede">After that, no inscription, papyrus or historian names the Ninth again with a date attached. Soon after 165 the army's legions were listed in order on a column in Rome, thirty-three of them. The Ninth is not there, and nor is the Twenty-Second Legion Deiotariana, from Egypt. At some point in the half-century between the York gate and that list the legion ceased to exist, and no surviving writer records where or how. Rosemary Sutcliff's novel <i>The Eagle of the Ninth</i> (1954), in which the legion marches north into Scotland and is destroyed, made the disappearance famous.</p>
+  <p class="lede">It is a mystery because the evidence is indirect. The legion's last years are known only from the tombstones and honorific inscriptions of officers who served in it and went on to other posts, from roof tiles stamped with its name, and from a few sentences in later writers about wars in which Roman soldiers died. Historians have read those scraps in four ways. The oldest view, going back to the German historian Theodor Mommsen in 1885, is that the legion was destroyed in Britain, in a war in the north soon after the York gate; the modern form of it, argued in 2021 by Nick Hodgson, an archaeologist of Hadrian's Wall (the frontier barrier built across northern Britain from 122), and explored in 2025 by the Dutch archaeologist Erik Graafstal, puts the loss in fighting that followed the emperor Hadrian's visit to Britain in 122. Against that, three stamped tiles of the Ninth found at Nijmegen, a Roman fortress on the Rhine in the Netherlands, have been taken since the 1960s to show that the legion left Britain for the Continent and was lost later somewhere else: in Judaea, in the Jewish revolt of 132 to 136 known as the Bar Kokhba war, in which Rome admitted heavy losses; or in Armenia in 161, where the Parthians, Rome's eastern rivals, wiped out a Roman legion whose name no source gives. Duncan Campbell, a historian of the Roman army, and Werner Eck, a German historian of Roman inscriptions, hold versions of that eastern view. A fourth possibility is that the legion was quietly broken up or merged into another and left no record at all.</p>
+  <p class="lede">This page judges the case from the inscriptions themselves. Every inscription that names the legion was collected: all 133 records from Britain, and every entry in the two large online databases of Latin inscriptions for the rest of the empire. The careers of the three senators who served in the legion as young officers, and whose later posts are dated, were worked back to find the latest year in which the legion must still have existed, and that arithmetic was run as a simulation to show how firm the answer is. The Nijmegen finds were counted against the other finds from the same fortress. Then the five main pieces of evidence were weighed against the four possible endings, with the weight of each piece given as a range from a base reading to a sceptical one, so that a reader who disagrees can see how far the answer moves. The result is that the legion certainly existed in 122 and almost certainly in 124, that nothing places it outside Britain after that, and that Britain in the years 122 to 130 is the probable ending, with a probability of about one half to two thirds. That probability is a judgement rather than a measurement; the British ending is probable but not proven. No new evidence is presented; the contribution is the catalogue, the career model and the explicit weighing.</p>
+  <p class="lede">The page takes the evidence in the order the argument needs it. It begins with the dated fixed points, then the whole British record, every stone and stamped tile. It turns to the officers whose careers date the legion's last years, and to the model that converts those careers into probabilities by year. It examines Nijmegen, sets out the three candidate endings with the sources for each, weighs them, and places the result in the debate from Mommsen to Graafstal, with Campbell's opposing case stated at length. It ends with what would change the answer, what here is new, notes on references and on what could not be read, how the evidence was gathered, and the sources.</p>
+
+  <div class="verdict">
+    <p class="big">Assessment: a British ending is probable. The legion most probably ended in Britain, destroyed or defeated and then disbanded, in the years after Hadrian's visit of 122, between about 122 and 130. This is the reading Hodgson argued and Graafstal explores. The evidence clearly favours it over the other endings but does not prove it, and the percentage moves when the same evidence is weighed differently: given the four possible endings and the ranges of weight set out under "Weighing it", the British ending has a probability of about one half to two thirds on central readings; it ranks first under nearly every weighting, and a sceptical weighting brings it to about a third.</p>
+    <p>Last secure date and place as a unit: <strong>York (Eboracum), 10 December 107 to 9 December 108</strong>, building a fortress gate (the dedication slab <a href="https://romaninscriptionsofbritain.org/inscriptions/665">RIB 665</a>; the reference is explained under "Fixed points"). The careers of its officers require the legion to exist until <strong>c. 123/124</strong> (Sextius Florentinus, its commander, and Aemilius Karus, a junior officer) and probably until c. 125–128, the end of the service of Novius Crispinus, another junior officer, whose tribunate falls c. 124–128. That is the latest date the careers require the legion to have existed, and it is not the date it ended: the end lies somewhere between the late 120s and 165, when the list of legions omits it, and the case for the early part of that window is the absence of any later trace together with the British crisis of 122–125. If the legion ended in Britain, the evidence supports no finer date than c. 122–130. The Nijmegen finds come from a detachment of the legion rather than the whole unit. No inscription, papyrus, discharge certificate or text places the legion, or any soldier of it, outside Britain after the early 120s.</p>
+  </div>
+
+  <ul class="probs" aria-label="Probabilities for the candidate endings">
+    <li class="lead"><div class="num">50–65%</div><div class="lab">Britain, c. 122–130: destroyed, or defeated and disbanded (85% at the base reading, 36% at the sceptical one)</div></li>
+    <li><div class="num">14–19%</div><div class="lab">Bar Kokhba war, Judaea, 132–136</div></li>
+    <li><div class="num">3–5%</div><div class="lab">Elegeia, Armenia, 161 (the unnamed legion the historian Cassius Dio says was destroyed there)</div></li>
+    <li><div class="num">17–23%</div><div class="lab">Elsewhere, or disbanded without record, c. 125–165</div></li>
+  </ul>
+  <p class="caption">Every percentage on this page depends on two choices: that these four endings are the only ones, and the ranges of weight given to each piece of evidence under "Weighing it". They are judgements, stated so that they can be varied and tested, rather than measured frequencies; running the simulation more times would not make them more accurate.</p>
+
+  <ul class="toc">
+    <li><a href="#fixed">Fixed points</a></li><li><a href="#britain">Britain</a></li><li><a href="#officers">The officers</a></li><li><a href="#model">From careers to years</a></li><li><a href="#nijmegen">Nijmegen</a></li><li><a href="#ends">Three endings</a></li><li><a href="#weights">Weighing it</a></li><li><a href="#scholars">The argument so far</a></li><li><a href="#overturn">What would change the answer</a></li><li><a href="#new">What is new here</a></li><li><a href="#notes">Notes on references and limits</a></li><li><a href="#method">How the evidence was gathered</a></li><li><a href="#sources">Sources</a></li>
+  </ul>
+</header>
+
+<section class="prose">
+<h2 id="fixed">Fixed points</h2>
+<p>The question is first of all one of dating. Everything below is sorted by how it is dated: by an emperor's titles or the names of the year's two consuls (the senior magistrates, by whom Romans dated their years) on the stone (<span class="tag">secure</span>), by the arithmetic of a senator's career whose later posts are dated (<span class="tag">career</span>), or by the archaeological context of an undated object (<span class="tag">context</span>). The assessment above rests on the first two classes only.</p>
+<p>A word on the references, which follow the conventions of the field. Inscriptions are cited by their numbers in the standard collections, and each link opens the record. RIB is <i>Roman Inscriptions of Britain</i>, the corpus of every Roman inscription found in Britain, now online. CIL is the <i>Corpus Inscriptionum Latinarum</i>, the Berlin corpus of all Latin inscriptions, in volumes numbered by region. ILS is Hermann Dessau's selection of the most important Latin inscriptions (1892 to 1916). AE is <i>L'Année épigraphique</i>, the annual bulletin of new finds since 1888. EDCS and HD numbers are records in the two large online databases, Clauss-Slaby and Heidelberg. Legions are named by number and title, so VI Victrix is the Sixth Legion Victrix; the Ninth's title Hispana records service in Spain under Augustus, the first emperor (27 BC to AD 14). Roman emperors dated their inscriptions by their yearly renewed tribunician power, so "trib. pot. XII" means the twelfth year of Trajan's. The ancient writers cited are Tacitus, whose <i>Annals</i> and <i>Agricola</i> were written about 98 to 117; the <i>Historia Augusta</i> (SHA), a set of imperial biographies from the late fourth century; Fronto, tutor to the emperor Marcus Aurelius, whose letters date from the 160s; Cassius Dio, whose <i>Roman History</i> was written in the early third century and survives for these years only in a summary made by Xiphilinus, an eleventh-century Byzantine monk; and Lucian, a satirist of the second century.</p>
+</section>
+
+<div class="tablewrap"><table>
+<thead><tr><th>Date</th><th>What</th><th>Source</th><th>How dated</th></tr></thead>
+<tbody>
+<tr><td class="num">60/61</td><td>The relief column of Petillius Cerialis, the legion's commander, routed by Boudica; the legion refilled with 2,000 legionaries from Germany</td><td class="ref"><a href="https://www.thelatinlibrary.com/tacitus/tac.ann14.shtml">Tac. <i>Ann.</i> 14.32, 14.38</a></td><td>secure</td></tr>
+<tr><td class="num">82/83</td><td>Night attack on the Ninth in Caledonia, "as the weakest" of the legions (<i>ut maxime invalidam</i>); a detachment (vexillation) on the Rhine under Roscius Aelianus</td><td class="ref"><a href="https://www.thelatinlibrary.com/tacitus/agricola.shtml">Tac. <i>Agr.</i> 26</a>; <a href="https://edcs.hist.uzh.ch/monument/EDCS-05801602">ILS 1025</a></td><td>secure</td></tr>
+<tr><td class="num">107/108</td><td><strong>Fortress gate at York built <i>per legionem VIIII Hispanam</i></strong>: last dated act of the legion</td><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/665">RIB 665</a></td><td>secure (trib. pot. XII)</td></tr>
+<tr><td class="num">c. 104–120</td><td>A detachment at Nijmegen with the <i>vexillatio Britannica</i>, a task force drawn from the British legions: three tiles from one die, a stamped mixing bowl (mortarium), a harness pendant, and an altar at Aachen set up by a camp prefect of the Ninth</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020257">AE 1977, 541</a>; <a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD014357">AE 1968, 323</a></td><td>context</td></tr>
+<tr><td class="num">c. 113–117</td><td>Burbuleius Optatus the legion's senatorial tribune, its second-in-command (<i>tribunus laticlavius</i>; consul 135)</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-20600417">ILS 1066</a></td><td>career</td></tr>
+<tr><td class="num">c. 116–120</td><td>Valerius Proclus, a centurion, in his last post, in the Ninth, after service in the Twentieth Legion Valeria Victrix</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD042822">ILS 2666b</a></td><td>career</td></tr>
+<tr><td class="num">c. 121–124</td><td><strong>Sextius Florentinus commander (legate) of the Ninth</strong>; governor (proconsul) of Narbonensis, Roman Provence, 123/4 or 124/5; governor of Arabia by 2 Dec 127</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-21200156">CIL III 87</a>; P. Yadin 16 (a dated papyrus)</td><td>career, tight</td></tr>
+<tr><td class="num">c. 121–125</td><td><strong>Aemilius Karus senatorial tribune of the Ninth</strong> (his first such post); consul in office 19 March 144</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-17800486">ILS 1077</a></td><td>career</td></tr>
+<tr><td class="num">122</td><td>The Sixth Legion Victrix crosses from Lower Germany to Britain and takes over York; Hadrian's visit; Platorius Nepos the new governor</td><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/1319">RIB 1319</a>; <a href="https://edcs.hist.uzh.ch/monument/EDCS-01000265">CIL VI 41146</a>; <a href="https://romaninscriptionsofbritain.org/inscriptions/659">RIB 659</a></td><td>secure</td></tr>
+<tr><td class="num">c. 122–125</td><td><i>Expeditio Britannica</i>, "the British expedition": 3,000 legionaries from three legions in Spain and Upper Germany (VII Gemina, VIII Augusta and XXII Primigenia) under Pontius Sabinus; the officer Maenius Agrippa "chosen by the deified Hadrian and sent on the British expedition"</td><td class="ref"><a href="http://www.edr-edr.it/edr_programmi/res_complex_comune.php?lang=en&amp;Bibliografia%5B%5D=CIL+10%2C+05829&amp;boolBibliografia=AND">ILS 2726</a>; <a href="http://www.edr-edr.it/edr_programmi/res_complex_comune.php?lang=en&amp;Bibliografia%5B%5D=CIL+11%2C+05632&amp;boolBibliografia=AND">ILS 2735</a></td><td>secure event, year debated</td></tr>
+<tr><td class="num">122/123</td><td>Hadrian winters at Tarraco (Tarragona) in Spain and convenes the Spaniards, who baulk at a levy of recruits</td><td class="ref"><a href="https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Hadrian/1*.html">SHA <i>Hadr.</i> 12.4</a></td><td>itinerary</td></tr>
+<tr><td class="num">c. 124–128</td><td>Novius Crispinus senatorial tribune of the Ninth; praetor c. 135; consul designate 149/150</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031258">ILS 1070</a></td><td>career</td></tr>
+<tr><td class="num">132–136</td><td>Bar Kokhba war; Julius Severus, governor of Britain, sent to command; heavy Roman losses; no legion named as lost</td><td class="ref"><a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html">Dio 69.13–14</a></td><td>secure</td></tr>
+<tr><td class="num">161</td><td>"A whole Roman legion" under Severianus, governor of Cappadocia in eastern Turkey, annihilated at Elegeia in Armenia; the legion unnamed</td><td class="ref"><a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/71*.html">Dio 71.2.1</a>; Lucian, <i>Alex.</i> 27</td><td>secure</td></tr>
+<tr><td class="num">after 165</td><td>The <i>Nomina legionum</i>, a list of the legions carved on a column in Rome, names 33; IX Hispana and XXII Deiotariana absent</td><td class="ref"><a href="https://www.livius.org/sources/content/the-antonine-legions-cil-06.3492/">ILS 2288</a></td><td>secure terminus ante quem</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>Two conclusions follow from the table. The traditional date of 117 to 119 for the legion's end is impossible: Florentinus' command cannot be pushed back into Trajan's reign, which ended in 117, because his governorship of Narbonensis (the province of southern Gaul) in 123/4 or 124/5 and his governorship of Arabia (the province annexed in 106, roughly modern Jordan) in 127 leave no room for it (Eck 1972; Anthony Birley, the historian of Roman Britain's governors, 2005, 228; Hodgson 2021, 6). And the legion vanished from the army list at some point between the late 120s and 165. The problem is to determine what happened in that window, and where.</p>
+</section>
+
+<section class="prose">
+<h2 id="britain">Britain</h2>
+<p>Every entry for the legion in <i>Roman Inscriptions of Britain</i> was retrieved and read: 133 records. They are 11 stone inscriptions; 116 stamped tiles (legions stamped their name on the roof tiles and bricks they made) from at least 16 dies (the carved stamps pressed into the wet clay) at 14 findspots; two graffiti, one a scratched mention on a London vessel of an <i>imaginifer</i>, the soldier who carried the emperor's portrait (RIB 2501.7), the other a single letter traced with a finger on one of the Carlisle tiles before firing (RIB 2491.72, the same object as one of the stamps); two fragments that cannot be assigned; one rejected stamp (RIB 2462.17*, a modern misreading); and one forgery (RIB 3542*). One of the eleven stones, an altar from Godmanstone in Dorset, RIB 3047, does not surface in the RIB search index and was found by walking the numbers.</p>
+<p>The last dated act of the legion is the York gate. The text, with the emperor's twelfth tribunician year, runs:</p>
+<blockquote class="latin">[I]mp(erator) Caesar [divi N]ervae fil(ius) Ne[rva Trai]anus Aug(ustus) Ger[m(anicus) Dacicus po]ntifex maximu[s tribuniciae po]testatis XII imp(erator) V[I co(n)s(ul) V p(ater) p(atriae) portam] per leg(ionem) VIIII Hi[sp(anam) fecit]
+<span class="src">RIB 665, York. Trajan's twelfth tribunician power ran from 10 December 107 to 9 December 108. Translation: "The Emperor Caesar Nerva Trajan Augustus, son of the deified Nerva, conqueror of Germany and Dacia, pontifex maximus, in his twelfth year of tribunician power, six times acclaimed imperator, five times consul, father of his country, built this gate through the agency of the Ninth Legion Hispana."</span></blockquote>
+</section>
+
+<h3>Stone inscriptions naming the legion in Britain</h3>
+<div class="tablewrap"><table><thead><tr><th>Ref.</th><th>Site</th><th>Object</th><th>Person</th><th>Rank / role</th><th>RIB date</th></tr></thead><tbody><tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/3047">RIB 3047</a></td><td>Godmanstone church</td><td>Altar (Limestone)</td><td>Titus [..]pinius (Papinius or Alpinius?)</td><td>(centurio) l[eg(ionis)] V[IIII] - centurion of the [Ninth] Legion (restored)</td><td>43-70 (inferred from context)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/3042">RIB 3042</a></td><td>Hayling Island</td><td>Altar (?)? (Bembridge Limestone (a shelly limestone))</td><td>?[Na]evianus</td><td>[... l]eg(ionis) VIII[I] - soldier/officer of the Ninth (rank lost)</td><td>Late 1st century a.d.</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/254">RIB 254</a></td><td>Lincoln</td><td>Tombstone (Limestone)</td><td>Quintus Cornelius, son of Quintus, Claudia tribe</td><td>eques (legionary trooper), century of Cassius Martialis; aged 40, 19 stipendia</td><td>60-71 (inferred from context)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/255">RIB 255</a></td><td>Lincoln</td><td>Tombstone (Limestone)</td><td>Gaius Saufeius, son of Gaius, Fabia tribe, from Heraclea (Macedonia)</td><td>miles legionis VIIII; aged 40, 22 stipendia</td><td>60-71 (inferred from context)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/256">RIB 256</a></td><td>Lincoln</td><td>Tombstone (Limestone)</td><td>Lucius Sempronius Flavinus, Hispanus, Galeria tribe, from Clunia (Hispania Tarraconensis)</td><td>miles legionis VIIII, century of Babudius Severus; 7 aera (years of service), aged 30</td><td>60-71 (inferred from context)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/257">RIB 257</a></td><td>Lincoln</td><td>Tombstone (Limestone)</td><td>Gaius Valerius, son of Gaius, Maecia tribe</td><td>miles legionis IX, signifer of the century of Hospes; aged 35, 14 stipendia</td><td>60-71 (inferred from context)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/260">RIB 260</a></td><td>Lincoln</td><td>Tombstone (Limestone)</td><td>[..]rcu[.]...s, son of Marcus, Camilia tribe, from Pisaurum (Umbria)</td><td>miles legionis V[IIII] (numeral restored; RIB 1983 index lists it under Legio IX)</td><td>60-71 (inferred from context)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/659">RIB 659</a></td><td>York</td><td>Altar (Limestone)</td><td>Lucius Celerinius Vitalis</td><td>cornicularius legionis VIIII Hispanae (clerk on the staff of a senior officer)</td><td>Before about a.d. 120</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/673">RIB 673</a></td><td>York</td><td>Tombstone (Stone)</td><td>Lucius Duccius Rufinus, son of Lucius, Voltinia tribe, from Vienna (Vienne, Gallia Narbonensis)</td><td>signifer legionis VIIII; aged 28</td><td>late 1st - early 2nd century a.d.</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/680">RIB 680</a></td><td>York</td><td>Tombstone (Stone)</td><td>Gaius [...]us, son of Gaius, Claudia tribe, from Novaria (Novara, N. Italy)</td><td>rank lost; [... leg(ionis) I]X Hisp(anae)</td><td>late 1st - early 2nd century a.d. Dating source Phillips, Corbridge, Hadrian’s Wall East of the North Tyne (1977)</td></tr>
+<tr><td class="ref"><a href="https://romaninscriptionsofbritain.org/inscriptions/665">RIB 665</a></td><td>York</td><td>Commemorative tablet (Stone)</td><td>Emperor Trajan (Imp. Caesar Nerva Traianus Aug. Germanicus Dacicus)</td><td>legio VIIII Hispana (building agency)</td><td>a.d. 107-108</td></tr></tbody></table></div>
+
+<h3>Stamped tiles by findspot (RIB II.4, 2462.1–16)</h3>
+<div class="tablewrap"><table><thead><tr><th>Findspot</th><th class="num">Stamps</th><th class="num">Numeral IX</th><th class="num">Numeral VIIII</th><th class="num">Numeral lost</th></tr></thead><tbody><tr><td>York</td><td class="num">89</td><td class="num">85</td><td class="num">0</td><td class="num">4</td></tr>
+<tr><td>Castleford</td><td class="num">7</td><td class="num">7</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Carlisle</td><td class="num">4</td><td class="num">0</td><td class="num">1</td><td class="num">3</td></tr>
+<tr><td>Aldborough</td><td class="num">3</td><td class="num">3</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Malton</td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">3</td></tr>
+<tr><td>Scalesceugh</td><td class="num">2</td><td class="num">0</td><td class="num">2</td><td class="num">0</td></tr>
+<tr><td>Leicester</td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">1</td></tr>
+<tr><td>Stanwix</td><td class="num">1</td><td class="num">0</td><td class="num">1</td><td class="num">0</td></tr>
+<tr><td>Lincoln or York</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>York or Aldborough</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Slack or York</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Old Winteringham</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Hilly Wood</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td></tr>
+<tr><td>Templebrough</td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td></tr>
+<tr class="total"><td>Total (RIB 2462.1-16)</td><td class="num">116</td><td class="num">101</td><td class="num">4</td><td class="num">11</td></tr></tbody></table></div>
+
+<section class="prose">
+<p>Four features of this record bear on the question. York is the legion's home to the end of the dated record. The RIB editors place the base there "until the legion's departure from Britain, probably towards the end of Trajan's reign", but the stones themselves only show the Sixth Legion, which took over York, present there "about a.d. 120" (RIB 659, 680) and on the river Tyne, at the eastern end of the later Wall, under the governor Platorius Nepos in 122 (RIB 1319). Pontius Laelianus, a young senatorial officer of the Sixth, crossed with it "from Germany into Britain" (<i>cum qua ex Germania in Britanniam transiit</i>, CIL VI 41146), and his consulship of 145 puts that crossing at about 122. The Ninth had therefore left York by about 122.</p>
+<p>The north-western stamps form a distinct group. All 85 legible York dies write the numeral as IX; the stamps from Carlisle, Stanwix and Scalesceugh, three sites in Cumbria near the western end of the later Wall, write it VIIII, as do the single Nijmegen die and the York gate itself. The form of the numeral is not a date, but the Carlisle and Scalesceugh tiles are the only British evidence of the legion that could be later than the York gate, and Eric Birley, the Durham historian of the Roman army, built on them in 1971 the idea that the legion moved to a new base at Carlisle in the early 120s. Because the tiles are undated, the idea is possible but unproven.</p>
+<p>No inscription of the Ninth has been found on Hadrian's Wall. The legions that built it recorded their stretches on small inscribed stones set into the work, and those name the Second Legion Augusta, the Sixth Victrix and the Twentieth Valeria Victrix. Under any hypothesis the Ninth was gone or elsewhere before the main building seasons; under a British loss in the mid-120s it could have worked a season or two at most, and the earliest sector's third legion is in any case unnamed. This absence is weak evidence and is weighed as such below.</p>
+<p>Fourth, there is no record on any material other than stone and tile. No military diploma (the bronze discharge certificate given to soldiers on completing their service), writing tablet, lead sealing or papyrus names the legion at any date, and for the whole empire no record of any kind names it after the early 120s.</p>
+</section>
+
+<section class="prose">
+<h2 id="officers">The officers</h2>
+<p>Eighteen men are known to have served in the legion, and two more are useful comparisons. Their posts need a word of explanation. A legion was commanded by a legate, a senator in his thirties. Under him served one senatorial tribune, a young man of about twenty at the start of his career (the <i>tribunus laticlavius</i>, named for the broad purple stripe on his tunic), and five equestrian tribunes from the second rank of Roman society. The camp prefect (<i>praefectus castrorum</i>) was the senior professional soldier, third in command, usually a former <i>primus pilus</i>, the chief centurion. Centurions commanded the eighty-man centuries; a <i>miles</i> is a private soldier. Senators moved through a fixed ladder of civil and military posts, and each senatorial career here was re-dated from its fixed points using the standard intervals: the senatorial tribunate at about 19 to 23; the quaestorship, the first magistracy, at 25; the praetorship, the second magistracy, at 30 or a little later; the consulship for a new man (the first of his family in the senate) at about 42; a legionary command of about three years; and a praetorian proconsulship, a one-year governorship of a minor province, held a few years after the praetorship. The full Latin text of each inscription and the arithmetic for each career are in the officer file published with this page.</p>
+</section>
+
+<div class="tablewrap"><table><thead><tr><th>Officer or soldier</th><th>Post in the Ninth</th><th>Inscription</th><th>Fixed point (cos. = consul)</th><th>Service in the Ninth</th><th>Basis</th></tr></thead><tbody>
+<tr><td>Q. Petillius Cerialis</td><td>legate</td><td class="ref"><a href="https://www.thelatinlibrary.com/tacitus/tac.ann14.shtml">Tacitus, <i>Ann.</i> 14.32</a></td><td>Boudican revolt</td><td>60/61</td><td class="small">secure</td></tr>
+<tr><td>C. Caristanius Fronto</td><td>legate <i>in Britannia</i></td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-16201163">ILS 9485</a></td><td>command under Vespasian (d. 79); cos. 90</td><td>c. 76–79</td><td class="small">secure</td></tr>
+<tr><td>L. Roscius Aelianus</td><td>tribune, with a vexillation on the Rhine</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-05801602">ILS 1025</a></td><td><i>expeditio Germanica</i> 83; cos. 100</td><td>83</td><td class="small">secure</td></tr>
+<tr><td>C. Velius Rufus</td><td>prefect of vexillations of nine legions</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031653">ILS 9200</a></td><td>Domitian's German war</td><td>c. 83–89</td><td class="small">secure</td></tr>
+<tr><td>L. Burbuleius Optatus Ligarianus</td><td><i>tribunus laticlavius</i></td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-20600417">ILS 1066</a></td><td>cos. in office 19 May 135 (diploma)</td><td>c. 113–117 (Birley: 118–122)</td><td class="small">career</td></tr>
+<tr><td>Ti. Claudius Vitalis</td><td>centurion</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-19700276">ILS 2656</a></td><td>decorated twice in the Dacian wars, then XX V.V. twice</td><td>c. 109–115</td><td class="small">career</td></tr>
+<tr><td>L. Valerius Proclus</td><td>centurion (last post)</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD042822">ILS 2666b</a></td><td>decorated <i>bello Dacico</i>, four posts earlier</td><td>c. 116–120</td><td class="small">career</td></tr>
+<tr><td>L. Decrius Longinus</td><td><i>praefectus castrorum</i></td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD027393">AE 1913, 215</a></td><td>primipilate of XXII Deiotariana (last attested 119)</td><td>c. 110–120</td><td class="small">career</td></tr>
+<tr><td>Anonymous eques, Mersch</td><td>tribune</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD011186">CIL XIII 4030</a></td><td>monument dated late in Hadrian's reign by its style</td><td>c. 105–125</td><td class="small">style</td></tr>
+<tr><td>Anonymous eques, Rome</td><td>tribune, then procurator of &ldquo;the new province of Arabia&rdquo;</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD013966">CIL VI 41280</a></td><td>Arabia created 106</td><td>after 106; probably under Trajan or Hadrian</td><td class="small">open</td></tr>
+<tr><td>L. Latinius Macer</td><td><i>primus pilus</i>, <i>praefectus castrorum</i></td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD014357">AE 1968, 323</a> (Aachen)</td><td>none on the stone</td><td>c. 105–125 by the Nijmegen context</td><td class="small">context</td></tr>
+<tr><td>M. Cocceius Severus</td><td><i>primus pilus</i>, then prefect of X Gemina</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-05400409">CIL V 7159</a></td><td>X Gemina at Nijmegen until c. 104</td><td>no usable terminus</td><td class="small">open</td></tr>
+<tr><td>T. Aninius Sextius Florentinus</td><td>legate</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-21200156">CIL III 87</a> (Petra)</td><td>governor of Arabia 2 Dec 127 (P. Yadin 16); procos. Narbonensis 123/4 or 124/5</td><td>c. 121–124; cannot end before c. 122/3</td><td class="small">career, tight</td></tr>
+<tr><td>L. Aemilius Karus</td><td>tribune (first of two)</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-17800486">ILS 1077</a></td><td>cos. in office 19 March 144 (diplomas); Arabia 142</td><td>c. 121–125 (bounds 118–127)</td><td class="small">career</td></tr>
+<tr><td>L. Novius Crispinus</td><td>tribune</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031258">ILS 1070</a></td><td>cos. designate 149/150; praetor c. 135</td><td>c. 124–128 (bounds 120–130)</td><td class="small">career</td></tr>
+<tr><td>Q. Camurius Numisius Iunior</td><td>tribune</td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-23000342">CIL XI 5670</a></td><td>a Q. Numisius Iunior cos. 8 Feb 161</td><td>c. 105–118 if father of the consul; c. 139–143 if the consul</td><td class="small">disputed</td></tr>
+<tr><td>L. Servaeus Sabinus</td><td>centurion</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD025791">AE 1930, 109</a></td><td>stone reads VIII; emended</td><td>under Trajan or Hadrian</td><td class="small">open</td></tr>
+<tr><td>Aelius Asclepiades</td><td><i>miles leg. IX</i></td><td class="ref"><a href="https://edcs.hist.uzh.ch/monument/EDCS-11500706">CIL X 1769</a></td><td>nomen Aelius only</td><td>no usable terminus</td><td class="small">open</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>The four careers that matter most are quoted here from the inscriptions themselves, because the entire argument for a legion alive in the 120s rests on them.</p>
+
+<h3>Sextius Florentinus, the legion's commander: the tightest fixed point</h3>
+<blockquote class="latin">T. Aninio L. f. Pap. Sextio Florentino, IIIviro aur(o) arg(ento) flando, trib(uno) milit(um) leg(ionis) I Minerviae, quaest(ori) prov(inciae) Achaiae, trib(uno) pleb(is), <strong>leg(ato) leg(ionis) VIIII Hisp(anae)</strong>, proco(n)sul(i) pr[ov(inciae)] Narb(onensis), leg(ato) Aug(usti) pr(o) pr(aetore) prov(inciae) Arab(iae), patri piis[sim]o ex testamento ipsius.
+<span class="src">CIL III 87 = CIL III 14148,10, his rock-cut tomb at Petra in Jordan, capital of the province of Arabia, which he governed (<a href="https://edcs.hist.uzh.ch/monument/EDCS-21200156">EDCS-21200156</a>). The praetorship is omitted by the cutter. He was governor of Arabia on 2 December 127 (P. Yadin 16, a dated legal papyrus from the Judaean desert) and dead in office before 17 November 130, when his successor Haterius Nepos is attested. His governorship of Narbonensis fell in 123/4 or 124/5 (Eck 1983, 158 n. 376). The legionary command, normally about three years, immediately precedes it: c. 121–124, and it cannot have ended before c. 122/3 on any reading.</span></blockquote>
+
+<h3>Aemilius Karus, senatorial tribune</h3>
+<blockquote class="latin">L. Aemilio L. f. Cam. Karo co[s.], leg(ato) Aug(usti) pr(o) pr(aetore) provinciae Cappadociae, leg(ato) Aug(usti) pr(o) pr(aetore) censitori provinciae Lugdunensis, leg(ato) Aug(usti) pr(o) pr(aetore) provinciae Arabiae, curatori viae Flaminiae, leg(ato) leg(ionis) XXX U(lpiae) V(ictricis), praet(ori), trib(uno) pleb(is), quaest(ori) Aug(usti), trib(uno) militum leg(ionis) VIII Aug(ustae), <strong>trib(uno) militum leg(ionis) VIIII Hispanae</strong>, Xviro stlitib(us) iudic(andis), sodali Flaviali, XVviro s(acris) f(aciundis).
+<span class="src">CIL VI 1333 = ILS 1077, Rome (<a href="https://edcs.hist.uzh.ch/monument/EDCS-17800486">EDCS-17800486</a>). The posts are listed from last to first, so the Ninth was his first tribunate and the Eighth Legion Augusta his second. Consul in office on 19 March 144 (military diplomas published by Werner Eck and the diploma specialist Andreas Pangerl in 2015); governor of Arabia in 142. A new man consul at about 42 was born c. 102 and held his first tribunate c. 121–123; consul at 45 gives 118–121, at 40 gives 124–126. The marks of imperial favour (service as the emperor's own quaestor, and a second tribunate) argue against a slow career.</span></blockquote>
+
+<h3>Novius Crispinus, senatorial tribune</h3>
+<blockquote class="latin">L. Novio Crispino Martiali Saturnino co(n)s(uli) desig(nato), leg(ato) Aug(usti) pr(o) pr(aetore) provinciae Africae, proco(n)s(uli) Galliae Narbonensis, leg(ato) Aug(usti) leg(ionis) I Italicae, leg(ato) Aug(usti) iuridico Astyriae et Gallaeciae, praetori, trib(uno) pleb(is), quaestori pro praet(ore) provinciae Macedoniae, <strong>trib(uno) mil(itum) leg(ionis) VIIII Hisp(anae)</strong>, IIIIviro viarum curandarum, seviro eq(uitum) Romanorum, veterani leg(ionis) III Aug(ustae) qui militare coeperunt Glabrione et Torquato item Asiatico II et Aquilino co(n)s(ulibus).
+<span class="src">CIL VIII 2747 = ILS 1070, from Lambaesis, the legionary fortress in Numidia (Algeria) where he later commanded (<a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031258">HD031258</a>). Dedicated by veterans of the Third Legion Augusta enrolled in 124 and 125 and discharged after 25 years, so cut in 149/150, when he was consul designate (elected but not yet in office). His praetorship is put c. 135 at the latest (the epigraphist Géza Alföldy 1977, 340; Anthony Birley 2005, 287). A tribunate c. 124–128 follows; "he can hardly have been tribune earlier than the mid-120s" (Birley), and Emil Ritterling, whose 1925 encyclopaedia article on the legions is still the standard account, already saw that it fell "at most shortly before 130".</span></blockquote>
+
+<h3>Camurius Numisius Iunior, senatorial tribune: the disputed item</h3>
+<blockquote class="latin">[Q. C]amur[io Q. f. Lem.] Numisio Iu[niori], IIIvir(o) a(uro) a(rgento) a(ere) f(lando) f(eriundo), <strong>tr(ibuno) [mil(itum)] leg(ionis) VIIII Hi[spanae]</strong>, sodali Titiali [Flaviali], qua[e]st(ori) urb(ano), ae[d(ili) cur(uli)], pr(aetori), [le]g(ato) Aug(usti) leg(ionis) [---] et [leg(ato)] VI Victr(icis) [---] et [Iu]nior pa[tri ---]
+<span class="src">CIL XI 5670, from Attidium in Umbria, central Italy (<a href="https://edcs.hist.uzh.ch/monument/EDCS-23000342">EDCS-23000342</a>). The numeral VIIII is on the stone. The career stops at the command of the Sixth Legion Victrix and the dedicators are his children, one of them called Iunior. A Q. Numisius Iunior was consul on 8 February 161 (a military diploma, Eck 1972). If the tribune is that consul, he was born c. 120 and tribune c. 139–143, and the legion existed under Antoninus Pius, Hadrian's successor (138 to 161): this is the sole basis of Eck's Elegeia hypothesis. If the consul is the son who set up the stone (Lawrence Keppie, the historian of the legions, 1989, 251–2; Hodgson 2021; Graafstal 2025 n. 19), the tribunate falls under Trajan, c. 105–118. The stone ending before any consulship, and a son named Iunior, fit the second reading better. The only item that would carry the legion to 140 therefore depends on an identification that is open, and it cannot serve as a secure latest date.</span></blockquote>
+
+<p>Two men are added to the usual list. An anonymous equestrian honoured in Rome (<a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD013966">CIL VI 41280</a>) served in the Ninth and went on to be procurator (financial administrator) of "the new province of Arabia", so after 106 and, on the wording, not long after; the Heidelberg database dates him 106 to 161 on the explicit ground that 161 was "the destruction of legio IX Hispana", so its date presupposes the Elegeia theory and cannot be used as evidence for it. M. Cocceius Severus (<a href="https://edcs.hist.uzh.ch/monument/EDCS-05400409">CIL V 7159</a>), chief centurion of the Ninth and then camp prefect of the Tenth Legion Gemina, was used by Eric Birley in 1948 to argue for a late date, on the ground that his family name Cocceius shows citizenship granted by the emperor Nerva (96 to 98); the name could as well be an ancestor's, and the stone gives no usable date. Aelius Asclepiades, a private soldier of "legio IX" from Cilicia in southern Turkey, buried at Naples (CIL X 1769), has been cited as a recruit enlisted in the East under Hadrian, whose family name Aelius was; without a first name the name proves no personal grant of citizenship, the legion has no title on the stone, and even on the favourable reading his eight years' service ends about 125 (Keppie 1989, 252–3; Hodgson 2021, 18–19).</p>
+</section>
+
+<section class="prose">
+<h2 id="model">From careers to years</h2>
+<p>Statements like "hardly earlier than the mid-120s" hide a range of possible years, some more likely than others. To make that range explicit, each of the three datable careers was simulated 200,000 times from its fixed point, drawing each interval between posts at random from a span with a most likely value in the middle (a triangular distribution); the script <code>career_model.py</code> and its output are published with this page, and the random seed 20260914 makes the run repeatable. Karus' tribunate is drawn as 144 minus 17 to 27 years, with 22 the most likely value; Crispinus' as 150 minus 18 to 30, with 24 most likely; Florentinus' command ends one to three years before a proconsulate of 123/4 or 124/5 and lasts two to four years. The quantity of interest is the latest year in which any of the three was still serving in the legion: the year to which the officers alone <em>require</em> the legion to exist. The model uses nothing that Ritterling did not have in 1925, and its output depends entirely on the career intervals assumed, which are the standard ones and are stated. One check of those intervals on a known case is possible. Applied to Pontius Laelianus, the tribune of the Sixth Legion who was consul in 145, the same distribution puts the start of his tribunate at a middle value of 123, with 90% of the simulated values between 120 and 126, and the year in which he is known to have crossed with the legion, 122, falls inside that span. A single case shows that the intervals are consistent with a known career; it does not validate them.</p>
+</section>
+
+<figure>
+<svg viewBox="0 0 900 360" width="100%" role="img" aria-label="Timeline of the dated evidence for Legio IX Hispana, AD 100 to 165" class="chart">
+<rect x="440.1" y="22" width="81.8" height="298" class="scen"/>
+<text x="518.9" y="34" class="scenlab" text-anchor="end">Britain c. 122-130</text>
+<rect x="542.4" y="22" width="40.9" height="298" class="scen"/>
+<text x="545.4" y="34" class="scenlab">Bar Kokhba</text>
+<rect x="839.1" y="22" width="10.2" height="298" class="scen"/>
+<text x="842.1" y="34" class="scenlab">Elegeia</text>
+<line x1="215.0" y1="40" x2="215.0" y2="320" class="grid"/>
+<text x="215.0" y="336" class="tick" text-anchor="middle">100</text>
+<line x1="266.2" y1="40" x2="266.2" y2="320" class="grid"/>
+<line x1="317.3" y1="40" x2="317.3" y2="320" class="grid"/>
+<text x="317.3" y="336" class="tick" text-anchor="middle">110</text>
+<line x1="368.5" y1="40" x2="368.5" y2="320" class="grid"/>
+<line x1="419.6" y1="40" x2="419.6" y2="320" class="grid"/>
+<text x="419.6" y="336" class="tick" text-anchor="middle">120</text>
+<line x1="470.8" y1="40" x2="470.8" y2="320" class="grid"/>
+<line x1="521.9" y1="40" x2="521.9" y2="320" class="grid"/>
+<text x="521.9" y="336" class="tick" text-anchor="middle">130</text>
+<line x1="573.1" y1="40" x2="573.1" y2="320" class="grid"/>
+<line x1="624.2" y1="40" x2="624.2" y2="320" class="grid"/>
+<text x="624.2" y="336" class="tick" text-anchor="middle">140</text>
+<line x1="675.4" y1="40" x2="675.4" y2="320" class="grid"/>
+<line x1="726.5" y1="40" x2="726.5" y2="320" class="grid"/>
+<text x="726.5" y="336" class="tick" text-anchor="middle">150</text>
+<line x1="777.7" y1="40" x2="777.7" y2="320" class="grid"/>
+<line x1="828.8" y1="40" x2="828.8" y2="320" class="grid"/>
+<text x="828.8" y="336" class="tick" text-anchor="middle">160</text>
+<line x1="880.0" y1="40" x2="880.0" y2="320" class="grid"/>
+<text x="548" y="354" class="axis" text-anchor="middle">year AD</text>
+<text x="207" y="59.6" class="rowlab" text-anchor="end">RIB 665, York gate</text>
+<rect x="295.8" y="48.6" width="10.2" height="14" class="fixed"/>
+<text x="312.1" y="59.6" class="note">last dated text (Trajan's 12th tribunician year)</text>
+<text x="207" y="90.7" class="rowlab" text-anchor="end">Burbuleius, tribune</text>
+<rect x="317.3" y="78.7" width="81.8" height="16" rx="3" class="band"/>
+<line x1="368.5" y1="76.7" x2="368.5" y2="96.7" class="median"/>
+<text x="405.2" y="90.7" class="note">consul 135; senatorial tribune of the Ninth</text>
+<text x="207" y="121.8" class="rowlab" text-anchor="end">Valerius Proclus, centurion</text>
+<rect x="337.8" y="109.8" width="122.8" height="16" rx="3" class="band"/>
+<line x1="399.2" y1="107.8" x2="399.2" y2="127.8" class="median"/>
+<text x="466.5" y="121.8" class="note">discharged from the Ninth (ILS 2666b)</text>
+<text x="207" y="152.9" class="rowlab" text-anchor="end">Florentinus, legate</text>
+<rect x="399.2" y="140.9" width="71.6" height="16" rx="3" class="band"/>
+<line x1="450.3" y1="138.9" x2="450.3" y2="158.9" class="median"/>
+<text x="476.8" y="152.9" class="note">Arabia by 2 Dec 127; Narbonensis 123/4 or 124/5</text>
+<text x="207" y="184.0" class="rowlab" text-anchor="end">Karus, tribune</text>
+<rect x="405.1" y="172.0" width="70.1" height="16" rx="3" class="band"/>
+<line x1="440.1" y1="170.0" x2="440.1" y2="190.0" class="median"/>
+<text x="481.1" y="184.0" class="note">consul 144</text>
+<text x="207" y="215.1" class="rowlab" text-anchor="end">Crispinus, tribune</text>
+<rect x="438.8" y="203.1" width="84.0" height="16" rx="3" class="band"/>
+<line x1="480.9" y1="201.1" x2="480.9" y2="221.1" class="median"/>
+<text x="528.9" y="215.1" class="note">consul 150</text>
+<text x="207" y="246.2" class="rowlab" text-anchor="end">Numisius Iunior, tribune</text>
+<rect x="562.8" y="234.2" width="102.3" height="16" rx="3" class="band alt"/>
+<line x1="614.0" y1="232.2" x2="614.0" y2="252.2" class="median"/>
+<text x="671.2" y="246.2" class="note">only if he is the consul of 161</text>
+<text x="207" y="277.3" class="rowlab" text-anchor="end">VI Victrix reaches Britain</text>
+<rect x="440.1" y="266.3" width="25.6" height="14" class="fixed"/>
+<text x="471.7" y="277.3" class="note">Laelianus, consul 145; RIB 1427</text>
+<text x="207" y="308.4" class="rowlab" text-anchor="end">expeditio Britannica</text>
+<rect x="450.3" y="297.4" width="30.7" height="14" class="fixed"/>
+<text x="487.0" y="308.4" class="note">Sabinus, Agrippa; Spanish levy 123</text>
+</svg>
+<figcaption class="caption">Figure 1. Dated evidence for the legion, 100 to 165. Made for this report from the inscriptions in the fixed-points table and from the career model's output. Each band spans the middle 90% of the simulated values for that officer's service in the legion; the red line is the median, the middle value. The fixed points (York 108, the Sixth's arrival, and the <i>expeditio Britannica</i>, Hadrian's emergency reinforcement of Britain) are drawn as dated events. The shaded columns are the three candidate endings.</figcaption>
+</figure>
+
+<figure>
+<svg viewBox="0 0 900 300" width="100%" role="img" aria-label="Probability that the legion still existed in a given year, from the career model" class="chart">
+<line x1="60" y1="260.0" x2="880" y2="260.0" class="grid"/>
+<text x="52" y="264.0" class="tick" text-anchor="end">0%</text>
+<line x1="60" y1="200.0" x2="880" y2="200.0" class="grid"/>
+<text x="52" y="204.0" class="tick" text-anchor="end">25%</text>
+<line x1="60" y1="140.0" x2="880" y2="140.0" class="grid"/>
+<text x="52" y="144.0" class="tick" text-anchor="end">50%</text>
+<line x1="60" y1="80.0" x2="880" y2="80.0" class="grid"/>
+<text x="52" y="84.0" class="tick" text-anchor="end">75%</text>
+<line x1="60" y1="20.0" x2="880" y2="20.0" class="grid"/>
+<text x="52" y="24.0" class="tick" text-anchor="end">100%</text>
+<text x="60.0" y="276" class="tick" text-anchor="middle">115</text>
+<text x="142.0" y="276" class="tick" text-anchor="middle">120</text>
+<text x="224.0" y="276" class="tick" text-anchor="middle">125</text>
+<text x="306.0" y="276" class="tick" text-anchor="middle">130</text>
+<text x="388.0" y="276" class="tick" text-anchor="middle">135</text>
+<text x="470.0" y="276" class="tick" text-anchor="middle">140</text>
+<text x="552.0" y="276" class="tick" text-anchor="middle">145</text>
+<text x="634.0" y="276" class="tick" text-anchor="middle">150</text>
+<text x="716.0" y="276" class="tick" text-anchor="middle">155</text>
+<text x="798.0" y="276" class="tick" text-anchor="middle">160</text>
+<text x="880.0" y="276" class="tick" text-anchor="middle">165</text>
+<text x="470" y="294" class="axis" text-anchor="middle">year AD</text>
+<rect x="338.8" y="20" width="65.6" height="240" class="scen"/>
+<rect x="814.4" y="20" width="16.4" height="240" class="scen"/>
+<polyline points="60.0,20.0 76.4,20.0 92.8,20.0 109.2,20.0 125.6,20.0 142.0,20.0 158.4,20.0 174.8,20.4 191.2,25.4 207.6,47.7 224.0,89.2 240.4,138.0 256.8,177.1 273.2,206.8 289.6,230.2 306.0,246.8 322.4,256.7 338.8,260.0 355.2,260.0 371.6,260.0 388.0,260.0 404.4,260.0 420.8,260.0 437.2,260.0 453.6,260.0 470.0,260.0 486.4,260.0 502.8,260.0 519.2,260.0 535.6,260.0 552.0,260.0 568.4,260.0 584.8,260.0 601.2,260.0 617.6,260.0 634.0,260.0 650.4,260.0 666.8,260.0 683.2,260.0 699.6,260.0 716.0,260.0 732.4,260.0 748.8,260.0 765.2,260.0 781.6,260.0 798.0,260.0 814.4,260.0 830.8,260.0 847.2,260.0 863.6,260.0 880.0,260.0" class="line main"/>
+<polyline points="60.0,20.0 76.4,20.0 92.8,20.0 109.2,20.0 125.6,20.0 142.0,20.0 158.4,20.0 174.8,20.3 191.2,23.5 207.6,38.2 224.0,65.3 240.4,97.0 256.8,122.3 273.2,141.9 289.6,157.1 306.0,168.0 322.4,174.4 338.8,176.6 355.2,176.6 371.6,176.6 388.0,178.4 404.4,183.3 420.8,191.6 437.2,203.2 453.6,218.4 470.0,233.3 486.4,245.0 502.8,253.3 519.2,258.3 535.6,260.0 552.0,260.0 568.4,260.0 584.8,260.0 601.2,260.0 617.6,260.0 634.0,260.0 650.4,260.0 666.8,260.0 683.2,260.0 699.6,260.0 716.0,260.0 732.4,260.0 748.8,260.0 765.2,260.0 781.6,260.0 798.0,260.0 814.4,260.0 830.8,260.0 847.2,260.0 863.6,260.0 880.0,260.0" class="line alt"/>
+<text x="437.2" y="128.0" class="note">Numisius Iunior = consul of 161 (35% weight)</text>
+<text x="363.4" y="236.0" class="note">consul of 161 is his son</text>
+</svg>
+<figcaption class="caption">Figure 2. Probability that the officers' careers alone require the legion to exist in a given year: a floor on its existence, not an estimate of when it ended. Made for this report from the career model's output. Solid: Numisius Iunior taken as the father of the consul of 161 (the reading followed here). Dashed: the consul's identity with the tribune given a 35% weight.</figcaption>
+</figure>
+
+<div class="tablewrap"><table>
+<thead><tr><th>Legion required to exist in</th><th class="num">122</th><th class="num">124</th><th class="num">126</th><th class="num">128</th><th class="num">130</th><th class="num">132</th><th class="num">136</th><th class="num">140</th></tr></thead>
+<tbody>
+<tr><td>Base case (Numisius = father of the consul)</td><td class="num">99.8%</td><td class="num">88%</td><td class="num">51%</td><td class="num">22%</td><td class="num">6%</td><td class="num">0%</td><td class="num">0%</td><td class="num">0%</td></tr>
+<tr><td>Numisius = the consul of 161, weight 35%</td><td class="num">99.9%</td><td class="num">92%</td><td class="num">68%</td><td class="num">49%</td><td class="num">38%</td><td class="num">35%</td><td class="num">32%</td><td class="num">11%</td></tr>
+<tr><td>Numisius = the consul of 161, certain</td><td class="num">100%</td><td class="num">100%</td><td class="num">100%</td><td class="num">100%</td><td class="num">100%</td><td class="num">100%</td><td class="num">92%</td><td class="num">32%</td></tr>
+<tr><td>All careers three years faster than standard</td><td class="num">98%</td><td class="num">59%</td><td class="num">13%</td><td class="num">1%</td><td class="num">0%</td><td class="num">0%</td><td class="num">0%</td><td class="num">0%</td></tr>
+<tr><td>All careers three years slower than standard</td><td class="num">100%</td><td class="num">99.7%</td><td class="num">91%</td><td class="num">68%</td><td class="num">35%</td><td class="num">13%</td><td class="num">0%</td><td class="num">0%</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>The result is stable at the early end. Under every setting the legion existed in 122 and almost certainly in 124. Under every setting except the disputed Numisius identification, the officers stop requiring it to exist by 131. The median last-attested year is 126, and 90% of the simulated values fall between 123 and 130.</p>
+<p>The model answers one question and not a second. The question it answers is the latest year to which the officers' records <em>require</em> the legion to have existed. The question it does not answer is the year the legion <em>ceased</em> to exist, which it cannot estimate. The last inferred attestation is a lower limit on the date of the end. A legion that was still in being in 128 leaves no more trace in these careers than one that ended in 135, because the next generation of tribunes would only be attested through consulships of the 150s, and the last officers whose consulships we happen to have are those of 144 and 150. The absence of later attestations is weighed below as one argument among the others; it does not measure the end. That is why the date and place of the end have to be argued from the whole record, and why the interval given for a British ending is c. 122–130 and not narrower.</p>
+</section>
+
+<section class="prose">
+<h2 id="nijmegen">Nijmegen</h2>
+<p>The whole case for a legion that left Britain and was lost elsewhere runs through the fortress on the Hunerberg hill at Nijmegen, held by the Tenth Legion Gemina until about 104. The continental record for the Ninth in the second century consists of six items, listed here in full.</p>
+</section>
+
+<div class="tablewrap"><table>
+<thead><tr><th>Item</th><th>Reference</th><th>Findspot and context</th><th>Date</th></tr></thead>
+<tbody>
+<tr><td>Three tile fragments stamped LEG VIIII HISP, one die</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020257">AE 1977, 541</a></td><td>Nijmegen fortress: one from a rubble layer of the fortress's third building phase (find 1959/169), one from the trench left where the wall of the headquarters building was robbed of its stone, with two stamps of the Tenth Legion (1966/1752), one unassociated</td><td>none closed; garrison sequence only</td></tr>
+<tr><td>Stamp LGVIIIIHIS on a mortarium, a gritted mixing bowl</td><td class="ref">Bogaers 1967, pl. 5.4</td><td>Nijmegen</td><td>undated</td></tr>
+<tr><td>Harness pendant, punched LEG HISP IX</td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD050314">AE 1996, 1107</a></td><td>Not the fortress: the villa at Ewijk-De Grote Aalst, 10 km west</td><td>trefoil form with open loop, before c. 120 (van der Veen 2025, 151)</td></tr>
+<tr><td>Altar to Apollo by L. Latinius Macer, <i>primus pilus leg. VIIII Hisp., praefectus castrorum</i></td><td class="ref"><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD014357">AE 1968, 323</a></td><td>Aachen (Aquae Granni), the spa, 100 km from Nijmegen</td><td>none on the stone; its first editors, Nesselhauf and von Petrikovits: 108 to before 119</td></tr>
+<tr><td>196 tile stamps VEX BRIT of the <i>vexillatio Britannica</i>, the task force from the British legions</td><td class="ref">CIL XIII 12553; van der Veen 2025, table 6.1</td><td>Nijmegen fortress (161) and the civilian settlement outside its walls, the canabae (35)</td><td>c. 104–120 (Haalebos 2000); the earlier date in the 90s proposed by Brunsting and Steures is rejected by the excavators</td></tr>
+<tr><td>About 60 stamps of the Thirtieth Legion Ulpia Victrix</td><td class="ref">van der Veen 2025</td><td>Nijmegen fortress</td><td>after 120, when XXX replaced the British detachment</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>Set against this, the fortress is 16.5 hectares (a full legionary fortress is usually 20 or more), which Jules Bogaers and Jan Kees Haalebos, its excavators, themselves conceded in 1975 "offered insufficient room even for a full legion" once the British detachment is allowed for; its civilian settlement outside the walls, the canabae, was largely abandoned by 105 (the coin specialist Fleur Kemmers 2006); and its structural occupation ended about 125 to 130 (P.J.M. van der Veen, in a 2025 study of the fortress, ch. 4 and 10, from coins and from the potters' stamps on samian, the fine red tableware), with 221 of the 227 post-104 tile stamps belonging to units of 104 to about 130. The Ninth's share of those stamps is three, from one die: about 1.3%, against 86% for the <i>vexillatio Britannica</i>, the task force from the British legions. No other base on the Lower Rhine had room for it. Of the other legionary bases, Neuss ceased to be one in 103, Vetera II near Xanten held the Sixth Victrix and then the Thirtieth Ulpia Victrix, and Bonn held the First Minervia. After 122 the two German provinces had two legions each and every base is accounted for.</p>
+<p>Duncan Campbell's best point against the detachment reading (2010, 52) is the altar from Aachen, the spa town 100 km from Nijmegen, set up by Latinius Macer, a camp prefect of the Ninth: a camp prefect belongs with a legion, not with a detachment, and "it would have been odd for the primus pilus to receive a promotion while absent in charge of a vexillation". Three considerations weigh against it. Macer's altar is a private vow at a spa and dates nothing; a <i>praefectus castrorum</i> is exactly the officer one would second to a large detachment holding a fortress, as Haalebos suggested; and if the whole legion had sat at Nijmegen for a decade it would have left more than one tile die, when X Gemina left hundreds. Campbell is right that the 1959 tile was found in a datable layer (Bogaers placed it in the level of the fortress's third building phase or the destruction layer above it, in the third officer's house north of the east gate), but a tile in a destruction layer dates the moment the layer formed and says nothing about how long the legion had been there. The archaeologist Miles Russell has made the opposite claim, that the tiles "all seem to date to the 80s"; it has no support in the excavation record, because the Tenth Legion's fortress of the 80s and 90s is the best-dated horizon on the site, and the Ninth's stamps are not in it.</p>
+<p>So the Nijmegen stamps show a detachment, most probably part of the British task force that held the fortress from about 104 until the Thirtieth Legion took over about 120. They do not show the whole legion on the Rhine in the 120s, and the fortress had no room for it.</p>
+</section>
+
+<section class="prose">
+<h2 id="ends">Three endings</h2>
+<div class="hyp lead">
+<h3>Britain, c. 122–130 <span class="tag">probable, c. 50–65%</span></h3>
+<p>The evidence for a serious war in Britain under Hadrian (emperor 117 to 138) is independent of the Ninth and is the best-attested of the three settings.</p>
+<blockquote class="latin">Quid? avo vestro Hadriano imperium optinente quantum militum ab Iudaeis, quantum ab Britannis caesum!
+<span class="src">Fronto, <i>De bello Parthico</i> 2, a letter of 162/3 to the emperor Marcus Aurelius, his former pupil (C.R. Haines' edition in the Loeb Classical Library, which prints the original with a facing translation, vol. II, 22; van den Hout, the standard editor, reads <i>a Iudaeis</i>). "Under the rule of your grandfather Hadrian, what a number of soldiers were killed by the Jews, what a number by the Britons!" The British losses are placed on a par with those of the Bar Kokhba war.</span></blockquote>
+<blockquote class="latin">nam deficientibus iis nationibus quas Traianus subegerat, Mauri lacessebant, Sarmatae bellum inferebant, Britanni teneri sub Romana dicione non poterant …
+<span class="src">The <i>Historia Augusta</i>'s life of Hadrian, 5.2, on his accession in 117: "the Britons could not be kept under Roman rule".</span></blockquote>
+<blockquote class="latin">diffusis [barbaris et] provinc[ia reciperata] Britannia ad[didit limitem inter] utrumque O[ceani litus per m(ilia) p(assuum) LXXX]
+<span class="src"><a href="https://romaninscriptionsofbritain.org/inscriptions/1051">RIB 1051</a>, from Jarrow near the eastern end of the Wall, a dedication from a monument marking the new frontier. "After the barbarians had been dispersed and the province recovered, he added a frontier between the two shores of Ocean for eighty miles." The bracketed words are restorations, but <i>diffusis</i> and <i>provinc[ia]</i> are on the stone.</span></blockquote>
+<p>To these add the tombstone from Vindolanda, a fort just south of the Wall, of Titus Annius, centurion of the First Cohort of Tungrians, an auxiliary unit, "killed in the war" (<i>in bell[o] … [inter]fectus</i>, <a href="https://romaninscriptionsofbritain.org/inscriptions/3364">RIB 3364</a>, c. 90–150); the <i>expeditio Britannica</i>, an emergency reinforcement of 3,000 legionaries drawn from three legions in Spain and Upper Germany, the province on the middle Rhine (ILS 2726), which only makes sense if legionary strength in Britain had collapsed; the arrival of the Sixth Legion as the one new legion, so that Britain's garrison stayed at three, which is a replacement, not a reinforcement; the Spaniards' refusal of a levy of recruits in the winter of 122/3; the interruption of building on Hadrian's Wall in about 123 and the burning of London about 125 (Graafstal 2025). None of these sources names the Ninth. Together they show a British crisis in the same years in which the officers' careers cease to attest the legion, and a Roman response of the kind that the loss of a legion would call for.</p>
+<p>Whether the legion was annihilated or, as Hodgson and Graafstal prefer, defeated and then disbanded in disgrace, the evidence cannot say. A legion disbanded in disgrace would explain why no survivors' inscriptions name it after the 120s and why the loss is unrecorded in a reign whose narrative sources are, in any case, a later abridgement of Dio and the <i>Historia Augusta</i> biography. The objection that a disaster in or near the emperor's presence could not have gone unmentioned (the frontier historians David Breeze, Brian Dobson and Valerie Maxfield, 2012, 20; Matthew Symonds, a historian of the Wall, 2021) overrates our sources: the disappearance of the Twenty-Second Legion Deiotariana in the same generation is equally unmentioned.</p>
+</div>
+
+<div class="hyp">
+<h3>The Bar Kokhba war, 132–136 <span class="tag">c. 14–19%</span></h3>
+<blockquote class="latin">τότε δὴ τότε τοὺς κρατίστους τῶν στρατηγῶν ὁ Ἁδριανὸς ἐπ᾽ αὐτοὺς ἔπεμψεν, ὧν πρῶτος Ἰούλιος Σεουῆρος ὑπῆρχεν, ἀπὸ Βρεττανίας ἧς ἦρχεν ἐπὶ τοὺς Ἰουδαίους σταλείς. … Πολλοὶ μέντοι ἐν τῷ πολέμῳ τούτῳ καὶ τῶν Ῥωμαίων ἀπώλοντο· διὸ καὶ ὁ Ἁδριανὸς γράφων πρὸς τὴν βουλὴν οὐκ ἐχρήσατο τῷ προοιμίῳ τῷ συνήθει τοῖς αὐτοκράτορσιν, ὅτι «εἰ αὐτοί τε καὶ οἱ παῖδες ὑμῶν ὑγιαίνετε, εὖ ἂν ἔχοι· ἐγὼ καὶ τὰ στρατεύματα ὑγιαίνομεν».
+<span class="src">Dio 69.13.2 and 69.14.3, in Xiphilinus' summary. "Then indeed Hadrian sent his best generals against them, the first of whom was Julius Severus, dispatched from Britain, where he was governor … Many Romans, too, perished in this war; and so Hadrian, writing to the senate, did not use the opening customary for emperors, 'if you and your children are well, it is well; I and the armies are well'."</span></blockquote>
+<p>The case for this ending rests on three facts: a governor was summoned from Britain, Hadrian admitted heavy losses, and a legion is missing afterwards. Against it, not one inscription of the Ninth exists in Judaea, Syria, Arabia or Egypt, in the best-documented military theatre of the period, and Menahem Mor, the Israeli historian of the revolt, in his surveys of the war's forces (1986, 2016) found the legion's participation "unfounded". The legion would have needed a base from about 124 to 132, and none is available on the Rhine, the Danube or in the East. The summons of Julius Severus shows that Hadrian took a general from Britain; it does not show that he took a legion. The only legion that can be shown to vanish in the East in these years is the Twenty-Second Deiotariana, last attested at its base at Nicopolis outside Alexandria on 4 August 119 (BGU I 140, a papyrus in Berlin) and, like the Ninth, absent from the list of 165. Eck (1999) has argued from Fronto that the war cost Rome a legion; if so, the Egyptian legion, which was already stationed in the East, is the better candidate.</p>
+</div>
+
+<div class="hyp">
+<h3>Elegeia, Armenia, 161 <span class="tag">c. 3–5%</span></h3>
+<blockquote class="latin">… Οὐολόγαισος δὲ ὁ τῶν Πάρθων βασιλεὺς … στρατόπεδόν τε ὅλον Ῥωμαϊκὸν τὸ ὑπὸ Σεβηριανῷ ἐν Ἐλεγείᾳ … περισχὼν … κατετόξευσε καὶ διέφθειρε.
+<span class="src">Dio 71.2.1, in Xiphilinus' summary: the Parthian king Vologaeses "surrounded a whole Roman legion under Severianus at Elegeia … shot it down and destroyed it" (Severianus was governor of Cappadocia, the province in eastern Turkey facing Armenia; Elegeia lay in Armenia). Lucian, <i>Alexander</i> 27, a satire on a false prophet who had encouraged the campaign, has Severianus "cut to pieces with his whole army by Osroes" (αὐτῇ στρατιᾷ ὑπὸ τοῦ Ὀσρόου κατακοπείς). Neither author names the legion.</span></blockquote>
+<p>Werner Eck proposed the Ninth in 1972 on the strength of the Numisius diploma: if the tribune of CIL XI 5670 was consul in 161, the legion existed under Antoninus Pius, and the only recorded loss of a legion after that is Elegeia. Each step of the argument is weak. The Numisius identification is the less likely reading of the stone, as shown above. Cappadocia's two legions, the Twelfth Fulminata and the Fifteenth Apollinaris, both survive on the list of 165, so Severianus' "legion" must be an unattested third legion, or a legion-sized force of detachments, or Dio's rhetoric. No inscription of the Ninth exists in Cappadocia or anywhere in Asia Minor (Turkey) later than Caristanius Fronto, who commanded the legion in the 70s. The hypothesis also requires a full legion to have left no inscription for more than thirty years, in the decades when Romans set up more inscriptions than at any other time, and then to have been destroyed without any of its former soldiers leaving a stone.</p>
+</div>
+
+<div class="hyp">
+<h3>Elsewhere, or disbanded without a record <span class="tag">c. 17–23%</span></h3>
+<p>This residual covers a quiet end: a legion so reduced in the British war that it was merged into the Sixth Victrix or the Thirtieth Ulpia Victrix, a disbandment on the Continent after a withdrawal, or a loss in some episode our sources do not preserve (the fighting against the Moors in North Africa or the Sarmatians on the Danube in the 120s, an unrecorded eastern movement before 132, a disbandment later than 130). Its share is kept wide for three reasons: the weights in the next section are the author's judgements; the officers' silence after c. 128 is compatible with any of these endings; and one legion, the Twenty-Second, did disappear in this generation without any record of how.</p>
+</div>
+</section>
+
+<section class="prose">
+<h2 id="weights">Weighing it</h2>
+<p>Five pieces of evidence bear on where the legion ended. They were weighed in the way evidence is weighed in any inquiry: start with a prior probability for each ending, before the evidence is considered; ask how likely each piece of evidence would be if that ending were true (its likelihood); and combine them to get the probability of each ending given all the evidence (the posterior). Each likelihood was assigned not as a single number but as a range from a base reading to a sceptical one, the sceptical end being what a determined critic of the British hypothesis could reasonably assume. The prior for Britain was likewise ranged from 30% down to 15%, with the remainder split between the alternatives in the proportions 30:25:15. The posterior was then computed for 100,000 random draws across those ranges (the script <code>scenario_weights_v2.py</code> and its output are published with this page). The British crisis enters once, as item C: the attested losses and the reinforcement that answered them are one event, and counting them separately would count the same crisis twice.</p>
+</section>
+
+<div class="tablewrap"><table>
+<thead><tr><th>Evidence (likelihood, base → sceptical reading)</th><th class="num">Britain</th><th class="num">Bar Kokhba</th><th class="num">Elegeia</th><th class="num">Other</th></tr></thead>
+<tbody>
+<tr><td>A. Officers' careers: securely dated service ends c. 123/4, probably c. 125–128; none secure after c. 130</td><td class="num">1</td><td class="num">0.35 → 0.70</td><td class="num">0.08 → 0.16</td><td class="num">0.30 → 0.60</td></tr>
+<tr><td>B. No base and no trace outside Britain after c. 122 (Nijmegen a detachment; fortress empty c. 125/130; no eastern inscription)</td><td class="num">1</td><td class="num">0.20 → 0.40</td><td class="num">0.10 → 0.20</td><td class="num">0.50 → 1.00</td></tr>
+<tr><td>C. A British crisis c. 122–125 with heavy losses, a 3,000-man legionary reinforcement, a Spanish levy and the Sixth Legion as a one-for-one replacement</td><td class="num">1</td><td class="num">0.50 → 0.80</td><td class="num">0.50 → 0.80</td><td class="num">0.60 → 0.85</td></tr>
+<tr><td>D. Dio records a legion annihilated at Elegeia in 161</td><td class="num">1</td><td class="num">1</td><td class="num">2.0 → 3.0</td><td class="num">1</td></tr>
+<tr><td>E. No building stone of the Ninth on Hadrian's Wall</td><td class="num">0.50 → 0.30</td><td class="num">1</td><td class="num">1</td><td class="num">1</td></tr>
+<tr class="total"><td>Posterior, every value at the base reading (prior 30%)</td><td class="num">85%</td><td class="num">6%</td><td class="num">1%</td><td class="num">8%</td></tr>
+<tr><td>Posterior, every value at the sceptical reading (prior 30%)</td><td class="num">36%</td><td class="num">27%</td><td class="num">8%</td><td class="num">30%</td></tr>
+<tr><td>Posterior, sceptical reading and prior 15%</td><td class="num">19%</td><td class="num">34%</td><td class="num">10%</td><td class="num">38%</td></tr>
+<tr class="total"><td>Median over 100,000 draws, uniform across each range (90% interval)</td><td class="num">52% (37–66)</td><td class="num">19% (11–30)</td><td class="num">4.5% (2–8)</td><td class="num">23% (14–35)</td></tr>
+<tr><td>Median over 100,000 draws, base reading treated as most likely (90% interval)</td><td class="num">65% (53–74)</td><td class="num">14% (9–22)</td><td class="num">3% (2–5)</td><td class="num">17% (11–26)</td></tr>
+<tr><td>Share of draws in which Britain ranks first (uniform; base-weighted)</td><td class="num">97%; 100%</td><td class="num"></td><td class="num"></td><td class="num"></td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p>The table should be read with two limits in mind. Every percentage in it is conditional on the four hypotheses being exhaustive and on the ranges assigned; a different reader with different ranges will get different numbers, which is why the ranges are printed. Britain is the best-supported hypothesis under almost every weighting: it ranks first in 97% of the draws when every value within a range is treated as equally likely, and in all of them when the base reading is treated as the most likely value. But its probability depends substantially on judgements about how strongly each item favours it. At the base reading it is 85%; at the sceptical reading, 36%; on the central readings, between about a half and two thirds. The figures at the top of this page are those central readings, and the point cases are printed beside them so that a reader can see how far a different judgement moves the answer.</p>
+<p>Dropping any one item at the midpoint reading moves Britain from 52% to 29% (without the careers, or without the no-base argument), 43% (without the crisis) or 73% (without the Wall silence, which counts against it). Two cautions apply to the items themselves. A and B are not fully independent: both are, in part, the absence of later evidence, and a reader who thinks they are the same argument twice should weight the result toward the "without A" row. And item C describes a war that happened whatever became of the Ninth; it shows that there was an occasion for a British loss, and it does not show that one occurred.</p>
+<p>The date within Britain cannot be fixed closely. The Sixth had York by 122 and the Ninth still had a commander and a senatorial tribune in 122 to 124, so the legion was then somewhere else in the province, plausibly the north-west where its VIIII-stamped tiles lie. The reinforcement of 3,000 legionaries and the Spanish levy belong to about 123 to 125, and Graafstal places the crisis in early 123. Those are the years in which a loss would best fit the surrounding evidence, but the careers are compatible with an end anywhere up to about 130, and nothing in the record excludes it. The interval given here is therefore c. 122–130, with the years just after Hadrian's visit as the most likely part of it; a two- or three-year range would claim more than the evidence supports.</p>
+</section>
+
+<section class="prose">
+<h2 id="scholars">The argument so far</h2>
+<p>The hypotheses were developed in the following order. Mommsen (1885) had the legion destroyed at York soon after 108. Ritterling (1925) saw from Karus and Crispinus that the end must fall after 120, and thought of a second British revolt about 125. Eric Birley (1948, 1971) built the eastern alternative on Cocceius Severus, the Carlisle tiles and the Nijmegen finds, and Bogaers (1967) placed the whole legion at Nijmegen in the 120s. Eck (1972) took it east to Elegeia on the Numisius diploma. Keppie (1989) dismantled the eastern case item by item, and Haalebos (2000) and the later Nijmegen excavators reduced the continental presence to a detachment of 104 to 120. Hodgson (2021) argued for a defeat followed by disbandment in Britain, in 122 or shortly after. Graafstal (2025) explores the connections between the legion's disappearance, a security crisis and the interruption of work on the Wall, and frames the result as a possibility to be examined, not a settled identification: the convergence of evidence, in his abstract's words, "invites a fresh examination of the possibility that a major security crisis erupted following the imperial visit of a.d. 122". Neither paper has yet drawn a published response, and Campbell, Anthony Birley and Keppie hold different positions. Because the field has no settled verdict, this page cannot confirm one; it can support one interpretation over the others and state how strongly. Hodgson's own summary of the historiography is worth quoting: "since the 1970s the possibility that the Ninth was in Britain when it ceased to exist has disappeared so thoroughly from the educated public consciousness that many believe its departure from the island to be a matter of fact" (2021, 16, as quoted by Graafstal 2025, 47). Page references to Hodgson on this page follow the numbering of the article's first online publication (pp. 1–22), which Graafstal uses; the printed article occupies pp. 97–118.</p>
+<p>The table adds the others who have taken a position: R.G. Collingwood, the Oxford philosopher and historian of Roman Britain; Ian Richmond, the Oxford archaeologist; Menahem Mor; Anthony Birley; Miles Russell; and two popular writers, Stephen Dando-Collins and Simon Elliott.</p>
+</section>
+
+<div class="tablewrap"><table>
+<thead><tr><th>Author</th><th>Year</th><th>Favoured end</th><th>Key evidence</th><th>Weakness, as identified by others</th></tr></thead>
+<tbody>
+<tr><td>Mommsen</td><td class="num">1885</td><td>annihilated at York soon after 108</td><td>RIB 665; VI Victrix; Fronto</td><td>the tribunes' careers (Ritterling, E. Birley)</td></tr>
+<tr><td>Ritterling</td><td class="num">1925</td><td>destroyed in Britain after 120, perhaps c. 125</td><td>Karus, Crispinus</td><td>Nijmegen finds, later</td></tr>
+<tr><td>Collingwood</td><td class="num">1936</td><td>cut up c. 115–119 and "disgraced itself"</td><td>absence from the Wall</td><td>E. Birley; Eck</td></tr>
+<tr><td>E. Birley</td><td class="num">1948, 1971</td><td>Carlisle, then Nijmegen c. 126, then the East</td><td>careers; Carlisle tiles; Aachen altar</td><td>no eastern evidence (Keppie); detachment only (Haalebos)</td></tr>
+<tr><td>Richmond</td><td class="num">1955</td><td>cashiered in disgrace by 122</td><td>coins of 119; VI Victrix</td><td>"theory had become fact" (Campbell)</td></tr>
+<tr><td>Bogaers</td><td class="num">1967</td><td>whole legion at Nijmegen in the 120s; lost in Judaea</td><td>tiles, mortarium, altar, CIL X 1769</td><td>withdrawn by Bogaers and Haalebos 1975–77</td></tr>
+<tr><td>Eck</td><td class="num">1972</td><td>Elegeia 161, "most probable"</td><td>Numisius consul 8 Feb 161</td><td>father and son (Keppie); no third Cappadocian legion</td></tr>
+<tr><td>Mor</td><td class="num">1986, 2016</td><td>not lost in Judaea</td><td>no Judaean evidence for IX or XXII</td><td></td></tr>
+<tr><td>Keppie</td><td class="num">1989, 2000</td><td>vanishes after the early 120s; place open; no eastern fate demonstrable</td><td>re-examination of Numisius, Asclepiades, stamps</td><td>Birley 1981 and Mor rejected the father-son split</td></tr>
+<tr><td>Haalebos</td><td class="num">2000</td><td>detachment at Nijmegen c. 104–120 within the <i>vexillatio Britannica</i></td><td>stamp counts; fortress size</td><td>the camp prefect (Campbell)</td></tr>
+<tr><td>A.R. Birley</td><td class="num">1981, 2005</td><td>alive to c. 124; loss "extraneous" to Britain, place undetermined</td><td>Florentinus, Karus, Crispinus</td><td>Hodgson and Graafstal accept his dates and relocate the end</td></tr>
+<tr><td>Campbell</td><td class="num">2010, 2018</td><td>left Britain by the 120s; lost in the East, Judaea or Elegeia, undecided; British loss "a very weak theory"</td><td>historiography; officers; Aachen altar</td><td>assumes the full legion at Nijmegen (Hodgson, Graafstal)</td></tr>
+<tr><td>Russell</td><td class="num">2010, 2011</td><td>died in Britain, late 110s or early 120s</td><td>Fronto; SHA; Pontius Sabinus; VI Victrix</td><td>tile redating unsupported; officers ignored</td></tr>
+<tr><td>Dando-Collins</td><td class="num">2010</td><td>Elegeia, with XXII Deiotariana</td><td>Dio 71.2</td><td>XXII last attested 119 in Egypt</td></tr>
+<tr><td>Elliott</td><td class="num">2021</td><td>lost in northern Britain between 108 and 122</td><td>York 108; VI Victrix; absence from the Wall</td><td>ignores the careers of the 120s</td></tr>
+<tr><td>Hodgson</td><td class="num">2021</td><td>defeated and disbanded in Britain, 122 or shortly after</td><td>careers end c. 124; detachment only abroad; Fronto; Sabinus' 3,000; RIB 3364</td><td>a disaster near the emperor unmentioned (Symonds; Breeze et al.)</td></tr>
+<tr><td>Graafstal</td><td class="num">2025</td><td>lost or dishonourably disbanded, early 123, after Hadrian's visit</td><td>convergence of careers, hoards, Spanish levy, London fire, Wall hiatus</td><td>offered as a scenario; rests on "normally expected" intervals</td></tr>
+<tr class="total"><td>This page</td><td class="num">2026</td><td>Hodgson's and Graafstal's hypothesis found probable: Britain, c. 122–130, about 50–65%; not proven</td><td>all of the above, catalogued, re-dated and weighed</td><td>likelihoods are judgements; see the sensitivity rows; Campbell's 2018 book unread, see below</td></tr>
+</tbody></table></div>
+
+<section class="prose">
+<p><strong>Campbell's book of 2018</strong>, <i>The Fate of the Ninth</i>, is the strongest sustained case against a British ending, and it has not been read. It (Glasgow 2018, 155 pages; Kindle edition 2020) has no preview in any bookseller's or library database, no scanned copy exists, and no journal reviewed it; two searches in September 2026 found nothing that could be read legitimately. What was read in full is everything else he has published on the question: his 2010 article in the magazine <i>Ancient Warfare</i>, all 57 posts of his blog (2019–2025), and all 25 of his contributions on the Ninth to RomanArmyTalk, an online forum on the Roman army, from 2010 to February 2026, which include his only recorded reaction to Hodgson 2021. The account of his case that follows is drawn from those. Where the book adds arguments, this page does not know them; the Finnish historian Kai Juntunen, in the journal <i>Arctos</i> (54, 2020, 168 n. 7), cites its pp. 134–39 for the arguments for and against Elegeia.</p>
+<p>His case, in his own words where possible, is this. The "British war of 119" and the link between the Sixth's arrival and the Ninth's disappearance rest on an assumption of the nineteenth-century epigraphist Bartolomeo Borghesi and on the coin specialist Harold Mattingly's dating of a coin issue, and "there is no direct evidence for any of the required elements" (2010, 50, 53). The officers' careers push the legion's existence to at least c. 122–3 (Florentinus, Karus, Crispinus) and, if Numisius Iunior is the consul of 161, to c. 140; he reports Keppie's father-and-son solution without rebutting it (2010, 53). The Nijmegen tile is not a stray: Bogaers "had a securely stratified artefact" (forum, 2011), and with the stamped mixing bowl from De Holdeurn, the legion's tile and pottery works outside Nijmegen, the harness pendant from Ewijk and the Aachen camp prefect it places the legion, not a detachment, in Lower Germany, the province on the lower Rhine, so that "evidence of the legion's departure from Britain does at least exist, whereas there is no evidence that it remained" (blog, 27 May 2023). Ian Richmond's story that the legion was cashiered in disgrace is "fantastical", and the burden lies on whoever revives it. Between the eastern options he was undecided in 2010; by 2023 he leaned to Elegeia, observing that "nobody in the last 40 years has suggested" a loss to the Jews, "whereas Cassius Dio records the destruction of a legion by the Parthians"; he states no probability. To Hodgson's argument that every eastern legionary base is known and none is vacant, his reply (forum, 20 February 2026) is that it is "probably the biggest red herring. We need to be aware of unknown unknowns! How many forts/fortresses in Cappadocia can you name?" He has abandoned his earlier argument from the VIIII and IX spellings (blog, 2025). Nowhere in the texts read does he argue that a loss in Britain in the mid or late 120s is impossible; he records, without answering, Ritterling's allowance for "a second British revolt towards the middle or in the second half of the AD 120s" (2010, 51).</p>
+<p>The evidence set out above bears on his case at three points, and a reader should weigh them rather than take them as a refutation of a book that has not been read. First, the interval given here for a British ending is c. 122–130, not 117–119, so his strongest point, the absence of evidence for a war in 119, is accepted here. Second, on Nijmegen, the stratified tile shows that men of the Ninth were there, which nobody disputes; the quantities are what carry the argument for a detachment, three stamps from one die beside 196 of the British vexillation, in a fortress the excavators now hold to have emptied by c. 125/130. The Aachen prefect remains his best evidence for a large presence, and it is undated. Third, his "unknown unknowns" objection is aimed at exactly item B of the weighting above. The sceptical end of that item's range and the residual hypothesis are the places in the calculation where his objection applies, and the "without B" row shows what accepting it in full does: Britain falls to 29% and Bar Kokhba moves ahead of it. His last point applies equally to his own view. No stone places the legion as a whole anywhere after the York gate of 108; there is no evidence that it remained in Britain, and equally no evidence that it left, apart from a handful of objects from a fortress held by a detachment.</p>
+<p><strong>Russell's account of 2011</strong>, for the BBC, places the end in the right province, but on two grounds that fail: the officers show the legion alive past his date, and the redating of the Nijmegen tiles to the 80s has no basis in the excavated layers. The assessment here is closer to Ritterling's of 1925, to Hodgson's of 2021 and to Graafstal's of 2025 than to either popular account.</p>
+</section>
+
+<section class="prose">
+<h2 id="overturn">What would change the answer</h2>
+<p>Any inscription, diploma or papyrus naming the legion, or a serving soldier of it, with a date or context after about 130 would move the answer east at once: a tombstone in Judaea, Syria or Cappadocia, a building stone, a discharge list. So would proof that the tribune of the Numisius stone (CIL XI 5670) is the consul of 161, for instance a new copy of the stone with a consulship, or a military diploma giving the consul's full name Q. Camurius Numisius Iunior; that alone would push the legion's existence to about 140 and revive Eck's hypothesis. Nijmegen finds of the Ninth in contexts of Hadrian's reign at legion scale (several dies, a stamped building, an inscription of a serving officer dated after 122) would do the same for the Rhine. A Ninth building stone on Hadrian's Wall in a sector dated after 124 would show a legion at work rather than lost. In the other direction, a firmly dated York or Carlisle context showing the legion still in garrison in 125 or later would tighten the British date without changing the place.</p>
+<p>The answer would <em>not</em> be shaken by a new career inscription from the reign of Trajan or the early years of Hadrian, by a further Nijmegen tile of the known die, or by an undated stray such as the graffito from Linz noted below.</p>
+</section>
+
+<section class="prose">
+<h2 id="new">What is new here</h2>
+<p>The conclusion is not new. The hypothesis of a defeat followed by disbandment in Britain in or soon after 122 was argued by Nick Hodgson in volume 52 (2021) of <i>Britannia</i>, the journal of Romano-British studies, and Erik Graafstal in volume 56 (2025) of the same journal connected the legion's disappearance with the military crisis after Hadrian's visit and the interruption of building on the Wall. Ritterling had already placed the end in Britain after 120 in 1925. This page develops their line of argument and finds it probable; it does not establish it, and it does not show that the field already favours it. <strong>This page presents no new evidence.</strong> No inscription, papyrus or object unknown to the literature was found.</p>
+<p><strong>New analysis of existing evidence</strong>, each item to be judged on its own terms and none validated by the conclusion it reaches, comes to five things. The first is a complete catalogue, with a link to the database record for each item: all 133 RIB records for Britain, and an empire-wide sweep of the Heidelberg and Clauss-Slaby databases (245 rows, about 195 distinct monuments once duplicates between the two are matched) with every query recorded. It shows that no attestation of the legion in either database survives scrutiny as later than the 120s: the two "late" database dates, 141–160 for Asclepiades and 106–161 for CIL VI 41280, rest on no criteria and on the Elegeia theory respectively. The second is the career model, which converts the standard career intervals into a probability curve and shows the officers require the legion in 124 at 88%, in 126 at 51% and in 130 at 6%; it measures the floor on the legion's existence, not its end. The third is the explicit likelihood table with ranges and a distribution of posteriors, which states what each reading of the evidence implies and what a sceptic has to assume, and which shows that the ordering of the hypotheses is robust while the probability of the leading one is not. The fourth is the quantified Nijmegen ratio: three stamps from one die against about 227 post-104 stamps, alongside the fortress size and end date. The fifth is two under-used items, CIL VI 41280 and the circularity of its database dating, and CIL V 7159 read with its Clauss-Slaby text.</p>
+<p><strong>Positions already argued by others that this analysis supports</strong>: the impossibility of 117–119 (Ritterling 1925; Anthony Birley 2005); the detachment reading of Nijmegen (Haalebos 2000; van der Veen 2025); the father-son reading of Numisius (Keppie 1989); the absence of any eastern evidence (Keppie; Mor); and the British setting in the early 120s, argued by Hodgson 2021 and explored by Graafstal 2025. An analysis that reaches the same conclusion as its proponents by weighing the same evidence has not tested that conclusion independently; the agreement is support for it, and it should not be read as confirmation. What this page adds is the synthesis and the explicit statement of how much the answer depends on judgement.</p>
+</section>
+
+<section class="prose">
+<h2 id="notes">Notes on references and limits</h2>
+<p>Sextius Florentinus' tomb is CIL III 87 = 14148,10; it is not in Dessau's <i>ILS</i>, and the reference "ILS 1057" sometimes given for it is wrong. Keppie's paper on the eastern hypothesis is "The fate of the Ninth Legion: a problem for the eastern provinces?", in French and Lightfoot (eds), <i>The Eastern Frontier of the Roman Empire</i> (British Archaeological Reports, international series 553, 1989), 247–255, reprinted with addenda in <i>Legions and Veterans</i> (2000); it is not a 1996 supplement to the <i>Journal of Roman Archaeology</i>. The last attestation of XXII Deiotariana is the papyrus BGU I 140 of 4 August 119; "CIL III 14147 = ILS 2483" is not a terminus for that legion. The papyrus text could not be re-read online for this page and is cited from the standard editions. Novius Crispinus' intermediate posts were <i>iuridicus</i> (the emperor's judicial deputy) in north-west Spain, commander of the First Legion Italica and governor of Narbonensis, not a Spanish and Cappadocian sequence.</p>
+<p>A recently published graffito from Linz in Austria, <i>Im(m)un(is) Vo() leg(ionis) IX</i> (AE 2020, 932), "Vo…, a soldier exempt from fatigues, of the ninth legion", names a ninth legion without title and without date. It is flagged in the catalogue and given no weight. Two unprovenanced auction objects inscribed IX HISP are likewise flagged. A dedication of 161–169 for the safety of the emperors Marcus Aurelius and Lucius Verus from Corporales in the province of León, Spain (AE 1984, 556), contains "leg viiii" only in a corrupt transcription and is excluded.</p>
+<p>Two of the most important modern works could not be read in full. Campbell's book <i>The Fate of the Ninth</i> (2018) could not be obtained: no preview, no scan, no review copy, no journal review. The account of his case above rests on his 2010 article, his blog and his forum posts, all read in full; any argument that exists only in the book is unknown to this page, and the page does not claim to have answered it. Hodgson's 2021 article is behind the publisher's paywall. An exhaustive attempt (the publisher's site, the open-access finders Unpaywall, OpenAlex, Semantic Scholar, CORE and OpenAIRE, the Newcastle and Durham university repositories, Google Scholar and the Wayback Machine) found no legitimate copy. It was read in abstract and through the fourteen citations and three verbatim quotations in Graafstal 2025 and the citations in Symonds 2022; its treatment of the Aachen altar, of Numisius Iunior and of Campbell's book is not recoverable from those and is not characterised here. Haalebos 2000 and Ritterling's article in the <i>Realencyclopädie</i>, the German encyclopaedia of classical antiquity, were likewise reached through citation.</p>
+</section>
+
+<section class="prose">
+<h2 id="method">How the evidence was gathered</h2>
+<p>The evidence was collected along six lines. The British corpus was every record for the legion in RIB Online, read in full. The officers' inscriptions were taken from the Clauss-Slaby and Heidelberg databases and from Dessau, with Eck 1972 and Graafstal 2025. The Rhineland evidence came from Bogaers 1965 and 1967, Bogaers and Haalebos 1975, Kemmers 2006, van der Veen 2025, and the Heidelberg and Clauss-Slaby records. The literary sources were read in Latin and Greek from the online collections LacusCurtius, the Latin Library, remacle.org and Wikisource, and from scans of the Loeb editions. The scholarship was read from Mommsen to Graafstal, with Campbell's and Russell's texts where they are online. The sixth line was an empire-wide sweep through the search interfaces of the Heidelberg and Clauss-Slaby databases. The career simulation and the scenario weighting are short Python scripts with fixed random seeds, so every number above can be regenerated exactly.</p>
+<p>The files behind this page are published with it: the British catalogue, the officer file with the Latin texts and the arithmetic, the Rhineland file, the literary sources with texts and translations, the scholarship survey, the database catalogue with its comparison-legion counts, the two model scripts with their outputs and the chart script, and the text of Graafstal 2025 with every passage in it that cites Hodgson.</p>
+</section>
+
+<section class="prose">
+<h2 id="sources">Sources</h2>
+<h3>Primary</h3>
+<ul class="biblio">
+<li>RIB 665, 659, 673, 680, 254–257, 260, 1051, 1319, 3042, 3047, 3364; RIB II.4, 2462.1–16: <a href="https://romaninscriptionsofbritain.org/">Roman Inscriptions of Britain online</a>.</li>
+<li>CIL III 87 = 14148,10 (Petra): <a href="https://edcs.hist.uzh.ch/monument/EDCS-21200156">EDCS-21200156</a>. P. Yadin 16 (2 Dec 127): Eck, <i>Chiron</i> 2 (1972) n. 4.</li>
+<li>CIL VI 1333 = ILS 1077: <a href="https://edcs.hist.uzh.ch/monument/EDCS-17800486">EDCS-17800486</a>. CIL VIII 2747 = ILS 1070: <a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031258">HD031258</a>. CIL X 6006 = ILS 1066: <a href="https://edcs.hist.uzh.ch/monument/EDCS-20600417">EDCS-20600417</a>. CIL XI 5670: <a href="https://edcs.hist.uzh.ch/monument/EDCS-23000342">EDCS-23000342</a>. CIL VI 41280: <a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD013966">HD013966</a>. CIL V 7159: <a href="https://edcs.hist.uzh.ch/monument/EDCS-05400409">EDCS-05400409</a>. CIL X 1769: <a href="https://edcs.hist.uzh.ch/monument/EDCS-11500706">EDCS-11500706</a>. CIL VI 3584 = ILS 2656: <a href="https://edcs.hist.uzh.ch/monument/EDCS-19700276">EDCS-19700276</a>. CIL III 12411 = ILS 2666b: <a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD042822">HD042822</a>. CIL XIII 4030: <a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD011186">HD011186</a>. CIL VI 41146 (Pontius Laelianus): <a href="https://edcs.hist.uzh.ch/monument/EDCS-01000265">EDCS-01000265</a>. ILS 9485: <a href="https://edcs.hist.uzh.ch/monument/EDCS-16201163">EDCS-16201163</a>. ILS 1025: <a href="https://edcs.hist.uzh.ch/monument/EDCS-05801602">EDCS-05801602</a>. ILS 9200: <a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031653">HD031653</a>.</li>
+<li>Nijmegen and Aachen: AE 1977, 541 (<a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD020257">HD020257</a>); AE 1996, 1107 (<a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD050314">HD050314</a>; Sijpesteijn, <a href="https://www.uni-koeln.de/phil-fak/ifa/zpe/downloads/1996/111pdf/111281.pdf">ZPE 111 (1996) 281–2</a>); AE 1968, 323 (<a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD014357">HD014357</a>).</li>
+<li>ILS 2726 and 2735 (Pontius Sabinus, Maenius Agrippa): Epigraphic Database Roma EDR155466, EDR015676. ILS 2288 = CIL VI 3492 (<i>Nomina legionum</i>): EDR174557–8; <a href="https://www.livius.org/sources/content/the-antonine-legions-cil-06.3492/">Livius</a>.</li>
+<li>Tacitus, <i>Annales</i> 14.32, 14.38; <i>Agricola</i> 26: <a href="https://www.thelatinlibrary.com/tacitus/tac.ann14.shtml">Latin Library</a>. Fronto, <i>De bello Parthico</i> 2: Haines, Loeb II (1920) 22, <a href="https://archive.org/details/correspondenceof0002crha">archive.org</a>. SHA <i>Hadrianus</i> 5.2, 11.2, 12.4: <a href="https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Hadrian/1*.html">LacusCurtius</a>. Cassius Dio 55.23, 69.13–14, 71.2: <a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/home.html">LacusCurtius</a> (Cary), Greek at remacle.org. Lucian, <i>Alexander</i> 27: Harmon, Loeb IV. BGU I 140: <a href="https://papyri.info/ddbdp/bgu;1;140">papyri.info</a> (not re-read for this page).</li>
+</ul>
+<h3>Scholarship</h3>
+<ul class="biblio">
+<li>A.R. Birley, <i>The Fasti of Roman Britain</i> (Oxford 1981); <i>The Roman Government of Britain</i> (Oxford 2005) 118, 228–9, 244, 285–7.</li>
+<li>E. Birley, "The fate of the Ninth Legion", in R.M. Butler (ed.), <i>Soldier and Civilian in Roman Yorkshire</i> (Leicester 1971) 71–80; "Britain after Agricola and the end of the Ninth Legion" (1948), in <i>Roman Britain and the Roman Army</i> (Kendal 1953).</li>
+<li>J.E. Bogaers, "Die Besatzungstruppen des Legionslagers von Nijmegen im 2. Jahrhundert nach Christus", <i>Studien zu den Militärgrenzen Roms</i> (1967) 54–76, <a href="https://repository.ubn.ru.nl/handle/2066/26473">Radboud repository</a>; J.E. Bogaers and J.K. Haalebos, <i>Romeins Nijmegen: de bezettingstroepen van de Nijmeegse legioensvesting in de 2de eeuw</i> (1975), <a href="https://hdl.handle.net/2066/26331">hdl 2066/26331</a>.</li>
+<li>D.B. Campbell, "The fate of the Ninth", <i>Ancient Warfare</i> 4.5 (2010) 48–53, <a href="https://web.archive.org/web/2020/https://blogfiles.karwansaraypublishers.com/uploads/Ancient-Warfare/fateoftheninth.pdf">Wayback copy</a> (read in full); <i>The Fate of the Ninth: the Curious Disappearance of One of Rome's Legions</i> (Glasgow 2018; Kindle 2020), not read, <a href="https://classicsforall.org.uk/reading-room/book-reviews/fate-ninth-curious-disappearance-legio-viiii-hispana">review by A. Spooner</a>; blog <a href="https://ninth-legion.blogspot.com/">ninth-legion.blogspot.com</a>, 57 posts 2019–2025 (read in full); RomanArmyTalk forum posts 2010–2026 (read in full), especially <a href="https://www.romanarmytalk.com/rat/showthread.php?tid=16740">thread 16740</a> (2010–11, Nijmegen tile) and <a href="https://www.romanarmytalk.com/rat/showthread.php?tid=31963">thread 31963</a> (February 2026, reaction to Hodgson 2021). K. Juntunen, <i>Arctos</i> 54 (2020) 168 n. 7, for the book's pp. 134–39.</li>
+<li>W. Eck, "Zum Ende der legio IX Hispana", <i>Chiron</i> 2 (1972) 459–462, <a href="https://publications.dainst.org/journals/chiron/332/4940">open access</a>; "The Bar Kokhba revolt: the Roman point of view", <i>JRS</i> 89 (1999) 76–89, <a href="https://doi.org/10.2307/300735">doi</a>.</li>
+<li>E.P. Graafstal, "What happened next? Hadrian's Wall, the <i>expeditio Britannica</i> and the fate of the Ninth Legion", <i>Britannia</i> 56 (2025) 25–55, <a href="https://doi.org/10.1017/S0068113X2510038X">doi</a>.</li>
+<li>J.K. Haalebos, "Römische Truppen in Nijmegen", in Y. Le Bohec and C. Wolff (eds), <i>Les légions de Rome sous le Haut-Empire</i> (Lyon 2000) 465–489, <a href="https://repository.ubn.ru.nl/handle/2066/124815">Radboud repository</a>.</li>
+<li>N. Hodgson, "The end of the Ninth Legion, war in Britain and the building of Hadrian's Wall", <i>Britannia</i> 52 (2021) 97–118, <a href="https://doi.org/10.1017/S0068113X21000015">doi</a> (closed access; cited here by FirstView page as in Graafstal 2025).</li>
+<li>F. Kemmers, <i>Coins for a Legion</i> (Nijmegen 2006), <a href="https://repository.ubn.ru.nl/handle/2066/40928">Radboud repository</a>.</li>
+<li>L.J.F. Keppie, "The fate of the Ninth Legion: a problem for the eastern provinces?", in D.H. French and C.S. Lightfoot (eds), <i>The Eastern Frontier of the Roman Empire</i> (BAR S553, Oxford 1989) 247–255; reprinted in <i>Legions and Veterans</i> (Stuttgart 2000).</li>
+<li>Th. Mommsen, <i>Römische Geschichte</i> V (Berlin 1885), <a href="https://archive.org/details/provincesromane02mommgoog">English translation</a>.</li>
+<li>M.F.A. Symonds, <i>Hadrian's Wall: Creating Division</i> (London 2021) 55–7, 67; "Was Hadrian's Wall a response to a military threat?", in <i>Roman Frontier Archaeology – in Britain and Beyond</i> (Archaeopress 2022), open access.</li>
+<li>M. Mor, "Two legions: the same fate? (The disappearance of the legions IX Hispana and XXII Deiotariana)", <i>ZPE</i> 62 (1986) 267–278; <i>The Second Jewish Revolt</i> (Leiden 2016), <a href="http://www.plekos.uni-muenchen.de/2017/r-mor.pdf">review</a>.</li>
+<li>E. Ritterling, "Legio", <i>RE</i> XII.2 (1925) 1664–1670.</li>
+<li>M. Russell, "The Roman Ninth Legion's mysterious loss", BBC News Magazine, 16 March 2011, <a href="https://www.bbc.co.uk/news/magazine-12752497">bbc.co.uk</a>.</li>
+<li>P.J.M. van der Veen, <i>On the Legion's Doorstep: Studies into the Nijmegen castra and canabae legionis</i> (Nijmegen 2025), <a href="https://repository.ubn.ru.nl/handle/2066/319111">Radboud repository</a>.</li>
+<li>H. van Enckevort et al., <i>The Lower German Limes in the Netherlands</i>, Nederlandse Archeologische Rapporten 71 (2021), <a href="https://cultureelerfgoed.info/download/pdf/NAR071_Limes.pdf">pdf</a>.</li>
+</ul>
+</section>
+
+<div class="foot">Every inscription cited was read in the database or corpus linked. Where an author's work could not be opened, the page says so and names the source through which it is known. September 2026.</div>
+</div>
+</body>
+</html>

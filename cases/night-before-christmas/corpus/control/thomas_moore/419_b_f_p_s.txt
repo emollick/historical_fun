@@ -1,0 +1,15 @@
+title: B. F P. S
+author: Thomas Moore
+date: 1818
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 6
+attribution: certain
+notes: light satirical verse epistle (The Fudge Family in Paris, 1818 / The Fudges in England, 1835)
+
+How provoking of Pa! he will not let me stop
+Just to run in and rummage some milliner's shop;
+And my début in Paris, I blush to think on it,
+Must now, DOLL, be made in a hideous low bonnet.
+But Paris, dear Paris!--oh, there will be joy,
+And romance, and high bonnets, and Madame Le Roi!

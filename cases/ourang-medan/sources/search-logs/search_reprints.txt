@@ -1,0 +1,233 @@
+QUERY: kortegolfzenders AND date within "1947-06-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 79 
+1948/12/07 | Het Binnenhof | p1 | MMKB19:000374134:mpeg21:a00002 | 24 December Kerstrede van Z. H. de Paus | Koninklijke Bibliotheek
+1947/06/21 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden-Zuid-Oost-Friesland en Noord-Overĳssel | p2 | ddd:010536365:mpeg21:a0028 | Wederopbouw | KB C 199
+1948/04/05 | Ons Noorden | p1 | MMRHCG04:235373004:mpeg21:a00003 | In 't Kort | Groninger archieven
+1948/12/29 | De Zaanlander | p | MMGAZS01:000107074:mpeg21:a00067 | – Polen zal volgend jaar zeven | Gemeentearchief Zaanstad
+1948/04/05 | Overijsselsch dagblad | p1 | MMKB23:001250004:mpeg21:a00007 | In ’t Kort | Historisch Centrum Overijssel
+1947/07/15 | Algemeen Indisch dagblad | p | MMNIOD04:000092494:mpeg21:a0031 | Een goede gedachte | NIOD Instituut voor Oorlogs-, Holocaust-
+1947/07/04 | Het dagblad : uitgave van de Nederlandsche Dagbladpers te Batavia | p2 | ddd:010897487:mpeg21:a0038 | Een goede gedachte | Universiteitsbibliotheek Leiden S 9462
+1948/06/18 | Bildtsche courant | p1 | MMTRES04:211365046:mpeg21:a00006 | ZWARTE HANDEL VIA DE RADIO. | Tresoar
+1948/09/16 | Winschoter courant | p2 | MMRHCG03:163522064:mpeg21:a00042 | DE REGELING DER GOLFLENGTEN. | Groninger archieven
+1948/12/30 | Helmondsche courant | p | MMRHCE01:000047679:mpeg21:a0020 | FLITSEN | Regionaal Historisch Centrum Eindhoven
+1948/06/18 | Nieuwsblad van het Noorden | p3 | ddd:010887325:mpeg21:a0058 | leger van 600 politiemensen | Groninger archieven 649-1309
+1948/10/09 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010863015:mpeg21:a0072 | Radio-Auto’s voor Amsterdams Politie | Koninklijk Instituut voor de Tropen (KIT
+1948/05/15 | Nijmeegsch dagblad | p7 | MMRANM03:048379012:mpeg21:a00101 | Kootwijk, hart van Nederlands radiotelegrafie, jubileert | Regionaal Archief Nijmegen
+1948/05/20 | Deventer dagblad | p3 | MMHCO02:163895015:mpeg21:a00054 | Radio Kootwijk 25 jaar Hart van Nederlands radiotelegrafie en -telefonie | Historisch Centrum Overijssel
+1948/02/21 | Bredasche courant | p | MMSAB03:000068256:mpeg21:a0025 | Het Zendstation Kootwijk Wonderen van techniek | Stadsarchief Breda
+1948/12/31 | Het Rotterdamsch parool | p6 | MMSARO02:164871155:mpeg21:a00094 | Morgen speciale uitzending voor „Grote Beer” | Stadsarchief Rotterdam
+1948/12/31 | Winschoter courant | p2 | MMRHCG03:163523078:mpeg21:a00022 | SPECIALE RADIO-UITZENDING VOOR MILITAIREN OP „GROTE BEER’’. | Groninger archieven
+1948/12/31 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017771156:mpeg21:a00073 | Morgen speciale uitzending voor „Grote Beer” | Koninklijke Bibliotheek
+1948/08/30 | Het Parool | p | ABCDDD:010828701:mpeg21:a0106 | „Wii roepen de wereld” | Koninklijke Bibliotheek
+1948/12/31 | Emmer courant | p1 | MMGEM01:163333079:mpeg21:a00009 | KORTE BERICHTEN | Gemeente Emmen
+1948/09/30 | Deventer dagblad | p3 | MMHCO02:163896025:mpeg21:a00059 | De Militaire Willemsordë | Historisch Centrum Overijssel
+1948/12/31 | Provinciale Drentsche en Asser courant | p | MMDA03:000129520:mpeg21:a0013 | Speciale radio-uitzending van de „Grote Beer" | Drents Archief
+1948/12/31 | Provinciale Drentsche en Asser courant | p | MMDA03:000129528:mpeg21:a0013 | Speciale radio-uitzending van de „Grote Beer" | Drents Archief
+1948/04/08 | Provinciale Drentsche en Asser courant | p | MMDA03:000130599:mpeg21:a0029 | Nog een liefhebber voor Burgerveen? Televisie-zender komt daar het beste tot zijn recht | Drents Archief
+1948/09/15 | Het Parool | p | ABCDDD:010828713:mpeg21:a0018 | Besluit radio-congres GOLFLENGTEN 298, 402 EN 182 M. VOOR ONS LAND | Koninklijke Bibliotheek
+1948/01/15 | De Noord-Ooster | p | MMVEEN01:000084161:mpeg21:a0014 | REPORTAGE „HOLLANDCALLING" Programma met wereldfaam | Veenkoloniaal Museum
+1948/12/30 | Leeuwarder courant : hoofdblad van Friesland | p2 | ddd:010610516:mpeg21:a0044 | Kort nieuws uit het buitenland | KBDK
+1948/09/15 | Leeuwarder courant : hoofdblad van Friesland | p1 | ddd:010610427:mpeg21:a0013 | Hilversum krijgt in 1950 nieuwe golflengten Resultaat der conferentie in Elseneur | KBDK
+1948/09/16 | Trouw | p | ABCDDD:010870492:mpeg21:a0079 | Advertentie | Koninklijke Bibliotheek
+1948/09/16 | Helmondsche courant | p | MMRHCE01:000047288:mpeg21:a0012 | de nieuwe BONNEN | Regionaal Historisch Centrum Eindhoven
+1947/11/19 | De Noord-Ooster | p | MMVEEN01:000084243:mpeg21:a0020 | WERELDOMROEP. | Veenkoloniaal Museum
+1948/05/08 | De Maasbode | p3 | MMKB15:000554108:mpeg21:a00031 | In Kootwijk wapperde de vlag | Koninklijke Bibliotheek
+1947/06/24 | Harlinger courant | p1 | MMTRES04:211348047:mpeg21:a00004 | Neerland's luchtverkeerspolitie. | Tresoar
+1948/05/08 | Nieuwe Apeldoornsche courant | p | MMCODA01:000161143:mpeg21:a0028 | HET Sprookje IN DE ZANDWOESTIJN Een kwart-eeuw radiotelegraafverbinding Kootwijk - Indië | CODA Apeldoorn
+1947/06/23 | Algemeen Handelsblad | p | KBNRC01:000046682:mpeg21:a0045 | VEILIGHEID IN DE LUCHT Er wordt dag en nacht over de passagiers gewaakt | Koninklijke Bibliotheek
+1948/05/11 | De Nederlander | p1 | MMKB19:000082109:mpeg21:a00005 | Radiotelegrafische verkeersdienst in Kooi wijk bestaat 'n kwarteeuw | Koninklijke Bibliotheek
+1948/01/14 | De Maasbode | p2 | MMKB15:000554011:mpeg21:a00015 | RADIO | Koninklijke Bibliotheek
+1948/04/08 | Provinciale Drentsche en Asser courant | p | MMDA03:000130596:mpeg21:a0031 | Nog een liefhebber voor Burgerveen ? Televisie-zender komt daar het beste tot zijn recht | Drents Archief
+1947/06/30 | De Volkskrant | p | ABCDDD:010936256:mpeg21:a0087 | Honderdduizend mensen zonder één druppel water Vlucht uit de Drentse hei (Van onze special | Koninklijke Bibliotheek
+1948/02/17 | De Volkskrant | p | ABCDDD:010880666:mpeg21:a0069 | „MUZIEK VOOR DE GEEST IN ROUW” van Rudolf Escher Doorleefde verklanking door Van Beinum | Koninklijke Bibliotheek
+1948/04/05 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069706:mpeg21:a0002 | KORT NIEUWS. Binnenland. | Stadsarchief Enschede
+1948/04/05 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069704:mpeg21:a0002 | KORT NIEUWS. Binnenland. | Stadsarchief Enschede
+1947/11/19 | Helmondsche courant | p | MMRHCE01:000049163:mpeg21:a0025 | Studio-gebouwen komen onder beheer der Stichting | Regionaal Historisch Centrum Eindhoven
+1948/11/12 | Het Rotterdamsch parool | p3 | MMSARO02:164871114:mpeg21:a00061 | Mysterieuze krachten in de radio Sprekende matrassen Zingende fornuizen | Stadsarchief Rotterdam
+1948/06/25 | Provinciale Overijsselsche en Zwolsche courant | p2 | MMHCO02:163846147:mpeg21:a00020 | Voor de 17e maal TT te Assen Grote strijd tussen Britten en Italianen verwacht Zeshonderd  | Historisch Centrum Overijssel
+1948/11/13 | Nieuw Utrechtsch dagblad | p3 | MMKB27:017771116:mpeg21:a00067 | Mysterieuze krachten inde radio | Koninklijke Bibliotheek
+1948/05/08 | De Tĳd : godsdienstig-staatkundig dagblad | p5 | ddd:011201100:mpeg21:a0092 | Technische metingen per helicoptere | Koninklijke Bibliotheek C 236
+1948/04/06 | Provinciale Drentsche en Asser courant | p | MMDA03:000130591:mpeg21:a0062 | Onze Korte golf | Drents Archief
+1948/04/06 | Provinciale Drentsche en Asser courant | p | MMDA03:000130593:mpeg21:a0067 | Onze Korte golf | Drents Archief
+1948/05/28 | Opregte Steenwijker courant | p | MMGASL01:000420046:mpeg21:a00014 | VARIA | Gemeentearchief Steenwijkerland
+
+QUERY: "600 metergolf" | collection: DDD_artikel | numberOfRecords: 71 
+1933/02/13 | Leeuwarder nieuwsblad : goedkoop advertentieblad | p1 | ddd:010746081:mpeg21:a0074 | De geworpen bom. Zes maal tevoren gesommeerd. | Tresoar
+1933/02/13 | Nieuwe Tilburgsche Courant | p5 | ddd:010236658:mpeg21:a0091 | De sommaties. | KB C1115
+1933/02/13 | Leeuwarder courant | p1 | ddd:010605751:mpeg21:a0004 | Na zes sommaties viel de bom. | KBDK
+1933/02/13 | Overijsselsch dagblad | p2 | MMKB23:001335094:mpeg21:a00022 | Na de overgave van „De Zeven Provinciën’' De Zeven Provinciën niet ernstig beschadigd. | Historisch Centrum Overijssel
+1933/02/13 | Overijsselsch dagblad | p2 | MMKB23:001335095:mpeg21:a00022 | Na de overgave van „De Zeven Provinciën” De Zeven Provinciën niet ernstig beschadigd. | Historisch Centrum Overijssel
+1936/10/10 | De Gooi- en Eemlander : nieuws- en advertentieblad | p2 | ddd:011172369:mpeg21:a0040 | In zwaar stormweer. | Koninklijke Bibliotheek MM03C-101526
+1937/03/01 | De tribune : soc. dem. weekblad | p6 | ddd:010481726:mpeg21:a0083 | ... En verder | KB C 143
+1933/02/13 | De banier : staatkundig gereformeerd dagblad | p2 | ddd:010853464:mpeg21:a0031 | Binnenland De bedwongen muiterij Acht en twintig Europeesche muiters in arrest | SGP-Bureau
+1933/02/13 | Nieuwe Hengeloosche courant | p2 | MMGAHE01:234838019:mpeg21:a00022 | Het bombardement. | Gemeentearchief Hengelo
+1933/02/13 | Dagblad van Noord-Brabant | p2 | MMKB23:001979011:mpeg21:a00016 | Na de onderdrukking der muiterij. Commandant van het bevel ontheven. Lijst der dooden en g | Tilburg University Library
+1933/02/11 | De standaard | p9 | MMKB23:001908037:mpeg21:a00164 | Laatste Berichten. De overgave van „De Zeven Provinciën". HUT WERPEN VAN DEN BOM. | Universiteitsbibliotheek Vrije Universit
+1937/03/04 | De locomotief | p13 | MMKB23:003479007:mpeg21:a00233 | CONTACT TOT CAIRO. | Universitaire Bibliotheken Leiden
+1933/02/11 | Het volk : dagblad voor de arbeiderspartĳ | p1 | ddd:011117306:mpeg21:a0008 | Heesch Bom de witte vlag? | Koninklijke Bibliotheek NBM Mfm MMK 0033
+1937/02/22 | Leeuwarder nieuwsblad : goedkoop advertentieblad | p1 | ddd:010743776:mpeg21:a0010 | RADIO-VERBINDING MET VLIEGTUIGEN. Nieuwe korte golf-installatie van de Rijksberichtendiens | Tresoar
+1936/10/12 | De tribune : soc. dem. weekblad | p8 | ddd:010482409:mpeg21:a0119 | Met een brandend ruim in een orkaan De kapitein Dan de „Marmx vertelt Het schip te Genua a | KB C 143
+1930/06/25 | Nieuwe provinciale Groninger courant | p1 | MMRHCG04:234995147:mpeg21:a00005 | ENGELAND. | Groninger archieven
+1936/10/10 | Leeuwarder nieuwsblad : goedkoop advertentieblad | p1 | ddd:010743664:mpeg21:a0083 | Ken onderbond met den gezagvoerder. | Tresoar
+1926/08/29 | De avondpost | p2 | MMKB27:017900103:mpeg21:a00036 | RADIO-ALLERLEI | Koninklijke Bibliotheek
+1946/09/23 | Algemeen Dagblad | p5 | MMSARO03:259000122:mpeg21:a00053 | Ons kuststation als politie voor radioverkeer Scheveningen-Radio is een der drukste statio | Stadsarchief Rotterdam
+1921/10/08 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p3 | ddd:010280590:mpeg21:a0021 | Correspondentie van Aruba. De Draadlooze op Aruba. | KB C 251
+1937/02/22 | Nieuwsblad van het Noorden | p10 | ddd:010673425:mpeg21:a0190 | LUCHTVAART De radip-verbinding met vliegtuigen Nieuwe korte golf-installatie van rijksberi | KB C 65
+1936/10/10 | De standaard | p4 | MMKB23:001882009:mpeg21:a00041 | Gemengd Nieuws. De brand op de „Marnix". Een onderhoud met den gezagvoerder. | Universiteitsbibliotheek Vrije Universit
+1937/03/05 | Algemeen handelsblad voor Nederlandsch-Indië | p10 | MMKB19:000472054:mpeg21:a00128 | Radio op de Indië-lijn der K. L. M. | Koninklijke Bibliotheek
+1936/10/12 | Nieuwe Tilburgsche Courant | p5 | ddd:010237668:mpeg21:a0090 | DE „MARNIX" IN VEILIGE HAVEN KAPITEIN POTJER VERTELT VAN DEN BRAND Van paniek-stemming gee | KB C1115
+1936/10/23 | Nieuwe Harlinger courant | p9 | MMTRES04:211324085:mpeg21:a00072 | Spanning op de Noordzee. | Tresoar
+1936/10/10 | De Volkskrant | p8 | MMKB12:000171035:mpeg21:a00088 | De brand op de Marnix van St. Aldegonde Het schip te Genua aangekomen EEN ONDERHOUD MET DE | Koninklijke Bibliotheek
+1932/10/31 | Rotterdamsch nieuwsblad | p18 | MMKB32:164661068:mpeg21:a00177 | Koloniën. | Koninklijke Bibliotheek
+1936/10/10 | Rotterdamsch nieuwsblad | p14 | MMKB32:164685035:mpeg21:a00143 | De brand in de Marnix van St. Aldegonde. | Koninklijke Bibliotheek
+1937/03/03 | Soerabaijasch handelsblad | p2 | ddd:011110385:mpeg21:a0144 | Radin-verbinding met vliegtuigen. Nieuwe korte golf-inetallatie van RijkgberichteiMli«iMt  | Koninklijke Bibliotheek C 64
+1926/08/27 | Het Vaderland : staat- en letterkundig nieuwsblad | p3 | ddd:010010493:mpeg21:a0058 | Een en ander over de ontwikkeling  der zendtechniek.  I. RADIO-NIEUWS | KB NBM C 44 [Microfilm]
+1936/10/20 | De Sumatra post | p5 | ddd:010382510:mpeg21:a0127 | Een onderhoud met den gezagvoerder. | KB 1634 C1
+1936/10/10 | Nieuwsblad van het Noorden | p6 | ddd:010673313:mpeg21:a0199 | De brand op de Marnix van St. Aldegonde Het schip te Genua aangekomen Een onderhoud met de | KB C 65
+1937/02/20 | De avondpost | p6 | MMKB27:017939083:mpeg21:a00076 | LUCHTVAART Radio op de Indië-lijn Nieuwe korte-golfinstallatie van den Rijksberichtendiens | Koninklijke Bibliotheek
+1936/10/10 | De banier : staatkundig gereformeerd dagblad | p4 | ddd:010854925:mpeg21:a0064 | DE BRAND OP DE MARNIX. Het schip te Genua aangekomen. Een onderhoud met den gezagvoerder.  | SGP-Bureau
+1936/10/10 | De Zaanlander | p | MMGAZS01:000148059:mpeg21:a00005 | De Brand op de Marnix van St. Aldegonde. | Gemeentearchief Zaanstad
+1948/10/01 | De Zaanlander | p | MMGAZS01:000107001:mpeg21:a00005 | „Hallo, hier Schevenin gen-Radio!” „Liefste. In volle zee. Denk veel aan je" Noodseinen op | Gemeentearchief Zaanstad
+1930/06/25 | Delftsche courant | p | MMKB08:000075264:mpeg21:a0007 | Telegrammen De „Southern Cross" over den Oceaan. De tocht naar Amerika, met Evert van Dijk | Gemeentearchief Delft
+1936/10/10 | Twentsch dagblad Tubantia en Enschedesche courant | p | MMSAEN01:000053569:mpeg21:a0092 | BINNENLAND. De brand op de Marnix van St. Aldegonde. | Stadsarchief Enschede
+1936/10/10 | Arnhemsche courant | p | MMKB08:000109980:mpeg21:a0095 | GEMENGD NIEUWS BRAND OP HET S.S. „EK". | Koninklijke Bibliotheek
+1936/10/10 | Delftsche courant | p | MMKB08:000077116:mpeg21:a0020 | Gemengd Nieuws De brand op de „Marnix". DANK VAN DE PASSAGIERS. | Gemeentearchief Delft
+1937/02/22 | Nieuwe Venlosche courant | p | MMGAVL01:000016991:mpeg21:a0064 | Radio RADIO-VERBINDING MET VLIEGTUIGEN | Gemeentearchief Venlo
+1933/02/13 | Provinciale Overijsselsche en Zwolsche courant | p | MMHCO01:000086450:mpeg21:a0030 | De Zeven Provinciën Zesmaal gesommeerd. | Historisch Centrum Overijssel
+1936/10/10 | De Tĳd : godsdienstig-staatkundig dagblad | p10 | ddd:010540892:mpeg21:a0199 | Na den brand op de Marnix ONDERHOUD MET DEN KAPITEIN Na de ontdekking van het vuur werden  | KB C 236
+1930/06/25 | De Tĳd : godsdienstig-staatkundig dagblad | p5 | ddd:010532230:mpeg21:a0080 | LUCHTVAART. DE „SOUTHERN CROSS" OP NEW-FOUNDLAND GEDAALD MIST EN BENZINEGEBREK NOOPTEN TOT | KB C 236
+1937/02/20 | De Tĳd : godsdienstig-staatkundig dagblad | p6 | ddd:010538429:mpeg21:a0130 | Radio-verbindingen op de Indië-lijn GROOTE VERBETERING Door de korte-golf zenders blijven  | KB C 236
+1936/10/12 | Limburgsch dagblad | p9 | ddd:010934866:mpeg21:a0179 | DE BRAND OP DE MARNIX VAN ST. ALDEGONDE. Het schip te Genua aangekomen. — Een onderhoud me | Koninklijke Bibliotheek C 101
+1936/10/10 | Nieuwe Haarlemsche courant | p9 | MMNHA03:179118018:mpeg21:a00106 | Na den brand op de Marnix | Noord-Hollands Archief
+1937/02/20 | Nieuwe Haarlemsche courant | p6 | MMNHA03:179168035:mpeg21:a00080 | Radio-verbindingen op de Indië-lijn | Noord-Hollands Archief
+1936/10/12 | Nieuwe Tilburgsche Courant | p5 | ddd:010996606:mpeg21:a0100 | DE „MARNIX” IN VEILIGE HAVEN KAPITEIN POTJER VERTELT VAN DEN BRAND Van paniek-stemming gee | Koninklijke Bibliotheek C1115
+1936/10/12 | De Limburger | p9 | MMKB23:001229085:mpeg21:a00157 | DE BRAND OP DE MARNIX VAN ST. ALDBGONDE. Het schip te Genua aangekomen. Een onderhoud met  | Archief De Domijnen
+
+QUERY: "600-meterband" | collection: DDD_artikel | numberOfRecords: 6 
+1951/11/28 | Het nieuwsblad voor Sumatra | p3 | ddd:010476200:mpeg21:a0073 | Scheveningen-Radio: betrouwbare gids in storm en duisternis | KB C 937
+1951/11/15 | Trouw | p | ABCDDD:010819292:mpeg21:a0009 | VOLGENDE WEEK IN NIEUW TEHUIS Scheveningen Radio: betrouwbare gids in storm en duisternis  | Koninklijke Bibliotheek
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de  | Koninklijk Instituut voor de Tropen (KIT
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1979/09/07 | NRC Handelsblad | p | KBNRC01:000026643:mpeg21:a0115 | Nederlands kuststation schrijft geschiedenis Veiligheid op zee is eerste taak van nu 75-ja | Koninklijke Bibliotheek
+1958/08/27 | Het vrĳe volk : democratisch-socialistisch dagblad | p9 | ddd:010953206:mpeg21:a0206 | ZWARTWATER door H. L. TREDREE | Gemeentearchief Rotterdam
+
+QUERY: noodzender AND date within "1948-01-01 1948-03-31" | collection: DDD_artikel | numberOfRecords: 6 
+1948/02/24 | Het vrĳe volk : democratisch-socialistisch dagblad | p1 | ddd:010949468:mpeg21:a0026 | Dit jaar gevecht om de golflengten | Gemeentearchief Rotterdam
+1948/02/20 | De Gooi- en Eemlander : nieuws- en advertentieblad | p2 | ddd:011173466:mpeg21:a0029 | Frequentie Modulatie Oplossing voor probleem van de golflengten Storingsvrije uitzendingen | Koninklijke Bibliotheek MM03C-101548
+1948/02/10 | De Nederlandsche transportcourant | p4 | MMKB19:003646034:mpeg21:a00032 | SCHEEPVAARTNIEUWS IN HET KORT | Koninklijke Bibliotheek
+1948/02/23 | Nieuwsblad van het Zuiden | p1 | MMKB19:000614045:mpeg21:a00015 | Frequentie modulatie een uitkomst? | Koninklijke Bibliotheek
+1948/02/25 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p3 | MMMHW01:001051024:mpeg21:a00012 | Zelfs de fiscus ... | Museum Hoeksche Waard
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+
+QUERY: kaartenkamer AND dood AND date within "1948-01-01 1948-03-31" | collection: DDD_artikel | numberOfRecords: 1 
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+
+QUERY: "hoofdmachinist dood" | collection: DDD_artikel | numberOfRecords: 1 
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+
+QUERY: "muiterij op de bounty" AND date within "1947-01-01 1949-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: bounty AND medan | collection: DDD_artikel | numberOfRecords: 99 
+1936/08/03 | De Sumatra post | p7 | ddd:010384002:mpeg21:a0042 | Advertentie | KB 1634 C1
+1936/07/30 | De Sumatra post | p3 | ddd:010383999:mpeg21:a0030 | Advertentie | KB 1634 C1
+1936/08/06 | De Sumatra post | p16 | ddd:010384005:mpeg21:a0043 | Advertentie | KB 1634 C1
+1950/07/29 | Het nieuwsblad voor Sumatra | p2 | ddd:010476494:mpeg21:a0023 | Films te Medan Zaterdag 29 Juli | KB C 937
+1950/08/03 | Het nieuwsblad voor Sumatra | p2 | ddd:010476498:mpeg21:a0046 | Films te Medan Donderdag 3 Aug. | KB C 937
+1950/08/01 | Het nieuwsblad voor Sumatra | p2 | ddd:010476496:mpeg21:a0039 | Films te Medan Dinsdag 1 Augustus | KB C 937
+1950/07/31 | Het nieuwsblad voor Sumatra | p2 | ddd:010476495:mpeg21:a0032 | Films te Medan Maandag 31 Juli. | KB C 937
+1950/08/04 | Het nieuwsblad voor Sumatra | p2 | ddd:010476499:mpeg21:a0048 | Films te Medan Vrijdag 4 Aug. | KB C 937
+1937/07/29 | Deli courant | p8 | MMKB15:000122025:mpeg21:a00044 | Advertentie | Koninklijke Bibliotheek
+1950/07/28 | Het nieuwsblad voor Sumatra | p4 | ddd:010476493:mpeg21:a0044 | Advertentie | KB C 937
+1950/07/28 | Het nieuwsblad voor Sumatra | p2 | ddd:010476493:mpeg21:a0030 | Films te Medan Vrijdag 28 Juli | KB C 937
+1936/07/11 | De Sumatra post | p14 | ddd:010383983:mpeg21:a0066 | Advertentie | KB 1634 C1
+1937/07/29 | De Sumatra post | p8 | ddd:010382131:mpeg21:a0040 | Advertentie | KB 1634 C1
+1937/07/21 | De Sumatra post | p8 | ddd:010382124:mpeg21:a0033 | Advertentie | KB 1634 C1
+1936/09/05 | Deli courant | p11 | MMKB15:000134057:mpeg21:a00069 | AGENDA | Koninklijke Bibliotheek
+1936/08/01 | Deli courant | p11 | MMKB15:000134028:mpeg21:a00075 | AGENDA | Koninklijke Bibliotheek
+1939/08/11 | Deli courant | p8 | MMKB15:000130035:mpeg21:a00051 | Advertentie | Koninklijke Bibliotheek
+1939/01/06 | Deli courant | p28 | MMKB15:000136005:mpeg21:a00169 | Advertentie | Koninklijke Bibliotheek
+1937/07/21 | Deli courant | p8 | MMKB15:000122018:mpeg21:a00057 | Advertentie | Koninklijke Bibliotheek
+1936/07/31 | Deli courant | p8 | MMKB15:000134027:mpeg21:a00042 | Advertentie | Koninklijke Bibliotheek
+1957/01/04 | De Gooi- en Eemlander | p4 | MMGAGM01:234892003:mpeg21:a00070 | Het tweede in ons land Zelf koken in motel bij rotonde-Breda | Gemeentearchief Gooise Meren en Huizen
+1952/06/09 | Het nieuwsblad voor Sumatra | p4 | ddd:010476653:mpeg21:a0083 | FILMS TE MEDAN Maandag, 9 Juni | KB C 937
+1936/04/25 | Deli courant | p2 | MMKB15:000126020:mpeg21:a00006 | DELI BIOSCOOP | Koninklijke Bibliotheek
+1939/01/05 | Deli courant | p8 | MMKB15:000136004:mpeg21:a00060 | Advertentie | Koninklijke Bibliotheek
+1937/07/19 | Deli courant | p8 | MMKB15:000122016:mpeg21:a00047 | Advertentie | Koninklijke Bibliotheek
+1937/07/19 | De Sumatra post | p8 | ddd:010382122:mpeg21:a0031 | Advertentie | KB 1634 C1
+1939/08/11 | De Sumatra post | p8 | ddd:010382969:mpeg21:a0030 | Advertentie | KB 1634 C1
+1954/01/13 | Java-bode : nieuws, handels- en advertentieblad voor Nederlandsch-Indie | p3 | ddd:010861698:mpeg21:a0066 | Advertentie | Koninklijk Instituut voor de Tropen (KIT
+1929/03/27 | De Sumatra post | p6 | ddd:010970401:mpeg21:a0027 | Advertentie | Koninklijke Bibliotheek 1634 C1
+1949/01/18 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235026014:mpeg21:a00046 | Waar zijn onze schepen? | Groninger archieven
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1936/12/19 | De Sumatra post | p8 | ddd:010382561:mpeg21:a0051 | Advertentie | KB 1634 C1
+1929/03/25 | De Sumatra post | p2 | ddd:010970399:mpeg21:a0150 | Advertentie | Koninklijke Bibliotheek 1634 C1
+1939/01/07 | De Sumatra post | p8 | ddd:010382575:mpeg21:a0051 | Advertentie | KB 1634 C1
+1937/07/22 | Deli courant | p8 | MMKB15:000122019:mpeg21:a00051 | Advertentie | Koninklijke Bibliotheek
+1933/03/24 | La gazette de Hollande | p4 | MMKB19:000922114:mpeg21:a00017 | Medant the Capital of Deli. | Koninklijke Bibliotheek
+1936/09/25 | Deli courant | p8 | MMKB15:000134073:mpeg21:a00045 | Advertentie | Koninklijke Bibliotheek
+1936/10/15 | Deli courant | p8 | MMKB15:000129013:mpeg21:a00045 | Advertentie | Koninklijke Bibliotheek
+1936/10/16 | Deli courant | p8 | MMKB15:000129014:mpeg21:a00046 | Advertentie | Koninklijke Bibliotheek
+1940/09/23 | De Sumatra post | p8 | ddd:011177273:mpeg21:a0037 | Advertentie | Koninklijk Instituut voor de Tropen (KIT
+1937/01/06 | Bataviaasch nieuwsblad | p8 | ddd:011074518:mpeg21:a0084 | Advertentie | Koninklijke Bibliotheek C 96
+1936/12/14 | De Sumatra post | p8 | ddd:010382557:mpeg21:a0059 | Advertentie | KB 1634 C1
+1936/12/22 | De Sumatra post | p13 | ddd:010382563:mpeg21:a0055 | Advertentie | KB 1634 C1
+1936/12/12 | De Sumatra post | p8 | ddd:010382556:mpeg21:a0061 | Advertentie | KB 1634 C1
+1939/08/12 | De Sumatra post | p8 | ddd:010382970:mpeg21:a0041 | Advertentie | KB 1634 C1
+1939/01/13 | De Sumatra post | p8 | ddd:010382580:mpeg21:a0034 | Advertentie | KB 1634 C1
+1939/08/02 | De Sumatra post | p8 | ddd:010382962:mpeg21:a0029 | Advertentie | KB 1634 C1
+1954/02/13 | De nieuwsgier | p2 | ddd:010477968:mpeg21:a0034 | Film De maatschappij met de leeuw bestaat dertig jaar | KB C 244
+1949/01/24 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235026019:mpeg21:a00052 | Waar zijn onze schepen ? | Groninger archieven
+1947/12/22 | Nieuwe provinciale Groninger courant | p3 | MMRHCG04:235023149:mpeg21:a00049 | Waar zijn onze scha pen? | Groninger archieven
+
+QUERY: titanic AND medan AND date within "1947-01-01 1949-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: marshalleilanden AND date within "1948-01-01 1948-04-30" | collection: DDD_artikel | numberOfRecords: 5 
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0042 | Einde | Koninklijk Instituut voor de Tropen (KIT
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1948/03/27 | De Tĳd : godsdienstig-staatkundig dagblad | p1 | ddd:011201066:mpeg21:a0011 | AMERIKA heeft bases nodig, „dichter bij de vijand", De wijzigingen in de sterkte van Ameri | Koninklijke Bibliotheek C 236
+1948/03/27 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179234074:mpeg21:a00042 | AMERIKA WENST „BASES, DIE DICHTER BIJ DE VIJAND LIGGEN” Wijzigingen in de sterkte van Amer | Noord-Hollands Archief
+1948/04/17 | Het Parool | p | ABCDDD:010830910:mpeg21:a0179 | Interessante proeven | Koninklijke Bibliotheek
+
+QUERY: "elsevier" AND weekblad AND schip AND date within "1948-01-01 1948-02-29" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: schutzwald | collection: DDD_artikel | numberOfRecords: 15 
+1938/09/15 | Soerabaijasch handelsblad | p9 | ddd:011121148:mpeg21:a0161 | Het Djatibedrijf in de Residentie Madioen I. Een der belangrijkste op Java Afzetgebied in  | Koninklijke Bibliotheek C 64
+1938/09/19 | De Indische courant | pIII | ddd:010286354:mpeg21:a0275 | HET DJATIBEDRIJF IN DE RESIDENTIE MADIOEN. (Van onsen correspondent te Malang.) I Een der  | KB C 248
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0036 | Mysterie der „Ourang Medan” De Dodelijke Zwavelzuur-Gassen Doortrokken het Gehele Schip Fa | Koninklijk Instituut voor de Tropen (KIT
+1913/09/13 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p4 | ddd:010280298:mpeg21:a0026 | Advertentie | KB C 251
+1930/04/09 | Arnhemsche courant | p | MMKB08:000108197:mpeg21:a0036 | KRABBELS UIT ZWITSERLAND No. 126. | Koninklijke Bibliotheek
+1930/03/29 | Provinciale Noordbrabantsche en 's Hertogenbossche courant | p | MMSADB01:000016076:mpeg21:a0085 | Krabbels uit Zwitserland. | Stadsarchief 's-Hertogenbosch
+1926/08/11 | Zutphensche courant | p | MMRAZ02:000421036:mpeg21:a00005 | GEMENGD NIEUWS | Regionaal Archief Zutphen
+1930/03/22 | Zutphensche courant | p | MMRAZ02:000426069:mpeg21:a00084 | Krabbels uit Zwitserland, | Regionaal Archief Zutphen
+1951/01/26 | De Maasbode | p3 | MMKB15:000561022:mpeg21:a00029 | Tragedie na tragedie schokte | Koninklijke Bibliotheek
+1942/07/01 | Deutsche Zeitung in den Niederlanden | p6 | ddd:011120090:mpeg21:a0101 | Wirtschaft und Arbeit Vor einer Neuordnung: Forstaufsicht Von Oberforstmeister Hagemann | Koninklijke Bibliotheek NBM MFM MMK 0001
+1936/11/28 | Bredasche courant | p | MMSAB03:000066608:mpeg21:a0001 | HET BOSCH In het Volkshuishouden van den Staat | Stadsarchief Breda
+1916/11/22 | De Sumatra post | p | KBDDD02:000197498:mpeg21:a0058 | Uit 't Moederland. Nederland let op uw Bosschen! | Koninklijke Bibliotheek
+1930/03/25 | Provinciale Geldersche en Nijmeegsche courant | p | MMRANM02:000027171:mpeg21:a0042 | Krabbels uit Zwitserland. No. 126. | Regionaal Archief Nijmegen
+1930/03/21 | Leeuwarder courant | p9 | ddd:010604869:mpeg21:a0138 | Krabbels uit Zwitserland. ZONDEN EN PLAGEN. | KBDK
+1913/09/26 | Algemeen Handelsblad | p1 | ddd:010651320:mpeg21:a0001 | Het aangezicht des lands. | KB C 21
+
+QUERY: "alfred schutzwald" | collection: DDD_artikel | numberOfRecords: 1 
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0036 | Mysterie der „Ourang Medan” De Dodelijke Zwavelzuur-Gassen Doortrokken het Gehele Schip Fa | Koninklijk Instituut voor de Tropen (KIT
+
+QUERY: tcangi OR taongi | collection: DDD_artikel | numberOfRecords: 14 
+1882/08/14 | Soerabaijasch handelsblad | p2 | ddd:011086355:mpeg21:a0008 | Wetenschappelijke Mededeelingen. DOOR EEN PHARMACEUT. Gedaan aan het Soer. H.B. | Koninklijke Bibliotheek C 64
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1944/01/29 | Deutsche Zeitung in den Niederlanden | p3 | ddd:011120623:mpeg21:a0065 | Japans Reich in der Südsee Eckpfeiler, Forts und Bastionen im Pazifik | Koninklijke Bibliotheek NBM Mfm MMK 0001
+1935/02/19 | Bildtsche courant | p4 | MMTRES04:211356014:mpeg21:a00021 | FEUILLETON Het Eiland zonder geheimen | Tresoar
+1989/07/18 | Limburgsch dagblad | p8 | ddd:010624262:mpeg21:a0138 | WASBE-noten door jos frusch | KB C 101
+2002/05/16 | Algemeen Dagblad | p | KBPERS01:003195013:mpeg21:a00277 | Internetbedrog met niet bestaande staat | Koninklijke Bibliotheek
+1888/06/25 | Bataviaasch nieuwsblad | p6 | ddd:110617408:mpeg21:a0036 | PATCHOULY. | Koninklijke Bibliotheek C 96
+1935/03/12 | Bildtsche courant | p4 | MMTRES04:211356020:mpeg21:a00023 | FEUILLETON Het Eiland zonder geheimen | Tresoar
+1935/02/26 | Bildtsche courant | p4 | MMTRES04:211356016:mpeg21:a00024 | FEUILLETON Het Eiland zonder geheimen | Tresoar
+1948/11/19 | Het Rotterdamsch parool | p2 | MMSARO02:164871120:mpeg21:a00040 | SCHEEPVAART | Stadsarchief Rotterdam
+1938/12/16 | Bataviaasch nieuwsblad | p7 | ddd:010864005:mpeg21:a0164 | Beuts te Batavia | Koninklijk Instituut voor de Tropen (KIT
+1949/04/14 | Het Rotterdamsch parool | p2 | MMSARO02:164872088:mpeg21:a00045 | SCHEEPVAART | Stadsarchief Rotterdam
+1908/08/27 | Soerabaijasch handelsblad | p1 | ddd:011089019:mpeg21:a0030 | Nederlandsch-Indië. SOERABAJA, 27 Augustus 1908. Sluiting der Mails te Soerabaja. | Koninklijke Bibliotheek C 64
+1908/02/22 | Soerabaijasch handelsblad | p1 | ddd:011088864:mpeg21:a0029 | De kwestie Zuur. Geachte heer Redacteur! | Koninklijke Bibliotheek C 64
+
+QUERY: franciscaner AND missionaris AND marshall AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: nitro-glycerine AND zwavelzuur AND schip AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 2 
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0037 | De lading | Koninklijk Instituut voor de Tropen (KIT
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0036 | Mysterie der „Ourang Medan” De Dodelijke Zwavelzuur-Gassen Doortrokken het Gehele Schip Fa | Koninklijk Instituut voor de Tropen (KIT
+

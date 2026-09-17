@@ -1,0 +1,94 @@
+QUERY: silverstar AND date within "1946-01-01 1950-12-31" | total 76 | showing years 1946-1950
+  1947/08/04 | Algemeen Dagblad | p4 | MMSARO03:259003030:mpeg21:a00084 | — Abbedijk, 2 te Antwerpen v. Londen:
+  1949/06/15 | De Noord-Ooster | p | MMVEEN01:000084666:mpeg21:a0037 | SCHIP VOOR AMMAN IN EGYPTE VASTGEHOUDEN
+  1949/06/15 | De Tĳd : godsdienstig-staatkundig dagblad | p2 | ddd:011199652:mpeg21:a0055 | Besprekingen Syrië— Israël verbroken
+  1947/08/28 | De Nederlandsche transportcourant | p3 | MMKB19:000824197:mpeg21:a00041 | Te Rotterdam verwacht
+  1947/09/19 | De Nederlander | p4 | MMKB19:000080069:mpeg21:a00039 | Scheepvaart
+  1949/06/15 | Nieuwe provinciale Groninger courant | p2 | MMRHCG04:235026137:mpeg21:a00031 | Krotenbondig
+  1947/04/26 | Gazet van Limburg | p2 | MMCC01:048012022:mpeg21:a00019 | Van de sintels naar de grasmat. Internationale courses te Mechelen
+  1949/06/15 | De Maasbode | p2 | MMKB15:000556138:mpeg21:a00012 | Muur stortte ’s nachts in
+  1947/08/13 | De waarheid | p4 | ddd:010852063:mpeg21:a0087 | BERICHTEN. VAN ELDERS
+  1949/05/02 | Provinciale Overijsselsche en Zwolsche courant | p5 | MMHCO02:163848101:mpeg21:a00077 | Wat geeft onze luidspreker?
+  1948/08/24 | Dagblad voor Noord-Limburg | p2 | MMCC02:211143063:mpeg21:a00026 | VOLBLOEDWEDSTRIJDEN TE VENRAY
+  1947/08/04 | Algemeen Handelsblad | p | KBNRC01:000061990:mpeg21:a0077 | SCHEEPSTIJDINGEN
+  1947/09/05 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179232057:mpeg21:a00077 | Scheepvaartberichten
+  1947/09/05 | De waarheid | p2 | ddd:010852082:mpeg21:a0044 | BERICHTEN VAN ELDERS
+  1949/08/15 | Het Rotterdamsch parool | p2 | MMSARO02:164873039:mpeg21:a00037 | SCHEEPVAART
+  1947/08/08 | Algemeen Handelsblad | p | KBNRC01:000061995:mpeg21:a0048 | SCHEEPSTIJDINGEN
+  1947/08/13 | De tĳd : dagblad voor Nederland | p2 | ddd:011201182:mpeg21:a0062 | Scheepvaartberichten
+  1947/08/08 | De tĳd : dagblad voor Nederland | p2 | ddd:011201178:mpeg21:a0048 | Scheepvaartberichten
+  1949/08/11 | Het Rotterdamsch parool | p5 | MMSARO02:164873036:mpeg21:a00080 | Journaal
+  1947/08/14 | Algemeen Dagblad | p2 | MMSARO03:259003039:mpeg21:a00043 | Scheepvaart
+  1947/09/06 | Algemeen Dagblad | p4 | MMSARO03:259003058:mpeg21:a00090 | BEWEGINGEN VAN ZEESCHEPEN
+  1947/08/09 | Bredasche courant | p | MMSAB03:000068141:mpeg21:a0054 | SCHEEPVAART GEREGELDE LIJNEN
+  1947/09/17 | De Maasbode | p3 | MMKB15:000549066:mpeg21:a00029 | COLLECTE VOOR BRABANTSE BRANDRAMPEN
+  1947/08/13 | Het Rotterdamsch parool | p2 | MMSARO02:164869038:mpeg21:a00047 | SCHEEPVAART
+  1947/08/08 | Het Rotterdamsch parool | p2 | MMSARO02:164869034:mpeg21:a00048 | SCHEEPVAART
+  1947/08/05 | Het Rotterdamsch parool | p2 | MMSARO02:164869031:mpeg21:a00044 | SCHEEPVAART
+  1947/08/09 | Algemeen Dagblad | p2 | MMSARO03:259003035:mpeg21:a00043 | BEWE GINGEN VAN ZEESCHEPEN
+  1947/09/18 | Algemeen Dagblad | p4 | MMSARO03:259003068:mpeg21:a00078 | Scheepvaart
+  1947/08/14 | Bredasche courant | p | MMSAB03:000068147:mpeg21:a0073 | SCHEEPVAART GEREGELDE LIJNEN
+  1947/08/04 | De Maasbode | p3 | MMKB15:000549030:mpeg21:a00030 | HET SPAREN IN JUNI Stijgende tendens. .
+  1947/08/02 | De Maasbode | p5 | MMKB15:000549029:mpeg21:a00056 | Nieuws uit Haarlem
+  1948/08/12 | Provinciale Overijsselsche en Zwolsche courant | p4 | MMHCO02:163847038:mpeg21:a00049 | Hoogtijdag inde wereld van het paard Uitzonderlijk goed concours-hippique te Zwolle
+  1948/08/10 | Gazet van Limburg | p2 | MMCC01:048017034:mpeg21:a00045 | Olympisch spelem ' 48 Op Herne Hill werd Hijzeldoorn uitgeschakeld. HARRIS EN CHELLA iN DE
+  1949/08/18 | Bredasche courant | p | MMSAB03:000069106:mpeg21:a0073 | SCHEEPVAART
+  1947/09/06 | Bredasche courant | p | MMSAB03:000068171:mpeg21:a0110 | SCHEEPVAART GEREGELDE LIJNEN
+  1947/09/18 | Bredasche courant | p | MMSAB03:000068182:mpeg21:a0070 | SCHEEPVAART
+  1947/09/11 | De Nederlandsche transportcourant | p3 | MMKB19:000824208:mpeg21:a00051 | Is een prijsverhoging van ruwe olie aan de bron te verwachten ?
+  1947/09/18 | De Nederlandsche transportcourant | p3 | MMKB19:000824214:mpeg21:a00030 | Volledige en bijzonderheden van vele bevrachtingen nu bekend gemaakt
+  1947/08/13 | De Maasbode | p3 | MMKB15:000549038:mpeg21:a00034 | Financiën
+  1949/07/26 | De Maasbode | p5 | MMKB15:000557022:mpeg21:a00060 | Suikeronderneming Sindangr Laoet
+  1949/09/22 | Algemeen Dagblad | p4 | MMSARO03:259007072:mpeg21:a00059 | Scheepvaart
+  1949/08/17 | Algemeen Dagblad | p2 | MMSARO03:259007041:mpeg21:a00033 | Scheepvaart
+  1949/08/15 | Algemeen Dagblad | p6 | MMSARO03:259007039:mpeg21:a00104 | Scheepvaart
+  1947/08/05 | Bredasche courant | p | MMSAB03:000068134:mpeg21:a0085 | SCHEEPVAART
+  1947/09/18 | De Nederlandsche transportcourant | p3 | MMKB19:000824214:mpeg21:a00029 | SCHEEPSTIJDINGEN
+  1947/08/14 | De Nederlandsche transportcourant | p3 | MMKB19:000824185:mpeg21:a00039 | SCHEEPSTIJDINGEN
+  1947/09/05 | De Maasbode | p5 | MMKB15:000549056:mpeg21:a00038 | LAATSTE BERICHTEN
+  1949/08/10 | De Maasbode | p3 | MMKB15:000557035:mpeg21:a00037 | Financiën
+  1949/09/19 | Het Rotterdamsch parool | p7 | MMSARO02:164873069:mpeg21:a00095 | SCHEEPVAART
+  1949/08/12 | Het Rotterdamsch parool | p5 | MMSARO02:164873037:mpeg21:a00081 | SCHEEPVAART
+  1949/08/17 | Het Rotterdamsch parool | p4 | MMSARO02:164873041:mpeg21:a00085 | SCHEEPVAART
+  1949/09/21 | Het Rotterdamsch parool | p3 | MMSARO02:164873071:mpeg21:a00046 | SCHEEPVAART
+  1947/09/05 | Algemeen Handelsblad | p | KBNRC01:000062018:mpeg21:a0034 | De Amerikaanse lening aan Luxemburg EEN INTERVIEW MET PIERRE WERNER
+  1949/09/21 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010950202:mpeg21:a0119 | Scheepvaartberichten
+  1947/08/16 | De Nederlandsche transportcourant | p3 | MMKB19:000824187:mpeg21:a00053 | SCHEEPSTIJDINGEN
+  1947/08/12 | De Nederlandsche transportcourant | p3 | MMKB19:000824183:mpeg21:a00038 | SCHEEPSTIJDINGEN
+  1947/08/30 | De Nederlandsche transportcourant | p3 | MMKB19:000824199:mpeg21:a00038 | SCHEEPSTIJDINGEN
+  1947/08/26 | De Nederlandsche transportcourant | p3 | MMKB19:000824195:mpeg21:a00040 | SCHEEPSTIJDINGEN
+  1947/08/23 | De Nederlandsche transportcourant | p3 | MMKB19:000824193:mpeg21:a00035 | SCHEEPSTIJDINGEN
+  1947/08/09 | De Nederlandsche transportcourant | p3 | MMKB19:000824181:mpeg21:a00046 | SCHEEPSTIJDINGEN
+  1947/09/20 | De Nederlandsche transportcourant | p3 | MMKB19:000824216:mpeg21:a00025 | SCHEEPSTIJDINGEN
+  1947/09/13 | De Nederlandsche transportcourant | p3 | MMKB19:000824210:mpeg21:a00030 | SCHEEPSTIJDINGEN
+  1947/09/06 | De Nederlandsche transportcourant | p3 | MMKB19:000824204:mpeg21:a00035 | SCHEEPSTIJDINGEN
+  1947/09/04 | De Nederlandsche transportcourant | p3 | MMKB19:000824202:mpeg21:a00041 | SCHEEPSTIJDINGEN
+  1947/09/02 | De Nederlandsche transportcourant | p3 | MMKB19:000824200:mpeg21:a00038 | SCHEEPSTIJDINGEN
+  -> 76 in range
+QUERY: lijken AND schip AND drijvend AND aangetroffen AND date within "1947-06-01 1948-06-30" | total 0 | showing years 1947-1948
+  -> 0 in range
+QUERY: onbemand AND schip AND aangetroffen AND date within "1947-06-01 1948-06-30" | total 1 | showing years 1947-1948
+  1948/02/10 | Harlinger courant | p2 | MMTRES04:211345012:mpeg21:a00007 | TERSCHELLING.
+  -> 1 in range
+QUERY: malakka AND straat AND (wrak OR drijvend OR lijken OR ontploffing OR explosie) AND date within "1947-06-01 1948-06-30" | total 16 | showing years 1947-1948
+  1948/03/09 | Nieuwsblad van het Zuiden | p3 | MMKB19:000614058:mpeg21:a00042 | De wereld rond
+  1948/03/09 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p1 | MMRAZ03:179293058:mpeg21:a00023 | NIEUWS IN FLITSEN
+  1948/03/09 | Deventer dagblad | p1 | MMHCO02:163894058:mpeg21:a00023 | NIEUWS IN FLITSEN
+  1947/07/26 | Ons Noorden | p2 | MMRHCG04:235371173:mpeg21:a00021 | REPUBLIJKFINSE BERICHTEN. Zware gevechten in alle gebieden
+  1947/07/04 | De Maasbode | p1 | MMKB15:000549004:mpeg21:a00006 | „DE DEUR BLIJFT OPEN”
+  1948/03/10 | Nieuwe Winterswijksche courant | p1 | MMECAL02:180035030:mpeg21:a00001 | ’s Lands wijs
+  1948/02/02 | Bredasche courant | p | MMSAB03:000068239:mpeg21:a0069 | SCHEEPVAART
+  1948/01/14 | De Maasbode | p3 | MMKB15:000554011:mpeg21:a00036 | Financiën
+  1948/01/14 | De Nederlandsche transportcourant | p2 | MMKB19:003646011:mpeg21:a00015 | SCHEEPSTIJDINGEN
+  1948/02/27 | De Nederlander | p4 | MMKB19:000082049:mpeg21:a00037 | Zes Jaar Geleden Ging Eskade Doorman Ten Onder In Java-Zee
+  1948/01/31 | De Nederlandsche transportcourant | p2 | MMKB19:003646026:mpeg21:a00030 | HANDELSBERICHTEN
+  1948/01/02 | De Nederlandsche transportcourant | p3 | MMKB19:003646001:mpeg21:a00030 | SCHEEPSTIJDINGEN
+  1948/01/15 | De Nederlandsche transportcourant | p4 | MMKB19:003646012:mpeg21:a00035 | SCHEEPSTIJDINGEN
+  1947/07/23 | De Nederlandsche transportcourant | p2 | MMKB19:000824166:mpeg21:a00020 | SCHEEPSTIJDINGEN
+  1947/06/23 | De Nederlandsche transportcourant | p2 | MMKB19:000824141:mpeg21:a00030 | SCHEEPSTIJDINGEN
+  1948/04/24 | De Nederlandsche transportcourant | p3 | MMKB19:003646096:mpeg21:a00038 | SCHEEPSTIJDINGEN
+  -> 16 in range
+QUERY: medan AND schip AND (gezonken OR vergaan OR ontploffing) AND date within "1947-06-01 1947-12-31" | total 2 | showing years 1947-1947
+  1947/07/29 | Nieuwsblad van het Zuiden | p1 | MMKB19:000607025:mpeg21:a00002 | VOORTGEZETTE OPMARS
+  1947/09/15 | Nieuwe Vlaardingsche courant | p | MMSAVL02:000459110:mpeg21:a00001 | De textielpunten worden soepel verdeeld
+  -> 2 in range

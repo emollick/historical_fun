@@ -1,0 +1,40 @@
+ad_bonduca_1696                orig=FL scenes= 6 mean ret4=0.26 P(orig)=0.61 delta-correct=0.83
+ad_caius_marius_1680           orig=SH scenes=14 mean ret4=0.09 P(orig)=0.80 delta-correct=0.64
+ad_chances_1682                orig=FL scenes=28 mean ret4=0.50 P(orig)=0.88 delta-correct=1.00
+ad_coriolanus_1682             orig=SH scenes=10 mean ret4=0.23 P(orig)=0.90 delta-correct=0.90
+ad_hamlet_1676                 orig=SH scenes= 5 mean ret4=0.60 P(orig)=1.00 delta-correct=1.00
+ad_henry4_1700                 orig=SH scenes=17 mean ret4=0.81 P(orig)=0.98 delta-correct=0.88
+ad_henry6_1681                 orig=SH scenes= 7 mean ret4=0.11 P(orig)=0.96 delta-correct=1.00
+ad_humorous_lieutenant_1697    orig=FL scenes=25 mean ret4=0.84 P(orig)=0.98 delta-correct=1.00
+ad_injured_princess_1682       orig=SH scenes=13 mean ret4=0.10 P(orig)=0.91 delta-correct=0.92
+ad_island_princess_1669        orig=FL scenes= 5 mean ret4=0.70 P(orig)=0.98 delta-correct=1.00
+ad_island_princess_1687        orig=FL scenes=12 mean ret4=0.40 P(orig)=0.75 delta-correct=1.00
+ad_island_princess_1699        orig=FL scenes=14 mean ret4=0.09 P(orig)=0.65 delta-correct=0.79
+ad_julius_caesar_1684          orig=SH scenes= 5 mean ret4=0.86 P(orig)=0.99 delta-correct=1.00
+ad_lear_1681                   orig=SH scenes= 5 mean ret4=0.19 P(orig)=0.95 delta-correct=1.00
+ad_loyal_subject_1700          orig=FL scenes=28 mean ret4=0.85 P(orig)=0.99 delta-correct=1.00
+ad_macbeth_1674                orig=SH scenes= 9 mean ret4=0.20 P(orig)=0.80 delta-correct=0.78
+ad_measure_1700                orig=SH scenes= 8 mean ret4=0.09 P(orig)=0.82 delta-correct=0.88
+ad_misery_civil_war_1680       orig=SH scenes= 6 mean ret4=0.01 P(orig)=0.94 delta-correct=1.00
+ad_pilgrim_1700                orig=FL scenes= 6 mean ret4=0.20 P(orig)=0.88 delta-correct=1.00
+ad_richard2_1681               orig=SH scenes=17 mean ret4=0.18 P(orig)=0.99 delta-correct=1.00
+ad_rule_a_wife_1697            orig=FL scenes= 5 mean ret4=0.80 P(orig)=0.99 delta-correct=1.00
+ad_sauny_scot_1698             orig=SH scenes= 5 mean ret4=0.07 P(orig)=0.38 delta-correct=0.00
+ad_sham_lawyer_1697            orig=FL scenes= 5 mean ret4=0.00 P(orig)=0.31 delta-correct=1.00
+ad_tempest_1670                orig=SH scenes= 5 mean ret4=0.10 P(orig)=0.85 delta-correct=0.40
+ad_tempest_opera_1756          orig=SH scenes=20 mean ret4=0.24 P(orig)=0.87 delta-correct=0.80
+ad_timon_1678                  orig=SH scenes= 5 mean ret4=0.07 P(orig)=0.88 delta-correct=0.80
+ad_timon_1772                  orig=SH scenes=21 mean ret4=0.32 P(orig)=0.88 delta-correct=0.76
+ad_titus_1687                  orig=SH scenes= 7 mean ret4=0.36 P(orig)=0.95 delta-correct=1.00
+ad_trick_for_trick_1678        orig=FL scenes= 6 mean ret4=0.09 P(orig)=0.69 delta-correct=1.00
+ad_troilus_1679                orig=SH scenes=11 mean ret4=0.13 P(orig)=0.93 delta-correct=0.82
+ad_unhappy_kindness_1697       orig=FL scenes= 5 mean ret4=0.27 P(orig)=0.52 delta-correct=0.60
+ad_valentinian_1685            orig=FL scenes=14 mean ret4=0.33 P(orig)=0.56 delta-correct=0.71
+
+retention bin -> mean P(orig author) [svm], share delta-correct, n scenes
+[0.00,0.05) P(orig)=0.68 delta-correct=0.80 n=60
+[0.05,0.15) P(orig)=0.81 delta-correct=0.78 n=60
+[0.15,0.30) P(orig)=0.89 delta-correct=0.92 n=51
+[0.30,0.50) P(orig)=0.83 delta-correct=0.93 n=29
+[0.50,0.70) P(orig)=0.95 delta-correct=1.00 n=21
+[0.70,1.01) P(orig)=0.98 delta-correct=0.98 n=88

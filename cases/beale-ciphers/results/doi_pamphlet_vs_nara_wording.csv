@@ -1,0 +1,29 @@
+op,pamphlet_from,pamphlet_to,pamphlet_words,nara_from,nara_to,nara_words,context_pamphlet
+replace,95,95,inalienable,95,95,unalienable,creator with certain [inalienable] rights that among
+replace,111,111,their,111,111,these,that to secure [their] rights governments are
+replace,129,129,when,129,129,whenever,the governed that [when] any form of
+delete,155,155,a,155,154,,and to institute [a] new government laying
+replace,206,206,shown,205,205,shewn,all experience hath [shown] that mankind are
+replace,210,210,now,209,209,more,that mankind are [now] disposed to suffer
+replace,415,415,their,414,414,the,people would relinquish [their] right of representation
+replace,446,446,depositary,445,445,depository,distant from the [depositary] of their public
+replace,520,520,meantime,519,520,mean time,remaining in the [meantime] exposed to all
+replace,525,525,danger,525,525,dangers,to all the [danger] of invasion from
+replace,535,535,endeavored,535,535,endeavoured,within he has [endeavored] to prevent the
+replace,549,549,of,549,549,for,obstructing the laws [of] naturalization of foreigners
+replace,560,560,migration,560,560,migrations,to encourage their [migration] hither and raising
+replace,626,626,harass,626,626,harrass,of officers to [harass] our people and
+replace,650,650,legislature,650,650,legislatures,consent of our [legislature] he has offered
+replace,653,653,offered,653,653,affected,legislature he has [offered] to render the
+replace,779,779,neighboring,779,779,neighbouring,laws in a [neighboring] province establishing therein
+replace,808,808,in,808,808,into,same absolute rule [in] these colonies for
+replace,825,825,powers,825,825,forms,altering fundamentally the [powers] of our governments
+replace,895,895,complete,895,895,compleat,foreign mercenaries to [complete] the works of
+delete,909,909,and,909,908,,circumstances of cruelty [and] perfidy scarcely paralleled
+replace,970,970,endeavored,969,969,endeavoured,us and has [endeavored] to bring on
+replace,1055,1055,attention,1054,1054,attentions,been wanting in [attention] to our british
+replace,1058,1058,british,1057,1057,brittish,attention to our [british] brethren we have
+delete,1070,1070,made,1069,1068,,time of attempts [made] by their legislature
+replace,1124,1124,connection,1122,1122,connections,inevitably interrupt our [connection] and correspondence they
+insert,1138,1137,,1136,1136,of,of justice and [] consanguinity we must
+delete,1200,1200,the,1199,1198,,name and by [the] authority of the

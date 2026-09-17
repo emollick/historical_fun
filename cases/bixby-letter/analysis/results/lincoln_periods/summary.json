@@ -1,0 +1,591 @@
+{
+ "loo_pre1860": {
+  "c3": {
+   "lincoln_pre1860": {
+    "lincoln_war_own": 3,
+    "lincoln_pre1860": 361,
+    "tie": 13
+   }
+  },
+  "c4": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 376,
+    "tie": 1
+   }
+  },
+  "c5": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c6": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c7": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c8": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c9": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c10": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c11": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c12": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c13": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c14": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c15": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "c16": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "w1": {
+   "lincoln_pre1860": {
+    "lincoln_war_own": 1,
+    "lincoln_pre1860": 375,
+    "tie": 1
+   }
+  },
+  "w2": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "w3": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  },
+  "vote_c4-10": {
+   "lincoln_pre1860": {
+    "lincoln_pre1860": 377
+   }
+  }
+ },
+ "loo_war_own": {
+  "c3": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 506,
+    "lincoln_pre1860": 24,
+    "tie": 75
+   }
+  },
+  "c4": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 598,
+    "lincoln_pre1860": 4,
+    "tie": 3
+   }
+  },
+  "c5": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c6": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c7": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c8": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c9": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c10": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c11": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c12": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c13": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c14": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c15": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "c16": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "w1": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 596,
+    "lincoln_pre1860": 5,
+    "tie": 4
+   }
+  },
+  "w2": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "w3": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  },
+  "vote_c4-10": {
+   "lincoln_war_own": {
+    "lincoln_war_own": 605
+   }
+  }
+ },
+ "war_other": {
+  "c3": {
+   "null": {
+    "lincoln_war_own": 400,
+    "lincoln_pre1860": 185,
+    "tie": 33
+   }
+  },
+  "c4": {
+   "null": {
+    "lincoln_war_own": 464,
+    "lincoln_pre1860": 151,
+    "tie": 3
+   }
+  },
+  "c5": {
+   "null": {
+    "lincoln_war_own": 487,
+    "lincoln_pre1860": 130,
+    "tie": 1
+   }
+  },
+  "c6": {
+   "null": {
+    "lincoln_war_own": 503,
+    "lincoln_pre1860": 115
+   }
+  },
+  "c7": {
+   "null": {
+    "lincoln_war_own": 502,
+    "lincoln_pre1860": 115,
+    "tie": 1
+   }
+  },
+  "c8": {
+   "null": {
+    "lincoln_war_own": 496,
+    "lincoln_pre1860": 121,
+    "tie": 1
+   }
+  },
+  "c9": {
+   "null": {
+    "lincoln_war_own": 497,
+    "lincoln_pre1860": 121
+   }
+  },
+  "c10": {
+   "null": {
+    "lincoln_war_own": 502,
+    "lincoln_pre1860": 116
+   }
+  },
+  "c11": {
+   "null": {
+    "lincoln_war_own": 501,
+    "lincoln_pre1860": 117
+   }
+  },
+  "c12": {
+   "null": {
+    "lincoln_war_own": 504,
+    "lincoln_pre1860": 113,
+    "tie": 1
+   }
+  },
+  "c13": {
+   "null": {
+    "lincoln_war_own": 507,
+    "lincoln_pre1860": 111
+   }
+  },
+  "c14": {
+   "null": {
+    "lincoln_war_own": 512,
+    "lincoln_pre1860": 106
+   }
+  },
+  "c15": {
+   "null": {
+    "lincoln_war_own": 504,
+    "lincoln_pre1860": 111,
+    "tie": 3
+   }
+  },
+  "c16": {
+   "null": {
+    "lincoln_war_own": 503,
+    "lincoln_pre1860": 113,
+    "tie": 2
+   }
+  },
+  "w1": {
+   "null": {
+    "lincoln_war_own": 497,
+    "lincoln_pre1860": 105,
+    "tie": 16
+   }
+  },
+  "w2": {
+   "null": {
+    "lincoln_war_own": 495,
+    "lincoln_pre1860": 121,
+    "tie": 2
+   }
+  },
+  "w3": {
+   "null": {
+    "lincoln_war_own": 490,
+    "lincoln_pre1860": 125,
+    "tie": 3
+   }
+  },
+  "vote_c4-10": {
+   "null": {
+    "lincoln_war_own": 509,
+    "lincoln_pre1860": 109
+   }
+  }
+ },
+ "hay_hand": {
+  "vote_c4-10": {}
+ },
+ "specials": {
+  "c3": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 2,
+    "lincoln_pre1860": 3
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 2,
+    "lincoln_pre1860": 2
+   },
+   "hay": {
+    "lincoln_pre1860": 1
+   }
+  },
+  "c4": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 3,
+    "lincoln_pre1860": 2
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 1,
+    "lincoln_pre1860": 3
+   },
+   "hay": {
+    "lincoln_pre1860": 1
+   }
+  },
+  "c5": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 1,
+    "lincoln_pre1860": 3
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c6": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 3,
+    "lincoln_pre1860": 1
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c7": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 3,
+    "lincoln_pre1860": 1
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c8": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c9": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c10": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c11": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c12": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c13": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c14": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c15": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "c16": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "w1": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 1,
+    "lincoln_pre1860": 3
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "w2": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "w3": {
+   "null": {
+    "lincoln_war_own": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 4
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  },
+  "vote_c4-10": {
+   "null": {
+    "lincoln_pre1860": 1
+   },
+   "lincoln": {
+    "lincoln_war_own": 4,
+    "lincoln_pre1860": 1
+   },
+   "hay_for_lincoln": {
+    "lincoln_war_own": 3,
+    "lincoln_pre1860": 1
+   },
+   "hay": {
+    "lincoln_war_own": 1
+   }
+  }
+ }
+}

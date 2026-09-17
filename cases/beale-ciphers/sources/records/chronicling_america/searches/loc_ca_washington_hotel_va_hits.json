@@ -1,0 +1,808 @@
+{
+ "source_file": "loc_ca_washington_hotel_va.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1830-12-31&fa=location_state:virginia&fo=json&ops=PHRASE&qs=washington+hotel&searchType=advanced&start_date=1815-01-01",
+ "total_hits": 159,
+ "results_in_capture": 100,
+ "results": [
+  {
+   "date": "1830-10-28",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-28/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-15",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-15/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-15",
+   "title": "virginia advocate (charlottesville, va.) 1827-1860",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024689/1830-10-15/ed-1/?sp=4"
+  },
+  {
+   "date": "1830-09-24",
+   "title": "virginia advocate (charlottesville, va.) 1827-1860",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024689/1830-09-24/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-02",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-02/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-18",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-18/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-26",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-26/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-26",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-10-26/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-09-24",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-09-24/ed-1/?sp=4"
+  },
+  {
+   "date": "1830-11-27",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-27/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-09-21",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-09-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1829-10-05",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-10-05/ed-1/?sp=4"
+  },
+  {
+   "date": "1830-12-07",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-12-07/ed-1/?sp=3"
+  },
+  {
+   "date": "1829-10-29",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-10-29/ed-1/?sp=4"
+  },
+  {
+   "date": "1829-10-08",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-10-08/ed-1/?sp=4"
+  },
+  {
+   "date": "1829-11-16",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-11-16/ed-1/?sp=4"
+  },
+  {
+   "date": "1815-12-20",
+   "title": "alexandria gazette, commercial and political (alexandria [va.]) 1812-1817",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024014/1815-12-20/ed-1/?sp=1"
+  },
+  {
+   "date": "1821-12-06",
+   "title": "richmond enquirer (richmond, va.) 1815-1867",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024735/1821-12-06/ed-1/?sp=2"
+  },
+  {
+   "date": "1815-12-15",
+   "title": "alexandria gazette, commercial and political (alexandria [va.]) 1812-1817",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024014/1815-12-15/ed-1/?sp=3"
+  },
+  {
+   "date": "1815-12-18",
+   "title": "alexandria gazette, commercial and political (alexandria [va.]) 1812-1817",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024014/1815-12-18/ed-1/?sp=2"
+  },
+  {
+   "date": "1829-10-22",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-10-22/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-08-31",
+   "title": "richmond enquirer (richmond, va.) 1815-1867",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024735/1824-08-31/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-06-12",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-06-12/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-06-10",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-06-10/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-06-05",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-06-05/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-06-03",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-06-03/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-04-17",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-17/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-04-22",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-22/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-04-27",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-27/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-04-10",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-10/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-04-20",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-20/ed-1/?sp=1"
+  },
+  {
+   "date": "1830-11-23",
+   "title": "richmond enquirer (richmond, va.) 1815-1867",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024735/1830-11-23/ed-1/?sp=1"
+  },
+  {
+   "date": "1830-10-01",
+   "title": "richmond enquirer (richmond, va.) 1815-1867",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024735/1830-10-01/ed-1/?sp=1"
+  },
+  {
+   "date": "1830-12-21",
+   "title": "richmond enquirer (richmond, va.) 1815-1867",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024735/1830-12-21/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-05-25",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-05-25/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-05-13",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-05-13/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-05-22",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-05-22/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-03-18",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-18/ed-1/?sp=3"
+  },
+  {
+   "date": "1824-03-16",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1824-04-15",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-04-13",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-04-13/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-03-25",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-25/ed-1/?sp=3"
+  },
+  {
+   "date": "1824-03-20",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1824-05-18",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-05-18/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-03-06",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-06/ed-1/?sp=3"
+  },
+  {
+   "date": "1819-01-07",
+   "title": "alexandria gazette & daily advertiser (alexandria [va.]) 1817-1822",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83026170/1819-01-07/ed-1/?sp=2"
+  },
+  {
+   "date": "1825-10-13",
+   "title": "phenix gazette (alexandria [d.c.]) 1825-1833",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025006/1825-10-13/ed-1/?sp=1"
+  },
+  {
+   "date": "1824-06-15",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-06-15/ed-1/?sp=4"
+  },
+  {
+   "date": "1824-03-30",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-30/ed-1/?sp=3"
+  },
+  {
+   "date": "1824-05-01",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-05-01/ed-1/?sp=4"
+  },
+  {
+   "date": "1824-03-11",
+   "title": "alexandria gazette & advertiser (alexandria [d.c.]) 1822-1824",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025001/1824-03-11/ed-1/?sp=3"
+  },
+  {
+   "date": "1825-07-07",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1825-07-07/ed-1/?sp=1"
+  },
+  {
+   "date": "1830-10-06",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-06/ed-1/?sp=1"
+  },
+  {
+   "date": "1827-04-10",
+   "title": "phenix gazette (alexandria [d.c.]) 1825-1833",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025006/1827-04-10/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-09-27",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-09-27/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-20",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1825-06-30",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1825-06-30/ed-1/?sp=1"
+  },
+  {
+   "date": "1830-10-09",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-09/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-04",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-04/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-30",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-30/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-20",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-19",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-19/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-06",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-06/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-03",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-03/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-15",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-15/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-11",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-11/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-13",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-14",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-14/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-19",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-10-19/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-08",
+   "title": "virginia advocate (charlottesville, va.) 1827-1860",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024689/1830-10-08/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-11",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-11/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-04",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-04/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-08",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-08/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-17",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-17/ed-1/?sp=3"
+  },
+  {
+   "date": "1815-05-20",
+   "title": "the enquirer (richmond, va.) 1804-1815",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024736/1815-05-20/ed-1/?sp=2"
+  },
+  {
+   "date": "1830-10-02",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-02/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-09-23",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-09-23/ed-1/?sp=4"
+  },
+  {
+   "date": "1830-12-16",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-21",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-19",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-19/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-10-27",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-10-27/ed-1/?sp=3"
+  },
+  {
+   "date": "1815-05-13",
+   "title": "the enquirer (richmond, va.) 1804-1815",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024736/1815-05-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1815-01-07",
+   "title": "the enquirer (richmond, va.) 1804-1815",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024736/1815-01-07/ed-1/?sp=2"
+  },
+  {
+   "date": "1830-10-22",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-10-22/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-12",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-11-12/ed-1/?sp=1"
+  },
+  {
+   "date": "1830-09-16",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-09-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-24",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-24/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-05",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-11-05/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-11-05",
+   "title": "constitutional whig (richmond, va.) 1824-1832",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045110/1830-11-05/ed-1/?sp=3"
+  },
+  {
+   "date": "1829-10-19",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-10-19/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-01-07",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1830-01-07/ed-1/?sp=3"
+  },
+  {
+   "date": "1830-12-06",
+   "title": "daily richmond whig (richmond, va.) 1828-1831",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026767/1830-12-06/ed-1/?sp=3"
+  },
+  {
+   "date": "1824-10-15",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1824-10-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1829-11-12",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-11-12/ed-1/?sp=3"
+  },
+  {
+   "date": "1825-06-16",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1825-06-16/ed-1/?sp=4"
+  },
+  {
+   "date": "1825-06-23",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85027015/1825-06-23/ed-1/?sp=4"
+  },
+  {
+   "date": "1830-12-27",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1830-12-27/ed-1/?sp=3"
+  },
+  {
+   "date": "1829-09-07",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-09-07/ed-1/?sp=3"
+  },
+  {
+   "date": "1829-11-02",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-11-02/ed-1/?sp=4"
+  },
+  {
+   "date": "1829-10-19",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024649/1829-10-19/ed-1/?sp=1"
+  }
+ ]
+}

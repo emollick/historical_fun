@@ -1,0 +1,38 @@
+title: Valentine for Fanny French
+author: Clement Clarke Moore
+date: 1852 (14 Feb.)
+source: Loose manuscript poem (repository not stated on the site; not in the MCNY notebook index); transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/moorefannysvalentine.htm
+form: iambic tetrameter/trimeter quatrains (common measure, abab)
+lines: 24
+attribution: certain
+notes: MS heading (removed from body): '(For my grandson Clement, to send to little Fanny French on Valentine's Day the 14th of February 1852.)' Written for grandson Clement (Ogden?) to send to a little girl; companion piece to 'To Little Clem'. Light-tender. 'sweest' (last stanza) is as transcribed. Listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/moorefannysvalentine.txt; also 'mooretofanny'), so apparently part of Jackson's main Moore corpus rather than held back; unverified. Site line count 24 agrees.
+
+Now let us hope, my Fanny dear,
+That Spring will not delay
+With smiling features to appear
+And chase the cold away.
+
+How welcome after frost and snow,
+And trees in ice all clad,
+To feel the Southern breezes blow,
+And see all nature glad!
+
+Then, birds return'd from climes remote,
+Their joyous carols blend,
+And seem to pour, each one, the note
+Of a returning friend.
+
+The silent dews and gentle showers
+And brooks from frost set free
+Then softly wake the sleeping flowers
+And blossoms of the tree.
+
+The roses spread their bosoms wide,
+And breathe the open air,
+While swelling rosebuds, Flora's pride,
+Keep forth all sweet and fair.
+
+But let them breathe on zephyr's wing
+The sweest breath they can,
+There's not a rosebud of the spring
+So sweet as little Fan.

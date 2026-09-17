@@ -1,0 +1,378 @@
+F_dalley_1994.txt
+Stephanie Dalley, "Nineveh, Babylon and the Hanging Gardens: Cuneiform and Classical Sources Reconciled", Iraq 56 (1994), pp. 45-58 (14 pages incl. 3 figures). JSTOR stable 4200384; DOI 10.2307/4200384; Cambridge Core id C024A9417036B87AB6D772A98274E0D0 (S0021088900002801); published online by CUP 7 Aug 2014. Publisher: British Institute for the Study of Iraq (then British School of Archaeology in Iraq).
+
+ACCESS STATUS: THE FULL TEXT WAS NOT OBTAINED. The article is behind the Cambridge Core / JSTOR paywalls (Cambridge PDF and HTML require purchase or subscription; JSTOR item page loads but the PDF is not accessible; no Wayback copy of either PDF exists; Unpaywall, OpenAlex, Semantic Scholar, CORE, BASE, ORA (Oxford), HathiTrust full-text search, Internet Archive (advancedsearch, scholar.archive.org, full-text search), Google Books and fatcat all report no open copy). Everything below is therefore partial: (1) the Extract that Cambridge shows for free (= the article's opening paragraphs, p. 45); (2) all 75 footnotes verbatim (Cambridge exposes the notes even when the body is closed); (3) every passage of the body that is quoted verbatim or paraphrased with a page number by Bichler & Rollinger 2005 (the only source that cites the article page by page) and by Bagg 2014, Potts 2013, RINAP 3/1 and Dalley's own later restatements; (4) a page-by-page reconstruction of the argument built from (1)-(3) and from the sequence of the footnotes. Every quotation is marked with its origin; anything not marked as verbatim is a paraphrase.
+
+WHAT THE ARTICLE IS: the first full-length statement of Dalley's thesis. Footnote 1: "This paper is an extended version of the lecture given to honour the memory of Sir Edgar Bonham Carter in June 1993. A part of the argument is briefly to be published in the CRRAI 1992 (Heidelberg 1994)" (= Dalley, "The Hanging Gardens of Babylon at Nineveh", in H. Waetzoldt & H. Hauptmann (eds), Assyrien im Wandel der Zeiten, HSAO 6, Heidelberg 1997, 19-24). A short popular version had already appeared as Dalley, "Ancient Mesopotamian Gardens and the Identification of the Hanging Gardens of Babylon Resolved", Garden History 21/1 (1993) 1-13 (FULL TEXT in raw_D/dalley_1993_garden_history_ocr.txt and in F_dalley_other.md, section A). The 1994 article is the version cited by all later critics (Bagg 2000; Reade 2000; Bichler & Rollinger 2005; RINAP 3/1 n. 44; Bagg 2014); its argument is restated in Dalley 1997, 2002 ("More about the Hanging Gardens", in Of Pots and Plans, 67-73), Dalley & Oleson 2003 (Technology and Culture 44: 1-26, full text raw_D), Dalley 2008 (SAOC 62, 25-33, full text raw_F/dalley_2008_saoc62_babylon_as_name.txt), the 2013 book (F_dalley_2013.txt) and Dalley 2017 (Nineveh, the Great City, 188-191, full text raw_F/dalley_2017_sidestone_ch37.txt).
+
+JSTOR RECORD (Wayback capture 21 Sep 2018 of https://www.jstor.org/stable/4200384): "Nineveh, Babylon and the Hanging Gardens: Cuneiform and Classical Sources Reconciled. Stephanie Dalley. Iraq, Vol. 56 (1994), pp. 45-58. Published by: British Institute for the Study of Iraq. DOI: 10.2307/4200384. Page Count: 14. Topics: Palaces, River water, Cuneiform, Sculpture gardens, Botanical gardens, Excavations, Kings, Historic gardens, Water channels." The BISI contents page for Iraq 56 (https://www.bisi.ac.uk/publication/iraq-56/) lists it at p. 45, followed by M. Yamada at p. 59.
+
+======================================================================================================
+PART 1. CAMBRIDGE CORE 'EXTRACT' (verbatim; = opening of the article, p. 45)
+======================================================================================================
+Classical sources describing the Hanging Gardens give a wealth of detail which has never matched up with information from cuneiform sources or archaeological finds. This study reconciles them. In doing so it shows how some confusions in Classical accounts may have their origin in Akkadian sources, and are not due simply to misunderstanding and error. The Hanging Gardens of Babylon, one of the Seven Wonders of the world in Classical tradition, were marvellous not merely for being raised upon vaults, but also for an innovative system for watering them. Popularly attributed to Nebuchadnezzar II, of the 6th century B.C., they are not mentioned in any of the copious and remarkably complete written sources for that king's reign, nor have they come to light in extensive excavation of his palaces in Babylon, carried out by a large German team over more than a quarter of a century.
+
+(Cambridge metadata: citation_title "Nineveh, Babylon and the Hanging Gardens: cuneiform and classical sources reconciled1"; citation_author Stephanie Dalley; citation_publication_date 1994/01; citation_online_date 2014/08/07; volume 56, first page 45, last page 58; ISSN 2053-4744; citation_pdf_url https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C024A9417036B87AB6D772A98274E0D0/S0021088900002801a.pdf/... — returns the HTML abstract page, not the PDF, without a subscription.)
+
+======================================================================================================
+PART 2. PAGE-BY-PAGE RECONSTRUCTION OF THE ARGUMENT
+======================================================================================================
+Conventions: "B-R n. X (p. Y)" = Bichler & Rollinger 2005 footnote X citing Dalley 1994, p. Y (their full footnotes and the sentences that carry them are in Part 4). Verbatim English inside German B-R sentences is Dalley's own wording. Footnote numbers "fn N" are Dalley's own notes (Part 3), whose order fixes the sequence of topics. Figures: Fig. 1 = the Ashurbanipal garden relief BM 124939 (cited B-R n. 86, 143: "Dalley 1994, 51 mit Fig. 1"); Fig. 3 = "Reconstruction drawing of Sennacherib's palace garden at Nineveh incorporating new evidence" by Terry Ball (fn 75; B-R n. 147: "Dalley 1994, 57f. mit Fig. 3"); Fig. 2 is presumably the British Museum Original Drawing cited in fn 74 (BM Or. Dr. V.1, reproduced in SAA III fig. 6), but this is inferred.
+
+--- p. 45 (Introduction; the Classical problem) ---
+* Opening paragraphs = the Extract above: the Classical descriptions "give a wealth of detail which has never matched up with information from cuneiform sources or archaeological finds. This study reconciles them"; "some confusions in Classical accounts may have their origin in Akkadian sources, and are not due simply to misunderstanding and error"; the gardens "were marvellous not merely for being raised upon vaults, but also for an innovative system for watering them"; "Popularly attributed to Nebuchadnezzar II ... they are not mentioned in any of the copious and remarkably complete written sources for that king's reign, nor have they come to light in extensive excavation of his palaces in Babylon" (fn 2-3: Woolley's Ur; Parrot on ziggurats/Tower of Babel — i.e. the earlier attempts to find the gardens at Babylon, including the ziggurat and the vaulted building in the Southern Palace; cf. fn 8 Finkel's survey of proposed locations and George on the Euphrates changing course).
+* The Persian diversion of the Euphrates, VERBATIM (B-R n. 177, p. 45): "When the Persians captured Babylon in 539 B.C., a mere 23 years after the death of Nebuchadnezzar, or perhaps in 482 when Xerxes levelled the city wall, they diverted the Euphrates river and it continued in its diverted course long afterwards. For centuries it no longer ran alongside the north-west part of Nebuchadnezzar's palace. Any machinery set up there to water the gardens from the river would have become useless, and all the trees in the garden would soon have withered and died". [B-R n. 258 note that on p. 46 Dalley "selbst noch von der Existenz königlicher Gärten in Babylon ausgegangen [ist] — allerdings nur vor der vermeintlichen Flussumleitung durch die Perser", i.e. she allowed that Babylon had royal gardens before the diversion.]
+* Herodotus: he did not mention the gardens although he described Babylon; "his informants were, as he declares, Chaldaeans" (VERBATIM, B-R n. 200, p. 45; cf. fn 4 quoting Sayce's verdict that Herodotus never visited Babylonia). Her long-standing argument (first in Dalley 1993b, 8f., "Vgl. auch Dalley 1994, 45", B-R n. 186): "By locating the Hanging Gardens in Nineveh another puzzle has been solved. When Herodotus described the city of Babylon in the fifth century B.C., he failed to mention the Hanging Gardens, and has been vilified for his unreliability in this matter. But with the gardens at Nineveh, his account is vindicated" (verbatim from the 1993 article, cited by B-R as the same point in 1994, 45).
+* Xenophon's silence about gardens in Babylon (Cyropaedia) taken as a further indication that there was nothing to report there (B-R n. 92, p. 45).
+* Ctesias dismissed as "not a reliable historian" and Diodorus' Hanging-Garden section attributed to Ctesias (B-R n. 192, pp. 45f.; cf. fn 5-6 on Diodorus II.7.1 and II.8.5 quoting Ctesias, and fn 15 MacGinnis on Ctesias and the fall of Nineveh); the reliefs described by Diodorus/Ctesias in the palaces of "Babylon" appreciated "als Reflex assyrischer Reliefkunst", i.e. as reflecting Assyrian palace sculpture (B-R n. 100, pp. 45f.).
+
+--- pp. 46-47 (Berossus; the confusion of Nineveh and Babylon in Jewish, Arabic and Classical tradition) ---
+* Berossus (via Josephus, fn 7: Jewish Antiquities X.220ff. and Contra Apionem I.128ff.) is treated with respect: his "account has generally been taken as authoritative" (VERBATIM, B-R n. 174, p. 46).
+* The core claim of a "direct confusion" (VERBATIM phrase, B-R n. 115, p. 46) between Babylon and Nineveh, and between Sennacherib and Nebuchadnezzar, in later tradition: Jewish scholars (fn 9 Jewish Encyclopaedia s.v. Nebuchadnezzar), Islamic tradition (fn 10 Khoury on Babylon in the earliest Arabic prophet-stories), and the Greeks (fn 11-12 Nöldeke and Helm on "Assyria"/"Syria" and on Old Testament passages where Assyria means Babylon: Lam. 5:6, Micah 7:12, Zech. 10:10; fn 13 Ninos as founder at Aphrodisias; fn 14 Chronicles). Semiramis as builder of Babylon belongs to the same confusion (B-R n. 116, p. 46). B-R n. 91: "Vgl. Dalley 1994, 46ff." for the thesis that both later Jewish scholars and the Classical reporters confused the two cities; by 1996 Dalley wrote "It now seems certain that Greeks as well as Jews confused Nineveh and Babylon, Sennacherib and Nebuchadnezzar" (Dalley 1996, 529, quoted by B-R).
+* Greek historiography of Assyria (fn 17 Bury, Drews, Kuhrt; fn 18 Castor's list of Assyrian kings from Ninos to "another Ninos" after Sardanapallos, via Eusebius' Armenian Chronicle).
+* p. 47: B-R n. 137 ("Dalley 1994, 47"): the one piece of evidence for Nineveh being called Babylon that is not pure inference — introduced here and developed on pp. 48-49 (the Toledan/Azarqiel tables, see below).
+* Herodotus I.185: the waterworks and geography Herodotus attributes to Babylon "oberhalb von Babylon" are argued to describe the Nineveh region (B-R n. 201, pp. 47f.).
+
+--- p. 48 (Herodotus I.178; the Harran tradition; the astronomical tables) ---
+* Herodotus I.178, the seat of kingship transferred to Babylon after the fall of Ninos, is read as a direct trace of an "indigenous tradition" in which Babylonia was part of Assyria — the same view held by part of the Chaldaean (Neo-Babylonian) inscriptions (B-R n. 202, 204, p. 48; B-R note that Dalley cites I.179 by mistake). This "Harran tradition" = the Harran stelae of Nabonidus/Adad-guppi (fn 19 Gadd, Anatolian Studies 8; fn 20 Langdon VAB IV no. 9 = the "Pognon stela", B-R n. 205: "Dalley 1994, 48 mit Anm. 20"), in which the regnal years of Assyrian and Babylonian kings are counted in one sequence, taken as showing that Babylonians could regard the Assyrian and Babylonian kingdoms as one; fn 21 Saggs on Sargon II's texts; fn 22 ABL 923 (SAA X 174); fn 23 the Tawilan tablet (Dalley 1984); fn 24 Athanassiadi on late paganism (Harran).
+* pp. 48f.: the astronomical argument (fn 25 Becker & Becker, "'Altes' und 'Neues' Babylon", BaM 22, 1991; fn 26 MUL.APIN): the medieval Toledan tables of Azarqiel record longest-day values for "Old Babylon", "Other/Second Babylon" and "New Babylon"; the longest day of 14h 24min for "Old Babylon" gives a latitude of "ziemlich genau 35° Nord", i.e. "vicinity of Nineveh" (VERBATIM phrase; B-R n. 138: "Dalley 1994, 48f."). Dalley infers that an Assyrian city — Nineveh (B-R: the figure actually suits Nimrud) — was once called "Old Babylon".
+
+--- p. 49 (Sennacherib's destruction of Babylon 689 BC; "Old" and "New" Babylon; Enuma Elish) ---
+* After destroying Babylon in 689 (fn 27 Galter; fn 28 Borger, Esarhaddon Episode 7), Sennacherib is argued to have called Nineveh "old Babylon", while Esarhaddon's rebuilt Babylon was the "new Babylon" (B-R n. 123, 125, p. 49). Dalley cites the Assyrian recension of Enuma Elish found at Assur and Nineveh, in which Marduk is replaced by Assur; VERBATIM (B-R n. 125): "No texts have been found in which the name of the city built by the hero god is altered from Babylon" (fn 29 Jeremias; von Soden on Etemenanki; fn 30-32 Frame; W. G. Lambert, CRRAI Heidelberg 1992; fn 33 SAA III no. 39, the Marduk Ordeal).
+* Flood/inundation motifs: Dalley points to the long literary tradition of cities destroyed by water, from Sumerian laments to the inscriptions of Sennacherib and Esarhaddon, as background to Herodotus' story of the river diversion at the capture of Babylon (B-R n. 109, p. 49; cf. n. 107-108 citing Dalley 1996 on "romantic, historical fiction ... under Persian rule").
+
+--- p. 50 (Sennacherib as king of "Babylon"; Tintir; the Babylonian Chronicle) ---
+* The "experiment to replace Marduk with Assur" (VERBATIM) such that "an Assyrian city had become Babylon" (VERBATIM; B-R n. 131, p. 50). Supporting "indications that Sennacherib saw himself as king of 'Babylon' though he did not take the title" (VERBATIM, B-R n. 142, p. 50): Assyrian monumental inscriptions dated by regnal years in the Babylonian manner instead of by eponyms (B-R n. 136, p. 50); Sennacherib's renaming of Nineveh's gates on the model of Babylon's (fn 34-35 George, Babylonian Topographical Texts, 3-4, 176-7 — the topographical series Tintir = Babylon, and George's note that Sennacherib "extended the text with a section listing new gates for Esharra in Assur"; fn 36 Borger, Esarhaddon 22, 25; fn 37 Grayson ARI II; fn 38 Rassam).
+* pp. 50f., VERBATIM (B-R n. 258): "This negative statement bears considerable weight" and "'The Topography of Babylon' does not mention any gardens either" — i.e. Nebuchadnezzar's inscriptions and the Tintir list are silent about any garden; and the lost lines of the Babylonian Chronicle might have contained the version of Babylon's capture given by Herodotus (B-R n. 238: "Dalley 1994, 50f."). fn 39 (Perrot & Chipiez; König on Ctesias' Persika), fn 40 George, fn 41 Dandamaev on royal paradeisoi in Babylonia belong to this section on gardens at Babylon.
+
+--- p. 51 (Curtius Rufus; 'hanging'; the Ashurbanipal relief; the prism text begins) ---
+* VERBATIM (B-R n. 85, p. 51): "... since the description of the builder given by Q. Curtius Rufus, as 'a king of Assyria, reigning in Babylon', fits Sennacherib, a new location of the Hanging Gardens is required".
+* VERBATIM (B-R n. 146, p. 51): the gardens were "hanging gardens in the sense of being suspended upon vaults".
+* Fig. 1 (BM 124939, the garden panel from Ashurbanipal's North Palace): Dalley reads it as showing Sennacherib's garden and its aqueduct, and as matching Diodorus' comparison of the garden with a theatre (B-R n. 86: "Dalley 1994, 51 mit Fig. 1 und 54"; n. 143: "51f. mit Fig. 1").
+* pp. 51-53: the passage of Sennacherib's prism inscription describing the new water-raising device is quoted and re-interpreted (B-R n. 160: "Dalley 1994, 51-53"; fn 42 Luckenbill, Annals of Sennacherib 110-111 and Heidel, Sumer 9, the octagonal prism; fn 43 on the disjointed sequence of the inscription: "VI.89 ff. describes new castings of the 'big trees' and palms, of lion colossi, bull colossi and sphinxes ... then he goes on to tell of setting up the 'trees' and to describe the gardens"; fn 44: "This crucial word was damaged on the source used by Luckenbill, and was therefore omitted in his translations; the duplicate source published by Heidel gave a clear text. Note that the word for copper is often used interchangeably with the word for bronze"). Her translation of the passage (as given in Dalley & Oleson 2003, 7-8, and the 2013 book, Appendix) runs: "In order to draw water up all day long I had ropes, bronze wires and bronze chains made, and instead of shadufs I set up the great cylinders [gišmahhu] and alamittu palms over cisterns."
+
+--- pp. 52-53 (alamittu and gišmahhu = the screw) ---
+* p. 52: the two terms alamittu and gišmahhu are understood as the 'screw/spiral' and the 'cylinder' of an Archimedean water screw cast in bronze (B-R n. 161: "Dalley 1994, 52"; fn 45 al-Rawi & Roaf: gišmahhu = cylinder in Old Babylonian mathematical problems, "I am grateful to Eleanor Robson for pointing this out"; fn 46 CAD A/1 333: alamittu identified from Löw's Flora der Juden as a palm whose trunk shows a spiral pattern — "The Botanical Gardens in Oxford contain mature examples of the tree").
+* p. 53: the spiral as a familiar Mesopotamian form (fn 47 the spiral mud-brick columns at Tell al-Rimah; fn 48 Ur; fn 49 Basmusian/Shemshara; fn 50 Weiss; fn 51 Larsa; fn 52 Carter on Rimah's sculptured palm-trunk columns); the Classical descriptions, above all Strabo's and Philo's, are said to reveal the screw (B-R n. 162: "Dalley 1994, 53"). fn 53: Sennacherib "proudly described how cleverly he cast gigantic figures in copper using new technology" (Dalley 1988 on bronzeworking) and his qanat for Arbela "may also be described with a new, technical use of vocabulary".
+
+--- p. 54 (matching the Classical descriptions with Nineveh) ---
+* Diodorus' comparison of the garden to a theatre auditorium fits the relief (Fig. 1), and the dimensions of 4 x 4 plethra given by Diodorus and Strabo fit Sennacherib's park on Kuyunjik (B-R n. 86, 88, p. 54). fn 54-58: Esarhaddon's inscriptions; Nebuchadnezzar's inscriptions (Langdon) as the contrast; Russell, Sennacherib's Palace without Rival, fig. 44 (the South-West Palace plan); Durand on the organisation of the Mari palace (the garden beside the palace); Stevenson's 1992 Iraq proposal for irrigating the gardens at Babylon (rejected).
+
+--- pp. 55-56 (Berossus, Josephus, Abydenus, Alexander Polyhistor; the sources still available) ---
+* p. 55: the Berossus fragments preserved by Josephus and Eusebius are argued to be corrupt (B-R n. 175); fn 59-62: Burstein's side-by-side edition of the Berossus fragments, Schnabel, Syncellus, and the corrupted queen's name "Amakales" (fn 62: "Note that the name is mistranscribed Amakales by Burstein").
+* pp. 55f.: Abydenus' report (via Eusebius) of "Nebuchadnezzar's" waterworks can go back to Berossus but with a corruption of the name: Sennacherib must originally have been meant (B-R n. 83). Dalley assumes that Sennacherib's inscriptions remained available as sources into the Seleucid period (B-R n. 121: "Dalley 1994, 55f.").
+* p. 56: Josephus himself or his presumed source Alexander Polyhistor wrongly attributed a tradition about the Hanging Gardens to Berossus, who therefore did not himself report the gardens or name Nebuchadnezzar as builder (B-R n. 82). Nineveh was not completely destroyed in 612 (fn 69 Dalley, "Nineveh after 612 B.C."; fn 70 Na'aman; fn 71 MacGinnis), the Assyrian reliefs remained visible, and native "guides" showed them to visitors into Hellenistic times (B-R n. 197, p. 56). The surviving accounts also transferred to Nineveh the historical circumstances of the conquests of Babylon by Sennacherib and Ashurbanipal (B-R n. 233, p. 56; fn 72 Steiner & Nims, the Aramaic tale of the two brothers Assurbanipal and Shamash-shum-ukin). fn 63-68 belong here: the rivers "bulbulliya" and "tebilti" in Sennacherib's texts are epithets ("flood-prone", "flooder"), not names (fn 63); the mechanical gates of "Babylon" attributed to Semiramis by Diodorus II.8.7 may be "misunderstanding and corruption" of Sennacherib's gate passage, and "Sipparians" a corruption of Shapparishu in the Bavian inscription (fn 64); Eusebius' Armenian Chronicle, Cory's Ancient Fragments, Karst, Jacoby (fn 65); Helm; Moses Khorenats'i (fn 66-67); Ahiqar (fn 68).
+* pp. 56f., VERBATIM (B-R n. 90): the divergences between the Classical descriptions show "that the gardens were still extant in the Parthian period"; Curtius' statement that the structure had survived the ravages of time is taken as evidence that the garden — at Nineveh — still existed in his day (B-R n. 90, 95).
+
+--- pp. 57-58 (reconstruction and conclusion) ---
+* pp. 57f. with Fig. 3: "Reconstruction drawing of Sennacherib's palace garden at Nineveh incorporating new evidence" (B-R n. 147), drawn by Terry Ball of English Heritage (fn 75). fn 73: the prism names a "garden gate" ("'Igi-sig-sig the god who makes orchards fruitful' (is the name of) the mušlalu of the garden") in a sequence of palace gates, quoting Campbell Thompson, Iraq 7 (1940) 90; fn 74: BM Or. Dr. V.1 (British Museum Original Drawing) reproduced in SAA III (1989) fig. 6.
+* p. 58, VERBATIM (B-R n. 240, their italics removed): "Sennacherib built the gardens, and a contemporary sculpture as well as an inscription confirm the truth of later accounts". B-R n. 239 also cite the title itself as the article's summary claim: the wrongly criticised Classical texts and the cuneiform sources yield a harmonious picture once the gardens are placed at Nineveh.
+
+--- Summary of the thesis as read by the critics ---
+* Bagg 2014 (BiOr 71, col. 490), on the book but equally on the article: "Dalley's chain of thought can be summarized as follows: 1) the Classical sources mention a Hanging Garden in Babylon, which was watered by screws and built by Nebuchadnezzar; 2) such a World Wonder has neither been found in Babylon nor is it mentioned in Nebuchadnezzar's inscriptions; 3) Sennacherib built a royal park in Nineveh watered by screws which he had invented; 4) the Classical sources confuse Babylon with Nineveh. Ergo: The Hanging Garden was Sennacherib's palace garden in Nineveh."
+* Bagg 2000 (Assyrische Wasserbauten, 201, quoted by B-R n. 165): "Die einzige konkrete Verbindung zwischen den klassischen und assyrischen Quellen, die S. Dalley feststellen kann — und eigentlich ihr einziger Beweis —, bezieht sich auf die in beiden Quellen erwähnten Bewässerungsmaschinen."
+* RINAP 3/1 (Grayson & Novotny 2012), introduction n. 44: "For the opinion that Sennacherib's 'replica of Mount Amanus' was the origin of the 'Hanging Gardens of Babylon' story, see Dalley, Iraq 56 (1994) pp. 45-58; and Dalley, HSAO 6 pp. 19-24 ... For some critical reviews of Dalley's proposal, see Reade, Iraq 62 (2000) pp. 195-217; and Bichler and Rollinger, Studies Schretter pp. 153-218."
+
+======================================================================================================
+PART 3. THE 75 FOOTNOTES, VERBATIM (from the Cambridge Core article page; raw_F/cc_dalley1994_abs.html; 'Google Scholar'/'CrossRef' link labels removed)
+======================================================================================================
+1 This paper is an extended version of the lecture given to honour the memory of Sir Edgar Bonham Carter in June 1993. A part of the argument is briefly to be published in the CRRAI 1992 (Heidelberg 1994).
+
+2 Woolley, C. L., Excavations at Ur (London 1954), 132 – 133.
+
+3 E.g. Parrot, A., Ziggurats et Tour de Babel (Paris 1949), 44 – 48.
+
+4 E.g. Sayce, A. H., Commentary on Herodotus (1883): “It is clear that Herodotus had never visited Babylonia … We need not regret the loss of his Assyrian history.”
+
+5 He quotes Ctesias for an early piece of information (II.8.5) and possibly did not mean the acknowledgement to extend beyond the immediate context.
+
+6 II.7.1, in which Ctesias is quoted.
+
+7 Jewish Antiquities X. 220 ff. and Contra Apionem I. 128 ff., which gives an identical account.
+
+8 Various suggestions for placing the gardens in Babylon are described by Finkel, I. L., The Hanging Gardens of Babylon, in: The Seven Wonders of the World, ed. Clayton, P. A. and Price, M. J. (London 1988). The chapter contains useful translations of all the sources. For the Euphrates changing course see George, A., Topography of Babylon (1992), 356.
+
+9 Jewish Encyclopaedia IX, s.v. Nebuchadnezzar.
+
+10 Khoury, R. G., Babylon in der ältesten Version über die Geschichte der Propheten in Islam, Festschrift für K. Deller (AOAT 220, Neukirchen-Vluyn 1988), 129.
+
+11 Nöldeke, T., Assurios, Surios, Suros, Hermes 5 (1871), 443 – 468, with modifications given by Helm, P., “Greeks” in the neo-Assyrian Levant and “Assyria” in early Greek writers. Dissertation (Philadelphia 1980), 8 – 33.
+
+12 Other examples from the Old Testament of Assyria meaning Babylon are listed by P. Helm, op.cit, 301–02: Lam. 5:6, Micah 7:12 and Zech. 10:10.
+
+13 Erim, K., Aphrodisias, City of Venus Aphrodite (London 1986), 25 – 28.
+
+14 Williamson, H. G. M., I and II Chronicles. New Century Bible Commentary, (Grand Rapids and London 1982), 390.
+
+15 MacGinnis, J. D. A., Ctesias and the Fall of Nineveh, Illinois Classical Studies 13 / 1 (1988), 37 – 41.
+
+16 Jacobsen, T. and Lloyd, S., Sennacherib's Aqueduct at Jerwan (OIP 24, Chicago 1935). See also n. 63 below.
+
+17 Bury, J. B., The Ancient Greek Historians (London 1909), 12; Drews, R., The Greek Accounts of Eastern History (Harvard 1973) and Kuhrt, A., Assyrian and Babylonian traditions in Classical authors, in: Mesopotamien und seine Nachbarn, ed. Nissen, H. and Renger, J. (Berlin 1982), II 539 – 554.
+
+18 An exception to this is Castor: “We have … commenced the chronological series from Ninos, and have concluded it with another Ninos, who obtained the empire after Sardanapallos”. Eusebius,, Armenian Chron. 81 quoted from I. P. Cory (see note 65).
+
+19 Gadd, C. J., The Harran inscriptions of Nabonidus, Anatolian Studies 8 (1958), 46–7, 69 – 72.
+
+20 Langdon, S., Neubabylonische Königsinschriften (VAB IV, Leipzig 1912), no. 9, p. 290.
+
+21 Saggs, H. W. F., Historical Texts and Fragments of Sargon II of Assyria, Iraq 37 (1975), 12 – 13.
+
+22 ABL 923, see Parpola, S., Letters from Assyrian and Babylonian Scholars (State Archives of Assyria X, Helsinki 1993), no. 174.
+
+23 Dalley, S., The cuneiform tablet from Tell Tawilan, Levant 16 (1984), 19 – 22.
+
+24 Athanassiadi, P., Persecution and Response in Late Paganism, JHS 113 (1993), 24 with n. 173.
+
+25 A., and Becker, U., “Altes” und “Neues” Babylon, Baghdader Mitteilungen 22 (1991), 501 – 511.
+
+26 Hunger, H. and Pingree, D., MUL.APIN (AfO Beiheft 24, 1989), 10 and 141.
+
+27 Galter, H., Die Zerstörung Babylons durch Sanherib, Studio Orientalia 55 (1984) Festschrift for J. Aro, 159 – 173.
+
+28 Borger, R., Inschriften Asarhaddons (Graz 1967), 14 Episode 7.
+
+29 Jeremias, A., Die sogenannten Kedorlaomer-Texte, MVAG 21 (1917), 80, and von Soden, W., Etemenanki vor Asarhaddon, UF 3 (1971), 253 – 264.
+
+30 Frame, op. cit. 57–8.
+
+31 W. G. Lambert, CRRAI Heidelberg 1992, forthcoming.
+
+32 Frame, op. cit, 57–8.
+
+33 Recently translated by Livingstone, A., Court Poetry and Literary Miscellanea (SAA III, Helsinki 1989), no. 39.
+
+34 George, A. R., Babylonian Topographical Texts (Louvain 1992), esp. 3 – 4.
+
+35 George, op. cit., 176–7, who notes 171–2 that Sennacherib extended the text with a section listing new gates for Esharra in Assur.
+
+36 Borger,, Inschriften Asarhaddons, 22 and 25.
+
+37 Grayson, A. K., ARI II.
+
+38 Rassam, H., Asshur and the Land of Nimrod (London 1897), 355; thanks to Ian Cheyne for pointing this out.
+
+39 E.g. Perrot, G. and Chipiez, C., Histoire de l'art dans l'antiquité II, Chaldée et Assyrie (Paris 1884); König, F. W., Die Persika des Ktesias von Knidos (AfO Beiheft 18, Graz 1972), 40a.
+
+40 George, op.cit.
+
+41 Dandamaev, M., Royal Paradeisoi In Babylonia, Orientalia J. Duchesne-Guillemin emerito oblata (Leiden 1984), 113 –118.
+
+42 Luckenbill, D., The Annals of Sennacherib (OIP 2, Chicago 1924), 110 – 111; Heidel, A., The Octagonal Sennacherib Prism in the Iraq Museum, Sumer 9 (1953), 117 – 188.
+
+43 The sequence of the inscription is not entirely coherent; VI.89 ff. describes new castings of the “big trees' and palms, of lion colossi, bull colossi and sphinxes. The three types of colossi he set up around his palace; then he goes on to tell of setting up the “trees” and to describe the gardens.
+
+44 This crucial word was damaged on the source used by Luckenbill, and was therefore omitted in his translations; the duplicate source published by Heidel gave a clear text. Note that the word for copper is often used interchangeably with the word for bronze in Assyrian royal inscriptions.
+
+45 al-Rawi, F. and Roaf, M., Ten Old Babylonian mathematical problems from T. Haddad, Hamrin, Sumer 43 (1984), 184. I am grateful to Eleanor Robson for pointing this out.
+
+46 CAD Vol. A/1, 333, identified from the description given by Löw, Immanuel, Die Flora der Juden II (1924), 302 –3. The Botanical Gardens in Oxford contain mature examples of the tree.
+
+47 Oates, D., Excavations at Tell al-Rimah, Iraq 29 (1967), 78 – 80, Pls. 32 and 33.
+
+48 C. L. Woolley, op. cit., 140–142.
+
+49 See as-Soof, B., Mounds in the Rania Plain and Excavations at Tell Basmusian (1956), Sumer 26 (1970), 65 – 104 and Eidem, J., The Shemshara archives 2 (Copenhagen 1992), 54.
+
+50 Weiss, H., in Biblical Archaeologist 48 / 1 (1985), 5 – 13.
+
+51 Calvet, Y., Charpin, D., Cleuziou, S., Forest, J. D., Huot, J.-L., Larsa, rapport préliminaire sur la sixième campagne de fouilles, Syria 53 (1976), 1 – 45.
+
+52 Carter, T. H., An interpretation of the sculptural decoration of the Second Millennium temple at Tell al-Rimah, Iraq 45 (1983), 64 – 72.
+
+53 Similarly he proudly described how cleverly he cast gigantic figures in copper using new technology. Dalley, S., Neo-Assyrian textual evidence for bronzeworking centres, in: Bronze-working Centres of Western Asia c. 1000–539 B.C., ed. Curtis, J. (London 1988), 97 – 110. The qanat that he built to bring water to Arbela may also be described with a new, technical use of vocabulary: Safar, F. and Basmaji, F., Sennacherib's project for supplying Erbil with water, Sumer 2 (1946), 50 – 52 and 3 (1947), Arabic Section; inscription given in English by Laessee, J., The irrigation system at Ulhu, JCS 5 (1951), 29.
+
+54 Borger, R., Inschriften Asarhaddons, 25.
+
+55 S. Langdon, Neubabylonische Inschriften, passim.
+
+56 Russell, J. M., Sennacherib's Palace without Rival at Nineveh (Chicago 1991), Fig. 44.
+
+57 Durand, J.-M., L'organisation de l'espace dans le palais de Mari: le témoignage des textes, in: Le système palatial en Orient, en Grèce et à Rome, Actes du Colloque de Strasbourg, ed. Lévy, E. (1986), 39 – 110.
+
+58 Stevenson, D. W. W., A proposal for the irrigation of the Hanging Gardens of Babylon, Iraq 54 (1992), 35 – 56.
+
+59 Conveniently given side-by-side in Burstein, S. M., The Babyloniaca of Berossus, SANE 1 /5 (Malibu 1978), 27.
+
+60 Schnabel, P., Berossos und die babylonisch-hellenistische Literatur (Leipzig 1923), 271 – 272.
+
+61 Georgii Syncelli Chronographia, ed. Dindorf, G. (1829), 396.
+
+62 Note that the name is mistranscribed Amakales by Burstein.
+
+63 Two words previously interpreted as proper names for rivers in the vicinity of Nineveh should be understood as epithets: both bulbulliya and tebilti are derived from the D stem of wabālum/babālum meaning “to flood”, and may therefore be translated “flood-prone”, “flooder”, the preceding word nāru being construct followed by genitive, not a determinative.
+
+64 The word used by Sennacherib is the normal word for gates. It may also be suggested that the description of mechanical gates of “Babylon”, supposedly built by Semiramis according to Diodorus Siculus II.8.7, comes from misunderstanding and corruption of the same passage. The expression “Sipparians” may perhaps be a corruption of the placename Shapparishu which the Bavian inscription names with Shibaniba and other towns or villages as lying along the course of the diverted tributaries.
+
+65 Eusebius,, Armenian Chronicle 63; see Cory, I. P., Ancient Fragments of the Phoenician, Chaldaean … and other writers (London 1832), 63. “At Athens” could also be translated “of the Athenians”. Karst suggested that the goddess Anat was behind the term, which would exclude any connection with Athens. See Jacoby, F., Fr. Gr. Hist. 685 FS. I am grateful to Professor R. W. Thomson and Dr S. West for their help.
+
+66 Helm, op. cit., 320–325.
+
+67 Thomson, R. W., Moses Khorenats'i, History of the Armenians (Harvard 1978), 81.
+
+68 Israel, F., La datazione del proverbio no. 110 di Ahiqar, Semitica 38 (1990), 175 – 178.
+
+69 Dalley, S., Nineveh after 612 B.C., Altorientalische Forschungen 20 (1993), 134 – 147.
+
+70 Na'aman, N., Chronology and History in the Late Assyrian Empire, 631–619, ZA 81 (1991), 243 – 267.
+
+71 MacGinnis, op. cit.
+
+72 Steiner, R. C. and Nims, C. F., Assurbanipal and Shamashshum-ukin, a tale of two brothers from the Aramaic text in demotic script, Revue Biblique 92 (1985), 60 – 81.
+
+73 The prism dates later than the Bavian inscription and the Bellino Cylinder; the garden gate occurs in a sequence containing gates connected with the palace, and perhaps not city gates in the sense of leading from the city into the countryside. “‘May [its?] buil[der?] be prominent’ (is the name of) the mušlalu of the palace; ‘Igi-sig-sig the god who makes orchards fruitful' (is the name of) the mušlalu of the garden; ‘Letting in the produce of habitations’ (is the name of) the quay gate.” Thompson, R. Campbell, A selection from historical texts from Nineveh, Iraq 7 (1940), 90 and Fig. 4.
+
+74 BM Or. Dr. V.1, recently reproduced in State Archives of Assyria III (1989), Fig. 6.
+
+75 I am very grateful to Terry Ball of English Heritage who with patience and skill has produced this drawing.
+
+[75 footnotes]
+
+======================================================================================================
+PART 4. BICHLER & ROLLINGER 2005: EVERY FOOTNOTE CITING 'DALLEY 1994' WITH ITS PAGE REFERENCE, AND THE SENTENCE(S) OF B-R TO WHICH THE NOTE IS ATTACHED
+======================================================================================================
+Source: R. Bichler & R. Rollinger, "Die Hängenden Gärten zu Ninive — Die Lösung eines Rätsels?", in R. Rollinger (ed.), Von Sumer bis Homer. Festschrift für Manfred Schretter (AOAT 325), Münster 2005, 153-218; pre-print PDF from achemenet.com, full text in raw_D/bichler_rollinger_2005.txt; extracted to raw_F/br2005_dalley1994_citations.txt. English phrases in quotation marks inside the German are Dalley's own words. 45 footnotes.
+
+[B-R p. 157] fn 30: Dalley 1993b. Dalley 1994. Dalley 1997. Dalley 2002. Dalley 2003. Dalley – Oleson 2003. Siehe auch Dalley 2001/2002a. Dalley 2001/2002b, 451-460. Bündig zusammengefasst ist die These bereits in der ersten Arbeit Dalley’s zu diesem Thema: Dalley 1993b, 1: „The famous Hanging Gardens of Babylon, one of the Seven Wonders of late antiquity, have finally been identified as the palace garden of the Assyrian king Sennacherib, constructed not at Babylon but at Nineveh, which was also known als ‘old Babylon’, around 700 B.C. Sennacherib invented the Archimedean screw, using cast copper or bronze, for watering the gardens. A sculpture now in the British Museum shows a part of the gardens in the reign of Sennacherib’s grandson, when the trees were matured“.
+    ==> body (p. 157): blematik auf Fragen der Rekonstruktion und der Bewässerung beschränkten26, sei es, dass sie die Frage der Lokalisierung einfach ausklammer- ten27 oder die Thematik überhaupt ignorierten28. Wohl nicht zuletzt angetrieben von dem Bemühen, die Forschung aus dieser Aporie zu befreien, wurde in jüngerer Zeit ein völlig neuer Vorschlag aufs Tapet gebracht, der für sich nicht nur in Anspruch nahm, des Rätsels Lösung einen bedeutenden Schritt näher gekommen zu sein, sondern auch dieses „gelöst“ zu haben29. In mehreren Arbeiten vertrat Stephanie Dalley die scheinbar befreiende These, die Hängenden Gärten wären gar nicht in Babylon, sondern vielmehr im assyrischen Ninive zu lokalisieren
+
+[B-R p. 172] fn 82: Dalley 1994, 56.
+    ==> body (p. 172): Die folgende Übersicht beginnt mit der auf Berossos basierenden Tradition, die Nebukadnezar als Stifter der Hängenden Gärten bezeugt. Da Dalley die Autorität des Babyloniers ungern in Abrede stellen möchte, richtet sie ihre Argumente gegen diejenigen, die sich auf Berossos berufen: Josephos selbst oder seine mutmaßliche Quelle, Alexander Polyhistor, hätte eine Tradition über die Hängenden Gärten in irriger Weise dem Berossos zugeschrieben. Jener habe also gar nicht von den Gärten und daher auch nicht von Nebukadnezar als ihrem Stifter berichtet
+
+[B-R p. 172] fn 83: Dalley 1994, 55f.
+    ==> body (p. 172): Damit ist das Zeugnis bei Josephos erledigt. Größeres Gewicht wird dafür Abydenos (bei Eusebios) zugebilligt. Sein Bericht könne sehr wohl auf Berossos zurückgehen, freilich mit einer Namensverderbnis: Statt Nebukadnezar müsse ursprünglich Sanherib gemeint sein
+
+[B-R p. 173] fn 85: Dalley 1994, 51.
+    ==> body (p. 173): Denn die vorausgesetzte These, nach der im Zuge der Traditionsbildung über die Hängenden Gärten Ninive mit Babylon und Sanherib mit Nebukadnezar verwechselt wurden, bestimmt a priori das Ergebnis. So sei etwa Curtius’ Bezug auf die Person des Stifters passend, nur die Lokalisierung der Gärten nicht: „ … since the description of the builder given bei Q. Curtius Rufus, as ‘a king of Assyria, reigning in Babylon’, fits Sennacherib, a new location of the Hanging Gardens is required“
+
+[B-R p. 173] fn 86: Dalley 1994, 51 mit Fig. 1 und 54. Zur Problematik dieser These vgl. unten Kapitel 3.2.2.
+    ==> body (p. 173): Curtius Rufus, as ‘a king of Assyria, reigning in Babylon’, fits Sennacherib, a new location of the Hanging Gardens is required“85. Ähnliches gilt für die Behandlung Diodors und Strabons. So passe Diodors Vergleich des Gartens mit dem Zuschauerraum eines Theaters gut auf eine Reliefdarstellung von Sanheribs Garten aus der Zeit Assurbanipals
+
+[B-R p. 173] fn 88: Dalley 1994, 54.
+    ==> body (p. 173): Curtius Rufus, as ‘a king of Assyria, reigning in Babylon’, fits Sennacherib, a new location of the Hanging Gardens is required“85. Ähnliches gilt für die Behandlung Diodors und Strabons. So passe Diodors Vergleich des Gartens mit dem Zuschauerraum eines Theaters gut auf eine Reliefdarstellung von Sanheribs Garten aus der Zeit Assurbanipals86 und ebenso träfen die Maße seiner Erstreckung von 4 mal 4 Plethren, die Diodor (wie auch Strabon) gibt87, ganz gut auf die Park-Anlage Sanheribs auf Kuyunjik zu
+
+[B-R p. 173] fn 90: Dalley 1994, 56f.
+    ==> body (p. 173): eils gerade das als zutreffend zu benennen, was aufgrund der vorausgesetzten Ninive-These als passend er- scheint. Im Gegenteil, die Divergenzen in den Schilderungen der Hängenden Gärten werden als ein Indiz dafür gewertet, dass diese Schilderungen nicht auf eine gemeinsame literarische Tradition zurückgingen, sondern zeigten, „that the gardens were still extant in the Parthian period“. Dalley geht dabei so weit, Curtius’ explizit auf eine Königs-Burg in Babylon gemünzte Veranschaulichung der Hängenden Gärten als Monument, das dem Zahn der Zeit widerstanden hat, als einen Beweis dafür zu nehmen, dass die Gärten auch zu seiner Zeit tatsächlich noch erhalten waren, nur eben in Ninive
+
+[B-R p. 174] fn 91: Vgl. Dalley 1994, 46ff. Was als These entwickelt wurde, geriet rasch zur Gewissheit: „It now seems certain that Greeks as well as Jews confused Nineveh and Babylon, Sennacherib and Nebukadnezzar“; Dalley 1996, 529.
+    ==> body (p. 174): Reinhold Bichler – Robert Rollinger 174 Dennoch wird durch Dalley auch späteren jüdischen Gelehrten so wie den klassischen Berichterstattern über die Hängenden Gärten eine prinzipielle Verwechslung von Ninive und Babylon zugeschrieben
+
+[B-R p. 174] fn 92: Dalley 1994, 45.
+    ==> body (p. 174): Reinhold Bichler – Robert Rollinger 174 Dennoch wird durch Dalley auch späteren jüdischen Gelehrten so wie den klassischen Berichterstattern über die Hängenden Gärten eine prinzipielle Verwechslung von Ninive und Babylon zugeschrieben91. Bemerkenswerter Weise nimmt Dalley’s Beweisgang auch jene klassischen Autoren in Anspruch, die keine Bemerkung über die Hängenden Gärten hinterließen, obwohl man eine solche hätte erwarten können. So wird etwa das Schweigen Xenophons in seiner Kyrupädie als zusätzliches Indiz dafür gewertet, dass es über Hängende Gärten in Babylon eben nichts zu berichten gab, weil sich diese an einem anderen Ort befanden
+
+[B-R p. 174] fn 95: Dalley 1994, 56f.
+    ==> body (p. 174): in seiner Kyrupädie als zusätzliches Indiz dafür gewertet, dass es über Hängende Gärten in Babylon eben nichts zu berichten gab, weil sich diese an einem anderen Ort befanden92. Dafür übergeht Dalley im gege- benen Kontext die Tatsache, dass Xenophon in seiner Anabasis nichts über Hängende Gärten in Ninive verlauten ließ, ja die Ruinen dieser Stadt, die er offensichtlich unter dem Namen Maspila beschrieb und seinerzeit selbst gesehen hatte93, nur mit einer vormaligen Meder-Herrschaft und einer Eroberung durch Kyros in Verbindung bringen konnte (Anabasis III 4, 10–12)94. Dabei geht Dalley recht zuversichtlich davon aus, dass diese zauberhaften Gärten bis in die Partherzeit existierten
+
+[B-R p. 175] fn 100: Dalley 1994, 45f. Reade 2000, 211ff. baut umgekehrt die Schilderung dieser Reliefbilder in seine Rekonstruktion der Hängenden Gärten in Babylon (Westwerk) ein. Zu seinen Thesen siehe oben Kapitel 1.
+    ==> body (p. 175): Die Hängenden Gärten zu Ninive 175 als Reflex assyrischer Reliefkunst würdigt
+
+[B-R p. 176] fn 109: Dalley 1994, 49.
+    ==> body (p. 176): Er behaupte ja auch nicht, die Brücke selbst gesehen zu haben, argumentiert Dalley107. Generöser zeigt sich Dalley, was die Authentizität der legendären Flussableitung als Maßnahme zur Eroberung der Stadt durch Kyros betrifft. Wohl betont sie, „to what extent romantic, historical fiction had emerged under Persian rule by H.s day“ 108, auch weist sie auf die lange literarische Tradition von Geschichten einer Stadtzerstörung durch Wasserfluten hin, die von der sumerischen Dichtung bis zu neuassyrischen Inschriften Sanheribs und Asarhaddons reicht
+
+[B-R p. 177] fn 111: Dalley 1994, 46.
+    ==> body (p. 177): Die Hängenden Gärten zu Ninive 177 afterwards“
+
+[B-R p. 177] fn 115: Dalley 1994, 46. Dalley 1993b, 7f. Dalley 1997, 20, 23. Dalley 2003a, 179-181.
+    ==> body (p. 177): 3.2. Die altorientalischen Quellen 3.2.1. Von Babylon nach Ninive und wieder zurück Wie bereits dargelegt, stellt die angebliche Verwechslung („direct confusion“) zwischen Babylon und Ninive einen zentralen Baustein in der Dalley’schen Argumentation dar
+
+[B-R p. 178] fn 116: Dalley 1994, 46. Vgl. auch Dalley 2002, 67. Siehe ferner schon Dalley 1993b, 9.
+    ==> body (p. 178): Reinhold Bichler – Robert Rollinger 178 Semiramis als Bauherrin in Babylon
+
+[B-R p. 178] fn 121: Dalley 1994, 55f. geht davon aus, dass Sanheribs Inschriften bis in seleukidische Zeit als Quelle zur Verfügung standen, wobei sie aber auch gleichzeitig mit
+    ==> body (p. 178): itierung Babyloniens als eines der vier Weltreiche im Buch Daniel ist wohl einer genuin biblischen Tradition zu verdanken119, die im Gegensatz zu den klassischen Quellen sehr wohl zwischen Babylon-Babylonien und Ninos (Ninive)-Assyrien zu unterscheiden wusste120. Völlig unabhängig neben diese Verwechslungsthese, als deren Trägerin sich Dalley im wesentlichen eine von Aramäern bestimmte Volkstradition vorstellt, tritt nun ein weiteres Argumentationsgebäude, das die Gleichung Babylon- Ninive bis in die Zeit des assyrischen Königs Sanherib zurückverfolgen möchte und – ganz im Gegensatz zur Verwechslungsthese – Keilschriftquellen als direkte Vorlagen für die klassischen Quellen vermutet
+
+[B-R p. 179] fn 123: Dalley 1994, 49.
+    ==> body (p. 179): Dafür wird aber der Spekulation Tür und Tor geöffnet. Demnach soll Sanherib nach der Zerstörung Babylons 689 v. Chr.122 Ninive als „altes“ Babylon be- zeichnet haben, wohingegen das unter seinem Sohn Asarhaddon neu errichte Babylon als „neues Babylon“ wiedererstanden sei
+
+[B-R p. 179] fn 125: Dalley 1994, 49.
+    ==> body (p. 179): Die Quellen wissen davon freilich nichts, wie auch Sanherib seine neue Residenzstadt nie als Babylon bezeichnet hat. Auch die von Dalley angeführten und sowohl in Assur als auch in Ninive gefundenen Fragmente einer assyrischen Rezension des babylonischen ‘Weltschöpfungs-Epos’ Enūma Eliš bieten diesbezüglich keinen Hinweis124. Zwar hat es seine Richtigkeit, dass dort Marduk durch Aššur ersetzt wurde, doch erweist sich Dalley’s Behauptung „No texts have been found in which the name of the city built by the hero god is altered from Babylon“
+
+[B-R p. 180] fn 131: Dalley 1994, 50.
+    ==> body (p. 180): Reinhold Bichler – Robert Rollinger 180 Babylons in die Stadt Assur zu verpflanzen129 – in diesen Kontext gehören neben der Adaption des Enūma eliš auch eine entsprechende Neugestaltung des Aššur-Tempels sowie die Errichtung eines Neujahrsfesthauses (bīt akītu) in Assur130 –, doch hatte dies nichts mit einem nachmaligen Aufgehen Ninives in Babylon zu tun, wie Dalley suggeriert. Dieses angebliche „experiment to replace Marduk with Assur“, das dazu geführt habe, dass „an Assyrian city had become Babylon“
+
+[B-R p. 180] fn 136: Auch die von Dalley 1994, 50 ins Treffen geführten assyrischen Monumental- inschriften, die nicht nach Eponymen datieren, sondern die babylonische Praxis der Datierung nach Herrscherjahren aufgreifen, bezeugen lediglich den partiellen Einfluss babylonischer Kulturpraktiken. Niemand bestreitet das Einwirken babylo- nischer Kultur auf Assyrien. Mit einer Verwechslung, Vertauschung oder gar Umbenennung der jeweiligen Residenzstädte hat dies aber gar nichts zu tun.
+    ==> body (p. 180): Die Anstrengungen Sanheribs bedeuten nicht, dass Assur – Ninive kann in diesem Zusammenhang nicht einfach mit Assur ausgetauscht werden, wie dies Dalley praktiziert – einfach zu Babylon geworden wäre, sondern dass die Stadt Assur Babylon als Zentrum der Welt und der Gott Aššur Marduk als universelle und kosmische Gottheit ablöste135. Damit wurde ein babylonisches ideologisch- theologisches Modell nach Assyrien übertragen und entsprechend adaptiert. Dies ist etwas ganz anderes als eine angebliche Identifikation der beiden Städte
+
+[B-R p. 181] fn 137: Dalley 1994, 47. Dalley 2003a, 179.
+    ==> body (p. 181): Die Hängenden Gärten zu Ninive 181 Pikanterweise kann Dalley für ihre Ninive-Babylon-These auch nur ein einziges Zeugnis beibringen, das sich nicht ausschließlich der Spekulation verdankt
+
+[B-R p. 181] fn 138: Dalley 1994, 48f. Die längste Tagesdauer von 14h 24min führt dabei auf eine geographische Breite von „ziemlich genau 35° Nord“; dazu Becker – Becker 1991, 502.
+    ==> body (p. 181): Chr.), das astronomische Beobachtungen verzeichnet. Dort werden nun für eine als ‘altes Babylon’ bezeichnete Örtlichkeit Angaben zur maximalen Tagesdauer gemacht. Wird auf dieser Basis die geographische Breite des Beobachtungsortes errechnet, weisen die Daten in den Raum Ninives („vicinity of Nineveh“)
+
+[B-R p. 181] fn 142: Dalley 1994, 50.
+    ==> body (p. 181): kundig divergierende Beobachtungsorte voneinander zu unterscheiden. Schließlich weist auch – worauf Dalley allerdings nicht eingeht – das ‘neue Babylon’ nicht nach Babylon, sondern in die Gegend von Ur und Uruk!141 Da die Bezeichnung ‘altes Babylon’ oder gar ‘Babylon’ für eine der assyrischen Residenzen im allgemeinen und für Ninive im besonderen nicht nachzuweisen ist und sich die Argumentation Dalley’s ausschließlich auf das hochmittel- alterliche Zeugnis des Azarqiel stützt, bleibt die postulierte Gleichsetzung völlig hypothetisch und entbehrt jeder Quellengrundlage. So lösen sich alle „indications that Sennacherib saw himself as king of ‘Babylon’ though he did not take the title“
+
+[B-R p. 182] fn 143: Dalley 1994, 51f. mit Fig. 1.
+    ==> body (p. 182): Reinhold Bichler – Robert Rollinger 182 die Hängenden Gärten Sanheribs erkennen möchte
+
+[B-R p. 183] fn 146: Dalley 1994, 51: „hanging gardens in the sense of being suspended upon vaults“. Vgl. dazu auch Murphy 1989, 16 Anm. 38: „‘Hanging’ gardens is a misnomer; ‘elevated’ is a more apt translation“.
+    ==> body (p. 183): Die Hängenden Gärten zu Ninive 183 gen zu erkennen145. Einzig und allein der Aquädukt ist ohne weiteres ausnehm- bar, sonst zeigt das Relief keine gewölbeartigen Strukturen. Freilich wäre gerade der Nachweis von künstlich angelegten Terrassierungen, das für die Hängenden Gärten konstitutive Element, entscheidend, denn auf nichts anderes scheint kremasto/j zu verweisen, was Dalley selbst festhält
+
+[B-R p. 183] fn 147: Dalley 1994, 57f. mit Fig. 3: „Reconstruction drawing of Sennacherib’s palace garden at Nineveh incorporating new evidence“. Bei Dalley 1993b, 9 war hingegen diesbezüglich noch eine gewisse Zurückhaltung bemerkbar. Dort wurde der Aquä- dukt noch als Aquädukt angesprochen und die Terrassen blieben unerwähnt. Später änderte sich dies freilich, und wenn Dalley 1997, 21 behauptet „Sennacherib’s gardens are indeed hanging gardens“ und dies im Sinne von terrassierten Anlagen versteht, dann bleibt dies reine Spekulation. Weder Sanheribs Inschriften noch das Orthostatenrelief bieten dafür irgend einen Hinweis.
+    ==> body (p. 183): Einzig und allein der Aquädukt ist ohne weiteres ausnehm- bar, sonst zeigt das Relief keine gewölbeartigen Strukturen. Freilich wäre gerade der Nachweis von künstlich angelegten Terrassierungen, das für die Hängenden Gärten konstitutive Element, entscheidend, denn auf nichts anderes scheint kremasto/j zu verweisen, was Dalley selbst festhält146. Diese Interpretations- schwierigkeiten mag Dalley auch selbst wahrgenommen haben, erinnert doch die von ihr bildlich gebotene Rekonstruktion der „Hanging Gardens of Sennacherib at Nineveh“ weder an ein Theater, noch sind dort die künstlich angelegten und auf Pfeiler gestellten Terrassen zu erkennen
+
+[B-R p. 185] fn 160: Dalley 1994, 51-53.
+    ==> body (p. 185): So heißt es etwa in zwei Editionen dieser Texte: Einen Park, ein Abbild des Amanus-Gebirges, in dem sämtliche Gewürzpflanzen, Früchte der Obstgärten und Hölzer, (welche) die Versorgungsbasis des Gebirges und des Landes Kaldu (bilden), samt Hölzern, die Wolle tragen, zusammengetragen sind, pflanzte ich an seiner (scil. des Palastes) Seite158. Dalley hob nun die in mehreren Passagen beschriebene exquisite Bewässerungstechnik dieses Palastgartens hervor, wobei sie durch eine Neuinterpretation der Textpassage159, eine aus Bronze gegossene archimedische Wasserschraube zu erkennen glaubte
+
+[B-R p. 185] fn 161: Dalley 1994, 52. Dalley 1997, 22f. Dalley 2001/2002b, 451-460. Dalley – Oleson 2003, 7f. Vgl. zum Text Luckenbill 1924, 109-111. Heidel 1953, 154-169. In- zwischen wurde im Rahmen eines von der BBC gesponserten Programms eine solche Schraube tatsächlich nachgebaut: Dalley 2001/2002a, 214. Dalley – Oleson 2003, 3, 8, 10f.
+    ==> body (p. 185): des Palastes) Seite158. Dalley hob nun die in mehreren Passagen beschriebene exquisite Bewässerungstechnik dieses Palastgartens hervor, wobei sie durch eine Neuinterpretation der Textpassage159, eine aus Bronze gegossene archimedische Wasserschraube zu erkennen glaubte160. Kernstück dieser durchaus genialen Interpretation sind die beiden Termini alamittu und gišma¦¦u, die Dalley als ‘Schnecke’ und Zylinder verstand
+
+[B-R p. 185] fn 162: Dalley 1994, 53. Dalley 2001/2002b, 458. Dalley – Oleson 2003, 12.
+    ==> body (p. 185): Dalley hob nun die in mehreren Passagen beschriebene exquisite Bewässerungstechnik dieses Palastgartens hervor, wobei sie durch eine Neuinterpretation der Textpassage159, eine aus Bronze gegossene archimedische Wasserschraube zu erkennen glaubte160. Kernstück dieser durchaus genialen Interpretation sind die beiden Termini alamittu und gišma¦¦u, die Dalley als ‘Schnecke’ und Zylinder verstand161. Dabei wurden auch die Verbindungen zu den antiken Berichten hervorgehoben, lassen doch vor allem die Beschreibungen Strabons und Philons die archimedische Schraube erkennen
+
+[B-R p. 188] fn 174: Auch Dalley 1994, 46 sieht Berossos als einen Gelehrten, dessen „account has generally been taken as authoritative“. Vgl. auch Dalley 1997, 19: „Berossos cannot be dimissed lightly“.
+    ==> body (p. 188): Reinhold Bichler – Robert Rollinger 188 Gedanke – dass sich zumindest in dieser Zeit die in diese Listen aufgenom- menen Bauwerke noch in einem intakten Zustand befanden. Berossos’ Angaben sind somit die entscheidende Crux für Dalley’s Verwechslungsthese
+
+[B-R p. 188] fn 175: Dalley 1994, 55. Dalley 2003a, 181. Vgl. dazu oben S. 172f.
+    ==> body (p. 188): Dalley versucht nun dieses zentrale Zeugnis auf zwei Wegen zu entkräften, ohne dabei die Autorität des Berossos in Frage zu stellen. Einerseits stellt sie die Behauptung in den Raum, dass die bei Flavius Josephus und Eusebios überlieferten Berossosfragmente in korrupter Form vorlägen. Die ‘Schuld’ an dieser misslichen Überlieferungslage weist sie, wie oben schon dargelegt, den ‘Zwischengliedern’ Abydenos und Alexander Polyhistor zu
+
+[B-R p. 188] fn 177: Dalley 1994, 45.
+    ==> body (p. 188): When the Persians captured Babylon in 539 B.C., a mere 23 years after the death of Nebuchadnezzar, or perhaps in 482 when Xerxes levelled the city wall, they diverted the Euphrates river and it continued in its diverted course long afterwards. For centuries it no longer ran alongside the north-west part of Nebuchadnezzar’s palace. Any machinery set up there to water the gardens from the river would have become useless, and all the trees in the garden would soon have withered and died“
+
+[B-R p. 190] fn 186: Dalley 1993b, 8f. Vgl. auch Dalley 1994, 45. Dalley 1997, 20. Dalley 2003a, 171f-176. Interessant ist auch der jeweilige Bezugspunkt ihres Arguments: Es ist jedes Mal einzig das Werk von Sayce aus den 80er Jahren des 19. Jahrhunderts! Vgl. dazu Bichler – Rollinger 2001, 138.
+    ==> body (p. 190): Herodot und das argumentum e silentio Von Anfang an spielte ein Argument in Dalley’s These eine besondere Rolle, das sich bei näherer Betrachtung als ziemlich kurios erweist: „By locating the Hanging Gardens in Nineveh another puzzle has been solved. When Herodotus described the city of Babylon in the fifth century B.C., he failed to mention the Hanging Gardens, and has been vilified for his unreliability in this matter. But with the gardens at Nineveh, his account is vindicated“
+
+[B-R p. 191] fn 192: Dalley 1997, 19. Dalley 1994, 45f. Dalley versucht freilich das Problem zu umschiffen, indem sie Ktesias als vermeintliche Quelle für Diodors Abschnitt der Hängenden Gärten voraussetzt, was allerdings höchst unwahrscheinlich ist. Vgl. dazu Prandi 1996, 117-124, sowie oben Kapitel 2.3. All dies hat sie nicht daran gehindert, später für eine Rehabilitierung des Ktesias zu plädieren: Dalley 2003a, 178, 189. In der ebenda zusammen gestellten Appendix, die „items“ anführt, „for which veracity of Herodotus and Ctesias has been challenged“ und bei denen angeblich „subsequent work by Assyriologists has shown the challenge to be ill- informed and wrong“, finden sich dann auch so abenteuerliche Sujets wie die Kultprostitution, die Dalley auch anderenorts als historisch erweisen mochte. Hier hat Stol 1998, 805 schon gesagt, was zu sagen ist: „One error (scil. Dalley’s): Herodotus’ ‘account of how girls had to prostitute themselves for Mylitta once in their lifetime has been substantiated in cuneiform texts’ (Dalley 1998, 110a). There was temple prostitution, to be sure, but Herodotus’ stark story about house-wives doing this remains legendary“.
+    ==> body (p. 191): Kritik an Herodots Berichterstattung wird so mit Denunziation verwechselt191. Freilich erweist sich eine solche Betrachtungsweise im Falle der Hängenden Gärten als besonders fatal. Der für Dalley’s These prekäre Umstand, dass auch Ktesias von den Hängenden Gärten nichts zu berichten wusste, obwohl sich der Autor nach allgemeiner Auffassung in Babylon aufgehalten haben soll, wird mit einer kurzen Bemerkung abgetan, Ktesias sei „not a reliable historian“
+
+[B-R p. 192] fn 197: Dalley 1994, 56. Dalley 2001, 160f. Dalley 2003a, 172. Dalley 2003a, 187 ist von „guides of the Persian period“ die Rede.
+    ==> body (p. 192): 3.2.5. Das Argument vom Fortleben Ninives und die assyrische Tradition Dalley geht davon aus, dass Ninive nach seiner Plünderung durch Meder und Babylonier nicht vollkommen zerstört worden sei, sondern weiterhin als nicht unbedeutende Siedlung existiert habe196. Gleichzeitig wären die assyrischen Reliefs allgemein sichtbar geblieben und von einheimischen ‘Reiseführern’ bis in hellenistische Zeit interessierten Besuchern vorgeführt worden
+
+[B-R p. 193] fn 200: Dalley 1994, 45: „ ... his informants were, as he declares, Chaldaeans“. Vgl. auch Dalley 2003a, 175f., 182, 188. Dalley 1996, 526 denkt konkret an „translation services in Babylon“. Zu den Schwierigkeiten und Problemen, die bei diesem wortwörtlichen Verständnis der herodoteischen Quellenangaben auftreten, vgl. Fowler 1996, 85. Shrimpton 1997, 109. Luraghi 2001, 148. Rollinger 2004a, 936- 943.
+    ==> body (p. 193): Die Hängenden Gärten zu Ninive 193 Quellen von den „Hängenden Gärten Ninives“ zu berichten wusste und diese Attraktion allen antiken Beobachtern entgangen ist. Dieser Umstand wiegt umso schwerer, als Dalley mehrfach eine indigene Volksüberlieferung als wichtige Quelle für Herodot annehmen möchte
+
+[B-R p. 193] fn 201: Dalley 1994, 47f.
+    ==> body (p. 193): Dass auch diese Volksüberlieferung von den Gärten in Ninive nichts wusste – und zwar ohne Ausnahme –, ist fatal. Freilich glaubt Dalley auf diese Weise so manche vermeintliche Ungereimtheit in den Historien erklären zu können, die sie als weiteren Beleg für ihre Ninive-These betrachtet. So soll Herodot I.185 eigentlich nicht Wasserlauf und Geographie oberhalb von Babylon, sondern bei Ninive beschrieben haben
+
+[B-R p. 193] fn 202: Dalley 1994, 48. Dalley 2003, 176f. Beides Mal mit falscher Quellenangabe I.179.
+    ==> body (p. 193): Auch dass Herodot Babylon ausdrücklich am Euphrat lokalisiert, Ninos-Ninive aber am Tigris, stört Dalley dabei wenig. Selbst in der Behauptung Herodots I. 178, wonach der Sitz des Königtums nach dem Fall von Ninos nach Babylon verlegt worden sei, sieht sie einen direkten Hinweis, dass der pater historiae auf eine „indigenous tradition“ zurückgegriffen habe
+
+[B-R p. 193] fn 204: Dalley 1994, 48.
+    ==> body (p. 193): Voraussetzung dafür ist, dass Dalley ihre babylonisch-assyrische Verwechslungsthese modifiziert und I. 178 als Kardinal- zeugnis dafür in Anspruch nimmt, dass Herodot Babylonien eigentlich als Teil Assyriens betrachtet habe, was sie in vollkommener Übereinstimmung mit einem Teil der chaldäischen Inschriften wähnt203. Diese ‘Harrān-Tradition’ sei letztlich als direkte Quelle Herodots zu betrachten
+
+[B-R p. 193] fn 205: Bei der von Dalley 1994, 48 mit Anm. 20 genannten „Pognon stela“ handelt es sich um „Exemplar 2“ der beiden Adad-guppi-Stelen. Siehe Schaudig 2001, 500.
+    ==> body (p. 193): Diese ‘Harrān-Tradition’ sei letztlich als direkte Quelle Herodots zu betrachten204. Doch auch hier hält das Thesenkonstrukt einer kritischen Überprüfung nicht stand. Zum einen reduziert sich die von Dalley in Anspruch genommene ‘Harrān-Tradition’ auf die zwei Stelen der Adad-guppi, in denen ihr enormes Lebensalter beim Regierungsantritt ihres Sohnes Nabonid durch die jeweils relevanten Regierungsjahre einzelner Herrscherpersönlichkeiten bemessen wird
+
+[B-R p. 197] fn 233: Dalley 1994, 56.
+    ==> body (p. 197): Die Hängenden Gärten zu Ninive 197 angebliche Quellenwirrwarr noch nicht sein Ende. Denn es genügte nicht, dass Ninive mit Babylon verwechselt worden sei und die babylonischen Gärten eigentlich in Ninive zu suchen seien, sondern die erhaltenen Berichte transferier- ten auch die historischen Zusammenhänge um die Eroberungen Babylons durch Sanherib und später durch Assurbanipal nach Ninive
+
+[B-R p. 197] fn 238: Dalley 1994, 50f. Zur Serie ‘Tintir = Babylon’ siehe unten Anm. 258.
+    ==> body (p. 197): So müsse man gewärtigen, in den verlorenen Zeilen der babylonischen Chronik die von Herodot gebotene Version der Eroberung Babylons zu finden235, womit sich Volksüberlieferung und das hochoffizielle Schrifttum die Hand reichten. Der verlorene Teil des Orthostatenreliefs dürfte wohl die vermuteten archimedischen Schrauben gezeigt haben236, die eigentlich solche Sanheribs seien, und letztlich gewinne auch anderenorts das argumentum e silentio besondere Zugkraft. Dies gelte nicht nur für Herodot237, sondern für die topographische Serie ‘Tintir = Babylon’ ebenso wie für Nebukadnezar
+
+[B-R p. 197] fn 239: So der von Dalley 1994 gewählte Titel ihrer Abhandlung.
+    ==> body (p. 197): Der verlorene Teil des Orthostatenreliefs dürfte wohl die vermuteten archimedischen Schrauben gezeigt haben236, die eigentlich solche Sanheribs seien, und letztlich gewinne auch anderenorts das argumentum e silentio besondere Zugkraft. Dies gelte nicht nur für Herodot237, sondern für die topographische Serie ‘Tintir = Babylon’ ebenso wie für Nebukadnezar238. So braucht das Fazit nicht mehr zu verwundern: Die zu Unrecht kritisierten antiken Quellentexte sowie die Keilschriftquellen ergäben ein harmonisches Bild
+
+[B-R p. 198] fn 240: Dalley 1994, 58: „Sennacherib built the gardens, and a contemporary sculpture as well as an inscription confirm the truth of later accounts“ (kursiv Bichler – Rollinger).
+    ==> body (p. 198): Reinhold Bichler – Robert Rollinger 198 schließlich als ‘wahr’
+
+[B-R p. 203] fn 258: Dalley 1994, 50f.: „This negative statement bears considerable weight“. Gleich im Anschluss bietet Dalley das nächste Argument dieser Art: „‘The Topography of Babylon’ does not mention any gardens either“. Dies ist besonders problematisch, weil die topographische Liste ‘Tintir = Babylon’ wahrscheinlich am Ende des 2. Jahrtausends entstanden ist, und wohl auch diesen Zeithorizont widerspiegelt. Siehe dazu George 1992, 1-72, 237-382. Die späteste erhaltene Abschrift des Textes datiert aus parthischer Zeit: George 1997, 139-145. Freilich sollte auch die Frage behandelt werden, ob diese Liste überhaupt an königlichen Gärten interessiert war. Dabei war aber Dalley 1994, 46 selbst noch von der Existenz königlicher Gärten in Babylon ausgegangenen – allerdings nur vor der vermeintlichen Flussumleitung durch die Perser! Darüber hinaus ließ Dalley das argumentum e silentio nur gelten, wenn es um die Hängenden Gärten ging. Im Falle der Tore Babylons wurde das Argument umgedreht: Die bei Herodot erwähnten Namen der Stadttore Babylons dürften durch die in der Serie ‘Tintir = Babylon’ völlig anders lautenden Tornamen keineswegs als falsifiziert gelten, da „that text is based on material assembled centuries before the time of Herodotus“ (Dalley 1996, 53).
+    ==> body (p. 203): Die Hängenden Gärten zu Ninive 203 Bauwut, die den Glanz der Stadt entscheidend geprägt haben muss257. Stephanie Dalley allerdings schloss diese Verknüpfung mit einem weiteren argumentum e silentio aus: Nebukadnezar habe – wie alle anderen Chaldäerkönige – in seinen zahlreichen Inschriften nichts von diesem Garten berichtet
+
+
+======================================================================================================
+PART 5. THE SAME ARGUMENT IN DALLEY'S OWN WORDS FROM THE OPEN-ACCESS RESTATEMENTS (pointers; full texts in F_dalley_other.md)
+======================================================================================================
+* Dalley 1993 (Garden History 21: 1-13), abstract: "The famous Hanging Gardens of Babylon, one of the Seven Wonders of late antiquity, have finally been identified as the palace garden of the Assyrian king Sennacherib, constructed not at Babylon but at Nineveh, which was also known as 'old Babylon', around 700 B.C. Sennacherib invented the Archimedean screw, using cast copper or bronze, for watering the gardens. A sculpture now in the British Museum shows a part of the gardens in the reign of Sennacherib's grandson, when the trees had matured." (Full text: F_dalley_other.md section A.)
+* Dalley 2008 (SAOC 62, 25-33), "Babylon as a name for other cities including Nineveh": the full cuneiform dossier for Borsippa, Eridu, Kish etc. as 'Babylon', the Toledan tables, and Sennacherib's/Assurbanipal's treatment of Nineveh as a Babylon (Full text: F_dalley_other.md section B) — this is the developed form of 1994 pp. 46-50.
+* Dalley & Oleson 2003 (Technology and Culture 44: 1-26): the developed form of 1994 pp. 51-54 (the prism text, alamittu/gišmahhu, casting, the BBC reconstruction) with Oleson's assessment (Full text: raw_D/dalley_oleson_2003.txt; extracts in F_dalley_other.md section C).
+* Dalley 2017 (Nineveh, the Great City, 188-191): the whole thesis in four pages (Full text: F_dalley_other.md section D).

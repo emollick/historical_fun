@@ -1,0 +1,212 @@
+{
+ "evidence": {
+  "A. Officers' careers: securely dated service ends c. 123/124, probably c. 125-128; none secure after c. 130": {
+   "H1": [
+    1.0,
+    1.0
+   ],
+   "H2": [
+    0.35,
+    0.7
+   ],
+   "H3": [
+    0.08,
+    0.16
+   ],
+   "H4": [
+    0.3,
+    0.6
+   ]
+  },
+  "B. No base and no trace outside Britain after c. 122 (Nijmegen detachment only; fortress empty c. 125/130; no eastern inscription)": {
+   "H1": [
+    1.0,
+    1.0
+   ],
+   "H2": [
+    0.2,
+    0.4
+   ],
+   "H3": [
+    0.1,
+    0.2
+   ],
+   "H4": [
+    0.5,
+    1.0
+   ]
+  },
+  "C. A British crisis c. 122-125 with heavy losses, a 3,000-man legionary reinforcement, a Spanish levy and VI Victrix as a one-for-one replacement (Fronto, SHA, ILS 2726, 2735, RIB 3364, Wall hiatus)": {
+   "H1": [
+    1.0,
+    1.0
+   ],
+   "H2": [
+    0.5,
+    0.8
+   ],
+   "H3": [
+    0.5,
+    0.8
+   ],
+   "H4": [
+    0.6,
+    0.85
+   ]
+  },
+  "D. Dio 71.2 records a legion annihilated at Elegeia in 161": {
+   "H1": [
+    1.0,
+    1.0
+   ],
+   "H2": [
+    1.0,
+    1.0
+   ],
+   "H3": [
+    2.0,
+    3.0
+   ],
+   "H4": [
+    1.0,
+    1.0
+   ]
+  },
+  "E. No building stone of the Ninth on Hadrian's Wall": {
+   "H1": [
+    0.5,
+    0.3
+   ],
+   "H2": [
+    1.0,
+    1.0
+   ],
+   "H3": [
+    1.0,
+    1.0
+   ],
+   "H4": [
+    1.0,
+    1.0
+   ]
+  }
+ },
+ "prior_H1_range": [
+  0.3,
+  0.15
+ ],
+ "point_cases": {
+  "base (every likelihood and the prior at the base reading)": {
+   "H1": 0.852,
+   "H2": 0.06,
+   "H3": 0.011,
+   "H4": 0.077
+  },
+  "sceptic (every likelihood at the sceptical reading, base prior)": {
+   "H1": 0.356,
+   "H2": 0.266,
+   "H3": 0.076,
+   "H4": 0.302
+  },
+  "sceptic and low prior for Britain (15%)": {
+   "H1": 0.185,
+   "H2": 0.336,
+   "H3": 0.096,
+   "H4": 0.383
+  }
+ },
+ "distribution_over_draws": {
+  "H1": {
+   "p05": 0.374,
+   "median": 0.52,
+   "mean": 0.518,
+   "p95": 0.656
+  },
+  "H2": {
+   "p05": 0.112,
+   "median": 0.192,
+   "mean": 0.198,
+   "p95": 0.304
+  },
+  "H3": {
+   "p05": 0.024,
+   "median": 0.045,
+   "mean": 0.048,
+   "p95": 0.081
+  },
+  "H4": {
+   "p05": 0.139,
+   "median": 0.231,
+   "mean": 0.236,
+   "p95": 0.352
+  }
+ },
+ "P(H1 > 0.5)": 0.584,
+ "P(H1 > 0.75)": 0.001,
+ "midpoint_case": {
+  "H1": 0.521,
+  "H2": 0.197,
+  "H3": 0.047,
+  "H4": 0.235
+ },
+ "drop_one_at_midpoint": {
+  "without A": {
+   "H1": 0.288,
+   "H2": 0.207,
+   "H3": 0.216,
+   "H4": 0.289
+  },
+  "without B": {
+   "H1": 0.289,
+   "H2": 0.364,
+   "H3": 0.173,
+   "H4": 0.174
+  },
+  "without C": {
+   "H1": 0.427,
+   "H2": 0.248,
+   "H3": 0.059,
+   "H4": 0.266
+  },
+  "without D": {
+   "H1": 0.536,
+   "H2": 0.203,
+   "H3": 0.019,
+   "H4": 0.242
+  },
+  "without E": {
+   "H1": 0.731,
+   "H2": 0.11,
+   "H3": 0.026,
+   "H4": 0.132
+  }
+ },
+ "triangular_mode_at_base": {
+  "H1": {
+   "p05": 0.527,
+   "median": 0.653,
+   "mean": 0.646,
+   "p95": 0.742
+  },
+  "H2": {
+   "p05": 0.089,
+   "median": 0.139,
+   "mean": 0.145,
+   "p95": 0.221
+  },
+  "H3": {
+   "p05": 0.018,
+   "median": 0.031,
+   "mean": 0.033,
+   "p95": 0.053
+  },
+  "H4": {
+   "p05": 0.112,
+   "median": 0.17,
+   "mean": 0.176,
+   "p95": 0.262
+  }
+ },
+ "P(Britain ranks first) uniform": 0.969,
+ "P(Britain ranks first) triangular": 1.0
+}

@@ -1,0 +1,85 @@
+theirs sizes {'lincoln': (505, 192405), 'hay': (892, 499877)} frac 0.95 nseq 10 seed 0 target 182784
+  w1 done in 1.1s
+  w2 done in 1.9s
+  w3 done in 2.1s
+  c3 done in 2.6s
+  c4 done in 4.1s
+  c5 done in 6.0s
+  c6 done in 7.6s
+  c7 done in 8.8s
+  c8 done in 10.1s
+  c9 done in 11.3s
+  c10 done in 12.7s
+  c11 done in 12.8s
+  c12 done in 13.3s
+  c13 done in 13.6s
+  c14 done in 13.3s
+  c15 done in 13.0s
+  c16 done in 12.4s
+{
+ "lincoln": {
+  "n": 63,
+  "wrong_c4_10": 20,
+  "ties": 0,
+  "wrong_all17": 8,
+  "wrong_ids": [
+   "basler-VII-0654#0 L2/H5",
+   "basler-VII-0654#2 L2/H5",
+   "basler-VII-0765 L0/H7",
+   "basler-VIII-0724 L3/H4",
+   "L6-0134 L3/H4",
+   "L6-0135#3 L1/H6",
+   "L6-0135#5 L3/H4",
+   "L6-0204#0 L3/H4",
+   "L6-0204#1 L3/H4",
+   "L6-0204#3 L1/H6",
+   "L6-0232#0 L2/H5",
+   "L6-0476 L2/H5",
+   "L6-0481 L3/H4",
+   "L7-0012 L1/H6",
+   "sp_gettysburg#0 L2/H5",
+   "sp_gettysburg#1 L2/H5",
+   "sp_second_inaugural#3 L2/H5",
+   "sp_second_inaugural#4 L0/H7",
+   "sp_ellsworth#0 L0/H7",
+   "sp_ellsworth#1 L1/H6"
+  ]
+ },
+ "hay": {
+  "n": 57,
+  "wrong_c4_10": 2,
+  "ties": 0,
+  "wrong_all17": 5,
+  "wrong_ids": [
+   "hay_baker_06 L7/H0",
+   "hay_baker_07 L7/H0"
+  ]
+ },
+ "bixby": {
+  "c4_10": {
+   "hay": 7
+  },
+  "all17": {
+   "hay": 17
+  },
+  "margins": {
+   "w1": -0.0558,
+   "w2": -0.1414,
+   "w3": -0.0539,
+   "c3": -0.0022,
+   "c4": -0.0143,
+   "c5": -0.0403,
+   "c6": -0.0786,
+   "c7": -0.0935,
+   "c8": -0.0915,
+   "c9": -0.096,
+   "c10": -0.0967,
+   "c11": -0.0803,
+   "c12": -0.0658,
+   "c13": -0.0597,
+   "c14": -0.0431,
+   "c15": -0.0359,
+   "c16": -0.0252
+  }
+ }
+}

@@ -1,0 +1,2509 @@
+﻿The Project Gutenberg EBook of Preface to the Works of Shakespeare (1734)
+by Lewis Theobald
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Preface to the Works of Shakespeare (1734)
+
+Author: Lewis Theobald
+
+Commentator: Hugh G. Dick
+
+Release Date: July 22, 2005 [EBook #16346]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PREFACE WORKS OF SHAKESPEARE ***
+
+
+
+
+Produced by David Starner, Louise Hope and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+[Transcriber's Note:
+This e-text includes a few passages in accented Greek:
+  Παρθένον, ἧς ἀπέλυσε μίτρην‧ ἯΣ ἨΡΙΝΌΝ ἄνθος
+    (Parthenon, hês apelyse mitrên; HÊS ÊRINON anthos)
+If it does not display properly, use the transliterated (Latin-1)
+version instead. ]
+
+       *       *       *       *       *
+
+         The Augustan Reprint Society
+
+
+                LEWIS THEOBALD
+     _Preface to The Works of Shakespeare_
+                    (1734)
+
+            With an Introduction by
+                  Hugh G. Dick
+
+
+             Publication Number 20
+             (Extra Series, No. 2)
+
+
+
+
+                  Los Angeles
+    William Andrews Clark Memorial Library
+           University of California
+                     1949
+
+
+       *       *       *       *       *
+
+_GENERAL EDITORS_
+
+H. RICHARD ARCHER, _Clark Memorial Library_
+RICHARD C. BOYS, _University of Michigan_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+_ASSISTANT EDITORS_
+
+W. EARL BRITTON, _University of Michigan_
+JOHN LOFTIS, _University of California, Los Angeles_
+
+
+_ADVISORY EDITORS_
+
+EMMETT L. AVERY, _State College of Washington_
+BENJAMIN BOYCE, _University of Nebraska_
+LOUIS I. BREDVOLD, _University of Michigan_
+CLEANTH BROOKS, _Yale University_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+SAMUEL H. MONK, _University of Minnesota_
+ERNEST MOSSNER, _University of Texas_
+JAMES SUTHERLAND, _Queen Mary College, London_
+
+       *       *       *       *       *
+
+
+INTRODUCTION
+
+
+Lewis Theobald's edition of Shakespeare (1734) is one cornerstone
+of modern Shakespearian scholarship and hence of English literary
+scholarship in general. It is the first edition of an English writer in
+which a man with a professional breadth and concentration of reading in
+the writer's period tried to bring all relevant, ascertainable fact to
+bear on the establishment of the author's text and the explication of
+his obscurities. For Theobald was the first editor of Shakespeare who
+displayed a well grounded knowledge of Shakespeare's language and
+metrical practice and that of his contemporaries, the sources and
+chronology of his plays, and the broad range of Elizabethan-Jacobean
+drama as a means of illuminating the work of the master writer. Thus
+both in the edition itself and in his Preface, which stands as the first
+significant statement of a scholar's editorial duties and methods in
+handling an English classic, Theobald takes his place as an important
+progenitor of modern English studies.
+
+It is regrettable, though it was perhaps historically inevitable, that
+this pioneer of English literary scholarship should have been tagged
+"piddling Theobald" by Pope and crowned the first king of _The Dunciad_.
+Pope's edition of Shakespeare was completed by 1725, and in the
+following year Theobald made the poet his implacable enemy when he
+issued his _Shakespeare Restored_, which demolished Pope's pretensions
+as an editor by offering some two hundred corrections. But the conflict
+was not merely strife between two writers: it was a clash between two
+kinds of criticism in which the weight of tradition and polite taste
+were all on the side of Pope. What Theobald had done, in modern
+terms, was to open the rift between criticism and scholarship or, in
+eighteenth-century terms, to proclaim himself a "literal critic" and to
+insist upon the need for "literal criticism" in the understanding and
+just appreciation of an older writer. The new concept, which Theobald
+owed largely to Richard Bentley as primate of the classical scholars,
+was of course the narrower one--implicit in it was the idea of
+specialization--and Theobald's opponents among the literati were
+quick to assail him as a mere "Word-catcher" (cf. R.F. Jones, _Lewis
+Theobald_, 1919, p. 114).
+
+His own edition of Shakespeare, therefore, was the work of a man and a
+method on trial. At first Theobald had proposed simply to write further
+commentary on Shakespeare's plays, but by 1729 he determined to issue a
+new edition and in October of that year signed a contract with Tonson.
+From the first Theobald found warm support for his project among
+booksellers, incipient patrons, and men of learning. His work went
+forward steadily; subscribers, including members of the Royal Family,
+were readily forthcoming; and by late 1731 Theobald felt that his labors
+were virtually complete. But vexing delays occurred in the printing so
+that the edition, though dated 1733, did not appear until early in 1734,
+New Style. When it did appear, it was plain to all that Theobald's
+vindication of himself and his method was complete. Judicious critics
+like the anonymous author of _Some Remarks on the Tragedy of Hamlet_
+(1736) were quick to applaud Theobald's achievement, and even Pope
+himself was silenced.
+
+Ultimately of course Theobald came under severe attack by succeeding
+editors of Shakespeare, notably Warburton and Johnson, yet both men were
+guilty of unwarranted abuse of their predecessor, whose edition was nine
+times issued in the course of the century and was still in current use
+by the time of Coleridge (cf. Wm. Jaggard, _Shakespeare Bibliography_,
+1911, pp. 499-504). Warburton and Johnson's abuse, coupled with that of
+Pope, obscured Theobald's real achievements for more than a century
+until J.C. Collins did much to rehabilitate his reputation by an essay
+celebrating him as "The Porson of Shakespearian Criticism" (_Essays and
+Studies_, 1895, pp. 263-315). Collins's emotional defense was largely
+substantiated by T.R. Lounsbury's meticulous _The Text of Shakespeare_
+(1906), R.F. Jones's _Lewis Theobald_ (1919), which brought much new
+material to light, and most recently by R.B. McKerrow's dispassionate
+appraisal, "The Treatment of Shakespeare's Text by his Earlier Editors,
+1709-1768" (_Proceedings of the British Academy_, XIX, 1933, 23-27). As
+a result, so complete has been Theobald's vindication that even in a
+student's handbook he is hailed as "the great pioneer of serious
+Shakespeare scholarship" and as "the first giant" in the field
+(_A Companion to Shakespeare Studies_, 1934, ed. H. Granville Barker
+and G.B. Harrison, pp. 306-07).
+
+Theobald's Preface occupied his attention for over a year and gave him
+much trouble in the writing. Its originality was, and still is, a matter
+of sharp dispute. The first we hear of it is in a letter of 12 November
+1731 from Theobald to his coadjutor Warburton, who had expressed some
+concern about what Theobald planned to prefix to his edition. Theobald
+announced a major change in plan when he replied that "The affair of the
+_Prolegomena_ I have determined to soften into a _Preface_." He then
+proceeded to make a strange request:
+
+  But, dear Sir, will you, at your leisure hours, think over for me
+  upon the contents, topics, orders, &c. of this branch of my labour?
+  You have a comprehensive memory, and a happiness of digesting the
+  matter joined to it, which my head is often too much embarrassed to
+  perform.... But how unreasonable is it to expect this labour, when
+  it is the only part in which I shall not be able to be just to my
+  friends: for, to confess assistance in a _Preface_ will, I am
+  afraid, make me appear too naked (John Nichols, _Illustrations
+  of the Literary History of the Eighteenth Century_, 1817, II,
+  621-22).
+
+His next letter, which contains the list of acknowledgements
+substantially as printed, thanks Warburton for consenting to give the
+requested help, announces that he is himself busy about "the Contents...
+wch. I am Endeavouring to modell in my Head, in Order to communicate
+them to you, for your Directions & refinement," indicates that he has
+"already rough-hewn the Exordium & Conclusion," and asserts that "What I
+shall send you from Time to Time, I look upon only as Materials: wch I
+hope may grow into a fine Building, under your judicious Management"
+(Jones, _op. cit._, pp. 283-84).
+
+Warburton apparently misunderstood or overlooked Theobald's remarks
+about materials, for in his next letter Theobald was obliged to return,
+somewhat ambiguously, to the same point:
+
+  I make no Question of my being wrong in the disjointed Parts
+  of my Preface, but my Intention was, (after I had given you the
+  Conclusion, & the Manner in wch. I meant to start) to give you a
+  List of all the other general Heads design'd to be handled, then to
+  transmit to you, at proper Leisure, my rough Working off of each
+  respective Head, that you might have the Trouble only of refining &
+  embellishing wth: additional Inrichments: of the general Arrangement,
+  wch. you should think best for the whole; & of making the proper
+  Transitions from Subject to Subject, wch. I account no inconsiderable
+  Beauty (_Ibid._, pp. 289-90).
+
+Finally on January 10, 1733, Theobald wrote Warburton: "I promise myself
+now shortly to sit down upon ye fine Synopsis, wch. you so modestly call
+the Skeleton of Preface" (_Ibid._, p. 310).
+
+It is clear from the foregoing that Theobald wrote most of the Preface
+topic by topic, and probably followed the plan for the general structure
+as submitted by Warburton. Yet it is equally clear that certain parts of
+the Preface, such as the contrast between _Julius Caesar_ and Addison's
+_Cato_, which Warburton later claimed as his and which Theobald omitted
+from his second edition, were furnished Theobald as "additional
+Inrichments" (D.N. Smith, _Eighteenth Century Essays on Shakespeare_,
+1903, pp. xlviii-ix). When later a break did occur between the two men,
+neither was free from blame. Theobald had asked and got so much help
+with the Preface that he should have acknowledged the debt, no matter
+how naked it might have made him seem. Warburton, on the other hand, had
+had honest warning that acknowledgement would not be made for this part
+of his help; and if his synopsis were followed, as seems likely, his
+condemnation of the Preface as "Theobald's heap of disjointed stuff" was
+disingenuous, to say the least. Far less defensible was his assertion in
+the same letter to Thomas Birch that, apart from the section on Greek
+texts, virtually the entire Preface was stitched together from notes
+which he had supplied (Nichols, _Illustrations_, II, 81).
+
+Three further points concerning the Preface demand mention. First, the
+section on Shakespeare's life is often dismissed as a simple recension
+of Rowe's Life (1709). Actually, however, the expansion itself is a
+characteristic example of Theobald's habit of exploring original
+sources. To take only a single instance, Rowe says that Shakespeare's
+"Family, as appears by the Register and Publick Writings relating to
+that Town, were of good Figure and Fashion there, and are mention'd as
+Gentlemen" (ed. S.H. Monk, Augustan Society Reprints, 1949, p. ii).
+To this statement Theobald adds plentiful detail drawn from the same
+Stratford records, from tombs in the Stratford Church, and from
+documents in the Heralds' Office connected with the coat of arms
+obtained for the playwright's father. Such typical expansions were
+the result of conscientious research.
+
+Second, all critics have agreed to condemn the digression in which
+Theobald advertised his ability to emend Greek texts. Theobald himself
+was hesitant about including it lest he be indicted for pedantry, but
+was encouraged to do so by Warburton, who later scoffed at what he had
+originally admired. This much may be said in Theobald's behalf. Such a
+digression would not have seemed irrelevant in an age which took its
+classical scholarship seriously; and such digressions, arising naturally
+out of context and strategically placed before the conclusion, were not
+only allowed but actually encouraged by classical rhetoricians like
+Cicero and Quintilian, whose teachings were still standard in the
+English schools.
+
+Finally, the Preface exists in two forms. The later and shorter form
+was that designed for Theobald's second edition (1740), which omits all
+passages presumably contributed by Warburton and more besides, the
+section on Greek texts, and the list of acknowledgements to contemporary
+Shakespearian enthusiasts. This abridged form has been frequently
+reprinted. From a copy in the University of Michigan Library the
+original Preface is here reproduced for the first time.
+
+    Hugh G. Dick
+    University of California,
+    Los Angeles
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+[Transcriber's Note:
+Most Sidenotes appear at the beginning of a paragraph. Where they
+originally appeared at mid-paragraph, their approximate position is
+shown with an asterisk*.]
+
+
+                      The
+                     WORKS
+                       of
+                 _SHAKESPEARE:_
+
+                       in
+                 Seven Volumes.
+
+
+Collated with the Oldest Copies, and Corrected;
+     With NOTES, Explanatory, and Critical:
+
+               By Mr. _THEOBALD_.
+
+
+_I, Decus, i, nostrum: melioribus utere Fatis._
+    Virg.
+
+
+                   _LONDON:_
+    Printed for A. Bettesworth and C. Hitch,
+         J. Tonson, F. Clay, W. Feales,
+               and R. Wellington.
+
+
+                  MDCCXXXIII.
+
+       *       *       *       *       *
+
+
+                      THE
+
+                    PREFACE.
+
+
+The Attempt to write upon SHAKESPEARE is like going into a large, a
+spacious, and a splendid Dome thro’ the Conveyance of a narrow and
+obscure Entry. A Glare of Light suddenly breaks upon you, beyond
+what the Avenue at first promis’d: and a thousand Beauties of Genius
+and Character, like so many gaudy Apartments pouring at once upon
+the Eye, diffuse and throw themselves out to the Mind. The Prospect
+is too wide to come within the Compass of a single View: ’tis a gay
+Confusion of pleasing Objects, too various to be enjoyed but in a
+general Admiration; and they must be separated, and ey’d distinctly,
+in order to give the proper Entertainment.
+
+    [Sidenote*: A sketch of _Shakespeare’s_ general Character.]
+
+And as in great Piles of Building, some Parts are often finish’d up
+to hit the Taste of the _Connoisseur_; others more negligently put
+together, to strike the Fancy of a common and unlearned Beholder:
+Some Parts are made stupendiously magnificent and grand, to surprize
+with the vast Design and Execution of the Architect; others are
+contracted, to amuse you with his Neatness and Elegance in little.
+*So, in _Shakespeare_, we may find _Traíts_ that will stand the Test
+of the severest Judgment; and Strokes as carelessly hit off, to the
+Level of the more ordinary Capacities: Some Descriptions rais’d to
+that Pitch of Grandeur, as to astonish you with the Compass and
+Elevation of his Thought: and others copying Nature within so
+narrow, so confined a Circle, as if the Author’s Talent lay only
+at drawing in Miniature.
+
+In how many Points of Light must we be oblig’d to gaze at this great
+Poet! In how many Branches of Excellence to consider, and admire
+him! Whether we view him on the Side of Art or Nature, he ought
+equally to engage our Attention: Whether we respect the Force and
+Greatness of his Genius, the Extent of his Knowledge and Reading,
+the Power and Address with which he throws out and applies either
+Nature, or Learning, there is ample Scope both for our Wonder and
+Pleasure. If his Diction, and the cloathing of his Thoughts attract
+us, how much more must we be charm’d with the Richness, and Variety,
+of his Images and Ideas! If his Images and Ideas steal into our
+Souls, and strike upon our Fancy, how much are they improv’d in
+Price, when we come to reflect with what Propriety and Justness they
+are apply’d to Character! If we look into his Characters, and how
+they are furnish’d and proportion’d to the Employment he cuts out
+for them, how are we taken up with the Mastery of his Portraits!
+What Draughts of Nature! What Variety of Originals, and how
+differing each from the other! How are they dress’d from the Stores
+of his own luxurious Imagination; without being the Apes of Mode, or
+borrowing from any foreign Wardrobe! Each of Them are the Standards
+of Fashion for themselves: like Gentlemen that are above the
+Direction of their Tailors, and can adorn themselves without the Aid
+of Imitation. If other Poets draw more than one Fool or Coxcomb,
+there is the same Resemblance in them, as in that Painter’s
+Draughts, who was happy only at forming a Rose: you find them all
+younger Brothers of the same Family, and all of them have a Pretence
+to give the same Crest: But _Shakespeare_’s Clowns and Fops come all
+of a different House: they are no farther allied to one another than
+as Man to Man, Members of the same Species: but as different in
+Features and Lineaments of Character, as we are from one another in
+Face, or Complexion. But I am unawares launching into his Character
+as a Writer, before I have said what I intended of him as a private
+Member of the Republick.
+
+    [Sidenote: Some Particulars of his private Life.]
+
+Mr. _Rowe_ has very justly observ’d, that People are fond of
+discovering any little personal Story of the Great Men of Antiquity:
+and that the common Accidents of their Lives naturally become the
+Subject of our critical Enquiries: That however trifling such a
+Curiosity at the first View may appear, yet, as for what relates to
+Men of Letters, the Knowledge of an Author may, perhaps, sometimes
+conduce to the better understanding his Works: And, indeed, this
+Author’s Works, from the bad Treatment he has met with from his
+Editors, have so long wanted a Comment, that one would zealously
+embrace every Method of Information, that could contribute to
+recover them from the Injuries with which they have so long lain
+o’erwhelm’d.
+
+’Tis certain, that if we have first admir’d the Man in his Writings,
+his Case is so circumstanc’d, that we must naturally admire the
+Writings in the Man: That if we go back to take a View of his
+Education, and the Employment in Life which Fortune had cut out
+for him, we shall retain the stronger Ideas of his extensive
+Genius.
+
+His Father, we are told, was a considerable Dealer in Wool; but
+having no fewer than ten Children, of whom our _Shakespeare_ was the
+eldest, the best Education he could afford him was no better than to
+qualify him for his own Business and Employment. I cannot affirm
+with any Certainty how long his Father liv’d; but I take him to be
+the same Mr. _John Shakespeare_ who was living in the Year 1599,
+and who then, in Honour of his Son, took out an Extract of his
+Family-Arms from the Herald’s Office; by which it appears, that he
+had been Officer and Bailiff of _Stratford_, and that he enjoy’d
+some hereditary Lands and Tenements, the Reward of his Great
+Grandfather’s faithful and approved Service to King _Henry_
+VII.
+
+Be this as it will, our _Shakespeare_, it seems, was bred for some
+Time at a Free-School; the very Free-School, I presume, founded at
+_Stratford_: where, we are told, he acquired what _Latin_ he was
+Master of: but, that his Father being oblig’d, thro’ Narrowness
+of Circumstance, to withdraw him too soon from thence, he was
+so unhappily prevented from making any Proficiency in the Dead
+Languages: A Point, that will deserve some little Discussion in
+the Sequel of this Dissertation.
+
+How long he continued in his Father’s Way of Business, either as an
+Assistant to him, or on his own proper Account, no Notices are left
+to inform us: nor have I been able to learn precisely at what
+Period of Life he quitted his native _Stratford_, and began his
+Acquaintance with _London_, and the _Stage_.
+
+In order to settle in the World after a Family-manner, he thought
+fit, Mr. _Rowe_ acquaints us, to marry while he was yet very young.
+It is certain, he did so: for by the Monument, in _Stratford_
+Church, erected to the Memory of his Daughter _Susanna_, the Wife of
+_John Hall_, Gentleman, it appears, that she died on the 2d Day of
+_July_ in the Year 1649, aged 66. So that She was born in 1583, when
+her Father could not be full 19 Years old; who was himself born in
+the Year 1564. Nor was She his eldest Child, for he had another
+Daughter, _Judith_, who was born before her, and who was married to
+one Mr. _Thomas Quiney_. So that _Shakespeare_ must have entred into
+Wedlock, by that Time he was turn’d of seventeen Years.
+
+Whether the Force of Inclination merely, or some concurring
+Circumstances of Convenience in the Match, prompted him to marry
+so early, is not easy to be determin’d at this Distance: but ’tis
+probable, a View of Interest might partly sway his Conduct in this
+Point: for he married the Daughter of one _Hathaway_, a substantial
+Yeoman in his Neighbourhood, and She had the Start of him in Age no
+less than 8 Years. She surviv’d him, notwithstanding, seven Seasons,
+and dy’d that very Year in which the _Players_ publish’d the first
+Edition of his Works in _Folio_, Anno Dom. 1623, at the Age of 67
+Years, as we likewise learn from her Monument in _Stratford_-Church.
+
+How long he continued in this kind of Settlement, upon his own
+Native Spot, is not more easily to be determin’d. But if the
+Tradition be true, of that Extravagance which forc’d him both to
+quit his Country and way of Living; to wit, his being engag’d, with
+a Knot of young Deer-stealers, to rob the Park of Sir _Thomas Lucy_
+of _Cherlecot_ near _Stratford_: the Enterprize favours so much of
+Youth and Levity, we may reasonably suppose it was before he could
+write full Many. Besides, considering he has left us six and thirty
+Plays, which are avow’d to be genuine; (to throw out of the Question
+those Seven, in which his Title is disputed: tho’ I can, beyond all
+Controversy, prove some Touches in every one of them to come from
+his Pen:) and considering too, that he had retir’d from the Stage,
+to spend the latter Part of his Days at his own Native _Stratford_;
+the Interval of Time, necessarily required for the finishing so many
+Dramatic Pieces, obliges us to suppose he threw himself very early
+upon the Play-house. And as he could, probably, contract no
+Acquaintance with the Drama, while he was driving on the Affair of
+Wool at home; some Time must be lost, even after he had commenc’d
+Player, before he could attain Knowledge enough in the Science to
+qualify himself for turning Author.
+
+It has been observ’d by Mr. _Rowe_, that, amongst other Extravagancies
+which our Author has given to his Sir _John Falstaffe_, in the
+_Merry Wives_ of _Windsor_, he has made him a Deer-stealer; and that
+he might at the same time remember his _Warwickshire_ Prosecutor,
+under the Name of Justice _Shallow_, he has given him very near the
+same Coat of Arms, which _Dugdale_, in his Antiquities of that
+County, describes for a Family there. There are two Coats, I
+observe, in _Dugdale_, where three Silver Fishes are borne in the
+Name of _Lucy_; and another Coat, to the Monument of _Thomas Lucy_,
+Son of Sir _William Lucy_, in which are quarter’d in four several
+Divisions, twelve little Fishes, three in each Division, probably
+_Luces_. This very Coat, indeed, seems alluded to in _Shallow_’s
+giving the _dozen_ White _Luces_, and in _Slender_ saying, _he may
+quarter_. When I consider the exceeding Candour and Good-nature of
+our Author, (which inclin’d all the gentler Part of the World to
+love him; as the Power of his Wit obliged the Men of the most
+delicate Knowledge and polite Learning to admire him;) and that he
+should throw this humorous Piece of Satire at his Prosecutor, at
+least twenty Years after the Provocation given; I am confidently
+persuaded it must be owing to an unforgiving Rancour on the
+Prosecutor’s Side: and if This was the Case, it were Pity but the
+Disgrace of such an Inveteracy should remain as a lasting Reproach,
+and _Shallow_ stand as a Mark of Ridicule to stigmatize his
+Malice.
+
+It is said, our Author spent some Years before his Death, in Ease,
+Retirement, and the Conversation of his Friends, at his Native
+_Stratford_. I could never pick up any certain Intelligence, when He
+relinquish’d the Stage. I know, it has been mistakenly thought by
+some, that _Spenser_’s _Thalia_, in his _Tears of his Muses_, where
+she laments the Loss of her _Willy_ in the Comic Scene, has been
+apply’d to our Author’s quitting the Stage. But _Spenser_ himself,
+’tis well known, quitted the Stage of Life in the Year 1598; and,
+five Years after this, we find _Shakespeare_’s Name among the Actors
+in _Ben Jonson_’s _Sejanus_, which first made its Appearance in the
+Year 1603. Nor, surely, could he then have any Thoughts of retiring,
+since, that very Year, a Licence under the Privy-Seal was granted
+by K. _James_ I. to him and _Fletcher_, _Burbage_, _Phillippes_,
+_Hemmings_, _Condel_, &c. authorizing them to exercise the Art of
+playing Comedies, Tragedies, &c. as well at their usual House call’d
+the _Globe_ on the other Side of the Water, as in any other Parts of
+the Kingdom, during his Majesty’s Pleasure: (A Copy of which Licence
+is preserv’d in _Rymer_’s _Foedera_.) Again, ’tis certain, that
+_Shakespeare_ did not exhibit his _Macbeth_, till after the _Union_
+was brought about, and till after K. _James_ I. had begun to touch
+for the _Evil_: for ’tis plain, he has inserted Compliments, on both
+those Accounts, upon his Royal Master in that Tragedy.
+
+Nor, indeed, could the Number of the Dramatic Pieces, he produced,
+admit of his retiring near so early as that Period. So that what
+_Spenser_ there says, if it relate at all to _Shakespeare_, must
+hint at some occasional Recess he made for a time upon a Disgust
+taken: or the _Willy_, there mention’d, must relate to some other
+favourite Poet. I believe, we may safely determine that he had not
+quitted in the Year 1610. For in his _Tempest_, our Author makes
+mention of the _Bermuda_ Islands, which were unknown to the
+_English_, till, in 1609, Sir _John Summers_ made a Voyage to
+_North-America_, and discover’d them: and afterwards invited some
+of his Countrymen to settle a Plantation there. That he became the
+private Gentleman at least three Years before his Decease, is pretty
+obvious from another Circumstance: I mean, from that remarkable and
+well-known Story, which Mr. _Rowe_ has given us of our Author’s
+Intimacy with Mr. _John Combe_, an old Gentleman noted thereabouts
+for his Wealth and Usury: and upon whom _Shakespeare_ made the
+following facetious Epitaph.
+
+  Ten in the hundred lies here in-grav’d,
+  ’Tis a hundred to ten his Soul is not sav’d;
+  If any Man ask who lies in this Tomb,
+  Oh! oh! quoth the Devil, ’tis my _John-a-Combe_.
+
+This sarcastical Piece of Wit was, at the Gentleman’s own Request,
+thrown out extemporally in his Company. And this Mr. _John Combe_
+I take to be the same, who, by _Dugdale_ in his Antiquities of
+_Warwickshire_, is said to have dy’d in the Year 1614, and for whom
+at the upper End of the Quire, of the Guild of the Holy Cross at
+_Stratford_, a fair Monument is erected, having a Statue thereon cut
+in Alabaster, and in a Gown with this Epitaph. “Here lyeth enterr’d
+the Body of _John Combe_ Esq; who dy’d the 10th of _July_, 1614, who
+bequeathed several Annual Charities to the Parish of _Stratford_,
+and 100_l._ to be lent to fifteen poor Tradesmen from three years to
+three years, changing the Parties every third Year, at the Rate of
+fifty Shillings _per Annum_, the Increase to be distributed to the
+Almes-poor there.”--The Donation has all the Air of a rich and
+sagacious Usurer.
+
+_Shakespeare_ himself did not survive Mr. _Combe_ long, for he dy’d
+in the Year 1616, the 53d of his Age. He lies buried on the North
+Side of the Chancel in the great Church at _Stratford_; where a
+Monument, decent enough for the Time, is erected to him, and plac’d
+against the Wall. He is represented under an Arch in a sitting
+Posture, a Cushion spread before him, with a Pen in his Right Hand,
+and his Left rested on a Scrowl of Paper. The _Latin_ Distich, which
+is placed under the Cushion, has been given us by Mr. _Pope_, or his
+Graver, in this Manner.
+
+  INGENIO _Pylium_, Genio _Socratem_, Arte _Maronem_,
+  Terra tegit, Populus mæret, Olympus habet.
+
+I confess, I don’t conceive the Difference betwixt _Ingeniô_ and
+_Geniô_ in the first Verse. They seem to me intirely synonomous
+Terms; nor was the _Pylian_ Sage _Nestor_ celebrated for his
+Ingenuity, but for an Experience and Judgment owing to his long Age.
+_Dugdale_, in his Antiquities of _Warwickshire_, has copied this
+Distich with a Distinction which Mr. _Rowe_ has follow’d, and which
+certainly restores us the true meaning of the Epitaph.
+
+  _JUDICIO Pylium_, Genio _Socratem_, &c.
+
+In 1614, the greater part of the Town of _Stratford_ was consumed by
+Fire; but our _Shakespeare_’s House, among some others, escap’d the
+Flames. This House was first built by Sir _Hugh Clopton_, a younger
+Brother of an ancient Family in that Neighbourhood, who took their
+Name from the Manor of _Clopton_. Sir _Hugh_ was Sheriff of _London_
+in the Reign of _Richard_ III, and Lord Mayor in the Reign of King
+_Henry_ VII. To this Gentleman the Town of _Stratford_ is indebted
+for the fine Stone-bridge, consisting of fourteen Arches, which at
+an extraordinary Expence he built over the _Avon_, together with a
+Cause-way running at the West-end thereof; as also for rebuilding
+the Chapel adjoining to his House, and the Cross-Isle in the Church
+there. It is remarkable of him, that, tho’ he liv’d and dy’d a
+Batchelor, among the other extensive Charities which he left both
+to the City of _London_ and Town of _Stratford_, he bequeath’d
+considerable Legacies for the Marriage of poor Maidens of good Name
+and Fame both in _London_ and at _Stratford_. Notwithstanding which
+large Donations in his Life, and Bequests at his Death, as he had
+purchased the Manor of _Clopton_, and all the Estate of the Family,
+so he left the same again to his Elder Brother’s Son with a very
+great Addition: (a Proof, how well Beneficence and Oeconomy may walk
+hand in hand in wise Families:) Good part of which Estate is yet in
+the Possession of _Edward Clopton_, Esq; and Sir _Hugh Clopton_,
+Knt. lineally descended from the Elder Brother of the first Sir
+_Hugh_: Who particularly bequeathed to his Nephew, by his Will, his
+House, by the Name of his _Great-house_ in _Stratford_.
+
+The Estate had now been sold out of the _Clopton_ Family for above a
+Century, at the Time when _Shakespeare_ became the Purchaser: who,
+having repair’d and modell’d it to his own Mind, chang’d the Name to
+_New-place_; which the Mansion-house, since erected upon the same
+Spot, at this day retains. The House and Lands, which attended it,
+continued in _Shakespeare_’s Descendants to the Time of the
+_Restoration_: when they were repurchased by the _Clopton_ Family,
+and the Mansion now belongs to Sir _Hugh Clopton_, Knt. To the
+Favour of this worthy Gentleman I owe the Knowledge of one
+Particular, in Honour of our Poet’s once Dwelling-house, of which,
+I presume, Mr. ROWE never was appriz’d. When the Civil War raged in
+_England_, and K. _Charles_ the _First’s_ Queen was driven by the
+Necessity of Affairs to make a Recess in _Warwickshire_, She kept
+her Court for three Weeks in _New-place_. We may reasonably suppose
+it then the best private House in the Town; and her Majesty
+preferr’d it to the _College_, which was in the Possession of
+the _Combe_-Family, who did not so strongly favour the King’s Party.
+
+How much our Author employ’d himself in Poetry, after his Retirement
+from the Stage, does not so evidently appear: Very few posthumous
+Sketches of his Pen have been recover’d to ascertain that Point. We
+have been told, indeed, in Print, but not till very lately, That two
+large Chests full of this Great Man’s loose Papers and Manuscripts,
+in the Hands of an ignorant Baker of _Warwick_, (who married one of
+the Descendants from our _Shakespeare_) were carelesly scatter’d
+and thrown about, as Garret-Lumber, and Litter, to the particular
+Knowledge of the late Sir _William Bishop_, till they were all
+consumed in the general Fire and Destruction, of that Town. I cannot
+help being a little apt to distrust the Authority of this Tradition;
+because as his Wife surviv’d him seven Years, and as his Favourite
+Daughter _Susanna_ surviv’d her twenty six Years, ’tis very
+improbable, they should suffer such a Treasure to be remov’d, and
+translated into a remoter Branch of the Family, without a Scrutiny
+first made into the Value of it. This, I say, inclines me to
+distrust the Authority of the Relation: but, notwithstanding such
+an apparent Improbability, if we really lost such a Treasure, by
+whatever Fatality or Caprice of Fortune they came into such ignorant
+and neglectful Hands, I agree with the _Relater_, the Misfortune is
+wholly irreparable.
+
+    [Sidenote*: His Character as a _Writer_.]
+
+To these Particulars, which regard his Person and private Life, some
+few more are to be glean’d from Mr. ROWE’s Account of his _Life_
+and _Writings_: *Let us now take a short View of him in his publick
+Capacity, as a _Writer_: and, from thence, the Transition will be
+easy to the _State_ in which his _Writings_ have been handed down
+to us.
+
+No Age, perhaps, can produce an Author more various from himself,
+than _Shakespeare_ has been universally acknowledg’d to be. The
+Diversity in Stile, and other Parts of Composition, so obvious in
+him, is as variously to be accounted for. His Education, we find,
+was at best but begun: and he started early into a Science from the
+Force of Genius, unequally assisted by acquir’d Improvements. His
+Fire, Spirit, and Exuberance of Imagination gave an Impetuosity
+to his Pen: His Ideas flow’d from him in a Stream rapid, but not
+turbulent; copious, but not ever overbearing its Shores. The Ease
+and Sweetness of his Temper might not a little contribute to his
+Facility in Writing; as his Employment, as a _Player_, gave him an
+Advantage and Habit of fancying himself the very Character he meant
+to delineate. He used the Helps of his Function in forming himself
+to create and express that _Sublime_, which other Actors can only
+copy, and throw out, in Action and graceful Attitude. But _Nullum
+fine Veniâ placuit Ingenium_, says _Seneca_. The Genius, that
+gives us the greatest Pleasure, sometimes stands in Need of our
+Indulgence. Whenever this happens with regard to _Shakespeare_,
+I would willingly impute it to a Vice of _his Times_. We see
+Complaisance enough, in our own Days, paid to a _bad Taste_. His
+_Clinches_, _false Wit_, and descending beneath himself, seem to
+be a Deference paid to _reigning Barbarism_. He was a _Sampson_ in
+Strength, but he suffer’d some such _Dalilah_ to give him up to the
+_Philistines_.
+
+As I have mention’d the Sweetness of his Disposition, I am tempted
+to make a Reflexion or two on a Sentiment of his, which, I am
+persuaded, came from the Heart.
+
+  The Man, that hath no Musick in himself,
+  Nor is not mov’d with Concord of sweet Sounds,
+  Is fit for Treasons, Stratagems, and Spoils:
+  The Motions of his Spirit are dull as Night,
+  And his Affections dark as _Erebus_:
+  Let no such Man be trusted.----
+
+    [Sidenote: A Lover of _Musick_.]
+
+_Shakespeare_ was all Openness, Candour, and Complacence; and had
+such a Share of Harmony in his Frame and Temperature, that we have
+no Reason to doubt, from a Number of fine Passages, Allusions,
+Similies, &_c._ fetch’d from _Musick_, but that He was a passionate
+Lover of it. And to this, perhaps, we may owe that great Number of
+_Sonnets_, which are sprinkled thro’ his _Plays_. I have found,
+that the Stanza’s sung by the Gravedigger in _Hamlet_, are not of
+_Shakespeare_’s own Composition, but owe their Original to the old
+Earl of _Surrey_’s Poems. Many other of his Occasional little Songs,
+I doubt not, but he purposely copied from his Contemporary Writers;
+sometimes, out of Banter; sometimes, to do them Honour. The Manner
+of their Introduction, and the Uses to which he has assigned them,
+will easily determine for which of the Reasons they are respectively
+employ’d. In _As you like it_, there are several little Copies of
+Verses on _Rosalind_, which are said to be the right _Butter-woman’s
+Rank to Market_, and the very _false Gallop of Verses_. Dr. _Thomas
+Lodge_, a Physician who flourish’d early in Queen _Elizabeth_’s
+Reign, and was a great Writer of the Pastoral Songs and Madrigals,
+which were so much the Strain of those Times, composed a whole
+Volume of Poems in Praise of his Mistress, whom he calls
+_Rosalinde_. I never yet could meet with this Collection; but
+whenever I do, I am persuaded, I shall find many of our Author’s
+Canzonets on this Subject to be Scraps of the Doctor’s amorous Muse:
+as, perhaps, those by _Biron_ too, and the other Lovers in _Love’s
+Labour’s lost_, may prove to be.
+
+It has been remark’d in the Course of my Notes, that Musick in our
+Author’s time had a very different Use from what it has now. At this
+Time, it is only employ’d to raise and inflame the Passions; it,
+then, was apply’d to calm and allay all kinds of Perturbations. And,
+agreeable to this Observation, throughout all _Shakespeare_’s Plays,
+where Musick is either actually used, or its Powers describ’d, it is
+chiefly said to be for these Ends. His _Twelfth-Night_, particularly,
+begins with a fine Reflexion that admirably marks its soothing
+Properties.
+
+  That Strain again;--It had a dying Fall.
+  Oh, it came o’er my Ear like the sweet South,
+  That breathes upon a Bank of Violets,
+  Stealing and giving Odour!
+
+    [Sidenote*: _Milton_ an Imitator of him.]
+
+This _Similitude_ is remarkable not only for the Beauty of the
+Image that it presents, but likewise for the Exactness to the Thing
+compared. This is a way of Teaching peculiar to the Poets; that,
+when they would describe the Nature of any thing, they do it not by
+a direct Enumeration of its Attributes or Qualities, but by bringing
+something into Comparison, and describing those Qualities of it that
+are of the Kind with those in the Thing compared. So, here for
+instance, the Poet willing to instruct in the Properties of Musick,
+in which the same Strains have a Power to excite Pleasure, or Pain,
+according to that State of Mind the Hearer is then in, does it
+by presenting the Image of a sweet South Wind blowing o’er a
+Violet-bank; which wafts away the Odour of the Violets, and at the
+same time communicates to it its own Sweetness: by This insinuating,
+that affecting Musick, tho’ it takes away the natural sweet
+Tranquillity of the Mind, yet, at the same time, communicates a
+Pleasure the Mind felt not before. This Knowledge, of the same
+Objects being capable of raising two contrary Affections, is a Proof
+of no ordinary Progress in the Study of human Nature. *The general
+Beauties of those two Poems of _MILTON_, intitled, _L’Allegro_ and
+_Il Pensoroso_, are obvious to all Readers, because the Descriptions
+are the most poetical in the World; yet there is a peculiar Beauty
+in those two excellent Pieces, that will much enhance the Value of
+them to the more capable Readers; which has never, I think, been
+observ’d. The Images, in each Poem, which he raises to excite Mirth
+and Melancholy, are exactly the same, only shewn in different
+Attitudes. Had a Writer, less acquainted with Nature, given us two
+Poems on these Subjects, he would have been sure to have sought out
+the most contrary Images to raise these contrary Passions. And,
+particularly, as _Shakespeare_, in the Passage I am now commenting,
+speaks of these different Effects in Musick; so _Milton_ has brought
+it into each Poem as the Exciter of each Affection: and lest we
+should mistake him, as meaning that different Airs had this
+different Power, (which every Fidler is proud to have you
+understand,) He gives the Image of those self-same Strains that
+_Orpheus_ used to regain _Eurydice_, as proper both to excite Mirth
+and Melancholy. But _Milton_ most industriously copied the Conduct
+of our _Shakespeare_, in Passages that shew’d an intimate
+Acquaintance with Nature and Science.
+
+    [Sidenote: Shakespeare’s _Knowledge of Nature_.]
+
+I have not thought it out of my Province, whenever Occasion offer’d,
+to take notice of some of our Poet’s grand Touches of Nature: Some,
+that do not appear superficially such; but in which he seems the
+most deeply instructed; and to which, no doubt, he has so much ow’d
+that happy Preservation of his _Characters_, for which he is justly
+celebrated. If he was not acquainted with the Rule as deliver’d by
+_Horace_, his own admirable Genius pierc’d into the Necessity of
+such a Rule.
+
+  ----Servetur ad imum
+  Qualis ab incœpto processerit, & sibi constet.
+
+For what can be more ridiculous, than, in our modern Writers, to
+make a debauch’d young Man, immers’d in all the Vices of his Age and
+Time, in a few hours take up, confine himself in the way of Honour
+to one Woman, and moralize in good earnest on the Follies of his
+past Behaviour? Nor can, that great Examplar of _Comic_ Writing,
+_Terence_ be altogether excused in this Regard; who, in his
+_Adelphi_, has left _Demea_ in the last Scenes so unlike himself:
+whom, as _Shakespeare_ expresses it, _he has turn’d with the seamy
+Side of his Wit outward_. This Conduct, as Errors are more readily
+imitated than Perfections, _Beaumont_ and _Fletcher_ seem to
+have follow’d in a Character in their _Scornful Lady_. It may be
+objected, perhaps, by some who do not go to the Bottom of our Poet’s
+Conduct, that he has likewise transgress’d against the Rule himself,
+by making Prince _Harry_ at once, upon coming to the Crown, throw
+off his former Dissoluteness, and take up the Practice of a sober
+Morality and all the kingly Virtues. But this would be a mistaken
+Objection. The Prince’s Reformation is not so sudden, as not to be
+prepar’d and expected by the Audience. He gives, indeed, a Loose to
+Vanity, and a light unweigh’d Behaviour, when he is trifling among
+his dissolute Companions; but the Sparks of innate Honour and true
+Nobleness break from him upon every proper Occasion, where we would
+hope to see him awake to Sentiments suiting his Birth and Dignity.
+And our Poet has so well, and artfully, guarded his Character from
+the Suspicions of habitual and unreformable Profligateness; that
+even from the first shewing him upon the Stage, in the first Part of
+_Henry_ IV, when he made him consent to join with _Falstaffe_ in a
+Robbery on the Highway, he has taken care not to carry him off the
+Scene, without an Intimation that he knows them all, and their
+unyok’d Humour; and that, like the Sun, he will permit them only for
+a while to obscure and cloud his Brightness; then break thro’ the
+Mist, when he pleases to be himself again; that his Lustre, when
+wanted, may be the more wonder’d at.
+
+Another of _Shakespeare_’s grand Touches of Nature, and which lies
+still deeper from the Ken of common Observation, has been taken
+notice of in a Note upon _The Tempest_; where _Prospero_ at once
+interrupts the Masque of _Spirits_, and starts into a sudden Passion
+and Disorder of Mind. As the latent Cause of his Emotion is there
+fully inquir’d into, I shall no farther dwell upon it here.
+
+Such a Conduct in a Poet (as _Shakespeare_ has manifested on many
+like Occasions;) where the Turn of _Action_ arises from Reflexions
+of his _Characters_, where the Reason of it is not express’d in
+Words, but drawn from the inmost Resources of Nature, shews him
+truly capable of that Art, which is more in Rule than Practice:
+_Ars est celare Artem_. ’Tis the Foible of your worser Poets to make
+a Parade and Ostentation of that little Science they have; and to
+throw it out in the most ambitious Colours. And whenever a Writer of
+this Class shall attempt to copy these artful Concealments of our
+Author, and shall either think them easy, or practised by a Writer
+for his Ease, he will soon be convinced of his Mistake by the
+Difficulty of reaching the Imitation of them.
+
+  Speret idem, sudet multùm, frustráq; laboret,
+  Ausus idem:----
+
+Another grand Touch of Nature in our Author, (not less difficult to
+imitate, tho’ more obvious to the Remark of a common Reader) is,
+when he brings down at once any _Character_ from the Ferment
+and Height of Passion, makes him correct himself for the unruly
+Disposition, and fall into Reflexions of a sober and moral Tenour.
+An exquisite fine Instance of this Kind occurs in _Lear_, where that
+old King, hasty and intemperate in his Passions, coming to his Son
+and Daughter _Cornwall_, is told by the Earl of _Gloucester_ that
+they are not to be spoken with: and thereupon throws himself into a
+Rage, supposing the Excuse of Sickness and Weariness in them to be a
+purpos’d Contempt: _Gloucester_ begs him to think of the fiery and
+unremoveable Quality of the Duke: and This, which was design’d to
+qualify his Passion, serves to exaggerate the Transports of it.
+
+As the Conduct of Prince _Henry_ in the first Instance, the secret
+and mental Reflexions in the Case of _Prospero_, and the instant
+Detour of _Lear_ from the Violence of Rage to a Temper of Reasoning,
+do so much Honour to that surprizing Knowledge of human Nature,
+which is certainly our Author’s Masterpiece, I thought, they could
+not be set in too good a Light. Indeed, to point out, and exclaim
+upon, all the Beauties of _Shakespeare_, as they come singly in
+Review, would be as insipid, as endless; as tedious, as unnecessary:
+But the Explanation of those Beauties, that are less obvious to
+common Readers, and whose Illustration depends on the Rules of just
+Criticism, and an exact Knowledge of human Life, should deservedly
+have a Share in a general Critic upon the Author.
+
+    [Sidenote*: Mr. _Addison_ and _He_ compared, on a similar Topick.]
+
+I shall dismiss the Examination into these his latent Beauties, when
+I have made a short Comment upon a remarkable Passage from _Julius
+Cæsar_, which is inexpressibly fine in its self, *and greatly
+discovers our Author’s Knowledge and Researches into Nature.
+
+  Between the acting of a dreadful Thing,
+  And the first Motion, all the _Interim_ is
+  Like a Phantasma, or a hideous Dream:
+  The Genius, and the mortal Instruments
+  Are then in Council; and the State of Man,
+  Like to a little Kingdom, suffers then
+  The Nature of an Insurrection.
+
+That nice Critick _Dionysius_ of _Halicarnassus_ confesses, that he
+could not find those great Strokes, which he calls the _terrible
+Graces_, in any of the Historians, which he frequently met with in
+_Homer_. I believe, the Success would be the same likewise, if we
+sought for them in any other of _our_ Authors besides our _British_
+HOMER, _Shakespeare_. This Description of the Condition of
+Conspirators has a Pomp and Terror in it, that perfectly astonishes.
+Our excellent Mr. _Addison_, whose Modesty made him sometimes
+diffident in his own Genius, but whose exquisite Judgment always led
+him to the safest Guides, as we may see by those many fine Strokes
+in his _Cato_ borrow’d from the _Philippics_ of _Cicero_, has
+paraphrased this fine Description; but we are no longer to expect
+those _terrible Graces_, which he could not hinder from evaporating
+in the Transfusion.
+
+  O think, what anxious Moments pass between
+  The Birth of Plots, and their last fatal Periods.
+  Oh, ’tis a dreadful Interval of Time,
+  Fill’d up with Horror all, and big with Death.
+
+I shall observe two Things on this fine Imitation: first, that the
+Subjects of these two Conspiracies being so very different, (the
+Fortunes of _Cæsar_ and the _Roman_ Empire being concern’d in the
+First; and That of only a few Auxiliary Troops, in the other;)
+Mr. _Addison_ could not with Propriety bring in that magnificent
+Circumstance, which gives the terrible Grace to _Shakespeare_’s
+Description.
+
+  The Genius and the mortal Instruments
+  Are then in Council.----
+
+For Kingdoms, in the poetical Theology, besides their good, have
+their evil _Genius_’s likewise: represented here with the most
+daring Stretch of Fancy, as fitting in Council with the Conspirators,
+whom he calls the _mortal Instruments_. But this Would have been
+too great an Apparatus to the Rape, and Desertion, of _Syphax_, and
+_Sempronius_. Secondly, The other Thing very observable is, that Mr.
+_Addison_ was so warm’d and affected with the Fire of _Shakespeare_’s
+Description; that, instead of copying his Author’s Sentiments, he
+has, before he was aware, given us only the Image of his own
+Impressions on the reading his great Original. For,
+
+  Oh, ’tis a dreadful Interval of Time,
+  Fill’d up with Horror all, and big with Death;
+
+are but the Affections raised by such forcible Images as these;
+
+  ----All the _Int’rim_ is
+  Like a Phantasma, or a hideous Dream.
+  ----the State of Man,
+  Like to a little Kingdom, suffers then
+  The Nature of an Insurrection.
+
+Comparing the Mind of a Conspirator to an Anarchy, is just and
+beautiful; but the _Interim_ to a _hideous Dream_ has something in
+it so wonderfully natural, and lays the human Soul so open, that one
+cannot but be surpriz’d, that any Poet, who had not himself been,
+some time or other, engaged in a Conspiracy, could ever have given
+such Force of Colouring to Truth and Nature.
+
+    [Sidenote: The Question on _Shakespeare_’s Learning handled.]
+
+It has been allow’d on all hands, far our Author was indebted to
+_Nature_; it is not so well agreed, how much he ow’d to _Languages_
+and acquir’d _Learning_. The Decisions on this Subject were
+certainly set on Foot by the Hint from _Ben Jonson_, that he had
+small _Latin_ and less _Greek_: And from this Tradition, as it were,
+Mr. _Rowe_ has thought fit peremptorily to declare, that, “It is
+without Controversy, he had no Knowledge of the Writings of the
+ancient Poets, for that in his Works we find no Traces of any thing
+which looks like an Imitation of the Ancients. For the Delicacy of
+his Taste (_continues He_,) and the natural Bent of his own great
+Genius (equal, if not superior, to some of the Best of theirs;)
+would certainly have led him to read and study them with so much
+Pleasure, that some of their fine Images would naturally have
+insinuated themselves into, and been mix’d with, his own Writings:
+so that his not copying, at least, something from them, may be an
+Argument of his never having read them.” I shall leave it to the
+Determination of my Learned Readers, from the numerous Passages,
+which I have occasionally quoted in my Notes, in which our Poet
+seems closely to have imitated the Classics, whether Mr. _Rowe_’s
+Assertion be so absolutely to be depended on. The Result of the
+Controversy must certainly, either way, terminate to our Author’s
+Honour: how happily he could imitate them, if that Point be allow’d;
+or how gloriously he could think like them, without owing any thing
+to Imitation.
+
+Tho’ I should be very unwilling to allow _Shakespeare_ so poor a
+Scholar, as Many have labour’d to represent him, yet I shall be
+very cautious of declaring too positively on the other side of the
+Question: that is, with regard to my Opinion of his Knowledge in the
+dead Languages. And therefore the Passages, that I occasionally
+quote from the _Classics_, shall not be urged as Proofs that he
+knowingly imitated those Originals; but brought to shew how happily
+he has express’d himself upon the same Topicks. A very learned
+Critick of our own Nation has declar’d, that a Sameness of Thought
+and Sameness of Expression too, in Two Writers of a different Age,
+can hardly happen, without a violent Suspicion of the Latter copying
+from his Predecessor. I shall not therefore run any great Risque
+of a Censure, tho’ I should venture to hint, that the Resemblance,
+in Thought and Expression, of our Author and an Ancient (which
+we should allow to be Imitation in One, whose Learning was not
+question’d) may sometimes take its Rise from Strength of Memory, and
+those Impressions which he ow’d to the School. And if we may allow a
+Possibility of This, considering that, when he quitted the School,
+he gave into his Father’s Profession and way of Living, and had,
+’tis likely, but a slender Library of Classical Learning; and
+considering what a Number of Translations, Romances, and Legends,
+started about his Time, and a little before; (most of which, ’tis
+very evident, he read;) I think, it may easily be reconcil’d, why he
+rather schemed his _Plots_ and _Charaters_ from these more latter
+Informations, than went back to those Fountains, for which he might
+entertain a sincere Veneration, but to which he could not have so
+ready a Recourse.
+
+In touching on another Part of his Learning, as it related to the
+Knowledge of _History_ and _Books_, I shall advance something, that,
+at first sight, will very much wear the Appearance of a Paradox.
+For I shall find it no hard Matter to prove, that from the grossest
+Blunders in History, we are not to infer his real Ignorance of it:
+Nor from a greater Use of _Latin_ Words, than ever any other
+_English_ Author used, must we infer his Knowledge of that Language.
+
+A Reader of Taste may easily observe, that tho’ _Shakespeare_,
+almost in every Scene of his historical Plays, commits the grossest
+Offences against Chronology, History, and Antient Politicks; yet
+This was not thro’ Ignorance, as is generally supposed, but thro’
+the too powerful Blaze of his Imagination; which, when once raised,
+made all acquired Knowledge vanish and disappear before it. For
+Instance, in his _Timon_, he turns _Athens_, which was a perfect
+Democracy, into an Aristocracy; while he ridiculously gives a
+Senator the Power of banishing _Alcibiades_. On the contrary, in
+_Coriolanus_, he makes _Rome_, which at that time was a perfect
+Aristocracy, a Democracy full as ridiculously, by making the People
+choose _Coriolanus_ Consul: Whereas, in Fact, it was not till the
+Time of _Manlius_ _Torquatus_, that the People had a Right of
+choosing one Consul. But this Licence in him, as I have said, must
+not be imputed to Ignorance: since as often we may find him, when
+Occasion serves, reasoning up to the Truth of History; and throwing
+out Sentiments as justly adapted to the Circumstances of his
+Subject, as to the Dignity of his Characters, or Dictates of Nature
+in general.
+
+Then, to come to his Knowledge of the _Latin_ Tongue, ’tis certain,
+there is a surprising Effusion of _Latin_ Words made _English_, far
+more than in any one _English_ Author I have seen; but we must be
+cautious to imagine, this was of his own doing. For the _English_
+Tongue, in his Age, began extremely to suffer by an Inundation of
+_Latin_; and to be overlaid, as it were, by its Nurse, when it had
+just began to speak by her before-prudent Care and Assistance. And
+this, to be sure, was occasion’d by the Pedantry of those two
+Monarchs, _Elizabeth_ and _James_, Both great _Latinists_. For it
+is not to be wonder’d at, if both the Court and Schools, equal
+Flatterers of Power, should adapt themselves to the Royal Taste.
+This, then, was the Condition of the _English_ Tongue when
+_Shakespeare_ took it up: like a Beggar in a rich Wardrobe. He found
+the pure native _English_ too cold and poor to second the Heat and
+Abundance of his Imagination: and therefore was forc’d to dress it
+up in the Robes, he saw provided for it: rich in themselves, but
+ill-shaped; cut out to an air of Magnificence, but disproportion’d
+and cumbersome. To the Costliness of Ornament, he added all the
+Graces and Decorum of it. It may be said, this did not require, or
+discover a Knowledge of the _Latin_. To the first, I think, it did
+not; to the second, it is so far from discovering it, that, I think,
+it discovers the contrary. To make This more obvious by a modern
+Instance: The great MILTON likewise labour’d under the like
+Inconvenience; when he first set upon adorning his own Tongue, he
+likewise animated and enrich’d it with the _Latin_, but from his own
+Stock: and so, rather by bringing in the Phrases, than the Words:
+And This was natural; and will, I believe, always be the Case in the
+same Circumstances. His Language, especially his Prose, is full of
+_Latin_ Words indeed, but much fuller of _Latin_ Phrases: and his
+Mastery in the Tongue made this unavoidable. On the contrary,
+_Shakespeare_, who, perhaps, was not so intimately vers’d in the
+_Language_, abounds in the Words of it, but has few or none of its
+Phrases: Nor, indeed, if what I affirm be true, could He. This I
+take to be the truest _Criterion_ to determine this long agitated
+Question.
+
+It may be mention’d, tho’ no certain Conclusion can be drawn from
+it, as a probable Argument of his having read the Antients; that He
+perpetually expresses the Genius of _Homer_, and other great Poets
+of the Old World, in animating all the Parts of his Descriptions;
+and, by bold and breathing Metaphors and Images, giving the
+Properties of Life and Action to inanimate Things. He is a Copy
+too of those _Greek_ Masters in the infinite use of _compound_ and
+_de-compound Epithets_. I will not, indeed, aver, but that One with
+_Shakespeare_’s exquisite Genius and Observation might have traced
+these glaring Characteristics of Antiquity by reading _Homer_ in
+_Chapman_’s Version.
+
+    [Sidenote: _B. Jonson_ and _Shakespeare_ compar’d.]
+
+An additional Word or two naturally falls in here upon the Genius of
+our Author, as compared with that of _Jonson_ his Contemporary. They
+are confessedly the greatest Writers our Nation could ever boast
+of in the _Drama_. The first, we say, owed all to his prodigious
+natural Genius; and the other a great deal to his Art and Learning.
+This, if attended to, will explain a very remarkable Appearance in
+their Writings. Besides those wonderful Masterpieces of Art and
+Genius, which each has given Us; They are the Authors of other Works
+very unworthy of them: But with this Difference; that in _Jonson_’s
+bad Pieces we don’t discover one single Trace of the Author of
+the _Fox_ and _Alchemist_: but in the wild extravagant Notes
+of _Shakespeare_, you every now and then encounter Strains that
+recognize the divine Composer. This Difference may be thus accounted
+for. _Jonson_, as we said before, owing all his Excellence to his
+Art, by which he sometimes strain’d himself to an uncommon Pitch,
+when at other times he unbent and play’d with his Subject, having
+nothing then to support him, it is no wonder he wrote so far beneath
+himself. But _Sbakespeare_, indebted more largely to Nature, than
+the Other to acquired Talents, in his most negligent Hours could
+never so totally divest himself of his Genius, but that it would
+frequently break out with astonishing Force and Splendor.
+
+    [Sidenote: His Reputation under Disadvantages.]
+
+As I have never propos’d to dilate farther on the Character of my
+Author, than was necessary to explain the Nature and Use of this
+Edition, I shall proceed to consider him as a Genius in Possession
+of an Everlasting Name. And how great that Merit must be, which
+could gain it against all the Disadvantages of the horrid Condition
+in which he has hitherto appear’d! Had _Homer_, or any other admir’d
+Author, first started into Publick so, maim’d and deform’d, we
+cannot determine whether they had not sunk for ever under the
+Ignominy of such an ill Appearance. The mangled Condition of
+_Shakespeare_ has been acknowledg’d by Mr. _Rowe_, who publish’d him
+indeed, but neither corrected his Text, nor collated the old Copies.
+This Gentleman had Abilities, and a sufficient Knowledge of his
+Author, had but his Industry been equal to his Talents. The same
+mangled Condition has been acknowledg’d too by Mr. _Pope_, who
+publish’d him likewise, pretended to have collated the old Copies,
+and yet seldom has corrected the Text but to its Injury. I
+congratulate with the _Manes_ of our Poet, that this Gentleman has
+been sparing in _indulging his private Sense_; for He, who tampers
+with an Author whom he does not understand, must do it at the
+Expence of his Subject. I have made it evident throughout my
+Remarks, that he has frequently inflicted a Wound where he intended
+a Cure. He has acted with regard to our Author, as an Editor, whom
+LIPSIUS mentions, did with regard to MARTIAL; _Inventus est nescio
+quis _Popa_, qui non _vitia_ ejus, sed _ipsum_, excîdit._ He has
+attack’d him like an unhandy _Slaughterman_; and not lopp’d off the
+_Errors_, but the _Poet_.
+
+    [Sidenote: Praise sometimes an Injury.]
+
+When this is found to be the Fact, how absurd must appear the
+Praises of such an Editor? It seems a moot Point, whether Mr. _Pope_
+has done most Injury to _Shakespeare_ as his Editor and Encomiast;
+or Mr. _Rymer_ done him Service as his Rival and Censurer. Were it
+every where the true Text, which That Editor in his late pompous
+Edition gave us, the Poet deserv’d not the large Encomiums bestow’d
+by him: nor, in that Case, is _Rymer_’s Censure of the Barbarity of
+his Thoughts, and the Impropriety of his Expressions, groundless.
+They have Both shewn themselves in an equal _Impuissance_ of
+suspecting or amending the corrupted Passages: and tho’ it be
+neither Prudence to censure, or commend, what one does not
+understand; yet if a Man must do one when he plays the Critick,
+the latter is the more ridiculous Office. And by That _Shakespeare_
+suffers most. For the natural Veneration, which we have for him,
+makes us apt to swallow whatever is given us as _his_, and let off
+with Encomiums; and hence we quit all Suspicions of Depravity: On
+the contrary, the Censure of so divine an Author sets us upon his
+Defence; and this produces an exact Scrutiny and Examination, which
+ends in finding out and discriminating the true from the spurious.
+
+It is not with any secret Pleasure, that I so frequently animadvert
+on Mr. _Pope_ as a Critick; but there are Provocations, which a Man
+can never quite forget. His Libels have been thrown out with so much
+Inveteracy, that, not to dispute whether they _should_ come from a
+_Christian_, they leave it a Question whether they _could_ come from
+a _Man_. I should be loth to doubt, as _Quintus Serenus_ did in a
+like Case,
+
+  Sive homo, seu similis turpissima bestia nobis,
+  Vulnera dente dedit.
+
+The Indignation, perhaps, for being represented a _Blockhead_, may
+be as strong in Us as it is in the Ladies for a Reflexion on their
+_Beauties_. It is certain, I am indebted to Him for some _flagrant
+Civilities_; and I shall willingly devote a part of my Life to the
+honest Endeavour of quitting Scores: with this Exception however,
+that I will not return those Civilities in his _peculiar_ Strain,
+but confine myself, at lead, to the Limits of _common Decency_.
+I shall ever think it better to want _Wit_, than to want _Humanity_:
+and impartial Posterity may, perhaps, be of my Opinion.
+
+    [Sidenote: The old Editions faulty, whence.]
+
+But, to return to my Subject; which now calls upon me to inquire
+into those Causes, to which the Depravations of my Author originally
+may be assign’d. We are to consider him as a Writer, of whom no
+authentic Manuscript was extant; as a Writer, whose Pieces were
+dispersedly perform’d on the several _Stages_ then in Being. And it
+was the Custom of those Days for the Poets to take a Price of the
+_Players_ for the Pieces They from time to time furnish’d; and
+thereupon it was suppos’d, they had no farther Right to print them
+without the Consent of the _Players_. As it was the Interest of the
+_Companies_ to keep their Plays unpublish’d, when any one succeeded,
+there was a Contest betwixt the Curiosity of the Town, who demanded
+to see it in Print, and the Policy of the _Stagers_, who wish’d
+to secrete it within their own Walls. Hence, many Pieces were
+taken down in Short-hand, and imperfectly copied by Ear, from
+a _Representation_: Others were printed from piece-meal Parts,
+surreptitiously obtain’d from the Theatres, uncorrect, and without
+the Poet’s Knowledge. To some of these Causes we owe the train of
+Blemishes, that deform those Pieces which stole singly into the
+World in our Author’s Life-time.
+
+There are still other Reasons, which may be suppos’d to have
+affected the whole Set. When the _Players_ took upon them to publish
+his Works intire, every Theatre was ransack’d to supply the Copy;
+and _Parts_ collected which had gone thro’ as many Changes as
+Performers, either from Mutilations or Additions made to them. Hence
+we derive many Chasms and Incoherences in the Sense and Matter.
+Scenes were frequently transposed, and shuffled out of their true
+Place, to humour the Caprice or suppos’d Convenience of some
+particular Actor. Hence much Confusion and Impropriety has attended,
+and embarras’d, the Business and Fable. For there ever have been,
+and ever will be in Playhouses, a Set of assuming Directors, who
+know better than the Poet himself the Connexion and Dependance of
+his Scenes; where Matter is defective, or Superfluities to be
+retrench’d; Persons, that have the Fountain of _Inspiration_ as
+peremptorily in them, as Kings have That of _Honour_. To these
+obvious Causes of Corruption it must be added, that our Author has
+lain under the Disadvantage of having his Errors propagated and
+multiplied by Time: because, for near a Century; his Works were
+republish’d from the faulty Copies without the assistance of any
+intelligent Editor: which has been the Case likewise of many a
+_Classic_ Writer.
+
+    [Sidenote: The Editor’s Drift and Method.]
+
+    [Sidenote*: Difference betwixt this Edition and Dr. _Bentley_’s
+    _Milton_.]
+
+The Nature of any Distemper once found has generally been the
+immediate Step to a Cure. _Shakespeare_’s Case has in a great
+Measure resembled That of a corrupt _Classic_; and, consequently,
+the Method of Cure was likewise to bear a Resemblance. By what
+Means, and with what Success, this Cure has been effected on ancient
+Writers, is too well known, and needs no formal Illustration. The
+Reputation consequent on Tasks of that Nature invited me to attempt
+the Method here; with this View, the Hopes of restoring to the
+Publick their greatest Poet in his Original Purity: after having so
+long lain in a Condition that was a Disgrace to common Sense. To
+this End I have ventur’d on a Labour, that is the first Assay of
+the kind on any modern Author whatsoever. For the late Edition of
+_Milton_ by the Learned *Dr. _Bentley_ is, in the main, a Performance
+of another Species. It is plain, it was the Intention of that
+Great Man rather to Correct and pare off the Excrescencies of
+the _Paradise Lost_, in the manner that _Tucca_ and _Varius_ were
+employ’d to criticize the _Æneis_ of _Virgil_, than to restore
+corrupted Passages. Hence, therefore, may be seen either the
+Iniquity or Ignorance of his Censurers, who, from some Expressions,
+would make us believe, the _Doctor_ every where gives us his
+Corrections as the Original Text of the Author; whereas the chief
+Turn of his Criticism is plainly to shew the World, that if _Milton_
+did not write as He would have him, he ought to have wrote so.
+
+I thought proper to premise this Observation to the Readers, as it
+will shew that the Critic on _Shakespeare_ is of a quite different
+Kind. His genuine Text is religiously adher’d to, and the numerous
+Faults and Blemishes, purely his own, are left as they were found.
+Nothing is alter’d, but what by the clearest Reasoning can be
+proved a Corruption of the true Text; and the Alteration, a real
+Restoration of the genuine Reading. Nay, so strictly have I strove
+to give the true Reading, tho’ sometimes not to the Advantage of my
+Author, that I have been ridiculously ridicul’d for it by Those, who
+either were iniquitously for turning every thing to my Disadvantage;
+or else were totally ignorant of the true Duty of an Editor.
+
+The Science of Criticism, as far as it affects an Editor, seems
+to be reduced to these three Classes; the Emendation of corrupt
+Passages; the Explanation of obscure and difficult ones; and an
+Inquiry into the Beauties and Defects of Composition. This Work is
+principally confin’d to the two former Parts: tho’ there are some
+Specimens interspers’d of the latter Kind, as several of the
+Emendations were best supported, and several of the Difficulties
+best explain’d, by taking notice of the Beauties and Defects of
+the Composition peculiar to this Immortal Poet. But This was but
+occasional, and for the sake only of perfecting the two other Parts,
+which were the proper Objects of the Editor’s Labour. The third lies
+open for every willing Undertaker: and I shall be pleas’d to see it
+the Employment of a masterly Pen.
+
+It must necessarily happen, as I have formerly observ’d, that where
+the Assistance of Manuscripts is wanting to set an Author’s Meaning
+right, and rescue him from those Errors which have been transmitted
+down thro’ a Series of incorrect Editions, and a long Intervention
+of Time, many Passages must be desperate, and past a Cure; and
+their true Sense irretrievable either to Care or the Sagacity of
+Conjecture. But is there any Reason therefore to say, That because
+All cannot be retriev’d, All ought to be left desperate? We should
+shew very little Honesty, or Wisdom, to play the Tyrants with an
+Author’s Text; to raze, alter, innovate, and overturn, at all
+Adventures, and to the utter Detriment of his Sense and Meaning:
+But to be so very reserved and cautious, as to interpose no Relief
+or Conjecture, where it manifestly labours and cries out for
+Assistance, seems, on the other hand, an indolent Absurdity.
+
+But because the Art of Criticism, both by Those who cannot form a
+true Judgment of its Effects, nor can penetrate into its Causes,
+(which takes in a great Number besides the Ladies;) is esteem’d only
+an arbitrary capricious Tyranny exercis’d on Books; I think
+proper to subjoin a Word or two about those Rules on which I have
+proceeded, and by which I have regulated myself in this Edition. By
+This, I flatter myself, it will appear, my Emendations are so far
+from being arbitrary or capricious, that They are establish’d with
+a very high Degree of moral Certainty.
+
+As there are very few Pages in _Shakespeare_, upon which some
+Suspicions of Depravity do not reasonably arise; I have thought it
+my Duty, in the first place, by a diligent and laborious Collation
+to take in the Assistances of all the older Copies.
+
+In his _Historical Plays_, whenever our _English_ Chronicles, and in
+his Tragedies when _Greek_ or _Roman_ Story, could give any Light;
+no Pains have been omitted to set Passages right by comparing my
+Author with his Originals: for, as I have frequently observed, he
+was a close and accurate Copier where-ever his _Fable_ was founded
+on _History_.
+
+Where-ever the Author’s Sense is clear and discoverable, (tho’,
+perchance, low and trivial;) I have not by any Innovation tamper’d
+with his Text; out of an Ostentation of endeavouring to make him
+speak better than the Old Copies have done.
+
+Where, thro’ all the former Editions, a Passage has labour’d under
+flat Nonsense and invincible Darkness, if, by the Addition or
+Alteration of a Letter or two, I have restored to Him both Sense
+and Sentiment, such Corrections, I am persuaded, will need no
+Indulgence.
+
+And whenever I have taken a greater Latitude and Liberty in
+amending, I have constantly endeavoured to support my Corrections
+and Conjectures by parallel Passages and Authorities from himself,
+the surest Means of expounding any Author whatsoever. _Cette voïe
+d’interpreter un Autheur par lui-même est plus sure que tous les
+Commentaires_, says a very learned _French_ Critick.
+
+As to my _Notes_, (from which the common and learned Readers of our
+Author, I hope, will derive some Pleasure;) I have endeavour’d to
+give them a Variety in some Proportion to their Number. Where-ever
+I have ventur’d at an Emendation, a _Note_ is constantly subjoin’d
+to justify and assert the Reason of it. Where I only offer a
+Conjecture, and do not disturb the Text, I fairly set forth my
+Grounds for such Conjecture, and submit it to Judgment. Some Remarks
+are spent in explaining Passages, Where the Wit or Satire depends
+on an obscure Point of History: Others, where Allusions are to
+Divinity, Philosophy, or other Branches of Science. Some are added
+to shew, where there is a Suspicion of our Author having borrowed
+from the Antients: Others, to shew where he is rallying his
+Contemporaries; or where He himself is rallied by them. And some are
+necessarily thrown in, to explain an obscure and obsolete _Term_,
+_Phrase_, or _Idea_. I once intended to have added a complete and
+copious _Glossary_; but as I have been importun’d, and am prepar’d,
+to give a correct Edition of our Author’s POEMS, (in which many
+Terms occur that are not to be met with in his _Plays_,) I thought a
+_Glossary_ to all _Shakespeare_’s Works more proper to attend that
+Volume.
+
+In reforming an infinite Number of Passages in the _Pointing_, where
+the Sense was before quite lost, I have frequently subjoin’d Notes
+to shew the _deprav’d_, and to prove the _reform’d_, Pointing: a
+Part of Labour in this Work which I could very willingly have spared
+myself. May it not be objected, why then have you burthen’d us with
+these Notes? The Answer is obvious, and, if I mistake not, very
+material. Without such Notes, these Passages in subsequent Editions
+would be liable, thro’ the Ignorance of Printers and Correctors, to
+fall into the old Confusion: Whereas, a Note on every one hinders
+all possible Return to Depravity; and for ever secures them in a
+State of Purity and Integrity not to be lost or forfeited.
+
+    [Sidenote*: Causes of Obscurities in _Shakespeare_.]
+
+Again, as some Notes have been necessary to point out the Detection
+of the corrupted Text, and establish the Reiteration of the genuine
+Readings; some others have been as necessary for the Explanation of
+Passages obscure and difficult. *To understand the Necessity and Use
+of this Part of my Task, some Particulars of my Author’s Character
+are previously to be explain’d. There are _Obscurities_ in him,
+which are common to him with all Poets of the same Species; there
+are Others, the Issue of the Times he liv’d in; and there are
+Others, again, peculiar to himself. The Nature of Comic Poetry
+being entirely satyrical, it busies itself more in exposing what
+we call Caprice and Humour, than Vices cognizable to the Laws. The
+_English_, from the Happiness of a free Constitution, and a Turn of
+Mind peculiarly speculative and inquisitive, are observ’d to produce
+more _Humourists_ and a greater Variety of Original _Characters_,
+than any other People whatsoever: And These owing their immediate
+Birth to the peculiar Genius of each Age, an infinite Number of
+Things alluded to, glanced at, and expos’d, must needs become
+obscure, as the _Characters_ themselves are antiquated, and disused.
+An Editor therefore should be well vers’d in the History and Manners
+of his Author’s Age, if he aims at doing him a Service in this Respect.
+
+Besides, _Wit_ lying mostly in the Assemblage of _Ideas_, and in the
+putting Those together with Quickness and Variety, wherein can be
+found any Resemblance, or Congruity, to make up pleasant Pictures,
+and agreeable Visions in the Fancy; the Writer, who aims at Wit,
+must of course range far and wide for Materials. Now, the Age, in
+which _Shakespeare_ liv’d, having, above all others, a wonderful
+Affection to appear Learned, They declined vulgar Images, such as
+are immediately fetch’d from Nature, and rang’d thro’ the Circle
+of the Sciences to fetch their Ideas from thence. But as the
+Resemblances of such Ideas to the Subject must necessarily lie very
+much out of the common Way, and every piece of Wit appear a Riddle
+to the Vulgar; This, that should have taught them the forced,
+quaint, unnatural Tract they were in, (and induce them to follow a
+more natural One,) was the very Thing that kept them attach’d to it.
+The ostentatious Affectation of abstruse Learning, peculiar to that
+Time, the Love that Men naturally have to every Thing that looks
+like Mystery, fixed them down to this Habit of Obscurity. Thus
+became the Poetry of DONNE (tho’ the wittiest Man of that Age,)
+nothing but a continued Heap of Riddles. And our _Shakespeare_, with
+all his easy Nature about him, for want of the Knowledge of the true
+Rules of Art, falls frequently into this vicious Manner.
+
+The third Species of _Obscurities_, which deform our Author, as
+the Effects of his own Genius and Character, are Those that proceed
+from his peculiar Manner of _Thinking_, and as peculiar a Manner of
+_cloathing_ those _Thoughts_. With regard to his _Thinking_, it is
+certain, that he had a general Knowledge of all the Sciences: But
+his Acquaintance was rather That of a Traveller, than a Native.
+Nothing in Philosophy was unknown to him; but every Thing in it had
+the Grace and Force of Novelty. And as Novelty is one main Source of
+Admiration, we are not to wonder that He has perpetual Allusions to
+the most recondite Parts of the Sciences: and This was done not
+so much out of Affectation, as the Effect of Admiration begot by
+Novelty. Then, as to his _Style_ and _Diction_, we may much more
+justly apply to SHAKESPEARE, what a celebrated Writer has said of
+MILTON; _Our Language sunk under him, and was unequal to that
+Greatness of Soul which furnish’d him with such glorious
+Conceptions_. He therefore frequently uses old Words, to give his
+Diction an Air of Solemnity; as he coins others, to express the
+Novelty and Variety of his Ideas.
+
+Upon every distinct Species of these _Obscurities_ I have thought it
+my Province to employ a Note, for the Service of my Author, and the
+Entertainment of my Readers. A few transient Remarks too I have not
+scrupled to intermix, upon the Poet’s _Negligences_ and _Omissions_
+in point of Art; but I have done it always in such a Manner, as will
+testify my Deference and Veneration for the Immortal Author. Some
+Censurers of _Shakespeare_, and particularly Mr. _Rymer_, have
+taught me to distinguish betwixt the _Railer_ and _Critick_. The
+Outrage of his Quotations is so remarkably violent, so push’d beyond
+all Bounds of Decency and sober Reasoning, that it quite carries
+over the Mark at which it was levell’d. Extravagant Abuse throws
+off the Edge of the intended Disparagement, and turns the Madman’s
+Weapon into his own Bosom. In short, as to _Rymer_, This is my
+Opinion of him from his _Criticisms_ on the _Tragedies_ of the Last
+Age. He writes with great Vivacity, and appears to have been a
+Scholar: but, as for his Knowledge of the Art of Poetry, I can’t
+perceive it was any deeper than his Acquaintance with _Bossu_ and
+_Dacier_, from whom he has transcribed many of his best Reflexions.
+The late Mr. _Gildon_ was One attached to _Rymer_ by a similar Way
+of Thinking and Studies. They were Both of that Species of Criticks,
+who are desirous of displaying their Powers rather in finding
+Faults, than in consulting the Improvement of the World: the
+_hypercritical_ Part of the Science of _Criticism_.
+
+ I had not mentioned the modest Liberty I have here and there taken
+of animadverting on my Author, but that I was willing to obviate in
+time the splenetick Exaggerations of my Adversaries on this Head.
+From past Experiments I have Reason to be conscious, in what Light
+this Attempt may be placed: and that what I call a _modest Liberty_,
+will, by a little of their Dexterity, be inverted into downright
+_Impudence_. From a hundred mean and dishonest Artifices employ’d to
+discredit this Edition, and to cry down its Editor, I have all the
+Grounds in Nature to be aware of Attacks. But tho’ the Malice of Wit
+join’d to the Smoothness of Versification may furnish some Ridicule;
+Fact, I hope, will be able to stand its Ground against Banter and
+Gaiety.
+
+    [Sidenote: _Shakespeare_’s Anachronisms defended.]
+
+    [Sidenote*: Mr. _Pope_’s Anachronisms examin’d.]
+
+It has been my Fate, it seems, as I thought it my Duty, to discover
+some _Anachronisms_ in our Author; which might have slept in
+Obscurity but for _this Restorer_, as Mr. _Pope_ is pleas’d
+affectionately to style me; as, for Instance, where _Aristotle_
+is mentioned by _Hector_ in _Troilus_ and _Cressida_: and _Galen_,
+_Cato_, and _Alexander_ the Great, in _Coriolanus_. These, in Mr.
+_Pope_’s Opinion, are Blunders, which the Illiteracy of the first
+Publishers of his Works has father’d upon the Poet’s Memory: _it not
+being at all credible, that These could be the Errors of any Man who
+had the least Tincture of a School, or the least Conversation with_
+_such as had._ But I have sufficiently proved, in the Course of my
+_Notes_, that such Anachronisms were the Effect of poetic Licence,
+rather than of Ignorance in our Poet. And if I may be permitted
+to ask a modest Question by the way, *Why may not I restore an
+Anachronism really made by our Author, as well as Mr. _Pope_ take
+the Privilege to fix others upon him, which he never had it in his
+Head to make; as I may venture to affirm He had not, in the Instance
+of Sir _Francis Drake_, to which I have spoke in the proper Place?
+
+But who shall dare make any Words about this Freedom of Mr. _Pope_’s
+towards _Shakespeare_, if it can be prov’d, that, in his Fits of
+Criticism, he makes no more Ceremony with good _Homer_ himself?
+To try, then, a Criticism of his own advancing; In the 8th Book of
+the _Odyssey_, where _Demodocus_ sings the Episode of the Loves of
+_Mars_ and _Venus_; and that, upon their being taken in the Net by
+_Vulcan_,
+
+  ----the God of Arms
+  Must pay the Penalty for lawless Charms;
+
+Mr. _Pope_ is so kind gravely to inform us, “That _Homer_ in This,
+as in many other Places, seems to allude to the Laws of _Athens_,
+where Death was the Punishment of Adultery.” But how is this
+significant Observation made out? Why, who can possibly object any
+Thing to the Contrary?----_Does not_ Pausanias_ relate, that _Draco_
+the Lawgiver to the _Athenians_ granted Impunity to any Person that
+took Revenge upon an Adulterer? And was it not also the Institution
+of _Solon_, that if Any One took an Adulterer in the Fact, he might
+use him as he pleas’d?_ These Things are very true: and to see What
+a good Memory, and sound Judgment in Conjunction can atchieve! Tho’
+_Homer_’s Date is not determin’d down to a single Year, yet ’tis
+pretty generally agreed that he liv’d above 300 Years before _Draco_
+and _Solon_: And That, it seems, has made him _seem_ to allude to
+the very Laws, which these Two Legislators propounded above 300
+Years after. If this Inference be not something like an _Anachronism_
+or _Prolepsis_, I’ll look once more into my Lexicons for the true
+Meaning of the Words. It appears to me, that somebody besides _Mars_
+and _Venus_ has been caught in a Net by this Episode: and I could
+call in other Instances to confirm what treacherous Tackle this
+Network is, if not cautiously handled.
+
+How just, notwithstanding, I have been in detecting the Anachronisms
+of my Author, and in defending him for the Use of them, Our late
+Editor seems to think, They should rather have slept in Obscurity:
+and the having discovered them is sneer’d at, as a sort of
+wrong-headed Sagacity.
+
+The numerous Corrections, which I made of the Poet’s Text in my
+SHAKESPEARE _Restor’d_, and which the Publick have been so kind to
+think well of, are, in the Appendix of Mr. _Pope_’s last Edition,
+slightingly call’d _Various Readings_, _Guesses_, &c. He confesses
+to have inserted as many of them as he judg’d of any the least
+Advantage to the Poet; but says, that the Whole amounted to about
+25 Words: and pretends to have annexed a compleat List of the Rest,
+which were not worth his embracing. Whoever has read my Book will at
+one glance see, how in both these Points Veracity is strain’d, so an
+Injury might but be done. _Malus etsi obesse non pote, tamen cogitat_.
+
+    [Sidenote: _Literal Criticism_ defended.]
+
+Another Expedient, to make my Work appear of a trifling Nature, has
+been an Attempt to depreciate _Literal Criticism_. To this End, and
+to pay a servile Compliment to Mr. _Pope_, an _Anonymous_ Writer
+has, like a _Scotch_ Pedlar in Wit, unbraced his Pack on the
+Subject. But, that his Virulence might not seem to be levelled
+singly at Me, he has done Me the Honour to join Dr. _Bentley_ in
+the Libel. I was in hopes, We should have been Both abused with
+Smartness of Satire, at least; tho’ not with Solidity of Argument:
+that it might have been worth some Reply in Defence of the Science
+attacked. But I may fairly say of this Author, as _Falstaffe_ does
+of _Poins_;--_Hang him, Baboon! his Wit is as thick as _Tewksbury_
+Mustard; there is no more Conceit in him, than is in a _MALLET_._ If
+it be not Prophanation to set the Opinion of the divine _Longinus_
+against such a Scribler, he tells us expresly, “That to make a
+Judgment upon _Words_ (and _Writings_) is the most consummate Fruit
+of much Experience.” ἡ γὰρ τῶν λόγων κρίσις πολλῆς ἐστὶ πείρας
+τελευταῖον ἐπιγέννημα. Whenever Words are depraved, the Sense of
+course must be corrupted; and thence the Readers betray’d into a
+false Meaning. Tho’ I should be convicted of Pedantry by some,
+I’ll venture to subjoin a few flagrant Instances, in which I have
+observed most Learned Men have suffer’d themselves to be deceived,
+and consequently led their Readers into Error: and This for want
+of the Help of _Literal Criticism_: in some, thro’ Indolence and
+Inadvertence: in others, perhaps, thro’ an absolute Contempt of It.
+If the _Subject_ may seem to invite this Digression, I hope, the
+_Use_ and _Application_ will serve to excuse it.
+
+    [Sidenote: _Platonius_ corrected.]
+
+I. In that golden Fragment, which we have left of _Platonius_, upon
+the three Kinds of _Greek_ Comedy, after he has told us, that when
+the State of _Athens_ was alter’d from a Democracy to an Oligarchy,
+and that the Poets grew cautious whom they libell’d in their
+Comedies; when the People had no longer any Desire to choose the
+accustom’d Officers for furnishing _Choric_ Singers, and defraying
+the Expence of them, _Aristophanes_ brought on a Play in which
+there was no _Chorus_. For, subjoins He, τῶν γὰρ ΧΟΡΕΥΤΩΝ μὴ
+χειροτονουμένων, καὶ τῶν ΧΟΡΗΓΩΝ οὐκ ἐχόντων τὰς τροφὰς,
+ὑπεξῃρέθη τῆς Κωμῳδίας τὰ χορικὰ μέλη, καὶ τῶν ὑποθέσεων ὁ
+τρόπος μετεβλήθη. _“The _Chorus-Singers_ being no longer chosen
+by Suffrage, and the _Furnishers_ of the_ Chorus _no longer having
+their Maintenance, the _Choric_ Songs were taken out of Comedies,
+and the Nature of the Argument and Fable chang’d._” But there
+happen to be two signal Mistakes in this short Sentence. For the
+_Chorus-Singers_ were never elected by Suffrage at all, but hir’d by
+the proper Officer who was at the Expence of the _Chorus_: and the
+_Furnishers_ of the _Chorus_ had never either Table, or Stipend,
+allowed them, towards their Charge. To what Purpose then is this
+Sentence, which should be a Deduction from the Premises, and yet is
+none, brought in? Or how comes the Reasoning to be founded upon what
+was not the Fact? The Mistake manifestly arises from a careless
+Transposition made in the Text: Let the two _Greek_ Words, which I
+have distinguished by _Capitals_, only change Places, and we recover
+what _Platonius_ meant to infer: “That the [A]_Furnishers_
+of _Chorus_’s being no longer elected by Suffrage, and the
+[B]_Chorus-Singers_ having no Provision made for them, _Chorus_’s
+were abolished, and the Subjects of Comedies alter’d.”
+
+    [Footnote A: Χορηγῶν.]
+    [Footnote B: Χορευτῶν.]
+
+II. There is another more egregious Error still subsisting in this
+instructive Fragment, which has likewise escaped the Notice of
+the Learned. The Author is saying, that, in the _old Comedy_, the
+_Masks_ were made so nearly to resemble the Persons to be satirized,
+that before the Actor spoke a Word, it was known whom he was to
+personate. But, in the _New Comedy_, when _Athens_ was conquered
+by the _Macedonians_, and the Poets were fearful lest their Masks
+should be construed to resemble any of their New Governors, they
+formed them so preposterously as only to move Laughter; ὁρῶμεν γοῦν
+(says He) τὰς ὀφρῦς ἐν τοῖς προσώποις τῆς Μενάνδρου κωμῳδίας ὁποίας
+ἔχει, καὶ ὅπως ἐξεστραμμένον τὸ ΣΩΜΑ. καὶ οὐδε κατὰ ἀνθρώπων φύσιν.
+“We see therefore what strange Eyebrows there are to the Masks used in_
+Menander_’s Comedies; and how the _Body_ is distorted, and unlike
+any human Creature alive.” But the Author, ’tis evident, is speaking
+abstractedly of _Masks_; and what Reference has the _Distortion_ of the
+_Body_ to the Look of a _Visor_? I am satisfied, _Platonius_ wrote; καὶ
+ὅπως ἐξεστραμμένον τὸ ὌΜΜΑ, _i.e._ “and how the _Eyes_ were _goggled_
+and _distorted_.” This is to the Purpose of his Subject: and _Jul.
+Pollux_, in describing the Comic Masques, speaks of some that had
+ΣΤΡΕΒΛΟΝ τὸ ὌΜΜΑ: Others, that were ΔΙΑΣΤΡΟΦΟΙ τὴν ὌΨΙΝ.
+PERVERSIS _oculis_, as _Cicero_ calls them, speaking of _Roscius_.
+
+    [Sidenote: _Camerarius_ and _Keuster_, mistaken.]
+
+III. _Suidas_, in the short Account that he has given us of
+_Sophocles_, tells us, that, besides Dramatic Pieces, he wrote
+Hymns and Elegies; καὶ λόγον καταλογάδην περὶ τοῦ Χοροῦ πρὸς
+Θέσπιν καὶ Χοίριλον ἀγωνιζόμενος. This the Learned _Camerarius_
+has thus translated: _Scripsit Oratione solutâ de _Choro_ contra
+_Thespin_ & _Chœrilum_ quempiam._ And _Keuster_ likewise
+understood, and render’d, the Passage to the same Effect. He
+owns, the Place is obscure, and suspected by him. “For how could
+_Sophocles_ contend with _Thespis_ and _Chœrilus_, who liv’d long
+before his Time?” The Scholiast upon [C]_Aristophanes_, however,
+expresly says, as _Keuster_ might have remember’d, that _Sophocles_
+actually did contend with _Chœrilus_. But that is a Point nothing
+to the Passage in Question; which means, as I have shewn in another
+Place, That _Sophocles_ declaimed in Prose, contending to obtain a
+_Chorus_ for reviving some Pieces of _Thespis_ and _Chœrilus_.
+Is This contending against Them, as rival Poets?
+
+    [Footnote C: In Ranis, v. 73.]
+
+    [Sidenote: _Meursius_, and _Camerarius_ mistaken.]
+
+IV. Some other Learned Men have likewise been mistaken in
+Particulars with regard to _Sophocles_. In the Synopsis of his Life,
+we find these Words; Τελευτᾶ δὲ μετὰ Ἐυριπίδην ἐτῶν ϛ’. _Meursius_,
+as well as _Camerarius_, have expounded This, as if _Sophocles_
+surviv’d _Euripides_ six Years. But the best Accounts agree that
+they died both in the same Year, a little before the _Frogs_ of
+_Aristophanes_ was play’d; _scil._ Olymp. 93, 3. The Meaning,
+therefore, of the Passage is, as some of the Commentators have
+rightly observ’d; _That _Sophocles_ died after _Euripides_, at
+90 Years of Age._ The Mistake arose from hence, that, in Numerals,
+ϛʹ signifies as well 6 as 90.
+
+    [Sidenote: Father _Brumoy_ mistaken.]
+
+V. The Learned Father _Brumoy_ too, who has lately given us three
+Volumes upon the _Theatre_ of the _Greeks_, has slipt into an Error
+about _Sophocles_; for, speaking of his _Antigone_, he tells us, it
+was in such Request as to be perform’d Two and Thirty times; _Elle
+fût representée trente deux fois._ The Account, on which This is
+grounded, we have from the Argument prefix’d to _Antigone_ by
+_Aristophanes_ the Grammarian: and the _Latin_ Translator of this
+Argument, probably, led Father _Brumoy_ into his Mistake, and
+he should have referr’d to the Original. The _Greek_ Words are;
+λέλεκται δὲ τὸ δρᾶμα τοῦτο τριακοστὸν δεύτερον. i. e. “_This _Play_
+is said to have been the _Thirty Second_, in Order of Time, produced
+by_ Sophocles.”
+
+The Mistakes, that I have mentioned, (tho’ they necessarily lead
+into Error, from the Authority with which they come into the World;)
+yet are such, ’tis obvious, as have been the Effects of Inadvertence;
+and therefore I do not quote them to the Dishonour of their Learned
+Authors. I shall point out Two or Three, which seem to have sprung
+from another Source: either a due Want of Sagacity, or an absolute
+Neglect of _literal Criticism_.
+
+    [Sidenote: Sir _George Wheler_ corrected.]
+
+VI. Sir _George Wheler_, who, in his JOURNEY into GREECE, has traded
+much with _Greek_ Antiquities and Inscriptions, and who certainly
+was no mean Scholar, has shewn himself very careless in this
+Respect. When he was at _Sardis_, he met with a Medal of the Emperor
+_Commodus_ seated in the Midst of the Zodiack with Celestial Signs
+engraven on it; and, on the other Side, a Figure with a Crown-Mure
+with these Letters about it, Σάρδις Ἀσίας, ΑΥΔΙΑΣ, Ἕλλαδος, ᾱ
+μητρόπολις: __Sardis_, the first Metropolis of _Asia_, _Greece_,
+and _Audia_._--But where and what _Audia_ was, (_says He_) I find
+not. Now is it not very strange, that this Gentleman should not
+remember, that _Sardis_ was the Capital City of _Lydia_; and,
+consequently, that for ΑΥΔΙΑΣ we should read ΛΥΔΊΑΣ? Tho’ my
+Correction is too obvious to want any Justification, yet, I find, it
+has One from the Learned Father [D]_Harduin_; who produces another
+Coin of _Sardis_ (in the _French_ King’s Cabinet) which bears the
+very same Inscription, only exhibited as it ought to be.
+
+    [Footnote D: In his _Nummi Antiqui illustrati_.]
+
+Nor was This a single Inaccuracy in Sir _George_. I’ll instance in
+Two pretty Inscriptions, the One an _Epitaph_, the other a _Votive
+Table_, which He has given Us, but in a very corrupt Condition. Tho’
+I have never been in _Greece_, nor seen the Inscriptions any where
+but in _his_ Book, I think, I can restore them to their true Sense
+and Numbers: And, as they are particularly elegant, some Readers
+will not be displeas’d to see them in a State of Purity.
+
+    [Sidenote: An _Epitaph_ corrected and explained.]
+
+VII. _Of the Antiquities of _Philadelphia_ (says he) I had but a
+slender Account; only I have the Copy of one Inscription, being the
+Monument of a _Virgin_, in these three Couplets of Verses_. But she
+was so far from being a _Virgin_, that the Epitaph shews her to have
+been a _Wife_; that it was put up in Memory of Her by her _Husband_;
+and that she dy’d in the Flower of her Youth at the Age of twenty
+three.
+
+  Ξαντίππην Ἀκύλα μνήμην [1]βίου παρέδωκην
+    Βωμῷ [2]τειμήσας σεμνω ταυτην ἄλοχον‧
+  Παρθένον ἧς ἀπέλυσε μίτρην ΗΣΔΡΙΟΝ ἄνθοσ.
+    Ἔσκεν ἐν ἡμιτελεῖ παυσαμενον θαλάμῳ.
+  Τρεῖς γαρ ἐπ᾽ εἰκοσίους τελεῶσε [3]βιον ἐνιαυτοὺς,
+    Καὶ μετὰ τούσδε θάνεν [4]τουτου λιπουσαφαος.
+
+  [Notes:
+    1 βιότου παρέδωκεν.
+    2 τιμήσας σεμνοτάτην.
+    3 βιοῦσ᾽.
+    4 τοῦτο λιποῦσα φάος. ]
+
+I have, for Brevity’s sake, mark’d the general Corrections, which I
+have made, at the Side. The third Verse is neither true in Quantity,
+nor Language: ΗΣΔΡΙΟΝ is a Monster of a Word, which never could
+be the Reading of any Marble. As I correct it, we recover a most
+beautiful Couplet.
+
+  Παρθένον, ἧς ἀπέλυσε μίτρην‧ ἯΣ ἨΡΙΝΌΝ ἄνθος.
+  Ἔσκεν ἐν ἡμιτελεῖ παυσάμενον θαλάμῳ.
+
+  Puellam, cujus Zonam solvit; cujus _VERNUS_ Flos
+  Præproperô tabuit in Thalamô.
+
+    [Sidenote: A _Votive Table_ corrected.]
+
+VIII. I come now to the _Votive Table_, which is rich in poetick
+Graces, however overwhelm’d with Depravation: and Sir _George_
+seems as much to have mistaken the Purport, as the Words, of the
+Inscription. _At _Chalcedon_, _says he_, I found an Inscription in
+the Wall of a private House near the Church; which signifieth, that
+_Evante_, the Son of _Antipater_, having made a prosperous Voyage,
+and desiring to return by the _Ægean_ Sea, offered Cakes at a
+Statue, which he had erected to _Jupiter_, which had sent him such
+good Weather, as a Token of his good Voyage._
+
+[1]ΟΥΡΙΟΝ ἐπὶ [2]ΠΡΙΜΝΗΣ τις ὁδηγητῆρα καλείτω,
+Ζῆνα κατὰ [3]πρωτΟΝ ΩΝιστιον ἐκπετάσας
+[4]ΕΠΙ ΚΥΑΝΕΑΣ ΔΙΝΑΣ ΔΡΟΜΟΥΣ ἔνθα Ποσειδῶν
+Καμπύλον εἰλίσσει κῦμα παρὰ ψαμαθοῖς.
+Εἶτα κατ᾽ Αἰγαῖαν πόντου πλάκα [5]ΝΑΣ ἐρεύνων,
+Νείσθω‧ τῷ δὲ [6]ΒΑΛΛΩΝ ψαιστὰ παρὰ [7]ΤΩ ΖΩΑΝΩ.
+[8]ΟΔΕ τὸν [9]ΕΥΑΝΤΗ τὸν ἀεὶ θεὸν Ἀντιπάτρου παῖς
+Στησε [10]φιλων ἀγαθῆς σύμβολον εὐπλοΐης.
+
+  [Notes:
+    1 Ὂυρον.
+    2 πρύμνης.
+    3 πρώτων, ἱστίον.
+    4 Κυανεαῖς δίνησιν ἐπίδρομον.
+    5 Νόστον.
+    6 βαλών.
+    7 ξοάνῳ
+    8 Ἐσδέ.
+    9 εὐανθῆ.
+   10 Φίλων. ]
+
+I have mark’d, as before, my Corrections at the Side; and I may
+venture to say, I have supported the faltring Verses both with
+_Numbers_ and _Sense_. But who ever heard of _Evante_, as the Name
+of a Man, in _Greece_? Neither is this Inscription a Piece of Ethnic
+Devotion, as Sir _George_ has suppos’d it, to a Statue erected to
+_Jupiter_: On the contrary, it despises those fruitless Superstitions.
+_Philo_ (a _Christian_, as it seems to me;) sets it up, in Thanks
+for a safe Voyage, to the _true God_. That all my Readers may
+equally share in this little Poem, I have attempted to put it into
+an _English_ Dress.
+
+  Invoke who Will the prosp’rous Gale _behind_,
+  _Jove_ at the _Prow_, while to the guiding Wind
+  O’er the blue Billows he the Sail expands,
+  Where _Neptune_ with each Wave heaps Hills of Sands:
+  Then let him, when the Surge he backward plows,
+  Pour to his Statue-God unaiding Vows:
+  But to the God of Gods, for Deaths o’erpast,
+  For Safety lent him on the watry Waste,
+  To native Shores return’d, thus _Philo_ pays
+  His Monument of Thanks, of grateful Praise.
+
+I shall have no Occasion, I believe, to ask the Pardon of _some_
+Readers for these _Nine_ last Pages; and Others may be so kind to
+pass them over at their Pleasure. (Those Discoveries, which give
+Light and Satisfaction to the truly Learned, I must confess, are
+Darkness and Mystery to the less capable: Φέγγος μὲν ξυνετοῖς,
+ἀξυνετοῖς δ᾽ Ἐρεβος.) Nor will they be absolutely foreign, I hope,
+to a Preface in some Measure critical; especially, as it could not
+be amiss to shew, that I have read other Books with the same
+Accuracy, with which I profess to have read _Shakespeare_. Besides,
+I design’d this Inference from the Defence of Literal Criticism.
+If the _Latin_ and _Greek_ Languages have receiv’d the greatest
+Advantages imaginable from the Labours of the Editors and Criticks
+of the two last Ages; by whose Aid and Assistance the Grammarians
+have been enabled to write infinitely better in that Art than even
+the preceding Grammarians, who wrote when those Tongues flourish’d
+as living Languages: I should account it a peculiar Happiness, that,
+by the faint Assay I have made in this Work, a Path might be chalk’d
+out, for abler Hands, by which to derive the same Advantages to our
+own Tongue: a Tongue, which, tho’ it wants none of the fundamental
+Qualities of an universal Language, yet as a _noble Writer_ says,
+lisps and stammers as in its Cradle; and has produced little more
+towards its polishing than Complaints of its Barbarity.
+
+    [Sidenote: The Delay of this Edition excused.]
+
+Having now run thro’ all those Points, which I intended should
+make any Part of this Dissertation, it only remains, that I should
+account to the Publick, but more particularly to my Subscribers,
+why they have waited so long for this Work; that I should make my
+Acknowledgments to those Friends, who have been generous Assistants
+to me in the conducting it: and, lastly, that I should acquaint my
+Readers what Pains I have myself taken to make the Work as complete,
+as faithful Industry, and my best Abilities, could render it.
+
+In the middle of the Year 1728, I first put out my _Proposals_ for
+publishing only _Emendations_ and _Remarks_ on our Poet: and I had
+not gone on many Months in this Scheme, before I found it to be the
+unanimous Wish of those who did me the Honour of their Subscriptions,
+that I would give them the Poet’s Text corrected; and that I would
+subjoin those Explanatory Remarks, which I had purpos’d to publish
+upon the Foot of my first Proposals. Earnest Sollicitations were
+made to me, that I would think of such an Edition; which I had as
+strong Desires to listen to: and some _noble_ Persons then, whom I
+have no Privilege to name, were pleased to interest themselves so
+far in the Affair, as to propose to Mr. _Tonson_ his undertaking an
+Impression of _Shakespeare_ with my Corrections. The throwing my
+whole Work into a different Form, to comply with this Proposal, was
+not the slightest Labour: and so no little Time was unavoidably
+lost. While the Publication of my Remarks was thus respited, my
+Enemies took an unfair Occasion to suggest, that I was extorting
+Money from my Subscribers, without ever designing to give them
+any Thing for it: an Insinuation levell’d at once to wound me
+ Reputation and Interest. Conscious, however, of my own just
+Intentions, and labouring all the while to bring my wish’d Purpose
+to bear, I thought these anonymous Slanderers worthy of no Notice.
+A Justification of myself would have been giving them Argument for
+fresh Abuse; and I was willing to believe that any unkind Opinions,
+entertain’d to my Prejudice, would naturally drop and lose their
+Force, when the Publick should once be convinc’d that I was in
+Earnest, and ready to do them Justice. I left no Means untry’d
+to put it in my Power to do this: and I hope, without Breach of
+Modesty, I may venture to appeal to all candid Judges, whether I
+have not employ’d all my Power to be just to them in the Execution
+of my Task. I must needs have been in the most Pain, who saw myself
+daily so barbarously outraged. I might have taken advantage of
+the favourable Impressions entertain’d of my Work, and hurried it
+crudely into the World: But I have suffer’d, for my Author’s sake,
+those Impressions to cool, and perhaps, be lost; and can now appeal
+only to the _Judgment_ of the Publick. If I succeed in this Point,
+the Reputation gain’d will be the more solid and lasting.
+
+    [Sidenote: Acknowledgment of Assistance.]
+
+I come now to speak of those kind Assistances which I have met with
+from particular Friends, towards forwarding and compleating this
+Work. Soon after my Design was known, I had the Honour of an
+Invitation to _Cambridge_; and a generous Promise from the Learned
+and ingenious Dr. _Thirlby_ of _Jesus_-College, there, who had taken
+great Pains with my Author, that I should have the Liberty of
+collating his Copy of _Shakespeare_, mark’d thro’ in the Margin with
+his own Manuscript References and accurate Observations. He not only
+made good this Promise, but favour’d me with a Set of Emendations,
+interspers’d and distinguish’d in his Name thro’ the Edition, and
+which can need no Recommendation here to the judicious Reader.
+
+The next Assistance I receiv’d was from my ingenious Friend _Hawley
+Bishop_ Esq; whose great Powers and extensive Learning are as well
+known, as his uncommon Modesty, to all who have the Happiness of his
+Acquaintance. This Gentleman was so generous, at the Expence both
+of his Pocket and Time, to run thro’ all _Shakespeare_ with me. We
+join’d Business and Entertainment together; and at every of our
+Meetings, which were constantly once a Week, we read over a _Play_,
+and came mutually prepar’d to communicate our Conjectures upon it to
+each other. The Pleasure of these Appointments, I think, I may say,
+richly compensated for the Labour in our own Thoughts: and I may
+venture to affirm, in the Behalf of my Assistant, that our Author
+has deriv’d no little Improvement from them.
+
+To these, I must add the indefatigable Zeal and Industry of my most
+ingenious and ever-respected Friend, the Reverend Mr. _William
+Warburton_ of _Newark_ upon _Trent_. This Gentleman, from the
+Motives of his frank and communicative Disposition, voluntarily took
+a considerable Part of my Trouble off my Hands; not only read over
+the whole Author for me, with the exactest Care; but enter’d into
+a long and laborious Epistolary Correspondence; to which I owe no
+small Part of my best Criticisms upon my Author.
+
+The Number of Passages amended, and admirably Explained, which I
+have taken care to distinguish with his Name, will shew a Fineness
+of Spirit and Extent of Reading, beyond all the Commendations I can
+give them: Nor, indeed, would I any farther be thought to commend a
+Friend, than, in so doing, to give a Testimony of my own Gratitude.
+How great a share soever of Praise I must lose from my self, in
+confessing these Assistances; and however my own poor Conjectures
+may be weaken’d by the Comparison with theirs; I am very well
+content to sacrifice my Vanity to the Pride of being so assisted,
+and the Pleasure of being just to their Merits. I beg leave to
+observe to my Readers, in one Word, here, that from the Confession
+of these successive Aids, and the Manner in which I deriv’d them,
+it appears, I have pretty well fill’d up the _Interval_, betwixt my
+first _Proposals_ and my _Publication_, with having my Author always
+in View, and at Heart.
+
+Some Hints I have the Honour to owe to the Informations of Dr.
+_Mead_, and the late Dr. _Friend_: Others to the Kindness of the
+ingenious _Martin Folkes_, Esq; who likewise furnish’d me with the
+first _folio_ Edition of _Shakespeare_, at a Time when I could not
+meet with it among the Booksellers; as my obliging Friend _Thomas
+Coxeter_, Esq; did with several of the old 4to single Plays, which
+I then had not in my own Collection. Some few Observations I
+likewise owe to _F. Plumptree_, Esq; Others to the Favour of
+anonymous Persons: for all which I most gladly render my
+Acknowledgments.
+
+    [Sidenote: The Editor’s particular Pains taken.]
+
+As to what regards my self singly, if the Edition do not speak
+for the Pains I have taken about it, it will be very vain to plead
+my own Labour and Diligence. Besides a faithful Collation of all
+the printed Copies, which I have exhibited in my _Catalogue_ of
+_Editions_ at the End of this Work; let it suffice to say, that, to
+clear up several Errors in the Historical Plays, I purposely read
+over _Hall_ and _Holingshead_’s Chronicles in the Reigns concern’d;
+all the Novels in _Italian_, from which our Author had borrow’d any
+of his Plots; such Parts of _Plutarch_, from which he had deriv’d
+any Parts of his _Greek_ or _Roman_ Story: _Chaucer_ and _Spenser_’s
+Works; all the Plays of _B. Jonson_, _Beaumont_ and _Fletcher_,
+and above 800 old _English_ Plays, to ascertain the obsolete and
+uncommon Phrases in him: Not to mention some Labour and Pains
+unpleasantly spent in the dry Task of consulting Etymological
+_Glossaries_.
+
+But as no Labour of Mine can be equivalent to the dear and ardent
+Love I bear for _Shakespeare_, so, if the Publick shall be pleas’d
+to allow that He owes any Thing to my Willingness and Endeavours of
+restoring Him; I shall reckon the Part of my Life so engag’d, to
+have been very happily employ’d: and put Myself, with great
+Submission, to be try’d by my Country in the Affair.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+  The Editors of THE AUGUSTAN REPRINT SOCIETY
+
+          are pleased to announce that
+
+   THE WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  of The University of California, Los Angeles
+
+will become the publisher of the Augustan Reprints in May, 1949. The
+editorial policy of the Society will continue unchanged. As in the past,
+the editors will strive to furnish members inexpensive reprints of rare
+seventeenth and eighteenth century works.
+
+
+Publications for the fourth year (1949-1950)
+
+[Transcriber’s Note:
+Many of the listed titles are or will be available from Project
+Gutenberg. Where possible, the e-text number is given in brackets.]
+
+(_At least six items will be printed in the main from the following
+list_)
+
+
+SERIES IV: MEN, MANNERS, AND CRITICS
+
+John Dryden, _His Majesties Declaration Defended_ (1681) [#15074]
+Daniel Defoe (?), _Vindication of the Press_ (1718) [#14084]
+_Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_ (1754)
+
+
+SERIES V: DRAMA
+
+Thomas Southerne, _Oroonoko_ (1696)
+Mrs. Centlivre, _The Busie Body_ (1709)
+Charles Johnson, _Caelia_ (1733)
+Charles Macklin, _Man of the World_ (1781) [#14463]
+
+
+SERIES VI: POETRY AND LANGUAGE
+
+Andre Dacier, _Essay on Lyric Poetry_
+_Poems_ by Thomas Sprat
+_Poems_ by the Earl of Dorset
+Samuel Johnson, _Vanity of Human Wishes_ (1749), and one of the 1750
+  _Rambler_ papers. [#13350]
+
+
+EXTRA SERIES:
+
+Lewis Theobald, _Preface to Shakespeare’s Works_ (1733)
+
+
+A few copies of the early publications of the Society are still
+available at the original rate.
+
+
+
+
+GENERAL EDITORS
+
+H. RICHARD ARCHER, _William Andrews Clark Memorial Library_
+R.C. BOYS, _University of Michigan_
+E.N. HOOKER, _University of California, Los Angeles_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+First Year (1946-1947)
+
+ 1. Richard Blackmore's _Essay upon Wit_ (1716), and Addison’s
+    _Freeholder_ No. 45 (1716). (I, 1) [#13484]
+
+ 2. Samuel Cobb’s _Of Poetry_ and _Discourse on Criticism_ (1707).
+    (II, 1) [#14528]
+
+ 3. _Letter to A.H. Esq.; concerning the Stage_ (1698), and Richard
+    Willis’ _Occasional Paper No. IX_ (1698). (III, 1)
+
+ 4. _Essay on Wit_ (1748), together with Characters by Flecknoe, and
+    Joseph Warton’s _Adventurer_ Nos. 127 and 133. (I, 2) [#14973]
+
+ 5. Samuel Wesley’s _Epistle to a Friend Concerning Poetry_ (1700) and
+    _Essay on Heroic Poetry_ (1693). (II, 2)
+
+ 6. _Representation of the Impiety and Immorality of the Stage_ (1704)
+    and _Some Thoughts Concerning the Stage_ (1704). (III, 2) [#15656]
+
+
+Second Year (1947-1948)
+
+ 7. John Gay’s _The Present State of Wit_ (1711); and a section on Wit
+    from _The English Theophrastus_ (1702). (I, 3) [#14800]
+
+ 8. Rapin’s _De Carmine Pastorali_, translated by Creech (1684). (II, 3)
+    [#14495]
+
+ 9. T. Hanmer’s (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+    (III, 3) [#14899]
+
+10. Corbyn Morris’ _Essay towards Fixing the True Standards of Wit,
+    etc._ (1744). (I, 4) [#16233]
+
+11. Thomas Purney’s _Discourse on the Pastoral_ (1717). (II, 4) [#15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+    Krutch. (III, 4) [#16335]
+
+
+Third Year (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720). (IV, 1) [#15999]
+
+14. Edward Moore’s _The Gamester_ (1753). (V, 1) [#16267]
+
+15. John Oldmixon’s _Reflections on Dr. Swift’s Letter to Harley_
+    (1712); and Arthur Mainwaring’s _The British Academy_ (1712). (VI, 1)
+
+16. Nevil Payne’s _Fatal Jealousy_ (1673). (V, 2)
+
+17. Nicholas Rowe’s _Some Account of the Life of Mr. William Shakespear_
+    (1709). (Extra Series, 1) [#16275]
+
+18. Aaron Hill’s Preface to _The Creation_; and Thomas Brereton’s
+    Preface to _Esther_. (IV, 2) [#15870]
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+[Transcriber’s Corrections:
+
+  ARS title page: Publication Number 20
+    _text reads_ 19, corrected by hand to 20. "Number 20" agrees with
+    later years' ARS publication lists.
+
+  vii: before he could write full Many.
+    _text reads_ Man .
+
+  xxiv: that surprizing Knowledge of human Nature
+    _text reads_ surpizing
+
+  xlii: its Causes, (which takes in a great Number
+    _text has_ blank space before "which" at beginning of line
+
+  lv: the Look of a _Visor_
+    _text reads_ the Look o  a _with extra blank space_
+
+
+Also Noted:
+
+  xii: intirely synonomous Terms
+    _spelling "synonomous" as in original_
+
+  xvii: the Stanza's sung by the Gravedigger
+    _apostrophe in original_
+
+  xxiii: frustráq; laboret
+    _abbreviation "q;" (-que) as in original_
+
+  xxxvii: Sidenote: The old Editions faulty, whence.
+    _exact text as in original_
+
+  lx note 1: Ὂυρον
+    _accent as in original_
+
+  lxi: For Safety lent him on the watry Waste,
+    _no apostrophe in "watry"_
+
+  ARS List of Publications: _Preface to Shakespeare’s Works_
+    _wording as in original_ ]
+
+
+
+
+
+End of the Project Gutenberg EBook of Preface to the Works of Shakespeare
+(1734), by Lewis Theobald
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PREFACE WORKS OF SHAKESPEARE ***
+
+***** This file should be named 16346-0.txt or 16346-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/3/4/16346/
+
+Produced by David Starner, Louise Hope and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

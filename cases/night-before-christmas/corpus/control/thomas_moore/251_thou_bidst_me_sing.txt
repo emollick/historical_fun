@@ -1,0 +1,26 @@
+title: Thou Bidst Me Sing
+author: Thomas Moore
+date: c. 1800-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic pentameter
+lines: 16
+attribution: certain
+notes: song (Ballads, Songs, Miscellaneous Poems)
+
+Thou bidst me sing the lay I sung to thee
+In other days ere joy had left this brow;
+But think, tho' still unchanged the notes may be,
+How different feels the heart that breathes them now!
+The rose thou wearst to-night is still the same
+We saw this morning on its stem so gay;
+But, ah! that dew of dawn, that breath which came
+Like life o'er all its leaves, hath past away.
+
+Since first that music touched thy heart and mine,
+How many a joy and pain o'er both have past,--
+The joy, a light too precious long to shine,--
+The pain, a cloud whose shadows always last.
+And tho' that lay would like the voice of home
+Breathe o'er our ear, 'twould waken now a sigh--
+Ah! not, as then, for fancied woes to come,
+But, sadder far, for real bliss gone by.

@@ -1,0 +1,20 @@
+title: P. D
+author: Thomas Moore
+date: 1813
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 11
+attribution: certain
+notes: light satirical verse (Intercepted Letters; or, the Twopenny Post-Bag, 1813)
+
+We're told the ancient Roman nation
+Made use of spittle in lustration;
+(Vide "Lactantium ap. Gallaeum"-i. e. you need not read but see 'em;)
+Now Irish Papists--fact surprising--
+Make use of spittle in baptizing;
+Which proves them all, O'Finns, O'Fagans,
+Connors and Tooles all downright Pagans.
+This fact's enough; let no one tell us
+To free such sad, salivous fellows.--
+No, no--the man, baptized with spittle,
+Hath no truth in him--not a tittle!

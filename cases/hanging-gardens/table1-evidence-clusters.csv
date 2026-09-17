@@ -1,0 +1,9 @@
+Cluster,What the evidence is,P(E | Babylon),P(E | Nineveh),P(E | none),Nineveh : Babylon
+C1,"Location testimony of the Greek tradition: every source that names a city names Babylon (Philo names none; Antipater names Babylon only for the wall beside the gardens); Greeks distinguished it from the ruined Ninus (Nineveh); no Assyrian ""Babylon"" for Nineveh",0.90,0.12,0.75,0.13
+C2,"Berossus places the garden in Nebuchadnezzar's new palace, in a paragraph tracking Nebuchadnezzar's own inscription; that palace was a gigunû-terrace ""high as a mountain""",0.80,0.20,0.35,0.25
+C3,"The Babylonian silence: no garden at Babylon in any Neo-Babylonian royal text (section 3); nothing excavated; Herodotus, Xenophon and the Alexander historians who used eyewitnesses silent",0.30,0.95,0.90,3.17
+C4,"The Nineveh match, net of what is missing: a documented ""Amanus"" garden with a novel water-lifting frame, canals, aqueducts and two reliefs; but no terraces, the ""wonder"" is said of the palace, and the two formulae are stock phrases used by three kings",0.50,0.70,0.45,1.40
+C5,"Builder and wife: a Median wife for Nebuchadnezzar is credible, Sennacherib's queens (Tashmetu-sharrat, and Naqia, the mother of Esarhaddon) were not Median; but ""a Syrian king reigning at Babylon"" fits any Sargonid (a king of Sargon II's dynasty) who held Babylon as well as it fits Nebuchadnezzar (Strabo 16.1.2). Building materials are not counted; section 7 says why",0.55,0.40,0.50,0.73
+C6,"The screws: conjectural in Akkadian, probably Hellenistic in Greek; a near-neutral item",0.45,0.50,0.45,1.11
+C7,"A Persian-period text assigns gardeners and water-drawers to the ""new palace"" at Babylon",0.80,0.60,0.60,0.75
+,Posterior with equal priors,57%,5%,38%,

@@ -1,0 +1,44 @@
+{
+ "stats": {
+  "noise": 176,
+  "sig": 11,
+  "pagenum": 18,
+  "hyphen_join": 8,
+  "override": 5,
+  "auto": 4,
+  "words_out": 2912,
+  "lines_out": 783
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   3
+  ],
+  [
+   "amongft>amongst",
+   1
+  ],
+  [
+   "flow>slow",
+   1
+  ],
+  [
+   "rofy>rosy",
+   1
+  ],
+  [
+   "fad>sad",
+   1
+  ],
+  [
+   "reftore>restore",
+   1
+  ],
+  [
+   "ftrike>strike",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

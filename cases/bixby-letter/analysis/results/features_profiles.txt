@@ -1,0 +1,36 @@
+== lincoln_pre1860 docs 583 words 283015
+  shall+should share of (shall,should,will,would): 0.357 | modals/10k {'shall': 28.41, 'should': 18.02, 'will': 49.15, 'would': 34.59}
+  perfect/10k 76.22 passive/10k 114.62 so-adv/10k 15.51
+  word counts {'cherish': 1, 'cherished': 3, 'republic': 9, 'tender': 6, 'tendering': 1, 'bereavement': 1, 'altar': 1, 'overwhelming': 3, 'solemn': 6, 'consolation': 2, 'sacrifice': 5} | Heavenly Father docs 0 Father in Heaven docs 1
+== lincoln_war_own docs 1887 words 126526
+  shall+should share of (shall,should,will,would): 0.342 | modals/10k {'shall': 32.09, 'should': 13.59, 'will': 59.43, 'would': 28.37}
+  perfect/10k 63.47 passive/10k 138.15 so-adv/10k 10.99
+  word counts {'republic': 2, 'tender': 14, 'tendering': 2, 'anguish': 1, 'bereavement': 1, 'solemn': 2, 'consolation': 2} | Heavenly Father docs 0 Father in Heaven docs 1
+== lincoln_war_own_letters docs 811 words 68799
+  shall+should share of (shall,should,will,would): 0.335 | modals/10k {'shall': 33.58, 'should': 15.99, 'will': 61.48, 'would': 36.77}
+  perfect/10k 71.08 passive/10k 133.0 so-adv/10k 11.34
+  word counts {'tender': 12, 'tendering': 2, 'bereavement': 1, 'consolation': 2} | Heavenly Father docs 0 Father in Heaven docs 1
+== lincoln_hay_hand docs 31 words 1636
+  shall+should share of (shall,should,will,would): 0.143 | modals/10k {'shall': 18.34, 'should': 0, 'will': 110.02, 'would': 0}
+  perfect/10k 97.8 passive/10k 67.24 so-adv/10k 6.11
+  word counts {} | Heavenly Father docs 0 Father in Heaven docs 0
+== hay_war docs 145 words 52555
+  shall+should share of (shall,should,will,would): 0.21 | modals/10k {'shall': 5.9, 'should': 12.94, 'will': 32.73, 'would': 38.25}
+  perfect/10k 86.39 passive/10k 73.83 so-adv/10k 15.03
+  word counts {'gloriously': 2, 'cherished': 1, 'republic': 3, 'overwhelming': 3, 'solemn': 5, 'sacrifice': 2} | Heavenly Father docs 0 Father in Heaven docs 0
+== hay_war_letters docs 35 words 14057
+  shall+should share of (shall,should,will,would): 0.23 | modals/10k {'shall': 12.09, 'should': 12.09, 'will': 44.82, 'would': 36.28}
+  perfect/10k 117.38 passive/10k 61.89 so-adv/10k 26.32
+  word counts {'gloriously': 1, 'republic': 1, 'overwhelming': 1, 'solemn': 2, 'sacrifice': 1} | Heavenly Father docs 0 Father in Heaven docs 0
+== hay_all docs 887 words 499273
+  shall+should share of (shall,should,will,would): 0.266 | modals/10k {'shall': 11.86, 'should': 9.75, 'will': 33.65, 'would': 25.96}
+  perfect/10k 83.02 passive/10k 64.59 so-adv/10k 21.99
+  word counts {'beguile': 5, 'gloriously': 3, 'cherish': 6, 'cherished': 21, 'republic': 47, 'tender': 57, 'tendering': 1, 'anguish': 20, 'bereavement': 2, 'altar': 20, 'overwhelming': 13, 'solemn': 41, 'fruitless': 1, 'consolation': 11, 'costly': 7, 'sacrifice': 26} | Heavenly Father docs 0 Father in Heaven docs 0
+== hay_letters_all docs 571 words 195041
+  shall+should share of (shall,should,will,would): 0.273 | modals/10k {'shall': 17.89, 'should': 11.02, 'will': 47.43, 'would': 29.53}
+  perfect/10k 97.93 passive/10k 55.42 so-adv/10k 19.94
+  word counts {'beguile': 3, 'gloriously': 1, 'cherish': 2, 'cherished': 4, 'republic': 10, 'tender': 6, 'anguish': 7, 'bereavement': 1, 'altar': 2, 'overwhelming': 5, 'solemn': 11, 'consolation': 4, 'sacrifice': 12} | Heavenly Father docs 0 Father in Heaven docs 0
+== hay_prose_books docs 50 words 216609
+  shall+should share of (shall,should,will,would): 0.235 | modals/10k {'shall': 6.28, 'should': 8.63, 'will': 25.02, 'would': 23.45}
+  perfect/10k 81.62 passive/10k 75.3 so-adv/10k 23.54
+  word counts {'gloriously': 1, 'cherish': 4, 'cherished': 12, 'republic': 32, 'tender': 28, 'tendering': 1, 'anguish': 7, 'bereavement': 1, 'altar': 17, 'overwhelming': 6, 'solemn': 24, 'fruitless': 1, 'consolation': 7, 'costly': 5, 'sacrifice': 13} | Heavenly Father docs 0 Father in Heaven docs 0

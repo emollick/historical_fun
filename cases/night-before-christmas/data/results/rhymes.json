@@ -1,0 +1,113 @@
+{
+ "moore": {
+  "couplets": 2615,
+  "pairs_matched": 3,
+  "pairs_matched_per1000couplets": 1.147227533460803,
+  "rhyme_words_seen_pct": 58.92857142857143,
+  "matches": {
+   "bow/snow": 1,
+   "head/dread": 1,
+   "sight/night": 1
+  }
+ },
+ "livingston": {
+  "couplets": 987,
+  "pairs_matched": 4,
+  "pairs_matched_per1000couplets": 4.052684903748734,
+  "rhyme_words_seen_pct": 50.0,
+  "matches": {
+   "care/there": 2,
+   "clatter/matter": 2,
+   "around/bound": 2,
+   "belly/jelly": 1
+  }
+ },
+ "controls": {
+  "couplets": 87194,
+  "pairs_matched": 16,
+  "pairs_matched_per1000couplets": 0.18349886460077527,
+  "rhyme_words_seen_pct": 94.64285714285714,
+  "matches": {
+   "house/mouse": 1,
+   "care/there": 19,
+   "beds/heads": 5,
+   "clatter/matter": 3,
+   "snow/below": 5,
+   "came/name": 19,
+   "wall/all": 3,
+   "fly/sky": 16,
+   "roof/hoof": 1,
+   "around/bound": 8,
+   "back/pack": 7,
+   "bow/snow": 1,
+   "elf/myself": 4,
+   "head/dread": 12,
+   "nose/rose": 2,
+   "sight/night": 19
+  }
+ },
+ "moore_anap": {
+  "couplets": 98,
+  "pairs_matched": 0,
+  "pairs_matched_per1000couplets": 0.0,
+  "rhyme_words_seen_pct": 8.928571428571429,
+  "matches": {}
+ },
+ "liv_anap": {
+  "couplets": 417,
+  "pairs_matched": 1,
+  "pairs_matched_per1000couplets": 2.3980815347721824,
+  "rhyme_words_seen_pct": 28.571428571428573,
+  "matches": {
+   "clatter/matter": 1
+  }
+ },
+ "controls_anap": {
+  "couplets": 12514,
+  "pairs_matched": 10,
+  "pairs_matched_per1000couplets": 0.799105002397315,
+  "rhyme_words_seen_pct": 82.14285714285714,
+  "matches": {
+   "care/there": 2,
+   "came/name": 3,
+   "wall/all": 2,
+   "fly/sky": 5,
+   "around/bound": 1,
+   "back/pack": 1,
+   "bow/snow": 1,
+   "elf/myself": 1,
+   "head/dread": 1,
+   "sight/night": 5
+  }
+ },
+ "poem_pairs": [
+  "house/mouse (perfect)",
+  "care/there (perfect)",
+  "beds/heads (perfect)",
+  "cap/nap (perfect)",
+  "clatter/matter (perfect)",
+  "flash/sash (perfect)",
+  "snow/below (perfect)",
+  "appear/deer (perfect)",
+  "quick/nick (perfect)",
+  "came/name (perfect)",
+  "vixen/blixem (imperfect)",
+  "wall/all (perfect)",
+  "fly/sky (perfect)",
+  "flew/too (perfect)",
+  "roof/hoof (perfect)",
+  "around/bound (perfect)",
+  "foot/soot (perfect)",
+  "back/pack (perfect)",
+  "merry/cherry (perfect)",
+  "bow/snow (imperfect)",
+  "teeth/wreath (perfect)",
+  "belly/jelly (perfect)",
+  "elf/myself (perfect)",
+  "head/dread (perfect)",
+  "work/jirk (unknown)",
+  "nose/rose (perfect)",
+  "whistle/thistle (perfect)",
+  "sight/night (perfect)"
+ ]
+}

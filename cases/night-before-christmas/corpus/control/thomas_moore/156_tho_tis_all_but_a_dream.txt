@@ -1,0 +1,32 @@
+title: Tho' 'Tis All but a Dream
+author: Thomas Moore
+date: c. 1818-1827
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic mixed
+lines: 22
+attribution: certain
+notes: song (National Airs, 1818-1827)
+
+Tho' 'tis all but a dream at the best,
+And still, when happiest, soonest o'er,
+Yet, even in a dream, to be blest
+Is so sweet, that I ask for no more.
+The bosom that opes
+With earliest hopes,
+The soonest finds those hopes untrue:
+As flowers that first
+In spring-time burst
+The earliest wither too!
+Ay--'tis all but a dream, etc.
+
+Tho' by friendship we oft are deceived,
+And find love's sunshine soon o'ercast,
+Yet friendship will still be believed.
+And love trusted on to the last.
+The web 'mong the leaves
+The spider weaves
+Is like the charm Hope hangs o'er men;
+Tho' often she sees
+'Tis broke by the breeze,
+She spins the bright tissue again.
+Ay--'tis all but a dream, etc.

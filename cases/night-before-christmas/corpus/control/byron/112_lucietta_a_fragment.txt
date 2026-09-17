@@ -1,0 +1,21 @@
+title: Lucietta. a Fragment
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: anapestic dimeter
+lines: 12
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+LUCIETTA, my deary,
+That fairest of faces!
+Is made up of kisses;
+But, in love, oft the case is
+Even stranger than this is--
+There's another, that's slyer,
+Who touches me nigher,--
+A Witch, an intriguer,
+Whose manner and figure
+Now piques me, excites me,
+Torments and delights me--
+Cætera desunt.

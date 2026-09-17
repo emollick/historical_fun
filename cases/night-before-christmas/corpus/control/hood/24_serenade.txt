@@ -1,0 +1,26 @@
+title: Serenade
+author: Thomas Hood
+date: c. 1821-1827
+source: https://www.gutenberg.org/ebooks/15652 (The Poetical Works of Thomas Hood, ed. W. M. Rossetti, New York: A. L. Burt)
+form: iambic tetrameter
+lines: 16
+attribution: certain
+notes: 
+
+Ah, sweet, thou little knowest how
+I wake and passionate watches keep;
+And yet while I address thee now,
+Methinks thou smilest in thy sleep.
+'Tis sweet enough to make me weep,
+That tender thought of love and thee,
+That while the world is hush'd so deep,
+Thy soul's perhaps awake to me!
+
+Sleep on, sleep on, sweet bride of sleep!
+With golden visions of thy dower,
+While I this midnight vigil keep,
+And bless thee in thy silent bower;
+To me 'tis sweeter than the power
+Of sleep, and fairy dreams unfurl'd,
+That I alone, at this still hour,
+In patient love outwatch the world.

@@ -1,0 +1,61 @@
+Louis Batiffol, review of Émile Burgaud et commandant Bazeries, Le Masque de fer, révélation de la correspondance chiffrée de Louis XIV. Étude appuyée de documents inédits des Archives du dépôt de la guerre (Paris, Firmin Didot, 1893, in-18, 302 p.).
+In: Bibliothèque de l'École des chartes, tome 55 (1894), Bibliographie, pp. 359-360.
+
+SOURCES OF THIS TEXT
+(a) Internet Archive OCR of the University of Toronto copy of BEC vol. 55: https://archive.org/details/bibliothquedel55sociuoft (djvu.txt lines 19827-19870). Page 359 begins at the line "Emile BuRGAUD et commandant Bazeries" (OCR error for BURGAUD) and page 360 begins at "sier 37417".
+(b) Persée article page (p. 359 text): https://www.persee.fr/doc/bec_0373-6237_1894_num_55_1_447793_t1_0359_0000_2
+(c) Persée per-page text endpoint for p. 360 (retrieved 2026-09-14 with a browser User-Agent; the docAsPDF endpoint returned 403): https://www.persee.fr/doc/page/bec_0373-6237_1894_num_55_1_447793_t1_0359_0000_2/bec_0373-6237_1894_num_55_1_T1_0360_0000
+
+=== (a) archive.org OCR, pp. 359-360 (verbatim, OCR spacing retained) ===
+Emile  BuRGAUD  et  commandant  Bazeries.  Le  Masque  de  fer,  révéla- 
+tion de  la  correspondance  chiffrée  de  Louis  XIV.  Étude  appuyée 
+de  documents  inédits  des  Archives  du  dépôt  de  la  guerre.  Paris, 
+Firmin  Didot,  -1893.  In-^8,  302  pages. 
+
+Dans  une  dépêche  chiffrée  envoyée  par  Louvois  à  Catinat  en  Italie, 
+le  8  juillet  1691,  les  auteurs  du  présent  livre  ont  lu  :  «  [Sa  Majesté] 
+désire  que  vous  fassiez  arrester  monsieur  de  Bulonde  et  le  fassiez  con- 
+duire à  la  citadelle  de  Pignerol,  où  Sa  Majesté  veut  qu'il  soit  gardé 
+enfermé  pendant  la  nuit  dans  une  chambre  de  laditte  citadelle,  et,  le 
+jour,  ayant  la  liberté  de  se  promener  sur  les  remparts  avec...,  a  et  ici 
+le  chiffre  330,  qui  ne  se  retrouve  nulle  part  ailleurs,  et  dont  on  ne  peut 
+imaginer  le  sens  que  par  hypothèse.  M.  Burgaud  a  voulu  lire  «  avec 
+un  masque;  »  un  autre  lirait  avec  autant  d'autorité  toute  autre  chose  et 
+voilà  la  base  sur  laquelle  MM.  Burgaud  et  Bazeries  ont  fait  reposer  leur 
+thèse  que  le  fameux  masque  de  fer  serait  Vivien  Labbé,  seigneur  de 
+Bulonde,  lieutenant  général  des  armées  du  roi,  incarcéré  pour  avoir 
+levé  précipitamment  le  siège  de  Coni.  Ils  n'ont  pas  d'autre  preuve. 
+
+La  lecture  du  livre  n'entraîne  pas  la  conviction.  On  ne  s'explique  pas 
+pourquoi  l'identité  d'un  personnage  peu  important,  à  peine  connu  des 
+contemporains,  et  dont  la  disparition  n'a  produit  aucune  sensible  émo- 
+tion, aurait  été  entourée  de  tant  de  mystères. 
+
+D'ailleurs,  non  seulement  la  thèse  de  M.  Burgaud  est  invraisem- 
+blable, mais  on  peut  encore  prouver  qu'elle  est  complètement  erronée. 
+Il  faut,  pour  que  Bulonde  soit  le  masque  de  fer,  qu'il  meure  le  19  no- 
+vembre 1703.  C'est  ce  qu'affirment  les  auteurs.  Ils  n'ont  pas  consulté  le 
+dossier  Labbé  de  Bulonde  du  Cabinet  des  titres  de  la  Bibliothèque 
+nationale.  Ils  y  auraient  vu  au  tome  1612  des  pièces  originales,  dos- 
+
+
+360  BIBLIOGRAPHIE. 
+
+sier  37417,  numéro  22,  une  quittance  de  ce  personnage  datée  du  28  no- 
+vembre 1705,  et  au  numéro  10  une  note  portant  que  Bulonde  est  mort 
+en  1709.  Il  n'y  a  pas  lieu  d'insister.  Bulonde  ne  peut  pas  être  le  masque 
+de  fer^. 
+
+Signalons  dans  cet  ouvrage  comme  intéressante  la  publication  de 
+documents  tirés  du  dépôt  de  la  guerre,  contenant  la  correspondance 
+qui  a  trait  aux  événements  militaires  de  cette  époque  en  Italie,  et  le 
+
+déchiffrement  des  dépêches  du  gouvernement. 
+
+Louis  Batiffol. 
+
+
+La  Faculté  de  théologie  de  Paris  et  ses  docteurs  les  plus  célèbres, 
+
+=== (c) Persée OCR of p. 360 (verbatim) ===
+sier 37417, numéro 22, une quittance de ce personnage datée du 28 novembre 1705, et au numéro 10 une note portant que Bulonde est mort en 1709. Il n'y a pas lieu d'insister. Bulonde ne peut pas être le masque de fer1. Signalons dans cet ouvrage comme intéressante la publication de documents tirés du dépôt de la guerre, contenant la correspondance qui a trait aux événements militaires de cette époque en Italie, et le déchiffrement des dépêches du gouvernement. Louis Batiffol. 1. M. Geoffroy de Grandmaison a déjà signalé ces documents dans un article de l'Univers du 9 janvier 1894.

@@ -1,0 +1,836 @@
+{
+ "point": {
+  "Traversette": 0.19392080072829246,
+  "Clapier": 0.6993258373613142,
+  "Mont-Cenis": 0.0783401633842608,
+  "Montgenevre": 0.0006559419745092075,
+  "Larche": 0.0009290724799463982,
+  "Petit-St-Bernard": 0.0011132976850693442,
+  "Grand-St-Bernard": 0.00011246004894168826,
+  "Other col": 0.02560242633766605
+ },
+ "prior": {
+  "Traversette": 0.14,
+  "Clapier": 0.14,
+  "Mont-Cenis": 0.14,
+  "Montgenevre": 0.14,
+  "Larche": 0.12,
+  "Petit-St-Bernard": 0.12,
+  "Grand-St-Bernard": 0.06,
+  "Other col": 0.14
+ },
+ "monte_carlo": {
+  "Traversette": {
+   "p05": 0.051675256042038084,
+   "p50": 0.18422496942605557,
+   "p95": 0.47526320579833103,
+   "mean": 0.21408214544730167
+  },
+  "Clapier": {
+   "p05": 0.35926970658165225,
+   "p50": 0.6678968829950166,
+   "p95": 0.8777572449668591,
+   "mean": 0.6483050448496807
+  },
+  "Mont-Cenis": {
+   "p05": 0.018668472657846394,
+   "p50": 0.07207851130464892,
+   "p95": 0.23969276914456195,
+   "mean": 0.09234334574428497
+  },
+  "Montgenevre": {
+   "p05": 9.999594291039051e-05,
+   "p50": 0.0005887121674048956,
+   "p95": 0.0034199542718576508,
+   "mean": 0.0010285972856549988
+  },
+  "Larche": {
+   "p05": 0.00015435875116996654,
+   "p50": 0.0008405592513846922,
+   "p95": 0.004608992450785185,
+   "mean": 0.0014332767194230958
+  },
+  "Petit-St-Bernard": {
+   "p05": 0.00018976327219340464,
+   "p50": 0.0009959119655399474,
+   "p95": 0.005334034385071591,
+   "mean": 0.0016538473181346926
+  },
+  "Grand-St-Bernard": {
+   "p05": 1.740913888882972e-05,
+   "p50": 0.00010076647060222328,
+   "p95": 0.0005541761450579707,
+   "mean": 0.0001705597803711184
+  },
+  "Other col": {
+   "p05": 0.003593093964432406,
+   "p50": 0.02327872175152074,
+   "p95": 0.13903132812111382,
+   "mean": 0.04098318285514953
+  }
+ },
+ "leader_frequency": {
+  "Traversette": 0.08115,
+  "Clapier": 0.91085,
+  "Mont-Cenis": 0.00515,
+  "Montgenevre": 0.0,
+  "Larche": 0.0,
+  "Petit-St-Bernard": 0.0,
+  "Grand-St-Bernard": 0.0,
+  "Other col": 0.00285
+ },
+ "leave_one_out": {
+  "P1 The Island: four days beyond a crossing that is itself four days from the sea, at a confluence with a second river (mss Skaras/Skoras; Sarar/Arar), shaped like the Delta, with the Allobroges next to it": {
+   "Traversette": 0.3386712122360019,
+   "Clapier": 0.5653664982462179,
+   "Mont-Cenis": 0.0633337158136669,
+   "Montgenevre": 0.0011455638736494716,
+   "Larche": 0.001622570151612664,
+   "Petit-St-Bernard": 0.0009000399814887431,
+   "Grand-St-Bernard": 9.820241294425742e-05,
+   "Other col": 0.02886219728441832
+  },
+  "P2 Then 800 stades in ten days along the river through flat country, escorted through the Allobroges, to the foot of the ascent": {
+   "Traversette": 0.33228129640306014,
+   "Clapier": 0.5683977283028835,
+   "Mont-Cenis": 0.06367328149994349,
+   "Montgenevre": 0.001123949823002681,
+   "Larche": 0.001591956133274951,
+   "Petit-St-Bernard": 0.0009673419881026996,
+   "Grand-St-Bernard": 0.000944029116755602,
+   "Other col": 0.03102041673297682
+  },
+  "P3 The first fight is with the Allobroges, at the first defile of the ascent, with their town close by": {
+   "Traversette": 0.432546165512711,
+   "Clapier": 0.4776098587455339,
+   "Mont-Cenis": 0.05350300585094431,
+   "Montgenevre": 0.0014630982587078368,
+   "Larche": 0.002072324047626359,
+   "Petit-St-Bernard": 0.000760335056565314,
+   "Grand-St-Bernard": 0.00012144006229687041,
+   "Other col": 0.03192377246561438
+  },
+  "P4 Nine days from the foot of the ascent to the summit, with a battle, a captured town, a halt, a second ambush and a night in a gorge": {
+   "Traversette": 0.21591913486378134,
+   "Clapier": 0.674336925302298,
+   "Mont-Cenis": 0.07554084531403953,
+   "Montgenevre": 0.0007303518917256879,
+   "Larche": 0.0010344662632496347,
+   "Petit-St-Bernard": 0.001073516375039855,
+   "Grand-St-Bernard": 0.00013716889083132972,
+   "Other col": 0.031227591099034682
+  },
+  "P5 The plains of the Po are pointed out from the summit camp (Polybius) or from a promontory on the first descent morning (Livy)": {
+   "Traversette": 0.1116164916991429,
+   "Clapier": 0.582120400916266,
+   "Mont-Cenis": 0.23284816036650663,
+   "Montgenevre": 0.003376870361356377,
+   "Larche": 0.004782979963174806,
+   "Petit-St-Bernard": 0.005731394089988309,
+   "Grand-St-Bernard": 0.0005789582323833186,
+   "Other col": 0.05894474437118167
+  },
+  "P6 Old snow from the previous winter lies under the new snow on the descent, at the setting of the Pleiades (29 Oct to 9 Nov)": {
+   "Traversette": 0.09069244661858131,
+   "Clapier": 0.6992818649590339,
+   "Mont-Cenis": 0.17516291606106896,
+   "Montgenevre": 0.003542268795906036,
+   "Larche": 0.0034760523255219127,
+   "Petit-St-Bernard": 0.0024892527732455916,
+   "Grand-St-Bernard": 0.00011245297764781019,
+   "Other col": 0.0252427454889946
+  },
+  "P7 The descent is narrow and steeper than the ascent, a cliff-path is broken away for 1.5 stades, and the plain is reached three days below the cliffs": {
+   "Traversette": 0.18064469162155614,
+   "Clapier": 0.6514489407978697,
+   "Mont-Cenis": 0.11538657582798469,
+   "Montgenevre": 0.0022311850915985353,
+   "Larche": 0.0041377226396285705,
+   "Petit-St-Bernard": 0.0049581890924411745,
+   "Grand-St-Bernard": 0.00013968115357417267,
+   "Other col": 0.04105301377534705
+  },
+  "P8 He comes down among the Taurini and by \"the pass through the Taurini\" (Polybius 3.60.8, 34.10.18; Livy 21.38.5-7), not among the Salassi": {
+   "Traversette": 0.28596040796696376,
+   "Clapier": 0.5953885232335954,
+   "Mont-Cenis": 0.06669685530742823,
+   "Montgenevre": 0.0005584525877143998,
+   "Larche": 0.0016993171088239424,
+   "Petit-St-Bernard": 0.008991940937170833,
+   "Grand-St-Bernard": 0.0009083232018146298,
+   "Other col": 0.039796179656488746
+  },
+  "P9 The crossing itself is \"about 1,200 stades\" (3.39.10) and takes fifteen days": {
+   "Traversette": 0.14378962987333962,
+   "Clapier": 0.7440331839526542,
+   "Mont-Cenis": 0.08334838794758816,
+   "Montgenevre": 0.00048637203115315856,
+   "Larche": 0.0006888945771432544,
+   "Petit-St-Bernard": 0.0010295732235066617,
+   "Grand-St-Bernard": 0.00015224421907779283,
+   "Other col": 0.02647171417553727
+  },
+  "L1 Livy: from the Island left into the Tricastini, along the Vocontii into the Tricorii, across the Druentia, then a mostly level road to the Alps": {
+   "Traversette": 0.10972853803114965,
+   "Clapier": 0.7803465930958398,
+   "Mont-Cenis": 0.08741630343609723,
+   "Montgenevre": 0.0003711595333035357,
+   "Larche": 0.0005257082508252004,
+   "Petit-St-Bernard": 0.0012422793628265383,
+   "Grand-St-Bernard": 0.00016836138328948122,
+   "Other col": 0.02020105690666871
+  },
+  "T2 Varro lists Hannibal's pass between the coast road and Pompey's; Pompey says his own route was \"other than Hannibal's\"": {
+   "Traversette": 0.13277462060260742,
+   "Clapier": 0.7570773472531449,
+   "Mont-Cenis": 0.08480962651418714,
+   "Montgenevre": 0.0014462828279800553,
+   "Larche": 0.000636121785666746,
+   "Petit-St-Bernard": 0.0023287365935336923,
+   "Grand-St-Bernard": 0.0001859719044583082,
+   "Other col": 0.020741292518421668
+  },
+  "T3 The Roman tradition Livy rejects: Coelius's Cremonis iugum, the popular Poeninus, Nepos's saltus Graius": {
+   "Traversette": 0.19399663438248066,
+   "Clapier": 0.6995993120660191,
+   "Mont-Cenis": 0.07837079867885952,
+   "Montgenevre": 0.0006561984837473896,
+   "Larche": 0.0009294357981716501,
+   "Petit-St-Bernard": 0.0007530209775882045,
+   "Grand-St-Bernard": 8.216132451637124e-05,
+   "Other col": 0.02561243828861704
+  },
+  "G1 The Traversette mire and rockfall (Mahaney and colleagues 2010-2026)": {
+   "Traversette": 0.1724198879224687,
+   "Clapier": 0.7179792697604512,
+   "Mont-Cenis": 0.08042976577524269,
+   "Montgenevre": 0.0006734382096339251,
+   "Larche": 0.0009538540478117711,
+   "Petit-St-Bernard": 0.0011429931746381454,
+   "Grand-St-Bernard": 0.00011545974637665317,
+   "Other col": 0.02628533136337695
+  },
+  "F1 Practicable in early November for 30,000 men, thousands of animals and 37 elephants, and known as a route (Polybius 3.48.6: Gallic armies had crossed before)": {
+   "Traversette": 0.3222576434419891,
+   "Clapier": 0.6001264541815562,
+   "Mont-Cenis": 0.04753709872665372,
+   "Montgenevre": 0.0003980279980813139,
+   "Larche": 0.0005637645914369149,
+   "Petit-St-Bernard": 0.0006755531221923533,
+   "Grand-St-Bernard": 7.737821417783313e-05,
+   "Other col": 0.02836407972391254
+  }
+ },
+ "item_likelihoods": {
+  "P1 The Island: four days beyond a crossing that is itself four days from the sea, at a confluence with a second river (mss Skaras/Skoras; Sarar/Arar), shaped like the Delta, with the Allobroges next to it": {
+   "Traversette": 0.3872983346207417,
+   "Clapier": 0.8366600265340756,
+   "Mont-Cenis": 0.8366600265340756,
+   "Montgenevre": 0.3872983346207417,
+   "Larche": 0.3872983346207417,
+   "Petit-St-Bernard": 0.8366600265340756,
+   "Grand-St-Bernard": 0.7745966692414834,
+   "Other col": 0.6000000000000001
+  },
+  "P2 Then 800 stades in ten days along the river through flat country, escorted through the Allobroges, to the foot of the ascent": {
+   "Traversette": 0.4242640687119285,
+   "Clapier": 0.8944271909999159,
+   "Mont-Cenis": 0.8944271909999159,
+   "Montgenevre": 0.4242640687119285,
+   "Larche": 0.4242640687119285,
+   "Petit-St-Bernard": 0.8366600265340756,
+   "Grand-St-Bernard": 0.08660254037844387,
+   "Other col": 0.6000000000000001
+  },
+  "P3 The first fight is with the Allobroges, at the first defile of the ascent, with their town close by": {
+   "Traversette": 0.27386127875258304,
+   "Clapier": 0.8944271909999159,
+   "Mont-Cenis": 0.8944271909999159,
+   "Montgenevre": 0.27386127875258304,
+   "Larche": 0.27386127875258304,
+   "Petit-St-Bernard": 0.8944271909999159,
+   "Grand-St-Bernard": 0.5656854249492381,
+   "Other col": 0.4898979485566356
+  },
+  "P4 Nine days from the foot of the ascent to the summit, with a battle, a captured town, a halt, a second ambush and a night in a gorge": {
+   "Traversette": 0.7745966692414834,
+   "Clapier": 0.8944271909999159,
+   "Mont-Cenis": 0.8944271909999159,
+   "Montgenevre": 0.7745966692414834,
+   "Larche": 0.7745966692414834,
+   "Petit-St-Bernard": 0.8944271909999159,
+   "Grand-St-Bernard": 0.7071067811865476,
+   "Other col": 0.7071067811865476
+  },
+  "P5 The plains of the Po are pointed out from the summit camp (Polybius) or from a promontory on the first descent morning (Livy)": {
+   "Traversette": 0.8944271909999159,
+   "Clapier": 0.6184658438426491,
+   "Mont-Cenis": 0.17320508075688773,
+   "Montgenevre": 0.1,
+   "Larche": 0.1,
+   "Petit-St-Bernard": 0.1,
+   "Grand-St-Bernard": 0.1,
+   "Other col": 0.22360679774997896
+  },
+  "P6 Old snow from the previous winter lies under the new snow on the descent, at the setting of the Pleiades (29 Oct to 9 Nov)": {
+   "Traversette": 0.8944271909999159,
+   "Clapier": 0.4183300132670378,
+   "Mont-Cenis": 0.18708286933869706,
+   "Montgenevre": 0.07745966692414834,
+   "Larche": 0.11180339887498948,
+   "Petit-St-Bernard": 0.18708286933869706,
+   "Grand-St-Bernard": 0.4183300132670378,
+   "Other col": 0.42426406871192857
+  },
+  "P7 The descent is narrow and steeper than the ascent, a cliff-path is broken away for 1.5 stades, and the plain is reached three days below the cliffs": {
+   "Traversette": 0.8944271909999159,
+   "Clapier": 0.8944271909999159,
+   "Mont-Cenis": 0.5656854249492381,
+   "Montgenevre": 0.2449489742783178,
+   "Larche": 0.18708286933869706,
+   "Petit-St-Bernard": 0.18708286933869706,
+   "Grand-St-Bernard": 0.6708203932499369,
+   "Other col": 0.5196152422706632
+  },
+  "P8 He comes down among the Taurini and by \"the pass through the Taurini\" (Polybius 3.60.8, 34.10.18; Livy 21.38.5-7), not among the Salassi": {
+   "Traversette": 0.5477225575051662,
+   "Clapier": 0.9486832980505138,
+   "Mont-Cenis": 0.9486832980505138,
+   "Montgenevre": 0.9486832980505138,
+   "Larche": 0.44158804331639234,
+   "Petit-St-Bernard": 0.1,
+   "Grand-St-Bernard": 0.1,
+   "Other col": 0.5196152422706632
+  },
+  "P9 The crossing itself is \"about 1,200 stades\" (3.39.10) and takes fifteen days": {
+   "Traversette": 0.8366600265340756,
+   "Clapier": 0.5830951894845301,
+   "Mont-Cenis": 0.5830951894845301,
+   "Montgenevre": 0.8366600265340756,
+   "Larche": 0.8366600265340756,
+   "Petit-St-Bernard": 0.6708203932499369,
+   "Grand-St-Bernard": 0.458257569495584,
+   "Other col": 0.6000000000000001
+  },
+  "L1 Livy: from the Island left into the Tricastini, along the Vocontii into the Tricorii, across the Druentia, then a mostly level road to the Alps": {
+   "Traversette": 0.8366600265340756,
+   "Clapier": 0.4242640687119285,
+   "Mont-Cenis": 0.4242640687119285,
+   "Montgenevre": 0.8366600265340756,
+   "Larche": 0.8366600265340756,
+   "Petit-St-Bernard": 0.4242640687119285,
+   "Grand-St-Bernard": 0.31622776601683794,
+   "Other col": 0.6000000000000001
+  },
+  "T2 Varro lists Hannibal's pass between the coast road and Pompey's; Pompey says his own route was \"other than Hannibal's\"": {
+   "Traversette": 0.8366600265340756,
+   "Clapier": 0.529150262212918,
+   "Mont-Cenis": 0.529150262212918,
+   "Montgenevre": 0.2598076211353316,
+   "Larche": 0.8366600265340756,
+   "Petit-St-Bernard": 0.27386127875258304,
+   "Grand-St-Bernard": 0.34641016151377546,
+   "Other col": 0.7071067811865476
+  },
+  "T3 The Roman tradition Livy rejects: Coelius's Cremonis iugum, the popular Poeninus, Nepos's saltus Graius": {
+   "Traversette": 0.5656854249492381,
+   "Clapier": 0.5656854249492381,
+   "Mont-Cenis": 0.5656854249492381,
+   "Montgenevre": 0.5656854249492381,
+   "Larche": 0.5656854249492381,
+   "Petit-St-Bernard": 0.8366600265340756,
+   "Grand-St-Bernard": 0.7745966692414834,
+   "Other col": 0.5656854249492381
+  },
+  "G1 The Traversette mire and rockfall (Mahaney and colleagues 2010-2026)": {
+   "Traversette": 1.0,
+   "Clapier": 0.8660254037844386,
+   "Mont-Cenis": 0.8660254037844386,
+   "Montgenevre": 0.8660254037844386,
+   "Larche": 0.8660254037844386,
+   "Petit-St-Bernard": 0.8660254037844386,
+   "Grand-St-Bernard": 0.8660254037844386,
+   "Other col": 0.8660254037844386
+  },
+  "F1 Practicable in early November for 30,000 men, thousands of animals and 37 elephants, and known as a route (Polybius 3.48.6: Gallic armies had crossed before)": {
+   "Traversette": 0.34641016151377546,
+   "Clapier": 0.6708203932499369,
+   "Mont-Cenis": 0.9486832980505138,
+   "Montgenevre": 0.9486832980505138,
+   "Larche": 0.9486832980505138,
+   "Petit-St-Bernard": 0.9486832980505138,
+   "Grand-St-Bernard": 0.8366600265340756,
+   "Other col": 0.5196152422706632
+  }
+ },
+ "collapsed_by_source": {
+  "Traversette": 0.17347432188368078,
+  "Clapier": 0.14494558543363847,
+  "Mont-Cenis": 0.15465476766550232,
+  "Montgenevre": 0.1260603943715594,
+  "Larche": 0.18004629854664891,
+  "Petit-St-Bernard": 0.07576198484976808,
+  "Grand-St-Bernard": 0.023224957090703872,
+  "Other col": 0.12183169015849811
+ },
+ "tempered_half": {
+  "Traversette": 0.24353924487278866,
+  "Clapier": 0.46248382074615135,
+  "Mont-Cenis": 0.15479217183443028,
+  "Montgenevre": 0.014164115797601254,
+  "Larche": 0.015606595003663688,
+  "Petit-St-Bernard": 0.017083978469669237,
+  "Grand-St-Bernard": 0.003839436583423463,
+  "Other col": 0.088490636692272
+ },
+ "tempered_half_collapsed": {
+  "Traversette": 0.1576456843359407,
+  "Clapier": 0.14410099621246752,
+  "Mont-Cenis": 0.14884907609142486,
+  "Montgenevre": 0.13438593509553992,
+  "Larche": 0.14869048935801707,
+  "Petit-St-Bernard": 0.09645322740175351,
+  "Grand-St-Bernard": 0.03776187535425409,
+  "Other col": 0.13211271615060255
+ },
+ "polybius_half": {
+  "Traversette": 0.2871806170846675,
+  "Clapier": 0.39995806665016825,
+  "Mont-Cenis": 0.15919316189068203,
+  "Montgenevre": 0.014333679940479117,
+  "Larche": 0.028341638964224636,
+  "Petit-St-Bernard": 0.01537188950069698,
+  "Grand-St-Bernard": 0.0030310618038209515,
+  "Other col": 0.09258988416526037
+ },
+ "polybius_half_monte_carlo": {
+  "Traversette": {
+   "p05": 0.12580698578101726,
+   "p50": 0.2687404070787923,
+   "p95": 0.48205443804824116,
+   "mean": 0.28193452137648417
+  },
+  "Clapier": {
+   "p05": 0.19735994694172734,
+   "p50": 0.3777260116284574,
+   "p95": 0.5995216577115795,
+   "mean": 0.38552786901119573
+  },
+  "Mont-Cenis": {
+   "p05": 0.06339864717508839,
+   "p50": 0.14803127069138283,
+   "p95": 0.30816818734315016,
+   "mean": 0.161713217596915
+  },
+  "Montgenevre": {
+   "p05": 0.004454554150382062,
+   "p50": 0.012843543855145958,
+   "p95": 0.03686300264127496,
+   "mean": 0.01581958351472737
+  },
+  "Larche": {
+   "p05": 0.010057739765016022,
+   "p50": 0.0260725767815339,
+   "p95": 0.06545443831149188,
+   "mean": 0.030349493199581617
+  },
+  "Petit-St-Bernard": {
+   "p05": 0.004910590107306298,
+   "p50": 0.01413738844772624,
+   "p95": 0.04002207403317181,
+   "mean": 0.017119798067162777
+  },
+  "Grand-St-Bernard": {
+   "p05": 0.0009113581999254367,
+   "p50": 0.0027751559763754935,
+   "p95": 0.008195298194974247,
+   "mean": 0.003436034326333902
+  },
+  "Other col": {
+   "p05": 0.027500924264231466,
+   "p50": 0.08688368963515702,
+   "p95": 0.24243116137938686,
+   "mean": 0.10409948290760007
+  }
+ },
+ "polybius_half_leader_frequency": {
+  "Traversette": 0.2885,
+  "Clapier": 0.6458,
+  "Mont-Cenis": 0.04585,
+  "Montgenevre": 0.0,
+  "Larche": 0.0,
+  "Petit-St-Bernard": 0.0,
+  "Grand-St-Bernard": 0.0,
+  "Other col": 0.01985
+ },
+ "polybius_half_leave_one_out": {
+  "P1 The Island: four days beyond a crossing that is itself four days from the sea, at a confluence with a second river (mss Skaras/Skoras; Sarar/Arar), shaped like the Delta, with the Allobroges next to it": {
+   "Traversette": 0.3602005917221442,
+   "Clapier": 0.3413123969073514,
+   "Mont-Cenis": 0.1358507408320222,
+   "Montgenevre": 0.017978232822705588,
+   "Larche": 0.03554792530541619,
+   "Petit-St-Bernard": 0.013117916321630035,
+   "Grand-St-Bernard": 0.002688246515314715,
+   "Other col": 0.09330394957341569
+  },
+  "P2 Then 800 stades in ten days along the river through flat country, escorted through the Allobroges, to the foot of the ascent": {
+   "Traversette": 0.35433797208480117,
+   "Clapier": 0.3398776923415338,
+   "Mont-Cenis": 0.13527969307663018,
+   "Montgenevre": 0.017685619364501103,
+   "Larche": 0.03496934778569054,
+   "Petit-St-Bernard": 0.013506208231417292,
+   "Grand-St-Bernard": 0.008277709349133104,
+   "Other col": 0.09606575776629288
+  },
+  "P3 The first fight is with the Allobroges, at the first defile of the ascent, with their town close by": {
+   "Traversette": 0.3993616275099717,
+   "Clapier": 0.30776447537139345,
+   "Mont-Cenis": 0.12249784174212604,
+   "Montgenevre": 0.019932827665556273,
+   "Larche": 0.039412698454212816,
+   "Petit-St-Bernard": 0.011828543795285001,
+   "Grand-St-Bernard": 0.0029328092828025355,
+   "Other col": 0.09626917617865237
+  },
+  "P4 Nine days from the foot of the ascent to the summit, with a battle, a captured town, a halt, a second ambush and a night in a gorge": {
+   "Traversette": 0.2977229314805048,
+   "Clapier": 0.3858663779291762,
+   "Mont-Cenis": 0.15358432268745578,
+   "Montgenevre": 0.014859865035823788,
+   "Larche": 0.029382052037667118,
+   "Petit-St-Bernard": 0.014830293018566816,
+   "Grand-St-Bernard": 0.003288874226674464,
+   "Other col": 0.10046528358413073
+  },
+  "P5 The plains of the Po are pointed out from the summit camp (Polybius) or from a promontory on the first descent morning (Livy)": {
+   "Traversette": 0.19173930473984468,
+   "Clapier": 0.32113313656171194,
+   "Mont-Cenis": 0.24153085332930185,
+   "Montgenevre": 0.02862109356577551,
+   "Larche": 0.05659179666149199,
+   "Petit-St-Bernard": 0.0306941615488244,
+   "Grand-St-Bernard": 0.006052339933014307,
+   "Other col": 0.1236373136600353
+  },
+  "P6 Old snow from the previous winter lies under the new snow on the descent, at the setting of the Pleiades (29 Oct to 9 Nov)": {
+   "Traversette": 0.18875609352802328,
+   "Clapier": 0.3843910801557389,
+   "Mont-Cenis": 0.22878405368579444,
+   "Montgenevre": 0.032013874879146594,
+   "Larche": 0.05268849714249677,
+   "Petit-St-Bernard": 0.022091672475194453,
+   "Grand-St-Bernard": 0.0029130881908393377,
+   "Other col": 0.08836163994276634
+  },
+  "P7 The descent is narrow and steeper than the ascent, a cliff-path is broken away for 1.5 stades, and the plain is reached three days below the cliffs": {
+   "Traversette": 0.25296423898071896,
+   "Clapier": 0.35230472370121974,
+   "Mont-Cenis": 0.1763248068557658,
+   "Montgenevre": 0.024126614932358428,
+   "Larche": 0.05458639994792496,
+   "Petit-St-Bernard": 0.0296064779210383,
+   "Grand-St-Bernard": 0.003082961958969311,
+   "Other col": 0.10700377570200457
+  },
+  "P8 He comes down among the Taurini and by \"the pass through the Taurini\" (Polybius 3.60.8, 34.10.18; Livy 21.38.5-7), not among the Salassi": {
+   "Traversette": 0.32172425886798783,
+   "Clapier": 0.3404574417267769,
+   "Mont-Cenis": 0.13551044761175937,
+   "Montgenevre": 0.012201299111024909,
+   "Larche": 0.035361062589375936,
+   "Petit-St-Bernard": 0.04030289585695097,
+   "Grand-St-Bernard": 0.0079470105617035,
+   "Other col": 0.1064955836744205
+  },
+  "P9 The crossing itself is \"about 1,200 stades\" (3.39.10) and takes fifteen days": {
+   "Traversette": 0.2540887584735184,
+   "Clapier": 0.4238864830565327,
+   "Mont-Cenis": 0.16871726100104667,
+   "Montgenevre": 0.012682008198900713,
+   "Larche": 0.025075828343252785,
+   "Petit-St-Bernard": 0.015188992312715258,
+   "Grand-St-Bernard": 0.003623637996750809,
+   "Other col": 0.09673703061728273
+  },
+  "L1 Livy: from the Island left into the Tricastini, along the Vocontii into the Tricorii, across the Druentia, then a mostly level road to the Alps": {
+   "Traversette": 0.17949229844096765,
+   "Clapier": 0.4929670844853974,
+   "Mont-Cenis": 0.1962130418934715,
+   "Montgenevre": 0.008958770211414625,
+   "Larche": 0.017713959844904745,
+   "Petit-St-Bernard": 0.018946575108881057,
+   "Grand-St-Bernard": 0.005012270563493648,
+   "Other col": 0.08069599945146934
+  },
+  "T2 Varro lists Hannibal's pass between the coast road and Pompey's; Pompey says his own route was \"other than Hannibal's\"": {
+   "Traversette": 0.2037300783229305,
+   "Clapier": 0.4486260548571273,
+   "Mont-Cenis": 0.1785642199378769,
+   "Montgenevre": 0.03274574414319251,
+   "Larche": 0.020105968099787812,
+   "Petit-St-Bernard": 0.03331544894490784,
+   "Grand-St-Bernard": 0.005193417255143846,
+   "Other col": 0.0777190684390333
+  },
+  "T3 The Roman tradition Livy rejects: Coelius's Cremonis iugum, the popular Poeninus, Nepos's saltus Graius": {
+   "Traversette": 0.28885484358530233,
+   "Clapier": 0.40228977134920424,
+   "Mont-Cenis": 0.160121237793098,
+   "Montgenevre": 0.014417243472905444,
+   "Larche": 0.028506867117527604,
+   "Petit-St-Bernard": 0.01045388583641819,
+   "Grand-St-Bernard": 0.0022264794225857238,
+   "Other col": 0.09312967142295848
+  },
+  "G1 The Traversette mire and rockfall (Mahaney and colleagues 2010-2026)": {
+   "Traversette": 0.2586575345105289,
+   "Clapier": 0.4159621726476769,
+   "Mont-Cenis": 0.16556319027469626,
+   "Montgenevre": 0.01490723440088317,
+   "Larche": 0.02947571433848955,
+   "Petit-St-Bernard": 0.01598698735585868,
+   "Grand-St-Bernard": 0.0031523481046565305,
+   "Other col": 0.09629481836721003
+  },
+  "F1 Practicable in early November for 30,000 men, thousands of animals and 37 elephants, and known as a route (Polybius 3.48.6: Gallic armies had crossed before)": {
+   "Traversette": 0.4515243788081067,
+   "Clapier": 0.3247318643892245,
+   "Mont-Cenis": 0.09139445691494946,
+   "Montgenevre": 0.008229115360196082,
+   "Larche": 0.016271230940143124,
+   "Petit-St-Bernard": 0.008825162312169926,
+   "Grand-St-Bernard": 0.001973160778774435,
+   "Other col": 0.0970506304964359
+  }
+ },
+ "polybius_half_scenarios": {
+  "de Beer's Island": {
+   "posterior": {
+    "Traversette": 0.5428434878077881,
+    "Clapier": 0.1960291792631195,
+    "Mont-Cenis": 0.07802444173985552,
+    "Montgenevre": 0.02709425479685563,
+    "Larche": 0.0535728152606933,
+    "Petit-St-Bernard": 0.007789893171044037,
+    "Grand-St-Bernard": 0.006239214742091651,
+    "Other col": 0.08840671321855215
+   },
+   "note": "the Island is the Aygues and \"Allobroges\" is used loosely, so P1-P3 do not discriminate"
+  },
+  "view is a topos": {
+   "posterior": {
+    "Traversette": 0.1917393047398448,
+    "Clapier": 0.32113313656171183,
+    "Mont-Cenis": 0.24153085332930177,
+    "Montgenevre": 0.02862109356577553,
+    "Larche": 0.05659179666149202,
+    "Petit-St-Bernard": 0.030694161548824418,
+    "Grand-St-Bernard": 0.00605233993301431,
+    "Other col": 0.12363731366003526
+   },
+   "note": "the summit view is rhetoric, not observation"
+  },
+  "snow is a generalisation": {
+   "posterior": {
+    "Traversette": 0.1887560935280233,
+    "Clapier": 0.384391080155739,
+    "Mont-Cenis": 0.2287840536857943,
+    "Montgenevre": 0.0320138748791466,
+    "Larche": 0.052688497142496786,
+    "Petit-St-Bernard": 0.022091672475194456,
+    "Grand-St-Bernard": 0.002913088190839338,
+    "Other col": 0.08836163994276629
+   },
+   "note": "the old snow is a stock detail, not evidence for the col's height"
+  },
+  "Livy's Druentia trusted": {
+   "posterior": {
+    "Traversette": 0.463785627033982,
+    "Clapier": 0.23255664938329754,
+    "Mont-Cenis": 0.09256327455550835,
+    "Montgenevre": 0.023148340603152948,
+    "Larche": 0.04577065448089893,
+    "Petit-St-Bernard": 0.008938024795732363,
+    "Grand-St-Bernard": 0.0013651636573276135,
+    "Other col": 0.13187226549010042
+   },
+   "note": "Livy's Durance itinerary is taken as reliable"
+  },
+  "numbers distrusted": {
+   "posterior": {
+    "Traversette": 0.2639876427107123,
+    "Clapier": 0.409838761609728,
+    "Mont-Cenis": 0.16312592185590483,
+    "Montgenevre": 0.013176078585210802,
+    "Larche": 0.026052741778592643,
+    "Petit-St-Bernard": 0.01468562468577864,
+    "Grand-St-Bernard": 0.003940381425861995,
+    "Other col": 0.10519284734821072
+   },
+   "note": "the day-counts and stades are not held against any route"
+  },
+  "Mahaney credited": {
+   "posterior": {
+    "Traversette": 0.5522848058997128,
+    "Clapier": 0.25120992460936636,
+    "Mont-Cenis": 0.09998773754415555,
+    "Montgenevre": 0.009002850442249051,
+    "Larche": 0.017801118620108098,
+    "Petit-St-Bernard": 0.009654940166392994,
+    "Grand-St-Bernard": 0.0019037815979098473,
+    "Other col": 0.05815484112010537
+   },
+   "note": "the mire is accepted as a dated Punic army deposit"
+  },
+  "Traversette practicable": {
+   "posterior": {
+    "Traversette": 0.5098595391800245,
+    "Clapier": 0.2750144507782903,
+    "Mont-Cenis": 0.10946252528847943,
+    "Montgenevre": 0.009855956024286386,
+    "Larche": 0.01948794367165579,
+    "Petit-St-Bernard": 0.01056983744287476,
+    "Grand-St-Bernard": 0.002084182985067748,
+    "Other col": 0.0636655646293211
+   },
+   "note": "the height and headwall of the Traversette are not held against it"
+  }
+ },
+ "flat_prior": {
+  "Traversette": 0.1938257598641788,
+  "Clapier": 0.6989830967598406,
+  "Mont-Cenis": 0.07830176875720231,
+  "Montgenevre": 0.000655620496401487,
+  "Larche": 0.0010833866635480552,
+  "Petit-St-Bernard": 0.0012982107323129823,
+  "Grand-St-Bernard": 0.0002622781749221894,
+  "Other col": 0.02558987855159359
+ },
+ "polybius_half_flat_prior": {
+  "Traversette": 0.2839641540284047,
+  "Clapier": 0.3954784803936376,
+  "Mont-Cenis": 0.15741017622392972,
+  "Montgenevre": 0.014173140721443822,
+  "Larche": 0.032694910086946256,
+  "Petit-St-Bernard": 0.0177330092210322,
+  "Grand-St-Bernard": 0.0069932648051156295,
+  "Other col": 0.09155286451949016
+ },
+ "scenarios": {
+  "de Beer's Island": {
+   "posterior": {
+    "Traversette": 0.7618614468066779,
+    "Clapier": 0.18471607091660577,
+    "Mont-Cenis": 0.020692338824354315,
+    "Montgenevre": 0.002577015461177924,
+    "Larche": 0.0036500700342712664,
+    "Petit-St-Bernard": 0.0003143636970691286,
+    "Grand-St-Bernard": 0.0005239394951152142,
+    "Other col": 0.025664754764728587
+   },
+   "note": "the Island is the Aygues and \"Allobroges\" is used loosely, so P1-P3 do not discriminate"
+  },
+  "view is a topos": {
+   "posterior": {
+    "Traversette": 0.11161649169914276,
+    "Clapier": 0.5821204009162664,
+    "Mont-Cenis": 0.23284816036650655,
+    "Montgenevre": 0.003376870361356379,
+    "Larche": 0.0047829799631748,
+    "Petit-St-Bernard": 0.005731394089988313,
+    "Grand-St-Bernard": 0.000578958232383319,
+    "Other col": 0.05894474437118161
+   },
+   "note": "the summit view is rhetoric, not observation"
+  },
+  "snow is a generalisation": {
+   "posterior": {
+    "Traversette": 0.09069244661858118,
+    "Clapier": 0.6992818649590341,
+    "Mont-Cenis": 0.17516291606106885,
+    "Montgenevre": 0.00354226879590603,
+    "Larche": 0.0034760523255219075,
+    "Petit-St-Bernard": 0.0024892527732455925,
+    "Grand-St-Bernard": 0.00011245297764781021,
+    "Other col": 0.025242745488994606
+   },
+   "note": "the old snow is a stock detail, not evidence for the col's height"
+  },
+  "Livy's Druentia trusted": {
+   "posterior": {
+    "Traversette": 0.38900161156827034,
+    "Clapier": 0.5050783103002324,
+    "Mont-Cenis": 0.056580087903034815,
+    "Montgenevre": 0.0013158077123292715,
+    "Larche": 0.0018637025559174564,
+    "Petit-St-Bernard": 0.0008040636904788991,
+    "Grand-St-Bernard": 6.291483156373499e-05,
+    "Other col": 0.04529350143817299
+   },
+   "note": "Livy's Durance itinerary is taken as reliable"
+  },
+  "numbers distrusted": {
+   "posterior": {
+    "Traversette": 0.16127958149187474,
+    "Clapier": 0.7227277981893587,
+    "Mont-Cenis": 0.08096170735823796,
+    "Montgenevre": 0.0005455322313774074,
+    "Larche": 0.0007726887480797827,
+    "Petit-St-Bernard": 0.0010000914004220556,
+    "Grand-St-Bernard": 0.0001870610018085082,
+    "Other col": 0.03252553957884096
+   },
+   "note": "the day-counts and stades are not held against any route"
+  },
+  "Mahaney credited": {
+   "posterior": {
+    "Traversette": 0.42416249620873514,
+    "Clapier": 0.4995762759871646,
+    "Mont-Cenis": 0.055963736777416506,
+    "Montgenevre": 0.0004685842155145068,
+    "Larche": 0.0006637000162972332,
+    "Petit-St-Bernard": 0.0007953046803913787,
+    "Grand-St-Bernard": 8.033790465916316e-05,
+    "Other col": 0.018289564209821415
+   },
+   "note": "the mire is accepted as a dated Punic army deposit"
+  },
+  "Traversette practicable": {
+   "posterior": {
+    "Traversette": 0.3831564167647596,
+    "Clapier": 0.5351517019130192,
+    "Mont-Cenis": 0.05994898160979964,
+    "Montgenevre": 0.0005019526596347191,
+    "Larche": 0.0007109628906603424,
+    "Petit-St-Bernard": 0.0008519392807631478,
+    "Grand-St-Bernard": 8.60588632266873e-05,
+    "Other col": 0.01959198601813682
+   },
+   "note": "the height and headwall of the Traversette are not held against it"
+  }
+ },
+ "best_case_share": {
+  "Traversette": 0.9969541255583745,
+  "Clapier": 0.9996967676561737,
+  "Mont-Cenis": 0.9919939799291104,
+  "Montgenevre": 0.8146578039414797,
+  "Larche": 0.8561661885768722,
+  "Petit-St-Bernard": 0.8278355472421988,
+  "Grand-St-Bernard": 0.5356787608937175,
+  "Other col": 0.9982925860798589
+ },
+ "leader": "Clapier",
+ "factor_to_tie": {
+  "Traversette": 3.6062445840513933,
+  "Mont-Cenis": 8.926785535678556,
+  "Montgenevre": 1066.1397875697276,
+  "Larche": 752.7139727587894,
+  "Petit-St-Bernard": 628.1570928783124,
+  "Grand-St-Bernard": 6218.437960345564,
+  "Other col": 27.314826655021854
+ },
+ "n_samples": 20000,
+ "notes": "Cells are the report author's judgements; see the report section \"The evidence model\" for the argument behind each."
+}

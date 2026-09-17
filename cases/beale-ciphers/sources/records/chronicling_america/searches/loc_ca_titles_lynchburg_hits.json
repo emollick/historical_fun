@@ -1,0 +1,40 @@
+{
+ "source_file": "loc_ca_titles_lynchburg.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=title&fa=location_city:lynchburg&fo=json",
+ "total_hits": 4,
+ "results_in_capture": 4,
+ "results": [
+  {
+   "date": "1822",
+   "title": "the virginian (lynchburg [va.]) 1822-1829",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn85027015/"
+  },
+  {
+   "date": "1805",
+   "title": "lynchburg star (lynchburg [va.]) 1805-181?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn85025609/"
+  },
+  {
+   "date": "1829",
+   "title": "lynchburg virginian (lynchburg [va.]) 1829-185?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn84024649/"
+  },
+  {
+   "date": "1852",
+   "title": "lynchburg daily virginian (lynchburg [va.]) 1852-1861",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/item/sn85034360/"
+  }
+ ]
+}

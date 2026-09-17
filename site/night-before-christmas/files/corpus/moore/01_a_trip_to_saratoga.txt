@@ -1,0 +1,972 @@
+title: A Trip to Saratoga
+author: Clement Clarke Moore
+date: pub. 1844
+source: Poems (New York: Bartlett & Welford, 1844), pp. 15-64; scan https://archive.org/details/poemsmoor00moorrich (leaves n24 ff.)
+form: iambic pentameter quatrains (abab)
+lines: 864
+attribution: certain
+notes: Long comic-serious narrative in six parts (Part First to Part Six); the family of the widower Henry Mildmay travel by steamboat and railroad to Saratoga Springs and Lake George. Section headings PART FIRST etc. are kept as separate lines but not counted as verse lines. Printed in verse paragraphs of varying length (blank lines here follow the print; breaks that coincide with page ends were adjudicated, see MANIFEST.md); the abab quatrain scheme is occasionally extended to six-line ababab stanzas (e.g. ll. 173-178, 459-464). Footnote on p. 48: '* Lake George was, by the French, called Le Lac du Sant Sacrement.' Printed 'unsconcious' (pp. 31, 38), 'misfortue' (p. 55), 'autumal' (p. 58), 'the the pure delights' (p. 46), 'the' azure sky' (p. 48) are as printed. Four engraved plates in the book face pp. 15, 49, 51 and 89 (unnumbered leaves). Heading as printed: 'A TRIP TO SARATOGA / PART FIRST.'. Editorial: FOOTNOTE p48: * Lake George was, by the French, called Le Lac du Sant Sacrement.
+
+IT was the opening spring-time of the year,
+When captives struggle most to break their chains,
+And brooks let loose, and swelling buds, appear,
+And youthful blood seems starting from the veins,
+When Henry Mildmay, in his breakfast hall,
+Had press'd good morrow on each daughter's lip,
+And, seated at the board, his children all,
+By concert, urg'd him for a summer trip.
+
+"One at a time, for pity's sake, my dears,"
+Half laughing, half provok'd, at length he said,
+"This babylonish din about my ears
+Confounds my brain, and nearly splits my head."
+
+And well might Henry of the rout complain
+That broke the comfort of his morning meal;
+For tongues, as wild as colts that spurn the rein,
+Maintain'd, in loud debate, a ceaseless peal.
+Three clamorous girls, as many boisterous boys,
+All straining at their topmost voice to speak,
+In ev'ry tone, from childhood's piping noise
+To incipient manhood's mingled growl and squeak,
+With two cag'd songsters of Canary's brood,
+Both emulous to join their thrilling strains—
+All this might well provoke the gentlest mood,
+And raise a tumult in the coolest brains.
+
+"Why should you wish," continued he, "to roam,
+In fancied pleasure's quest, the country round,
+And leave the solid comforts of your home,
+Where all that reason can desire is found?
+'Tis not for health impair'd, or hearts depress'd,
+Or spirits burden'd by a load of care:
+Your minds require no tone-restoring rest,
+Your bodies need no change of scene or air.
+This lawn, these trees and shrubs, your senses cheer
+When summer heats prevail, and close in view
+A noble city rises; so that here
+You may enjoy the town and country too."
+"Oh dear papa," cried Kate, the eldest child,
+"Indeed, indeed, you are mistaken quite;
+We are sick to death of home, and almost wild
+Of somewhat else on earth to get a sight.
+How often on your accents have we hung
+When of your youth's adventures you have told;
+And why should not we store our minds, while young,
+With things of which to think and speak when old?
+Why should we dose at home, when all the world,
+With former times compar'd, seems rous'd from sleep;
+In steamboats dashing, or in rail-cars hurl'd,
+Or in swift vessels bounding o'er the deep?
+How would it make our snail-pac'd fathers stare
+To see the rate at which we go; and soon,
+I trust, we shall ascend the fields of air,
+And make our yearly visits to the moon"—
+"Yes, to the paradise of fools," cried he,
+"This gadding generation's proper place.
+I do protest it makes me mad to see
+The restless rambling of the present race.
+Now, rough mechanics leave their work undone,
+And, with pert milliners and prentice youth,
+To some gay, throng'd resort away they run,
+To cure dyspepsia or ennui, forsooth!
+That idle, pamper'd wealth should gladly haste
+To try the traveller's miseries, may be right:
+The sickly palate needs some pungent taste
+To cure the nausea that mere sweets excite.
+Nor would I honor from the man withhold
+Whom searching science bids to distant shores;
+Who, to extend her empire, constant, bold,
+The works of Nature and of Art explores.
+Much pleasure, too, there is in change of scene,
+When streams glide smoothly, and the skies are bright;
+The towering mountains and the valleys green,
+Impress the thoughtful mind with pure delight.
+But, that the highest pleasures which we know
+In all these idle jaunts, I will maintain,
+Is hope that lures us when at first we go,
+And heartfelt joy at coming home again."
+
+"Why dearest father, sure your reasoning's scope
+But tends your very purpose to destroy;
+What happier life than one led on by hope,
+And which, at last, concludes with heartfelt joy?"
+
+"Poh, poh, what nonsense!" was the sole reply
+That to this brisk retort her father made,
+With half a smile, and twinkle of the eye
+That spoke—"You are a darling saucy jade."
+
+When dear-lov'd daughters, for some trivial prize,
+Against a widow'd father's voice contend,
+How fierce soe'er the strife may seem to rise,
+All know in whose behalf it soon will end.
+The promise worded in a doubtful guise,—
+"Well, well, soon as the season comes, we'll see"
+Brought instant pleasure's lightning to their eyes,
+And fill'd each bounding heart with hopeful glee.
+
+At length, that all should go, it was agree'd;
+Though Henry knew full well the weighty charge
+'Twould be, on purse and patience both, to lead
+Afar from home a troop so wild and large.
+But all their pleasure would be turn'd to pain,
+If one or more, selected from the rest,
+Were doom'd, all sad and quiet, to remain,
+While they with constant change and chance were blest.
+For this was all they wish'd, nor did they care
+If they went North or South, or East or West;
+And gladly left their father to declare
+Which course he deem'd the pleasantest and best.
+
+And soon, without a murmur, 'twas resolv'd
+The noble Hudson's waters to ascend,
+When vernal clouds and damps should be dissolv'd
+And summer's balmy breath their voyage befriend.
+
+Fair cloudless day-spring of our early youth!
+How seem we then to think 'twill ne'er be night!
+How ev'ry fancied form we take for truth!
+How all the distance gleams with roseate light!
+Nor let foreboding Prudence sigh with pain
+To see the dangers of youth's rash career,
+Nor grieve that brightest hopes may beam in vain,
+Soon to be quench'd in disappointment's tear.
+In bounteous Nature's works we ever see
+Apparent waste, and fruitless efforts find:
+How many a blossom of the goodliest tree
+Is idly scatter'd by the wanton wind!
+And are these fruitless flowers abortive quite?
+Has Nature bid them bloom and fall in vain?
+No; ere they perish, they impart delight;
+And plenteous fruits in embryo still remain.
+If dearest hopes that fill the youthful mind,
+And joys of fairest promise, end in gloom,
+Yet still, successive hopes we ever find,
+And other joys, upspringing in their room.
+No, let not frigid age regard with scorn
+The youthful spirit's warm outbreakings wild:
+How many a hero to the world is born
+Whose deeds are but the reckless darings of a child!
+
+PART SECOND.
+
+The sun had reach'd, at length, his northern goal;
+Fierce wintry storms were chang'd to summer showers;
+Soft zephyrs through the rustling foliage stole;
+And dews of evening cheer'd the drooping flowers.
+The day was fix'd on when they should depart;
+And all their buoyant spirits were alive,
+Like high-bred coursers straining on the start,
+Distracted for the moment to arrive.
+
+All their equipments had the young folk made;
+And gather'd such a vast and varied store
+As would suffice a merchant for his trade,
+Or fit them all the world to travel o'er.
+
+"Young travellers," said their father, "all are so:
+Learn, learn, betimes, my children, to beware
+Of grasping much, while through this world you go;
+You only gain embarrassment and care.
+Believe me, 'twill require your keenest looks
+To guard the smallest parcel you may need:
+Then leave your extra wardrobes, and your books,
+Scarce one of which you'll have the time to read."
+
+Too happy were their spirits, to complain;
+And 'twas agreed that many a coat and vest
+And well-fill'd trunk and basket should remain,
+And ev'ry bandbox too, the traveller's pest.
+To Charles, the eldest son, it was assign'd
+To watch the baggage; he was strong and large;
+And Kate, with all her rattling, sweet and kind,
+Had little Sue and Meg beneath her charge.
+
+William and John were of that age when boys
+Are rude in mind and awkward in their forms;
+When love of fun, of playful strife and noise,
+Seems the one passion which their bosom warms.
+
+The long expected day arriv'd at last.
+The oppressive atmosphere was damp and warm.
+The horison, in the West, was overcast.
+The sky foretold an evening thunder storm.
+
+Their father said the jaunt should be deferr'd
+Until the storm was o'er and skies were clear;
+And, of his children's murmurs, not a word,
+To swerve him from his purpose, would he hear:
+He thought, in quest of pleasure, 'twas absurd
+To rush on scenes of peril and of fear.
+Not so to the youthful troop; to them, delay
+Of promis'd pleasure was a serious pain:
+No threaten'd danger could have stopp'd their way:
+They look'd on distant trouble with disdain.
+
+But, long ere night, the boded storm growl'd hoarse;
+Still gathering rage, more threat'ning and more loud.
+The southern breeze, that strove to stay its course,
+To fury fann'd the dense and lurid cloud—
+"Down with the windows, run, here comes the gust,
+Quick, quick, the wind has veer'd—See! what a flash!"
+Scarce Henry spoke, when came the smothering dust,
+A torrent next, and thunder, crash on crash:
+No interval between the light and sound;
+So sharp and near was ev'ry awful stroke.
+From cloud to cloud the echoes roll'd around,
+And, far off, into angry murmurs broke.
+Good Henry, with a look devoid of fear,
+His children, from the walls and windows stay'd;
+Yet taught them not to cower at danger near,
+But gaze upon the lightning as it play'd.
+
+'Tis well that violence soon spends its power;
+And well that we forget our fear and pain.
+The storm that rag'd was but a summer-shower;
+And all, ere long, was peace and joy again.
+
+The birds sang out; the setting sun was bright;
+The diamond rain-drops glitter'd on the green;
+The clouds were stain'd with gorgeous tints of light;
+A lofty rainbow crown'd the magic scene.
+The morn succeeding shone forth heav'nly fair:
+The western breeze was cool, but gently blew.
+Some pearl-bright clouds sailed softly through the air,
+And made more deep the deep cerulean hue.
+None can describe the bustle, noise and rout,
+The various sounds from ev'ry throat that pour'd,
+Till fairly for the steamer they'd set out,
+And, bag and baggage, all were safe aboard.
+
+"We're off at length," exclaim'd the joyous band;
+For now the steamer ceas'd its hissing roar;
+The paddles slowly plash'd, on either hand,
+To draw the vessel gently from the shore.
+
+And now the steam breath'd out in greater force;
+The gallant boat was fairly under way;
+In majesty she shap'd her rapid course—
+Were ever folk so happy and so gay!
+
+Dense with a living mass the vessel teem'd;
+In search of pleasure, some, and some, of health;
+Maids who of love and matrimony dream'd,
+And speculators keen, in haste for wealth;
+Old men smooth shorn; lads with long beards and rough;
+Rich men ill clad, and poor ones smart and clean;
+True honest men, with looks and language gruff;
+And rogues with speeches soft, and smiles between.
+
+Some woman too would catch the ear and eye,
+Striving, with might and main, her brat to quiet,
+Who paid its mother's scolding lullaby
+With kicks and jerks and still a louder riot.
+The smiling maids, in flower-lin'd bonnets drest,
+Seem'd, to the careless gaze, all fair alike:
+No one, at first, was likely to arrest
+The wand'ring eye, or transient view to strike.
+So, clust'ring cherries on the tree appear,
+At distance seen, all ripe, and plump, and sound;
+'Tis not till gather'd, and examin'd near,
+That many a canker'd blemish may be found.
+
+PART THIRD.
+
+Long, on the deck, the living chaos stirr'd,
+Before each element could find its place;
+While unexpected greetings oft were heard,
+And oft appear'd some unexpected face.
+With much-ado, for Henry and his Kate
+A place to seat themselves, at length, was found.
+The rest, with wonder and with joy elate,
+At ev'ry novel sight, came clust'ring round.
+
+Kate lov'd to gaze on earth, and wave, and sky,
+The woods, the river's rocky margin steep.
+The boys lov'd best to watch the wild-fowl fly,
+To see the fishes from the water leap.
+Henry, on all within and all without,
+Attentive look'd, and frequently, the while,
+Some object to his children pointed out,
+That might instruction give, or call a smile.
+
+"See that plump-visag'd, snug and tidy wife,
+Who keeps all right and tight, where'er she goes;
+The busy, bustling habit of whose life,
+In ev'ry look, and word, and act, she shows.
+These are the dames whose angry call
+Makes servants tremble, and brave husbands laugh.
+Let them alone ye witlings; after all,
+Nine out of ten, they are the better half."
+
+"Do see," cried Charles, "that little swarthy man,
+In long black boots, who holds his book so near
+To his snub-nose; help laughing if you can"—
+"Beware, my son, at strangers how you sneer,"
+Replied his father, "little do you dream
+How bright a mind within that form resides.
+The rough pearl-oyster, thus, would worthless seem
+To one unsconcious of the gem it hides.
+
+"Smile, if you will, at those two pallid youths,
+Hard-by, in converse close, with heads together,
+Grasping at shades of metaphysic truths,
+In hopes to solve some knotty if or whether.
+They come for health; yet there they sit, by th' hour,
+Discussing loud, from some dull schoolman's book,
+What is or is not in th' Almighty's power;
+And, meanwhile, neither of them deigns to look
+Upon th' Almighty's works which, all around,
+With his own radiant impress ever shine;
+Where health of mind and body may be found,
+And things to feed the soul with thoughts divine."
+
+Somewhat retir'd there was another group—
+A mother with two children and her spouse.
+They could not fail, in Henry and his troop,
+Deep interest and compassion to arouse.
+She too for health was seeking; beauteous, young;
+A hectic flush but rendered her more fair.
+Her girls, unconscious, round their father hung,
+Who strove, in vain, to hide his anxious air.
+'Twas sad to see the silent tear-drop stain
+Her lovely cheek, as on her girls she smil'd,
+With mix'd emotions that confess'd how vain
+She deem'd, at heart, the hope that oft beguil'd.
+Scarce, Henry from his children could conceal
+The long-quell'd anguish in his breast that rose;
+Or hide the tear that down his cheek would steal
+At sight of what awoke his own past woes.
+Yet still, he ceas'd not there to turn his eyes;
+Nor would he blot the mem'ry of the past.
+Strange! that our keenest pangs we seem to prize,
+And dwell on early sorrows to the last!
+
+It was relief to view a happier sight;
+A lovely infant in its mother's arms,
+Recovering from disease whose threat'ning blight
+Had rack'd her tender heart with dire alarms.
+To watch each fav'ring sign, she sat intent,
+And joy'd to see the babe cheer up the while.
+With heart too full to speak, her head she bent,
+And gave the little creature smile for smile.
+Kate would have given half her life, to snatch
+The infant from its mother's fond embrace;
+Its outstretch'd hand within her own to catch,
+And print a thousand kisses on its face.
+
+There was a towering manly-treading lass,
+With long sharp nose and philosophic look;
+Her brain, of borrow'd thoughts a mingled mass,
+Who valued nought that was not in a book.
+Heav'n help the mortal doom'd by cruel fate
+To bide the wordy torrent of her tongue!
+This precious creature fasten'd on our Kate
+All fearless of the woe that o'er her hung.
+The pure unblemish'd native light that beam'd
+From Kate's sweet face had caught this damsel's eyes;
+A subject, to her vanity, she seem'd,
+Whom she might safely deign to patronize.
+
+When to the enchanting Highland scene they came,
+One would have thought by book she knew it all;
+For ev'ry hill she found a classic name,
+And recognis'd each rill and waterfall.
+In long citations, such a peal was rung
+As serv'd our helpless victim to astound.
+She wish'd at heart that Scott had never sung,
+Or that the Lady of the Lake were drown'd.
+
+At length, when dinner's stirring summons rang,
+To Kate, no music e'er had such a charm;
+No bird let loose more lightly ever sprang
+Than she, to catch her father's ready arm.
+
+Too clearly, by the tumult which ensued,
+The innate selfishness of man was shown;
+Careless of other's comfort, each pursued,
+With all his force, th' attainment of his own.
+But, with our gentle Henry, 'twas not so:
+Th' impatience of his children he withstood:
+He said, their meal 'twere better to forego
+Than show themselves both gluttonous and rude.
+
+While all seem'd mad with hunger and with thirst,
+He mov'd with measur'd step and tranquil air:
+The vacant place he took which offer'd first;
+Nor seem'd he, for himself, to have a care.
+
+What is the real gentleman, but he
+Who from the path of kindness never strays?
+Who truly is what he appears to be?
+And feels at heart the goodness he displays?
+The outside show of elegance and ease,
+The mere result of study and of art,
+Has pow'r, awhile, the eye and ear to please;
+But real worth alone can reach the heart.
+The one, like empty sounds that swell and roll,
+Conveys no clear sensation to the mind.
+The other reaches to the inmost soul,
+Like dulcet strains with touching words combin'd.
+
+Soon as the comfortless repast was o'er,
+They gladly left the cabin's breath confin'd,
+And, mounting to the open deck, once more,
+Inhal'd, with joy, the cool refreshing wind.
+Their spirits soon began more gay to rise;
+Toward all around they felt in social mood.
+For, though blue-stockings may the thought despise,
+'Tis sure the mind gains health from solid food.
+
+But soon Kate saw that all her joy must end.
+"Oh dear! oh dear!" thought she, "what shall I do?
+Here comes my everlasting learned friend—
+Well, well, Heav'n grant I ne'er may be a blue!"
+Ah no! her ev'ry word and ev'ry look
+Proclaim'd that no such fate she need to dread;
+Her thoughts and feelings, drawn from Nature's book,
+Shed simple truth's pure light o'er all she said.
+In vain she strives to shun the watchful gaze;
+Now clings more closely to her father's side;
+Now starts away to chase some child that strays;
+And now she seems to warn, and now to chide.
+So full of anxious care her thoughts appear,
+That interruption would be downright rude.
+
+Yet still, my lady blue kept ever near;
+And still, like sportsman keen, her game pursued;
+For Kate, who wish'd not ever to offend,
+A list'ner of no common value prov'd.
+But Henry could no more her steps attend;
+And, wearied, to a vacant seat he mov'd.
+When by her father she had plac'd her chair,
+And had the children safely station'd round,
+Her kind protectress fail'd not to be there;
+And nasal measures soon began to sound.
+
+As through this world we wend our weary way,
+So intermingled are the good and ill,
+That much is found our troubles to allay;
+This thought at least, they might be greater still.
+Declaimers seldom for an answer wait;
+At most, but for a careless yes or no;
+Thus Heav'n is pleas'd, in mercy, to abate
+What might have been the wretched list'ner's wo.
+But Kate, in truth, unfeign'd attention paid;
+And scarce could she her merriment control,
+While lurking smiles around her features play'd
+And furtive glances toward her father stole.
+Long did th' untiring speaker's voice resound
+With Southey's wonders and Montgomery's charms;
+Till, sudden, she beheld, on glancing round,
+Her patient list'ner—lock'd in Morpheus' arms.
+
+The angel look of sweet unsconcious Kate
+Proclaim'd how little dream'd she to offend,
+Or change to bitter wrath and vengeful hate
+The seeming friendship of a seeming friend.
+Her father could have burst with glee outright,
+To see the fury of the damsel's eyes;
+For, long since, to his keen experienc'd sight,
+She was a smiling vixen in disguise.
+Yet strove he, for his daughter, peace to make;
+Pleaded the engine's ceaseless weary stroke;
+How early she was call'd, that morn, to wake;
+And of her youth and inexperience spoke.
+This, to a lady of a certain age,
+Appear'd a sly premeditated blow;
+Away she turn'd, with inward glowing rage,
+And parted from her friends, a bitter foe.
+
+The morning mist that dims an op'ning rose
+Imparts new beauty, ere it melts away.
+And thus, our sleeper woke from soft repose
+With features brighten'd and with looks more gay.
+
+But keenest pleasure soon must loose its tone,
+When that's the only end we have in view.
+This, by our younger travellers was shown;
+Who now began to pant for somewhat new;
+To ask the distance they had still to go;
+At what abode they were to pass the night;
+Their progress seem'd continually more slow;
+They wish'd that Albany would come in sight.
+
+At length, the distant spires to view arise;
+And now the dreaded shoal awakes their fears.
+The pilot, with firm hand and watchful eyes,
+The vessel through the channel safely steers.
+
+Fierce rose the strife, the tumult and the noise,
+When first the steamer touch'd her destin'd shore.
+On rush'd the hack-men and the baggage-boys.
+The safety-valve sent forth its angry roar.
+In terror and amaze the girls they stand.
+The boys, confounded, scarce know where to turn;
+Impetuous, they at once would rush to land;
+But, self-possession Henry bid them learn,
+And not, by eagerness, increase the strife.
+And, as he calmly stood, pronounc'd this rule—
+"In all the troublous passages of life,
+Pray for a spirit patient, firm, and cool."
+
+And now, beneath a skillful driver's care,
+We leave our friends to wind their tortuous way,
+And seek a night's refreshment, to repair
+Their strength and spirits, for another day.
+
+PART FOUR.
+
+From sleep profound our young folk op'd their eyes,
+When first the warning bell sent forth its peal;
+And for a moment gazed, with that surprise
+Which, waking far from home, we're wont to feel.
+Anon, they heard their father bid them rise,
+And, quick, make ready for their morning meal.
+That o'er, they sprang their journey to pursue;
+First casting round their rooms a parting look:
+For this last glance, if travellers tell what's true,
+Saves many a straggling kerchief, cap, or book.
+
+Now are the party on their way again,
+Well stow'd, our Henry 'mid his sons and daughters,
+And swiftly gliding in the railroad train
+To Saratoga's fam'd health-giving waters.
+
+Of all the joys that from our senses flow,
+None are, perhaps, more exquisitely keen
+Than those emotions which light spirits know
+When entering first upon a rural scene.
+The azure heav'n that calls our thoughts on high;
+The glorious light of summer shed around;
+The hills and vales that in the prospect lie;
+The cloud-form'd shadows flying o'er the ground;
+The cool untainted zephyr gently blowing;
+The shrubs and grass refresh'd by ev'ning showers;
+The sparkling streams along the valleys flowing;
+The trees wide spread, or cluster'd into bowers;
+While rapid motion, as the carriage flies,
+Stirs up new life and spirit in the soul,
+Just as the mantling foam and bubbles rise
+In generous wine that's dash'd into the bowl;—
+
+These, and unnumber'd other pure delights
+With which the varied charms of Nature shine,
+Give to the heart an impulse that excites
+A joy that seems to have a touch divine.
+
+But pleasure, soon or late, is dash'd with pain;
+For mists will hide the landscape from the eye;
+The clearest skies will gather clouds and rain;
+Cool winds will heated grow, and dust will fly.
+Some of those pleasures, and these troubles too,
+While on their way, our younger party felt.
+The day wax'd warm; they all impatient grew;
+No more on rural scenes their fancies dwelt;
+They long'd from crowded durance to get free,
+And stretch at ease their cramp'd up limbs, once more;
+And though, at first, nought could exceed their glee,
+At length, they fairly wish'd their journey o'er.
+
+On, on, the engine, puffing, panting, went;
+Impatient, as it seem'd, the goal to reach;
+And, ever and anon, afar it sent
+Its warning voice, with fearful goblin screech.
+Away, as from a monster's jaws outspread,
+Th' astonish'd beasts o'er hill and valley bound,
+With eyes wild gleaming, from unwonted dread,
+And, head and ears erect, they gaze around.
+
+At length, their father bid his children cheer;
+For, at the rate they then were hurl'd along,
+Their durance soon should end, as they were near
+To Saratoga's idly busy throng.
+
+Soon as arriv'd, like vultures on their prey,
+The keen attendants on the baggage fell;
+And trunks and bags were quickly caught away,
+And in the destin'd dwelling thrown pell-mell.
+Then names were register'd, and rooms were shown,
+And, for the dinner dress, arrangements made:
+And, ere another rapid hour had flown,
+By joyous hearts the summons was obey'd.
+
+Life pass'd without some purpose kept in view
+Were worse than death. The lonely pris'ner craves
+Some painful task or labor to pursue;
+And, for relief, the fiercest danger braves.
+How then could sons of pleasure chase away
+From these gay scenes the horrors of ennui,
+But for the three great epochs of the day,
+The happy hours of Breakfast—Dinner—Tea?
+All then inhale fresh spirits and new life;
+E'en churls look pleasant; wealth forgets its pride;
+The fiercest disputants forego their strife;
+Segars and Politics are thrown aside.
+
+Yet, when we have no higher end and aim
+Than pleasure, for the moment, as it flies,
+It soon gives way to feelings cold and tame,
+And, while we grasp it, languishes and dies.
+One who pursues the same unvarying round
+Of dinners, concerts, billiards, drives and dances,
+Is like a squirrel cag'd, who, though he bound,
+And whirl about his wheel, yet ne'er advances.
+
+In all his children's pastimes Henry shar'd;
+For, to repress young spirits, he thought wrong;
+But, little, in his very heart, he car'd
+For what engag'd the pleasure-hunting throng.
+And o'er the young folk too the thought would steal,
+That e'en to waltz at night, at noon to roam,
+To drink the waters, taste the hurried meal,
+Were not the the pure delights of their dear home.
+The sounds of strife or wassail, in the night,
+Or of departing guests, at dawn of day,
+Would fill the boys with wrath, the girls with fright;
+And ofttimes chase their rest and sleep away.
+At meals, some noisy pack their peace would mar;
+Who deem'd it to gentility a stain,
+Though half-seas-o'er with brandy at the bar,
+To call for other bev'rage than champaign.
+
+But swift, away, away, the hours they flew;
+Those winged hours that go so strangely fast
+When unaccustom'd objects meet the view;
+Yet seem of such unwonted length, when past.
+
+When favoring skies and sunbeams cheer'd the day,
+The mansion's inmates scatter'd far and wide,
+The lakes to view, or in the fields to stray,
+To hunt, to fish, to visit, drive, or ride.
+
+Our party made the usual tour of jaunts.
+They climb'd the hills, to view the vales below.
+They sought for rude uncultivated haunts;
+Or stray'd among the woods where wild flowers grow.
+The wonted casualties that travellers meet
+Would cause perplexity, or fears excite;
+A drunken driver tottering in his seat;
+A sudden break-down, or way lost at night.
+But when they came back safe and well at last,
+And, after toil, enjoy'd refreshing rest,
+They felt that all the troubles they had past
+Gave to their pleasures still a keener zest.
+
+'Twere wearisome of all the scenes to tell
+That caus'd enraptur'd feelings to awake.
+But we may venture, for a while, to dwell
+Upon the beauties of that lovely lake
+Whose pure wave drinks so deep heav'n's holy light,
+It seems a sacred character to claim;
+And from religion's sacramental rite,
+In days now long gone by, deriv'd its name.
+It seems call'd forth by magic to the eye,
+With countless verdant islets scatter'd o'er;
+Its hills contrasting with the' azure sky,
+And rising all romantic from the shore.
+While speechless pleasure in their faces beam'd,
+Kate and her sisters, from the winged boat,
+Would in the crystal dip their hands, that seem'd
+Like water-lilies on the wave to float.
+
+When pelting rain or tempest threat'ning round
+Enforc'd th' unwilling guests at home to stay,
+They sought whate'er expedients could be found
+To cheat the time and haste the weary day.
+Recourse was had to writing or to books;
+To walking, lounging, singing, whistling, humming;
+To billiards and backgammon, rings and hooks;
+On hoarse pianos to incessant thrumming.
+
+On such a day as this, a lively lass
+Was playing songs and waltzes, and odd ends
+Of fav'rite melodies, the time to pass,
+Surrounded by a knot of sportive friends.
+While playful mischief lurk'd in ev'ry eye,
+With many a laugh or titter half supprest,
+They slyly watch'd the figures passing by,
+And look'd and whisper'd many a merry jest.
+
+A stranger, of a quiet modest air,
+Walked slowly round, or at a distance sat.
+For him, no more did our gay party care
+Than for a purring, chimney-corner cat.
+
+Amid the medley, suddenly his ear
+Perceiv'd, the notes of an uncommon strain.
+He rose, and quietly approaching near,
+Petition'd gently for the air again.
+The player, courteously the strain renew'd,
+Which she, from foreign voice, had learn'd by rote.
+He, as she play'd it o'er, the theme pursued,
+And prick'd it in his tablets, note for note;
+Then, at the instrument he took his seat,
+And play'd the melody with graceful turn,
+And taste so pure, and harmony so sweet,
+As made th' astonish'd nymphs with blushes burn.
+
+Charm'd by the pow'r of music's touching art,
+With looks how chang'd the stranger now they view!
+And him it well behoov'd to guard his heart,
+Lest mischief-loving eyes should pierce it through.
+
+They're of a compound strange, these fair young creatures;
+Though made up, as 'twould seem, of fun and mirth,
+And apes of fickle fashion's wildest features,
+They can excel, when tried, in moral strength and worth.
+They're like the plaything children call a Witch;
+Made of a weight attach'd to somewhat light.
+Howe'er you twist or twirl it, toss or twitch,
+It has a saving power that brings it right.
+
+PART FIVE.
+
+'Twas pleasant, in the ev'nings, to behold
+The motley groups with which the mansion teem'd,
+Of various nations form'd, both young and old,
+That like to living panoramas seem'd;
+To view the waltzers whirling, two and two,
+With foot and heart both lighter than a feather;
+While glancing dames watch'd, who and who,
+In graceful coil, had wound themselves together.
+
+There might be seen the planter from the South,
+With touch of fire, but open, debonair;
+The merchant from the East, with firm-set mouth,
+And dark inquiring eye, and look of care.
+Gay Frenchmen too, in social pastimes skill'd,
+With manners polish'd, and with lively faces;
+Young Englishmen, in Greek and Latin drill'd,
+More favor'd by the Muses than the Graces.
+Italian counts and Spanish dons, all cold,
+Sedate and grave; but let them rouse with ire,
+Like snow-clad mountains, they'll be found to hold
+The elements that feed volcanic fire.
+And well-bred Germans too, of whom some say
+They are a heavy, dull, Bœotian race;
+But, if the truth were told, as Frenchmen gay,
+To solid lore, they join a Frenchman's grace.
+And, now and then, might fall upon the ear
+The voice of some conceited vulgar cit,
+Who, while he would the well-bred man appear,
+Mistakes low pleasantry for genuine wit.
+Men of deep learning, or of sterling worth,
+Were in the crowd conceal'd and to be sought;
+Just as the finer metals, deep in earth
+Are mostly found, ere to the view they're brought.
+Perchance some careless genius might be told
+By flashes he unconscious threw around,
+That seem'd like grains of sparkling virgin gold
+Strewn by the hand of Nature o'er the ground.
+
+Some tranquil minds were made to shine by dint
+Of fools' attacks, that waken'd gen'rous ire;
+As steel elicits from the stricken flint
+The sudden brilliance of its secret fire.
+Fierce party-politicians too there were,
+Who all their foes in Satan's colors paint;
+Those very foes who, when time serves, they'll swear
+To be, each one, as pure as any saint.
+
+Some few, who would philosophers be deem'd,
+At what is sacred aim'd their heartless wit;
+Whose wanton sallies, to the pious, seem'd
+The pale cold light which putrid things emit.
+From such, our Henry never turn'd aside,
+When aught they said was to his ear address'd;
+But, by superior lore, abased their pride;
+Or, by his keen reproof, their levity repress'd.
+He made them know and feel that, in his eyes,
+The humblest pauper who could hope and pray,
+With heart sincere, above this state to rise,
+Was of a higher, nobler caste than they.
+
+Some damsels, even when they did not quote,
+Were heard to choose their phrases with such care,
+That all seem'd like a book well learn'd by rote.
+Henry enjoin'd his children to beware
+Of seeking words and phrases grand and fine;
+And said, in language, ornament misplac'd,
+Just as in dress, was wont to be a sign
+Of badly tutor'd mind and vulgar taste.
+
+There were some dainty dames of minds so pure,
+Of sense so exquisite, and ears so chaste,
+That all around them, soon or late, were sure,
+By some unlucky word to be disgrac'd.
+If e'er Kate chanc'd to mention leg or knee,
+All seem'd with wounded modesty to glow.
+Yet, in the midst of wildest mirth and glee,
+Kate's mind was purer than the mountain snow.
+And, while cold scornful smiles were seen around,
+Henry would whisper, she had spoken well;
+And that true modesty was ever found
+Between the prudish and the gross to dwell.
+
+Dandies were lounging seen in the saloon,
+With ev'ry item of their dress arrang'd
+By rule; and, ev'ry morn, and night, and noon,
+That dress, to suit the time of day, was chang'd.
+These exquisites might fancy to unbend
+So far, as with some belle a waltz to walk;
+But, should they to an humbler dance descend,
+Would like the statue in Don Juan stalk.
+For why should they their toilet jeopardize?
+Uncurl a whisker, rumple a cravat,
+Disturb a curl that on fair forehead lies?
+What dire misfortue could be worse than that?
+
+Fair forms, as light as sylphs of noiseless tread,
+Imparted life and radiance to the scene;
+Like brilliant flowerets o'er the meadow spread,
+Or ev'ning fire-flies twinkling on the green.
+But, though complexions might be found more fair,
+Maidens more fit to shine at rout or ball,
+And who'd be call'd of more distinguish'd air,
+Our Kate was still the loveliest of them all.
+
+Hers was so archly innocent a look,
+Such pensiveness with gaiety combin'd,
+As show'd a nature that at once partook
+Of ev'ry various quality of mind.
+When aught of pity mov'd her gentle heart,
+There was a light, that seem'd not of this earth,
+Beam'd from her eyes, and fail'd not to impart
+To all she said or did a tenfold worth.
+She, with her brother Charles, one sultry eve,
+To seek refreshing breezes, chanc'd to stray.
+A wand'ring pauper pray'd them to relieve
+His want; nor turn'd they from his prayer away.
+They both were mov'd, for he was old and maim'd.
+He thank'd our Charles; but such the angel grace
+With which Kate gave her alms, that he exclaim'd
+"May God Almighty bless your kind sweet face!"
+
+PART SIX.
+
+But now autumnal airs began to blow;
+At morn and eve, the atmosphere was cold;
+The hours no longer seem'd on wings to go;
+The pleasures most approv'd grew stale and old.
+Home! home! whose very name has magic power,
+Became, each moment, dearer to each heart.
+Of all their life, 'twould be the happiest hour,
+When for that home they should again depart.
+
+At length, quite wearied with the course they'd run,
+It was arrang'd, if naught the plan should mar,
+For all to rise before the morrow's sun,
+And make them ready for the homeward car.
+
+Bright roseate hues adorn'd the eastern skies
+As Sol lit up the morn without a cloud.
+Sleep quickly vanish'd from our party's eyes;
+The gathering bustle rose more strong and loud;
+For now toward home they soon should be away.
+Each hand and tongue was busy as a bee;
+And, ere the ev'ning of another day,
+They hop'd their wish'd-for home again to see.
+
+'Twas one of these autumal days that shine,
+Full oft, so glorious, on our favor'd land;
+When th' heavens and all the elements combine
+To render Nature beautiful and bland.
+There breath'd around a heav'nly influence—
+Creation look'd so smiling and so blest,
+That sorrow's keenest pangs grew less intense,
+And heaviest care with lighter burden prest.
+
+All objects shone so lucid and so clear,
+So sharp each outline on the deep-blue sky,
+That what was distant seem'd to draw more near,
+And ev'ry tint came radiant to the eye.
+The foliage had exchang'd its summer green
+For all the varied hues by Autumn shed.
+No rustling breeze disturb'd the tranquil scene
+That seem'd a picture to the view outspread.
+
+If e'er we mortals feel unmingled bliss,
+While through this world of care we roam,
+'Tis in the hour, when, on a day like this,
+We speed us, after absence long, for home.
+
+Away they flew, those cars that seem design'd
+With birds of swiftest strongest wing to race;
+And, as no more by former laws confin'd,
+Seem, while they go, to mock at time and space.
+With such delight our party's minds were fraught,
+To think that homeward they were hurl'd again;
+Such pleasure 'twas to dwell upon the thought,
+They almost wish'd the motion to restrain.
+
+Just as we see a child delay to taste
+Some ripe and tempting fruit 'tis wont to prize;
+Nor will it to the dainty pleasure haste;
+But still puts off the feast, and fondly eyes.
+
+To fam'd Albania's dullness and its dust
+We leave our party for another night,
+The hours to sleep away, in hope and trust,
+At home, next day, to find all well and right.
+
+No need there was, at morn, for bell to chime,
+Nor for the voice of Henry's early call.
+They were afoot long ere the wonted time;
+Their things were pack'd, and they were ready all,
+Ere long, our Henry, with his girls and boys
+Were on the steamer's deck; and one day more
+Of pleasure, mix'd with bustle, heat and noise,
+Brought back the travellers safely to their door,
+
+And then it was a goodly sight, to see
+The servants, old and young, all rushing out
+Their faces beaming with such heart-felt glee!
+And ev'ry tongue in motion!—Such a rout!
+The watch-dog jumping with outrageous joy,
+His paws outstretch'd upon his master's neck;
+Who had his utmost vigor to employ,
+The creature's loving violence to check.
+The favorite lap-dog leapt around the girls,
+And would be seen and heard amid the throng:
+He wagg'd his tail, and shook his silken curls,
+And downright scolded that they staid so long.
+And Cæsar bustled round, with mouth agrin;
+A faithful heart his homely form beneath,
+Distinguish'd from the rest by ebon skin
+In shining contrast with his snow-white teeth.
+Amid their joy, the young-folk felt surprise
+That when they tried to speak, their lips were dumb.
+Soft silent tears came gushing to their eyes;
+With pleasing pain their hearts were overcome.
+
+When all were hous'd, and things arrang'd, at last,
+And when they felt they were at home once more:
+When they had risen from their light repast;
+And when their ev'ning orisons were o'er;
+Then, ere retiring to their welcome rest,
+Kate to her father's cheek approach'd her lip,
+And ask'd him, as he held her to his breast,
+"Now, father, was it such a foolish trip?"
+
+"No," said our Henry, "not, if you're return'd
+With health robust, and love of home renew'd;
+If to appreciate true worth you've learn'd,
+And with due scorn have worthless folly view'd;
+If Nature's works have tended to inspire,
+For what is beautiful and pure, a keener love;
+If, at their view, you felt a holy fire
+Enwrap your heart, and call your thoughts above.
+But, if this be the first step to the moon,
+For which you seem'd so eager, in the Spring;
+If, henceforth, we're to sail in a balloon,
+Or other craft of new-invented wing;
+If this, your first excursion do but tend
+To render you unquiet, prone to roam,
+To make your peace on what's abroad depend,
+'Twere better far you ne'er had left your home.
+And now, my darling rogue, to bed away,
+Still to this sublunary state resign'd;
+And, whereso'er your lot, forever pray
+That Heav'n may grant you a contented mind."

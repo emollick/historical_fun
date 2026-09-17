@@ -1,0 +1,38 @@
+title: For Catharine's Album
+author: Clement Clarke Moore
+date: 1843 (Feb.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 108-109; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooreforcatharinesalbum.htm
+form: iambic tetrameter quatrains (abab)
+lines: 24
+attribution: certain
+notes: MS heading: 'Written for my daughter Catharine, to copy into an album containing engravings representing sacred subjects and adorned by flowers, presented by her to Miss Catharine Sergeant. Feb. 1843'. Spoken in the daughter's voice ('Dear Kate'). Serious-tender album verse. The site page title says 'Aug 1846' but the MS heading and the site's poem list say Feb. 1843; 1843 adopted. Site line count 24 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+Dear Kate, these bright but short-lived flowers,
+That deck the truths of Holy Writ,
+Remind me of those transient hours
+That seem'd with countless speed to flit;
+
+Those hours we pass'd in converse sweet,
+Or rambling thro' the woodlands wild,
+Or climbing, with unwearied feet,
+O'er rocks romantic rudely piled,
+
+Or mounting light the lofty hills,
+To view the lovely prospect round,
+While falling streams or sparkling rills
+Sent forth their soft melodious sound.
+
+These joys, for me, no longer shine, -
+Yet, ere we bid farewell and part,
+A flow'ry wreath I would entwine
+Expressive of my inmost heart.
+
+I would select, as like to thee,
+And where thy charms peculiar meet,
+The blossoms of the fragrant pea,
+So pure, so delicate, so sweet.
+
+Abundant Heart's ease should be there,
+In token of thy future lot,
+And, to express my heartfelt prayer,
+Full many a fresh - Forget-me-not.

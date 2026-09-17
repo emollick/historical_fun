@@ -1,0 +1,28 @@
+title: Song
+author: Thomas Campbell
+date: c. 1799-1840
+source: https://www.gutenberg.org/ebooks/59788 (The Poetical Works of Thomas Campbell, reprinted from the early editions, London: Griffith Farran, n.d. [c. 1890])
+form: trochaic tetrameter
+lines: 16
+attribution: certain
+notes: 
+
+When Napoleon was flying
+From the field of Waterloo,
+A British soldier dying
+To his brother bade adieu!
+
+“And take,” he said, “this token
+To the maid that owns my faith,
+With the words that I have spoken
+In affection’s latest breath.”
+
+Sore mourned the brother’s heart,
+When the youth beside him fell;
+But the trumpet warned to part,
+And they took a sad farewell.
+
+There was many a friend to lose him,
+For that gallant soldier sighed;
+But the maiden of his bosom
+Wept when all their tears were dried.

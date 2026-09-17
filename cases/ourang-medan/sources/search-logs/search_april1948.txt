@@ -1,0 +1,50 @@
+QUERY: medan AND gezonken AND date within "1948-04-01 1948-05-31" | collection: DDD_artikel | numberOfRecords: 2 
+1948/04/16 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637081:mpeg21:a0047 | Schip vergaan. | Koninklijke Bibliotheek
+1948/04/16 | Nijmeegsch dagblad | p5 | MMRANM03:048378090:mpeg21:a00047 | Gordijntjes op de Volendam K.N.I.L.-soldaten met.vrouwen en kinderen kwamen aan boord | Regionaal Archief Nijmegen
+
+QUERY: medan AND ontploffing AND date within "1948-04-01 1948-05-31" | collection: DDD_artikel | numberOfRecords: 2 
+1948/04/16 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637081:mpeg21:a0047 | Schip vergaan. | Koninklijke Bibliotheek
+1948/04/09 | Emmer courant | p1 | MMGEM01:163332042:mpeg21:a00009 | KORTE BERICHTEN | Gemeente Emmen
+
+QUERY: "stille oceaan" AND ontploffing AND schip AND date within "1948-04-01 1948-05-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: medan AND "stille oceaan" AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 5 
+1948/04/16 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637081:mpeg21:a0047 | Schip vergaan. | Koninklijke Bibliotheek
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0051 | Het bleef stil | Koninklijk Instituut voor de Tropen (KIT
+1948/06/04 | De Graafschapper | p3 | MMECAL02:179991133:mpeg21:a00037 | Na de nederlaag van Jan Smuts Wal nu in Zuid-Afrika en Z.-O. Azië ? | Erfgoedcentrum Achterhoek en Liemers
+1948/06/04 | De Graafschapper | p3 | MMECAL02:179991134:mpeg21:a00034 | Ha de nederlaag van Jan Smuts Wat nu in Zuid-Afrika en Z.-O. Azië ? | Erfgoedcentrum Achterhoek en Liemers
+
+QUERY: "orang medan" OR "ourang medan" OR "oerang medan" OR "orang-medan" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: motorschip AND medan AND date within "1947-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 24 
+1948/11/18 | De Nederlander | p1 | MMKB19:000084119:mpeg21:a00003 | Natte moeson veroorzaakt gro- te overstroming | Koninklijke Bibliotheek
+1948/11/19 | Het nieuwsblad voor Sumatra | p4 | ddd:010474846:mpeg21:a0059 | Advertentie | KB C 937
+1948/06/04 | Eindhovensch dagblad | p4 | MMKB27:017814054:mpeg21:a00041 | CANTINEWAGENS EN GELUIDSINSTALLATIES VOOR INDIE. | Koninklijke Bibliotheek
+1948/06/03 | Provinciale Overijsselsche en Zwolsche courant | p4 | MMHCO02:163846128:mpeg21:a00076 | DRIE CANTINEWAGENS IN INDIË AANGEKOMEN | Historisch Centrum Overijssel
+1948/04/16 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637081:mpeg21:a0047 | Schip vergaan. | Koninklijke Bibliotheek
+1947/01/21 | Deventer dagblad | p1 | MMHCO02:163892017:mpeg21:a00014 | Nog onrust rondom Medan Een convooi van vrouwen en kinderen aangevallen | Historisch Centrum Overijssel
+1947/03/24 | Deventer dagblad | p1 | MMHCO02:163892070:mpeg21:a00001 | Linggadjati wordt heden ondertekend | Historisch Centrum Overijssel
+1948/12/31 | Nieuwsblad van het Zuiden | p1 | MMKB19:000606077:mpeg21:a00007 | De wereld rand | Koninklijke Bibliotheek
+1947/01/14 | Friesch dagblad | p | MMTRES02:000060389:mpeg21:a0007 | Overzeesche Gebiedsdeelen Soekarno wil den strijd voortzetten En een sterken weermacht opb | Tresoar
+1948/12/14 | Het Rotterdamsch parool | p2 | MMSARO02:164871141:mpeg21:a00050 | Journaal | Stadsarchief Rotterdam
+1948/11/26 | Aaltensche courant | p2 | MMECAL02:180131095:mpeg21:a00014 | KORTE BERICHTEN. | Erfgoedcentrum Achterhoek en Liemers
+1947/01/07 | Deventer dagblad | p4 | MMHCO02:163892005:mpeg21:a00029 | Nederland’s convooi bij Padang beschoten Republikeinen versterken hun posities | Historisch Centrum Overijssel
+1947/02/10 | Nieuwsblad van het Noorden | p2 | ddd:010886927:mpeg21:a0020 | In ’t kort | Groninger archieven 649-1306
+1948/12/14 | De Nederlandsche transportcourant | p4 | MMKB19:003646292:mpeg21:a00034 | Van de Rotterdamse Schippersbeurs | Koninklijke Bibliotheek
+1947/07/26 | De waarheid | p1 | ddd:010852048:mpeg21:a0002 | Verlaten dessa's – strijdende bevolking Van Mook's „nieuwe weg” | Internationaal Instituut voor Sociale Ge
+1947/01/13 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p2 | MMMHW01:001050005:mpeg21:a00010 | Mohammed Hatta spreekt | Museum Hoeksche Waard
+1948/12/16 | Nieuwe courant | p | MMNIOD04:000095938:mpeg21:a0026 | Kort Nieuws INDONESIë | NIOD Instituut voor Oorlogs-, Holocaust-
+1947/02/11 | Friesch dagblad | p | MMTRES02:000060444:mpeg21:a0003 | Wereldgebeuren Vredesverdragen door de as-satellieten geteekend Een hard gelag, vooral voo | Tresoar
+1947/02/13 | Friesch dagblad | p | MMTRES02:000060446:mpeg21:a0011 | Overzeesche Gehiedsdeelen Duidelijke woorden van professor Romme | Tresoar
+1947/01/13 | De nieuwe Nederlander | p3 | MMKB15:000911214:mpeg21:a00019 | VLIEGTUIGEN STORTEN NEER | Koninklijke Bibliotheek
+1947/09/30 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000073058:mpeg21:a0027 | LAATSTE NIEUWS Maximumprijzen voor groenten. | Stadsarchief Enschede
+1947/09/30 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000073057:mpeg21:a0023 | LAATSTE NIEUWS Maximumprijzen voor groenten. | Stadsarchief Enschede
+1947/07/26 | Ons Noorden | p2 | MMRHCG04:235371173:mpeg21:a00021 | REPUBLIJKFINSE BERICHTEN. Zware gevechten in alle gebieden | Groninger archieven
+1948/12/18 | Nieuwsblad van het Zuiden | p1 | MMKB19:000606067:mpeg21:a00007 | Nederland handelde niet in strijd met Marshall-plan | Koninklijke Bibliotheek
+
+QUERY: "twee en twintig" AND schip AND gezonken AND date within "1948-04-01 1948-05-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: medan AND indonesiërs AND officieren AND gezonken | collection: DDD_artikel | numberOfRecords: 1 
+1948/04/16 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637081:mpeg21:a0047 | Schip vergaan. | Koninklijke Bibliotheek
+

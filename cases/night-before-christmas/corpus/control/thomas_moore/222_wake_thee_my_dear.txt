@@ -1,0 +1,32 @@
+title: Wake Thee, My Dear
+author: Thomas Moore
+date: c. 1800-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic trimeter
+lines: 20
+attribution: certain
+notes: song (Ballads, Songs, Miscellaneous Poems)
+
+Wake thee, my dear--thy dreaming
+Till darker hours will keep;
+While such a moon is beaming,
+'Tis wrong towards Heaven to sleep.
+
+Moments there are we number,
+Moments of pain and care,
+Which to oblivious slumber
+Gladly the wretch would spare.
+
+But now,--who'd think of dreaming
+When Love his watch should keep?
+While such a moon is beaming,
+'Tis wrong towards Heaven to sleep.
+
+If e'er the fates should sever
+My life and hopes from thee, love,
+The sleep that lasts for ever
+Would then be sweet to me, love;
+But now,--away with dreaming!
+Till darker hours 'twill keep;
+While such a moon is beaming,
+'Tis wrong towards Heaven to sleep.

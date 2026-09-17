@@ -1,0 +1,55 @@
+# Isaac A. Coles to Thomas Jefferson, 5 January 1810
+
+CITATION: “Isaac A. Coles to Thomas Jefferson, 5 January 1810,” Founders Online, National Archives, https://founders.archives.gov/documents/Jefferson/03-02-02-0090. [Original source: The Papers of Thomas Jefferson , Retirement Series, vol. 2, 16 November 1809 to 11 August 1810 , ed. J. Jefferson Looney. Princeton: Princeton University Press, 2005, pp. 123–124.]
+URL (original): https://founders.archives.gov/documents/Jefferson/03-02-02-0090
+URL (fetched, Wayback Machine capture): https://web.archive.org/web/2024/https://founders.archives.gov/documents/Jefferson/03-02-02-0090
+DATE FETCHED: 2026-09-14
+TRANSCRIPTION: scholarly edition text (Princeton, Papers of Thomas Jefferson / Madison Papers, as published on Founders Online); text below is verbatim from the fetched page, including the editors' source note and footnotes. Superscripts are flattened by the HTML-to-text conversion (e.g. 'Oct r' = Oct^r, '11 th' = 11^th).
+NOTE: On the opening of Lewis's trunks in Washington by Clark and Coles; the five bundles of private papers; the memorandum book 'with Some money & his Will'.
+
+---- VERBATIM TEXT (Founders Online page) ----
+
+Isaac A. Coles to Thomas Jefferson, 5 January 1810 
+ From 
+ Isaac A. Coles 
+ Washington 
+ Jan y 5 th 1810. 
+ Dear Sir, 
+ I take the liberty of sending you by this day’s mail, all the private Papers of the late Gov r Lewis , & of asking the favor of you to suffer them to remain at Monticello, until called for by M r W m Meriwether, for whom they are intended. 
+ On the arrival of the Trunks at this place they were opened by Gen l Clarke and my self, when every thing of a public nature was given to the Dep t to which it properly belonged, every thing relating to the Expedition to Gen l Clarke, & all that remained is contained in the five little bundles now directed to you. A large Trunk which had been left in one of the rooms up Stairs in this House, was also opened, and was
+ found to contain several things of little Value, which, with the clothes sent in the two Trunks from Tennessee, & other articles too bulky to be given to the mail, I shall have put up & shipped for Richmond. His Watch & one or two other articles of value, I will either carry to Virginia my self, or give them to Gen l Clarke should he get off before me. 
+ You will find that one of the little Packet’s contains Copies of letters from Gov r Lewis—another letters addressed to him, notes &c—a third Receipts, 1 Acc ts &c—a fourth commissions & diploma’s & the fifth a little memorandum Book with Some money & his Will—The Will Gen l Clarke informs me is not his last, & that there is another in 
+ the hands of a Gentleman soon expected to arrive here. I have not been able to learn how it differs from the one inclosed— 
+ The President has sent to my Brother Edward to take my place, & I am waiting here to know the decision of the House, & to discharge the very few duties that I am Still permitted to perform until he arrives, which will be in the course of a week, if he comes at all, of which I entertain much doubt. I beg to be presented to M rs Randolph & to add my best wishes for 
+Your happiness 
+ I. A. Coles 
+ RC ( MHi ); at foot of text: “Thomas Jefferson”; endorsed by TJ as received 7 Jan. 1810 and so recorded in SJL . 
+The public and private papers of the late gov r lewis were inventoried in Nashville and allocated to various individuals and departments on 23 Nov. 1809 ( Jackson, Letters of Lewis and Clark description begins Donald Jackson, ed., Letters of the Lewis and Clark Expedition with Related Documents, 1783–1854 , 2d ed., 1978, 2 vols. description ends , 2:470–4). 
+ After some initial hesitation about the offer, by 19 Jan. 1810 Coles’s brother edward was acting as President James Madison’s private secretary ( Madison, Papers description begins William T. Hutchinson, Robert A. Rutland, John C. A. Stagg, and others, eds., The Papers of James Madison , 1962– , 29 vols.: Congress. Ser. , 17 vols.; Pres. Ser. , 5 vols.; Sec. of State Ser. , 7 vols description ends , Pres. Ser. , 2:151n, 193n). 
+ 1 . Manuscript: “Recepts.” 
+Index Entries 
+Clark (Clarke), William; and journals of Lewis and Clark Expedition search 
+Clark (Clarke), William; as M. Lewis’s executor search 
+Coles, Edward; as J. Madison’s secretary search 
+Coles, Isaac A.; and affair with Nelson search 
+Coles, Isaac A.; and M. Lewis’s papers search 
+Coles, Isaac A.; letters from search 
+Congress, U.S.; member of assaulted search 
+House of Representatives, U.S.; honor disputes in search 
+Lewis, Meriwether; executor of search 
+Lewis, Meriwether; Lewis and Clark Expedition search 
+Lewis, Meriwether; papers of search 
+Lewis, Meriwether; personal belongings of search 
+Lewis, Meriwether; will of search 
+Lewis and Clark Expedition; journals of search 
+Madison, James; and E. Coles search 
+Meriwether, William Douglas; as M. Lewis’s executor search 
+Randolph, Martha Jefferson (Patsy; TJ’s daughter; Thomas Mann Randolph’s wife); greetings to search 
+ Permanent Link What’s this? 
+ https://founders.archives.gov/documents/Jefferson/03-02-02-0090 
+ Note: The annotations to this document, and any other
+ modern editorial content, are copyright © Princeton University Press. All rights reserved. Back to top 
+You Are Looking At Source Project Jefferson Papers Title Isaac A. Coles to Thomas Jefferson, 5 January 1810 Author Coles, Isaac A. Recipient Jefferson, Thomas Date 5 January 1810 
+Reference Cite as “Isaac A. Coles to Thomas Jefferson, 5 January 1810,” Founders Online, National Archives, https://founders.archives.gov/documents/Jefferson/03-02-02-0090. [Original source: The Papers of Thomas Jefferson , Retirement Series, vol. 2, 16 November 1809 to 11 August 1810 , ed. J. Jefferson Looney. Princeton: Princeton University Press, 2005, pp. 123–124.] 
+More between these correspondents 
+ Preceding From Coles to Jefferson [29 December 1809] Next From Jefferson to Coles [8 January 1810] All All correspondence between Coles and Jefferson

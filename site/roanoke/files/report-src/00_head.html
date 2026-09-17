@@ -1,0 +1,99 @@
+<title>The Roanoke Colonists</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/* Design tokens. Ground: the oyster grey-green of the sounds at low light; accent: the teal of the water on White's map;
+   second series: copper, the metal the survivors were said to beat at Ritanoe; stone: the quartz grey of the Dare Stone block. */
+:root{
+  --bg:#E4E6E1; --surface:#F2F3EF; --surface-2:#D9DDD6; --text:#1B222B; --muted:#59626D; --rule:#C3C9C2;
+  --accent:#2A6A78; --accent-soft:#5E97A3; --copper:#9A6A2E; --copper-soft:#C49A63; --stone:#DDD8CC; --band:#B9C7C3;
+  --grid:#CDD3CC; --barmute:#AAB6B4;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#151A1E; --surface:#1D2429; --surface-2:#262E35; --text:#E4E7E9; --muted:#98A3AC; --rule:#33404A;
+    --accent:#6FB5C2; --accent-soft:#4F8E9A; --copper:#D0A06A; --copper-soft:#A9804F; --stone:#33352F; --band:#2E4A48;
+    --grid:#2C363E; --barmute:#4A5860;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#151A1E; --surface:#1D2429; --surface-2:#262E35; --text:#E4E7E9; --muted:#98A3AC; --rule:#33404A;
+  --accent:#6FB5C2; --accent-soft:#4F8E9A; --copper:#D0A06A; --copper-soft:#A9804F; --stone:#33352F; --band:#2E4A48;
+  --grid:#2C363E; --barmute:#4A5860;
+  color-scheme:dark;
+}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Newsreader",Georgia,"Times New Roman",serif;font-size:17.5px;line-height:1.55;padding-inline:clamp(16px,4vw,40px);padding-block:32px 72px}
+.wrap{max-width:72rem;margin:0 auto}
+.prose{max-width:68ch}
+h1,h2,h3,h4{text-wrap:balance;line-height:1.15;margin:0}
+h1{font-family:"IM Fell English",Georgia,serif;font-weight:400;font-size:clamp(2rem,5vw,3.3rem);letter-spacing:.005em}
+h2{font-family:"IM Fell English",Georgia,serif;font-weight:400;font-size:1.7rem;margin-top:2.8rem;margin-bottom:.8rem;padding-top:1rem;border-top:1px solid var(--rule)}
+h3{font-family:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;font-weight:600;font-size:.98rem;margin-top:1.7rem;margin-bottom:.4rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+h4{font-family:"IBM Plex Sans",Arial,sans-serif;font-weight:600;font-size:1rem;margin-top:1.1rem;margin-bottom:.3rem}
+p{margin:.65rem 0}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--copper);outline-offset:2px}
+.eyebrow{font-family:"IBM Plex Sans",Arial,sans-serif;text-transform:uppercase;letter-spacing:.14em;font-size:.78rem;color:var(--muted);margin-bottom:.7rem}
+.lede{font-size:1.15rem;max-width:68ch;margin-top:1rem}
+header>p{max-width:68ch}
+.verdict{margin-top:1.8rem;border-left:4px solid var(--accent);background:var(--surface);padding:1rem 1.3rem;max-width:68ch}
+.verdict .big{font-family:"Newsreader",Georgia,serif;font-size:1.32rem;font-weight:600;line-height:1.32;margin:0 0 .5rem}
+.probs{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:1.2rem 0 0;padding:0;list-style:none;max-width:62rem}
+.probs li{background:var(--surface);border:1px solid var(--rule);padding:.7rem .9rem}
+.probs .num{font-family:"IBM Plex Sans",Arial,sans-serif;font-variant-numeric:tabular-nums;font-size:1.55rem;font-weight:600;line-height:1}
+.probs .lab{font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.84rem;color:var(--muted);margin-top:.3rem}
+.probs li.lead{border-color:var(--accent)}
+.probs li.lead .num{color:var(--accent)}
+table{border-collapse:collapse;width:100%;font-family:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;font-size:.9rem;line-height:1.38}
+.tablewrap{overflow-x:auto;margin:1rem 0 1.4rem;border-top:2px solid var(--text)}
+th{text-align:left;font-weight:600;padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:bottom;font-size:.78rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+td{padding:.5rem .6rem;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.total td{font-weight:600;border-top:2px solid var(--text)}
+td.q{font-family:"Newsreader",Georgia,serif;font-size:.98rem}
+blockquote{margin:1rem 0;padding:.2rem 0 .2rem 1rem;border-left:2px solid var(--rule)}
+blockquote p{margin:.4rem 0}
+blockquote .src{display:block;font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.83rem;color:var(--muted);margin-top:.3rem}
+.q{font-style:normal}
+.caption{font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.85rem;color:var(--muted);max-width:68ch;margin:.2rem 0 1rem}
+.chart{display:block;max-width:100%;height:auto;margin:.8rem 0 .3rem}
+.chart .grid{stroke:var(--grid);stroke-width:1}
+.chart .tick,.chart .axis,.chart .rowlab,.chart .note,.chart .val{fill:var(--muted);font-family:"IBM Plex Sans",Arial,sans-serif;font-size:12px}
+.chart .rowlab{fill:var(--text);font-size:13px}
+.chart .val{fill:var(--text);font-variant-numeric:tabular-nums}
+.chart .bar{fill:var(--accent)}
+.chart .bar.mute{fill:var(--barmute)}
+.chart .bar.copper{fill:var(--copper)}
+.chart .range{stroke:var(--text);stroke-width:1.5}
+.chart .water{fill:var(--band);opacity:.55}
+.chart .land{fill:var(--surface-2)}
+.chart .coast{fill:none;stroke:var(--muted);stroke-width:1}
+.chart .place{fill:var(--text);font-family:"IBM Plex Sans",Arial,sans-serif;font-size:12px}
+.chart .dot{fill:var(--accent);stroke:var(--surface);stroke-width:2}
+.chart .dot.copper{fill:var(--copper)}
+.chart .ring{fill:none;stroke:var(--accent);stroke-width:1.2;stroke-dasharray:4 3}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:1rem 0}
+.card{background:var(--surface);border:1px solid var(--rule);padding:.9rem 1.1rem}
+.card h4{margin:0 0 .4rem;font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.9rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.card .pct{font-family:"IBM Plex Sans",Arial,sans-serif;font-size:1.5rem;font-weight:600;font-variant-numeric:tabular-nums}
+.card.lead{border-color:var(--accent)}
+ul.tight,ol.tight{padding-left:1.2rem;margin:.4rem 0}
+ul.tight li,ol.tight li{margin:.3rem 0}
+.stone{background:var(--stone);border:1px solid var(--rule);padding:1rem 1.2rem;margin:1rem 0;max-width:68ch;font-family:"IM Fell English",Georgia,serif;font-size:1.05rem;line-height:1.5}
+.stone .ln{display:grid;grid-template-columns:2.2rem 1fr;gap:.4rem}
+.stone .n{color:var(--muted);font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.78rem;padding-top:.25rem;font-variant-numeric:tabular-nums}
+.note{background:var(--surface);border:1px solid var(--rule);padding:.8rem 1rem;margin:1rem 0;max-width:68ch;font-size:.98rem}
+.toc{font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.9rem;columns:2;column-gap:2rem;max-width:60rem;margin:1.2rem 0 0}
+.toc a{display:block;color:var(--text);text-decoration:none;padding:.15rem 0;break-inside:avoid}
+.toc a:hover{color:var(--accent)}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:.3rem 1rem;font-family:"IBM Plex Sans",Arial,sans-serif;font-size:.9rem;margin:.6rem 0}
+.kv dt{color:var(--muted)} .kv dd{margin:0}
+.small{font-size:.9rem;color:var(--muted)}
+details{margin:.8rem 0;max-width:68ch}
+summary{cursor:pointer;font-family:"IBM Plex Sans",Arial,sans-serif;font-weight:600;font-size:.92rem}
+@media (max-width:640px){.toc{columns:1} body{font-size:16.5px}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto !important}}
+</style>

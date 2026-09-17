@@ -1,0 +1,22 @@
+title: Answer
+author: William Cowper
+date: 1793
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: ballad
+lines: 11
+attribution: certain
+notes: 
+
+To Stanzas addressed to Lady Hesketh, by Miss Catharine
+Fanshawe, in returning a Poem of Mr. Cowper's, lent to her, on
+condition she should neither show it, nor take a copy.
+
+To be remember'd thus is fame,
+And in the first degree;
+And did the few like her the same,
+The press might sleep for me.
+
+So Homer in the memory stored
+Of many a Grecian belle,
+Was once preserved--a richer hoard,
+But never lodged so well.

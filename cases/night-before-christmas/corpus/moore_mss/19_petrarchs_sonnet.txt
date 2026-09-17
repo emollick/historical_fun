@@ -1,0 +1,24 @@
+title: Petrarch's Sonnet (translation)
+author: Clement Clarke Moore
+date: c. 1852 (undated; last leaf of the notebook)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 125; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/moorepetrarchssonnet.htm
+form: iambic pentameter sonnet (abba cddc efefef)
+lines: 14
+attribution: certain
+notes: MS heading: 'Translation of one of Petrarch's sonnets.' (Canzoniere 346, 'Li angeli electi'). A TRANSLATION, not original verse: attribution of the English is certain, but exclude if translations are excluded from the study (as Jackson debated). Serious. Site line count 14 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+Soon as my Laura reach'd the realms above,
+Angels elect and spirits ever bless'd,
+The denizens of Heav'n, around her press'd
+All fill'd with wonder melting into love.
+"What light is this! what excellence unknown!"
+They exclaim'd, "Why have whole ages circled round,
+"And no such beauteous form been ever found
+"From earth ascending to the Eternal Throne?"
+
+She, well contented with her new estate,
+Finds none outshine the charms that round her play:
+And ever and anon she seems to wait
+And turn, to see if still on earth I stay.
+Hence, ev'ry thought to Heav'n I elevate,
+Because I hear her bid me haste away.

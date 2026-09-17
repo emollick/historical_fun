@@ -1,0 +1,28 @@
+title: Alcina's Enchanted Island
+author: Philip Freneau
+date: c. 1780-1791
+source: https://www.gutenberg.org/ebooks/38529 (The Poems of Philip Freneau, ed. F. L. Pattee, Princeton, 1902-07, vol. 2, poems of 1780-1791)
+form: iambic pentameter
+lines: 16
+attribution: certain
+notes: 
+
+In These fair fields unfading flowers abound,
+Here purple roses cloathe the enchanted ground;
+Here, to the sun expand the lillies pale
+Fann'd by the sweet breath of the western gale:
+
+Here, fearless hares through dark recesses stray,
+And troops of leverets take the woodland way,
+Here stately stags, with branching horns, appear,
+And rove unsought for, unassail'd by fear:
+
+Unknown the snare, the huntsman's fatal dart
+That wings the death of torture to the heart,
+In social bands they trace their sylvan reign,
+Chew the rich cud, or graze along the plain.
+
+In these gay shades the nimble deer delight,
+While herds of goats ascend the rocky height,
+Browse on the shrubs that shade the vale below,
+And crop the plants, that there profusely grow.

@@ -1,0 +1,64 @@
+title: A Valentine
+author: Clement Clarke Moore
+date: 1843 (Feb.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 095-097; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/moorevalentine-mss.htm
+form: iambic tetrameter/trimeter sestets (aabccb: two tetrameter couplets closed by trimeter)
+lines: 48
+attribution: certain
+notes: MS heading: 'Written, at the request of some of my children, to be sent to one of their friends, as a valentine. Feb. 1843'. Addressed to 'fair Eleanor' from her 'Damon'; conventional Valentine with folk love-divinations. Light-serious. Distinct from 'Lines for Valentine's Day' in Poems (1844). Site line count 48 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+All Nature, bound in icy chain,
+Now strives her freedom to regain,
+And breathe a kindlier air.
+Soon shall the cooing of the dove,
+With other notes of joy and love,
+The coming Spring declare.
+
+The sun darts forth a warmer ray,
+And calls, throughout the length'ning day,
+Upon the sleeping flowers.
+All living creatures seem to feel
+An influence thro' their senses steal
+That renovates their powers.
+
+The softness of the op'ning year
+Renders, to youthful swains, more dear
+The ties that bind their hearts.
+And gentle maidens, doubtful still,
+More anxiously exert their skill
+In all their magic arts:
+
+They fasten seeds upon their eyes,
+Nam'd after lovers whom they prize,
+And watch the first that's loose.
+They snap the tender merry-thought,
+To see who soonest shall be caught
+In Hymen's silken noose.
+
+They swing the apple-peel around,
+And, from its figures on the ground,
+Spell out their destin'd mate.
+The inverted cup they twirl about,
+And, in the tea grounds, gather out
+The secrets of their fate.
+
+While all grows mild, above, below;
+And even fiercest storms that blow
+Their bitter rage arrest;
+While Love asserts his gentle reign
+O'er earth and skies, o'er hill and plain,
+In ev'ry living breast,
+
+Wilt thou, fair Eleanor, alone
+No tender impulse ever own,
+To change thy lover's doom?
+Let not the spring-time of thy year
+Continue cold, and waste and drear,
+When all around shall bloom.
+
+While frost-bound streams begin to melt,
+And genial influence is felt
+Throughout all Nature's reign,
+Ah! soften at thy Damon's woe,
+Nor let stern Winter's ice and snow
+About thy heart remain.

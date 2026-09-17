@@ -1,0 +1,25 @@
+title: Sail On, Sail on
+author: Thomas Moore
+date: c. 1808-1834
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 16
+attribution: certain
+notes: song (Irish Melodies, 1808-1834)
+
+Sail on, sail on, thou fearless bark--
+Wherever blows the welcome wind,
+It cannot lead to scenes more dark,
+More sad than those we leave behind.
+Each wave that passes seems to say,
+"Tho' death beneath our smile may be,
+Less cold we are, less false than they,
+Whose smiling wrecked thy hopes and thee."
+Sail on, sail on,--thro' endless space--
+Thro' calm--thro' tempest--stop no more:
+The stormiest sea's a resting place
+To him who leaves such hearts on shore.
+Or--if some desert land we meet,
+Where never yet false-hearted men
+Profaned a world, that else were sweet,--
+Then rest thee, bark, but not till then.

@@ -1,0 +1,44 @@
+title: The Greek Boy
+author: William Cullen Bryant
+date: 1828
+source: https://www.gutenberg.org/ebooks/16341 (Poems by William Cullen Bryant, authorized edition, Dessau: Katz Brothers, 1854; "Poems" section = poems of 1814-1832)
+form: iambic tetrameter
+lines: 32
+attribution: certain
+notes: 
+
+Gone are the glorious Greeks of old,
+Glorious in mien and mind;
+Their bones are mingled with the mould,
+Their dust is on the wind;
+The forms they hewed from living stone
+Survive the waste of years, alone,
+And, scattered with their ashes, show
+What greatness perished long ago.
+
+Yet fresh the myrtles there--the springs
+Gush brightly as of yore;
+Flowers blossom from the dust of kings,
+As many an age before.
+There nature moulds as nobly now,
+As e'er of old, the human brow;
+And copies still the martial form
+That braved Plataea's battle storm.
+
+Boy! thy first looks were taught to seek
+Their heaven in Hellas' skies:
+Her airs have tinged thy dusky cheek,
+Her sunshine lit thine eyes;
+Thine ears have drunk the woodland strains
+Heard by old poets, and thy veins
+Swell with the blood of demigods,
+That slumber in thy country's sods.
+
+Now is thy nation free--though late--
+Thy elder brethren broke--
+Broke, ere thy spirit felt its weight,
+The intolerable yoke.
+And Greece, decayed, dethroned, doth see
+Her youth renewed in such as thee:
+A shoot of that old vine that made
+The nations silent in its shade.

@@ -1,0 +1,85 @@
+QUERY: "straat malakka" AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: malakka AND bemanning AND dood AND schip AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 3 
+1948/06/22 | Nieuwe Apeldoornsche courant | p | MMCODA01:000161179:mpeg21:a0021 | De barre realiteit Een Sumatraantje als „afwisseling" Vergeten stoottroepen | CODA Apeldoorn
+1947/09/09 | Aaltensche courant | p3 | MMECAL02:180130072:mpeg21:a00034 | erstboom in de imboe! | Erfgoedcentrum Achterhoek en Liemers
+1948/02/27 | De Nederlander | p4 | MMKB19:000082049:mpeg21:a00037 | Zes Jaar Geleden Ging Eskade Doorman Ten Onder In Java-Zee | Koninklijke Bibliotheek
+
+QUERY: "straat malakka" AND (ontploft OR ontploffing OR explosie) AND date within "1947-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "straat malakka" AND gezonken AND date within "1947-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "gehele bemanning" AND dood AND schip AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "geheele bemanning" AND omgekomen AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: sumatra AND schip AND ontploft AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 4 
+1947/07/04 | Twentsch dagblad Tubantia en Enschedesche courant | p | MMSAEN01:000063870:mpeg21:a0005 | Amerika's tussenkomst in de Indonesische crisis Sumner Welles bepleit optreden van Veiligh | Stadsarchief Enschede
+1947/10/03 | Winschoter courant | p1 | MMRHCG03:163519003:mpeg21:a00018 | NIEUWS IN HET KORT | Groninger archieven
+1947/07/02 | Twentsch dagblad Tubantia en Enschedesche courant | p | MMSAEN01:000063867:mpeg21:a0001 | Indonesische Republiek bereidt mobilisatie voor Hoogtepunt van politieke impasse Vorming v | Stadsarchief Enschede
+1947/08/08 | Nieuwe Vlaardingsche courant | p | MMSAVL02:000459094:mpeg21:a00001 | Indische sluipmoord klaagt de wereld aan | Stadsarchief Vlaardingen
+
+QUERY: K.P.M. AND (gezonken OR vergaan) AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 264 
+1948/03/02 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000067955:mpeg21:a0023 | De Ajax in de Middellandse Zee gezonken. DE GROOTSTE DRIJVENDE BOK VAN NEDERLAND. | Stadsarchief Enschede
+1948/03/11 | De locomotief : Samarangsch handels- en advertentie-blad | p1 | ddd:010862943:mpeg21:a0014 | Catalinavliegboot Gezonken | Koninklijk Instituut voor de Tropen (KIT
+1947/11/25 | Trouw | p | ABCDDD:010871302:mpeg21:a0084 | SCHIP OP IJSELMEER GEZONKEN Opvarenden in veiligheid | Koninklijke Bibliotheek
+1948/06/11 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000063153:mpeg21:a0006 | Deens passagiersschip op mijn gelopen en gezonken 400 passagiers aan boord | Stadsarchief Enschede
+1948/06/11 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000063152:mpeg21:a0005 | Deens passagiersschip op mijn gelopen en gezonken 400 passagiers aan boord | Stadsarchief Enschede
+1947/06/23 | Gazet van Limburg | p3 | MMCC01:048012068:mpeg21:a00044 | Van her en der | Centre Céramique
+1947/08/26 | Bredasche courant | p | MMSAB03:000068162:mpeg21:a0014 | Prototype van Engels verkeersvliegtuig vergaan | Stadsarchief Breda
+1947/12/23 | Provinciale Drentsche en Asser courant | p | MMDA03:000134085:mpeg21:a0073 | „BURGEMEESTER TWEE PAAR KLOMPEN S.V.P. | Drents Archief
+1947/12/23 | Provinciale Drentsche en Asser courant | p | MMDA03:000134083:mpeg21:a0074 | „BURGEMEESTER TWEE PAAR KLOMPEN S.V.P. | Drents Archief
+1947/12/23 | Nieuwsblad van het Noorden | p2 | ddd:010885619:mpeg21:a0020 | „Burgemeester, twee paar klompen s.v.p.” | Groninger archieven 649-1307
+1948/06/11 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000063154:mpeg21:a0006 | Deens passagiersschip op mijn gelopen en gezonken 400 passagiers aan boord | Stadsarchief Enschede
+1947/12/23 | Bredasche courant | p | MMSAB03:000068478:mpeg21:a0056 | Twee paar klompen s.v.p., burgemeester | Stadsarchief Breda
+1947/06/27 | De tĳd : dagblad voor Nederland | p2 | ddd:011201598:mpeg21:a0033 | Derde zomerconcert | Koninklijke Bibliotheek C 236
+1947/11/27 | Nieuwe provinciale Groninger courant | p1 | MMRHCG04:235023128:mpeg21:a00017 | Kortenbondig | Groninger archieven
+1947/06/18 | Trouw | p | ABCDDD:010871160:mpeg21:a0097 | Familiebericht | Koninklijke Bibliotheek
+1947/08/04 | Ons Noorden | p1 | MMRHCG04:235371180:mpeg21:a00014 | Binnenland | Groninger archieven
+1947/08/04 | Overijsselsch dagblad | p1 | MMKB23:001286030:mpeg21:a00017 | Binnenland | Historisch Centrum Overijssel
+1948/04/02 | Uitspraken van den Raad voor de Scheepvaart en uitspraken in beroep van den voorzitter van dien raad | p | MMKB08:000190735:mpeg21:a0003 | No 6 VERSLAG | Koninklijke Bibliotheek
+1947/12/18 | De Nederlandsche transportcourant | p1 | MMKB19:000824292:mpeg21:a00002 | „BORNEO” WORDT DOOR „DE SCHELDE” OPGELEVERD | Koninklijke Bibliotheek
+1948/03/02 | Het Binnenhof | p1 | MMKB19:000368052:mpeg21:a00001 | Zware storm havent Hollands glorie | Koninklijke Bibliotheek
+1947/11/12 | De Maasbode | p3 | MMKB15:000549113:mpeg21:a00034 | ENGELS SCHIP VERGAAN | Koninklijke Bibliotheek
+1947/12/23 | Groninger dagblad | p1 | MMRHCG04:235255302:mpeg21:a00004 | Twee paar klompen alstublieft! | Groninger archieven
+1947/11/10 | De Graafschapper | p1 | MMECAL02:179990015:mpeg21:a00004 | Kanttekeningen | Erfgoedcentrum Achterhoek en Liemers
+1947/11/13 | Algemeen Handelsblad | p | KBNRC01:000062077:mpeg21:a0016 | WRAK BR 27 GEVONDEN Van bemanning geen spoor | Koninklijke Bibliotheek
+1948/06/12 | Gazet van Limburg | p1 | MMCC01:048016061:mpeg21:a00008 | SCHEEPSRAMP VOOR – DEENSE KUST Volgens laatste berichten 150 slachtoffers | Centre Céramique
+1948/03/02 | De waarheid | p4 | ddd:010851316:mpeg21:a0073 | SABOTAGE-SCHIP | Internationaal Instituut voor Sociale Ge
+1947/11/12 | Het Rotterdamsch parool | p3 | MMSARO02:164869115:mpeg21:a00052 | Wat de Duitsers niet wisten... | Stadsarchief Rotterdam
+1947/12/02 | Algemeen Handelsblad | p | KBNRC01:000062093:mpeg21:a0046 | DIVIDEND K.P.M. OVER 1943—1944 IS NOG VOORLOPIG Bevredigende exploitatie van de dienst in  | Koninklijke Bibliotheek
+1948/05/05 | Nieuwsblad van Friesland : Hepkema's courant | p4 | ddd:010733460:mpeg21:a0088 | Een nieuwe „Wota” | Tresoar
+1948/03/09 | Het Parool | p | ABCDDD:010830878:mpeg21:a0071 | Advertentie | Koninklijke Bibliotheek
+1947/11/11 | Deventer dagblad | p1 | MMHCO02:163893115:mpeg21:a00020 | NIEUWS IN FLITSEN | Historisch Centrum Overijssel
+1948/06/05 | Het Parool | p | ABCDDD:010830950:mpeg21:a0181 | Officiële slechte smaak Het Oostindische Huis | Koninklijke Bibliotheek
+1947/11/12 | Het Parool | p | ABCDDD:010835251:mpeg21:a0005 | Gezonken schip wordt opgevijzeld | Koninklijke Bibliotheek
+1948/03/11 | Friesch dagblad | p | MMTRES02:000024106:mpeg21:a0013 | VAN FRIESE BODEM Wie komen uit Indie? | Tresoar
+1947/10/22 | Nieuwsblad van het Noorden | p2 | ddd:010885565:mpeg21:a0046 | In 't kort | Groninger archieven 649-1307
+1947/06/20 | Limburgsch dagblad | p4 | ddd:010415444:mpeg21:a0066 | Advertentie | Sociaal Historisch centrum voor Limburg 
+1947/11/26 | Winschoter courant | p3 | MMRHCG03:163519048:mpeg21:a00041 | Complot van clandestiene slachters ontdekt | Groninger archieven
+1947/11/07 | Arnhemsche courant | p | MMKB08:000112366:mpeg21:a0032 | BINNENLAND Advies-commissies ingesteld Uitwijzing van Duitsers wordt thans onderzocht 20%  | Koninklijke Bibliotheek
+1948/04/21 | Het Binnenhof | p1 | MMKB19:000368094:mpeg21:a00011 | „Ypenburg” wil blijven bestaan | Koninklijke Bibliotheek
+1948/01/12 | De Nederlandsche transportcourant | p1 | MMKB19:003646009:mpeg21:a00001 | IN PE AMSTERDAMSE HAVEN IS WEER VEEL HERSTELD | Koninklijke Bibliotheek
+1948/06/16 | De Zaanlander | p | MMGAZS01:000158061:mpeg21:a00034 | Advertentie | Gemeentearchief Zaanstad
+1947/12/18 | Arnhemsche courant | p | MMKB08:000112421:mpeg21:a0014 | Haagse bonnenzwendel heeft enorme omvang 29 personen gearresteerd, w.o. 10 ambtenaren | Koninklijke Bibliotheek
+1947/07/29 | Arnhemsche courant | p | MMKB08:000112019:mpeg21:a0035 | HACHELIJK AVONTUUR VAN ZEILJACHT | Koninklijke Bibliotheek
+1948/05/29 | Het Binnenhof | p2 | MMKB19:000368125:mpeg21:a00015 | „St. Paulus’ Bouwgilde” vierde feest | Koninklijke Bibliotheek
+1948/03/30 | Het Binnenhof | p2 | MMKB19:000368075:mpeg21:a00012 | Onderwijzers vergaderen | Koninklijke Bibliotheek
+1948/02/06 | De Noord-Ooster | p | MMVEEN01:000084252:mpeg21:a0003 | Schiphol wordt te klein Uitbreiden of een nieuwe luchthaven? De heer Plesman verdedigt het | Veenkoloniaal Museum
+1948/02/16 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p1 | MMMHW01:001051020:mpeg21:a00007 | Uit het Parlement | Museum Hoeksche Waard
+1947/10/06 | Deventer dagblad | p2 | MMHCO02:163893084:mpeg21:a00026 | Uit de omgeving | Historisch Centrum Overijssel
+1947/11/10 | Eindhovensch dagblad | p2 | MMKB27:017811112:mpeg21:a00018 | Korte berichten BINNENLAND | Koninklijke Bibliotheek
+1947/10/10 | Winschoter courant | p2 | MMRHCG03:163519009:mpeg21:a00024 | Uit de Provincie | Groninger archieven
+
+QUERY: scheepsberichten AND medan AND date within "1947-06-01 1947-07-31" | collection: DDD_artikel | numberOfRecords: 3 
+1947/06/09 | De waarheid | p2 | ddd:010852269:mpeg21:a0045 | Nagekomen scheepsberichten Grote Vaart. | Internationaal Instituut voor Sociale Ge
+1947/07/14 | Friesch dagblad | p | MMTRES02:000023609:mpeg21:a0025 | Kerk- en Schoolnieuws | Tresoar
+1947/06/24 | Friesch dagblad | p | MMTRES02:000060642:mpeg21:a0015 | Binnenland DEZE WEEK EEN EI VOOR DE GROEPEN A, B EN C | Tresoar
+
+QUERY: schip AND "onbeschadigd" AND "bemanning" AND dood AND date within "1947-06-01 1948-06-30" | collection: DDD_artikel | numberOfRecords: 5 
+1947/12/27 | Nieuwsblad van het Zuiden | p1 | MMKB19:002066073:mpeg21:a00011 | D,e wereld rand | Koninklijke Bibliotheek
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de  | Koninklijk Instituut voor de Tropen (KIT
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1947/12/29 | Het Binnenhof | p1 | MMKB19:000370150:mpeg21:a00001 | Vleugellam K.L.M.-vliegtuig maakt | Koninklijke Bibliotheek
+1947/12/29 | Ons Noorden | p1 | MMRHCG04:235371302:mpeg21:a00001 | De dood grijnsde... en ging voorbij K.L.M.- vogel maakt noodlanding bij Leeuwarden | Groninger archieven
+

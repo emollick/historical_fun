@@ -1,0 +1,1879 @@
+{
+ "cipher2_numbers": 762,
+ "cipher2_distinct": 181,
+ "intended_message_letters": 763,
+ "printed_plaintext_letters": 732,
+ "per_key": {
+  "straight_pamphlet_text": {
+   "n_agree": 601,
+   "n_disagree": 161,
+   "unmatched_target_letters": [
+    [
+     570,
+     "n",
+     "ckedinironp"
+    ]
+   ]
+  },
+  "pamphlet_numbering_forward": {
+   "n_agree": 735,
+   "n_disagree": 27,
+   "unmatched_target_letters": [
+    [
+     570,
+     "n",
+     "ckedinironp"
+    ]
+   ]
+  },
+  "pamphlet_numbering_backward": {
+   "n_agree": 735,
+   "n_disagree": 27,
+   "unmatched_target_letters": [
+    [
+     570,
+     "n",
+     "ckedinironp"
+    ]
+   ]
+  },
+  "nara_straight": {
+   "n_agree": 623,
+   "n_disagree": 139,
+   "unmatched_target_letters": [
+    [
+     570,
+     "n",
+     "ckedinironp"
+    ]
+   ]
+  },
+  "gillogly_table1": {
+   "n_agree": 622,
+   "n_disagree": 140,
+   "unmatched_target_letters": [
+    [
+     570,
+     "n",
+     "ckedinironp"
+    ]
+   ]
+  },
+  "pamphlet_numbering_resolved": {
+   "n_agree": 740,
+   "n_disagree": 22,
+   "unmatched_target_letters": [
+    [
+     570,
+     "n",
+     "ckedinironp"
+    ]
+   ]
+  }
+ },
+ "ambiguous_gap_numbers": [
+  {
+   "n": 240,
+   "forward": [
+    "pursuing"
+   ],
+   "backward": [
+    "pursuing",
+    "invariably"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 241,
+   "forward": [
+    "invariably"
+   ],
+   "backward": [
+    "the"
+   ],
+   "used_in_B2_for": {
+    "i": 2
+   },
+   "candidates_fitting_cipher": [
+    "invariably"
+   ]
+  },
+  {
+   "n": 242,
+   "forward": [
+    "the"
+   ],
+   "backward": [
+    "same"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 243,
+   "forward": [
+    "same"
+   ],
+   "backward": [
+    "object"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 244,
+   "forward": [
+    "object"
+   ],
+   "backward": [
+    "evinces"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 245,
+   "forward": [
+    "evinces"
+   ],
+   "backward": [
+    "a"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 246,
+   "forward": [
+    "a"
+   ],
+   "backward": [
+    "design"
+   ],
+   "used_in_B2_for": {
+    "d": 3
+   },
+   "candidates_fitting_cipher": [
+    "design"
+   ]
+  },
+  {
+   "n": 247,
+   "forward": [
+    "design"
+   ],
+   "backward": [
+    "to"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 248,
+   "forward": [
+    "to"
+   ],
+   "backward": [
+    "reduce"
+   ],
+   "used_in_B2_for": {
+    "r": 2
+   },
+   "candidates_fitting_cipher": [
+    "reduce"
+   ]
+  },
+  {
+   "n": 249,
+   "forward": [
+    "reduce"
+   ],
+   "backward": [
+    "them"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 250,
+   "forward": [
+    "them",
+    "under"
+   ],
+   "backward": [
+    "under"
+   ],
+   "used_in_B2_for": {
+    "u": 6
+   },
+   "candidates_fitting_cipher": [
+    "under"
+   ]
+  },
+  {
+   "n": 471,
+   "forward": [
+    "manly"
+   ],
+   "backward": [
+    "manly",
+    "he"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 472,
+   "forward": [
+    "firmness"
+   ],
+   "backward": [
+    "firmness",
+    "has"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 473,
+   "forward": [
+    "his"
+   ],
+   "backward": [
+    "his",
+    "refused"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 474,
+   "forward": [
+    "invasions"
+   ],
+   "backward": [
+    "invasions",
+    "for"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 475,
+   "forward": [
+    "on"
+   ],
+   "backward": [
+    "on",
+    "a"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 476,
+   "forward": [
+    "the"
+   ],
+   "backward": [
+    "the",
+    "long"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 477,
+   "forward": [
+    "rights"
+   ],
+   "backward": [
+    "rights",
+    "time"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 478,
+   "forward": [
+    "of"
+   ],
+   "backward": [
+    "of",
+    "after"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 479,
+   "forward": [
+    "the"
+   ],
+   "backward": [
+    "the",
+    "such"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 480,
+   "forward": [
+    "people",
+    "dissolutions"
+   ],
+   "backward": [
+    "people",
+    "dissolutions"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 481,
+   "forward": [
+    "he",
+    "to"
+   ],
+   "backward": [
+    "to"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 482,
+   "forward": [
+    "has",
+    "cause"
+   ],
+   "backward": [
+    "cause"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 483,
+   "forward": [
+    "refused",
+    "others"
+   ],
+   "backward": [
+    "others"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 484,
+   "forward": [
+    "for",
+    "to"
+   ],
+   "backward": [
+    "to"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 485,
+   "forward": [
+    "a",
+    "be"
+   ],
+   "backward": [
+    "be"
+   ],
+   "used_in_B2_for": {
+    "b": 1
+   },
+   "candidates_fitting_cipher": [
+    "be"
+   ]
+  },
+  {
+   "n": 486,
+   "forward": [
+    "long",
+    "elected"
+   ],
+   "backward": [
+    "elected"
+   ],
+   "used_in_B2_for": {
+    "e": 3
+   },
+   "candidates_fitting_cipher": [
+    "elected"
+   ]
+  },
+  {
+   "n": 487,
+   "forward": [
+    "time",
+    "whereby"
+   ],
+   "backward": [
+    "whereby"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 488,
+   "forward": [
+    "after",
+    "the"
+   ],
+   "backward": [
+    "the"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 489,
+   "forward": [
+    "such",
+    "legislative"
+   ],
+   "backward": [
+    "legislative"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 501,
+   "forward": [
+    "for"
+   ],
+   "backward": [],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 502,
+   "forward": [
+    "their"
+   ],
+   "backward": [
+    "for"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 503,
+   "forward": [
+    "exercise"
+   ],
+   "backward": [
+    "their"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 504,
+   "forward": [
+    "the"
+   ],
+   "backward": [
+    "exercise"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 505,
+   "forward": [
+    "state"
+   ],
+   "backward": [
+    "the"
+   ],
+   "used_in_B2_for": {
+    "s": 3
+   },
+   "candidates_fitting_cipher": [
+    "state"
+   ]
+  },
+  {
+   "n": 506,
+   "forward": [
+    "remaining"
+   ],
+   "backward": [
+    "state"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 507,
+   "forward": [
+    "in"
+   ],
+   "backward": [
+    "remaining"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 508,
+   "forward": [
+    "the"
+   ],
+   "backward": [
+    "in"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 509,
+   "forward": [],
+   "backward": [
+    "the"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 630,
+   "forward": [
+    "times"
+   ],
+   "backward": [
+    "times",
+    "of"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 631,
+   "forward": [
+    "of"
+   ],
+   "backward": [
+    "peace"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 632,
+   "forward": [
+    "peace"
+   ],
+   "backward": [
+    "standing"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 633,
+   "forward": [
+    "standing"
+   ],
+   "backward": [
+    "armies"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 634,
+   "forward": [
+    "armies"
+   ],
+   "backward": [
+    "without"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 635,
+   "forward": [
+    "without"
+   ],
+   "backward": [
+    "the"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 636,
+   "forward": [
+    "the"
+   ],
+   "backward": [
+    "consent"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 637,
+   "forward": [
+    "consent"
+   ],
+   "backward": [
+    "of"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 638,
+   "forward": [
+    "of"
+   ],
+   "backward": [
+    "our"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 639,
+   "forward": [
+    "our"
+   ],
+   "backward": [
+    "legislature"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 640,
+   "forward": [
+    "legislature",
+    "he"
+   ],
+   "backward": [
+    "he"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 670,
+   "forward": [
+    "and"
+   ],
+   "backward": [
+    "and",
+    "unacknowledged"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 671,
+   "forward": [
+    "unacknowledged"
+   ],
+   "backward": [
+    "by"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 672,
+   "forward": [
+    "by"
+   ],
+   "backward": [
+    "our"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 673,
+   "forward": [
+    "our"
+   ],
+   "backward": [
+    "laws"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 674,
+   "forward": [
+    "laws"
+   ],
+   "backward": [
+    "giving"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 675,
+   "forward": [
+    "giving"
+   ],
+   "backward": [
+    "his"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 676,
+   "forward": [
+    "his"
+   ],
+   "backward": [
+    "assent"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 677,
+   "forward": [
+    "assent"
+   ],
+   "backward": [
+    "to"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 678,
+   "forward": [
+    "to"
+   ],
+   "backward": [
+    "their"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 679,
+   "forward": [
+    "their"
+   ],
+   "backward": [
+    "acts"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  },
+  {
+   "n": 680,
+   "forward": [
+    "acts",
+    "of"
+   ],
+   "backward": [
+    "of"
+   ],
+   "used_in_B2_for": null,
+   "candidates_fitting_cipher": []
+  }
+ ],
+ "numbers_at_or_above_250_occurrences": 152,
+ "numbers_at_or_above_250_distinct": 53,
+ "numbers_in_155_250_occurrences": 68,
+ "numbers_in_155_250_distinct": 22,
+ "printed_marker_offsets_(straight_position_minus_printed_number)": [
+  [
+   1,
+   0
+  ],
+  [
+   2,
+   0
+  ],
+  [
+   3,
+   0
+  ],
+  [
+   4,
+   0
+  ],
+  [
+   5,
+   0
+  ],
+  [
+   6,
+   0
+  ],
+  [
+   7,
+   0
+  ],
+  [
+   8,
+   0
+  ],
+  [
+   9,
+   0
+  ],
+  [
+   10,
+   0
+  ],
+  [
+   20,
+   0
+  ],
+  [
+   30,
+   0
+  ],
+  [
+   40,
+   0
+  ],
+  [
+   50,
+   0
+  ],
+  [
+   60,
+   0
+  ],
+  [
+   70,
+   0
+  ],
+  [
+   80,
+   0
+  ],
+  [
+   90,
+   0
+  ],
+  [
+   100,
+   0
+  ],
+  [
+   110,
+   0
+  ],
+  [
+   120,
+   0
+  ],
+  [
+   130,
+   0
+  ],
+  [
+   140,
+   0
+  ],
+  [
+   150,
+   0
+  ],
+  [
+   160,
+   0
+  ],
+  [
+   170,
+   0
+  ],
+  [
+   180,
+   0
+  ],
+  [
+   190,
+   0
+  ],
+  [
+   200,
+   0
+  ],
+  [
+   210,
+   0
+  ],
+  [
+   220,
+   0
+  ],
+  [
+   230,
+   0
+  ],
+  [
+   240,
+   0
+  ],
+  [
+   250,
+   1
+  ],
+  [
+   260,
+   1
+  ],
+  [
+   270,
+   1
+  ],
+  [
+   280,
+   1
+  ],
+  [
+   290,
+   1
+  ],
+  [
+   300,
+   1
+  ],
+  [
+   310,
+   1
+  ],
+  [
+   320,
+   1
+  ],
+  [
+   330,
+   1
+  ],
+  [
+   340,
+   1
+  ],
+  [
+   350,
+   1
+  ],
+  [
+   360,
+   1
+  ],
+  [
+   370,
+   1
+  ],
+  [
+   380,
+   1
+  ],
+  [
+   390,
+   1
+  ],
+  [
+   400,
+   1
+  ],
+  [
+   410,
+   1
+  ],
+  [
+   420,
+   1
+  ],
+  [
+   430,
+   1
+  ],
+  [
+   440,
+   1
+  ],
+  [
+   450,
+   1
+  ],
+  [
+   460,
+   1
+  ],
+  [
+   470,
+   1
+  ],
+  [
+   480,
+   1
+  ],
+  [
+   480,
+   11
+  ],
+  [
+   490,
+   11
+  ],
+  [
+   500,
+   11
+  ],
+  [
+   510,
+   10
+  ],
+  [
+   520,
+   10
+  ],
+  [
+   530,
+   10
+  ],
+  [
+   540,
+   10
+  ],
+  [
+   550,
+   10
+  ],
+  [
+   560,
+   10
+  ],
+  [
+   570,
+   10
+  ],
+  [
+   580,
+   10
+  ],
+  [
+   590,
+   10
+  ],
+  [
+   600,
+   10
+  ],
+  [
+   610,
+   10
+  ],
+  [
+   620,
+   10
+  ],
+  [
+   630,
+   10
+  ],
+  [
+   640,
+   11
+  ],
+  [
+   650,
+   11
+  ],
+  [
+   660,
+   11
+  ],
+  [
+   670,
+   11
+  ],
+  [
+   680,
+   12
+  ],
+  [
+   690,
+   12
+  ],
+  [
+   700,
+   12
+  ],
+  [
+   710,
+   12
+  ],
+  [
+   720,
+   12
+  ],
+  [
+   730,
+   12
+  ],
+  [
+   740,
+   12
+  ],
+  [
+   750,
+   12
+  ],
+  [
+   760,
+   12
+  ],
+  [
+   770,
+   12
+  ],
+  [
+   780,
+   12
+  ],
+  [
+   790,
+   12
+  ],
+  [
+   800,
+   12
+  ],
+  [
+   810,
+   12
+  ],
+  [
+   811,
+   12
+  ],
+  [
+   812,
+   12
+  ],
+  [
+   813,
+   12
+  ],
+  [
+   814,
+   12
+  ],
+  [
+   815,
+   12
+  ],
+  [
+   816,
+   12
+  ]
+ ],
+ "offset_segmentation": {
+  "1": {
+   "lambda": 1,
+   "total_cost": 24,
+   "segments": [
+    {
+     "offset": 0,
+     "from": 1,
+     "to": 241
+    },
+    {
+     "offset": 1,
+     "from": 246,
+     "to": 466
+    },
+    {
+     "offset": 11,
+     "from": 485,
+     "to": 505
+    },
+    {
+     "offset": 10,
+     "from": 511,
+     "to": 620
+    },
+    {
+     "offset": 11,
+     "from": 643,
+     "to": 666
+    },
+    {
+     "offset": 12,
+     "from": 807,
+     "to": 1005
+    }
+   ],
+   "unexplained": [
+    {
+     "n": 95,
+     "offset": 0,
+     "occurrences": 3,
+     "expected": "u",
+     "straight_word_at_n+d": "inalienable"
+    },
+    {
+     "n": 108,
+     "offset": 0,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "that"
+    },
+    {
+     "n": 440,
+     "offset": 1,
+     "occurrences": 2,
+     "expected": "w",
+     "straight_word_at_n+d": "uncomfortable"
+    },
+    {
+     "n": 811,
+     "offset": 12,
+     "occurrences": 9,
+     "expected": "y",
+     "straight_word_at_n+d": "fundamentally"
+    },
+    {
+     "n": 1005,
+     "offset": 12,
+     "occurrences": 4,
+     "expected": "x",
+     "straight_word_at_n+d": "have"
+    }
+   ]
+  },
+  "2": {
+   "lambda": 2,
+   "total_cost": 29,
+   "segments": [
+    {
+     "offset": 0,
+     "from": 1,
+     "to": 241
+    },
+    {
+     "offset": 1,
+     "from": 246,
+     "to": 466
+    },
+    {
+     "offset": 11,
+     "from": 485,
+     "to": 505
+    },
+    {
+     "offset": 10,
+     "from": 511,
+     "to": 620
+    },
+    {
+     "offset": 11,
+     "from": 643,
+     "to": 666
+    },
+    {
+     "offset": 12,
+     "from": 807,
+     "to": 1005
+    }
+   ],
+   "unexplained": [
+    {
+     "n": 95,
+     "offset": 0,
+     "occurrences": 3,
+     "expected": "u",
+     "straight_word_at_n+d": "inalienable"
+    },
+    {
+     "n": 108,
+     "offset": 0,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "that"
+    },
+    {
+     "n": 440,
+     "offset": 1,
+     "occurrences": 2,
+     "expected": "w",
+     "straight_word_at_n+d": "uncomfortable"
+    },
+    {
+     "n": 811,
+     "offset": 12,
+     "occurrences": 9,
+     "expected": "y",
+     "straight_word_at_n+d": "fundamentally"
+    },
+    {
+     "n": 1005,
+     "offset": 12,
+     "occurrences": 4,
+     "expected": "x",
+     "straight_word_at_n+d": "have"
+    }
+   ]
+  },
+  "3": {
+   "lambda": 3,
+   "total_cost": 34,
+   "segments": [
+    {
+     "offset": 0,
+     "from": 1,
+     "to": 241
+    },
+    {
+     "offset": 1,
+     "from": 246,
+     "to": 466
+    },
+    {
+     "offset": 11,
+     "from": 485,
+     "to": 505
+    },
+    {
+     "offset": 10,
+     "from": 511,
+     "to": 620
+    },
+    {
+     "offset": 11,
+     "from": 643,
+     "to": 666
+    },
+    {
+     "offset": 12,
+     "from": 807,
+     "to": 1005
+    }
+   ],
+   "unexplained": [
+    {
+     "n": 95,
+     "offset": 0,
+     "occurrences": 3,
+     "expected": "u",
+     "straight_word_at_n+d": "inalienable"
+    },
+    {
+     "n": 108,
+     "offset": 0,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "that"
+    },
+    {
+     "n": 440,
+     "offset": 1,
+     "occurrences": 2,
+     "expected": "w",
+     "straight_word_at_n+d": "uncomfortable"
+    },
+    {
+     "n": 811,
+     "offset": 12,
+     "occurrences": 9,
+     "expected": "y",
+     "straight_word_at_n+d": "fundamentally"
+    },
+    {
+     "n": 1005,
+     "offset": 12,
+     "occurrences": 4,
+     "expected": "x",
+     "straight_word_at_n+d": "have"
+    }
+   ]
+  },
+  "5": {
+   "lambda": 5,
+   "total_cost": 43,
+   "segments": [
+    {
+     "offset": 0,
+     "from": 1,
+     "to": 241
+    },
+    {
+     "offset": 1,
+     "from": 246,
+     "to": 466
+    },
+    {
+     "offset": 11,
+     "from": 485,
+     "to": 505
+    },
+    {
+     "offset": 10,
+     "from": 511,
+     "to": 620
+    },
+    {
+     "offset": 12,
+     "from": 643,
+     "to": 1005
+    }
+   ],
+   "unexplained": [
+    {
+     "n": 95,
+     "offset": 0,
+     "occurrences": 3,
+     "expected": "u",
+     "straight_word_at_n+d": "inalienable"
+    },
+    {
+     "n": 108,
+     "offset": 0,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "that"
+    },
+    {
+     "n": 440,
+     "offset": 1,
+     "occurrences": 2,
+     "expected": "w",
+     "straight_word_at_n+d": "uncomfortable"
+    },
+    {
+     "n": 643,
+     "offset": 12,
+     "occurrences": 2,
+     "expected": "t",
+     "straight_word_at_n+d": "render"
+    },
+    {
+     "n": 647,
+     "offset": 12,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "of"
+    },
+    {
+     "n": 666,
+     "offset": 12,
+     "occurrences": 1,
+     "expected": "f",
+     "straight_word_at_n+d": "to"
+    },
+    {
+     "n": 811,
+     "offset": 12,
+     "occurrences": 9,
+     "expected": "y",
+     "straight_word_at_n+d": "fundamentally"
+    },
+    {
+     "n": 1005,
+     "offset": 12,
+     "occurrences": 4,
+     "expected": "x",
+     "straight_word_at_n+d": "have"
+    }
+   ]
+  },
+  "8": {
+   "lambda": 8,
+   "total_cost": 54,
+   "segments": [
+    {
+     "offset": 0,
+     "from": 1,
+     "to": 241
+    },
+    {
+     "offset": 1,
+     "from": 246,
+     "to": 466
+    },
+    {
+     "offset": 10,
+     "from": 485,
+     "to": 620
+    },
+    {
+     "offset": 12,
+     "from": 643,
+     "to": 1005
+    }
+   ],
+   "unexplained": [
+    {
+     "n": 95,
+     "offset": 0,
+     "occurrences": 3,
+     "expected": "u",
+     "straight_word_at_n+d": "inalienable"
+    },
+    {
+     "n": 108,
+     "offset": 0,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "that"
+    },
+    {
+     "n": 440,
+     "offset": 1,
+     "occurrences": 2,
+     "expected": "w",
+     "straight_word_at_n+d": "uncomfortable"
+    },
+    {
+     "n": 485,
+     "offset": 10,
+     "occurrences": 1,
+     "expected": "b",
+     "straight_word_at_n+d": "to"
+    },
+    {
+     "n": 486,
+     "offset": 10,
+     "occurrences": 3,
+     "expected": "e",
+     "straight_word_at_n+d": "be"
+    },
+    {
+     "n": 505,
+     "offset": 10,
+     "occurrences": 3,
+     "expected": "s",
+     "straight_word_at_n+d": "the"
+    },
+    {
+     "n": 643,
+     "offset": 12,
+     "occurrences": 2,
+     "expected": "t",
+     "straight_word_at_n+d": "render"
+    },
+    {
+     "n": 647,
+     "offset": 12,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "of"
+    },
+    {
+     "n": 666,
+     "offset": 12,
+     "occurrences": 1,
+     "expected": "f",
+     "straight_word_at_n+d": "to"
+    },
+    {
+     "n": 811,
+     "offset": 12,
+     "occurrences": 9,
+     "expected": "y",
+     "straight_word_at_n+d": "fundamentally"
+    },
+    {
+     "n": 1005,
+     "offset": 12,
+     "occurrences": 4,
+     "expected": "x",
+     "straight_word_at_n+d": "have"
+    }
+   ]
+  },
+  "12": {
+   "lambda": 12,
+   "total_cost": 66,
+   "segments": [
+    {
+     "offset": 0,
+     "from": 1,
+     "to": 241
+    },
+    {
+     "offset": 1,
+     "from": 246,
+     "to": 466
+    },
+    {
+     "offset": 10,
+     "from": 485,
+     "to": 620
+    },
+    {
+     "offset": 12,
+     "from": 643,
+     "to": 1005
+    }
+   ],
+   "unexplained": [
+    {
+     "n": 95,
+     "offset": 0,
+     "occurrences": 3,
+     "expected": "u",
+     "straight_word_at_n+d": "inalienable"
+    },
+    {
+     "n": 108,
+     "offset": 0,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "that"
+    },
+    {
+     "n": 440,
+     "offset": 1,
+     "occurrences": 2,
+     "expected": "w",
+     "straight_word_at_n+d": "uncomfortable"
+    },
+    {
+     "n": 485,
+     "offset": 10,
+     "occurrences": 1,
+     "expected": "b",
+     "straight_word_at_n+d": "to"
+    },
+    {
+     "n": 486,
+     "offset": 10,
+     "occurrences": 3,
+     "expected": "e",
+     "straight_word_at_n+d": "be"
+    },
+    {
+     "n": 505,
+     "offset": 10,
+     "occurrences": 3,
+     "expected": "s",
+     "straight_word_at_n+d": "the"
+    },
+    {
+     "n": 643,
+     "offset": 12,
+     "occurrences": 2,
+     "expected": "t",
+     "straight_word_at_n+d": "render"
+    },
+    {
+     "n": 647,
+     "offset": 12,
+     "occurrences": 1,
+     "expected": "i",
+     "straight_word_at_n+d": "of"
+    },
+    {
+     "n": 666,
+     "offset": 12,
+     "occurrences": 1,
+     "expected": "f",
+     "straight_word_at_n+d": "to"
+    },
+    {
+     "n": 811,
+     "offset": 12,
+     "occurrences": 9,
+     "expected": "y",
+     "straight_word_at_n+d": "fundamentally"
+    },
+    {
+     "n": 1005,
+     "offset": 12,
+     "occurrences": 4,
+     "expected": "x",
+     "straight_word_at_n+d": "have"
+    }
+   ]
+  }
+ },
+ "minority_letter_uses": [
+  {
+   "n": 84,
+   "letter": "e",
+   "count": 2,
+   "majority_letter": "c"
+  },
+  {
+   "n": 53,
+   "letter": "t",
+   "count": 1,
+   "majority_letter": "r"
+  },
+  {
+   "n": 96,
+   "letter": "u",
+   "count": 1,
+   "majority_letter": "r"
+  },
+  {
+   "n": 440,
+   "letter": "u",
+   "count": 1,
+   "majority_letter": "w"
+  }
+ ],
+ "special_numbers": {
+  "95": {
+   "occurrences": 3,
+   "expected_letters": {
+    "u": 3
+   },
+   "pamphlet_numbering_word": [
+    "inalienable"
+   ],
+   "straight_count_word": "inalienable",
+   "nara_word": "unalienable",
+   "gillogly_initial": "U"
+  },
+  "811": {
+   "occurrences": 9,
+   "expected_letters": {
+    "y": 9
+   },
+   "pamphlet_numbering_word": [
+    "fundamentally"
+   ],
+   "straight_count_word": "for",
+   "nara_word": "for",
+   "gillogly_initial": "T"
+  },
+  "1005": {
+   "occurrences": 4,
+   "expected_letters": {
+    "x": 4
+   },
+   "pamphlet_numbering_word": [
+    "have"
+   ],
+   "straight_count_word": "have",
+   "nara_word": "petitioned",
+   "gillogly_initial": "P"
+  },
+  "807": {
+   "occurrences": 18,
+   "expected_letters": {
+    "v": 18
+   },
+   "pamphlet_numbering_word": [
+    "valuable"
+   ],
+   "straight_count_word": "rule",
+   "nara_word": "rule",
+   "gillogly_initial": "I"
+  }
+ },
+ "x_y_in_key": {
+  "words_with_initial_x": [],
+  "words_with_initial_y": [],
+  "words_containing_x_(straight_n:word)": {
+   "204": "experience",
+   "514": "exercise",
+   "521": "exposed",
+   "739": "taxes",
+   "798": "example",
+   "948": "executioners",
+   "963": "excited",
+   "995": "sexes",
+   "1075": "extend"
+  },
+  "words_containing_y_(straight_n:word)": {
+   "707": "by",
+   "714": "any",
+   "717": "they",
+   "749": "many",
+   "756": "by",
+   "757": "jury",
+   "761": "beyond",
+   "773": "system",
+   "784": "arbitrary",
+   "813": "away",
+   "823": "fundamentally",
+   "853": "by",
+   "877": "destroyed"
+  }
+ },
+ "printed_vs_decoded_plaintext_diff": [
+  [
+   "replace",
+   "bufords",
+   "buford s",
+   "miles from"
+  ],
+  [
+   "replace",
+   "three",
+   "3",
+   "in number"
+  ],
+  [
+   "replace",
+   "ten hundred",
+   "one thousand",
+   "consisted of"
+  ],
+  [
+   "replace",
+   "thirty",
+   "three thousand",
+   "gold and"
+  ],
+  [
+   "replace",
+   "nov eighteen nineteen",
+   "november 1819",
+   "silver deposited"
+  ],
+  [
+   "replace",
+   "dec eighteen twenty one",
+   "december 1821",
+   "was made"
+  ],
+  [
+   "insert",
+   "",
+   "pounds",
+   "eighty eight"
+  ],
+  [
+   "insert",
+   "",
+   "for silver",
+   "in exchange"
+  ],
+  [
+   "replace",
+   "thirteen thousand dollars",
+   "$13000",
+   "valued at"
+  ],
+  [
+   "replace",
+   "one",
+   "1",
+   "paper number"
+  ]
+ ]
+}

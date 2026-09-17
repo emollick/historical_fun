@@ -1,0 +1,182 @@
+QUERY: "orang medan" | collection: DDD_artikel | numberOfRecords: 8 
+1948/04/16 | De West : nieuwsblad uit en voor Suriname | p3 | ddd:110637081:mpeg21:a0047 | Schip vergaan. | Koninklijke Bibliotheek
+1939/12/09 | Soerabaijasch handelsblad | p8 | ddd:011121844:mpeg21:a0261 | ZONDAG 10 DECEMBER. | Koninklijke Bibliotheek C 64
+1939/11/04 | De Indische courant | p2 | ddd:010285870:mpeg21:a0126 | MAANDAG | KB C 248
+1940/03/08 | De Indische courant | pIV | ddd:011176812:mpeg21:a0132 | PROGRAMMA'S. ZATERDAG | Koninklijk Instituut voor Taal-, Land- e
+1939/10/24 | De Indische courant | pII | ddd:010285759:mpeg21:a0107 | RADIO-RUBRIEK. PROGRAMMA. WOENSDAG | KB C 248
+1940/02/09 | De Indische courant | p2 | ddd:010286255:mpeg21:a0113 | RADIO-RUBRIEK. PROGRAMMA'S. ZATERDAG | KB C 248
+1932/12/03 | Rotterdamsch nieuwsblad | p2 | MMKB32:164662039:mpeg21:a00009 | Gij zult niet begeeren.... | Koninklijke Bibliotheek
+1939/10/24 | Soerabaijasch handelsblad | p8 | ddd:011121390:mpeg21:a0276 | PROGRAMMA’S DINSDAG 24 OCTOBER. WOENSDAG 25 OCTOBER. | Koninklijke Bibliotheek C 64
+
+QUERY: "ourang-medan" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "oerang medan" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "ourang medang" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: ourang | collection: DDD_artikel | numberOfRecords: 251 
+1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN. | Groninger archieven
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de  | Koninklijk Instituut voor de Tropen (KIT
+1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0051 | Het bleef stil | Koninklijk Instituut voor de Tropen (KIT
+1930/10/09 | Het nieuws van den dag voor Nederlandsch-Indië | p6 | ddd:010229010:mpeg21:a0112 | Arme Indo-Componist. | KB C55
+1930/10/09 | De nieuwe vorstenlanden | p1 | MMKB19:002766232:mpeg21:a00002 | Arme Indo componist en „'alkie“. | Koninklijke Bibliotheek
+1930/10/15 | Het nieuws van den dag voor Nederlandsch-Indië | p7 | ddd:010229015:mpeg21:a0023 | Advertentie | KB C55
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0038 | S.O.S, | Koninklijk Instituut voor de Tropen (KIT
+1930/09/11 | Algemeen Handelsblad | p14 | ddd:010661580:mpeg21:a0318 | ROLPRENTNIEUWS. Belangstelling voor Ned.-Indië. | KB C 21
+1930/10/15 | Bataviaasch nieuwsblad | p2 | ddd:011072819:mpeg21:a0195 | Advertentie | Koninklijke Bibliotheek C 96
+1930/10/07 | Soerabaijasch handelsblad | p2 | ddd:110637963:mpeg21:a0182 | DE K.N.I.L.M. | Koninklijke Bibliotheek C 64
+1930/12/25 | Algemeen handelsblad voor Nederlandsch-Indië | p116 | MMKB19:000457001:mpeg21:a00267 | Advertentie | Koninklijke Bibliotheek
+1932/01/28 | Het nieuws van den dag voor Nederlandsch-Indië | p5 | ddd:010229403:mpeg21:a0108 | Film-critieken. Ten Oosten van Borneo. | KB C55
+1852/06/11 | Leydse courant | p2 | ddd:010923952:mpeg21:a0004 | AMSTERDAM, 9 Junij. | Regionaal Archief Leiden
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0034 | Het verhaal. | Koninklijk Instituut voor de Tropen (KIT
+1932/01/28 | Bataviaasch nieuwsblad | p3 | ddd:011073057:mpeg21:a0195 | East of Borneo. | Koninklijke Bibliotheek C 96
+1841/06/02 | Nieuwe Surinaamsche courant | p1 | ddd:010947424:mpeg21:a0003 | Buitenlandsche Nieuwstijdingen. NEDERLANDEN. Amsterdam, 10 April. | Koninklijke Bibliotheek C 135
+1931/01/10 | De Sumatra post | p7 | ddd:010970490:mpeg21:a0128 | LEO TOLSTOIS DOOD. Telegrammen over zijn ziekte. | Koninklijke Bibliotheek 1634 C1
+1989/08/10 | Trouw | p | ABCDDD:010827389:mpeg21:a0360 | WEEK AGENDA DONDERDAG 10 T/M WOENSDAG 16 AUGUSTUS Theater | Koninklijke Bibliotheek
+1853/08/10 | Provinciale Drentsche en Asser courant | p3 | ddd:010779896:mpeg21:a0020 | SPANJE. | Koninklijke Bibliotheek C 225
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0036 | Mysterie der „Ourang Medan” De Dodelijke Zwavelzuur-Gassen Doortrokken het Gehele Schip Fa | Koninklijk Instituut voor de Tropen (KIT
+1793/11/22 | Leydse courant | p4 | ddd:010915303:mpeg21:a0014 | Advertentie | Regionaal Archief Leiden
+1847/03/15 | Algemeen Handelsblad | p1 | ddd:010075551:mpeg21:a0004 | Belgische Post. BRUSSEL, Zaturdag 13 Maart. | KB C 21
+1906/09/19 | De Volksstem | p2 | ddd:011180176:mpeg21:a0032 | De Apen Zullen Spreken. | Roosevelt Study Center
+1840/01/09 | Journal de La Haye | p4 | ddd:010092932:mpeg21:a0012 | Advertentie | KB 1623
+1909/02/23 | Haagsche courant | p | MMKB04:000133039:mpeg21:a0029 | Advertentie | Koninklijke Bibliotheek
+1903/07/27 | Het vaderland | p5 | MMKB23:001463046:mpeg21:a00067 | Advertentie | Koninklijke Bibliotheek
+1863/08/22 | Hoornsche courant | p | MMWFA01:000191381:mpeg21:a00004 | Gemengde Berigten. | Westfries Archief
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0035 | Langs een omweg. | Koninklijk Instituut voor de Tropen (KIT
+1836/03/07 | Algemeen Handelsblad | p1 | ddd:010218848:mpeg21:a0004 | BINNENGHEROMEN. | KB C21
+1905/11/28 | Het vaderland | p3 | MMKB23:001469098:mpeg21:a00063 | Advertentie | Koninklijke Bibliotheek
+1906/08/13 | Het vaderland | p8 | MMKB23:001492264:mpeg21:a00118 | Advertentie | Koninklijke Bibliotheek
+1823/02/10 | Utrechtsche courant | p2 | MMKB23:001784018:mpeg21:a00009 | Advertentie | Universiteitsbibliotheek Utrecht
+1929/05/14 | Het Vaderland : staat- en letterkundig nieuwsblad | p2 | ddd:010012170:mpeg21:a0175 | Verkooping van Huizen, enz. Gunning van Onroerende Goederen in het  Venduhuis der Notariss | KB NBM C 44 [Microfilm]
+1839/07/12 | Dagblad van 's Gravenhage | p3 | ddd:010056361:mpeg21:a0007 | Advertentie | KB C 94
+1847/02/25 | Algemeen Handelsblad | p1 | ddd:010075533:mpeg21:a0005 | Belgische Post. BRUSSEL, Dingsdag 23 Februarij. | KB C 21
+1890/04/27 | Bataviaasch handelsblad | p4 | ddd:110615118:mpeg21:a0013 | HELDENMOED VAN EEN AAP | Koninklijke Bibliotheek 1640 C 1
+1890/05/04 | Bataviaasch handelsblad | p2 | ddd:110615119:mpeg21:a0005 | HELDENMOED VAN EEN AAP. | Koninklijke Bibliotheek 1640 C 1
+1858/08/09 | Opregte Haarlemsche Courant | p4 | ddd:010543936:mpeg21:a0020 | Advertentie | KB C 37
+1847/03/12 | Leydse courant | p4 | ddd:010923233:mpeg21:a0018 | BELGIE. BRUSSEL, 9 Maart. | Regionaal Archief Leiden
+1904/08/23 | Het vaderland | p3 | MMKB23:001466091:mpeg21:a00078 | Advertentie | Koninklijke Bibliotheek
+1794/01/29 | Leeuwarder courant | p5 | ddd:010577438:mpeg21:a0006 | Advertentie | KBDK
+1894/11/15 | De Telegraaf | p2 | ddd:110537759:mpeg21:a0108 | Advertentie | KB C 98
+1840/01/14 | Algemeen Handelsblad | p2 | ddd:010071773:mpeg21:a0006 | STADSNIEUWS, ENZ. | KB C21
+1867/11/04 | Nieuwe Rotterdamsche courant : staats-, handels-, nieuws- en advertentieblad | p2 | ddd:010116074:mpeg21:a0008 | Gemengde Berigten. | KB 1615AC
+1841/06/02 | Nieuwe Surinaamsche courant | p1 | ddd:010670896:mpeg21:a0003 | Buitenlandsche Nieuwstijdingen. NEDERLANDEN. Amsterdam, 10 April. | KB C 135
+1908/03/18 | De Peel- en Kempenbode | p | MMRHCE01:000051381:mpeg21:a0006 | ALLERLEI. NIET GEDACHT. | Regionaal Historisch Centrum Eindhoven
+1907/06/08 | Het nieuws van den dag : kleine courant | p7 | ddd:010164611:mpeg21:a0121 | Buitenl. Havens. | KB C226
+1907/01/22 | Het vaderland | p4 | MMKB23:001475052:mpeg21:a00052 | Advertentie | Koninklijke Bibliotheek
+1842/01/22 | Rotterdamsche courant | p4 | ddd:010978905:mpeg21:a0014 | Advertentie | Koninklijke Bibliotheek C 46
+
+QUERY: scherli | collection: DDD_artikel | numberOfRecords: 98 
+1941/12/11 | Algemeen protestantsch dagblad | p4 | ddd:010937966:mpeg21:a0079 | EEN NIEUWE TOCHT WORDT VOORBEREID | Koninklijke Bibliotheek C 713
+1962/03/02 | Het Rotterdamsch parool | p9 | MMSARO03:259017002:mpeg21:a00160 | Advertentie | Stadsarchief Rotterdam
+1962/03/09 | Het vrĳe volk : democratisch-socialistisch dagblad | p19 | ddd:010953783:mpeg21:a0141 | Advertentie | Gemeentearchief Rotterdam
+1941/06/04 | Oprechte Haarlemsche courant | p1 | ddd:110530303:mpeg21:a0011 | Op onze foto ziet men den kruiser „Gloucester", waarvan dezer dagen het verlies door Engel | KB C 37
+1941/07/17 | Oprechte Haarlemsche courant | p3 | ddd:110530340:mpeg21:a0068 | Een arbeidersfamilie. zooals er honderden in alle dorpen der Sovjets voorkomen. Zij houdt  | KB C 37
+1941/07/09 | Oprechte Haarlemsche courant | p5 | ddd:110530333:mpeg21:a0117 | Duitsche soldaten bij zuivering van een terrein van Sovjettroepen in de omgeving van een S | KB C 37
+1941/06/13 | Oprechte Haarlemsche courant | p8 | ddd:110530311:mpeg21:a0172 | De voorgevel van een Londensch zakenpand wordt na een Duitsche vergeldingsaanva! op de Bri | KB C 37
+1941/03/01 | Oprechte Haarlemsche courant | p3 | ddd:110531337:mpeg21:a0066 | In het Teatro Adriano te Rome heeft Mussolini een gnuite rede sehcuden. De Duce tisjschen  | KB C 37
+1940/12/30 | Oprechte Haarlemsche courant | p3 | ddd:110530237:mpeg21:a0056 | In den Berlijnschen Zoo is een giraffe ge- | KB C 37
+1940/10/02 | Oprechte Haarlemsche courant | p5 | ddd:110530265:mpeg21:a0056 | De nieuwste herfstmode. | KB C 37
+1916/07/31 | Het vaderland | p2 | MMKB23:001522081:mpeg21:a00029 | DE CRISIS. De opgebrschte visschersschepen. | Koninklijke Bibliotheek
+1940/09/29 | De Maasbode | p4 | ddd:110531103:mpeg21:a0118 | VER VERDWAALD Door het stormachtige weer der laatste dagen zijn over Zweden niet | KB C 61
+1941/08/14 | Oprechte Haarlemsche courant | p1 | ddd:110530364:mpeg21:a0020 | Van de motorordonnansen, die aan het Oostelijk front hun werk verrichten, wordt veel gever | KB C 37
+1941/05/03 | Oprechte Haarlemsche courant | p3 | ddd:110530278:mpeg21:a0080 | De haven van Athene. Piraeus. bleek, toen de Duitsche troepen daar aankwamen bezaaid te zi | KB C 37
+1941/07/23 | Oprechte Haarlemsche courant | p7 | ddd:110530345:mpeg21:a0159 | Ook in Frankrijk geven vele menschen zich op voor het vrijwilligerslegioen tegen Sovjet Ru | KB C 37
+1941/07/04 | Oprechte Haarlemsche courant | p5 | ddd:110530329:mpeg21:a0106 | Een van de 5774. Volgens het extra bericht van het opperbevel van gister.ivond zijn aan t  | KB C 37
+1941/06/16 | Oprechte Haarlemsche courant | p1 | ddd:110530313:mpeg21:a0018 | Duitsch aanvallen op Hatfa.—Duitsche gevechtsvliegtuigen hebben dezer daaen aanvallen geda | KB C 37
+1866/06/01 | Le courrier de la Meuse | p1 | MMCC01:048240126:mpeg21:a00008 | Une dépêche télégraphique de Francfort, | Centre Céramique
+1942/09/02 | Nieuwe Apeldoornsche courant | p | MMCODA01:000159836:mpeg21:a0012 | Foto's: VNP-Landistend-Brusse-Pax Holland m:1: Ned. OmroepVermeuten-VNP-Pax | CODA Apeldoorn
+1941/04/10 | De Amersfoortsche courant : dagblad voor Amersfoort en omstreken | p4 | ddd:010900600:mpeg21:a0024 | KORT VOOR DEN START VAN EEN VERKENNINGSVLIEGTUIG. — Op den zwaren kruiser wordt aan het vc | Archief Eemland
+1941/06/11 | Oprechte Haarlemsche courant | p8 | ddd:110530309:mpeg21:a0150 | De 16.644 br. t. metende Britsche hulpkruiser „Baipoetana”. werd. nadat ze door twee torpe | KB C 37
+1919/12/23 | Franeker courant | p4 | MMTRES04:211443170:mpeg21:a00034 | Advertentie | Tresoar
+1934/07/25 | Soerabaijasch handelsblad | p16 | ddd:011107728:mpeg21:a0049 | Advertentie | Koninklijke Bibliotheek C 64
+1885/02/09 | Utrechtsch provinciaal en stedelijk dagblad | p4 | MMUTRA04:253134040:mpeg21:a00028 | Advertentie | Het Utrechts Archief
+1963/02/27 | Algemeen Dagblad | p | KBPERS01:002810049:mpeg21:a00124 | Advertentie | Koninklijke Bibliotheek
+1942/09/24 | Noordbrabantsche courant | p4 | MMUBTB04:210814123:mpeg21:a00078 | Advertentie | Tilburg University Library
+1942/03/21 | Oprechte Haarlemsche courant | p1 | ddd:110530632:mpeg21:a0013 | 't Is Lente. | KB C 37
+1934/08/15 | Soerabaijasch handelsblad | p4 | ddd:011107746:mpeg21:a0017 | Advertentie | Koninklijke Bibliotheek C 64
+1940/12/03 | Oprechte Haarlemsche courant | p3 | ddd:110530216:mpeg21:a0045 | Japansch succes in Hoepei. TERUGTREKKENDE CHINEEZEN VERLOREN 10.000 MAN. | KB C 37
+1926/07/05 | Voorwaarts : sociaal-democratisch dagblad | p3 | ddd:010212214:mpeg21:a0083 | Rotterdam UIT DE HAVEN. | KB C 142
+1918/11/27 | Rotterdamsch nieuwsblad | p1 | ddd:010297172:mpeg21:a0032 | Advertentie | KB C 420
+1896/06/01 | Dagblad van Zuidholland en 's Gravenhage | p6 | MMKB19:003624054:mpeg21:a00041 | Advertentie | Koninklijke Bibliotheek
+1866/07/18 | Le courrier de la Meuse | p1 | MMCC01:048240166:mpeg21:a00006 | Le siége de la Diète germanique vient | Centre Céramique
+1964/06/12 | Het Rotterdamsch parool | p19 | MMSARO03:259030035:mpeg21:a00279 | Advertentie | Stadsarchief Rotterdam
+1953/04/07 | Algemeen Handelsblad | p | KBNRC01:000042684:mpeg21:a0107 | Selectie van N.-Hollanders voor Ned. twaalftal | Koninklijke Bibliotheek
+1939/06/13 | De Telegraaf | p5 | ddd:110579409:mpeg21:a0230 | DE HENLEY-WEDSTRIJDEN. | KB C 98
+1939/07/09 | Algemeen Handelsblad | p19 | ddd:010664962:mpeg21:a0196 | ROEIEN HARVARD WINT DE GRAND CHALLENGE Ook op Henley zegeviert Amerika en scoort de „hattr | KB C 21
+1986/05/15 | Nederlands dagblad : gereformeerd gezinsblad / hoofdred. P. Jongeling ... [et al.] | p1 | ddd:010569980:mpeg21:a0001 | Deel directie PTT mag naar Groningen | Nederlands Dagblad
+1929/01/31 | Het Vaderland : staat- en letterkundig nieuwsblad | p3 | ddd:010011997:mpeg21:a0081 | TREILVISSCHERIJ. | KB NBM C 44 [Microfilm]
+1941/04/23 | De banier : staatkundig gereformeerd dagblad | p1 | ddd:010850572:mpeg21:a0029 | Plymouth andermaal gebombardeerd | SGP-Bureau
+1931/10/07 | Nieuwe Utrechtsche courant | p7 | MMUTRA04:253388006:mpeg21:a00097 | VISSCHERIJ | Het Utrechts Archief
+1963/12/11 | De Gooi- en Eemlander | p7 | MMGAGM01:234865062:mpeg21:a00090 | Amsterdam verloor van een Russisch selectieteam | Gemeentearchief Gooise Meren en Huizen
+1897/05/13 | Bredasche courant | p3 | MMSAB05:259494090:mpeg21:a00008 | Advertentie | Stadsarchief Breda
+1934/01/11 | Rotterdamsch nieuwsblad | p4 | MMKB32:164669012:mpeg21:a00026 | Advertentie | Koninklijke Bibliotheek
+1982/09/24 | Trouw | p | ABCDDD:010818921:mpeg21:a0125 | Advertentie | Koninklijke Bibliotheek
+1939/07/17 | De Sumatra post | p6 | ddd:010382948:mpeg21:a0141 | Buitenlandsche successen te Henley. | KB 1634 C1
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0038 | S.O.S, | Koninklijk Instituut voor de Tropen (KIT
+1939/07/11 | Het nieuws van den dag voor Nederlandsch-Indië | p5 | ddd:010227243:mpeg21:a0047 | Buitenlandsche successen te tHenley | KB C55
+1907/06/29 | Nieuwe Groninger courant | p1 | MMRHCG04:235115193:mpeg21:a00001 | Advertentie | Groninger archieven
+
+QUERY: "silvio scherli" | collection: DDD_artikel | numberOfRecords: 2 
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0033 | Ondergang der „Ourang Medan” „Voor het Eerst Werd ik Bang” De Enige Overlevende, Silvio Sc | Koninklijk Instituut voor de Tropen (KIT
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0038 | S.O.S, | Koninklijk Instituut voor de Tropen (KIT
+
+QUERY: silverstar | collection: DDD_artikel | numberOfRecords: 3813 
+1910/11/25 | Het nieuws van den dag voor Nederlandsch-Indië | p3 | ddd:010135295:mpeg21:a0021 | Tweede Dag. | KB C55
+1938/10/01 | Deli courant | p8 | MMKB15:000139001:mpeg21:a00060 | Advertentie | Koninklijke Bibliotheek
+1953/10/24 | 't Nieuws voor Kampen | p4 | MMSAK01:164713100:mpeg21:a00060 | NUNSPEET Deel van huis uitgebrand | Stadsarchief Kampen
+1911/09/27 | Het nieuws van den dag voor Nederlandsch-Indië | p14 | ddd:010136131:mpeg21:a0123 | Advertentie | KB C55
+1911/07/15 | Het nieuws van den dag voor Nederlandsch-Indië | p18 | ddd:010136014:mpeg21:a0123 | Advertentie | KB C55
+1956/01/05 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p1 | ddd:010404780:mpeg21:a0010 | Vertraagde „Silverstar” komt zaterdag aan | KB C 251
+1955/03/05 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404530:mpeg21:a0021 | Winkels open op Zondag | KB C 251
+1910/11/25 | Het nieuws van den dag voor Nederlandsch-Indië | p3 | ddd:010135295:mpeg21:a0020 | Eerste Dag. | KB C55
+1945/08/08 | Het parool | p | MMNIOD05:000143299:mpeg21:a0023 | Advertentie | NIOD Instituut voor Oorlogs-, Holocaust-
+1930/12/12 | Nieuwsblad van het Noorden | p2 | ddd:010674772:mpeg21:a0041 | Een oud-stadgenoot en zilvervossen. | KB C 588
+1927/10/20 | De locomotief | p3 | MMKB23:001706125:mpeg21:a00030 | Gemengd Nieuws AANVARING. „Sembilan” en „Silverstar". – Een koelie gedood. | Universitaire Bibliotheken Leiden
+1953/06/16 | Winschoter courant | p2 | MMRHCG03:163551038:mpeg21:a00052 | BEERTA | Groninger archieven
+1911/03/01 | Het nieuws van den dag voor Nederlandsch-Indië | p11 | ddd:010135373:mpeg21:a0085 | Advertentie | KB C55
+1911/12/23 | Het nieuws van den dag voor Nederlandsch-Indië | p18 | ddd:010136194:mpeg21:a0090 | Advertentie | KB C55
+1911/09/30 | Het nieuws van den dag voor Nederlandsch-Indië | p19 | ddd:010136134:mpeg21:a0110 | Advertentie | KB C55
+1911/04/22 | Het nieuws van den dag voor Nederlandsch-Indië | p16 | ddd:010135415:mpeg21:a0116 | Advertentie | KB C55
+1941/05/03 | Algemeen Handelsblad | p | KBNRC01:000058542:mpeg21:a0094 | Advertentie | Koninklijke Bibliotheek
+1911/08/09 | Het nieuws van den dag voor Nederlandsch-Indië | p16 | ddd:010136034:mpeg21:a0126 | Advertentie | KB C55
+1911/08/23 | Het nieuws van den dag voor Nederlandsch-Indië | p15 | ddd:010136061:mpeg21:a0113 | Advertentie | KB C55
+1911/05/20 | Het nieuws van den dag voor Nederlandsch-Indië | p15 | ddd:010136070:mpeg21:a0109 | Advertentie | KB C55
+1911/07/08 | Het nieuws van den dag voor Nederlandsch-Indië | p19 | ddd:010136109:mpeg21:a0134 | Advertentie | KB C55
+1939/03/31 | De locomotief | p7 | MMKB23:003471059:mpeg21:a00106 | De S.S.-Maquette. Terug uit Frisco. | Universitaire Bibliotheken Leiden
+1939/12/04 | De Indische courant | p3 | ddd:010285894:mpeg21:a0245 | De scheepsbeweging in onze  haven. | KB C 248
+1954/09/23 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p6 | ddd:010404396:mpeg21:a0090 | Toeristenschepen beozken Curacao | KB C 251
+1938/11/29 | De Indische courant | pII | ddd:010286312:mpeg21:a0114 | SCHEEPSBERICHTEN. De scheepsbeweging in onze haven. | KB C 248
+1910/11/28 | De locomotief | p5 | MMKB23:001650098:mpeg21:a00048 | Tweede dag, 4 Dec. | Universitaire Bibliotheken Leiden
+1985/12/06 | Het vrĳe volk : democratisch-socialistisch dagblad | p12 | ddd:010962249:mpeg21:a0057 | Advertentie | Gemeentearchief Rotterdam
+1938/07/19 | Algemeen Handelsblad | p6 | ddd:010664871:mpeg21:a0229 | SILVER-JAVA PACIFIC-LIJN. | KB C 21
+1939/02/05 | Algemeen Handelsblad | p | KBNRC01:000054893:mpeg21:a0288 | SILVER-JAVA PACIFIC-LIJN. | Koninklijke Bibliotheek
+1938/05/27 | Algemeen Handelsblad | p21 | ddd:010664361:mpeg21:a0335 | SILVER-JAVA PACIFIC-LIJN. | KB C 21
+1938/02/23 | Algemeen Handelsblad | p8 | ddd:010664213:mpeg21:a0180 | SILVER-JAVA PACIFIC-LIJN. | KB C 21
+1938/02/24 | Algemeen Handelsblad | p8 | ddd:010664215:mpeg21:a0099 | SILVER-JAVA PACIFIC-LIJN. | KB C 21
+1993/06/16 | De Telegraaf | p22 | ddd:010691815:mpeg21:a0624 | Advertentie | KB C 98
+1939/06/02 | Utrechts volksblad : sociaal-democratisch dagblad | p17 | ddd:010941406:mpeg21:a0276 | SILVER—JAVA—PACIFIC LIJN. | Koninklijke Bibliotheek C 476
+1993/02/03 | De Telegraaf | p13 | ddd:010691730:mpeg21:a0353 | Advertentie | KB C 98
+1939/08/02 | Algemeen Handelsblad | p10 | ddd:010665003:mpeg21:a0185 | JAVA PACIFIC-LIJN. | KB C 21
+1939/02/05 | Algemeen Handelsblad | p16 | ddd:010663315:mpeg21:a0308 | SILVER-JAVA PACIFIC-LIJN. | KB C 21
+1993/04/14 | De Telegraaf | p15 | ddd:010691837:mpeg21:a0152 | Advertentie | KB C 98
+1993/12/15 | De Telegraaf | p18 | ddd:010691764:mpeg21:a0195 | Advertentie | KB C 98
+1960/09/16 | Emmer courant | p10 | MMGEM01:163365067:mpeg21:a00116 | Advertentie | Gemeente Emmen
+1935/11/26 | Nieuwe Winterswijksche courant | p1 | MMECAL02:180025132:mpeg21:a00005 | Plaatselijk Nieuws | Erfgoedcentrum Achterhoek en Liemers
+1911/10/25 | Het nieuws van den dag voor Nederlandsch-Indië | p14 | ddd:010136153:mpeg21:a0098 | Advertentie | KB C55
+1942/03/21 | Algemeen Handelsblad | p | KBNRC01:000054541:mpeg21:a0129 | Advertentie | Koninklijke Bibliotheek
+1951/10/22 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069367:mpeg21:a0061 | LAATSTE NIEUWS Mevrouw Den Ouden ontving de „Silver-Star" | Stadsarchief Enschede
+1911/07/29 | Het nieuws van den dag voor Nederlandsch-Indië | p18 | ddd:010136026:mpeg21:a0132 | Advertentie | KB C55
+1954/12/28 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404474:mpeg21:a0050 | Toeristen in Willemstad Winkels morgen open | KB C 251
+1938/06/01 | De Indische courant | pII | ddd:010285991:mpeg21:a0114 | SCHEEPSBERJCHTEN. De scheepsbeweging in onze haven. | KB C 248
+1939/06/02 | De Indische courant | pIV | ddd:010285791:mpeg21:a0199 | De scheepsbeweging in onze haven. | KB C 248
+1955/03/07 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404531:mpeg21:a0013 | Vijf schepen, maar weinig passagiers | KB C 251
+1939/02/22 | Algemeen Handelsblad | p | KBNRC01:000054970:mpeg21:a0125 | SILVER-JAVA PACIFIC-LIJN. | Koninklijke Bibliotheek
+
+QUERY: "ourang medam" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "ourang medau" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: ourangmedan | collection: DDD_artikel | numberOfRecords: 0 
+

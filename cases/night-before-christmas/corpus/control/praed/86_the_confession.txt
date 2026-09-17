@@ -1,0 +1,38 @@
+title: The Confession
+author: Winthrop Mackworth Praed
+date: c. 1823-1839
+source: https://www.gutenberg.org/ebooks/71008 (The Poems of Winthrop Mackworth Praed [selected], ed. Frederick Cooper, London: Walter Scott)
+form: trochaic mixed
+lines: 27
+attribution: certain
+notes: light verse (vers de societe)
+
+“Father--Father--I confess--
+Here he kneeled and sighed,
+When the moon’s soft loveliness
+Slept on turf and tide.
+In my ear the prayer he prayed
+Seems to echo yet;
+But the answer that I made--
+Father--I forget!
+Ora pro me!
+
+“Father--Father--I confess--
+Precious gifts he brought;
+Satin sandal, silken dress;
+Richer ne’er were wrought;
+Gems that make the daylight dim,
+Plumes in gay gold set;--
+But the gaud I gave to him--
+Father--I forget!
+Ora pro me!
+
+“Father--Father--I confess--
+He’s my beauty’s thrall,
+In the lonely wilderness,
+In the festive hall;
+All his dreams are aye of me,
+Since our young hearts met;
+What my own may sometimes be--
+Father--I forget!
+Ora pro me!”

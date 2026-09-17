@@ -1,0 +1,220 @@
+QUERY: "silver star" AND date within "1947-01-01 1955-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: silverstar AND date within "1947-01-01 1955-12-31" | collection: DDD_artikel | numberOfRecords: 111 
+1953/10/24 | 't Nieuws voor Kampen | p4 | MMSAK01:164713100:mpeg21:a00060 | NUNSPEET Deel van huis uitgebrand | Stadsarchief Kampen
+1955/03/05 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404530:mpeg21:a0021 | Winkels open op Zondag | KB C 251
+1953/06/16 | Winschoter courant | p2 | MMRHCG03:163551038:mpeg21:a00052 | BEERTA | Groninger archieven
+1954/09/23 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p6 | ddd:010404396:mpeg21:a0090 | Toeristenschepen beozken Curacao | KB C 251
+1951/10/22 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000069367:mpeg21:a0061 | LAATSTE NIEUWS Mevrouw Den Ouden ontving de „Silver-Star" | Stadsarchief Enschede
+1954/12/28 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404474:mpeg21:a0050 | Toeristen in Willemstad Winkels morgen open | KB C 251
+1955/03/07 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404531:mpeg21:a0013 | Vijf schepen, maar weinig passagiers | KB C 251
+1955/10/05 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010988449:mpeg21:a0021 | DRUK TOERISTENSEIZOEN 55 schepen zullen Curacao aandoen | Koninklijke Bibliotheek C 251
+1955/10/05 | Amigoe di Curacao | p | KBDDD02:000210491:mpeg21:a0013 | DRUK TOERISTENSEIZOEN 55 schepen zullen Curacao aandoen | Koninklijke Bibliotheek
+1949/04/28 | Provinciale Drentsche en Asser courant | p | MMDA03:000143495:mpeg21:a0039 | Advertentie | Drents Archief
+1949/04/28 | Provinciale Drentsche en Asser courant | p | MMDA03:000143493:mpeg21:a0040 | Advertentie | Drents Archief
+1952/04/19 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010987884:mpeg21:a0036 | SCHEEPVAARTBERICHTEN | Koninklijke Bibliotheek C 251
+1955/07/20 | Provinciale Drentsche en Asser courant | p7 | MMKB23:001569017:mpeg21:a00147 | Advertentie | Universiteitsbibliotheek Rijksuniversite
+1955/07/30 | Zutphens dagblad | p6 | MMRAZ03:179308075:mpeg21:a00097 | Nationaal concours-hippique te Diepenheim Prinses Beatrix en Prinses Armgard onder de toes | Regionaal Archief Zutphen
+1947/08/04 | Algemeen Dagblad | p4 | MMSARO03:259003030:mpeg21:a00084 | — Abbedijk, 2 te Antwerpen v. Londen: | Stadsarchief Rotterdam
+1949/06/15 | De Noord-Ooster | p | MMVEEN01:000084666:mpeg21:a0037 | SCHIP VOOR AMMAN IN EGYPTE VASTGEHOUDEN | Veenkoloniaal Museum
+1954/01/23 | Nieuwe Haarlemsche courant | p7 | MMNHA03:179260019:mpeg21:a00092 | In de komende weken zullen wij | Noord-Hollands Archief
+1949/06/15 | De Tĳd : godsdienstig-staatkundig dagblad | p2 | ddd:011199652:mpeg21:a0055 | Besprekingen Syrië— Israël verbroken | Koninklijke Bibliotheek C 236
+1954/01/23 | De Tĳd : godsdienstig-staatkundig dagblad | p9 | ddd:011202998:mpeg21:a0181 | Door RAYMONDSCHEYVEN | Koninklijke Bibliotheek C 236
+1954/06/29 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p3 | ddd:010404322:mpeg21:a0059 | Door RAYMOND SCHEYVEN | KB C 251
+1955/07/30 | Trouw | p | ABCDDD:010817195:mpeg21:a0143 | Concours-hippique Diepenheim | Koninklijke Bibliotheek
+1955/02/07 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p5 | ddd:010404507:mpeg21:a0080 | Curacao Trading Compan; S.A. (Afdeling Scheepvaart | KB C 251
+1955/07/30 | Het Binnenhof | p6 | MMKB19:000386026:mpeg21:a00103 | Koninklijke belangstelling bij concours in Diepenheim | Koninklijke Bibliotheek
+1947/08/28 | De Nederlandsche transportcourant | p3 | MMKB19:000824197:mpeg21:a00041 | Te Rotterdam verwacht | Koninklijke Bibliotheek
+1947/09/19 | De Nederlander | p4 | MMKB19:000080069:mpeg21:a00039 | Scheepvaart | Koninklijke Bibliotheek
+1947/07/26 | Provinciale Drentsche en Asser courant | p | MMDA03:000131523:mpeg21:a0048 | Advertentie | Drents Archief
+1955/12/22 | Amigoe di Curacao | p | KBDDD02:000211318:mpeg21:a0009 | TUSSEN KERSTMIS EN NIEUWJAAR Kolossaal aantal touristen schepen naar Curacao „Nieuw Amster | Koninklijke Bibliotheek
+1947/07/26 | Provinciale Drentsche en Asser courant | p | MMDA03:000131529:mpeg21:a0052 | Advertentie | Drents Archief
+1949/06/15 | Nieuwe provinciale Groninger courant | p2 | MMRHCG04:235026137:mpeg21:a00031 | Krotenbondig | Groninger archieven
+1952/09/13 | Limburgsch dagblad | p6 | ddd:010417281:mpeg21:a0025 | Advertentie | Sociaal Historisch centrum voor Limburg 
+1947/04/26 | Gazet van Limburg | p2 | MMCC01:048012022:mpeg21:a00019 | Van de sintels naar de grasmat. Internationale courses te Mechelen | Centre Céramique
+1955/07/30 | Deventer dagblad | p2 | MMHCO02:163918026:mpeg21:a00032 | Nationaal concours-hippique te Diepenheim Prinses Beatrix en Prinses Armgard onder de toes | Historisch Centrum Overijssel
+1953/09/16 | Amigoe di Curacao | p | KBDDD02:000211964:mpeg21:a0027 | 42 Toeristenschepen naar Curacao | Koninklijke Bibliotheek
+1952/10/18 | Gazet van Limburg | p9 | MMCC01:048003016:mpeg21:a00122 | Advertentie | Centre Céramique
+1947/08/21 | Nieuw Utrechtsch dagblad | p4 | MMKB27:017769045:mpeg21:a00077 | Advertentie | Koninklijke Bibliotheek
+1955/04/22 | Friese koerier : onafhankelĳk dagblad voor Friesland en aangrenzende gebieden | p12 | ddd:010686916:mpeg21:a0074 | Advertentie | Koninklijke Bibliotheek C 199
+1947/08/05 | De Gooi- en Eemlander : nieuws- en advertentieblad | p4 | ddd:011154898:mpeg21:a0087 | SCHEEPSTIJDINGEN | Koninklijke Bibliotheek MM03C-101547
+1949/06/15 | De Maasbode | p2 | MMKB15:000556138:mpeg21:a00012 | Muur stortte ’s nachts in | Koninklijke Bibliotheek
+1947/08/13 | De waarheid | p4 | ddd:010852063:mpeg21:a0087 | BERICHTEN. VAN ELDERS | Internationaal Instituut voor Sociale Ge
+1949/05/02 | Provinciale Overijsselsche en Zwolsche courant | p5 | MMHCO02:163848101:mpeg21:a00077 | Wat geeft onze luidspreker? | Historisch Centrum Overijssel
+1948/08/24 | Dagblad voor Noord-Limburg | p2 | MMCC02:211143063:mpeg21:a00026 | VOLBLOEDWEDSTRIJDEN TE VENRAY | Centre Céramique
+1947/08/04 | Algemeen Handelsblad | p | KBNRC01:000061990:mpeg21:a0077 | SCHEEPSTIJDINGEN | Koninklijke Bibliotheek
+1947/07/12 | Provinciale Drentsche en Asser courant | p | MMDA03:000131393:mpeg21:a0048 | Advertentie | Drents Archief
+1947/07/12 | Provinciale Drentsche en Asser courant | p | MMDA03:000131394:mpeg21:a0062 | Advertentie | Drents Archief
+1947/09/05 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179232057:mpeg21:a00077 | Scheepvaartberichten | Noord-Hollands Archief
+1952/11/10 | Nieuwe Haarlemsche courant | p3 | MMNHA03:179268034:mpeg21:a00048 | ER KLOPTE IETS NIET MET DE INSTRUCTIES De „GENERAL” liet lang op zich wachten Korea-vrijwi | Noord-Hollands Archief
+1950/08/12 | Twentsche courant | p8 | MMCOLO01:280933037:mpeg21:a00091 | Advertentie | Koninklijke Bibliotheek
+1953/04/16 | Leeuwarder courant : hoofdblad van Friesland | p10 | ddd:010613535:mpeg21:a0096 | Advertentie | KBDK
+1947/09/05 | De waarheid | p2 | ddd:010852082:mpeg21:a0044 | BERICHTEN VAN ELDERS | Internationaal Instituut voor Sociale Ge
+1949/08/15 | Het Rotterdamsch parool | p2 | MMSARO02:164873039:mpeg21:a00037 | SCHEEPVAART | Stadsarchief Rotterdam
+
+QUERY: spookschip AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 24 
+1948/01/12 | De West : nieuwsblad uit en voor Suriname | p1 | ddd:110637046:mpeg21:a0044 | Het Spookschip. | Koninklijke Bibliotheek
+1948/01/09 | Helmondsche courant | p | MMRHCE01:000047125:mpeg21:a0042 | Advertentie | Regionaal Historisch Centrum Eindhoven
+1948/10/02 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p2 | MMRAZ03:179293229:mpeg21:a00027 | ODEON BIOSCOOP | Regionaal Archief Zutphen
+1948/04/01 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p3 | ddd:010987566:mpeg21:a0050 | Heeft Van der Decken inderdaad geleefd? | Koninklijke Bibliotheek C 251
+1948/09/13 | Algemeen Dagblad | p4 | MMSARO03:259005062:mpeg21:a00093 | KAPPIE en de Vliegende Hollander | Stadsarchief Rotterdam
+1948/11/16 | Het Parool | p | ABCDDD:010828766:mpeg21:a0101 | Vijfmaal gezonken.... | Koninklijke Bibliotheek
+1948/05/14 | De waarheid | p2 | ddd:010851374:mpeg21:a0072 | JOCHEM JOFEL EN DE ZWARTE PIRAAT | Internationaal Instituut voor Sociale Ge
+1948/03/26 | Algemeen Dagblad | p1 | MMSARO03:259004073:mpeg21:a00019 | Christus onder het Kruis | Stadsarchief Rotterdam
+1948/09/08 | Algemeen Dagblad | p3 | MMSARO03:259005058:mpeg21:a00070 | KAPPIE en de Vliegende Hollander | Stadsarchief Rotterdam
+1948/09/16 | Algemeen Dagblad | p3 | MMSARO03:259005065:mpeg21:a00087 | KAPPIE en de Vliegende Hollander | Stadsarchief Rotterdam
+1948/09/07 | Algemeen Dagblad | p7 | MMSARO03:259005057:mpeg21:a00089 | KAPPIE en de Vliegende Hollander | Stadsarchief Rotterdam
+1948/11/16 | De Maasbode | p3 | MMKB15:000555117:mpeg21:a00020 | Kort Journaal | Koninklijke Bibliotheek
+1948/05/08 | Leekster courant | p2 | MMRHCG04:235133037:mpeg21:a00017 | De geheimzinnige passagier op 't zeilschip. | Groninger archieven
+1948/04/10 | Trouw | p | ABCDDD:010870659:mpeg21:a0119 | ARK EN KERK En de ark ging op de ioateren. Genesis 7:18 (slot) | Koninklijke Bibliotheek
+1948/03/27 | Helmondsche courant | p | MMRHCE01:000047531:mpeg21:a0030 | FILM BIOSCOOP „SCALA" „DE ZEEWOLF". | Regionaal Historisch Centrum Eindhoven
+1948/04/01 | Amigoe di Curacao | p | KBDDD02:000210353:mpeg21:a0030 | „De Vliegende Hollander" Legende of werkelijkheid? Maar de K. L. M. heeft ze nog! | Koninklijke Bibliotheek
+1948/08/24 | Eindhovensch dagblad | p5 | MMKB27:017813047:mpeg21:a00043 | FEUILLETON Haat avautuul | Koninklijke Bibliotheek
+1948/07/19 | Het Parool | p | ABCDDD:010828665:mpeg21:a0115 | Reis met risico's door James M. Fox | Koninklijke Bibliotheek
+1948/07/22 | Het Parool | p | ABCDDD:010828668:mpeg21:a0108 | Reis met risico's door James M. Fox | Koninklijke Bibliotheek
+1948/11/13 | Nieuwe courant | p | MMNIOD04:000095830:mpeg21:a0082 | Het spookschip van Zaandam | NIOD Instituut voor Oorlogs-, Holocaust-
+1948/12/04 | Gereformeerd gezinsblad / hoofdred. P. Jongeling | p1 | ddd:010553920:mpeg21:a0002 | Van een Zeereid | Nederlands Dagblad
+1948/02/16 | Arnhemsche courant | p | MMKB08:000112996:mpeg21:a0027 | STADSNIEUWS 11e Abonnementsconcert Solist: Geza Anda | Koninklijke Bibliotheek
+1948/11/20 | Nieuwe courant | p | MMNIOD04:000095908:mpeg21:a0060 | Hier is het Kinderhoekje Van de Nieuwe Courant Brievenbus | NIOD Instituut voor Oorlogs-, Holocaust-
+1948/09/11 | Nieuwsblad van het Zuiden | p2 | MMKB19:000616061:mpeg21:a00020 | Rijks H.B.S. Willem II kreeg het praedicaat „Koninklijke | Koninklijke Bibliotheek
+
+QUERY: medan AND spookschip | collection: DDD_artikel | numberOfRecords: 27 
+1918/09/04 | De Sumatra post | p4 | ddd:010367725:mpeg21:a0014 | Advertentie | KB 1634 B1
+1936/09/07 | De Sumatra post | p3 | ddd:010384031:mpeg21:a0104 | VERMAKELIJKHEDEN. | KB 1634 C1
+1916/01/08 | De Sumatra post | p6 | ddd:010333639:mpeg21:a0016 | Advertentie | KB 1634 B 1
+1936/09/08 | De Sumatra post | p3 | ddd:010384032:mpeg21:a0116 | VERMAKELIJKHEDEN. | KB 1634 C1
+1918/09/02 | De Sumatra post | p4 | ddd:010367723:mpeg21:a0016 | Advertentie | KB 1634 B1
+1918/09/06 | De Sumatra post | p8 | ddd:010367726:mpeg21:a0033 | Advertentie | KB 1634 B1
+1918/09/03 | Deli courant | p7 | MMKB15:000050054:mpeg21:a00022 | Advertentie | Koninklijke Bibliotheek
+1918/09/05 | Deli courant | p7 | MMKB15:000050056:mpeg21:a00021 | Advertentie | Koninklijke Bibliotheek
+1918/09/02 | Deli courant | p7 | MMKB15:000050053:mpeg21:a00020 | Advertentie | Koninklijke Bibliotheek
+1914/10/17 | De Preanger-bode | p | MMKB08:000128683:mpeg21:a0007 | TELEGRAMMEN DE EUROPEESCHE OORLOG. Geen verandering. | Koninklijke Bibliotheek
+1891/10/13 | Bataviaasch nieuwsblad | p4 | ddd:110618232:mpeg21:a0026 | Advertentie | Koninklijke Bibliotheek C 96
+1934/03/12 | De Sumatra post | p6 | ddd:011023645:mpeg21:a0019 | Advertentie | Koninklijke Bibliotheek 1634 C1
+1923/12/06 | Sumatra-bode | p3 | MMKB19:002113132:mpeg21:a00010 | Advertentie | Koninklijke Bibliotheek
+1923/11/28 | Sumatra-bode | p7 | MMKB19:002113125:mpeg21:a00024 | Advertentie | Koninklijke Bibliotheek
+1923/12/10 | Sumatra-bode | p3 | MMKB19:002113135:mpeg21:a00008 | Advertentie | Koninklijke Bibliotheek
+1934/12/28 | De Sumatra post | p | KBDDD02:000197814:mpeg21:a0006 | SUMATRA De mail van den UIVER. DE POST VOOR MEDAN GROOTENDEELS VERMELD. | Koninklijke Bibliotheek
+1934/12/07 | De koerier | p2 | MMKB19:000403134:mpeg21:a00006 | BANDOENG EN OMSTREKEN | Koninklijke Bibliotheek
+1905/06/30 | De Preanger-bode | p | MMKB08:000129667:mpeg21:a0003 | Van hier en daar. | Koninklijke Bibliotheek
+1912/02/17 | De Sumatra post | p | KBDDD02:000198586:mpeg21:a0020 | Ons Dagelijksch Nieuws. MEDAN, 17 Februari. Inbond van dit nummer | Koninklijke Bibliotheek
+1934/03/10 | Deli courant | p2 | MMKB15:000117058:mpeg21:a00005 | DE DIENSTREIS VAN DEN GOUVERNEUR | Koninklijke Bibliotheek
+1923/06/01 | Deli courant | p1 | MMKB15:000061049:mpeg21:a00002 | STADSNIEUWS. | Koninklijke Bibliotheek
+1918/06/18 | Het nieuws van den dag voor Nederlandsch-Indië | p | KBDDD02:000199118:mpeg21:a0003 | NEDERLANDSCH-INDIË. BATAVIA, 18 Juni 1918. Inhoud. | Koninklijke Bibliotheek
+1931/09/26 | Haagsche courant | p | MMKB04:000148630:mpeg21:a0126 | ELKE WEEK LUCHTPOST NAAR INDIE. Op 1 October wordt de wekelijksche dienst der K. L. M naar | Koninklijke Bibliotheek
+1933/02/20 | Haagsche courant | p | MMKB04:000147058:mpeg21:a0143 | „DE ZEVEN PROVINCIEN" TE OLEH-LEH. | Koninklijke Bibliotheek
+1927/11/04 | De Sumatra post | p | KBDDD02:000198271:mpeg21:a0048 | Telegrafisch Nieuws Kroniek. | Koninklijke Bibliotheek
+1912/12/16 | De nieuwe courant | p11 | MMKB15:000776193:mpeg21:a00069 | FEUILLETON. | Koninklijke Bibliotheek
+1938/11/26 | De Sumatra post | p1 | ddd:010382464:mpeg21:a0230 | Zandagsllad „De Sumatra Post" | KB 1634 C1
+
+QUERY: doodenschip AND date within "1947-01-01 1955-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: dodenschip AND date within "1947-01-01 1955-12-31" | collection: DDD_artikel | numberOfRecords: 201 
+1950/02/08 | Nijmeegsch dagblad | p4 | MMRANM03:048384033:mpeg21:a00062 | Slechts enkele lijken in „dodenschip” | Regionaal Archief Nijmegen
+1950/02/08 | Provinciale Noord-Brabantsche courant Het huisgezin | p5 | MMUBTB04:210853033:mpeg21:a00073 | „DODENSCHIP” GEBORGEN | Tilburg University Library
+1950/02/09 | Zutphensch dagblad voor Achterhoek en Veluwezoom | p1 | MMRAZ03:179296034:mpeg21:a00011 | „Dodenschip” geborgen | Regionaal Archief Zutphen
+1950/02/09 | Deventer dagblad | p1 | MMHCO02:163900034:mpeg21:a00007 | „Dodenschip" geborgen | Historisch Centrum Overijssel
+1950/02/10 | Nieuwsblad van Friesland : Hepkema's courant | p1 | ddd:010733810:mpeg21:a0100 | Slechts enkele lijken in „dodenschip” | Tresoar
+1950/02/08 | Trouw | p | ABCDDD:010826390:mpeg21:a0098 | „Dodenschip” met lijken aan boord | Koninklijke Bibliotheek
+1950/02/08 | Het vrĳe volk : democratisch-socialistisch dagblad | p1 | ddd:010950391:mpeg21:a0019 | Weinig doden in het geborgen „dodenschip" | Gemeentearchief Rotterdam
+1950/02/08 | Nieuwe provinciale Groninger courant | p2 | MMRHCG04:235028033:mpeg21:a00026 | Slechts enkele lijken in „dodenschip" | Groninger archieven
+1955/07/29 | Het nieuwsblad voor Sumatra | p3 | ddd:010477891:mpeg21:a0081 | Het Egyptische „dodenschip” | KB C 937
+1950/02/08 | 't Nieuws voor Kampen | p1 | MMSAK01:164706033:mpeg21:a00014 | Slechts enkele lijken in Duits „Dodenschip” | Stadsarchief Kampen
+1950/02/08 | Nieuwsblad van het Zuiden | p1 | MMKB19:000617033:mpeg21:a00005 | rf.echts enke.e tijken op „dodenschip” | Koninklijke Bibliotheek
+1950/02/07 | Overijsselsch dagblad | p4 | MMKB23:001251032:mpeg21:a00084 | SLECHTS ENKELE LIJKEN IN „DODENSCHIP” | Historisch Centrum Overijssel
+1950/02/08 | Het Rotterdamsch parool | p3 | MMSARO02:164874033:mpeg21:a00047 | Slechts vijf lijken gevonden in dodenschip | Stadsarchief Rotterdam
+1950/02/08 | De Tĳd : godsdienstig-staatkundig dagblad | p2 | ddd:011199698:mpeg21:a0029 | Slechts 5 lijken in „dodenschip” | Koninklijke Bibliotheek C 236
+1955/06/07 | Leeuwarder courant : hoofdblad van Friesland | p7 | ddd:010614116:mpeg21:a0137 | Cheops' dodenschip dreigt in verval te geraken Archaeoloog, die schip ontdekte, schijnt te | KBDK
+1949/09/20 | De Maasbode | p3 | MMKB15:000557069:mpeg21:a00032 | Een opname van het brandende dodenschip, de Canadese „Noronic”, dat in de haven van Toront | Koninklijke Bibliotheek
+1950/02/08 | Dagblad voor Noord-Limburg | p1 | MMCC02:211149033:mpeg21:a00004 | „Dodenschip" was vrijwel leeg | Centre Céramique
+1950/02/08 | De Noord-Ooster | p | MMVEEN01:000085035:mpeg21:a0009 | Slechts enkele lijken in „dodenschip" | Veenkoloniaal Museum
+1950/02/08 | Twentsche courant | p1 | MMCOLO01:280932033:mpeg21:a00022 | „Dodenschip gelicht” | Koninklijke Bibliotheek
+1950/02/08 | De Gooi- en Eemlander : nieuws- en advertentieblad | p5 | ddd:011155282:mpeg21:a0117 | Slechts vijf lijken in dodenschip | Koninklijke Bibliotheek MM03C-101551
+1948/01/13 | Winschoter courant | p1 | MMRHCG03:163520010:mpeg21:a00018 | DODENSCHIP IN BRAND. | Groninger archieven
+1950/02/08 | Provinciale Overijsselsche en Zwolsche courant | p1 | MMHCO02:163850033:mpeg21:a00012 | Symbolische schadevergoeding voor ■ Kravchenko | Historisch Centrum Overijssel
+1950/02/08 | Leeuwarder courant : hoofdblad van Friesland | p2 | ddd:010612579:mpeg21:a0064 | Slechts enkele lijken in „dódenschip" | KBDK
+1955/09/14 | Het vrĳe volk : democratisch-socialistisch dagblad | p5 | ddd:010952248:mpeg21:a0139 | 'Jopeter' is nu verlaten schip | Gemeentearchief Hulst
+1950/02/23 | Nieuwe provinciale Groninger courant | p1 | MMRHCG04:235028046:mpeg21:a00012 | „Sibajak” met emigranten naar Australië | Groninger archieven
+1950/02/25 | Limburgsch dagblad | p3 | ddd:010417418:mpeg21:a0110 | Crediet van f 5 millioen voor Nieuw-Guinea | Sociaal Historisch centrum voor Limburg 
+1950/02/09 | Limburgsch dagblad | p3 | ddd:010417404:mpeg21:a0085 | Slechts enkele lijken op „dodenschip” | Sociaal Historisch centrum voor Limburg 
+1955/01/03 | Het nieuwsblad voor Sumatra | p4 | ddd:010477736:mpeg21:a0084 | Dodenschip der farao's | KB C 937
+1950/02/25 | Provinciale Overijsselsche en Zwolsche courant | p2 | MMHCO02:163850048:mpeg21:a00039 | NIEUWS IN HET KORT | Historisch Centrum Overijssel
+1950/02/25 | 't Nieuws voor Kampen | p2 | MMSAK01:164706048:mpeg21:a00032 | NIEUWS IN HET KORT | Stadsarchief Kampen
+1950/02/08 | Ons Noorden | p4 | MMRHCG04:235378038:mpeg21:a00085 | SLECHTS ENKELE LIJKEN IN „DODENSCHIP” | Groninger archieven
+1950/02/08 | Nieuwe Haarlemsche courant | p1 | MMNHA03:179242033:mpeg21:a00008 | „Dodenschip” bevatte slechts 5 lijken Strubbelingen bij V.N. | Noord-Hollands Archief
+1950/02/08 | Algemeen Handelsblad | p | KBNRC01:000087513:mpeg21:a0007 | Hoffman pleit voor West-Europa Het moet dollars kunnen verdienen | Koninklijke Bibliotheek
+1950/02/08 | Winschoter courant | p1 | MMRHCG03:163531033:mpeg21:a00010 | Slechts enkele lijken in „dodenschip”. | Groninger archieven
+1950/05/06 | De waarheid | p2 | ddd:010852541:mpeg21:a0070 | Poppetje gezien, kastje dicht... | Internationaal Instituut voor Sociale Ge
+1954/12/30 | De nieuwsgier | p1 | ddd:010478272:mpeg21:a0016 | Dodenschip van farao Cheops bijna bloot | KB C 244
+1951/03/10 | De West : nieuwsblad uit en voor Suriname | p1 | ddd:110637636:mpeg21:a0024 | DE LOSSING VAN DE LEVENDE LADING | Koninklijke Bibliotheek
+1950/05/22 | Dagblad voor Noord-Limburg | p2 | MMCC02:211150042:mpeg21:a00011 | Advertentie | Centre Céramique
+1950/05/20 | Dagblad voor Noord-Limburg | p2 | MMCC02:211150041:mpeg21:a00033 | Advertentie | Centre Céramique
+1948/04/24 | Algemeen Handelsblad | p | KBNRC01:000046012:mpeg21:a0067 | EEN AMERIKAANS DODENSCHIP | Koninklijke Bibliotheek
+1954/12/31 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:011178350:mpeg21:a0073 | Roel-spanen gevonden naast dodenschip der farao’s | Koninklijk Instituut voor Taal-, Land- e
+1950/02/23 | Provinciale Noord-Brabantsche courant Het huisgezin | p3 | MMUBTB04:210853046:mpeg21:a00048 | DE AARDE ROND | Tilburg University Library
+1954/12/30 | Algemeen Indisch dagblad : de Preangerbode | p1 | ddd:010897329:mpeg21:a0011 | Vijf roeiriemen naast het dodenschip der Farao's | Universiteitsbibliotheek Leiden S 8240
+1954/12/31 | Java-bode : nieuws, handels- en advertentieblad voor Nederlandsch-Indie | p1 | ddd:010861985:mpeg21:a0015 | Cheops’ dodensehip gaaf na 5000 jaar | Koninklijk Instituut voor de Tropen (KIT
+1950/01/14 | Algemeen Handelsblad | p | KBNRC01:000087492:mpeg21:a0042 | DODENSCHIP GELICHT | Koninklijke Bibliotheek
+1950/02/01 | De West : nieuwsblad uit en voor Suriname | p2 | ddd:110637341:mpeg21:a0034 | Dodenschip gelicht | Koninklijke Bibliotheek
+1951/10/03 | Het vrĳe volk : democratisch-socialistisch dagblad | p1 | ddd:010949200:mpeg21:a0009 | Baby overlevende op Engels dodenschip | Gemeentearchief Rotterdam
+1950/02/23 | Twentsche courant | p3 | MMCOLO01:280932046:mpeg21:a00043 | Nieuwsflitsen | Koninklijke Bibliotheek
+1950/02/08 | Provinciale Drentsche en Asser courant | p | MMDA03:000145917:mpeg21:a0084 | Nog meer onderofficieren met groot verlof | Drents Archief
+1950/02/08 | Provinciale Drentsche en Asser courant | p | MMDA03:000145917:mpeg21:a0038 | Nog meer onderofficieren met groot verlof | Drents Archief
+
+QUERY: triest AND schip AND "S.O.S." AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 49 
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0038 | S.O.S, | Koninklijk Instituut voor de Tropen (KIT
+1948/09/23 | De Nederlandsche transportcourant | p4 | MMKB19:003646222:mpeg21:a00058 | SCHEEPVAARTNIEUWS IN HET KORT | Koninklijke Bibliotheek
+1948/10/11 | De Nederlandsche transportcourant | p2 | MMKB19:003646237:mpeg21:a00017 | SCHEEPVAARTNIEUWS IN HET KORT | Koninklijke Bibliotheek
+1948/04/01 | De Graafschapper | p1 | MMECAL02:179991029:mpeg21:a00008 | Bidault in het vaarwater van De Gaulle Het Wereldgebeuren | Erfgoedcentrum Achterhoek en Liemers
+1948/11/04 | Het Binnenhof | p2 | MMKB19:000374107:mpeg21:a00020 | Bakkers vlaggen voor Amerikanen | Koninklijke Bibliotheek
+1948/04/09 | Algemeen Dagblad | p3 | MMSARO03:259004084:mpeg21:a00081 | Kapitein en bemanning van de Alk weer behouden in het vaderland Zes en twintig duizend mij | Stadsarchief Rotterdam
+1948/12/08 | Het nieuwsblad voor Sumatra | p3 | ddd:010474862:mpeg21:a0042 | KOTA INTEN VAART UIT | KB C 937
+1948/06/12 | De Nederlander | p2 | MMKB19:000082136:mpeg21:a00023 | Uit Hoofd-, Hof en Havenstad | Koninklijke Bibliotheek
+1948/11/04 | Het vrĳe volk : democratisch-socialistisch dagblad | p3 | ddd:010949883:mpeg21:a0067 | Een grote dag in het leven van zovelen | Gemeentearchief Rotterdam
+1948/04/08 | Amigoe di Curacao | p | KBDDD02:000210365:mpeg21:a0016 | Wereldnieuws | Koninklijke Bibliotheek
+1948/03/25 | Het Parool | p | ABCDDD:010830892:mpeg21:a0101 | AMSTERDAMS DAGBOEK | Koninklijke Bibliotheek
+1948/04/17 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000073720:mpeg21:a0001 | Van der Waals voor zijn rechters Het verraad jegens „Vrij Nederland" Burgemeester Oud bedr | Stadsarchief Enschede
+1948/04/17 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000073702:mpeg21:a0001 | Van der Waals voor zijn rechters Het verraad jegens „Vrij Nederland" Burgemeester Oud bedr | Stadsarchief Enschede
+1948/08/13 | Opregte Steenwijker courant | p | MMGASL01:000356013:mpeg21:a00016 | Nieuws in ’t Kort | Gemeentearchief Steenwijkerland
+1948/11/09 | Trouw | p | ABCDDD:010824153:mpeg21:a0008 | Sensationele onthullingen van Shawcross ALBANIË GAF OPDRACHT MIJNEN TE LEGGEN BIJ KORFOE T | Koninklijke Bibliotheek
+1948/01/15 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000064118:mpeg21:a0007 | PRINSES JULIANA BEZOCHT GEWONDE MILITAIREN Aan boord van hospitaalschip „De Groote Beer". | Stadsarchief Enschede
+1948/04/26 | Amigoe di Curacao | p | KBDDD02:000210399:mpeg21:a0016 | Wereldnieuws DUITSE OORLOGSGEVANGENEN IN FRANKRIJK | Koninklijke Bibliotheek
+1948/01/23 | Harlinger courant | p1 | MMTRES04:211345007:mpeg21:a00002 | PLAATSELIJK NIEUWS. De ondergang van de HA 105. | Tresoar
+1948/12/22 | Het Rotterdamsch parool | p2 | MMSARO02:164871148:mpeg21:a00031 | SCHEEPVAART | Stadsarchief Rotterdam
+1948/10/06 | De Nederlandsche transportcourant | p2 | MMKB19:003646233:mpeg21:a00013 | SCHEEPSTIJDINGEN | Koninklijke Bibliotheek
+1948/12/31 | Het Parool | p | ABCDDD:010828804:mpeg21:a0213 | Parade van twaalf Maanden: Blij hoogtepunt maast triest dieptepunt NEDERLAND beleefde een  | Koninklijke Bibliotheek
+1948/09/17 | Helmondsche courant | p | MMRHCE01:000047289:mpeg21:a0028 | UIT DE PROVINCIE Mierlo-Hout | Regionaal Historisch Centrum Eindhoven
+1948/12/24 | De Nederlandsche transportcourant | p4 | MMKB19:003646301:mpeg21:a00035 | Nederlandse schepen in het buitenland | Koninklijke Bibliotheek
+1948/10/22 | De waarheid | p1 | ddd:010850696:mpeg21:a0001 | De vliegramp van de „Nijmegen” Ook de laatste leden der bemanning aan verwondingen bezweke | Internationaal Instituut voor Sociale Ge
+1948/05/15 | De Nederlander | p3 | MMKB19:000082113:mpeg21:a00031 | Visserij Vlaardingen's bestaansbror | Koninklijke Bibliotheek
+1948/05/18 | Bredasche courant | p | MMSAB03:000068339:mpeg21:a0001 | ISRAEL VECHT VOOR ZIJN LEVEN Ook Rusland erkent de nieuwe staat | Stadsarchief Breda
+1948/10/23 | Het Rotterdamsch parool | p2 | MMSARO02:164871097:mpeg21:a00037 | SCHEEPVAART | Stadsarchief Rotterdam
+1948/11/16 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010949893:mpeg21:a0051 | Scheepvaartberichten | Gemeentearchief Rotterdam
+1948/01/06 | De Nederlandsche transportcourant | p3 | MMKB19:003646004:mpeg21:a00022 | SCHEEPVAARTBEWEGING BINNENLANDSE HAVENS | Koninklijke Bibliotheek
+1948/05/31 | De Nederlandsche transportcourant | p2 | MMKB19:003646125:mpeg21:a00019 | SCHEEPSTIJDINGEN | Koninklijke Bibliotheek
+1948/01/26 | De Nederlandsche transportcourant | p2 | MMKB19:003646021:mpeg21:a00018 | SCHEEPSTIJDINGEN | Koninklijke Bibliotheek
+1948/05/28 | De Nederlandsche transportcourant | p4 | MMKB19:003646123:mpeg21:a00035 | Nederlandse schepen in het buitenland | Koninklijke Bibliotheek
+1948/10/20 | De Noord-Ooster | p | MMVEEN01:000084598:mpeg21:a0035 | NIEUWS UIT EIGEN KRING WILDERVANK, 20 Oct. UIT HET POLITIERAPPORT. | Veenkoloniaal Museum
+1948/06/22 | De Maasbode | p3 | MMKB15:000554145:mpeg21:a00036 | BEURS VAN AMSTERDAM | Koninklijke Bibliotheek
+1948/08/13 | Nieuw Israelietisch weekblad | p3 | ddd:010872055:mpeg21:a0005 | Op weg naar overwinning | Universiteitsbibliotheek Amsterdam ROS V
+1948/12/28 | De Nederlandsche transportcourant | p3 | MMKB19:003646302:mpeg21:a00021 | SCHEEPVAARTBEWEGIN G BINNENLANDSE HAVENS | Koninklijke Bibliotheek
+1948/04/12 | De Maasbode | p5 | MMKB15:000554086:mpeg21:a00049 | Tot voortzetting besloten | Koninklijke Bibliotheek
+1948/02/03 | Algemeen Dagblad | p4 | MMSARO03:259004028:mpeg21:a00069 | Uit de BOEKWINKEL | Stadsarchief Rotterdam
+1948/04/08 | De Maasbode | p3 | MMKB15:000554083:mpeg21:a00031 | Vordering van $-shares niet te vermijden | Koninklijke Bibliotheek
+1948/05/07 | De Maasbode | p5 | MMKB15:000554107:mpeg21:a00045 | Financiën | Koninklijke Bibliotheek
+1948/02/04 | De Maasbode | p3 | MMKB15:000554029:mpeg21:a00024 | Beurs van Amsterdam | Koninklijke Bibliotheek
+1948/04/05 | Het Binnenhof | p2 | MMKB19:000368080:mpeg21:a00007 | De zaak-Weinreb opnieuw aan de orde | Koninklijke Bibliotheek
+1948/11/06 | Nieuwsblad van het Noorden | p3 | ddd:010884735:mpeg21:a0059 | Advertentie | Groninger archieven 649-1311
+1948/10/04 | De Nederlandsche transportcourant | p2 | MMKB19:003646231:mpeg21:a00019 | SCHEEPSTIJDINGEN | Koninklijke Bibliotheek
+1948/09/23 | Amigoe di Curacao | p | KBDDD02:000209344:mpeg21:a0005 | Koningin Wilhelmina en haar Marine | Koninklijke Bibliotheek
+1948/04/28 | Amigoe di Curacao | p | KBDDD02:000210403:mpeg21:a0001 | De houding van Abdullah van Transjordanie niet duidelijk Moeilijkheden tussen Italië en Jo | Koninklijke Bibliotheek
+1948/07/02 | Emmer courant | p1 | MMGEM01:163333001:mpeg21:a00001 | Wereldproblemen in vogelvlucht Westelijke mogendheden wijken niet Voor Russische druk Russ | Gemeente Emmen
+1948/10/02 | Het vrĳe volk : democratisch-socialistisch dagblad | p2 | ddd:010950135:mpeg21:a0082 | Scheepvaartberichten | Gemeentearchief Rotterdam
+1948/06/26 | De Graafschapper | p2 | MMECAL02:179991171:mpeg21:a00015 | GEWESTELIJK NIEUWS | Erfgoedcentrum Achterhoek en Liemers
+
+QUERY: "straat malakka" AND "S.O.S." AND date within "1947-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "alle officieren" AND dood AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "ik sterf" AND date within "1948-01-01 1948-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+

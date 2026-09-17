@@ -1,0 +1,98 @@
+/* Design plan — Kholat Syakhl case-file dossier
+   Palette: snow #F3F6F8 (ground) · ink #161C24 · sheet #E7ECF0 (case-file paper, cool) · violet ink #4F3D8F (Soviet stamp/ink accent)
+            · stamp red #A8342A (contradicts / critical) · moss #3E7A5C (explains) · slate #5F6B78 (neutral, labels)
+   Type: PT Serif (body + headings, the Russian public typeface) · PT Sans Narrow (uppercase labels) · PT Mono (case-file sheets, data)
+   Layout: single-column dossier ~68ch; full-width evidence matrix; case-file quotes set as numbered sheets with the "л.д." number in the margin. */
+:root{
+  --snow:#F3F6F8; --sheet:#E7ECF0; --sheet-2:#DCE3E9; --ink:#161C24; --ink-2:#3A4450; --slate:#5F6B78; --rule:#C9D2DA;
+  --violet:#4F3D8F; --violet-soft:#E6E1F4; --red:#A8342A; --red-soft:#F4E1DE; --moss:#3E7A5C; --moss-soft:#DDEBE3; --amber:#9A6B12; --amber-soft:#F3E9D2;
+  --link:#4F3D8F; --focus:#4F3D8F;
+  --f-body:"PT Serif",Georgia,"Times New Roman",serif; --f-label:"PT Sans Narrow","Arial Narrow",Arial,sans-serif; --f-mono:"PT Mono","Courier New",monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --snow:#14181D; --sheet:#1D232A; --sheet-2:#262E37; --ink:#E6EBF0; --ink-2:#C2CAD3; --slate:#98A4B1; --rule:#343D47;
+  --violet:#B3A5E6; --violet-soft:#2A2540; --red:#E0796D; --red-soft:#3A221F; --moss:#7FBF9B; --moss-soft:#1E332A; --amber:#D9A94A; --amber-soft:#3A2F17;
+  --link:#B3A5E6; --focus:#B3A5E6; }}
+:root[data-theme="dark"]{
+  --snow:#14181D; --sheet:#1D232A; --sheet-2:#262E37; --ink:#E6EBF0; --ink-2:#C2CAD3; --slate:#98A4B1; --rule:#343D47;
+  --violet:#B3A5E6; --violet-soft:#2A2540; --red:#E0796D; --red-soft:#3A221F; --moss:#7FBF9B; --moss-soft:#1E332A; --amber:#D9A94A; --amber-soft:#3A2F17;
+  --link:#B3A5E6; --focus:#B3A5E6; }
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--snow);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.55;padding-inline:clamp(16px,4vw,40px);padding-block:0 96px}
+a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:2px}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.wrap{max-width:1100px;margin:0 auto}
+.prose{max-width:68ch}
+h1,h2,h3,h4{font-family:var(--f-body);font-weight:700;line-height:1.15;text-wrap:balance;margin:0}
+h1{font-size:clamp(30px,4.6vw,46px);letter-spacing:-0.01em}
+h2{font-size:clamp(23px,3vw,30px);margin-top:64px;padding-top:20px;border-top:2px solid var(--ink)}
+h3{font-size:20px;margin-top:36px}
+h4{font-size:17px;margin-top:24px}
+p{margin:14px 0}
+.lbl{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.08em;font-size:13.5px;color:var(--slate);font-weight:400}
+.lede{font-size:20px;line-height:1.45;color:var(--ink-2)}
+.masthead{padding-block:40px 24px;border-bottom:1px solid var(--rule);display:grid;gap:14px}
+.masthead .meta{display:flex;flex-wrap:wrap;gap:8px 22px}
+/* verdict block — a resolution, not a hero */
+.verdict{margin-top:36px;border:1.5px solid var(--ink);padding:22px 26px;display:grid;gap:12px;background:var(--sheet)}
+.verdict .row{display:grid;grid-template-columns:auto 1fr;gap:6px 18px;align-items:baseline}
+.verdict .big{font-size:clamp(22px,3vw,28px);font-weight:700;line-height:1.2}
+.conf{display:inline-block;font-family:var(--f-mono);font-size:15px;padding:2px 8px;border:1px solid var(--violet);color:var(--violet);border-radius:2px}
+.stamp{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.12em;color:var(--violet);border:2px solid var(--violet);padding:4px 10px;display:inline-block;transform:rotate(-2deg);font-size:14px}
+/* case-file sheets */
+.sheet{position:relative;background:var(--sheet);border-left:3px solid var(--violet);padding:14px 18px 14px 18px;margin:20px 0;font-size:15.5px}
+.sheet .ld{font-family:var(--f-mono);font-size:12.5px;color:var(--violet);letter-spacing:.02em;margin-bottom:6px}
+.sheet .ru{font-family:var(--f-mono);font-size:14.5px;line-height:1.5;color:var(--ink);white-space:pre-wrap}
+.sheet .en{margin-top:8px;color:var(--ink-2)}
+.sheet .src{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.06em;font-size:12.5px;color:var(--slate);margin-top:8px}
+/* fact lists */
+ol.facts{padding-left:0;list-style:none;counter-reset:f;display:grid;gap:10px;margin:18px 0}
+ol.facts li{display:grid;grid-template-columns:52px 1fr;gap:12px;padding:8px 0;border-bottom:1px solid var(--rule)}
+ol.facts li::before{counter-increment:f;content:"F" counter(f);font-family:var(--f-mono);color:var(--violet);font-size:14px;padding-top:2px}
+ol.facts .cite{display:block;font-family:var(--f-label);text-transform:uppercase;letter-spacing:.05em;font-size:12.5px;color:var(--slate);margin-top:4px}
+/* tables */
+.tablewrap{overflow-x:auto;margin:20px 0;border:1px solid var(--rule)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;font-variant-numeric:tabular-nums}
+th,td{padding:8px 10px;border-bottom:1px solid var(--rule);vertical-align:top;text-align:left}
+th{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.06em;font-size:12.5px;color:var(--slate);font-weight:400;background:var(--sheet);position:sticky;top:0}
+td.num{text-align:right;font-family:var(--f-mono);font-size:13.5px}
+.matrix td{font-size:13.5px;padding:6px 8px}
+.matrix td.fact{min-width:260px;font-family:var(--f-body);font-size:14px}
+.cell{display:inline-block;min-width:26px;text-align:center;font-family:var(--f-mono);font-size:12.5px;padding:1px 6px;border-radius:2px}
+.ex{background:var(--moss-soft);color:var(--moss)} .ne{background:var(--sheet-2);color:var(--slate)} .co{background:var(--red-soft);color:var(--red)} .pa{background:var(--amber-soft);color:var(--amber)}
+.legend{display:flex;flex-wrap:wrap;gap:10px 18px;font-size:14px;color:var(--slate);margin:8px 0 0}
+/* timeline */
+.tl{list-style:none;padding:0;margin:20px 0;border-left:2px solid var(--rule)}
+.tl li{position:relative;padding:6px 0 18px 24px;display:grid;grid-template-columns:110px 1fr;gap:6px 16px}
+.tl li::before{content:"";position:absolute;left:-6px;top:14px;width:10px;height:10px;border-radius:50%;background:var(--violet)}
+.tl .t{font-family:var(--f-mono);font-size:14px;color:var(--violet);white-space:nowrap}
+.tl .c{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.05em;font-size:12px;color:var(--slate);grid-column:2}
+/* figures */
+figure{margin:24px 0}
+figure img{max-width:100%;height:auto;display:block;border:1px solid var(--rule);background:#fff}
+figcaption{font-size:14px;color:var(--slate);margin-top:8px;max-width:68ch}
+/* misc */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px 32px}
+@media (max-width:760px){.two{grid-template-columns:1fr}.tl li{grid-template-columns:1fr}.tl .t{margin-bottom:-2px}.verdict .row{grid-template-columns:1fr}}
+.callout{border:1px solid var(--rule);padding:14px 18px;background:var(--sheet);margin:18px 0}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;font-size:15px}
+.kv dt{font-family:var(--f-label);text-transform:uppercase;letter-spacing:.06em;font-size:12.5px;color:var(--slate);padding-top:3px}
+.kv dd{margin:0}
+details{border:1px solid var(--rule);padding:10px 16px;margin:14px 0;background:var(--sheet)}
+summary{cursor:pointer;font-family:var(--f-label);text-transform:uppercase;letter-spacing:.06em;font-size:13.5px;color:var(--violet)}
+.toc{columns:2;column-gap:32px;font-size:15px;list-style:none;padding:0;margin:12px 0}
+.toc li{break-inside:avoid;padding:3px 0}
+@media (max-width:640px){.toc{columns:1}}
+small,.small{font-size:14px;color:var(--slate)}
+.refs{font-size:14.5px;line-height:1.45}
+.refs li{margin:6px 0}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+/* masthead meta blocks and the first heading after the masthead */
+.masthead .meta > span{flex:1 1 260px;font-size:15px;line-height:1.45;color:var(--ink-2)}
+.masthead .meta .lbl{display:block;margin-bottom:3px}
+.masthead + h2, .masthead + .verdict{margin-top:32px}
+.verdict h2{border-top:0;margin-top:0;padding-top:0;font-size:clamp(20px,2.6vw,26px)}
+.rtab td:first-child{font-family:var(--f-body);font-size:14.5px;min-width:220px}
+.opening{margin-top:28px}
+.opening h2{margin-top:22px}

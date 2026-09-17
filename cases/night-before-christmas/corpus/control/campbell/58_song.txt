@@ -1,0 +1,23 @@
+title: Song
+author: Thomas Campbell
+date: c. 1799-1840
+source: https://www.gutenberg.org/ebooks/59788 (The Poetical Works of Thomas Campbell, reprinted from the early editions, London: Griffith Farran, n.d. [c. 1890])
+form: ballad
+lines: 12
+attribution: certain
+notes: 
+
+Drink ye to her that each loves best.
+And if you nurse a flame
+That’s told but to her mutual breast,
+We will not ask her name.
+
+Enough, while memory tranced and glad
+Paints silently the fair,
+That each should dream of joys he’s had,
+Or yet may hope to share.
+
+Yet far, far hence be jest or boast
+From hallowed thoughts so dear;
+But drink to them that we love most,
+As they would love to hear.

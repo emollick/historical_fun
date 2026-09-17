@@ -1,0 +1,896 @@
+id,source,volume,kind,date,year,period,recipient,heading,word_count,elisions,flags
+hay-0001,letters_1908,1,letter,1860,1860,pre_war,"Misses Julia, Annie And Mary R—","TO MISSES JULIA, ANNIE AND MARY R-",0,0,
+hay-0002,letters_1908,1,letter,1860,1860,pre_war,The Misses R—,TO THE MISSES R-,98,0,
+hay-0003,letters_1908,1,letter,1860,1860,pre_war,Miss Mary R—,HAY TO MISS MARY R-,73,0,
+hay-0004,letters_1908,1,letter,1860,1860,pre_war,Miss Mary E,HAY TO MISS MAEY E .,144,0,
+hay-0005,letters_1908,1,letter,1860,1860,pre_war,Miss Mary R,HAY TO MISS MARY R .,224,0,
+hay-0006,letters_1908,1,letter,1860,1860,pre_war,Miss Mary R,HAY TO MISS MARY R .,120,0,
+hay-0007,letters_1908,1,letter,1861-03-19,1861,civil_war,Mrs. R—,HAY TO MRS. R-,147,0,
+hay-0008,letters_1908,1,letter,1861,1861,civil_war,Miss Mary R—,HAY TO MISS MARY R-,231,0,
+hay-0009,letters_1908,1,diary,1861-04-18,1861,civil_war,,DIARY,480,0,
+hay-0010,letters_1908,1,diary,1861-04-19,1861,civil_war,,DIARY,568,2,
+hay-0011,letters_1908,1,diary,1861-04-20,1861,civil_war,,DIARY,457,0,
+hay-0012,letters_1908,1,diary,1861-04-21,1861,civil_war,,DIARY,370,0,
+hay-0013,letters_1908,1,diary,1861-04-22,1861,civil_war,,DIARY,587,0,
+hay-0014,letters_1908,1,diary,1861-04-23,1861,civil_war,,DIARY,435,2,
+hay-0015,letters_1908,1,diary,1861-04-24,1861,civil_war,,DIARY,112,0,
+hay-0016,letters_1908,1,diary,1861-04-25,1861,civil_war,,DIARY,252,0,
+hay-0017,letters_1908,1,diary,1861-04-26,1861,civil_war,,DIARY,167,0,
+hay-0018,letters_1908,1,diary,1861-04-28,1861,civil_war,,DIARY,38,0,
+hay-0019,letters_1908,1,diary,1861-04-29,1861,civil_war,,DIARY,242,2,
+hay-0020,letters_1908,1,diary,1861-04-30,1861,civil_war,,DIARY,219,0,
+hay-0021,letters_1908,1,diary,1861-05-01,1861,civil_war,,DIARY,207,0,
+hay-0022,letters_1908,1,diary,1861-05-04,1861,civil_war,,DIARY,132,0,
+hay-0023,letters_1908,1,diary,1861-05-05,1861,civil_war,,DIARY,3,0,
+hay-0024,letters_1908,1,diary,1861-05-07,1861,civil_war,,DIARY,341,0,
+hay-0025,letters_1908,1,diary,1861-05-09,1861,civil_war,,DIARY,99,0,
+hay-0026,letters_1908,1,diary,1861-05-10,1861,civil_war,,DIARY,205,0,
+hay-0027,letters_1908,1,diary,1861-05-11,1861,civil_war,,DIARY,92,0,
+hay-0028,letters_1908,1,letter,1861-08-19,1861,civil_war,James A. Hamilton,HAY TO JAMES A. HAMILTON.,207,0,
+hay-0029,letters_1908,1,letter,1861-08-21,1861,civil_war,Mrs. E—,HAY TO MRS. E-,525,0,
+hay-0030,letters_1908,1,letter,1861-08-21,1861,civil_war,Nicolay,HAY TO NICOLAY.,50,0,
+hay-0031,letters_1908,1,letter,1861-08-24,1861,civil_war,Nicolay,HAY TO NICOLAY.,201,0,
+hay-0032,letters_1908,1,diary,1861-08-22,1861,civil_war,,DIARY,99,2,
+hay-0033,letters_1908,1,diary,1861-08-28,1861,civil_war,,DIARY,34,2,
+hay-0034,letters_1908,1,diary,1861-10-10,1861,civil_war,,DIARY,381,0,
+hay-0035,letters_1908,1,diary,1861-10-12,1861,civil_war,,DIARY,363,2,
+hay-0036,letters_1908,1,diary,1861-10-17,1861,civil_war,,DIARY,381,0,
+hay-0037,letters_1908,1,diary,1861-10-22,1861,civil_war,,DIARY,336,0,
+hay-0038,letters_1908,1,diary,1861-10-26,1861,civil_war,,DIARY,328,0,
+hay-0039,letters_1908,1,diary,1861-10-27,1861,civil_war,,DIARY,342,0,
+hay-0040,letters_1908,1,diary,1861-11-08,1861,civil_war,,DIARY,100,0,
+hay-0041,letters_1908,1,diary,1861-11-11,1861,civil_war,,DIARY,79,0,
+hay-0042,letters_1908,1,diary,1861-11-13,1861,civil_war,,DIARY,830,0,
+hay-0043,letters_1908,1,letter,1862-03-31,1862,civil_war,Nicolay,HAY TO NICOLAY.,37,0,
+hay-0044,letters_1908,1,letter,1862,1862,civil_war,Nicolay,HAY TO NICOLAY.,40,0,
+hay-0045,letters_1908,1,letter,1862-04-04,1862,civil_war,Nicolay,HAY TO NICOLAY.,47,0,
+hay-0046,letters_1908,1,letter,1862-04-09,1862,civil_war,Nicolay,HAY TO NICOLAY.,191,0,
+hay-0047,letters_1908,1,letter,1862-08-01,1862,civil_war,Nicolay,HAY TO NICOLAY.,93,0,
+hay-0048,letters_1908,1,letter,1862-08-11,1862,civil_war,Nicolay,HAY TO NICOLAY.,1939,2,
+hay-0049,letters_1908,1,letter,1862-08-27,1862,civil_war,Nicolay,HAY TO NICOLAY.,298,0,
+hay-0050,letters_1908,1,letter,1863-01-22,1863,civil_war,Miss Mary R,HAY TO MISS MARY R .,362,0,
+hay-0051,letters_1908,1,letter,1863-04-08,1863,civil_war,Nicolay,HAY TO NICOLAY.,501,0,
+hay-0052,letters_1908,1,letter,1863-04-10,1863,civil_war,Nicolay,HAY TO NICOLAY.,110,0,
+hay-0053,letters_1908,1,letter,1863-04-10,1863,civil_war,President Lincoln,HAY TO PRESIDENT LINCOLN.,702,0,
+hay-0054,letters_1908,1,letter,1863-04-14,1863,civil_war,Nicolay,HAY TO NICOLAY.,414,0,
+hay-0055,letters_1908,1,letter,1863-04-16,1863,civil_war,Nicolay,HAY TO NICOLAY.,301,0,
+hay-0056,letters_1908,1,letter,1863-04-23,1863,civil_war,Nicolay,HAY TO NICOLAY.,1326,2,
+hay-0057,letters_1908,1,letter,1863-08-07,1863,civil_war,Nicolay,HAY TO NICOLAY.,299,0,
+hay-0058,letters_1908,1,diary,1863-08-09,1863,civil_war,,DIARY,182,0,
+hay-0059,letters_1908,1,diary,1863-08-13,1863,civil_war,,DIARY,199,0,
+hay-0060,letters_1908,1,diary,1863-08-19,1863,civil_war,,DIARY,349,0,
+hay-0061,letters_1908,1,diary,1863-09-09,1863,civil_war,,DIARY,944,2,
+hay-0062,letters_1908,1,diary,1863-09-10,1863,civil_war,,DIARY,254,0,
+hay-0063,letters_1908,1,letter,1863-09-11,1863,civil_war,Nicolay,HAY TO NICOLAY.,515,0,
+hay-0064,letters_1908,1,diary,1863,1863,civil_war,,DIARY,1035,4,
+hay-0065,letters_1908,1,diary,1863-10-18,1863,civil_war,,DIARY,511,0,
+hay-0066,letters_1908,1,diary,1863-10-19,1863,civil_war,,DIARY,55,0,
+hay-0067,letters_1908,1,diary,1863-10-21,1863,civil_war,,DIARY,68,0,
+hay-0068,letters_1908,1,diary,1863-10-22,1863,civil_war,,DIARY,234,0,
+hay-0069,letters_1908,1,diary,1863-10-24,1863,civil_war,,DIARY,70,0,
+hay-0070,letters_1908,1,diary,1863-10-28,1863,civil_war,,DIARY,82,0,
+hay-0071,letters_1908,1,diary,1863-10-29,1863,civil_war,,DIARY,195,0,
+hay-0072,letters_1908,1,diary,1863-10-30,1863,civil_war,,DIARY,442,4,
+hay-0073,letters_1908,1,diary,1863-11-01,1863,civil_war,,DIARY,375,0,
+hay-0074,letters_1908,1,diary,1863-11-02,1863,civil_war,,DIARY,491,0,
+hay-0075,letters_1908,1,diary,1863-11-12,1863,civil_war,,DIARY,76,2,
+hay-0076,letters_1908,1,diary,1863-11-18,1863,civil_war,,DIARY,1148,2,
+hay-0077,letters_1908,1,diary,1863-11-22,1863,civil_war,,DIARY,510,2,
+hay-0078,letters_1908,1,diary,1863-11-24,1863,civil_war,,DIARY,63,0,
+hay-0079,letters_1908,1,letter,1863-11-25,1863,civil_war,Nicolay,HAY TO NICOLAY.,128,0,
+hay-0080,letters_1908,1,letter,1863-11-26,1863,civil_war,Nicolay,HAY TO NICOLAY.,75,0,
+hay-0081,letters_1908,1,diary,1863-11-27,1863,civil_war,,DIARY,33,0,
+hay-0082,letters_1908,1,diary,1863-11-28,1863,civil_war,,DIARY,412,0,
+hay-0083,letters_1908,1,diary,1863-12-09,1863,civil_war,,DIARY,647,4,
+hay-0084,letters_1908,1,diary,1863-12-10,1863,civil_war,,DIARY,670,0,
+hay-0085,letters_1908,1,diary,1863-12-12,1863,civil_war,,DIARY,135,0,
+hay-0086,letters_1908,1,diary,1863-12-13,1863,civil_war,,DIARY,403,0,
+hay-0087,letters_1908,1,diary,1863-12-15,1863,civil_war,,DIARY,90,0,
+hay-0088,letters_1908,1,diary,1863-12-17,1863,civil_war,,DIARY,80,0,
+hay-0089,letters_1908,1,diary,1863-12-23,1863,civil_war,,DIARY,271,0,
+hay-0090,letters_1908,1,diary,1863-12-24,1863,civil_war,,DIARY,273,0,
+hay-0091,letters_1908,1,diary,1863-12-25,1863,civil_war,,DIARY,232,2,
+hay-0092,letters_1908,1,diary,1863-12-28,1863,civil_war,,DIARY,108,0,
+hay-0093,letters_1908,1,diary,1864-01-01,1864,civil_war,,DIARY,1418,0,
+hay-0094,letters_1908,1,diary,1864-01-08,1864,civil_war,,DIARY,165,0,
+hay-0095,letters_1908,1,diary,1864-01-09,1864,civil_war,,DIARY,232,0,
+hay-0096,letters_1908,1,diary,1864-01-13,1864,civil_war,,DIARY,226,0,
+hay-0097,letters_1908,1,diary,1864-01-20,1864,civil_war,,DIARY,207,0,
+hay-0098,letters_1908,1,diary,1864-01-23,1864,civil_war,,DIARY,170,0,
+hay-0099,letters_1908,1,diary,1864-01-27,1864,civil_war,,DIARY,32,0,
+hay-0100,letters_1908,1,diary,1864-02-01,1864,civil_war,,DIARY,361,0,
+hay-0101,letters_1908,1,diary,1864-02-02,1864,civil_war,,DIARY,434,0,
+hay-0102,letters_1908,1,diary,1864-02-09,1864,civil_war,,DIARY,194,0,
+hay-0103,letters_1908,1,diary,1864-02-10,1864,civil_war,,DIARY,126,0,
+hay-0104,letters_1908,1,diary,1864-02-11,1864,civil_war,,DIARY,487,0,
+hay-0105,letters_1908,1,diary,1864-02-12,1864,civil_war,,DIARY,266,0,
+hay-0106,letters_1908,1,diary,1864-02-21,1864,civil_war,,DIARY,198,0,
+hay-0107,letters_1908,1,diary,1864-02-22,1864,civil_war,,DIARY,329,2,
+hay-0108,letters_1908,1,diary,1864-02-24,1864,civil_war,,DIARY,28,0,
+hay-0109,letters_1908,1,diary,1864-02-28,1864,civil_war,,DIARY,50,0,
+hay-0110,letters_1908,1,diary,1864-02-29,1864,civil_war,,DIARY,25,0,
+hay-0111,letters_1908,1,diary,1864-03-01,1864,civil_war,,DIARY,47,0,
+hay-0112,letters_1908,1,diary,1864-03-02,1864,civil_war,,DIARY,23,0,
+hay-0113,letters_1908,1,diary,1864-03-03,1864,civil_war,,DIARY,146,0,
+hay-0114,letters_1908,1,diary,1864-03-05,1864,civil_war,,DIARY,103,0,
+hay-0115,letters_1908,1,diary,1864-03-06,1864,civil_war,,DIARY,692,0,
+hay-0116,letters_1908,1,diary,1864-03-07,1864,civil_war,,DIARY,423,0,
+hay-0117,letters_1908,1,diary,1864-03-08,1864,civil_war,,DIARY,41,0,
+hay-0118,letters_1908,1,diary,1864-03-09,1864,civil_war,,DIARY,195,0,
+hay-0119,letters_1908,1,diary,1864-03-11,1864,civil_war,,DIARY,28,0,
+hay-0120,letters_1908,1,diary,1864-03-12,1864,civil_war,,DIARY,23,0,
+hay-0121,letters_1908,1,diary,1864-03-19,1864,civil_war,,DIARY,188,0,
+hay-0122,letters_1908,1,diary,1864-03-24,1864,civil_war,,DIARY,218,0,
+hay-0123,letters_1908,1,diary,1864-04-24,1864,civil_war,,DIARY,174,0,
+hay-0124,letters_1908,1,letter,1864-04-13,1864,civil_war,C. G. Halpine,HAY TO C. G. H ALPINE.,2131,2,
+hay-0125,letters_1908,1,letter,1864-05-08,1864,civil_war,Charles Edward Hay,HAY TO CHARLES EDWARD HAY.,1096,0,
+hay-0126,letters_1908,1,letter,1864-06-20,1864,civil_war,Nicolay,HAY TO NICOLAY.,224,2,
+hay-0127,letters_1908,1,diary,1864,1864,civil_war,,DIARY,1944,0,embedded_lincoln_removed
+hay-0128,letters_1908,1,diary,1864-06-21,1864,civil_war,,DIARY,19,0,
+hay-0129,letters_1908,1,diary,1864-06-23,1864,civil_war,,DIARY,232,0,
+hay-0130,letters_1908,1,diary,1864-06-24,1864,civil_war,,DIARY,469,0,
+hay-0131,letters_1908,1,diary,1864-07,1864,civil_war,,DIARY,1401,2,
+hay-0132,letters_1908,1,letter,1864-08-25,1864,civil_war,Nicolay,HAY TO NTCOLAY.,448,0,
+hay-0133,letters_1908,1,diary,1864-09-23,1864,civil_war,,DIARY,127,0,
+hay-0134,letters_1908,1,diary,1864-09-24,1864,civil_war,,DIARY,136,0,
+hay-0135,letters_1908,1,letter,1864-09-24,1864,civil_war,Nicolay,HAY TO NICOLAY.,221,0,
+hay-0136,letters_1908,1,diary,1864-09-25,1864,civil_war,,DIARY,962,0,
+hay-0137,letters_1908,1,diary,1864-09-26,1864,civil_war,,DIARY,288,2,
+hay-0138,letters_1908,1,diary,1864-09-29,1864,civil_war,,DIARY,194,2,
+hay-0139,letters_1908,1,diary,1864-10-02,1864,civil_war,,DIARY,314,2,
+hay-0140,letters_1908,1,diary,1864-10-07,1864,civil_war,,DIARY,171,0,
+hay-0141,letters_1908,1,letter,1864-10-10,1864,civil_war,Nicolay,HAY TO NICOLAY.,78,0,
+hay-0142,letters_1908,1,diary,1864-10-11,1864,civil_war,,DIARY,655,0,
+hay-0143,letters_1908,1,letter,1864-10-13,1864,civil_war,Nicolay,HAY TO NICOLA Y.,153,0,
+hay-0144,letters_1908,1,letter,1864-11-07,1864,civil_war,Nicolay,HAY TO NICOLAY.,15,0,
+hay-0145,letters_1908,1,diary,1864-11-08,1864,civil_war,,DIARY,933,0,
+hay-0146,letters_1908,1,diary,1864-11-11,1864,civil_war,,DIARY,1994,4,embedded_lincoln_removed
+hay-0147,letters_1908,1,letter,1865-03-18,1865,civil_war,Charles Edward Hay,HAY TO CHARLES EDWARD HAY.,389,0,
+hay-0148,letters_1908,1,letter,1865-09-07,1865,civil_war,Albert Rhodes,HAY TO ALBERT RHODES.,195,0,
+hay-0149,letters_1908,1,diary,1865,1865,civil_war,,DIARY,1018,0,
+hay-0150,letters_1908,1,diary,1865-09-27,1865,civil_war,,DIARY,73,0,
+hay-0151,letters_1908,1,diary,1865-09-30,1865,civil_war,,DIARY,2456,2,
+hay-0152,letters_1908,1,letter,1866-10-19,1866,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,166,0,
+hay-0153,letters_1908,1,letter,1866-12,1866,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,175,0,
+hay-0154,letters_1908,1,letter,1867-02-14,1867,post_war,Nicolay,HAY TO NICOLAY.,494,0,
+hay-0155,letters_1908,1,letter,1867-03-18,1867,post_war,Nicolay,HAY TO NICOLAY.,521,2,
+hay-0156,letters_1908,1,diary,1867,1867,post_war,,DIARY,2,0,
+hay-0157,letters_1908,1,diary,1867-06-03,1867,post_war,,DIARY,1006,0,
+hay-0158,letters_1908,1,diary,1867-06-11,1867,post_war,,DIARY,650,0,
+hay-0159,letters_1908,1,diary,1867-06-06,1867,post_war,,DIARY,91,0,
+hay-0160,letters_1908,1,letter,1867-06-12,1867,post_war,Miss Elizabeth Hay,HAY TO MISS ELIZABETH HAY.,5610,2,
+hay-0161,letters_1908,1,letter,1867-09-02,1867,post_war,Nicolay,HAY TO NICOLAY.,374,0,
+hay-0162,letters_1908,1,diary,1867,1867,post_war,,DIARY,1682,0,
+hay-0163,letters_1908,1,diary,1867-09-09,1867,post_war,,DIARY,1213,0,
+hay-0164,letters_1908,1,diary,1867-09-10,1867,post_war,,DIARY,274,0,
+hay-0165,letters_1908,1,diary,1867-09-11,1867,post_war,,DIARY,204,0,
+hay-0166,letters_1908,1,diary,1867-09-12,1867,post_war,,DIARY,46,0,
+hay-0167,letters_1908,1,diary,1867-09-13,1867,post_war,,DIARY,46,0,
+hay-0168,letters_1908,1,diary,1867-09-14,1867,post_war,,DIARY,166,0,
+hay-0169,letters_1908,1,diary,1867-09-15,1867,post_war,,DIARY,231,0,
+hay-0170,letters_1908,1,diary,1867-09-18,1867,post_war,,DIARY,392,0,
+hay-0171,letters_1908,1,diary,1867-09-20,1867,post_war,,DIARY,46,0,
+hay-0172,letters_1908,1,letter,1867,1867,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,303,0,
+hay-0173,letters_1908,1,letter,1867-10-19,1867,post_war,Nicolay,HAY TO NICOLAY.,222,0,
+hay-0174,letters_1908,1,letter,1867-11-24,1867,post_war,Nicolay,HAY TO NICOLAY.,533,0,
+hay-0175,letters_1908,1,diary,1867,1867,post_war,,DIARY,117,0,
+hay-0176,letters_1908,1,diary,1867-12-26,1867,post_war,,DIARY,163,2,
+hay-0177,letters_1908,1,diary,1867-12-30,1867,post_war,,DIARY,202,0,
+hay-0178,letters_1908,1,diary,1867-12-31,1867,post_war,,DIARY,44,0,
+hay-0179,letters_1908,1,diary,1868-01-05,1868,post_war,,DIARY,83,0,
+hay-0180,letters_1908,1,letter,1868-01-06,1868,post_war,David Gray,JOHN HAY TO DAVID GRAY.,151,0,
+hay-0181,letters_1908,1,diary,1868-01-18,1868,post_war,,DIARY,114,0,
+hay-0182,letters_1908,1,letter,1868,1868,post_war,Secretary Of State,COPY OF LETTER TO SECRETARY OF STATE.,4004,2,
+hay-0183,letters_1908,1,letter,1868-06-30,1868,post_war,Nicolay,HAY TO NICOLAY.,426,0,
+hay-0184,letters_1908,1,letter,1868-08-16,1868,post_war,Nicolay,HAY TO NICOLAY.,234,0,
+hay-0185,letters_1908,1,letter,1868-10-14,1868,post_war,Nicolay,HAY TO NICOLAY.,297,0,
+hay-0186,letters_1908,1,diary,1868,1868,post_war,,DIARY,67,0,
+hay-0187,letters_1908,1,diary,1869-01-28,1869,post_war,,DIARY,94,0,
+hay-0188,letters_1908,1,letter,1869-02-11,1869,post_war,E. C. Stedman,HAY TO E. C. STEDMAN.,303,0,
+hay-0189,letters_1908,1,letter,1869-07-10,1869,post_war,E. C. Stedman,HAY TO E. C. STEDMAN.,191,0,
+hay-0190,letters_1908,1,diary,1869,1869,post_war,,DIARY,291,0,
+hay-0191,letters_1908,1,diary,1869-10-02,1869,post_war,,DIARY,368,0,
+hay-0192,letters_1908,1,diary,1869-10-03,1869,post_war,,DIARY,267,0,
+hay-0193,letters_1908,1,diary,1869-10-06,1869,post_war,,DIARY,933,0,
+hay-0194,letters_1908,1,letter,1869,1869,post_war,Nicolay,HAY TO NICOLAY.,557,0,
+hay-0195,letters_1908,1,letter,1870-12-18,1870,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,104,0,
+hay-0196,letters_1908,1,letter,1870,1870,post_war,Nicolay,HAY TO NICOLA Y.,171,0,
+hay-0197,letters_1908,1,letter,1870,1870,post_war,Major General Sickles,HAY TO MAJOR GENERAL SICKLES.,115,0,
+hay-0198,letters_1908,1,letter,1870-06-30,1870,post_war,Miss Harriet K. Loring,HAY TO MISS HARRIET K. LORING.,577,0,
+hay-0199,letters_1908,2,letter,1870-10-13,1870,post_war,Nicolay,HAY TO NICOLAY.,286,0,
+hay-0200,letters_1908,2,letter,1870-12-18,1870,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,313,0,
+hay-0201,letters_1908,2,letter,1870-12-12,1870,post_war,Nicolay,HAY TO NICOLAY.,322,0,
+hay-0202,letters_1908,2,letter,1870-12-29,1870,post_war,Howells,HAY TO HOWELLS.,231,0,
+hay-0203,letters_1908,2,letter,1871-03-18,1871,post_war,Nicolay,HAY TO NICOLAY.,249,0,
+hay-0204,letters_1908,2,letter,1871-06-19,1871,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,100,0,
+hay-0205,letters_1908,2,letter,1871-10-05,1871,post_war,E. H. Stoddard,HAY TO E. H. STODDARD.,285,0,
+hay-0206,letters_1908,2,letter,1871-12-25,1871,post_war,Howells,HAY TO HOWELLS.,93,0,
+hay-0207,letters_1908,2,letter,1872-02-11,1872,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,30,0,
+hay-0208,letters_1908,2,letter,1872-02-16,1872,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,437,2,
+hay-0209,letters_1908,2,letter,1873-05,1873,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,464,0,
+hay-0210,letters_1908,2,letter,1873,1873,post_war,E. M. Stanton,HAY TO E. M. STANTON.,103,0,
+hay-0211,letters_1908,2,letter,1874-05-15,1874,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,79,2,
+hay-0212,letters_1908,2,letter,1875-01-28,1875,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,287,0,
+hay-0213,letters_1908,2,letter,1875-07-09,1875,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,136,0,
+hay-0214,letters_1908,2,letter,1875-07-19,1875,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,241,0,
+hay-0215,letters_1908,2,letter,1876-06-23,1876,post_war,Nicolay,HAY TO NICOLAY.,146,0,
+hay-0216,letters_1908,2,letter,1876-11-13,1876,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,290,0,
+hay-0217,letters_1908,2,letter,1877-02-20,1877,post_war,Howells,HAY TO HOWELLS.,317,0,
+hay-0218,letters_1908,2,letter,1877-08-09,1877,post_war,Nicolay,HAY TO NICOLAY.,150,0,
+hay-0219,letters_1908,2,letter,1877-11-26,1877,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,171,0,
+hay-0220,letters_1908,2,letter,1878-02-14,1878,post_war,Robert Lincoln,HAY TO EGBERT LINCOLN.,298,0,
+hay-0221,letters_1908,2,letter,1878-02-27,1878,post_war,Nicolay,HAY TO NICOLAY.,251,0,
+hay-0222,letters_1908,2,letter,1878-04-06,1878,post_war,Nicolay,HAY TO NICOLAY,82,0,
+hay-0223,letters_1908,2,letter,1878-07-05,1878,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,404,0,
+hay-0224,letters_1908,2,letter,1878-10-27,1878,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,225,0,
+hay-0225,letters_1908,2,letter,1878-10-28,1878,post_war,Howells,HAY TO HOWELLS.,674,0,
+hay-0226,letters_1908,2,letter,1879-01-11,1879,post_war,Nicolay,"HAY TO NICOLAY,",198,0,
+hay-0227,letters_1908,2,letter,1879-03-30,1879,post_war,Nicolay,HAY TO NICOLAY.,240,2,
+hay-0228,letters_1908,2,letter,1879-06-09,1879,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,98,0,
+hay-0229,letters_1908,2,letter,1879-08-20,1879,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,94,0,
+hay-0230,letters_1908,2,letter,1879-08-25,1879,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,132,0,
+hay-0231,letters_1908,2,letter,1879-10-05,1879,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,425,0,
+hay-0232,letters_1908,2,letter,1880-05-24,1880,post_war,Howells,HAY TO HOWELLS.,280,0,
+hay-0233,letters_1908,2,letter,1880,1880,post_war,Rhodes,HAY TO RHODES.,174,0,
+hay-0234,letters_1908,2,letter,1880-08-04,1880,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,271,2,
+hay-0235,letters_1908,2,letter,1880,1880,post_war,R. W. Gilder,HAY TO R. W. GILDER.,283,0,
+hay-0236,letters_1908,2,letter,1880,1880,post_war,Howells,HAY TO HOWELLS.,151,0,
+hay-0237,letters_1908,2,letter,1880-10-18,1880,post_war,General Garfield,HAY TO GENERAL GARFIELD.,255,0,
+hay-0238,letters_1908,2,letter,1880,1880,post_war,Howells,HAY TO HOWELLS.,315,0,
+hay-0239,letters_1908,2,letter,1880,1880,post_war,General Garfield,HAY TO GENERAL GARFIELD.,797,0,
+hay-0240,letters_1908,2,letter,1880-12-31,1880,post_war,General Garfield,HAY TO GENERAL GARFIELD.,690,0,
+hay-0241,letters_1908,2,letter,1881-05-07,1881,post_war,Whitelaw Heid,HAY TO WHITELAW HEID.,124,0,
+hay-0242,letters_1908,2,letter,1881-05-26,1881,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,302,0,
+hay-0243,letters_1908,2,letter,1881,1881,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,152,0,
+hay-0244,letters_1908,2,letter,1881-06-29,1881,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,173,0,
+hay-0245,letters_1908,2,letter,1881-08-13,1881,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,279,0,
+hay-0246,letters_1908,2,letter,1881,1881,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,301,0,
+hay-0247,letters_1908,2,letter,1882-02-19,1882,post_war,Albeet Rhodes,HAY TO ALBEET RHODES.,85,0,
+hay-0248,letters_1908,2,letter,1882-03-26,1882,post_war,Howells,HAY TO HOWELLS.,243,0,
+hay-0249,letters_1908,2,letter,1882-06-28,1882,post_war,Stedman,HAY TO STEDMAN.,141,0,
+hay-0250,letters_1908,2,letter,1882-09-18,1882,post_war,Howells,HAY TO HOWELLS.,306,2,
+hay-0251,letters_1908,2,letter,1882,1882,post_war,How Ells,HAY TO HOW ELLS.,490,0,
+hay-0252,letters_1908,2,letter,1883-01-06,1883,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,123,2,
+hay-0253,letters_1908,2,letter,1883-03-08,1883,post_war,Nicolay,"HAY TO NICOLAY,",444,0,
+hay-0254,letters_1908,2,letter,1883-07-27,1883,post_war,Howells,HAY TO HOWELLS.,384,2,
+hay-0255,letters_1908,2,letter,1883-08-11,1883,post_war,Henry James,HAY TO HENRY JAMES.,220,0,
+hay-0256,letters_1908,2,letter,1883-03-11,1883,post_war,Mr. A S,"HAY TO MR. A S ,",353,2,
+hay-0257,letters_1908,2,letter,1883-05-02,1883,post_war,"Mr, A—","HAY TO MR, A-",326,0,
+hay-0258,letters_1908,2,letter,1883,1883,post_war,Howells,HAY TO HOWELLS.,199,0,
+hay-0259,letters_1908,2,letter,1883-12-29,1883,post_war,R. W. Gilder,HAY TO R. W. GILDER.,58,0,
+hay-0260,letters_1908,2,letter,1884-01-27,1884,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,166,0,
+hay-0261,letters_1908,2,letter,1884-09-16,1884,post_war,Howells,HAY TO HOWELLS.,273,0,
+hay-0262,letters_1908,2,letter,1885-02-14,1885,post_war,Albert Rhodes,HAY TO ALBERT RHODES.,298,0,
+hay-0263,letters_1908,2,letter,1885-04-02,1885,post_war,Howells,HAY TO HOWELLS.,151,0,
+hay-0264,letters_1908,2,letter,1885-04-20,1885,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,135,2,
+hay-0265,letters_1908,2,letter,1885-08-10,1885,post_war,Nicolay,HAY TO NICOLAY.,674,2,
+hay-0266,letters_1908,2,letter,1885-08-13,1885,post_war,Gildee,HAY TO GILDEE.,270,0,
+hay-0267,letters_1908,2,letter,1885-11-21,1885,post_war,Gilder,HAY TO GILDER.,55,0,
+hay-0268,letters_1908,2,letter,1885,1885,post_war,Adams,HAY TO ADAMS.,256,0,
+hay-0269,letters_1908,2,letter,1885-12-11,1885,post_war,Xicolay,HAY TO XICOLAY.,218,0,
+hay-0270,letters_1908,2,letter,1886-01-06,1886,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,402,0,
+hay-0271,letters_1908,2,letter,1886-06-29,1886,post_war,Whitelaw Reid,"HAY TO WHITELAW REID,",116,0,
+hay-0272,letters_1908,2,letter,1886-09-17,1886,post_war,Gilder,HAY TO GILDER.,291,0,
+hay-0273,letters_1908,2,letter,1886-10-22,1886,post_war,Gilder,HAY TO GILDER.,108,0,
+hay-0274,letters_1908,2,letter,1886-12-10,1886,post_war,Gilder,HAY TO GILDER.,85,0,
+hay-0275,letters_1908,2,letter,1887-03-07,1887,post_war,R. W. Gilder,HAY TO R. W. GILDER.,111,0,
+hay-0276,letters_1908,2,letter,1887,1887,post_war,Dr. Weir Mitchell,HAY TO DR. WEIR MITCHELL.,192,0,
+hay-0277,letters_1908,2,letter,1887-04-25,1887,post_war,Gilder,HAY TO GILDER.,223,0,
+hay-0278,letters_1908,2,letter,1887-05-12,1887,post_war,Adams,HAY TO ADAMS.,299,4,
+hay-0279,letters_1908,2,letter,1887-05-14,1887,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,652,0,
+hay-0280,letters_1908,2,letter,1887-05-14,1887,post_war,R. W. Gilder,HAY TO R. W. GILDER.,102,0,
+hay-0281,letters_1908,2,letter,1887-05-25,1887,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,234,2,
+hay-0282,letters_1908,2,letter,1887-06-15,1887,post_war,Adams,HAY TO ADAMS.,213,0,
+hay-0283,letters_1908,2,letter,1887-06-16,1887,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,386,0,
+hay-0284,letters_1908,2,letter,1887-07-20,1887,post_war,Adams,HAY TO ADAMS.,305,0,
+hay-0285,letters_1908,2,letter,1887-08-04,1887,post_war,Nicolay,HAY TO NICOLAY.,247,0,
+hay-0286,letters_1908,2,letter,1887,1887,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,1303,6,
+hay-0287,letters_1908,2,letter,1887-08-23,1887,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,377,2,
+hay-0288,letters_1908,2,letter,1887-08-13,1887,post_war,E. C. Stedman,HAY TO E. C. STEDMAN.,123,2,
+hay-0289,letters_1908,2,letter,1887,1887,post_war,Adams,HAY TO ADAMS.,521,4,
+hay-0290,letters_1908,2,letter,1887,1887,post_war,Adams,HAY TO ADAMS.,207,0,
+hay-0291,letters_1908,2,letter,1887-09-23,1887,post_war,Adams,HAY TO ADAMS.,142,0,
+hay-0292,letters_1908,2,letter,1887-11-07,1887,post_war,Adams,HAY TO ADAMS.,158,0,
+hay-0293,letters_1908,2,letter,1887-11-14,1887,post_war,W. L. Stone,"HAY TO W. L. STONE,",422,0,
+hay-0294,letters_1908,2,letter,1887-12-08,1887,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,66,0,
+hay-0295,letters_1908,2,letter,1888-02-06,1888,post_war,Hon. W. M. Evarts,HAY TO HON. W. M. EVARTS.,141,0,
+hay-0296,letters_1908,2,letter,1888-03-05,1888,post_war,Robert Lincolx,HAY TO ROBERT LINCOLX.,188,2,
+hay-0297,letters_1908,2,letter,1888-03-14,1888,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,281,0,
+hay-0298,letters_1908,2,letter,1888-03-10,1888,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,317,0,
+hay-0299,letters_1908,2,letter,1888-04-12,1888,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,159,0,
+hay-0300,letters_1908,2,letter,1888-05-19,1888,post_war,Adams,HAY TO ADAMS.,176,0,
+hay-0301,letters_1908,2,letter,1888-05-28,1888,post_war,Adams,HAY TO ADAMS.,319,0,
+hay-0302,letters_1908,2,letter,1888-06-11,1888,post_war,Nicolay,HAY TO NICOLAY.,141,0,
+hay-0303,letters_1908,2,letter,1888-06-25,1888,post_war,Adams,HAY TO ADAMS.,218,2,
+hay-0304,letters_1908,2,letter,1888-07-14,1888,post_war,Adams,HAY TO ADAMS.,249,0,
+hay-0305,letters_1908,2,letter,1888-07-30,1888,post_war,Adams,HAY TO ADAMS.,253,0,
+hay-0306,letters_1908,2,letter,1888-08-23,1888,post_war,Adams,HAY TO ADAMS.,225,0,
+hay-0307,letters_1908,2,letter,1888-08-27,1888,post_war,Adams,HAY TO ADAMS.,92,0,
+hay-0308,letters_1908,2,letter,1888-09-20,1888,post_war,Adams,HAY TO ADAMS.,275,2,
+hay-0309,letters_1908,2,letter,1888-10-18,1888,post_war,Adams,HAY TO ADAMS.,230,0,
+hay-0310,letters_1908,2,letter,1888-10-25,1888,post_war,E. A. Abbey,HAY TO E. A. ABBEY.,205,0,
+hay-0311,letters_1908,2,letter,1889-01-11,1889,post_war,Joseph B. Bishop,HAY TO JOSEPH B. BISHOP.,240,0,
+hay-0312,letters_1908,2,letter,1889-01-21,1889,post_war,Edwin A. Abbey,HAY TO EDWIN A. ABBEY.,218,0,
+hay-0313,letters_1908,2,letter,1889-02-05,1889,post_war,Gilder,HAY TO GILDER.,27,0,
+hay-0314,letters_1908,2,letter,1889-03-27,1889,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,151,0,
+hay-0315,letters_1908,2,letter,1889-04-15,1889,post_war,Nicolay,HAY TO NICOLAY.,295,0,
+hay-0316,letters_1908,2,letter,1889-05-31,1889,post_war,Adams,HAY TO ADAMS.,475,0,
+hay-0317,letters_1908,2,letter,1889-06-11,1889,post_war,Adams,HAY TO ADAMS.,324,4,
+hay-0318,letters_1908,2,letter,1889-06-26,1889,post_war,Adams,HAY TO ADAMS.,481,2,
+hay-0319,letters_1908,2,letter,1889-08-04,1889,post_war,Adams,HAY TO ADAMS.,622,2,
+hay-0320,letters_1908,2,letter,1889-08-19,1889,post_war,Adams,HAY TO ADAMS.,273,0,
+hay-0321,letters_1908,2,letter,1889-09-21,1889,post_war,Adams,HAY TO ADAMS.,254,0,
+hay-0322,letters_1908,2,letter,1889-10-11,1889,post_war,Adams,HAY TO ADAMS.,555,2,
+hay-0323,letters_1908,2,letter,1889-10-22,1889,post_war,Adams,HAY TO ADAMS.,258,0,
+hay-0324,letters_1908,2,letter,1889-11-04,1889,post_war,Adams,HAY TO ADAMS.,63,0,
+hay-0325,letters_1908,2,letter,1889-11-30,1889,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,97,0,
+hay-0326,letters_1908,2,letter,1889-12-22,1889,post_war,Robert Lixcoln,HAY TO ROBERT LIXCOLN.,201,0,
+hay-0327,letters_1908,2,letter,1890-01-22,1890,post_war,Howells,HAY TO HOWELLS.,127,0,
+hay-0328,letters_1908,2,letter,1890-01-23,1890,post_war,Howells,HAY TO HOWELLS.,190,0,
+hay-0329,letters_1908,2,letter,1890-01-30,1890,post_war,Howells,HAY TO HOWELLS.,178,0,
+hay-0330,letters_1908,2,letter,1890-02-09,1890,post_war,Gilder,HAY TO GILDER.,29,0,
+hay-0331,letters_1908,2,letter,1890-03-18,1890,post_war,Buel,HAY TO BUEL.,45,0,
+hay-0332,letters_1908,2,letter,1890-03-20,1890,post_war,Howells,HAY TO HOWELLS.,200,0,
+hay-0333,letters_1908,2,letter,1890-04-21,1890,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,211,2,
+hay-0334,letters_1908,2,letter,1890-06-03,1890,post_war,Gilder,HAY TO GILDER.,69,0,
+hay-0335,letters_1908,2,letter,1890-06-05,1890,post_war,Gilder,HAY TO GILDER.,41,0,
+hay-0336,letters_1908,2,letter,1890-06-08,1890,post_war,Howells,HAY TO HOWELLS.,142,0,
+hay-0337,letters_1908,2,letter,1890-06-19,1890,post_war,Gilder,HAY TO GILDER.,402,0,
+hay-0338,letters_1908,2,letter,1890-07-17,1890,post_war,Adams,HAY TO ADAMS.,350,0,
+hay-0339,letters_1908,2,letter,1890-08-05,1890,post_war,Adams,HAY TO ADAMS.,159,0,
+hay-0340,letters_1908,2,letter,1890-10-09,1890,post_war,Adams,HAY TO ADAMS.,882,6,
+hay-0341,letters_1908,2,letter,1890-12-12,1890,post_war,Adams,HAY TO ADAMS.,1165,4,
+hay-0342,letters_1908,2,letter,1890-12-30,1890,post_war,Adams,HAY TO ADAMS.,915,4,
+hay-0343,letters_1908,2,letter,1891-01-10,1891,post_war,Adams,HAY TO ADAMS.,456,2,
+hay-0344,letters_1908,2,letter,1891-01-26,1891,post_war,Gilder,HAY TO GILDER.,37,0,
+hay-0345,letters_1908,2,letter,1891-03-25,1891,post_war,Adams,HAY TO ADAMS.,522,2,
+hay-0346,letters_1908,2,letter,1891-05-02,1891,post_war,Robert Lincoln,HAY TO ROBERT LINCOLN.,78,0,
+hay-0347,letters_1908,2,letter,1891-05-28,1891,post_war,Mrs. Whitelaw Reid,HAY TO MRS. WHITELAW REID.,201,0,
+hay-0348,letters_1908,2,letter,1891-06-04,1891,post_war,Adams,HAY TO ADAMS.,1987,16,
+hay-0349,letters_1908,2,letter,1891-08-20,1891,post_war,Adams,HAY TO ADAMS.,176,0,
+hay-0350,letters_1908,2,letter,1891-10-24,1891,post_war,Adams,HAY TO ADAMS.,388,2,
+hay-0351,letters_1908,2,letter,1891-12-17,1891,post_war,Adams,HAY TO ADAMS.,529,0,
+hay-0352,letters_1908,2,letter,1892-01-06,1892,post_war,Adams,HAY TO ADAMS.,856,2,
+hay-0353,letters_1908,2,letter,1892-01-25,1892,post_war,Adams,HAY TO ADAMS.,399,2,
+hay-0354,letters_1908,2,letter,1892-04-20,1892,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,118,0,
+hay-0355,letters_1908,2,letter,1892-06-16,1892,post_war,Adams,HAY TO ADAMS.,252,2,
+hay-0356,letters_1908,2,letter,1892-06-21,1892,post_war,Adams,HAY TO ADAMS.,182,0,
+hay-0357,letters_1908,2,letter,1892-08-18,1892,post_war,Adams,HAY TO ADAMS.,272,0,
+hay-0358,letters_1908,2,letter,1892-08-26,1892,post_war,Adams,HAY TO ADAMS.,353,0,
+hay-0359,letters_1908,2,letter,1892-09-13,1892,post_war,Adams,HAY TO ADAMS.,327,0,
+hay-0360,letters_1908,2,letter,1892-11-09,1892,post_war,Adams,HAY TO ADAMS.,172,0,
+hay-0361,letters_1908,2,letter,1892-11-25,1892,post_war,Adams,HAY TO ADAMS.,293,0,
+hay-0362,letters_1908,2,letter,1893-02-05,1893,post_war,H ' H—,HAY TO H ' H-,142,0,
+hay-0363,letters_1908,2,letter,1893-02-11,1893,post_war,Adams,HAY TO ADAMS.,195,0,
+hay-0364,letters_1908,2,letter,1893-02-20,1893,post_war,Adams,HAY TO ADAMS.,196,0,
+hay-0365,letters_1908,2,letter,1893-03-06,1893,post_war,Adams,HAY TO ADAMS.,252,4,
+hay-0366,letters_1908,2,letter,1893-03-09,1893,post_war,Adams,HAY TO ADAMS.,231,0,
+hay-0367,letters_1908,2,letter,1893-06-09,1893,post_war,Adams,HAY TO ADAMS.,377,0,
+hay-0368,letters_1908,2,letter,1893-07-03,1893,post_war,Adams,HAY TO ADAMS.,165,0,
+hay-0369,letters_1908,2,letter,1893-07-22,1893,post_war,Adams,HAY TO ADAMS.,330,0,
+hay-0370,letters_1908,2,letter,1893-08-29,1893,post_war,Adams,HAY TO ADAMS.,440,0,
+hay-0371,letters_1908,2,letter,1893-09-25,1893,post_war,Adams,HAY TO ADAMS.,164,0,
+hay-0372,letters_1908,2,letter,1893-10-02,1893,post_war,Adams,HAY TO ADAMS.,404,2,
+hay-0373,letters_1908,2,letter,1893-11-03,1893,post_war,Adams,HAY TO ADAMS.,310,0,
+hay-0374,letters_1908,2,letter,1893-11-20,1893,post_war,Gilder,HAY TO GILDER.,375,0,
+hay-0375,letters_1908,2,letter,1893-12-20,1893,post_war,Adams,HAY TO ADAMS.,222,4,
+hay-0376,letters_1908,2,letter,1894-01-01,1894,post_war,Adams,HAY TO ADAMS.,258,0,
+hay-0377,letters_1908,2,letter,1894-01-21,1894,post_war,Adams,HAY TO ADAMS.,601,0,
+hay-0378,letters_1908,2,letter,1894-01-20,1894,post_war,Nicolay,HAY TO NICOLA Y.,501,2,
+hay-0379,letters_1908,2,letter,1894-02-05,1894,post_war,Adams,HAY TO ADAMS.,313,2,
+hay-0380,letters_1908,2,letter,1894-02-07,1894,post_war,Whitelaw Keid,HAY TO WHITELAW KEID.,267,0,
+hay-0381,letters_1908,2,letter,1894-03-09,1894,post_war,Adams,HAY TO ADAMS.,331,0,
+hay-0382,letters_1908,2,letter,1894-03-18,1894,post_war,Adams,HAY TO ADAMS.,453,0,
+hay-0383,letters_1908,2,letter,1894-04-25,1894,post_war,Adams,HAY TO ADAMS.,571,0,
+hay-0384,letters_1908,2,letter,1894-05-04,1894,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,338,0,
+hay-0385,letters_1908,2,letter,1894-05-28,1894,post_war,Adams,HAY TO ADAMS.,1294,4,
+hay-0386,letters_1908,2,letter,1894-06-09,1894,post_war,Adams,HAY TO ADAMS.,345,4,
+hay-0387,letters_1908,2,letter,1894-06-10,1894,post_war,Adams,HAY TO ADAMS.,232,0,
+hay-0388,letters_1908,2,letter,1894-07-12,1894,post_war,Adams,HAY TO ADAMS.,233,0,
+hay-0389,letters_1908,2,letter,1894-07-14,1894,post_war,Adams,HAY TO ADAMS.,494,0,
+hay-0390,letters_1908,2,letter,1894-07-22,1894,post_war,Clara Stone Hay (wife),HAY TO C S H .,1290,4,
+hay-0391,letters_1908,2,letter,1894-07-29,1894,post_war,Clara Stone Hay (wife),HAY TO C S H .,1128,0,
+hay-0392,letters_1908,2,letter,1894,1894,post_war,Clara Stone Hay (wife),HAY TO C S H-,2320,4,
+hay-0393,letters_1908,2,letter,1894,1894,post_war,Clara Stone Hay (wife),HAY TO C S H-,1287,2,
+hay-0394,letters_1908,2,letter,1894,1894,post_war,Clara Stone Hay (wife),HAY TO C S H-,835,0,
+hay-0395,letters_1908,2,letter,1894-09-09,1894,post_war,Adams,HAY TO ADAMS.,251,0,
+hay-0396,letters_1908,2,letter,1894-09-10,1894,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,161,0,
+hay-0397,letters_1908,2,letter,1894-10-10,1894,post_war,Adams,HAY TO ADAMS.,213,0,
+hay-0398,letters_1908,2,letter,1894-10-26,1894,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,286,0,
+hay-0399,letters_1908,2,letter,1894-10-27,1894,post_war,Adams,HAY TO ADAMS.,398,0,
+hay-0400,letters_1908,2,letter,1894-12-02,1894,post_war,Adams,HAY TO ADAMS.,124,0,
+hay-0401,letters_1908,2,letter,1894-12-04,1894,post_war,Burlingame,HAY TO BURLINGAME.,240,0,
+hay-0402,letters_1908,2,letter,1894-12-07,1894,post_war,Dr. Chas. Waldstein,HAY TO DR. CHAS. WALDSTEIN.,307,0,
+hay-0403,letters_1908,2,letter,1895-01-14,1895,post_war,Adams,HAY TO ADAMS.,674,2,
+hay-0404,letters_1908,2,letter,1895-01-28,1895,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,569,2,
+hay-0405,letters_1908,2,letter,1895-02-06,1895,post_war,Adams,HAY TO ADAMS.,408,0,
+hay-0406,letters_1908,2,letter,1895-04-10,1895,post_war,Burlingame,HAY TO BURLINGAME.,55,0,
+hay-0407,letters_1908,2,letter,1895-05-02,1895,post_war,Buelingame,HAY TO BUELINGAME.,43,0,
+hay-0408,letters_1908,2,letter,1895-06-09,1895,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,179,0,
+hay-0409,letters_1908,2,letter,1895-06-14,1895,post_war,Adams,HAY TO ADAMS.,232,0,
+hay-0410,letters_1908,2,letter,1895-06-27,1895,post_war,Adams,HAY TO ADAMS.,334,0,
+hay-0411,letters_1908,2,letter,1895-07-21,1895,post_war,Whttelaw Reid,HAY TO WHTTELAW REID.,270,0,
+hay-0412,letters_1908,2,letter,1895-08-04,1895,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,245,0,
+hay-0413,letters_1908,2,letter,1895-09-03,1895,post_war,Adams,HAY TO ADAMS.,710,0,
+hay-0414,letters_1908,2,letter,1895-09-05,1895,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,162,0,
+hay-0415,letters_1908,2,letter,1895-09-20,1895,post_war,Adams,HAY TO ADAMS.,395,0,
+hay-0416,letters_1908,2,letter,1895-10-25,1895,post_war,Adams,HAY TO ADAMS.,249,0,
+hay-0417,letters_1908,3,letter,,,,Bishop Leonard,HAY TO BISHOP LEONARD.,143,0,
+hay-0418,letters_1908,3,letter,1896-02-11,1896,post_war,E. A. Abbey,HAY TO E. A. ABBEY.,397,0,
+hay-0419,letters_1908,3,letter,1896-04-13,1896,post_war,H H,HAY TO H H .,174,0,
+hay-0420,letters_1908,3,letter,1896-04-17,1896,post_war,Adams,HAY TO ADAMS.,237,0,
+hay-0421,letters_1908,3,letter,1896-06-01,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,219,0,
+hay-0422,letters_1908,3,letter,1896-06-02,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,611,4,
+hay-0423,letters_1908,3,letter,1896-06-07,1896,post_war,Clara Stone Hay (wife),HAY TO C S H-,793,0,
+hay-0424,letters_1908,3,letter,1896-06-13,1896,post_war,Clara Stone Hay (wife),HAY TO C S H- .,292,0,
+hay-0425,letters_1908,3,letter,1896-06-16,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,512,0,
+hay-0426,letters_1908,3,letter,1896-06-18,1896,post_war,Clara Stone Hay (wife),HAY TO C S H-,2569,4,
+hay-0427,letters_1908,3,letter,1896-07-05,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,639,0,
+hay-0428,letters_1908,3,letter,1896-07-08,1896,post_war,Clara Stone Hay (wife),HAY TO C S H-,1162,0,
+hay-0429,letters_1908,3,letter,1896-07-11,1896,post_war,Clara Stone Hay (wife),HAY TO C S H-,967,2,
+hay-0430,letters_1908,3,letter,1896-07-14,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,735,0,
+hay-0431,letters_1908,3,letter,1896-07-16,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,1380,6,
+hay-0432,letters_1908,3,letter,1896-07-23,1896,post_war,Clara Stone Hay (wife),HAY TO C S H-,268,0,
+hay-0433,letters_1908,3,letter,1896-07-26,1896,post_war,Clara Stone Hay (wife),HAY TO C S H .,445,2,
+hay-0434,letters_1908,3,letter,1896-07-26,1896,post_war,Adams,HAY TO ADAMS.,365,0,
+hay-0435,letters_1908,3,letter,1896-07-28,1896,post_war,E. A. Abbey',"HAY TO E. A. ABBEY',",1105,4,
+hay-0436,letters_1908,3,letter,1896-08-04,1896,post_war,Adams,HAY TO ADAMS.,427,2,
+hay-0437,letters_1908,3,letter,1896-08-05,1896,post_war,Henry White,HAY TO HENRY WHITE.,325,0,
+hay-0438,letters_1908,3,letter,1896-09-08,1896,post_war,Adams,HAY TO ADAMS.,336,0,
+hay-0439,letters_1908,3,letter,1896-10-04,1896,post_war,Adams,"HAY TO ADAMS,",448,0,
+hay-0440,letters_1908,3,letter,1896-10-20,1896,post_war,Adams,HAY TO ADAMS.,330,2,
+hay-0441,letters_1908,3,letter,1896-10-24,1896,post_war,Adams,HAY TO ADAMS.,84,0,
+hay-0442,letters_1908,3,letter,1897-04-03,1897,post_war,Adams,HAY TO ADAMS.,195,2,
+hay-0443,letters_1908,3,letter,1897-04-06,1897,post_war,Henry White,HAY TO HENRY WHITE.,209,0,
+hay-0444,letters_1908,3,letter,1897-04-08,1897,post_war,Adams,HAY TO ADAMS.,184,2,
+hay-0445,letters_1908,3,letter,1897-05-06,1897,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,121,0,
+hay-0446,letters_1908,3,letter,1897-05-24,1897,post_war,Adams,HAY TO ADAMS.,134,2,
+hay-0447,letters_1908,3,letter,1897-05-28,1897,post_war,Adams,HAY TO ADAMS.,213,0,
+hay-0448,letters_1908,3,letter,1897-06-07,1897,post_war,Clara Stone Hay (wife),HAY TO C S H-,316,0,
+hay-0449,letters_1908,3,letter,1897-07-07,1897,post_war,Adams,HAY TO ADAMS.,220,2,
+hay-0450,letters_1908,3,letter,1897-07-16,1897,post_war,Loed Salisbuey,HAY TO LOED SALISBUEY.,91,0,
+hay-0451,letters_1908,3,letter,1897-07-25,1897,post_war,Adams,HAY TO ADAMS.,152,0,
+hay-0452,letters_1908,3,letter,1897-08-12,1897,post_war,Adams,HAY TO ADAMS.,416,0,
+hay-0453,letters_1908,3,letter,1897-09-05,1897,post_war,Adams,"HAY TO ADAMS,",208,0,
+hay-0454,letters_1908,3,letter,1897-09-28,1897,post_war,Adams,HAY TO ADAMS.,336,0,
+hay-0455,letters_1908,3,letter,1897-10-02,1897,post_war,Henry White,HAY TO HENRY WHITE.,164,0,
+hay-0456,letters_1908,3,letter,1897-10-16,1897,post_war,Henry White,HAY TO HENRY WHITE.,109,0,
+hay-0457,letters_1908,3,letter,1897-10-20,1897,post_war,Adams,HAY TO ADAMS.,156,0,
+hay-0458,letters_1908,3,letter,1897,1897,post_war,Dr. Waldstein,HAY TO DR. WALDSTEIN.,196,0,
+hay-0459,letters_1908,3,letter,1897-10-30,1897,post_war,Adams,HAY TO ADAMS.,139,0,
+hay-0460,letters_1908,3,letter,1897-11-19,1897,post_war,Adams,HAY TO ADAMS.,164,2,
+hay-0461,letters_1908,3,letter,1897-11-21,1897,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,125,0,
+hay-0462,letters_1908,3,letter,1897-12-14,1897,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,136,0,
+hay-0463,letters_1908,3,letter,1897-12-27,1897,post_war,Adams,"HAY TO ADAMS,",258,0,
+hay-0464,letters_1908,3,letter,1897-12-27,1897,post_war,Nicolay,HAY TO NICOLAY.,338,0,
+hay-0465,letters_1908,3,letter,1898-01-10,1898,post_war,Gilder,HAY TO GILDER.,149,0,
+hay-0466,letters_1908,3,letter,1898-01-10,1898,post_war,Adams,HAY TO ADAMS.,90,0,
+hay-0467,letters_1908,3,letter,1898-01-21,1898,post_war,Henry White,HAY TO HENRY WHITE.,215,0,
+hay-0468,letters_1908,3,letter,1898-02-02,1898,post_war,Henry White,HAY TO HENRY WHITE.,252,0,
+hay-0469,letters_1908,3,letter,1898-03-11,1898,post_war,Adams,HAY TO ADAMS.,425,0,
+hay-0470,letters_1908,3,letter,1898-03-15,1898,post_war,Henry White,HAY TO HENRY WHITE.,195,0,
+hay-0471,letters_1908,3,letter,1898-03-29,1898,post_war,Adams,HAY TO ADAMS.,291,2,
+hay-0472,letters_1908,3,letter,1898-04-05,1898,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,427,0,
+hay-0473,letters_1908,3,letter,1898-05-08,1898,post_war,Theodore Stanton,HAY TO THEODORE STANTON.,103,0,
+hay-0474,letters_1908,3,letter,1898-05-09,1898,post_war,Adams,HAY TO ADAMS.,230,4,
+hay-0475,letters_1908,3,letter,1898-05-25,1898,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,490,0,
+hay-0476,letters_1908,3,letter,1898-05-27,1898,post_war,Adams,HAY TO ADAMS.,156,0,
+hay-0477,letters_1908,3,letter,1898-06-07,1898,post_war,Herbert Gladstone,HAY TO HERBERT GLADSTONE.,80,0,
+hay-0478,letters_1908,3,letter,1898-07-27,1898,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,194,0,
+hay-0479,letters_1908,3,letter,1898-08-22,1898,post_war,Andrew Carnegie,HAY TO ANDREW CARNEGIE.,135,0,
+hay-0480,letters_1908,3,letter,1898-08-30,1898,post_war,Sis John Clark,HAY TO SIS JOHN CLARK.,293,0,
+hay-0481,letters_1908,3,letter,1898-08-31,1898,post_war,C. F. Thwing,HAY TO C. F. THWING.,44,0,
+hay-0482,letters_1908,3,letter,1898-08-31,1898,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,194,0,
+hay-0483,letters_1908,3,letter,1898-09-05,1898,post_war,John Bigelow,HAY TO JOHN BIGELOW.,161,0,
+hay-0484,letters_1908,3,letter,1898,1898,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,220,0,
+hay-0485,letters_1908,3,letter,1898,1898,post_war,Henry White,HAY TO HENRY WHITE.,1021,0,
+hay-0486,letters_1908,3,letter,1898,1898,post_war,Henry White,HAY TO HENRY WHITE.,672,0,
+hay-0487,letters_1908,3,letter,1898,1898,post_war,Henry White,HAY TO HENRY WHITE.,523,0,
+hay-0488,letters_1908,3,letter,1898,1898,post_war,Dr. W. Sturgis Bigelow,HAY TO DR. W. STURGIS BIGELOW.,175,2,
+hay-0489,letters_1908,3,letter,1898,1898,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,332,0,
+hay-0490,letters_1908,3,letter,1898,1898,post_war,Adams,HAY TO ADAMS.,489,4,
+hay-0491,letters_1908,3,letter,1898,1898,post_war,Clarence King,HAY TO CLARENCE KING.,212,0,
+hay-0492,letters_1908,3,letter,1899-08-05,1899,post_war,Adams,HAY TO ADAMS.,1871,16,
+hay-0493,letters_1908,3,letter,1899-09-09,1899,post_war,Henry White,HAY TO HENRY WHITE.,534,0,
+hay-0494,letters_1908,3,letter,1899,1899,post_war,James Ford Rhodes,HAY TO JAMES FORD RHODES.,117,2,
+hay-0495,letters_1908,3,letter,1899,1899,post_war,Henry White,HAY TO HENRY WHITE.,228,0,
+hay-0496,letters_1908,3,letter,1899,1899,post_war,Adams,HAY TO ADAMS.,346,0,
+hay-0497,letters_1908,3,letter,1899,1899,post_war,Edwin A. Abbey',HAY TO EDWIN A. ABBEY'.,255,0,
+hay-0498,letters_1908,3,letter,1899,1899,post_war,Senator John T. Morgan,HAY TO SENATOR JOHN T. MORGAN.,461,0,
+hay-0499,letters_1908,3,letter,1899,1899,post_war,Richard Watson Gilder,HAY TO RICHARD WATSON GILDER.,146,0,
+hay-0500,letters_1908,3,letter,1899,1899,post_war,Adams,HAY TO ADAMS.,381,0,
+hay-0501,letters_1908,3,letter,1899,1899,post_war,Eichard Watson Gilder,HAY TO EICHARD WATSON GILDER.,111,0,
+hay-0502,letters_1908,3,letter,1899,1899,post_war,The President,HAY TO THE PRESIDENT.,244,2,
+hay-0503,letters_1908,3,letter,1900-08-11,1900,post_war,Senator Fairbanks,HAY TO SENATOR FAIRBANKS.,82,0,
+hay-0504,letters_1908,3,letter,1900-08-21,1900,post_war,Nicolay,HAY TO NICOLAY.,374,0,
+hay-0505,letters_1908,3,letter,1900-09-01,1900,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,304,0,
+hay-0506,letters_1908,3,letter,1900-09-13,1900,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,128,2,
+hay-0507,letters_1908,3,letter,1900-09-18,1900,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,563,0,
+hay-0508,letters_1908,3,letter,1900-09-20,1900,post_war,Whitelaw Reid,"HAY TO WHITELAW REID,",260,0,
+hay-0509,letters_1908,3,letter,1900-09-25,1900,post_war,Adams,HAY TO ADAMS.,588,2,
+hay-0510,letters_1908,3,letter,1900,1900,post_war,Clara Stone Hay (wife),HAY TO C S H-,771,0,
+hay-0511,letters_1908,3,letter,1900,1900,post_war,Adams,HAY TO ADAMS.,355,4,
+hay-0512,letters_1908,3,letter,1900,1900,post_war,Montgomery Schuyler,HAY TO MONTGOMERY SCHUYLER.,465,2,
+hay-0513,letters_1908,3,letter,1900,1900,post_war,Andrew Carnegie,HAY TO ANDREW CARNEGIE.,143,0,
+hay-0514,letters_1908,3,letter,1900,1900,post_war,Adams,HAY TO ADAMS.,488,0,
+hay-0515,letters_1908,3,letter,1901-05-23,1901,post_war,Clarence King,HAY TO CLARENCE KING.,175,2,
+hay-0516,letters_1908,3,letter,1901,1901,post_war,Claeence King,HAY TO CLAEENCE KING.,93,0,
+hay-0517,letters_1908,3,letter,1901,1901,post_war,Henry White,HAY TO HENRY WHITE.,231,0,
+hay-0518,letters_1908,3,letter,1901-06-30,1901,post_war,Henky White,HAY TO HENKY WHITE.,345,0,
+hay-0519,letters_1908,3,letter,1901-07-13,1901,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,113,0,
+hay-0520,letters_1908,3,letter,1901-07-14,1901,post_war,Adams,HAY TO ADAMS.,252,0,
+hay-0521,letters_1908,3,letter,1901-07-14,1901,post_war,Clarence King,HAY TO CLARENCE KING.,180,0,
+hay-0522,letters_1908,3,letter,1901-07-22,1901,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,231,0,
+hay-0523,letters_1908,3,letter,1901-07-26,1901,post_war,Henry White,HAY TO HENRY WHITE.,156,0,
+hay-0524,letters_1908,3,letter,1901-08-06,1901,post_war,Clarence King,HAY TO CLARENCE KING.,197,0,
+hay-0525,letters_1908,3,letter,1901-08-09,1901,post_war,Adams,HAY TO ADAMS.,622,2,
+hay-0526,letters_1908,3,letter,1901-08-30,1901,post_war,Joseph B. Bishop,HAY TO JOSEPH B. BISHOP.,229,0,
+hay-0527,letters_1908,3,letter,1901-08-31,1901,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,309,0,
+hay-0528,letters_1908,3,letter,1901-09-14,1901,post_war,Lady Jeune,"HAY TO LADY JEUNE,",286,0,
+hay-0529,letters_1908,3,letter,1901-09-19,1901,post_war,Adams,HAY TO ADAMS.,466,4,
+hay-0530,letters_1908,3,letter,1901-10-01,1901,post_war,Henry White,HAY TO HENRY WHITE.,409,0,
+hay-0531,letters_1908,3,letter,1901-10-05,1901,post_war,Whitelaw Reid,HAY TO WHITELAW EEID.,151,0,
+hay-0532,letters_1908,3,letter,1901-10-05,1901,post_war,John R. Carter,"HAY TO JOHN R. CARTER,",115,0,
+hay-0533,letters_1908,3,letter,1901-10-10,1901,post_war,Gilder,HAY TO GILDER.,43,0,
+hay-0534,letters_1908,3,letter,1901-10-13,1901,post_war,Adams,HAY TO ADAMS.,297,0,
+hay-0535,letters_1908,3,letter,1901-10-14,1901,post_war,Henry White,HAY TO HENRY WHITE.,170,0,
+hay-0536,letters_1908,3,letter,1901-10-21,1901,post_war,Adams,HAY TO ADAMS.,423,0,
+hay-0537,letters_1908,3,letter,1901-10-27,1901,post_war,Clarence King,HAY TO CLARENCE KING.,172,2,
+hay-0538,letters_1908,3,letter,1901,1901,post_war,Homer P. Clark,HAY TO HOMER P. CLARK.,125,0,
+hay-0539,letters_1908,3,letter,1901,1901,post_war,Mrs. P W—,HAY TO MRS. P W-,308,2,
+hay-0540,letters_1908,3,letter,1901,1901,post_war,Gilder,HAY TO GILDER.,312,0,
+hay-0541,letters_1908,3,letter,1901,1901,post_war,Mrs. P W—,HAY TO MRS. P W-,450,4,
+hay-0542,letters_1908,3,letter,1902-05-28,1902,post_war,Bkooks Adams,HAY TO BKOOKS ADAMS.,51,0,
+hay-0543,letters_1908,3,letter,1902,1902,post_war,Adams,HAY TO ADAMS.,154,0,
+hay-0544,letters_1908,3,letter,1902-07-29,1902,post_war,Arthur Balfour,HAY TO ARTHUR BALFOUR.,176,0,
+hay-0545,letters_1908,3,letter,1902-08-20,1902,post_war,H. Cabot Lodge,HAY TO H. CABOT LODGE.,167,2,
+hay-0546,letters_1908,3,letter,1902-10-19,1902,post_war,Adams,HAY TO ADAMS.,594,2,
+hay-0547,letters_1908,3,letter,1902-11-23,1902,post_war,Adams,HAY TO ADAMS.,263,0,
+hay-0548,letters_1908,3,letter,1902-11-28,1902,post_war,Henry White,HAY TO HENRY WHITE.,314,0,
+hay-0549,letters_1908,3,letter,1903-01-24,1903,post_war,Clara Stone Hay (wife),HAY TO C S H-,413,0,
+hay-0550,letters_1908,3,letter,1903,1903,post_war,Henry James,HAY TO HENRY JAMES.,238,0,
+hay-0551,letters_1908,3,letter,1903-02-27,1903,post_war,Mrs. P W—,HAY TO MRS. P W-,317,0,
+hay-0552,letters_1908,3,letter,1903-03-13,1903,post_war,Mrs. P W—,HAY TO MRS. P W-,228,0,
+hay-0553,letters_1908,3,letter,1903,1903,post_war,Heney White,HAY TO HENEY WHITE.,352,4,
+hay-0554,letters_1908,3,letter,1903-07-13,1903,post_war,T R,HAY TO T R .,240,0,
+hay-0555,letters_1908,3,letter,1903-08-28,1903,post_war,Mrs. P W,HAY TO MRS. P W .,258,0,
+hay-0556,letters_1908,3,letter,1903-09-02,1903,post_war,Adams,HAY TO ADAMS.,362,0,
+hay-0557,letters_1908,3,letter,1903-09-30,1903,post_war,Saint-gaudens,HAY TO SAINT-GAUDENS.,196,0,
+hay-0558,letters_1908,3,letter,1903,1903,post_war,Mes. P W—,HAY TO MES. P W-,142,0,
+hay-0559,letters_1908,3,letter,1903-10-12,1903,post_war,Adams,HAY TO ADAMS.,128,0,
+hay-0560,letters_1908,3,letter,1903,1903,post_war,Mrs. P W—,HAY TO MRS. P W-,250,2,
+hay-0561,letters_1908,3,letter,1903,1903,post_war,Adams,HAY TO ADAMS.,149,0,
+hay-0562,letters_1908,3,letter,1903-11-15,1903,post_war,Sir G. O. Trevelyan,HAY TO SIR G. O. TREVELYAN.,485,6,
+hay-0563,letters_1908,3,letter,1903,1903,post_war,President Roosevelt,HAY TO PRESIDENT ROOSEVELT.,81,0,
+hay-0564,letters_1908,3,letter,1903,1903,post_war,James Ford Rhodes,HAY TO JAMES FORD RHODES.,165,0,
+hay-0565,letters_1908,3,letter,1903-12-22,1903,post_war,Henry Adams,HAY TO HENRY ADAMS.,271,0,
+hay-0566,letters_1908,3,letter,1904-02-01,1904,post_war,Adams,HAY TO ADAMS.,231,0,
+hay-0567,letters_1908,3,letter,1904-03-02,1904,post_war,Theodoee Roosevelt,HAY TO THEODOEE ROOSEVELT.,32,0,
+hay-0568,letters_1908,3,letter,1904,1904,post_war,Henry White,HAY TO HENRY WHITE.,190,0,
+hay-0569,letters_1908,3,letter,1904,1904,post_war,T—,HAY TO T-,347,0,
+hay-0570,letters_1908,3,letter,1904-05-15,1904,post_war,Mrs. P W—,HAY TO MRS. P W-,265,2,
+hay-0571,letters_1908,3,letter,1904,1904,post_war,Henry White,HAY TO HENRY WHITE.,157,0,
+hay-0572,letters_1908,3,letter,1904,1904,post_war,Mes. James W. Wadsworth,HAY TO MES. JAMES W. WADSWORTH.,214,0,
+hay-0573,letters_1908,3,letter,1904-07-16,1904,post_war,Mrs. P W,HAY TO MRS. P W,421,0,
+hay-0574,letters_1908,3,letter,1904-07-31,1904,post_war,Mrs. St.-gaudens,HAY TO MRS. ST.-GAUDENS.,151,2,
+hay-0575,letters_1908,3,letter,1904-08-03,1904,post_war,Andrew Carnegie,HAY TO ANDREW CARNEGIE.,309,0,
+hay-0576,letters_1908,3,letter,1904,1904,post_war,Adams,HAY TO ADAMS.,213,0,
+hay-0577,letters_1908,3,letter,1904-09-01,1904,post_war,Augustus St.-gaudens,HAY TO AUGUSTUS ST.-GAUDENS.,181,0,
+hay-0578,letters_1908,3,letter,1904-09-07,1904,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,364,2,
+hay-0579,letters_1908,3,letter,1904-09-08,1904,post_war,Count Cassini,HAY TO COUNT CASSINI.,278,0,
+hay-0580,letters_1908,3,letter,1904-09-13,1904,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,200,0,
+hay-0581,letters_1908,3,letter,1904-09-13,1904,post_war,Theodore Roosevelt,HAY TO THEODORE ROOSEVELT.,163,2,
+hay-0582,letters_1908,3,letter,1904-09-18,1904,post_war,Mrs. P W,HAY TO MRS. P W .,274,0,
+hay-0583,letters_1908,3,letter,1904,1904,post_war,A. H. W,HAY TO A. H. W.,97,0,
+hay-0584,letters_1908,3,letter,1904-09-22,1904,post_war,Loubat,HAY TO LOUBAT.,109,0,
+hay-0585,letters_1908,3,letter,1904,1904,post_war,R. U. Johnson,HAY TO R. U. JOHNSON.,75,0,
+hay-0586,letters_1908,3,letter,1904,1904,post_war,Adams,HAY TO ADAMS.,232,2,
+hay-0587,letters_1908,3,letter,1904,1904,post_war,W. L. Stone,HAY TO W. L. STONE.,43,0,
+hay-0588,letters_1908,3,letter,1904-11-16,1904,post_war,Theodore Roosevelt,HAY TO THEODORE ROOSEVELT.,448,0,
+hay-0589,letters_1908,3,letter,1904,1904,post_war,Sir G. O. Trevelyan,HAY TO SIR G. O. TREVELYAN.,273,0,
+hay-0590,letters_1908,3,letter,1904,1904,post_war,James Ford Rhodes,HAY TO JAMES FORD RHODES.,153,0,
+hay-0591,letters_1908,3,letter,1904,1904,post_war,Andrew Carnegie,HAY TO ANDREW CARNEGIE.,117,0,
+hay-0592,letters_1908,3,letter,1904,1904,post_war,Theodoee Roosevelt,HAY TO THEODOEE ROOSEVELT.,81,0,
+hay-0593,letters_1908,3,letter,1905-03-17,1905,post_war,Adams,HAY TO ADAMS.,120,0,
+hay-0594,letters_1908,3,letter,1905-04-12,1905,post_war,Augustus St.-gaudens,HAY TO AUGUSTUS ST.-GAUDENS.,202,0,
+hay-0595,letters_1908,3,letter,1905-04-30,1905,post_war,Adams,HAY TO ADAMS.,379,6,
+hay-0596,letters_1908,3,letter,1905-05-02,1905,post_war,Adams,HAY TO ADAMS.,158,0,
+hay-0597,letters_1908,3,letter,1905-05-19,1905,post_war,Adams,HAY TO ADAMS.,61,0,
+hay-0598,letters_1908,3,letter,1905-05-04,1905,post_war,Adams,HAY TO ADAMS.,58,0,
+hay-0599,letters_1908,3,letter,1905-05-10,1905,post_war,A. H. W,HAY TO A. H. W.,164,0,
+hay-0600,letters_1908,3,letter,1905-05-21,1905,post_war,Theodore Roosevelt,HAY TO THEODORE ROOSEVELT.,108,0,
+hay-0601,letters_1908,3,letter,1905-05-21,1905,post_war,Adams,HAY TO ADAMS.,57,0,
+hay-0602,letters_1908,3,letter,1905-05-24,1905,post_war,J. R. Carter,HAY TO J. R. CARTER.,294,0,
+hay-0603,letters_1908,3,letter,1905-05-24,1905,post_war,Dr. Chas. Waldstein,HAY TO DR. CHAS. WALDSTEIN.,146,0,
+hay-0604,letters_1908,3,letter,1905-05-24,1905,post_war,Edwin A. Abbey,HAY TO EDWIN A. ABBEY.,167,0,
+hay-0605,letters_1908,3,letter,1905-06-03,1905,post_war,Whitelaw Reid,HAY TO WHITELAW REID.,146,0,
+hay-0606,letters_1908,3,letter,1905-06-06,1905,post_war,Sir John Clark,HAY TO SIR JOHN CLARK.,324,2,
+hay-0607,letters_1908,3,letter,1905-06-07,1905,post_war,Adams,HAY TO ADAMS.,285,2,
+hay-0608,letters_1908,3,letter,1905-06-10,1905,post_war,Senator C,HAY TO SENATOR C .,276,0,
+hay-0609,letters_1908,3,letter,1905,1905,post_war,David J. Hill,HAY TO DAVID J. HILL.,150,0,
+hay-0610,letters_1908,3,diary,1905-06,1905,post_war,,DIARY,196,0,
+hay-0611,poet_in_exile,,letter,1858-10-12,1858,pre_war,Nora Perry,October \2^ 1858.,740,0,ocr_italic_noisy
+hay-0612,poet_in_exile,,letter,1859-01-02,1859,pre_war,Nora Perry,"January 2nd, 1859.",2849,0,ocr_italic_noisy
+hay-0613,poet_in_exile,,letter,1859-05-15,1859,pre_war,Nora Perry,"Mat/ 15th, 1859.",718,0,ocr_italic_noisy
+hay-0614,poet_in_exile,,letter,1860-03-04,1860,pre_war,Nora Perry,"March 4>, 1860.",555,0,ocr_italic_noisy
+hay-0615,castilian_days,,essay,1871,1871,post_war,,Madrid Al Fresco,6090,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0616,castilian_days,,essay,1871,1871,post_war,,Spanish Living And Dying,5253,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0617,castilian_days,,essay,1871,1871,post_war,,Influence Of Tradition In Spanish Life,5962,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0618,castilian_days,,essay,1871,1871,post_war,,Tauromachy,5776,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0619,castilian_days,,essay,1871,1871,post_war,,Red-Letter Days,5361,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0620,castilian_days,,essay,1871,1871,post_war,,An Hour With The Painters,8790,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0621,castilian_days,,essay,1871,1871,post_war,,A Castle In The Air,5734,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0622,castilian_days,,essay,1871,1871,post_war,,The City Of The Visigoths,7421,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0623,castilian_days,,essay,1871,1871,post_war,,The Escorial,4928,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0624,castilian_days,,essay,1871,1871,post_war,,A Miracle Play,4099,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0625,castilian_days,,essay,1871,1871,post_war,,The Cradle And The Grave Of Cervantes,7315,0,pg_clean;pub_1871_holiday_ed_1903
+hay-0626,bread_winners,,fiction,1883,1883,post_war,,I. A Morning Call,3205,0,pg_clean;fiction
+hay-0627,bread_winners,,fiction,1883,1883,post_war,,II. A High-School Graduate.,6260,0,pg_clean;fiction
+hay-0628,bread_winners,,fiction,1883,1883,post_war,,III. The Widow And Her Daughter.,3355,0,pg_clean;fiction
+hay-0629,bread_winners,,fiction,1883,1883,post_war,,IV. Protector And Protegee.,5588,0,pg_clean;fiction
+hay-0630,bread_winners,,fiction,1883,1883,post_war,,V. A Professional Reformer.,3083,0,pg_clean;fiction
+hay-0631,bread_winners,,fiction,1883,1883,post_war,,VI. Two Men Shake Hands.,3464,0,pg_clean;fiction
+hay-0632,bread_winners,,fiction,1883,1883,post_war,,VII. Ghostly Counsel.,4256,0,pg_clean;fiction
+hay-0633,bread_winners,,fiction,1883,1883,post_war,,VIII. A Bud And A Blossom.,2749,0,pg_clean;fiction
+hay-0634,bread_winners,,fiction,1883,1883,post_war,,IX. A Drama With Two Spectators.,5113,0,pg_clean;fiction
+hay-0635,bread_winners,,fiction,1883,1883,post_war,,X. A Word Out Of Season.,5037,0,pg_clean;fiction
+hay-0636,bread_winners,,fiction,1883,1883,post_war,,XI. The Santa Rita Sherry.,6054,0,pg_clean;fiction
+hay-0637,bread_winners,,fiction,1883,1883,post_war,,XII. A Holiday Not In The Calendar.,3063,0,pg_clean;fiction
+hay-0638,bread_winners,,fiction,1883,1883,post_war,,XIII. A Busy Sunday For The Matchins.,4636,0,pg_clean;fiction
+hay-0639,bread_winners,,fiction,1883,1883,post_war,,XIV. Captain Farnham Sees Active Service Again.,4341,0,pg_clean;fiction
+hay-0640,bread_winners,,fiction,1883,1883,post_war,,XV. The Whip Of The Scythians.,3694,0,pg_clean;fiction
+hay-0641,bread_winners,,fiction,1883,1883,post_war,,XVI. Offitt Digs A Pit.,3172,0,pg_clean;fiction
+hay-0642,bread_winners,,fiction,1883,1883,post_war,,XVII. In And Out Of Windows.,4014,0,pg_clean;fiction
+hay-0643,bread_winners,,fiction,1883,1883,post_war,,XVIII. Offitt Plans A Long Journey.,5216,0,pg_clean;fiction
+hay-0644,bread_winners,,fiction,1883,1883,post_war,,XIX. A Leap For Somebody'S Life.,4354,0,pg_clean;fiction
+hay-0645,bread_winners,,fiction,1883,1883,post_war,,"XX. ""Now Do You Remember?""",3478,0,pg_clean;fiction
+hay-0646,addresses,,speech,1904,1904,post_war,,I. Franklin In France,7586,0,ocr
+hay-0647,addresses,,speech,1897,1897,post_war,,II. Omar Khayyam,997,0,ocr
+hay-0648,addresses,,speech,1897,1897,post_war,,III. Sir Walter Scott,1236,0,ocr
+hay-0649,addresses,,speech,1897,1897,post_war,,IV. Speeches Before The American Society In London,2426,0,ocr
+hay-0650,addresses,,speech,1898,1898,post_war,,V. A Partnership In Beneficence,647,0,ocr
+hay-0651,addresses,,speech,1897,1897,post_war,,VI. Speech At The Annual Dinner Of The Royal Society,593,0,ocr
+hay-0652,addresses,,speech,1898,1898,post_war,,VII. Speech At The Annual Dinner Of The Literary Fund,1891,0,ocr
+hay-0653,addresses,,speech,1899,1899,post_war,,IX. International Copyright,951,0,ocr
+hay-0654,addresses,,speech,1901,1901,post_war,,X. American Diplomacy,2548,0,ocr
+hay-0655,addresses,,speech,1901,1901,post_war,,XI. A Festival Of Peace,924,0,ocr
+hay-0656,addresses,,speech,1902,1902,post_war,,XII. William Mckinley,7982,0,ocr;duplicate_of_mckinley_1902_pamphlet
+hay-0657,addresses,,speech,1902,1902,post_war,,XIII. At The Universities,2115,0,ocr
+hay-0658,addresses,,speech,1904,1904,post_war,,XIV. Commercial Club Dinner,1246,0,ocr
+hay-0659,addresses,,speech,1901,1901,post_war,,XV. New Orleans,770,0,ocr
+hay-0660,addresses,,speech,1902,1902,post_war,,XVI. The Grand Army Of The Republic,1360,0,ocr
+hay-0661,addresses,,speech,,,,,XVII. President Roosevelt,1283,0,ocr
+hay-0662,addresses,,speech,1903,1903,post_war,,XVIII. Edmund Clarence Stedman,830,0,ocr
+hay-0663,addresses,,speech,1902,1902,post_war,,XIX. Lincoln'S Faith,696,0,ocr
+hay-0664,addresses,,speech,1904,1904,post_war,,XX. The Press And Modern Progress,3282,0,ocr
+hay-0665,addresses,,speech,1904,1904,post_war,,XXI. Fifty Years Of The Republican Party,7903,0,ocr
+hay-0666,addresses,,speech,1904,1904,post_war,,XXII. America'S Love Of Peace,2815,0,ocr
+hay-0667,addresses,,speech,,,,,XXIII. Life In The White House In The Time Of Lincoln,4219,0,ocr
+hay-0668,addresses,,speech,,,,,XXIV. Clarence King,1792,0,ocr
+hay-0669,mckinley,,speech,1902-02-27,1902,post_war,,"William McKinley: Memorial Address (Feb. 27, 1902)",8094,0,ocr
+hay-0670,washington_after_war,,diary,1867-02-01,1867,post_war,,DIARY (Harper's 1915 extract),393,0,ocr;delimitation_heuristic;edited_by_thayer
+hay-0671,washington_after_war,,diary,1867-02-08,1867,post_war,,DIARY (Harper's 1915 extract),799,0,ocr;delimitation_heuristic;edited_by_thayer
+hay-0672,washington_after_war,,diary,1867-02-12,1867,post_war,,DIARY (Harper's 1915 extract),259,0,ocr;delimitation_heuristic;edited_by_thayer
+hay-0673,pike_county_ballads,,verse,1871,1871,post_war,,Sunrise In The Place De La Concorde,47,0,pg_clean;verse
+hay-0674,pike_county_ballads,,verse,1871,1871,post_war,,Miles Keogh'S Horse,104,0,pg_clean;verse
+hay-0675,pike_county_ballads,,verse,1871,1871,post_war,,The Way To Heaven,21,0,pg_clean;verse
+hay-0676,pike_county_ballads,,verse,1871,1871,post_war,,Introduction.,800,0,pg_clean;verse
+hay-0677,pike_county_ballads,,verse,1871,1871,post_war,,The Pike County Ballads.,378,0,pg_clean;verse
+hay-0678,pike_county_ballads,,verse,1871,1871,post_war,,Little Breeches.,366,0,pg_clean;verse
+hay-0679,pike_county_ballads,,verse,1871,1871,post_war,,Remarks Of Sergeant Tilmon Joy To The White Man'S,391,0,pg_clean;verse
+hay-0680,pike_county_ballads,,verse,1871,1871,post_war,,The Mystery Of Gilgal.,307,0,pg_clean;verse
+hay-0681,pike_county_ballads,,verse,1871,1871,post_war,,Golyer.,548,0,pg_clean;verse
+hay-0682,pike_county_ballads,,verse,1871,1871,post_war,,A Tale Of Earnest Effort And Human Perfidy.,523,0,pg_clean;verse
+hay-0683,pike_county_ballads,,verse,1871,1871,post_war,,Sunrise In The Place De La Concorde.,676,0,pg_clean;verse
+hay-0684,pike_county_ballads,,verse,1871,1871,post_war,,The Sphinx Of The Tuileries.,263,0,pg_clean;verse
+hay-0685,pike_county_ballads,,verse,1871,1871,post_war,,The Surrender Of Spain.,42,0,pg_clean;verse
+hay-0686,pike_county_ballads,,verse,1871,1871,post_war,,Ii.,41,0,pg_clean;verse
+hay-0687,pike_county_ballads,,verse,1871,1871,post_war,,Iii.,47,0,pg_clean;verse
+hay-0688,pike_county_ballads,,verse,1871,1871,post_war,,Iv.,100,0,pg_clean;verse
+hay-0689,pike_county_ballads,,verse,1871,1871,post_war,,Vi.,47,0,pg_clean;verse
+hay-0690,pike_county_ballads,,verse,1871,1871,post_war,,The Prayer Of The Romans.,249,0,pg_clean;verse
+hay-0691,pike_county_ballads,,verse,1871,1871,post_war,,The Curse Of Hungary.,355,0,pg_clean;verse
+hay-0692,pike_county_ballads,,verse,1871,1871,post_war,,The Monks Of Basle.,190,0,pg_clean;verse
+hay-0693,pike_county_ballads,,verse,1871,1871,post_war,,Ii.,141,0,pg_clean;verse
+hay-0694,pike_county_ballads,,verse,1871,1871,post_war,,Iii.,139,0,pg_clean;verse
+hay-0695,pike_county_ballads,,verse,1871,1871,post_war,,Iv.,54,0,pg_clean;verse
+hay-0696,pike_county_ballads,,verse,1871,1871,post_war,,The Enchanted Shirt.,595,0,pg_clean;verse
+hay-0697,pike_county_ballads,,verse,1871,1871,post_war,,A Woman'S Love.,268,0,pg_clean;verse
+hay-0698,pike_county_ballads,,verse,1871,1871,post_war,,On Pitz Languard.,166,0,pg_clean;verse
+hay-0699,pike_county_ballads,,verse,1871,1871,post_war,,Boudoir Prophecies.,147,0,pg_clean;verse
+hay-0700,pike_county_ballads,,verse,1871,1871,post_war,,A Triumph Of Order.,248,0,pg_clean;verse
+hay-0701,pike_county_ballads,,verse,1871,1871,post_war,,Ernst Of Edelsheim.,310,0,pg_clean;verse
+hay-0702,pike_county_ballads,,verse,1871,1871,post_war,,My Castle In Spain.,421,0,pg_clean;verse
+hay-0703,pike_county_ballads,,verse,1871,1871,post_war,,Sister Saint Luke.,81,0,pg_clean;verse
+hay-0704,pike_county_ballads,,verse,1871,1871,post_war,,Miles Keogh'S Horse.,320,0,pg_clean;verse
+hay-0705,pike_county_ballads,,verse,1871,1871,post_war,,The Advance-Guard.,374,0,pg_clean;verse
+hay-0706,pike_county_ballads,,verse,1871,1871,post_war,,Love'S Prayer.,143,0,pg_clean;verse
+hay-0707,pike_county_ballads,,verse,1871,1871,post_war,,Christine.,96,0,pg_clean;verse
+hay-0708,pike_county_ballads,,verse,1871,1871,post_war,,Expectation.,111,0,pg_clean;verse
+hay-0709,pike_county_ballads,,verse,1871,1871,post_war,,To Flora.,180,0,pg_clean;verse
+hay-0710,pike_county_ballads,,verse,1871,1871,post_war,,A Haunted Room.,110,0,pg_clean;verse
+hay-0711,pike_county_ballads,,verse,1871,1871,post_war,,Dreams.,82,0,pg_clean;verse
+hay-0712,pike_county_ballads,,verse,1871,1871,post_war,,The Light Of Love.,91,0,pg_clean;verse
+hay-0713,pike_county_ballads,,verse,1871,1871,post_war,,Quand Meme.,215,0,pg_clean;verse
+hay-0714,pike_county_ballads,,verse,1871,1871,post_war,,Words.,86,0,pg_clean;verse
+hay-0715,pike_county_ballads,,verse,1871,1871,post_war,,The Stirrup-Cup.,114,0,pg_clean;verse
+hay-0716,pike_county_ballads,,verse,1871,1871,post_war,,A Dream Of Bric-A-Brac.,905,0,pg_clean;verse
+hay-0717,pike_county_ballads,,verse,1871,1871,post_war,,Liberty.,258,0,pg_clean;verse
+hay-0718,pike_county_ballads,,verse,1871,1871,post_war,,The White Flag.,119,0,pg_clean;verse
+hay-0719,pike_county_ballads,,verse,1871,1871,post_war,,The Law Of Death.,460,0,pg_clean;verse
+hay-0720,pike_county_ballads,,verse,1871,1871,post_war,,Mount Tabor.,271,0,pg_clean;verse
+hay-0721,pike_county_ballads,,verse,1871,1871,post_war,,Religion And Doctrine.,314,0,pg_clean;verse
+hay-0722,pike_county_ballads,,verse,1871,1871,post_war,,Sinai And Calvary.,205,0,pg_clean;verse
+hay-0723,pike_county_ballads,,verse,1871,1871,post_war,,The Vision Of St. Peter.,246,0,pg_clean;verse
+hay-0724,pike_county_ballads,,verse,1871,1871,post_war,,Israel.,462,0,pg_clean;verse
+hay-0725,pike_county_ballads,,verse,1871,1871,post_war,,The Crows At Washington.,217,0,pg_clean;verse
+hay-0726,pike_county_ballads,,verse,1871,1871,post_war,,Remorse.,98,0,pg_clean;verse
+hay-0727,pike_county_ballads,,verse,1871,1871,post_war,,Esse Quam Videri.,101,0,pg_clean;verse
+hay-0728,pike_county_ballads,,verse,1871,1871,post_war,,When The Boys Come Home.,218,0,pg_clean;verse
+hay-0729,pike_county_ballads,,verse,1871,1871,post_war,,Lese-Amour.,179,0,pg_clean;verse
+hay-0730,pike_county_ballads,,verse,1871,1871,post_war,,Northward.,273,0,pg_clean;verse
+hay-0731,pike_county_ballads,,verse,1871,1871,post_war,,In The Firelight.,342,0,pg_clean;verse
+hay-0732,pike_county_ballads,,verse,1871,1871,post_war,,In A Graveyard.,116,0,pg_clean;verse
+hay-0733,pike_county_ballads,,verse,1871,1871,post_war,,The Prairie.,247,0,pg_clean;verse
+hay-0734,pike_county_ballads,,verse,1871,1871,post_war,,Centennial.,466,0,pg_clean;verse
+hay-0735,pike_county_ballads,,verse,1871,1871,post_war,,A Winter Night.,114,0,pg_clean;verse
+hay-0736,pike_county_ballads,,verse,1871,1871,post_war,,Student-Song.,149,0,pg_clean;verse
+hay-0737,pike_county_ballads,,verse,1871,1871,post_war,,How It Happened.,270,0,pg_clean;verse
+hay-0738,pike_county_ballads,,verse,1871,1871,post_war,,God'S Vengeance.,113,0,pg_clean;verse
+hay-0739,pike_county_ballads,,verse,1871,1871,post_war,,Too Late.,251,0,pg_clean;verse
+hay-0740,pike_county_ballads,,verse,1871,1871,post_war,,Love'S Doubt.,157,0,pg_clean;verse
+hay-0741,pike_county_ballads,,verse,1871,1871,post_war,,Lacrimas.,149,0,pg_clean;verse
+hay-0742,pike_county_ballads,,verse,1871,1871,post_war,,On The Bluff.,122,0,pg_clean;verse
+hay-0743,pike_county_ballads,,verse,1871,1871,post_war,,Una.,265,0,pg_clean;verse
+hay-0744,pike_county_ballads,,verse,1871,1871,post_war,,Through The Long Days.,71,0,pg_clean;verse
+hay-0745,pike_county_ballads,,verse,1871,1871,post_war,,A Phylactery.,152,0,pg_clean;verse
+hay-0746,pike_county_ballads,,verse,1871,1871,post_war,,Blondine.,142,0,pg_clean;verse
+hay-0747,pike_county_ballads,,verse,1871,1871,post_war,,Distiches.,26,0,pg_clean;verse
+hay-0748,pike_county_ballads,,verse,1871,1871,post_war,,Ii.,23,0,pg_clean;verse
+hay-0749,pike_county_ballads,,verse,1871,1871,post_war,,Iv.,50,0,pg_clean;verse
+hay-0750,pike_county_ballads,,verse,1871,1871,post_war,,Vi.,24,0,pg_clean;verse
+hay-0751,pike_county_ballads,,verse,1871,1871,post_war,,Vii.,29,0,pg_clean;verse
+hay-0752,pike_county_ballads,,verse,1871,1871,post_war,,Viii.,21,0,pg_clean;verse
+hay-0753,pike_county_ballads,,verse,1871,1871,post_war,,Ix.,47,0,pg_clean;verse
+hay-0754,pike_county_ballads,,verse,1871,1871,post_war,,Xi.,22,0,pg_clean;verse
+hay-0755,pike_county_ballads,,verse,1871,1871,post_war,,Xii.,22,0,pg_clean;verse
+hay-0756,pike_county_ballads,,verse,1871,1871,post_war,,Xiii.,26,0,pg_clean;verse
+hay-0757,pike_county_ballads,,verse,1871,1871,post_war,,Xiv.,26,0,pg_clean;verse
+hay-0758,pike_county_ballads,,verse,1871,1871,post_war,,Xv.,25,0,pg_clean;verse
+hay-0759,pike_county_ballads,,verse,1871,1871,post_war,,Xvi.,24,0,pg_clean;verse
+hay-0760,pike_county_ballads,,verse,1871,1871,post_war,,Xvii.,28,0,pg_clean;verse
+hay-0761,pike_county_ballads,,verse,1871,1871,post_war,,Xviii.,25,0,pg_clean;verse
+hay-0762,pike_county_ballads,,verse,1871,1871,post_war,,Regardant.,264,0,pg_clean;verse
+hay-0763,pike_county_ballads,,verse,1871,1871,post_war,,Guy Of The Temple.,2591,0,pg_clean;verse
+hay-0764,pike_county_ballads,,verse,1871,1871,post_war,,From The German.,159,0,pg_clean;verse
+hay-0765,pike_county_ballads,,verse,1871,1871,post_war,,From The German Of Heinrich Heine.,131,0,pg_clean;verse
+hay-0766,pike_county_ballads,,verse,1871,1871,post_war,,After Heine.,77,0,pg_clean;verse
+hay-0767,pike_county_ballads,,verse,1871,1871,post_war,,After Heine.,80,0,pg_clean;verse
+hay-0768,pike_county_ballads,,verse,1871,1871,post_war,,After Heine.,84,0,pg_clean;verse
+hay-0769,pike_county_ballads,,verse,1871,1871,post_war,,After Heine.,95,0,pg_clean;verse
+hay-0770,pike_county_ballads,,verse,1871,1871,post_war,,After Heine.,59,0,pg_clean;verse
+hay-0771,pike_county_ballads,,verse,1871,1871,post_war,,After Charles Baudelaire.,191,0,pg_clean;verse
+hay-0772,pike_county_ballads,,verse,1871,1871,post_war,,From The Spanish Of Sor Marcela De Carpio.,200,0,pg_clean;verse
+hay-0773,poems,,verse,1890,1890,post_war,,Ii.,41,0,pg_clean;verse
+hay-0774,poems,,verse,1890,1890,post_war,,Iii.,47,0,pg_clean;verse
+hay-0775,poems,,verse,1890,1890,post_war,,Iv.,100,0,pg_clean;verse
+hay-0776,poems,,verse,1890,1890,post_war,,Vi.,851,0,pg_clean;verse
+hay-0777,poems,,verse,1890,1890,post_war,,Ii.,141,0,pg_clean;verse
+hay-0778,poems,,verse,1890,1890,post_war,,Iii.,138,0,pg_clean;verse
+hay-0779,poems,,verse,1890,1890,post_war,,Iv.,8623,0,pg_clean;verse
+hay-0780,poems,,verse,1890,1890,post_war,,"Key West, 1864.",713,0,pg_clean;verse
+hay-0781,poems,,verse,1890,1890,post_war,,"Illinois, 1858.",2471,0,pg_clean;verse
+hay-0782,poems,,verse,1890,1890,post_war,,Ii.,23,0,pg_clean;verse
+hay-0783,poems,,verse,1890,1890,post_war,,Iv.,50,0,pg_clean;verse
+hay-0784,poems,,verse,1890,1890,post_war,,Vi.,24,0,pg_clean;verse
+hay-0785,poems,,verse,1890,1890,post_war,,Vii.,29,0,pg_clean;verse
+hay-0786,poems,,verse,1890,1890,post_war,,Viii.,21,0,pg_clean;verse
+hay-0787,poems,,verse,1890,1890,post_war,,Ix.,47,0,pg_clean;verse
+hay-0788,poems,,verse,1890,1890,post_war,,Xi.,22,0,pg_clean;verse
+hay-0789,poems,,verse,1890,1890,post_war,,Xii.,22,0,pg_clean;verse
+hay-0790,poems,,verse,1890,1890,post_war,,Xiii.,26,0,pg_clean;verse
+hay-0791,poems,,verse,1890,1890,post_war,,Xiv.,27,0,pg_clean;verse
+hay-0792,poems,,verse,1890,1890,post_war,,Xv.,25,0,pg_clean;verse
+hay-0793,poems,,verse,1890,1890,post_war,,Xvi.,25,0,pg_clean;verse
+hay-0794,poems,,verse,1890,1890,post_war,,Xvii.,28,0,pg_clean;verse
+hay-0795,poems,,verse,1890,1890,post_war,,Xviii.,3204,0,pg_clean;verse
+hay-0796,poems,,verse,1890,1890,post_war,,After Heine.,80,0,pg_clean;verse
+hay-0797,poems,,verse,1890,1890,post_war,,After Heine.,82,0,pg_clean;verse
+hay-0798,poems,,verse,1890,1890,post_war,,After Heine.,86,0,pg_clean;verse
+hay-0799,poems,,verse,1890,1890,post_war,,After Heine.,99,0,pg_clean;verse
+hay-0800,poems,,verse,1890,1890,post_war,,After Heine.,454,0,pg_clean;verse
+hay-0801,thayer,1,letter,1868-04-27,1868,post_war,John Bigelow,To John Bigelow,444,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0802,thayer,1,letter,1870-09-29,1870,post_war,Whitelaw Reid,To Whitelaw Reid,105,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0803,thayer,1,letter,1870-10-13,1870,post_war,J. G. Nicolay,To J. G. Nicolay,282,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0804,thayer,1,letter,1870-12-12,1870,post_war,J. G. Nicolay,To J. G. Nicolay,199,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0805,thayer,1,letter,1872-08-01,1872,post_war,Whitelaw Reid,To Whitelaw Reid,362,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0806,thayer,1,letter,1872-11-27,1872,post_war,Whitelaw Reid,To Whitelaw Reid,477,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0807,thayer,1,letter,1873-08-27,1873,post_war,J. G. Nicolay,To J. G. Nicolay,198,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0808,thayer,1,letter,1870-12-29,1870,post_war,W. D. Howells,To W. D. Howells,234,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0809,thayer,1,letter,1871-12-24,1871,post_war,W. D. Howells,To W. D. Howells,179,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0810,thayer,1,letter,1871-10-05,1871,post_war,R. H. Stoddard,To R. H. Stoddard,828,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0811,thayer,1,letter,1870-12-07,1870,post_war,James T. Fields,To James T. Fields,170,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0812,thayer,1,letter,1875-01-28,1875,post_war,Albert Rhodes,To Albert Rhodes,131,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0813,thayer,1,letter,1875-04-29,1875,post_war,Whitelaw Reid,To Whitelaw Reid,253,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0814,thayer,1,letter,1875-07-19,1875,post_war,Whitelaw Reid,To Whitelaw Reid,350,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0815,thayer,1,letter,1877-02-20,1877,post_war,W. D. Howells,To W. D. Howells,203,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0816,thayer,1,letter,1878-04-06,1878,post_war,J. G. Nicolay,To J. G. Nicolay,106,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0817,thayer,1,letter,1878-07-05,1878,post_war,Whitelaw Reid,To Whitelaw Reid,299,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0818,thayer,1,letter,1878-07-27,1878,post_war,Whitelaw Reid,To Whitelaw Reid,233,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0819,thayer,1,letter,1880-06-08,1880,post_war,Albert Rhodes,To Albert Rhodes,138,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0820,thayer,1,letter,1881-02-11,1881,post_war,Whitelaw Reid,To Whitelaw Reid,281,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0821,thayer,1,letter,1882-03-26,1882,post_war,W. D. Howells,To W. D. Howells,331,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0822,thayer,1,letter,1882-09-18,1882,post_war,W. D. Howells,To W. D. Howells,306,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0823,thayer,1,letter,1882-12-20,1882,post_war,W. D. Howells,To W. D. Howells,873,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0824,thayer,1,letter,1883-03-11,1883,post_war,Amasa Stone,To Amasa Stone,453,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0825,thayer,1,letter,1883-08-11,1883,post_war,Henry James,To Henry James,220,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0826,thayer,1,letter,1883-09-09,1883,post_war,W. D. Howells,To W. D. Howells,936,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0827,thayer,1,letter,1877-11-26,1877,post_war,Whitelaw Reid,To Whitelaw Reid,422,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0828,thayer,1,letter,1879-11-03,1879,post_war,Whitelaw Reid,To Whitelaw Reid,76,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0829,thayer,1,letter,1879-10-28,1879,post_war,William M. Evarts,To William M. Evarts,210,0,ocr;delimitation_heuristic;stop_signature
+hay-0830,thayer,1,letter,1880-03-31,1880,post_war,Whitelaw Reid,To Whitelaw Reid,255,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0831,thayer,1,letter,1881-05-26,1881,post_war,Whitelaw Reid,To Whitelaw Reid,297,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0832,thayer,1,letter,1881-09-14,1881,post_war,Whitelaw Reid,To Whitelaw Reid,572,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0833,thayer,2,letter,1889-04-15,1889,post_war,J. G. Nicolay,To J. G. Nicolay,316,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0834,thayer,2,letter,1889-08-04,1889,post_war,Henry Adams,To Henry Adams,116,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0835,thayer,2,letter,1888-03-05,1888,post_war,R. T. Lincoln,To R. T. Lincoln,356,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0836,thayer,2,letter,1890-01-22,1890,post_war,W. D. Howells,To W. D. Howells,266,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0837,thayer,2,letter,1890-06-19,1890,post_war,R. W. Gilder,To R. W. Gilder,299,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0838,thayer,2,letter,1885-12-09,1885,post_war,Henry Adains,To Henry Adains,391,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0839,thayer,2,letter,1890-06-08,1890,post_war,W. D. Howells,To W. D. Howells,740,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0840,thayer,2,letter,1887-07-20,1887,post_war,Henry Adams,To Henry Adams,433,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0841,thayer,2,letter,1893-11-20,1893,post_war,R. W. Gilder,To R. W. Gilder,424,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0842,thayer,2,letter,1893-07-22,1893,post_war,Henry Adams,To Henry Adams,329,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0843,thayer,2,letter,1894-01-26,1894,post_war,J. G. Nicolay,To J. G. Nicolay,71,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0844,thayer,2,letter,1894-02-05,1894,post_war,Henry Adams,To Henry Adams,568,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0845,thayer,2,letter,1888-03-16,1888,post_war,Whitelaw Reid,To Whitelaw Reid,194,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0846,thayer,2,letter,1888-06-25,1888,post_war,Henry Adams,To Henry Adams,445,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0847,thayer,2,letter,1892-10-20,1892,post_war,Whitelaw Reid,To Whitelaw Reid,671,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0848,thayer,2,letter,1896-04-17,1896,post_war,Henry Adams,To Henry Adams,227,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0849,thayer,2,letter,1897-07-25,1897,post_war,Henry Adams,To Henry Adams,216,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0850,thayer,2,letter,1898-04-05,1898,post_war,Senator H. C. Lodge,To Senator H. C. Lodge,503,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0851,thayer,2,letter,1898-05-25,1898,post_war,Senator Lodge,To Senator Lodge,727,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0852,thayer,2,letter,1898-07-27,1898,post_war,Senator Lodge,To Senator Lodge,355,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0853,thayer,2,letter,1898-08-22,1898,post_war,Andrew Carnegie,To Andrew Carnegie,151,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0854,thayer,2,letter,1898-08-30,1898,post_war,Sir John Clark,To Sir John Clark,297,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0855,thayer,2,letter,1898-08-31,1898,post_war,Senator Lodge,To Senator Lodge,212,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0856,thayer,2,letter,1902-07-02,1902,post_war,Professor G. P. Fisher,To Professor G. P. Fisher,217,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0857,thayer,2,letter,1898-11-13,1898,post_war,Whitelaw Reid,To Whitelaw Reid,295,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0858,thayer,2,letter,1898-12-26,1898,post_war,Whitelaw Reid,To Whitelaw Reid,433,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0859,thayer,2,letter,1898-11-29,1898,post_war,Whitelaw Reid,To Whitelaw Reid,778,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0860,thayer,2,letter,1899-04-28,1899,post_war,Joseph H. Choate,To Joseph H. Choate,305,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0861,thayer,2,letter,1899-07-27,1899,post_war,Whitelaw Reid,To Whitelaw Reid,204,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0862,thayer,2,letter,1898-12-27,1898,post_war,Senator John T. Morgan,To Senator John T. Morgan,133,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0863,thayer,2,letter,1899-01-13,1899,post_war,Henry White,To Henry White,488,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0864,thayer,2,letter,1899-09-09,1899,post_war,Henry White,To Henry White,379,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0865,thayer,2,letter,1900-01-15,1900,post_war,Joseph H. Choate,To Joseph H. Choate,381,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0866,thayer,2,letter,1900-02-07,1900,post_war,Whitelaw Reid,To Whitelaw Reid,146,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0867,thayer,2,letter,1900-03-07,1900,post_war,Joseph H. Choate,To Joseph H. Choate,170,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0868,thayer,2,letter,1900-03-13,1900,post_war,President McKinley,To President McKinley,162,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0869,thayer,2,letter,1900-06-15,1900,post_war,Henry Adams,To Henry Adams,314,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0870,thayer,2,letter,1900-07-03,1900,post_war,Senator McMillan,To Senator McMillan,72,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0871,thayer,2,letter,1900-06-23,1900,post_war,J. W. Foster,To J. W. Foster,312,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0872,thayer,2,letter,1899-03-16,1899,post_war,Paul Dana,To Paul Dana,384,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0873,thayer,2,letter,1900-11-21,1900,post_war,Henry Adams,To Henry Adams,986,2,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0874,thayer,2,letter,1900-09-28,1900,post_war,Samuel Mather,To Samuel Mather,380,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0875,thayer,2,letter,1900-10-08,1900,post_war,Samuel Mather,To Samuel Mather,312,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0876,thayer,2,letter,1901-08-09,1901,post_war,Henry Adams,To Henry Adams,203,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0877,thayer,2,letter,1901-09-14,1901,post_war,Lady Jeiine,To Lady Jeiine,583,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0878,thayer,2,letter,1899-11-13,1899,post_war,Joseph H. Choate,To Joseph H. Choate,475,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0879,thayer,2,letter,1902-04-22,1902,post_war,Senator John T. Morgan,To Senator John T. Morgan,718,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0880,thayer,2,letter,1903-05-14,1903,post_war,Senator M. A. Hanna,To Senator M. A. Hanna,549,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0881,thayer,2,letter,1903-11-19,1903,post_war,Mrs. Helen Hay Whitney,To Mrs. Helen Hay Whitney,362,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0882,thayer,2,letter,1904-01-11,1904,post_war,Senator George F. Hoar,To Senator George F. Hoar,206,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0883,thayer,2,letter,1904-01-20,1904,post_war,Professor George P. Fisher,To Professor George P. Fisher,237,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0884,thayer,2,letter,1904-03-12,1904,post_war,Secretary Elihu Root,To Secretary Elihu Root,363,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0885,thayer,2,letter,1903-12-28,1903,post_war,President H. S. Pritchett,To President H. S. Pritchett,1482,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0886,thayer,2,letter,1903-05-22,1903,post_war,Henry White,To Henry White,626,2,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0887,thayer,2,letter,1903-11-24,1903,post_war,W. F. G. Shanks,To W. F. G. Shanks,429,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0888,thayer,2,letter,1904-07-11,1904,post_war,Joseph H. Choate,To Joseph H. Choate,336,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0889,thayer,2,letter,1904-07-13,1904,post_war,President Roosevelt,To President Roosevelt,541,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0890,thayer,2,letter,1904-11-26,1904,post_war,Frank H. Mason,To Frank H. Mason,939,0,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0891,thayer,2,letter,1904-11-22,1904,post_war,George W. Smalley,To George W. Smalley,629,2,ocr;delimitation_heuristic;stop_max_paragraphs
+hay-0892,thayer,2,letter,1905-04-12,1905,post_war,Augustus Saint-Gaudens,To Augustus Saint-Gaudens,214,0,ocr;delimitation_heuristic;stop_next_heading
+hay-0893,thayer,2,letter,1905-04-30,1905,post_war,Henry Adams,To Henry Adams,264,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0894,thayer,2,letter,1905-05-21,1905,post_war,President Roosevelt,To President Roosevelt,91,0,ocr;delimitation_heuristic;stop_third_person_hay
+hay-0895,thayer,2,letter,1905-06-07,1905,post_war,Henry Adams,To Henry Adams,291,0,ocr;delimitation_heuristic;stop_third_person_hay

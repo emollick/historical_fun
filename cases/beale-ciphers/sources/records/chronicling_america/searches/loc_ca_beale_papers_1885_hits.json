@@ -1,0 +1,16 @@
+{
+ "source_file": "loc_ca_beale_papers_1885.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1890-12-31&fo=json&ops=PHRASE&qs=beale+papers&searchType=advanced&start_date=1885-01-01",
+ "total_hits": 1,
+ "results_in_capture": 1,
+ "results": [
+  {
+   "date": "1886-01-05",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1886-01-05/ed-1/?sp=1"
+  }
+ ]
+}

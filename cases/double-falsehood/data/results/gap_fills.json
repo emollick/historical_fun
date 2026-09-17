@@ -1,0 +1,284 @@
+[
+ {
+  "scene": "1.1",
+  "tcp": "^ (gap marker, no text lost per Graham 1920)",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "1.1",
+  "tcp": "^ (gap marker, no text lost per Graham 1920)",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "1.1",
+  "tcp": "^ (gap marker, no text lost per Graham 1920)",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "1.1",
+  "tcp": "^ (gap marker, no text lost per Graham 1920)",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "1.3",
+  "tcp": "As if she there sev'n Reigns had sl^der'd Time.",
+  "ocr": "if she there sev'n Reigns had slander'd Time.",
+  "sim": 0.977
+ },
+ {
+  "scene": "3.3",
+  "tcp": "Thou^ not be so, I hope.",
+  "ocr": "Thou'lt not be so, I hope.",
+  "sim": 0.955
+ },
+ {
+  "scene": "4.1",
+  "tcp": "^own, I have too freely giv'n a Scope",
+  "ocr": "Own, I have too freely giv'n a Scope",
+  "sim": 1.0
+ },
+ {
+  "scene": "4.1",
+  "tcp": "When we're once lodg'd, the Means of ^ Conveyance,",
+  "ocr": "When we're once lodg'd, the Means of her",
+  "sim": 0.814
+ },
+ {
+  "scene": "4.2",
+  "tcp": "Fors^ken Violante! whose Belief",
+  "ocr": "Forsaken Violante! whose Belief",
+  "sim": 0.983
+ },
+ {
+  "scene": "4.2",
+  "tcp": "^or there is nothing left Thee now to look for,",
+  "ocr": "or there is nothing left Thee now to look for,",
+  "sim": 1.0
+ },
+ {
+  "scene": "4.2",
+  "tcp": "^ Th se to come, shall sweetly sleep together.",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "4.2",
+  "tcp": "^ may guide that false Henriquez hither,",
+  "ocr": "Fortune may guide that false Henriquez hither.",
+  "sim": 0.916
+ },
+ {
+  "scene": "4.2",
+  "tcp": "^ weep Repentance o'er my pale, dead Coarse,",
+  "ocr": "weep Repentance o'er my pale, dead Corse,",
+  "sim": 0.963
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^uch may be slip'd away; or with two Tears",
+  "ocr": "may be slip'd away ; or with two Tears",
+  "sim": 0.975
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ut Time, or Death, can cure.",
+  "ocr": "ut Time, or Death, can cure;",
+  "sim": 1.0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^all not be found in haste; I give thee That:",
+  "ocr": "not be found in haste ; I give thee That :",
+  "sim": 0.955
+ },
+ {
+  "scene": "5.2",
+  "tcp": "'Tis Fiction all, Sir;\u2014Brother, you ^ please",
+  "ocr": "'Tis Fiction, all, Sir ; Brother you must please",
+  "sim": 0.874
+ },
+ {
+  "scene": "5.2",
+  "tcp": "They are too obvious:\u2014Please your Grace, gi^ Leave",
+  "ocr": "are too obvious : Please your grace, give Leave",
+  "sim": 0.958
+ },
+ {
+  "scene": "5.2",
+  "tcp": "Know me no more.\u2014Brother, pray do not wr^ me.",
+  "ocr": "me no more. Brother, pray do not wrong me.",
+  "sim": 0.952
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^nd Duty, from my Father: Him I follow'd.",
+  "ocr": "Duty, from my Father : Him I f ollow'd.",
+  "sim": 0.96
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ never saw the Boy before.",
+  "ocr": "I never saw the Boy before.",
+  "sim": 0.98
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^all not your Soul to witness in a Wrong:",
+  "ocr": "not your Soul to witness in a Wrong :",
+  "sim": 0.975
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^nd 'tis not noble in you, to despise",
+  "ocr": "'tis not noble in you, to despise",
+  "sim": 0.986
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^urn all her Rods upon me.",
+  "ocr": "urn all her Rods upon me.",
+  "sim": 1.0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^here is no Trace of Cunning in this Boy.",
+  "ocr": "is no Trace of Cunning in this Boy.",
+  "sim": 0.987
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ature, sure, meant thou should'st have been a Wench;",
+  "ocr": "NatUre, sure, meant thou should'st have been a Wench;",
+  "sim": 0.99
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^nd then't had been no Marvel he had bobb'd thee.",
+  "ocr": "then't had been no Marvel he had bobb'd thee.",
+  "sim": 0.989
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ yet unknown, Sir; for my Faith, he could not;",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ never did deceive him: for my Service,",
+  "ocr": "I never did deceive him : for my Service,",
+  "sim": 0.974
+ },
+ {
+  "scene": "5.2",
+  "tcp": "If thou can'st bring a Witness of thy Wro^",
+  "ocr": "If thou can'st bring a Witness of thy Wrong,",
+  "sim": 0.92
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^all prove you so: No more.\u2014",
+  "ocr": "all prove you so: No more",
+  "sim": 1.0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ he has paid her for't; but broke his Covenant.",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ pure Affection dead, which first betray'd me,",
+  "ocr": "pure Affection dead, which first betrayd moe,",
+  "sim": 0.977
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ Claim dye with it! Only let me not",
+  "ocr": "dye with it! Only let me not",
+  "sim": 0.985
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ to the Grave with Infamy upon me:",
+  "ocr": "to the Grave with Infamy upon me:",
+  "sim": 0.957
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ect my Virtue, tho' it hurt your Faith;",
+  "ocr": "Protect my Virtue, tho' it hurt your Faith ;",
+  "sim": 0.935
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ my last Breath shall speak Henriquez",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "This almost melts me:\u2014But my poor ^",
+  "ocr": "almost melts me. But my poor ld",
+  "sim": 0.928
+ },
+ {
+  "scene": "5.2",
+  "tcp": "Let 'em alone; they're almost starv'd ^ Kisses.",
+  "ocr": "Let 'em alone; they're almost starv'd for Kisses.",
+  "sim": 0.921
+ },
+ {
+  "scene": "5.2",
+  "tcp": "^ have a Debt to pay: Your good old Father,",
+  "ocr": "I have a Debt to pay : Your good old Father,",
+  "sim": 0.976
+ },
+ {
+  "scene": "5.2",
+  "tcp": "And I not least. We'll now return to Cou^",
+  "ocr": "And I not least. We'll now return to Court :",
+  "sim": 0.905
+ },
+ {
+  "scene": "5.2",
+  "tcp": "Wi^, true Love's Wand'rings may like yours suc^",
+  "ocr": "With, true Love's Wand'rings may like yours succeed.",
+  "sim": 0.933
+ },
+ {
+  "scene": "5.2",
+  "tcp": "shall ^ it over, with rubbing to my Grave, and there's an End on't.",
+  "ocr": null,
+  "sim": 0
+ },
+ {
+  "scene": "5.2",
+  "tcp": "This Lord has abused Men, Women, ^ Children already:",
+  "ocr": "This Lord has abused Men, Women and Children",
+  "sim": 0.842
+ },
+ {
+  "scene": "5.2",
+  "tcp": "What farther Plot he has, the D^ knows.",
+  "ocr": "already : What farther Plot he has, the Devil knows.",
+  "sim": 0.847
+ },
+ {
+  "scene": "5.2",
+  "tcp": "Our Prudence should now teach us ^ forget, what our Indiscretion has ^",
+  "ocr": "Forget, what bur Indiscretion bas",
+  "sim": 0.606
+ },
+ {
+  "scene": "5.2",
+  "tcp": "~mitted. I have already made one ^ towards this Wisdom\u2014",
+  "ocr": "mitted. I have already made on",
+  "sim": 0.716
+ }
+]

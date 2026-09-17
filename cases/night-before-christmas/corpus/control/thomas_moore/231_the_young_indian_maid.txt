@@ -1,0 +1,30 @@
+title: The Young Indian Maid
+author: Thomas Moore
+date: c. 1800-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic dimeter
+lines: 20
+attribution: certain
+notes: song (Ballads, Songs, Miscellaneous Poems)
+
+There came a nymph dancing
+Gracefully, gracefully,
+Her eye a light glancing
+Like the blue sea;
+And while all this gladness
+Around her steps hung,
+Such sweet notes of sadness
+Her gentle lips sung,
+That ne'er while I live from my memory shall fade
+The song or the look of that young Indian maid.
+
+Her zone of bells ringing
+Cheerily, cheerily,
+Chimed to her singing
+Light echoes of glee;
+But in vain did she borrow
+Of mirth the gay tone,
+Her voice spoke of sorrow,
+And sorrow alone.
+Nor e'er while I live from my memory shall fade
+The song or the look of that young Indian maid.

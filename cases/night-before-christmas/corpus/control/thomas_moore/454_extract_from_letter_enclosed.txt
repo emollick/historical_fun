@@ -1,0 +1,20 @@
+title: Extract from Letter Enclosed
+author: Thomas Moore
+date: 1835
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 11
+attribution: certain
+notes: light satirical verse epistle (The Fudge Family in Paris, 1818 / The Fudges in England, 1835)
+
+With pain the mournful news I write,
+Miss Fudge's uncle died last night;
+And much to mine and friends' surprise,
+By will doth all his wealth devise--
+Lands, dwellings--rectories likewise--
+To his "beloved grand-niece," Miss Fanny,
+Leaving Miss Fudge herself, who many
+Long years hath waited--not a penny!
+Have notified the same to latter,
+And wait instructions in the matter.
+For self and partners, etc.

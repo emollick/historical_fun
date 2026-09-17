@@ -1,0 +1,33 @@
+title: The Seasons Moralized
+author: Philip Freneau
+date: c. 1780-1791
+source: https://www.gutenberg.org/ebooks/38529 (The Poems of Philip Freneau, ed. F. L. Pattee, Princeton, 1902-07, vol. 2, poems of 1780-1791)
+form: iambic tetrameter
+lines: 20
+attribution: certain
+notes: 
+
+They who to warmer regions run,
+May bless the favour of the sun,
+But seek in vain what charms us here,
+Life's picture, varying with the year.
+
+Spring, and her wanton train advance
+Like Youth to lead the festive dance,
+All, all her scenes are mirth and play,
+And blushing blossoms own her sway.
+
+The Summer next (those blossoms blown)
+Brings on the fruits that spring had sown,
+Thus men advance, impelled by time,
+And Nature triumphs in her prime.
+
+Then Autumn crowns the beauteous year,
+The groves a sicklier aspect wear;
+And mournful she (the lot of all)
+Matures her fruits, to make them fall.
+
+Clad in the vestments of a tomb,
+Old age is only Winter's gloom--
+Winter, alas! shall spring restore,
+But youth returns to man no more.

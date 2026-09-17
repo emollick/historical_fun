@@ -1,0 +1,524 @@
+SUPPLEMENTARY MATERIAL: 
+Mechanisms of slab avalanche release and impact in the Dyatlov Pass 
+incident in 1959 
+Johan Gaume, EPFL and Alexander Puzrin, ETH Zurich 
+ 
+Table of contents: 
+ 
+Supplementary Note 1: Forensic evidence of a delay in the slab release                            p. 2 
+Supplementary Note 2: Other forensic evidences and reported facts                                  p. 3 
+Supplementary Note 3: Meteorological data                                                                      p. 12 
+Supplementary Note 4: Numerical validation of the analytical model                              p. 14 
+Supplementary Note 5: MPM avalanche and impact simulations                                      p. 15 
+Supplementary Note 6: Model parameters                                                                         p. 17 
+Supplementary Note 7: Description of supplementary videos                                           p. 20 
+Supplementary References                                                                                                 p. 21 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Supplementary Note 1: Forensic evidence of a delay in the slab release 
+The following reported evidences ( Buyanov and Slobtsov 2014) allowed us to evaluate a 
+realistic range for the delay between the moment the Dyatlov group made the cut in the slope 
+to install the tent and the time of the incident: 
+1. The time of the cut in the slope . The sunset in Burmantovo (6 6 km away from the 
+accident location) on the 1st of February 1959 was at 5:02 pm. The tent was likely build 
+before the sunset, and the construction started with cutting the slope (the last photo 
+showing the cut was taken during a daylight, Fig. 1 a). Assuming that it would take at 
+least an hour to build a tent, it is likely that the cut was made not later than at 4:00 pm 
+2. The lost lanterns. The fact that lanterns have been found outside the tent by the search 
+team indicates that the incident occurred during night-time. 
+3. The time when their watches stopped . According to reports of rescue operations, 
+watches generally stop in such cold weather (-25°C, winds up to 10 m/sec) 
+approximately 1 hour after the death. Slobodin’s watch stopped at 8:45am, Thibault’s 
+watch stopped at 8:14am and 8:39am and Dyatlov’s watch stopped at 5:31am. This leads 
+to a time of death approximately between 4:30 and 7:30am. 
+4. The last meal. The post-mortem investigation revealed that they died 6 to 8 hours after 
+their last meal.  
+5. The survival time. Rescue operations report that under temperatures as low as -25°C and 
+without appropriate shelter and clothing (Igor Dyatlov’s bod y was found on an open 
+slope, not wearing shoes and a jacket) , the maximum survival time would be around 2 
+to 3 hours.  
+Conclusion. Given the previous information, we can back calculate the time at which a 
+potential avalanche could release between 1:30 and  5:30am as well as a range for the 
+delay between the time of the cut in the slope and the avalanche between 9.5 and 13.5 
+hours. 
+ 
+3 
+ 
+Supplementary Note 2: Other forensic evidences and reported facts 
+Conclusions of the autopsy and reported injuries 
+We summarize here the results from the post-mortem evaluation of the Soviet investigation 
+for the nine members of the Dyatlov group (based on the English translation of the official 
+Soviet autopsy reports). Note that the bodies of Yuri Doroshenko, Yuri Krivonischenko, Igor 
+Dyatlov and Zinaida Kolmogorova were found in the Cedar at a 1.5km distance from the tent, 
+26 days after the incident and their autopsy was made on March 4. Rustem Slobodin was 
+found on March 5 approximately 480m from the Cedar and his autopsy was performed on 
+March 8. Bodies of Lyudmila Dubinina, Semyon Zolotaryov, Aleksander Kolevatov and 
+Nicolas Thibeaux-Brignolle were found in a Ravine (also called “Den”) on May 5 by a local 
+tribesman. Their autopsy was performed on May 9. 
+1. Yuri Doroshenko’s post-mortem examination showed: 
+a. damage such as multiple abrasions, skin wounds and bruises 
+b. he had third and fourth degree frostbites on most fingers and toes 
+c. he had meninges oedema, strong hyperaemia in internal organs, cardiac cavities 
+full of dark blood petechiae in the gastric mucosa and an excessive full bladder 
+The conclusion of the autopsy performed by Soviet experts was that he died from hypothermia 
+based on evidences 1b and 1c. The reported external injuries were considered as  “non-life 
+threatening” and could be explained by a fall on rocks or ice or other objects. The data of the 
+examination shows that his last meal was taken 6 to 8 hours before death. 
+2. Yuri Krivonischenko’s post-mortem examination showed: 
+a. lesions, bruises and skin wounds 
+b. the tip of his nose was missing 
+c. fingers, toes and ears had frostbites and burns of the second to third degree 
+d. meninges swelling, blood -filled internal organs, overfilling of the pericardium 
+with dark liquid blood, existence of Vishnevsky spots on the stomach, overfilling 
+of the bladder  
+The conclusion of the autopsy performed by Soviet experts was that he died from hypothermia 
+based on evidences 1 c and 1 d. The reported external injuries were considered as “non -life 
+threatening” and could be explained by a fall on rocks or ice or other objects. The missing nose 
+tip was found without traces of blood which suggests that he was bitten by an animal after his 
+4 
+ 
+death. The reported burns were inflicted by close contact to a fire. The data of the examination 
+shows that his last meal was taken 6 to 8 hours before death. 
+3. Igor Dyatlov’s post-mortem examination showed: 
+a. damage in the form of graze wounds, scratches and skin wounds 
+b. third to fourth degree frostbites of the extremities 
+c. meninges oedema, strong hyperaemia of internal organs, filling of heart cavities 
+with dark blood, Vischnevsky spots on the gastric mucosa, overfilled bladder. 
+The conclusion of the autopsy performed by Soviet experts was that he died from 
+hypothermia/freezing based on evidences 1 b and 1 c. The reported external  injuries were 
+considered as light and not damaging to health and could be explained by a fall on stones or ice 
+or other objects. The data of the examination shows that his last meal was taken 6 to 8 hours 
+before death. 
+4. Zinaida Kolmogorova’s post-mortem examination showed: 
+a. abrasions and skin wounds 
+b. fourth-degree frostbite on the third terminal phalanges of the fingers 
+c. swelling of meninges, dramatic plethora of internal organs, dark liquid blood in 
+the heart, Vishnevsky spots on the gastric mucosa 
+The conclusion of the autopsy performed by Soviet experts was that she died from 
+hypothermia/freezing based on evidences 1 b and 1c. The reported external injuries could be 
+explained by a fall on stones or ice or other objects. The data of the examination shows that her 
+last meal was taken 6 to 8 hours before death. 
+5. Rustem Slobodin’s post-mortem examination showed: 
+a. abrasions, scrapes and graze wounds 
+b. a fracture of the left frontal lobe bone 
+c. third to fourth degree freezing of the fingers 
+d. swelling of meninges,  blood-filles organs, Vishnevksy spots on the stomach 
+mucosa 
+The conclusion of the autopsy performed by Soviet experts was that he died from 
+hypothermia/freezing based on evidences 1 c and 1 d and based on the absence of explicit 
+bleeding under the meninges . The reported external injuries could be explained by a fall or 
+impact on stones or ice or other objects.  The data of the examination shows that his last meal 
+was taken 6 to 8 hours before death. 
+5 
+ 
+6. Lyudmila Dubinina’s post-mortem examination showed: 
+a. damage to the soft tissue of the head 
+b. eyeballs and tongue are missing 
+c. multiple bilateral rib fractures 
+d. hemorrhage into the right ventricle and internal bleeding into the thoracic 
+cavity 
+The conclusion of the autopsy performed by Soviet experts was that she died because of an 
+impact of great force causing severe trauma to the chest based on evidences 6c and 6d . The 
+trauma was caused while she was alive and is the result of a high force impact. 
+7. Aleksander Kolevatov’s post-mortem examination showed: 
+a. defects in soft tissues and whitened skin  
+b. opened wound behind the ear 
+The conclusion of the autopsy performed by Soviet experts was that he died from low 
+temperatures. The conclusions for this case are not based on very strong evidence. The soft 
+tissue is thought to be a result of post-death changes in the body which was located in the water 
+for some time before it was found. 
+8. Semyon Zolotaryov’s post-mortem examination showed: 
+a. multiple fractures of the right ribs  
+b. internal hemorrhaging to the pleural cavity 
+c. opened wound behind the ear 
+The conclusion of the autopsy performed by Soviet experts was that he died due to a high -
+power impact to the chest.  
+9. Nikolay Thibeaux-Brignolle’s post-mortem examination showed: 
+a. corporal damage of the soft tissue and whitened skin at the extremities 
+b. fracture of the base and the vault of the cranium 
+c. prolific amount of bleeding under the meninges 
+The conclusion of the autopsy performed by Soviet experts was that he died due to great force 
+leading to a pressure fracture. The soft tissue is thought to be a result of post-death changes in 
+the body which was located in the water for some time before it was found. 
+ 
+ 
+6 
+ 
+Summary 
+Buyanov and Slobtsov (2014) attribute Dubinina’s and Zolotarev’s broken ribs, as well as 
+Thibeaux-Brignolle’s and Slobodin’s skull injuries to the fact that they were sleeping in the end 
+of the tent which was hit by the slab  (Figure SF1). Dubinina was likely sleeping on her back, 
+hence the bilateral rib fractures, while Zolotarev on his side (unilateral fractures). Thibeaux’s 
+fracture at the base of the cranium is attributed to the fact that he regularly used his photo camera 
+as a pillow, resulting in high concentrated force as his head was hit by the slab. 
+Figure SF1: Positions of Dyatlov’s group in the tent and potential dynamics of the avalanches 
+(Buyanov and Slobtsov, 2014). Courtesy of Evgeniy Buyanov. 
+ 
+The Soviet investigation performed at that time reported that the chest and skull injuries were 
+not characteristics of typical avalanche accidents. This is hardly surprising, because most of the 
+avalanche victims are not being hit against a rigid obstacle and mainly die from asphyxia. 
+However, in a 21-year review of patterns of death among avalanche fatalities in Canada, Boyd 
+et al. (2009) showed that in the cases where the avalanche death was caused by a single-system 
+trauma, chest trauma was the most common injury (46%) while the head injury was the second 
+most common one (42%).  
+ 
+
+7 
+ 
+Observations at the tent location 
+Signs of avalanche 
+While the search team did not report obvious avalanche signs, several evidences tend to 
+justify the avalanche assumption including: 
+ The snow cut performed by the Dyatlov group of more than 1m high seen in the last 
+Picture (Fig. 1a) disappeared in agreement with the MPM simulation in which the cut 
+part of the slope has been filled by the broken snow slab. 
+ No snow was found inside the tent which implies that the tent was covered with snow 
+otherwise it would have been torn apart by the wind, filled with snow and the belongings 
+of the Dyatlov group would have been scattered on the slope. 
+ Other signs such as a broken ski pole and a crack in the roof of the tent. 
+ 
+Run-out-angle 
+The run-out angle (McClung et al. 2006) from the top of the slope to the tent location is around 
+16° which makes it physically impossible that an avalanche released at the top of the slope 
+would reach the tent (Eichar 2013). This means that only a small snow slab could release above 
+the tent due to the cut and external loading (assumed here to be related to wind transport snow). 
+Terrain features 
+It has been reported ( Buyanov and Slobtsov 2014) that the slope above the tent was highly 
+irregular with “steps” formed by ledges of low hillocks (Fig. S F2). Snowfall and wind are 
+known to smooth terrain variability (Filhol and Sturm 2019) which explains why the average 
+slope angle was found smaller than the local terrain angle right above the tent, estimated around 
+28°.  
+With time (snowfall and wind events), the snowpack gets thicker in hollows below the hillock 
+and thinner on the ledges. This explains the choice of the Dyatlov group to dig at this particular 
+location in order to have a better protection from the wind. In addition, given the cut height 
+visible in Dyatlov’s last picture, the top of the tent would still have been strongly affected by 
+the wind which suggests that they could have built a parapet by putting the cut snow blocks 
+close to the edge of the cut as an additional safety measure (Fig. SF3). Finally, given that a ski 
+pole has been place on the slope above the tent, the slab has been damaged which can lead to a 
+reduction in the tensile resistance of the slab and thus more instability. 
+8 
+ 
+ 
+ 
+ 
+Figure SM2. (top) Snow cover (blue) and terrain (red) profiles near the tent. (bottom) zoom of 
+the terrain profile above the tent. From Buyanov and Slobtsov (2014). Courtesy of Evgeniy 
+Buyanov. 
+ 
+
+9 
+ 
+ 
+Figure SF3. Schematic of the Dyatlov group’s tent installed for heavy weather and high winds 
+i.e. deepened down the slope with a parapet for wind protection. (Buyanov and Slobtsov, 2014). 
+Courtesy of Evgeniy Buyanov. 
+ 
+Similar events 
+We report here similar events mentioned by Buyanov and Slobtsov (2014) in which an undercut 
+in the slope to install a tent led to a catastrophic snow slab avalanche. In addition, we present 
+the results of several field tests performed by snow and avalanche  scientists which show that 
+the conditions for a snow slab to be released and to slide can be met, even on mild slopes  
+(Buyanov 2020) which are naturally stable. 
+Oleg Romanov’s group 
+In 1982, a group led by Oleg Romanov mysteriously disappeared on the 6th of February in 1982. 
+The bodies were found on July 08 after a long search. Reported evidences from this case show 
+that they made a cut in the slope to install the tent and that strong winds occurred that night. 
+The snow slab above the tent fell and covered the tent while they were sleeping (their watches 
+all stopped at the same time due to a strong impact). In addition, the unsuccessful searches made 
+shortly after the group disappeared at the location where the bodies were found report a “total 
+absence of traces of an avalanche”.  
+
+10 
+ 
+M. Gorilovsky’s group 
+In 1983, the group led by M. Gorilovsky made an undercut within a snow slope to install the 
+tent in a canyon at 6.30pm near a flat Northen slope. Five persons from the group started to dig 
+while two other persons went on a gentle slope to check the place. These two people initiated a 
+failure in a buried weak layer which propagated a led to the release of a snow slab which killed 
+the 5 people digging.  
+Baranov – Verpatov’s group 
+In 1993, some Ukrainian mountaineers climbed the Hantengri peak in the central Tian Shan. 
+This group made an undercut in the slope to prepare a flat region for the tent close to the 
+mountain ridge. Another group made a snow cave 500m below. In the next morning, the latter 
+group found the Ukrainian people digging out the bodies of their friends. Here, a small snow 
+slab was also triggered by the undercut in the slope. 
+Eremkin’s group 
+In 1988 in the south of Polar Ural, an avalanche on a camp site resulted in 13 victims. The 
+similarities with the Dyatlov pass incident are striking: a 25 -30° slope, an undercut to install 
+the tent, increased slope above right above the tent. A small wind slab of thickness between 0.4 
+and 1m released while the people were inside the tents. Some people su rvived by digging 
+themselves out including Eremkin, Master of Sports who considered that the Dyatlov group 
+was victim of similar snow slab avalanche. 
+Other similar cases 
+Several additional similar cases have been reported by Buyanov and Slobtsov (2014). Yet, 
+similarities with the Dyatlov incident were not obvious and have thus not been described here. 
+The Rutschblock avalanche field stability test 
+The Rutschblock (RB) test was developed by the Swiss army in the 1960 (Föhn 1987) and is 
+used to interpret snowpack stability (Jamieson and Johnston 1993). The RB consists in isolating 
+a snow volume of ~2x2 m over the thickness of the snowpack. The result of the test – the RB 
+score – is defined on a scale from 1 to 7 where 1 means that the snow blocks fails during digging 
+or cutting while 7 means no failure, even after stepping on the block (RB=2), bending the knees 
+(RB=3), jumping (RB=4), jumping again (RB=5) and jumping without skis (RB=6). In general, 
+RB scores lower than 3 are associated with low snowpack stability while RB scores higher than 
+11 
+ 
+5 are associated with a good snowpack stability (Monti et al. 2016). Here, we report in Fig. SF4 
+the results of 831 RB tests performed by researchers from the University of Calgary. Figure 
+SF4A and SF4B shows that the snowpack can fail regardless of the slope angle. One can notice 
+that the snowpack can fail without significant external force (RB=1,2,3) even for low slope 
+angle values, even though the general trend is that stability increasing with decreasing slope 
+angle (Figure SF4C). Finally, we note that for the conditions of the Dyatlov pass incident, more 
+than 40% of the RB tests performed led to the sliding of the block (Figure SF4C). 
+ 
+Figure SF4. Slope angle distribution (A) and normalized distribution (B) corresponding to 
+831 Rutschblock Tests. (C) Percentage of block sliding as a function of slope angle for 831 
+Rutschblock 
+ 
+
+12 
+ 
+Supplementary Note 3: Meteorological data 
+Buyanov and Slobtsov (2014) made a detailed review of meteorological conditions at before, 
+during and after the Dyatlov incident. We report in Fig. SF5 temperature data from the closest 
+meteorological station in Bormotovo (66km from the incident place). Two major information 
+can be extracted from these temperature charts: 1) the average temperature the night of the 
+incident was -20° and the minimum temperature around -30°; The average temperature in 
+January before the incident was around -15° and temperature variations were very large (more 
+than -15° variations in temperature during 1 or 2 days of observations). The first fact tells us 
+that the survival time without appropriate clothes is of a few hours only. The second point 
+indicates that the snowpack was submitted to very large temperature gradient which are known 
+to lead to the formation of depth hoar snow crystals (Fukuzawa and Akitaya 1993). This 
+confirms observations of the presence of depth hoar at the tent location and nearby locations 
+(Buyanov and S lobtsov 2014 ). This snow type has a very low cohesion and is particularly 
+dangerous when buried below a cohesive and dense snow slab as reported in the Dyatlov case. 
+Concerning the wind, wind speeds between 2 and 4 m/s were measured at the Ivdel station (117 
+km from the Dyatlov pass) while wind speeds up to 9 km/h were measured in (Bormotovo 
+Buyanov and Slobtsov 2014). Expert-based estimations of maximum wind speeds between 10-
+15 m/s were made at the location of the Dyatlov tent. Based on these measurements  and 
+estimations, we chose a range of realistic average wind speed between 4 and 10 m/s. 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+Figure SF5. (top) Average temperature and maximal temperature difference, (middle) minimum 
+and maximum temperatures; (bottom) temperature changes during 24  and 48 hours of 
+observations. 
+ 
+
+14 
+ 
+Supplementary Note 4: Numerical validation of the analytical model 
+We performed purely elastic MPM numerical simulations to validate the evolution of the shear 
+stress in the weak layer in the vicinity of the cut as a function of increasing slab thickness. The 
+same parameters as in the analytical model have been chosen (see S F6) and we considered a 
+fully sintered slab . While some small discrepancies can be noticed, the general agreement 
+between the numerical and analytical model is reasonable (Fig. SF6). 
+ 
+ 
+Figure SF6. Top: total displacement of MPM particles in the case of h=1 m. Bottom: shear 
+stress as a function of slab height for the MPM simulation and the two bounds of the 
+analytical model. 
+ 
+
+15 
+ 
+Supplementary Note 5: MPM avalanche and impact simulations  
+Avalanche MPM simulation 
+ 
+Figure SF7. Spatial distribution of the velocity norm before the impact of the wind snow slab. 
+This figure also illustrates the typical sizes of snow blocks before the impact. Inset: maximum 
+value of the velocity norm of the wind snow slab as a function of time during the MPM 
+avalanche simulation. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+16 
+ 
+ 
+Figure SF8. Three dimensional simulations of thorax impact: A: impact of a rigid rectangular box (0.15 m x 0.15 m x 0.06 m) of 10 kg and initial velocity 7 
+m/s in lines with the crash test laboratory experiments of Kroell et al. (1974) with restrained back.  B, C and D: impact of an elastoplastic snow box of 
+density 400 kg/m3 and different volumes (VA=0.125 m3, VB=0.25 m3, VC=0.5 m3) with initial velocity 2 m/s. The out-of-plane dimension of the snow block 
+is 0.5 m.
+  A                                                                          B                                                                      C                                                                      D                                                                             
+17 
+ 
+Supplementary Note 6: Model parameters 
+1. Parameters of the analytical model 
+Geometry 
+Geometric parameters for the plane strain model in Fig 4a have been extracted from the 
+investigations of the Dyatlov case (Buyanov and Slobtsov 2014).  According to the field data, 
+the planar weak layer was parallel to the steep slope of the local step (hillock), whose inclination 
+was estimated in the range of  25° − 30°. Based on this data, the average value of 𝛼 = 28° was 
+adopted for the inclination of the weak layer. The same source allowed for estimating the 
+varying depth of the weak layer, starting as ℎ0 = 0.5 𝑚 at the cut (𝑥 = 0) and decreasing uphill 
+until it r eaches at 𝑥 ≥ 𝑙𝑐 = 4 𝑚 the portion of the slope with the constant depth of the weak 
+layer ℎ𝑐 = 0.1 𝑚. The length of the cut 𝑏 = 6.5 𝑚 was calculated as the length of the tent 
+(4.5 𝑚) plus 1.0 m on each side of the tent to allow for its installation.  
+Snow properties  
+Elastic length of the snow slab was adopted as 𝑙𝑒0 = 1.0 𝑚, corresponding for ℎ0 = 0.5 𝑚 to 
+the Young’s modulus of the slab 𝐸 = 8 𝑀𝑃𝑎 (van Herwijnen et al. 2016), shear modulus of the 
+weak layer 𝐺 = 1 𝑀𝑃𝑎 (Gaume et al. 2017) and the thickness of the depth hoar weak layer 𝑑 =
+20 𝑐𝑚. Densities of the snow slab and the wind transported snow have been taken as  𝜌 =
+300 
+𝑘𝑔
+𝑚3  and  𝜌𝑤 = 400 
+𝑘𝑔
+𝑚3, respectively (Paterson 1994). 
+The lower bound of the initial  (pre-cut) lateral snow pressure coefficient  𝐾0 can be estimated 
+assuming that the snow slab is an elastic material with the Poisson ratio 𝜈: 𝐾0 =
+𝜈
+1−𝜈. As a first 
+approximation, 𝐾0 = 0.43 was calculated using the Poisson’s ratio of 𝜈 = 0.3 for the slab 
+(Mellor 1975). The upper bound for 𝐾0 is calculated by using Jaky’s plasticity theory based 
+formula for a normally consolidated granular material: 𝐾0 = 1 − sin 𝜑𝑠, where 𝜑𝑠 is the angle 
+of internal friction of the snow in the slab.  Adopting the friction in the slab as  𝜑𝑠 = 25° (de 
+Montmollin 1978), results in 𝐾0 = 0.58. In the paper, we adopt an average value of 𝐾0 = 0.5.   
+Concerning internal friction of the weak layer, Reiweger et al. (2015) report values between 12 
+and 28° with an average of 20°. For cohesion, Jamieson and Johnston (2001) measured values 
+typically between 0.2 and 1.5 kPa and Reiweger et al. (2015) reported a cohesion value of 0.17 
+kPa. The representative values of 𝜑 = 20° and 𝑐 = 0.44 kPa were used in the paper.  
+ 
+18 
+ 
+Wind transported snow deposition  
+The deposition flux value 𝑄 = 0.008 𝑘𝑔 𝑚−1 𝑠−1 calculated based on the analytical model 
+and the estimated range of delay corresponds to a range of possible average wind velocities 
+between approximately 2 and 12 m/s (Fig. SF9, Sturm and Stuefer 2013). These values 
+encompass the reported range of katabatic wind velocities (4-10 m/s) in the night of the 
+Dyatlov Pass accident (Buyanov and Slobtsov 2014). 
+ 
+Figure SF9. Deposition flux rate behind a parapet as a function of the average wind speed 
+(based on Sturm and Stuefer 2013). The grey area represents the range of wind speeds 
+reported the night of the 1st of February close to the Dyatlov pass. The red arrows represent 
+the extreme values of wind speed measured for a flux of 0.008 kg/m/s. 
+2. Parameters of the MPM snow model 
+The simulated slope bed surface has an inclination of 28° and a dynamic friction angle of 22°. 
+The snow above the slope has a density 𝜌 = 300 𝑘𝑔/𝑚3 with a varying slab depth. The slab 
+depth at the cut is equal to ℎ0/ cos 𝛼 and it is equal to ℎ𝑐/ cos 𝛼 for 𝑥 = 𝑙𝑐. The wind -
+transported snow has a density 𝜌 = 400 𝑘𝑔/𝑚3 and a depth ℎw/ cos 𝛼 at the cut and smoothly 
+decreases to zero for 𝑥 = 𝑙𝑤 = 2.5𝑚 given by the analytic study. The Young’s moduli of the 
+snow slab (E=8 MPa) and wind-transported slab (Ew=17 MPa) layers were derived from density 
+based on the experiments of van Herwijnen et al. (2016). The Poisson’s ratio was taken equal 
+to 0.3 (Mellor 1975). The tensile strength of the snow slab and wind -transported slab layers 
+were taken equal to 6 and 10 kPa, respect ively, based on snow density and according to the 
+
+19 
+ 
+experiments of Jamieson and Johnston (1990). For both the snow slab and the wind transported 
+slab, we defined 𝑀 = 0.8 which leads to angle of friction of 21° (Reiweger et al. 2015) and a 
+hardening coefficient 𝜉 = 5 leading to a brittle snow slab behavior (Gaume et al. 2018). The 
+value of 𝛽 was chosen equal to 0.2 for the snow slab and to 0.1 for the wind transported snow 
+slab (Reiweger et al. 2015; Gaume et al. 2018a, 2018b, 2019) 
+ 
+3. Biomedical parameters 
+Concerning the human body, the elastic modulus is chosen equal to 0.215 MPa to obtain a 
+maximum deformation of the thorax of 49%, similar to that obtained from crash tests performed 
+on human cadavers with restrained b ack leading to fatal injuries (Kroell e t al. 1974). The 
+Poisson’s ratio was taken equal to 0.35 based on Chawla et al. (2006). The injury criterion was 
+based on the AIS (Abbreviated Injury Scale, Fenner et al. 1971) and relates the injury rating to 
+the maximum normalized deflection of the thorax (Fig. SF10).  
+ 
+ 
+Figure SF10. Injury rating as a function of the maximum normalized deflection during the 
+crash tests. Based on data from Kroell et al. (1974). 
+ 
+ 
+ 
+
+20 
+ 
+Supplementary Note 8: Description of supplementary videos  
+ 
+Supplementary Movie 1: 2D MPM simulation of the Dyatlov slab avalanche illustrating the 
+volumetric plastic strain. 
+ 
+Supplementary Movie 2: 2D MPM simulation of the Dyatlov slab avalanche illustrating the 
+absolute velocity of the snow slab. 
+ 
+Supplementary Movie 3: 3D MPM simulation of the GM crash test (10 kg rigid block with a 
+7 m/s impact velocity). 
+ 
+Supplementary Movie 4: 3D MPM simulation of a snow block impact (400 kg/m3 and 0.125 
+m3 volume block with 2 m/s impact velocity). 
+ 
+Supplementary Movie 5: 3D MPM simulation of a snow block impact (400 kg/m3 and 0.25 
+m3 volume block with 2 m/s impact velocity). 
+ 
+Supplementary Movie 6: 3D MPM simulation of a snow block impact (400 kg/m3 and 0.5 
+m3 volume block with 2 m/s impact velocity). 
+ 
+ 
+ 
+ 
+21 
+ 
+Supplementary References 
+1. Barraclough, T. W., Blackford, J. R., Liebenstein, S., Sandfeld, S., Stratford, T. J., 
+Weinländer, G., & Zaiser, M. (2017). Propagating compaction bands in confined 
+compression of snow. Nature Physics, 13(3), 272-275. doi:10.1038/nphys3966 
+2. Buyanov E.V. and Slobtsov B.E. (2017) Mystery of the Dyatlov group death. (Taina gibeli 
+gruppy Dyatlova). Litres, ISBN 978-5040256921 
+3. Buyanov 2020 On the nature of avalanche formation in mil d slopes (in Russian), 
+mountain.RU, 9235, http://www.mountain.ru/article/article_display1.php?article_id=9235 
+4. Chawla, A., Mukherjee, S., & Karthikeyan, B. (2006). Mechanical properties of soft tissues 
+in the human chest, abdomen and upper extremities. Institution of Engineers, J. Mechanical 
+Engineering. 
+5. Fenner, H. A., Flamboe, E. E., Nelson, W. D., & Hames, L. N. (1971). Field application and 
+research development of the abbr eviated injury scale (No. 710873). SAE Technical Paper. 
+doi: 10.4271/710873 
+6. Filhol, S., & Sturm, M. (2019). The smoothing of landscapes during snowfall with no 
+wind. Journal of Glaciology, 65(250), 173-187. doi: 10.1017/jog.2018.104 
+7. Fukuzawa, T., & Akitaya, E. (1993). Depth-hoar crystal growth in the surface layer under 
+high temperature gradient.  Annals of Glaciology,  18, 39 -45. doi: 
+10.3189/S026030550001123X 
+8. Gaume, J., van Herwijnen, A., Chambon, G., Wever, N., & Schweizer, J. (2017). Snow 
+fracture in relation to slab avalanche release: critical state for the onset of crack propagation. 
+11, 217-228. doi: 10.5194/tc-11-217-2017 
+9. Gaume, J., Gast, T., Teran, J., van Herwijnen, A., & Jiang, C. (2018). Dynamic anticrack 
+propagation in snow. Nature communications, 9(1), 1-10. doi: 10.1038/s41467-018-05181-
+w 
+10. Heierli, J., Gumbsch, P., & Zaiser, M. (2008). Anticrack nucleation as triggering mechanism 
+for snow slab avalanches. Science, 321(5886), 240-243. doi: 10.1126/science.1153948 
+11. Jamieson, J. B., & Johnston, C. D. (1990). In-situ tensile tests of snow-pack layers. Journal 
+of Glaciology, 36(122), 102-106. doi: 10.3189/S002214300000561X 
+12. Jamieson, B., & Johnston, C. D. (2001). Evaluation of the shear frame test for weak  
+snowpack layers. Annals of Glaciology, 32, 59-69. doi: 10.3189/172756401781819472 
+22 
+ 
+13. Kroell, C. K., Schneider, D. C., & Nahum, A. M. (1974). Impact tolerance and response of 
+the human thorax II (No. 741187). SAE Technical Paper. doi: 10.4271/741187 
+14. McClung, D. M. (1979). Shear fracture precipitated by strain softening as a mechanism of 
+dry slab avalanche release.  Journal of Geophysical Research: Solid Earth,  84(B7), 3519-
+3526. doi: 10.1029/JB084iB07p03519 
+15. McClung, D. M. (2009). Dimensions of dry snow slab avalanches from field measurements. 
+Journal of Geophysical Research: Earth Surface, 114(F1). doi: 10.1029/2007JF000941 
+16. McClung, D., & Schaerer, P. A. (2006). The avalanche handbook. The Mountaineers Books. 
+17. Mellor, M. (1977). Engineering properties of snow. Journal of Glaciology, 19(81), 15-66. 
+18. Paterson, W. S. B. (1994). Physics of glaciers. Butterworth-Heinemann. 
+19. de Montmollin, V . (1978). Introduction à la rhéologie de la neige  (Doctoral dissertation, 
+Universite Scientifique et Medicale de Grenoble). 
+20. Reiweger, I., Gaume, J., & Schweizer, J. (2015). A new mixed‐mode failure criterion  for 
+weak snowpack layers.  Geophysical research letters,  42(5), 1427 -1432. doi: 
+10.1002/2014GL062780 
+21. Sigrist, C. (2006). Measurement of fracture mechanical properties of snow and application 
+to dry snow slab avalanche release (Doctoral dissertation, ETH Zurich). 
+22. Sturm, M., & Stuefer, S. (2013). Wind -blown flux rates derived from drifts at arctic snow 
+fences. Journal of Glaciology, 59(213), 21-34. doi: 10.3189/2013JoG12J110 
+ 
+ 

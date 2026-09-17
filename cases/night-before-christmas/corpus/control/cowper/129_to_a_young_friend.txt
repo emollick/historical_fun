@@ -1,0 +1,19 @@
+title: To a Young Friend
+author: William Cowper
+date: 1793
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: iambic pentameter
+lines: 9
+attribution: certain
+notes: 
+
+On his arriving at Cambridge wet when no rain had fallen there.
+
+If Gideon's fleece, which drench'd with dew he found
+While moisture none refresh'd the herbs around,
+Might fitly represent the church, endow'd
+With heavenly gifts to heathens not allow'd;
+In pledge, perhaps, of favours from on high,
+Thy locks were wet when others' locks were dry:
+Heaven grant us half the omen--may we see
+Not drought on others, but much dew on thee!

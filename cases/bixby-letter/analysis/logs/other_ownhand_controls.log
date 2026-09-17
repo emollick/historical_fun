@@ -1,0 +1,5 @@
+docs Counter({'lincoln': 750, 'hay': 315, 'control:Ulysses S. Grant': 276, 'control:Henry Adams': 276, 'control:Walt Whitman': 268, 'control:Ralph Waldo Emerson': 268, 'control:William H. Seward': 266, 'control:Horace Greeley': 265, 'control:George William Curtis': 262, 'control:Edward Everett': 259, 'control:Frederick Douglass': 258, 'control:Bayard Taylor': 258, 'control:Charles Sumner': 257, 'control:John Lothrop Motley': 257, 'control:Gideon Welles': 254, 'control:William T. Sherman': 252, 'control:Mark Twain': 247, 'control:James Russell Lowell': 243, 'control:William O. Stoddard': 227, 'control:Noah Brooks': 227, 'control:John G. Nicolay': 222, 'control:Salmon P. Chase': 213})
+clf char35 done
+clf char35_nopunct done
+clf word12 done
+clf multi done

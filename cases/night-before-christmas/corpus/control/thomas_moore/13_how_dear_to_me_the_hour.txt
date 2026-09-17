@@ -1,0 +1,18 @@
+title: How Dear to Me the Hour
+author: Thomas Moore
+date: c. 1808-1834
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic pentameter
+lines: 8
+attribution: certain
+notes: song (Irish Melodies, 1808-1834)
+
+How dear to me the hour when daylight dies,
+And sunbeams melt along the silent sea,
+For then sweet dreams of other days arise,
+And memory breathes her vesper sigh to thee.
+
+And, as I watch the line of light, that plays
+Along the smooth wave toward the burning west,
+I long to tread that golden path of rays,
+And think 'twould lead to some bright isle of rest.

@@ -1,0 +1,26 @@
+title: The Rector and His Curate;
+author: Thomas Moore
+date: c. 1813-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic mixed
+lines: 16
+attribution: certain
+notes: light satirical verse (Satirical and Humorous Poems, mostly from The Times / Morning Chronicle, 1820s-30s)
+
+The account is balanced--the bill drawn out,--
+The debit and credit all right, no doubt--
+The Rector rolling in wealth and state,
+Owes to his Curate six pound eight;
+The Curate, that least well-fed of men,
+Owes to his Rector seven pound ten,
+Which maketh the balance clearly due
+From Curate to Rector, one pound two.
+
+Ah balance, on earth unfair, uneven!
+But sure to be all set right in heaven,
+Where bills like these will be checkt, some day,
+And the balance settled the other way:
+Where Lyons the curate's hard-wrung sum
+Will back to his shade with interest come;
+And Marcus, the rector, deep may rue
+This tot, in his favor, of one pound two.

@@ -1,0 +1,818 @@
+{
+ "source_file": "loc_ca_beale_treasure_bedford_1885_1900.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1900-12-31&fo=json&ops=AND&qs=beale+treasure+bedford&searchType=advanced&start_date=1885-01-01",
+ "total_hits": 180,
+ "results_in_capture": 100,
+ "results": [
+  {
+   "date": "1893-01-20",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-01-20/ed-1/?sp=1"
+  },
+  {
+   "date": "1896-02-26",
+   "title": "juniata sentinel and republican (mifflintown, juniata county, pa.) 1873-1955",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn86053634/1896-02-26/ed-1/?sp=2"
+  },
+  {
+   "date": "1899-06-16",
+   "title": "the silver state (unionville, nev.) 1870-1903",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022060/1899-06-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1889-06-27",
+   "title": "pittsburg dispatch (pittsburg [pa.]) 1880-1923",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024546/1889-06-27/ed-1/?sp=4"
+  },
+  {
+   "date": "1885-01-07",
+   "title": "juniata sentinel and republican (mifflintown, juniata county, pa.) 1873-1955",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn86053634/1885-01-07/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-09-18",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1894-09-18/ed-1/?sp=8"
+  },
+  {
+   "date": "1890-05-29",
+   "title": "pittsburg dispatch (pittsburg [pa.]) 1880-1923",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024546/1890-05-29/ed-1/?sp=12"
+  },
+  {
+   "date": "1899-09-20",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1899-09-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1889-03-06",
+   "title": "juniata sentinel and republican (mifflintown, juniata county, pa.) 1873-1955",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn86053634/1889-03-06/ed-1/?sp=2"
+  },
+  {
+   "date": "1899-07-30",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1899-07-30/ed-1/?sp=7"
+  },
+  {
+   "date": "1891-03-06",
+   "title": "griggs courier (cooperstown, griggs co., dak. [n.d.]) 1885-1902",
+   "state": [
+    "north dakota"
+   ],
+   "url": "http://www.loc.gov/resource/sn88076998/1891-03-06/ed-1/?sp=2"
+  },
+  {
+   "date": "1895-11-01",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1895-11-01/ed-1/?sp=10"
+  },
+  {
+   "date": "1899-09-16",
+   "title": "virginian-pilot (norfolk, va.) 1898-1911",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071779/1899-09-16/ed-1/?sp=6"
+  },
+  {
+   "date": "1894-11-14",
+   "title": "alexandria gazette (alexandria, d.c.) 1834-1974",
+   "state": [
+    "virginia",
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025007/1894-11-14/ed-1/?sp=2"
+  },
+  {
+   "date": "1896-02-28",
+   "title": "washington standard (olympia, wash. territory) 1860-1921",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022770/1896-02-28/ed-1/?sp=4"
+  },
+  {
+   "date": "1896-04-10",
+   "title": "washington standard (olympia, wash. territory) 1860-1921",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022770/1896-04-10/ed-1/?sp=4"
+  },
+  {
+   "date": "1887-04-14",
+   "title": "the pacific commercial advertiser (honolulu, hawaiian islands) 1885-1921",
+   "state": [
+    "hawaii"
+   ],
+   "url": "http://www.loc.gov/resource/sn85047084/1887-04-14/ed-1/?sp=2"
+  },
+  {
+   "date": "1885-10-14",
+   "title": "memphis daily appeal (memphis, tenn.) 1847-1886",
+   "state": [
+    "tennessee",
+    "mississippi",
+    "georgia",
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045160/1885-10-14/ed-1/?sp=4"
+  },
+  {
+   "date": "1885-09-16",
+   "title": "memphis daily appeal (memphis, tenn.) 1847-1886",
+   "state": [
+    "tennessee",
+    "mississippi",
+    "georgia",
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045160/1885-09-16/ed-1/?sp=4"
+  },
+  {
+   "date": "1896-05-01",
+   "title": "washington standard (olympia, wash. territory) 1860-1921",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022770/1896-05-01/ed-1/?sp=4"
+  },
+  {
+   "date": "1896-03-27",
+   "title": "washington standard (olympia, wash. territory) 1860-1921",
+   "state": [
+    "washington"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022770/1896-03-27/ed-1/?sp=4"
+  },
+  {
+   "date": "1886-09-01",
+   "title": "juniata sentinel and republican (mifflintown, juniata county, pa.) 1873-1955",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn86053634/1886-09-01/ed-1/?sp=3"
+  },
+  {
+   "date": "1893-10-09",
+   "title": "the providence news (providence [r.i.]) 1891-1906",
+   "state": [
+    "rhode island"
+   ],
+   "url": "http://www.loc.gov/resource/sn91070630/1893-10-09/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-10-24",
+   "title": "randolph enterprise (beverly, w. va.) 1874-1956",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86092282/1894-10-24/ed-1/?sp=1"
+  },
+  {
+   "date": "1893-06-01",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-06-01/ed-1/?sp=5"
+  },
+  {
+   "date": "1896-06-30",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1896-06-30/ed-1/?sp=15"
+  },
+  {
+   "date": "1900-03-07",
+   "title": "the weekly register (point pleasant, va. [w. va.]) 1862-1909",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026817/1900-03-07/ed-1/?sp=3"
+  },
+  {
+   "date": "1891-01-25",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1891-01-25/ed-1/?sp=3"
+  },
+  {
+   "date": "1894-09-12",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1894-09-12/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-10-04",
+   "title": "the national tribune (washington, d.c.) 1877-1917",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn82016187/1894-10-04/ed-1/?sp=6"
+  },
+  {
+   "date": "1892-09-01",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1892-09-01/ed-1/?sp=3"
+  },
+  {
+   "date": "1890-08-04",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1890-08-04/ed-1/?sp=1"
+  },
+  {
+   "date": "1896-08-03",
+   "title": "weekly courier-journal (louisville [ky.]) 1874-1917",
+   "state": [
+    "kentucky"
+   ],
+   "url": "http://www.loc.gov/resource/sn84038560/1896-08-03/ed-1/?sp=8"
+  },
+  {
+   "date": "1897-06-15",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1897-06-15/ed-1/?sp=5"
+  },
+  {
+   "date": "1885-04-02",
+   "title": "sacramento daily record-union (sacramento [calif.]) 1875-1891",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014381/1885-04-02/ed-1/?sp=3"
+  },
+  {
+   "date": "1885-08-07",
+   "title": "memphis daily appeal (memphis, tenn.) 1847-1886",
+   "state": [
+    "tennessee",
+    "mississippi",
+    "georgia",
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045160/1885-08-07/ed-1/?sp=2"
+  },
+  {
+   "date": "1893-01-10",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1893-01-10/ed-1/?sp=2"
+  },
+  {
+   "date": "1896-02-14",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1896-02-14/ed-1/?sp=2"
+  },
+  {
+   "date": "1899-06-20",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1899-06-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1892-07-08",
+   "title": "shenandoah herald (woodstock, va.) 1865-1974",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85026941/1892-07-08/ed-1/?sp=3"
+  },
+  {
+   "date": "1892-07-15",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1892-07-15/ed-1/?sp=7"
+  },
+  {
+   "date": "1886-07-21",
+   "title": "the pacific commercial advertiser (honolulu, hawaiian islands) 1885-1921",
+   "state": [
+    "hawaii"
+   ],
+   "url": "http://www.loc.gov/resource/sn85047084/1886-07-21/ed-1/?sp=1"
+  },
+  {
+   "date": "1889-10-23",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1889-10-23/ed-1/?sp=1"
+  },
+  {
+   "date": "1889-06-03",
+   "title": "weekly courier-journal (louisville [ky.]) 1874-1917",
+   "state": [
+    "kentucky"
+   ],
+   "url": "http://www.loc.gov/resource/sn84038560/1889-06-03/ed-1/?sp=2"
+  },
+  {
+   "date": "1891-08-09",
+   "title": "pittsburg dispatch (pittsburg [pa.]) 1880-1923",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024546/1891-08-09/ed-1/?sp=12"
+  },
+  {
+   "date": "1890-09-11",
+   "title": "the national tribune (washington, d.c.) 1877-1917",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn82016187/1890-09-11/ed-1/?sp=6"
+  },
+  {
+   "date": "1885-06-30",
+   "title": "sacramento daily record-union (sacramento [calif.]) 1875-1891",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014381/1885-06-30/ed-1/?sp=1"
+  },
+  {
+   "date": "1895-07-15",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1895-07-15/ed-1/?sp=4"
+  },
+  {
+   "date": "1886-10-04",
+   "title": "savannah morning news (savannah) 1868-1887",
+   "state": [
+    "georgia"
+   ],
+   "url": "http://www.loc.gov/resource/sn82015137/1886-10-04/ed-1/?sp=8"
+  },
+  {
+   "date": "1899-08-17",
+   "title": "gloucester county democrat (woodbury, n.j.) 1878-1932",
+   "state": [
+    "new jersey"
+   ],
+   "url": "http://www.loc.gov/resource/sn87068079/1899-08-17/ed-1/?sp=1"
+  },
+  {
+   "date": "1896-06-30",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1896-06-30/ed-1/?sp=21"
+  },
+  {
+   "date": "1895-04-14",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1895-04-14/ed-1/?sp=16"
+  },
+  {
+   "date": "1895-04-07",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1895-04-07/ed-1/?sp=16"
+  },
+  {
+   "date": "1896-12-02",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1896-12-02/ed-1/?sp=3"
+  },
+  {
+   "date": "1894-11-15",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1894-11-15/ed-1/?sp=2"
+  },
+  {
+   "date": "1891-04-03",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1891-04-03/ed-1/?sp=8"
+  },
+  {
+   "date": "1889-09-25",
+   "title": "the cheyenne daily leader (cheyenne, wyo.) 1887-1895",
+   "state": [
+    "wyoming"
+   ],
+   "url": "http://www.loc.gov/resource/sn86072173/1889-09-25/ed-1/?sp=1"
+  },
+  {
+   "date": "1890-07-07",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1890-07-07/ed-1/?sp=2"
+  },
+  {
+   "date": "1889-11-30",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1889-11-30/ed-1/?sp=3"
+  },
+  {
+   "date": "1888-11-03",
+   "title": "butte semi-weekly miner (butte, mont.) 1886-1890",
+   "state": [
+    "montana"
+   ],
+   "url": "http://www.loc.gov/resource/sn84036034/1888-11-03/ed-1/?sp=4"
+  },
+  {
+   "date": "1889-09-10",
+   "title": "the daily times (richmond, va.) 1886-1889",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071854/1889-09-10/ed-1/?sp=1"
+  },
+  {
+   "date": "1891-03-05",
+   "title": "hand county press (miller, dakota [s.d.]) 1882-1893",
+   "state": [
+    "south dakota"
+   ],
+   "url": "http://www.loc.gov/resource/sn98062948/1891-03-05/ed-1/?sp=2"
+  },
+  {
+   "date": "1892-11-18",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1892-11-18/ed-1/?sp=6"
+  },
+  {
+   "date": "1891-08-10",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1891-08-10/ed-1/?sp=3"
+  },
+  {
+   "date": "1900-04-25",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1900-04-25/ed-1/?sp=7"
+  },
+  {
+   "date": "1891-02-24",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1891-02-24/ed-1/?sp=2"
+  },
+  {
+   "date": "1896-04-23",
+   "title": "river falls journal (river falls, pierce county, wis.) 1872-2019",
+   "state": [
+    "wisconsin"
+   ],
+   "url": "http://www.loc.gov/resource/sn85033255/1896-04-23/ed-1/?sp=2"
+  },
+  {
+   "date": "1893-09-23",
+   "title": "mohave county miner (mineral park, a.t. [ariz.]) 1882-1918",
+   "state": [
+    "arizona"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024828/1893-09-23/ed-1/?sp=3"
+  },
+  {
+   "date": "1893-04-30",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1893-04-30/ed-1/?sp=2"
+  },
+  {
+   "date": "1885-03-16",
+   "title": "sacramento daily record-union (sacramento [calif.]) 1875-1891",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014381/1885-03-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1893-01-07",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-01-07/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-01-28",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1894-01-28/ed-1/?sp=8"
+  },
+  {
+   "date": "1890-10-25",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1890-10-25/ed-1/?sp=3"
+  },
+  {
+   "date": "1892-03-08",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1892-03-08/ed-1/?sp=7"
+  },
+  {
+   "date": "1892-10-27",
+   "title": "the republican journal (belfast, me.) 1829-current",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn78000873/1892-10-27/ed-1/?sp=1"
+  },
+  {
+   "date": "1891-08-04",
+   "title": "evening journal (wilmington, del.) 1888-1932",
+   "state": [
+    "delaware"
+   ],
+   "url": "http://www.loc.gov/resource/sn85042354/1891-08-04/ed-1/?sp=2"
+  },
+  {
+   "date": "1895-09-19",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1895-09-19/ed-1/?sp=5"
+  },
+  {
+   "date": "1891-11-26",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1891-11-26/ed-1/?sp=6"
+  },
+  {
+   "date": "1885-11-04",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1885-11-04/ed-1/?sp=3"
+  },
+  {
+   "date": "1900-04-11",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1900-04-11/ed-1/?sp=3"
+  },
+  {
+   "date": "1891-08-12",
+   "title": "the morning news (savannah, ga.) 1887-1900",
+   "state": [
+    "georgia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86063034/1891-08-12/ed-1/?sp=5"
+  },
+  {
+   "date": "1889-08-03",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1889-08-03/ed-1/?sp=9"
+  },
+  {
+   "date": "1888-05-03",
+   "title": "the evening world (new york, n.y.) 1887-1931",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030193/1888-05-03/ed-3/?sp=2"
+  },
+  {
+   "date": "1888-08-13",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1888-08-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1894-08-13",
+   "title": "the jersey city news (jersey city [n.j.]) 1889-1906",
+   "state": [
+    "new jersey"
+   ],
+   "url": "http://www.loc.gov/resource/sn87068097/1894-08-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1889-08-23",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1889-08-23/ed-1/?sp=2"
+  },
+  {
+   "date": "1895-03-15",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1895-03-15/ed-1/?sp=4"
+  },
+  {
+   "date": "1895-05-03",
+   "title": "the san francisco call (san francisco [calif.]) 1895-1913",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn85066387/1895-05-03/ed-1/?sp=10"
+  },
+  {
+   "date": "1892-07-31",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1892-07-31/ed-1/?sp=8"
+  },
+  {
+   "date": "1887-07-05",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1887-07-05/ed-1/?sp=1"
+  },
+  {
+   "date": "1885-06-08",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1885-06-08/ed-1/?sp=1"
+  },
+  {
+   "date": "1892-10-02",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1892-10-02/ed-1/?sp=5"
+  },
+  {
+   "date": "1891-06-27",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1891-06-27/ed-1/?sp=11"
+  },
+  {
+   "date": "1897-06-24",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1897-06-24/ed-1/?sp=2"
+  },
+  {
+   "date": "1889-06-22",
+   "title": "custer chronicle (custer city, black hills, d.t. [s.d.]) 1880-1890",
+   "state": [
+    "south dakota"
+   ],
+   "url": "http://www.loc.gov/resource/sn97065762/1889-06-22/ed-1/?sp=7"
+  },
+  {
+   "date": "1887-12-31",
+   "title": "springfield daily republic (springfield, o. [ohio]) 1887-1888",
+   "state": [
+    "ohio"
+   ],
+   "url": "http://www.loc.gov/resource/sn87076917/1887-12-31/ed-1/?sp=1"
+  },
+  {
+   "date": "1899-04-05",
+   "title": "the times (washington [d.c.]) 1897-1901",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85054468/1899-04-05/ed-1/?sp=6"
+  },
+  {
+   "date": "1889-06-08",
+   "title": "the penn's grove record (penn's grove, salem co., n.j.) 1878-????",
+   "state": [
+    "new jersey"
+   ],
+   "url": "http://www.loc.gov/resource/sn85035524/1889-06-08/ed-1/?sp=1"
+  },
+  {
+   "date": "1897-07-18",
+   "title": "the san francisco call (san francisco [calif.]) 1895-1913",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn85066387/1897-07-18/ed-1/?sp=14"
+  },
+  {
+   "date": "1894-06-25",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1894-06-25/ed-1/?sp=11"
+  }
+ ]
+}

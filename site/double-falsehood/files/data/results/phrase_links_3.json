@@ -1,0 +1,8600 @@
+{
+ "sizes": {
+  "Shakespeare": 605034,
+  "Fletcher": 331563,
+  "Fletcher+other": 506010,
+  "Beaumont+Fletcher": 151869,
+  "Beaumont": 43495,
+  "Massinger": 213763,
+  "Shirley": 270034,
+  "Middleton": 148594,
+  "Ford": 112558,
+  "Webster": 70471,
+  "Jonson": 115311,
+  "Chapman": 173287,
+  "Marston": 75479,
+  "Dekker": 102264,
+  "Heywood": 122965,
+  "Rowley": 76819,
+  "Field": 33940,
+  "Brome": 74594,
+  "Davenant": 57757,
+  "Tourneur": 20301,
+  "Daborne": 18560,
+  "Anon": 11417,
+  "R18": 491468,
+  "Shelton": 205956,
+  "Theobald": 31818,
+  "Theobald-verse": 5831,
+  "Theobald-transl": 55760,
+  "Mestayer": 11278
+ },
+ "scenes": {
+  "collab_henry8|1.1": {
+   "n_words": 1856,
+   "links": {
+    "Shakespeare": 33,
+    "Fletcher+other": 13,
+    "Shirley": 11,
+    "Massinger": 8,
+    "Webster": 6,
+    "Chapman": 8,
+    "Heywood": 9,
+    "Marston": 1,
+    "R18": 17,
+    "Ford": 6,
+    "Jonson": 3,
+    "Davenant": 1,
+    "Shelton": 3,
+    "Theobald": 1,
+    "Middleton": 3,
+    "Beaumont": 2,
+    "Rowley": 2,
+    "Fletcher": 9,
+    "Beaumont+Fletcher": 6,
+    "Mestayer": 1,
+    "Brome": 2,
+    "Dekker": 4,
+    "Tourneur": 1
+   },
+   "rate": {
+    "Shakespeare": 5.45423893533256,
+    "Fletcher": 2.7144162647822583,
+    "Fletcher+other": 2.5691191873678387,
+    "Beaumont+Fletcher": 3.9507733638859808,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 3.742462446728386,
+    "Shirley": 4.073561107119844,
+    "Middleton": 2.0189240480773116,
+    "Ford": 5.330585120560067,
+    "Webster": 8.514140568460785,
+    "Jonson": 2.6016598589900357,
+    "Chapman": 4.616618673068378,
+    "Marston": 1.3248718186515454,
+    "Dekker": 3.9114448877415318,
+    "Heywood": 7.319155857357785,
+    "Rowley": 2.6035225660318413,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 3.45902479917309,
+    "Shelton": 1.456621802715143,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 8.866820358219542
+   },
+   "examples": {
+    "Shakespeare": [
+     "and't may be",
+     "said they saw",
+     "aduise you and",
+     "you company the",
+     "thee of high",
+     "if not from"
+    ],
+    "Fletcher+other": [
+     "must fetch him",
+     "a proper title",
+     "ere it was",
+     "'tis you go",
+     "a charge as",
+     "is a warrant"
+    ],
+    "Shirley": [
+     "so it did",
+     "his own letter",
+     "whom from the",
+     "self we may",
+     "my chamber when",
+     "things i obey"
+    ],
+    "Massinger": [
+     "of reason you",
+     "it will help",
+     "garment of this",
+     "peace between the",
+     "is freed from",
+     "charles the emperor"
+    ],
+    "Webster": [
+     "be aduis'd i",
+     "to th' dead",
+     "lo you my",
+     "am the shadow",
+     "but he came",
+     "the cardinal i"
+    ],
+    "Chapman": [
+     "difference betwixt you",
+     "and practise i",
+     "in france as",
+     "nature that he's",
+     "like out of",
+     "and the bodies"
+    ],
+    "Heywood": [
+     "favour sir this",
+     "heart that wishes",
+     "practise i am",
+     "that if not",
+     "a place next",
+     "i belong to"
+    ],
+    "Marston": [
+     "that thus the"
+    ],
+    "R18": [
+     "his nature that",
+     "if with the",
+     "by this so",
+     "since last we",
+     "last we saw",
+     "and us not"
+    ],
+    "Ford": [
+     "of a peace",
+     "divell is a",
+     "out stare him",
+     "and he begins",
+     "safety that you",
+     "which is budded"
+    ],
+    "Jonson": [
+     "be to as",
+     "say till this",
+     "gold my life"
+    ],
+    "Davenant": [
+     "then you lost"
+    ],
+    "Shelton": [
+     "married to one",
+     "himself pleased and",
+     "do in these"
+    ],
+    "Theobald": [
+     "err he did"
+    ],
+    "Middleton": [
+     "wonder that such",
+     "by a good",
+     "has he that"
+    ],
+    "Beaumont": [
+     "upon them that",
+     "heaven hath given"
+    ],
+    "Rowley": [
+     "france i thank",
+     "to augment it"
+    ],
+    "Fletcher": [
+     "ye done since",
+     "he shall appear",
+     "you go far",
+     "gone to th'",
+     "shall by me",
+     "through each part"
+    ],
+    "Beaumont+Fletcher": [
+     "let your reason",
+     "thankful to you",
+     "to mischief as",
+     "heaven be done",
+     "i shall perish",
+     "done this and"
+    ],
+    "Mestayer": [
+     "all before and"
+    ],
+    "Brome": [
+     "you be to",
+     "far i pray"
+    ],
+    "Dekker": [
+     "the bodies of",
+     "as here at",
+     "hell the divell",
+     "this instant he"
+    ],
+    "Tourneur": [
+     "of heau'n be"
+    ]
+   }
+  },
+  "collab_henry8|1.2": {
+   "n_words": 1727,
+   "links": {
+    "Shelton": 8,
+    "Shakespeare": 35,
+    "Jonson": 5,
+    "Fletcher+other": 19,
+    "Middleton": 6,
+    "R18": 16,
+    "Shirley": 5,
+    "Heywood": 7,
+    "Beaumont": 1,
+    "Massinger": 8,
+    "Fletcher": 18,
+    "Daborne": 1,
+    "Beaumont+Fletcher": 4,
+    "Chapman": 5,
+    "Ford": 2,
+    "Dekker": 3,
+    "Davenant": 1,
+    "Theobald-transl": 1,
+    "Anon": 1,
+    "Webster": 1
+   },
+   "rate": {
+    "Shakespeare": 5.78479887080726,
+    "Fletcher": 5.428832529564517,
+    "Fletcher+other": 3.754866504614533,
+    "Beaumont+Fletcher": 2.6338489092573205,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 3.742462446728386,
+    "Shirley": 1.8516186850544745,
+    "Middleton": 4.037848096154623,
+    "Ford": 1.7768617068533556,
+    "Webster": 1.4190234280767975,
+    "Jonson": 4.336099764983392,
+    "Chapman": 2.885386670667736,
+    "Marston": 0.0,
+    "Dekker": 2.933583665806149,
+    "Heywood": 5.692676777944944,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 5.387931034482759,
+    "Anon": 8.758868354208637,
+    "R18": 3.2555527521629077,
+    "Shelton": 3.884324807240381,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shelton": [
+     "this then by",
+     "point by point",
+     "by point the",
+     "hand on his",
+     "then ever they",
+     "by hunger and"
+    ],
+    "Shakespeare": [
+     "of my petition",
+     "will be mocked",
+     "what you most",
+     "is become as",
+     "by a vain",
+     "kneel i am"
+    ],
+    "Jonson": [
+     "a noble person",
+     "such that he",
+     "of himself yet",
+     "wish to your",
+     "but the fate"
+    ],
+    "Fletcher+other": [
+     "in that file",
+     "after under the",
+     "leave it with",
+     "where this is",
+     "heart of all",
+     "he did discharge"
+    ],
+    "Middleton": [
+     "would love your",
+     "i shall anon",
+     "all with charity",
+     "us know you",
+     "duke his father",
+     "say 'tis but"
+    ],
+    "R18": [
+     "have what so",
+     "every minute with",
+     "well disposed the",
+     "our power the",
+     "you ask is",
+     "is not ours"
+    ],
+    "Shirley": [
+     "by a holy",
+     "and take place",
+     "dignity of your",
+     "him every minute",
+     "plaid the part"
+    ],
+    "Heywood": [
+     "your highness would",
+     "the kings grace",
+     "king in his",
+     "will and take",
+     "past me but",
+     "by as much"
+    ],
+    "Beaumont": [
+     "live in freedom"
+    ],
+    "Massinger": [
+     "the duke being",
+     "usual with him",
+     "fear the french",
+     "forth and with",
+     "this is against",
+     "made suit to"
+    ],
+    "Fletcher": [
+     "him strive to",
+     "soul i say",
+     "they were fair",
+     "to us you",
+     "forward i can",
+     "your office is"
+    ],
+    "Daborne": [
+     "speak freely what"
+    ],
+    "Beaumont+Fletcher": [
+     "of it thanks",
+     "living but to",
+     "stand still in",
+     "conceive of me"
+    ],
+    "Chapman": [
+     "leave your honour",
+     "that are known",
+     "kings grace and",
+     "is learned and",
+     "my lady hath"
+    ],
+    "Ford": [
+     "these very words",
+     "and sir thomas"
+    ],
+    "Dekker": [
+     "to each man",
+     "more ugly then",
+     "and lost your"
+    ],
+    "Davenant": [
+     "take good heed"
+    ],
+    "Theobald-transl": [
+     "us by day"
+    ],
+    "Anon": [
+     "you a president"
+    ],
+    "Webster": [
+     "good lord cardinal"
+    ]
+   }
+  },
+  "collab_henry8|1.3": {
+   "n_words": 577,
+   "links": {
+    "Shirley": 7,
+    "Fletcher": 10,
+    "Dekker": 1,
+    "Webster": 1,
+    "Fletcher+other": 8,
+    "Massinger": 3,
+    "R18": 5,
+    "Chapman": 1,
+    "Shakespeare": 8,
+    "Jonson": 1,
+    "Middleton": 2,
+    "Marston": 2,
+    "Tourneur": 1,
+    "Brome": 1,
+    "Heywood": 2,
+    "Shelton": 1,
+    "Beaumont+Fletcher": 1,
+    "Theobald-transl": 1,
+    "Davenant": 1
+   },
+   "rate": {
+    "Shakespeare": 1.3222397418988026,
+    "Fletcher": 3.0160180719802874,
+    "Fletcher+other": 1.580996422995593,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 0.0,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 2.5922661590762646,
+    "Middleton": 1.3459493653848742,
+    "Ford": 0.0,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.5770773341335472,
+    "Marston": 2.6497436373030907,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 1.3405903960104029,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.0173602350509088,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shirley": [
+     "have worn out",
+     "and be laughed",
+     "he may my",
+     "is not cast",
+     "there i take",
+     "by the late"
+    ],
+    "Fletcher": [
+     "so great ones",
+     "of 'em now",
+     "i'm glad 'tis",
+     "never see 'em",
+     "is't for i",
+     "has no fellow"
+    ],
+    "Dekker": [
+     "france with all"
+    ],
+    "Webster": [
+     "to the cardinals"
+    ],
+    "Fletcher+other": [
+     "of fool and",
+     "like honest men",
+     "every where no",
+     "night to be",
+     "to their old",
+     "and a fiddle"
+    ],
+    "Massinger": [
+     "an honest country",
+     "that never see",
+     "there now i"
+    ],
+    "R18": [
+     "a going to",
+     "no doubt he's",
+     "what a loss",
+     "the faith they",
+     "lordship is a"
+    ],
+    "Chapman": [
+     "but the new"
+    ],
+    "Shakespeare": [
+     "lag end of",
+     "the lag end",
+     "voyage is but",
+     "have of these",
+     "way should be",
+     "tooth is not"
+    ],
+    "Jonson": [
+     "it they may"
+    ],
+    "Middleton": [
+     "out of play",
+     "better men then"
+    ],
+    "Marston": [
+     "a hand as",
+     "such a pagan"
+    ],
+    "Tourneur": [
+     "yet no my"
+    ],
+    "Brome": [
+     "shrewd ones for"
+    ],
+    "Heywood": [
+     "and feather that",
+     "whither were you"
+    ],
+    "Shelton": [
+     "had a black"
+    ],
+    "Beaumont+Fletcher": [
+     "in tennis and"
+    ],
+    "Theobald-transl": [
+     "a supper and"
+    ],
+    "Davenant": [
+     "long time out"
+    ]
+   }
+  },
+  "collab_henry8|1.4": {
+   "n_words": 929,
+   "links": {
+    "Fletcher": 11,
+    "Tourneur": 1,
+    "Shakespeare": 16,
+    "Field": 1,
+    "Ford": 3,
+    "R18": 6,
+    "Shirley": 6,
+    "Webster": 2,
+    "Massinger": 3,
+    "Fletcher+other": 15,
+    "Middleton": 4,
+    "Beaumont": 1,
+    "Marston": 4,
+    "Heywood": 6,
+    "Shelton": 3,
+    "Rowley": 2,
+    "Jonson": 2,
+    "Beaumont+Fletcher": 1,
+    "Brome": 1
+   },
+   "rate": {
+    "Shakespeare": 2.644479483797605,
+    "Fletcher": 3.317619879178316,
+    "Fletcher+other": 2.9643682931167366,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 2.221942422065369,
+    "Middleton": 2.6918987307697484,
+    "Ford": 2.6652925602800335,
+    "Webster": 2.838046856153595,
+    "Jonson": 1.734439905993357,
+    "Chapman": 0.0,
+    "Marston": 5.299487274606181,
+    "Dekker": 0.0,
+    "Heywood": 4.879437238238523,
+    "Rowley": 2.6035225660318413,
+    "Field": 2.946375957572186,
+    "Brome": 1.3405903960104029,
+    "Davenant": 0.0,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.2208322820610904,
+    "Shelton": 1.456621802715143,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "these fair ladies",
+     "so they seem",
+     "look out there",
+     "this to confirm",
+     "'em take their",
+     "grace for which"
+    ],
+    "Tourneur": [
+     "and pledge it"
+    ],
+    "Shakespeare": [
+     "from his grace",
+     "lord what say",
+     "alone you are",
+     "my lord chamberlain",
+     "good lord chamberlain",
+     "night to meet"
+    ],
+    "Field": [
+     "healths to drink"
+    ],
+    "Ford": [
+     "shine at full",
+     "the french tongue",
+     "are their pleasures"
+    ],
+    "R18": [
+     "make as great",
+     "what end is",
+     "you if these",
+     "end is this",
+     "find out and",
+     "because they speak"
+    ],
+    "Shirley": [
+     "or i'll tell",
+     "me alone you",
+     "ye all this",
+     "sweet society of",
+     "life they are",
+     "confirm my welcome"
+    ],
+    "Webster": [
+     "lord so now",
+     "lord cardinal i"
+    ],
+    "Massinger": [
+     "he hopes in",
+     "a down bed",
+     "my thanks and"
+    ],
+    "Fletcher+other": [
+     "not yet forsake",
+     "much from me",
+     "i should judge",
+     "'em nobly and",
+     "crave leave to",
+     "fear not by"
+    ],
+    "Middleton": [
+     "fair assembly you",
+     "that side i'll",
+     "take it let",
+     "take the charge"
+    ],
+    "Beaumont": [
+     "your lordship by"
+    ],
+    "Marston": [
+     "noble let me",
+     "they bear to",
+     "hand i ever",
+     "cheeks my lord"
+    ],
+    "Heywood": [
+     "speak the french",
+     "and you none",
+     "it go round",
+     "you that side",
+     "mad sir you",
+     "company what are"
+    ],
+    "Shelton": [
+     "their flocks and",
+     "take you out",
+     "the red wine"
+    ],
+    "Rowley": [
+     "duty i would",
+     "this so noble"
+    ],
+    "Jonson": [
+     "i but knew",
+     "me have such"
+    ],
+    "Beaumont+Fletcher": [
+     "welcome my fair"
+    ],
+    "Brome": [
+     "ladies will it"
+    ]
+   }
+  },
+  "collab_henry8|2.1": {
+   "n_words": 1423,
+   "links": {
+    "Middleton": 5,
+    "Fletcher+other": 23,
+    "Shakespeare": 25,
+    "R18": 18,
+    "Shelton": 7,
+    "Fletcher": 26,
+    "Chapman": 6,
+    "Marston": 3,
+    "Beaumont+Fletcher": 8,
+    "Dekker": 3,
+    "Theobald": 1,
+    "Davenant": 3,
+    "Theobald-transl": 1,
+    "Shirley": 11,
+    "Brome": 1,
+    "Webster": 4,
+    "Jonson": 3,
+    "Rowley": 2,
+    "Massinger": 6,
+    "Ford": 1,
+    "Beaumont": 2
+   },
+   "rate": {
+    "Shakespeare": 4.131999193433757,
+    "Fletcher": 7.841646987148747,
+    "Fletcher+other": 4.54536471611233,
+    "Beaumont+Fletcher": 5.267697818514641,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 2.8068468350462896,
+    "Shirley": 4.073561107119844,
+    "Middleton": 3.3648734134621856,
+    "Ford": 0.8884308534266778,
+    "Webster": 5.67609371230719,
+    "Jonson": 2.6016598589900357,
+    "Chapman": 3.462464004801283,
+    "Marston": 3.9746154559546363,
+    "Dekker": 2.933583665806149,
+    "Heywood": 0.0,
+    "Rowley": 2.6035225660318413,
+    "Field": 0.0,
+    "Brome": 1.3405903960104029,
+    "Davenant": 5.194175597763042,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 3.6624968461832714,
+    "Shelton": 3.3987842063353337,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Middleton": [
+     "save you that",
+     "till my soul",
+     "you that labour",
+     "he may a",
+     "the same all"
+    ],
+    "Fletcher+other": [
+     "conscience let it",
+     "my name once",
+     "a truth now",
+     "people you that",
+     "good angels keep",
+     "charity if ever"
+    ],
+    "Shakespeare": [
+     "in all yet",
+     "a most royal",
+     "to sir nicholas",
+     "on a gods",
+     "done upon the",
+     "fals on me"
+    ],
+    "R18": [
+     "restored me to",
+     "have this day",
+     "the prisoner yes",
+     "to revenge him",
+     "my wretched father",
+     "curse on their"
+    ],
+    "Shelton": [
+     "far enough from",
+     "now for it",
+     "was by that",
+     "little the great",
+     "himself again and",
+     "is found a"
+    ],
+    "Fletcher": [
+     "man you speak",
+     "an agony he",
+     "how i fell",
+     "sought it i",
+     "i forgive all",
+     "my state now"
+    ],
+    "Chapman": [
+     "of state was",
+     "the graves of",
+     "as all think",
+     "against him his",
+     "all yet you",
+     "a number more"
+    ],
+    "Marston": [
+     "to my honours",
+     "and sweetly in",
+     "my guiltless blood"
+    ],
+    "Beaumont+Fletcher": [
+     "is comming see",
+     "lead on a",
+     "to pitty me",
+     "on him may",
+     "that will undo",
+     "is so weighty"
+    ],
+    "Dekker": [
+     "she must fall",
+     "you met him",
+     "the lord mayor"
+    ],
+    "Theobald": [
+     "the king once"
+    ],
+    "Davenant": [
+     "him guilty of",
+     "in heaven my",
+     "make of your"
+    ],
+    "Theobald-transl": [
+     "has taken for"
+    ],
+    "Shirley": [
+     "'twill require a",
+     "the cause he",
+     "be you do",
+     "and far enough",
+     "may a little",
+     "not guilty and"
+    ],
+    "Brome": [
+     "say and then"
+    ],
+    "Webster": [
+     "never found again",
+     "from us what",
+     "of a separation",
+     "the cardinal will"
+    ],
+    "Jonson": [
+     "a buzzing of",
+     "any malice in",
+     "great men for"
+    ],
+    "Rowley": [
+     "on the emperor",
+     "that labour sir"
+    ],
+    "Massinger": [
+     "lose me i",
+     "ever from the",
+     "has done upon",
+     "himself i do",
+     "that thus far",
+     "in your fortunes"
+    ],
+    "Ford": [
+     "for certain the"
+    ],
+    "Beaumont": [
+     "possest him with",
+     "malice to the"
+    ]
+   }
+  },
+  "collab_henry8|2.2": {
+   "n_words": 1205,
+   "links": {
+    "Fletcher": 19,
+    "Beaumont+Fletcher": 8,
+    "R18": 14,
+    "Massinger": 15,
+    "Davenant": 3,
+    "Shakespeare": 21,
+    "Webster": 5,
+    "Theobald-transl": 1,
+    "Fletcher+other": 13,
+    "Jonson": 2,
+    "Shirley": 10,
+    "Heywood": 5,
+    "Chapman": 6,
+    "Middleton": 3,
+    "Beaumont": 1,
+    "Shelton": 6,
+    "Dekker": 1,
+    "Rowley": 1,
+    "Brome": 2,
+    "Theobald": 1,
+    "Ford": 3,
+    "Marston": 2
+   },
+   "rate": {
+    "Shakespeare": 3.4708793224843566,
+    "Fletcher": 5.730434336762546,
+    "Fletcher+other": 2.5691191873678387,
+    "Beaumont+Fletcher": 5.267697818514641,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 7.017117087615723,
+    "Shirley": 3.703237370108949,
+    "Middleton": 2.0189240480773116,
+    "Ford": 2.6652925602800335,
+    "Webster": 7.095117140383987,
+    "Jonson": 1.734439905993357,
+    "Chapman": 3.462464004801283,
+    "Marston": 2.6497436373030907,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 4.066197698532103,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 5.194175597763042,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.8486086581425445,
+    "Shelton": 2.913243605430286,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "and the emperor",
+     "'em and every",
+     "grace must needs",
+     "business is this",
+     "there ye shall",
+     "her that loves"
+    ],
+    "Beaumont+Fletcher": [
+     "will know him",
+     "you cannot i",
+     "had need pray",
+     "not angry we",
+     "the king please",
+     "for their loves"
+    ],
+    "R18": [
+     "of private conference",
+     "have wished for",
+     "hour of private",
+     "'em from me",
+     "your highness hand",
+     "this way is"
+    ],
+    "Massinger": [
+     "dives into the",
+     "please for me",
+     "must needs deserue",
+     "reach you the",
+     "best breed in",
+     "this bold bad"
+    ],
+    "Davenant": [
+     "rise he was",
+     "too i'll make",
+     "what he list"
+    ],
+    "Shakespeare": [
+     "believe me there's",
+     "day to both",
+     "even of your",
+     "my lord chamberlain",
+     "for his place",
+     "good lord chamberlain"
+    ],
+    "Webster": [
+     "waighty business my",
+     "fellow give me",
+     "good lord cardinal",
+     "lord cardinal of",
+     "this waighty business"
+    ],
+    "Theobald-transl": [
+     "to argue for"
+    ],
+    "Fletcher+other": [
+     "by blood and",
+     "what you come",
+     "there i say",
+     "when the greatest",
+     "live not to",
+     "'tis so this"
+    ],
+    "Jonson": [
+     "i tender my",
+     "know him one"
+    ],
+    "Shirley": [
+     "e in this",
+     "loves they have",
+     "not held a",
+     "and noble all",
+     "his business and",
+     "master would be"
+    ],
+    "Heywood": [
+     "into my private",
+     "all his business",
+     "must now confess",
+     "him so i'll",
+     "the marriage with"
+    ],
+    "Chapman": [
+     "king and is",
+     "a tender place",
+     "man to leave",
+     "works in all",
+     "business and with",
+     "a most unfit"
+    ],
+    "Middleton": [
+     "left him private",
+     "youl bear us",
+     "sent me such"
+    ],
+    "Beaumont": [
+     "lordship sent for"
+    ],
+    "Shelton": [
+     "of fortune turns",
+     "ran mad and",
+     "he ran mad",
+     "i saw well",
+     "in heart not",
+     "us and it"
+    ],
+    "Dekker": [
+     "wished for your"
+    ],
+    "Rowley": [
+     "and fearing he"
+    ],
+    "Brome": [
+     "you come where's",
+     "marriage with his"
+    ],
+    "Theobald": [
+     "lustre of her"
+    ],
+    "Ford": [
+     "queen shall be",
+     "her lustre of",
+     "present unto your"
+    ],
+    "Marston": [
+     "from these sad",
+     "my favour to"
+    ]
+   }
+  },
+  "collab_henry8|2.3": {
+   "n_words": 892,
+   "links": {
+    "Massinger": 5,
+    "Shelton": 3,
+    "Beaumont+Fletcher": 3,
+    "Chapman": 4,
+    "Fletcher+other": 9,
+    "Rowley": 2,
+    "Fletcher": 4,
+    "Jonson": 2,
+    "Shakespeare": 17,
+    "R18": 11,
+    "Beaumont": 2,
+    "Heywood": 2,
+    "Middleton": 3,
+    "Shirley": 2
+   },
+   "rate": {
+    "Shakespeare": 2.809759451534955,
+    "Fletcher": 1.206407228792115,
+    "Fletcher+other": 1.7786209758700422,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 2.339039029205241,
+    "Shirley": 0.7406474740217899,
+    "Middleton": 2.0189240480773116,
+    "Ford": 0.0,
+    "Webster": 0.0,
+    "Jonson": 1.734439905993357,
+    "Chapman": 2.308309336534189,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 2.6035225660318413,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.238192517111999,
+    "Shelton": 1.456621802715143,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Massinger": [
+     "fair parts of",
+     "you and does",
+     "of your many",
+     "my thanks and",
+     "will bear a"
+    ],
+    "Shelton": [
+     "having by my",
+     "would she not",
+     "of good women"
+    ],
+    "Beaumont+Fletcher": [
+     "lady that no",
+     "she so good",
+     "to if your"
+    ],
+    "Chapman": [
+     "and she so",
+     "title a thousand",
+     "in truth now",
+     "all is nothing"
+    ],
+    "Fletcher+other": [
+     "majesty commends his",
+     "beauty and honour",
+     "sixteen years in",
+     "secret of your",
+     "this lady may",
+     "i speak sincerely"
+    ],
+    "Rowley": [
+     "know what kind",
+     "are blessings and"
+    ],
+    "Fletcher": [
+     "beshrew me i",
+     "was a gentle",
+     "good morrow ladies",
+     "yet but from"
+    ],
+    "Jonson": [
+     "me come you",
+     "then his fore"
+    ],
+    "Shakespeare": [
+     "it is see",
+     "you heard it",
+     "more to th'",
+     "why this it",
+     "you were good",
+     "hope all will"
+    ],
+    "R18": [
+     "and troth you",
+     "prayers and wishes",
+     "long with her",
+     "have been begging",
+     "of your conference",
+     "she not for"
+    ],
+    "Beaumont": [
+     "may proceed a",
+     "for lady i"
+    ],
+    "Heywood": [
+     "me old as",
+     "to queen it"
+    ],
+    "Middleton": [
+     "pound and you",
+     "it 'tis strange",
+     "she's a stranger"
+    ],
+    "Shirley": [
+     "and too late",
+     "and becomming the"
+    ]
+   }
+  },
+  "collab_henry8|2.4": {
+   "n_words": 1916,
+   "links": {
+    "Marston": 3,
+    "Shakespeare": 45,
+    "Field": 2,
+    "Fletcher": 21,
+    "Fletcher+other": 21,
+    "Shelton": 17,
+    "Chapman": 4,
+    "Brome": 6,
+    "Shirley": 7,
+    "R18": 21,
+    "Massinger": 11,
+    "Heywood": 3,
+    "Middleton": 5,
+    "Jonson": 3,
+    "Webster": 6,
+    "Davenant": 2,
+    "Ford": 9,
+    "Beaumont+Fletcher": 7,
+    "Beaumont": 1,
+    "Dekker": 4,
+    "Tourneur": 1,
+    "Rowley": 1
+   },
+   "rate": {
+    "Shakespeare": 7.4375985481807625,
+    "Fletcher": 6.333637951158604,
+    "Fletcher+other": 4.150115610363431,
+    "Beaumont+Fletcher": 4.609235591200311,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 5.1458858642515315,
+    "Shirley": 2.5922661590762646,
+    "Middleton": 3.3648734134621856,
+    "Ford": 7.995877680840101,
+    "Webster": 8.514140568460785,
+    "Jonson": 2.6016598589900357,
+    "Chapman": 2.308309336534189,
+    "Marston": 3.9746154559546363,
+    "Dekker": 3.9114448877415318,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 1.3017612830159206,
+    "Field": 5.892751915144372,
+    "Brome": 8.043542376062417,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 4.272912987213816,
+    "Shelton": 8.254190215385812,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Marston": [
+     "and here before",
+     "thou art alone",
+     "art alone if"
+    ],
+    "Shakespeare": [
+     "th' world against",
+     "the smile of",
+     "and thy parts",
+     "o' th' land",
+     "lord of canterbury",
+     "now the lord"
+    ],
+    "Field": [
+     "my truth if",
+     "have stood to"
+    ],
+    "Fletcher": [
+     "lady and of",
+     "court i say",
+     "so stagger me",
+     "conscience i did",
+     "worthy the best",
+     "time you can"
+    ],
+    "Fletcher+other": [
+     "you can report",
+     "to rectify my",
+     "take your good",
+     "one the least",
+     "appeal unto the",
+     "and me which"
+    ],
+    "Shelton": [
+     "wherein he might",
+     "back very well",
+     "am a simple",
+     "judge for it",
+     "you the which",
+     "my conscience which"
+    ],
+    "Chapman": [
+     "him it lies",
+     "serve your will",
+     "was a judgement",
+     "of fire i"
+    ],
+    "Brome": [
+     "say how far",
+     "what moved me",
+     "and the cure",
+     "my judge and",
+     "honour then your",
+     "day mean while"
+    ],
+    "Shirley": [
+     "and c here",
+     "subiect to your",
+     "be an earnest",
+     "and his highness",
+     "agen i do",
+     "to be trid"
+    ],
+    "R18": [
+     "a queen or",
+     "father king of",
+     "sorry as i",
+     "progress of this",
+     "your self pronounce",
+     "right and justice"
+    ],
+    "Massinger": [
+     "anger you are",
+     "grace from me",
+     "against you nor",
+     "scruple in your",
+     "against your sacred",
+     "by a commission"
+    ],
+    "Heywood": [
+     "been blest with",
+     "motion made to",
+     "thus you should"
+    ],
+    "Middleton": [
+     "witness i have",
+     "wife let him",
+     "or touch of",
+     "i stood not",
+     "of twenty years"
+    ],
+    "Jonson": [
+     "not well by",
+     "a simple woman",
+     "there at once"
+    ],
+    "Webster": [
+     "to th' dead",
+     "tears i'll turn",
+     "of spain was",
+     "your cause it",
+     "cardinal i do",
+     "lord cardinal i"
+    ],
+    "Davenant": [
+     "most gracious sir",
+     "you are humble"
+    ],
+    "Ford": [
+     "you are running",
+     "marriage 'twixt the",
+     "of her present",
+     "i require your",
+     "is you have",
+     "before his highness"
+    ],
+    "Beaumont+Fletcher": [
+     "moved me too't",
+     "least word that",
+     "think not at",
+     "but your heart",
+     "in my liking",
+     "sea of my"
+    ],
+    "Beaumont": [
+     "to mind that"
+    ],
+    "Dekker": [
+     "that's to say",
+     "cure me and",
+     "lord of lincoln",
+     "hands and seals"
+    ],
+    "Tourneur": [
+     "it lies to"
+    ],
+    "Rowley": [
+     "come with her"
+    ]
+   }
+  },
+  "collab_henry8|3.1": {
+   "n_words": 1520,
+   "links": {
+    "Fletcher+other": 19,
+    "Tourneur": 1,
+    "Shelton": 6,
+    "Massinger": 13,
+    "Fletcher": 25,
+    "Middleton": 10,
+    "R18": 21,
+    "Chapman": 7,
+    "Shakespeare": 18,
+    "Shirley": 10,
+    "Jonson": 4,
+    "Ford": 4,
+    "Brome": 3,
+    "Beaumont+Fletcher": 8,
+    "Heywood": 5,
+    "Rowley": 2,
+    "Beaumont": 1,
+    "Webster": 2,
+    "Davenant": 1,
+    "Dekker": 2,
+    "Daborne": 1,
+    "Theobald-transl": 1
+   },
+   "rate": {
+    "Shakespeare": 2.9750394192723055,
+    "Fletcher": 7.5400451799507175,
+    "Fletcher+other": 3.754866504614533,
+    "Beaumont+Fletcher": 5.267697818514641,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 6.081501475933628,
+    "Shirley": 3.703237370108949,
+    "Middleton": 6.729746826924371,
+    "Ford": 3.5537234137067113,
+    "Webster": 2.838046856153595,
+    "Jonson": 3.468879811986714,
+    "Chapman": 4.039541338934831,
+    "Marston": 0.0,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 4.066197698532103,
+    "Rowley": 2.6035225660318413,
+    "Field": 0.0,
+    "Brome": 4.021771188031209,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 4.272912987213816,
+    "Shelton": 2.913243605430286,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher+other": [
+     "husband one that",
+     "not wish ye",
+     "had much wrong",
+     "have done yet",
+     "free and honest",
+     "majesty and you"
+    ],
+    "Tourneur": [
+     "here there's nothing"
+    ],
+    "Shelton": [
+     "him which was",
+     "any english man",
+     "i hold now",
+     "mine own countrey",
+     "that heard him",
+     "but little for"
+    ],
+    "Massinger": [
+     "used my self",
+     "and him which",
+     "was set at",
+     "far hence in",
+     "one a woman",
+     "a kingdom where"
+    ],
+    "Fletcher": [
+     "me what ye",
+     "ye take heed",
+     "out upon ye",
+     "ye wish for",
+     "ye be any",
+     "from the good"
+    ],
+    "Middleton": [
+     "of our comming",
+     "you the full",
+     "know the language",
+     "your grace could",
+     "speak truth for",
+     "was put into"
+    ],
+    "R18": [
+     "and to deliver",
+     "sake consider what",
+     "into your private",
+     "but be brought",
+     "for us if",
+     "an answer in"
+    ],
+    "Chapman": [
+     "how now would",
+     "my lords is",
+     "their affairs as",
+     "and your cause",
+     "way of our",
+     "speak it here"
+    ],
+    "Shakespeare": [
+     "care and grief",
+     "hearts i fear",
+     "me above this",
+     "now would they",
+     "with these fears",
+     "prove so but"
+    ],
+    "Shirley": [
+     "me a constant",
+     "my friends they",
+     "on me she",
+     "the good we",
+     "give up willingly",
+     "their graces to"
+    ],
+    "Jonson": [
+     "the presence pray",
+     "is against it",
+     "could speak this",
+     "yet and shall"
+    ],
+    "Ford": [
+     "your good wills",
+     "me into nothing",
+     "for i feel",
+     "our ends are"
+    ],
+    "Brome": [
+     "put into you",
+     "and you so",
+     "when she set"
+    ],
+    "Beaumont+Fletcher": [
+     "this your comfort",
+     "too much good",
+     "answer to such",
+     "not for us",
+     "love it but",
+     "a wretched lady"
+    ],
+    "Heywood": [
+     "honest and live",
+     "this with as",
+     "long let me",
+     "they that my",
+     "much both for"
+    ],
+    "Rowley": [
+     "out and that",
+     "think on't they"
+    ],
+    "Beaumont": [
+     "all my full"
+    ],
+    "Webster": [
+     "grow upon it",
+     "your service do"
+    ],
+    "Davenant": [
+     "like the lilly"
+    ],
+    "Dekker": [
+     "the kings protection",
+     "lords i thank"
+    ],
+    "Daborne": [
+     "know my life"
+    ],
+    "Theobald-transl": [
+     "man your late"
+    ]
+   }
+  },
+  "collab_henry8|3.2": {
+   "n_words": 3823,
+   "links": {
+    "Fletcher": 44,
+    "Fletcher+other": 44,
+    "Davenant": 7,
+    "Shirley": 27,
+    "Chapman": 23,
+    "Shelton": 17,
+    "Ford": 10,
+    "Shakespeare": 59,
+    "Beaumont+Fletcher": 20,
+    "R18": 31,
+    "Dekker": 7,
+    "Theobald-transl": 6,
+    "Webster": 9,
+    "Massinger": 24,
+    "Marston": 2,
+    "Heywood": 6,
+    "Middleton": 10,
+    "Jonson": 12,
+    "Rowley": 7,
+    "Brome": 6,
+    "Field": 2,
+    "Tourneur": 2,
+    "Anon": 1,
+    "Beaumont": 3
+   },
+   "rate": {
+    "Shakespeare": 9.751518096503668,
+    "Fletcher": 13.270479516713264,
+    "Fletcher+other": 8.695480326475762,
+    "Beaumont+Fletcher": 13.1692445462866,
+    "Beaumont": 6.897344522358892,
+    "Massinger": 11.227387340185158,
+    "Shirley": 9.998740899294164,
+    "Middleton": 6.729746826924371,
+    "Ford": 8.884308534266777,
+    "Webster": 12.771210852691178,
+    "Jonson": 10.406639435960143,
+    "Chapman": 13.272778685071588,
+    "Marston": 2.6497436373030907,
+    "Dekker": 6.845028553547681,
+    "Heywood": 4.879437238238523,
+    "Rowley": 9.112328981111444,
+    "Field": 5.892751915144372,
+    "Brome": 8.043542376062417,
+    "Davenant": 12.119743061447098,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 6.307633457315633,
+    "Shelton": 8.254190215385812,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 10.760401721664275,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "the heaviest and",
+     "meridian of my",
+     "wasps that buz",
+     "he's a learned",
+     "endure to hear",
+     "that buz about"
+    ],
+    "Fletcher+other": [
+     "thou should'st feel",
+     "in it be",
+     "touched the highest",
+     "and my integrity",
+     "believe it will",
+     "i find more"
+    ],
+    "Davenant": [
+     "the king already",
+     "me i humbly",
+     "us the king",
+     "of me more",
+     "brought the king",
+     "must give my"
+    ],
+    "Shirley": [
+     "the sacring bell",
+     "and your master",
+     "if i blush",
+     "use now and",
+     "thee a way",
+     "all that world"
+    ],
+    "Chapman": [
+     "above all earthly",
+     "humbly thank his",
+     "charge and so",
+     "secret in the",
+     "king and is",
+     "himself my lords"
+    ],
+    "Shelton": [
+     "that love his",
+     "fall and that",
+     "stir him i",
+     "much they are",
+     "well be there",
+     "an arch bishop"
+    ],
+    "Ford": [
+     "hand gave me",
+     "you weep i",
+     "i found there",
+     "him nothing i",
+     "to a creature",
+     "me remembrance of"
+    ],
+    "Shakespeare": [
+     "amen so i",
+     "to mine enemies",
+     "no i'll no",
+     "ready to come",
+     "grace and from",
+     "more then could"
+    ],
+    "Beaumont+Fletcher": [
+     "this man but",
+     "king from all",
+     "hands and to",
+     "worthy fellow and",
+     "i will lend",
+     "this fellow if"
+    ],
+    "R18": [
+     "all thy brother",
+     "succour from the",
+     "thou fall'st a",
+     "it from their",
+     "honest truth to",
+     "have lost for"
+    ],
+    "Dekker": [
+     "on the kings",
+     "loyal brest for",
+     "king shall have",
+     "the kings protection",
+     "nothing i must",
+     "your most sacred"
+    ],
+    "Theobald-transl": [
+     "things you have",
+     "if you omit",
+     "a premunire that",
+     "own ends have",
+     "point of all",
+     "and out they"
+    ],
+    "Webster": [
+     "in rome o",
+     "own way but",
+     "take an inuentory",
+     "an inuentory of",
+     "and sounded all",
+     "lord must i"
+    ],
+    "Massinger": [
+     "not in mine",
+     "'tis nobly spoken",
+     "since i had",
+     "will from his",
+     "our cause that",
+     "a tear in"
+    ],
+    "Marston": [
+     "on a sodaine",
+     "from these shoulders"
+    ],
+    "Heywood": [
+     "but will the",
+     "to win by",
+     "sounded all the",
+     "and compleat in",
+     "forfeit all your",
+     "oracle i would"
+    ],
+    "Middleton": [
+     "blessing to this",
+     "art he will",
+     "for ever hide",
+     "duke to be",
+     "to th' eye",
+     "the evening and"
+    ],
+    "Jonson": [
+     "he is vexed",
+     "to the meer",
+     "place i do",
+     "you will now",
+     "bless him the",
+     "show a little"
+    ],
+    "Rowley": [
+     "we have stood",
+     "under me and",
+     "she should lye",
+     "not a falling",
+     "queen going to",
+     "and provide for"
+    ],
+    "Brome": [
+     "has cured me",
+     "in his countenance",
+     "and he brings",
+     "will or the",
+     "cured me i",
+     "the inuentory of"
+    ],
+    "Field": [
+     "peece of scarlet",
+     "that one woman"
+    ],
+    "Tourneur": [
+     "offer of this",
+     "your brain and"
+    ],
+    "Anon": [
+     "of norfolk as"
+    ],
+    "Beaumont": [
+     "of his maker",
+     "of state he",
+     "all the ends"
+    ]
+   }
+  },
+  "collab_henry8|4.0": {
+   "n_words": 881,
+   "links": {
+    "Fletcher+other": 11,
+    "R18": 12,
+    "Beaumont+Fletcher": 3,
+    "Middleton": 2,
+    "Shakespeare": 10,
+    "Shelton": 3,
+    "Anon": 1,
+    "Shirley": 7,
+    "Fletcher": 14,
+    "Beaumont": 3,
+    "Jonson": 3,
+    "Dekker": 3,
+    "Heywood": 3,
+    "Chapman": 2,
+    "Massinger": 7,
+    "Webster": 1,
+    "Marston": 2,
+    "Theobald-transl": 1,
+    "Ford": 1
+   },
+   "rate": {
+    "Shakespeare": 1.652799677373503,
+    "Fletcher": 4.222425300772403,
+    "Fletcher+other": 2.1738700816189405,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 6.897344522358892,
+    "Massinger": 3.274654640887338,
+    "Shirley": 2.5922661590762646,
+    "Middleton": 1.3459493653848742,
+    "Ford": 0.8884308534266778,
+    "Webster": 1.4190234280767975,
+    "Jonson": 2.6016598589900357,
+    "Chapman": 1.1541546682670945,
+    "Marston": 2.6497436373030907,
+    "Dekker": 2.933583665806149,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 2.441664564122181,
+    "Shelton": 1.456621802715143,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher+other": [
+     "they that bear",
+     "by the arch",
+     "with the meer",
+     "ceremony that i",
+     "how ever yet",
+     "indies in his"
+    ],
+    "R18": [
+     "about me what",
+     "her person to",
+     "long white wand",
+     "among the crowd",
+     "parted and with",
+     "the altar where"
+    ],
+    "Beaumont+Fletcher": [
+     "may command us",
+     "those men are",
+     "king has made"
+    ],
+    "Middleton": [
+     "to go like",
+     "up and had"
+    ],
+    "Shakespeare": [
+     "each side her",
+     "pray you he",
+     "am stifled with",
+     "cannot blame his",
+     "that the earle",
+     "lord of norfolk"
+    ],
+    "Shelton": [
+     "gold on his",
+     "bowed her to",
+     "which performed the"
+    ],
+    "Anon": [
+     "of norfolk in"
+    ],
+    "Shirley": [
+     "a distance from",
+     "a soul she",
+     "friend the king",
+     "with purse and",
+     "a scepter of",
+     "so these are"
+    ],
+    "Fletcher": [
+     "us but what",
+     "that that bears",
+     "and richer when",
+     "there ye shall",
+     "on her which",
+     "to rest a"
+    ],
+    "Beaumont": [
+     "her i take",
+     "borne by four",
+     "sir speak it"
+    ],
+    "Jonson": [
+     "lost 'tis now",
+     "he will deserue",
+     "she had all"
+    ],
+    "Dekker": [
+     "goodliest woman that",
+     "that carries up",
+     "the goodliest woman"
+    ],
+    "Heywood": [
+     "is held no",
+     "view of such",
+     "be my guests"
+    ],
+    "Chapman": [
+     "friend will not",
+     "shall go my"
+    ],
+    "Massinger": [
+     "arms and on",
+     "in more i",
+     "her which performed",
+     "joy i never",
+     "a queen as",
+     "she that carries"
+    ],
+    "Webster": [
+     "iewell house and"
+    ],
+    "Marston": [
+     "and truly a",
+     "that how ever"
+    ],
+    "Theobald-transl": [
+     "each side of"
+    ],
+    "Ford": [
+     "not shrink from"
+    ]
+   }
+  },
+  "collab_henry8|4.1": {
+   "n_words": 293,
+   "links": {
+    "Heywood": 1,
+    "Shirley": 2,
+    "R18": 3,
+    "Shakespeare": 4,
+    "Beaumont+Fletcher": 1,
+    "Ford": 1,
+    "Chapman": 3,
+    "Webster": 1,
+    "Fletcher+other": 2
+   },
+   "rate": {
+    "Shakespeare": 0.6611198709494013,
+    "Fletcher": 0.0,
+    "Fletcher+other": 0.39524910574889827,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 0.0,
+    "Massinger": 0.0,
+    "Shirley": 0.7406474740217899,
+    "Middleton": 0.0,
+    "Ford": 0.8884308534266778,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.0,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.6104161410305452,
+    "Shelton": 0.0,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Heywood": [
+     "to be high"
+    ],
+    "Shirley": [
+     "next the duke",
+     "read the rest"
+    ],
+    "R18": [
+     "this general joy",
+     "duke of suffolk",
+     "of none effect"
+    ],
+    "Shakespeare": [
+     "of the coronation",
+     "good lady the",
+     "where she remains",
+     "beseech you what's"
+    ],
+    "Beaumont+Fletcher": [
+     "be short for"
+    ],
+    "Ford": [
+     "ever forward in"
+    ],
+    "Chapman": [
+     "accompanied with other",
+     "celebration of this",
+     "and reverend fathers"
+    ],
+    "Webster": [
+     "claims to be"
+    ],
+    "Fletcher+other": [
+     "take your stand",
+     "she was removed"
+    ]
+   }
+  },
+  "collab_henry8|4.2": {
+   "n_words": 1429,
+   "links": {
+    "Beaumont+Fletcher": 11,
+    "Shakespeare": 22,
+    "Theobald": 1,
+    "Fletcher": 13,
+    "R18": 20,
+    "Beaumont": 2,
+    "Shirley": 4,
+    "Heywood": 7,
+    "Ford": 2,
+    "Shelton": 5,
+    "Middleton": 6,
+    "Chapman": 4,
+    "Theobald-transl": 1,
+    "Fletcher+other": 24,
+    "Field": 2,
+    "Massinger": 5,
+    "Theobald-verse": 1,
+    "Rowley": 1,
+    "Webster": 1,
+    "Jonson": 1,
+    "Brome": 4,
+    "Marston": 1,
+    "Dekker": 2,
+    "Davenant": 2,
+    "Tourneur": 2
+   },
+   "rate": {
+    "Shakespeare": 3.636159290221707,
+    "Fletcher": 3.9208234935743733,
+    "Fletcher+other": 4.742989268986779,
+    "Beaumont+Fletcher": 7.243084500457631,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 2.339039029205241,
+    "Shirley": 1.4812949480435798,
+    "Middleton": 4.037848096154623,
+    "Ford": 1.7768617068533556,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 2.308309336534189,
+    "Marston": 1.3248718186515454,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 5.692676777944944,
+    "Rowley": 1.3017612830159206,
+    "Field": 5.892751915144372,
+    "Brome": 5.3623615840416115,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 4.069440940203635,
+    "Shelton": 2.427703004525238,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 17.14971702966901,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Beaumont+Fletcher": [
+     "your grace madam",
+     "me loose the",
+     "wretched women that",
+     "gave no ear",
+     "are harsh and",
+     "as he then"
+    ],
+    "Shakespeare": [
+     "blessings on her",
+     "of heaven fall",
+     "that loud him",
+     "so may he",
+     "model of our",
+     "abbot with all"
+    ],
+    "Theobald": [
+     "beams upon me"
+    ],
+    "Fletcher": [
+     "thus these are",
+     "i blest him",
+     "saw ye none",
+     "ye it is",
+     "ye all gone",
+     "pray pray heaven"
+    ],
+    "R18": [
+     "me this last",
+     "and slept in",
+     "i dare avow",
+     "all gone and",
+     "had not parted",
+     "queen and daughter"
+    ],
+    "Beaumont": [
+     "and heavy to",
+     "little to love"
+    ],
+    "Shirley": [
+     "for after the",
+     "i have commended",
+     "for my men",
+     "let's sit down"
+    ],
+    "Heywood": [
+     "keep mine honour",
+     "his honours to",
+     "bow to th'",
+     "meant to ruin",
+     "wages duly paid",
+     "me noble lady"
+    ],
+    "Ford": [
+     "and to add",
+     "since first you"
+    ],
+    "Shelton": [
+     "to those men",
+     "which he himself",
+     "he was most",
+     "to use so",
+     "which fell with"
+    ],
+    "Middleton": [
+     "such an honest",
+     "of state is",
+     "but his performance",
+     "inuite me to",
+     "deliver this to",
+     "you i call"
+    ],
+    "Chapman": [
+     "comfort o my",
+     "whole contents and",
+     "come to lay",
+     "lord the times"
+    ],
+    "Theobald-transl": [
+     "right by heaven"
+    ],
+    "Fletcher+other": [
+     "his own opinion",
+     "like a pardon",
+     "his own body",
+     "himself and found",
+     "your grace out",
+     "no more reverence"
+    ],
+    "Field": [
+     "too late 'tis",
+     "that letter i"
+    ],
+    "Massinger": [
+     "a little ease",
+     "nephew and your",
+     "king to do",
+     "women when i",
+     "fail not you"
+    ],
+    "Theobald-verse": [
+     "from an humble"
+    ],
+    "Rowley": [
+     "and three nights"
+    ],
+    "Webster": [
+     "you to deliver"
+    ],
+    "Jonson": [
+     "are the whole"
+    ],
+    "Brome": [
+     "madam such good",
+     "mothers sake that",
+     "more how does",
+     "these words o"
+    ],
+    "Marston": [
+     "whom he gave"
+    ],
+    "Dekker": [
+     "play his own",
+     "is that letter"
+    ],
+    "Davenant": [
+     "in his words",
+     "with worms and"
+    ],
+    "Tourneur": [
+     "thou lead'st me",
+     "received him to"
+    ]
+   }
+  },
+  "collab_henry8|5.1": {
+   "n_words": 1486,
+   "links": {
+    "Shakespeare": 33,
+    "R18": 17,
+    "Fletcher+other": 23,
+    "Jonson": 8,
+    "Shelton": 8,
+    "Theobald-transl": 1,
+    "Shirley": 9,
+    "Rowley": 1,
+    "Chapman": 6,
+    "Massinger": 7,
+    "Tourneur": 1,
+    "Fletcher": 5,
+    "Ford": 6,
+    "Webster": 3,
+    "Beaumont+Fletcher": 8,
+    "Brome": 4,
+    "Davenant": 4,
+    "Theobald": 1,
+    "Heywood": 1,
+    "Beaumont": 1,
+    "Marston": 1,
+    "Daborne": 1,
+    "Dekker": 3,
+    "Middleton": 4,
+    "Field": 1
+   },
+   "rate": {
+    "Shakespeare": 5.45423893533256,
+    "Fletcher": 1.5080090359901437,
+    "Fletcher+other": 4.54536471611233,
+    "Beaumont+Fletcher": 5.267697818514641,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 3.274654640887338,
+    "Shirley": 3.332913633098054,
+    "Middleton": 2.6918987307697484,
+    "Ford": 5.330585120560067,
+    "Webster": 4.257070284230393,
+    "Jonson": 6.937759623973428,
+    "Chapman": 3.462464004801283,
+    "Marston": 1.3248718186515454,
+    "Dekker": 2.933583665806149,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 1.3017612830159206,
+    "Field": 2.946375957572186,
+    "Brome": 5.3623615840416115,
+    "Davenant": 6.925567463684056,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 3.45902479917309,
+    "Shelton": 3.884324807240381,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shakespeare": [
+     "it hath strook",
+     "be well contented",
+     "true where is",
+     "lord of canterbury",
+     "tidings that i",
+     "dew o' th'"
+    ],
+    "R18": [
+     "before us where",
+     "good hour of",
+     "like you as",
+     "this morning see",
+     "brought my lord",
+     "i have bid"
+    ],
+    "Fletcher+other": [
+     "they say spirits",
+     "and woe your",
+     "know there's none",
+     "of her burden",
+     "time and live",
+     "bear the same"
+    ],
+    "Jonson": [
+     "the same proportion",
+     "and indeed this",
+     "from your affairs",
+     "is for such",
+     "of night sir",
+     "you i humbly"
+    ],
+    "Shelton": [
+     "of him said",
+     "returned her thanks",
+     "laid before him",
+     "to repeat what",
+     "have said be",
+     "both now and"
+    ],
+    "Theobald-transl": [
+     "he is they"
+    ],
+    "Shirley": [
+     "day sir i",
+     "i bring will",
+     "good lord 'tis",
+     "better luck i",
+     "bring will make",
+     "and honesty if"
+    ],
+    "Rowley": [
+     "attend your highness"
+    ],
+    "Chapman": [
+     "you commanded me",
+     "'tis true where",
+     "well 'twill not",
+     "and sweet lady",
+     "lord i grieve",
+     "a clock boy"
+    ],
+    "Massinger": [
+     "you do desire",
+     "you too long",
+     "for the stock",
+     "kings hand and",
+     "burden and with",
+     "this day sir"
+    ],
+    "Tourneur": [
+     "this morning come"
+    ],
+    "Fletcher": [
+     "right glad to",
+     "your affairs i",
+     "now and ever",
+     "her woman i",
+     "he thus 'tis"
+    ],
+    "Ford": [
+     "attends your highness",
+     "or else no",
+     "thanks in the",
+     "i have incenst",
+     "hand stand up",
+     "dare speak one"
+    ],
+    "Webster": [
+     "know wherefore i",
+     "which will require",
+     "so late i"
+    ],
+    "Beaumont+Fletcher": [
+     "we give way",
+     "light i'll have",
+     "out from your",
+     "gone and do",
+     "boy the god",
+     "not for us"
+    ],
+    "Brome": [
+     "your house our",
+     "be said against",
+     "person which i",
+     "scold it out"
+    ],
+    "Davenant": [
+     "my leave not",
+     "have in them",
+     "have to pray",
+     "who hath so"
+    ],
+    "Theobald": [
+     "together your self"
+    ],
+    "Heywood": [
+     "sir sir hear"
+    ],
+    "Beaumont": [
+     "message is the"
+    ],
+    "Marston": [
+     "them and your"
+    ],
+    "Daborne": [
+     "you cannot with"
+    ],
+    "Dekker": [
+     "said i for",
+     "her woman and",
+     "the queen an"
+    ],
+    "Middleton": [
+     "the matter it",
+     "they know he",
+     "live but for",
+     "my lord many"
+    ],
+    "Field": [
+     "answer you must"
+    ]
+   }
+  },
+  "collab_henry8|5.2": {
+   "n_words": 1845,
+   "links": {
+    "Massinger": 5,
+    "Fletcher": 25,
+    "Fletcher+other": 33,
+    "Shirley": 15,
+    "Shakespeare": 36,
+    "Beaumont+Fletcher": 9,
+    "Rowley": 3,
+    "Marston": 7,
+    "R18": 22,
+    "Middleton": 8,
+    "Chapman": 7,
+    "Webster": 2,
+    "Ford": 8,
+    "Beaumont": 4,
+    "Field": 3,
+    "Jonson": 4,
+    "Anon": 1,
+    "Shelton": 10,
+    "Theobald": 2,
+    "Dekker": 3,
+    "Heywood": 3,
+    "Davenant": 2,
+    "Brome": 2,
+    "Tourneur": 1
+   },
+   "rate": {
+    "Shakespeare": 5.950078838544611,
+    "Fletcher": 7.5400451799507175,
+    "Fletcher+other": 6.52161024485682,
+    "Beaumont+Fletcher": 5.926160045828971,
+    "Beaumont": 9.19645936314519,
+    "Massinger": 2.339039029205241,
+    "Shirley": 5.554856055163424,
+    "Middleton": 5.383797461539497,
+    "Ford": 7.107446827413423,
+    "Webster": 2.838046856153595,
+    "Jonson": 3.468879811986714,
+    "Chapman": 4.039541338934831,
+    "Marston": 9.274102730560818,
+    "Dekker": 2.933583665806149,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 3.9052838490477617,
+    "Field": 8.839127872716558,
+    "Brome": 2.6811807920208057,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 4.476385034223998,
+    "Shelton": 4.855406009050476,
+    "Theobald": 6.285750204286881,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Massinger": [
+     "cruel nature and",
+     "shall remember this",
+     "he indeed is",
+     "and what follows",
+     "us are you"
+    ],
+    "Fletcher": [
+     "receive him and",
+     "this way so",
+     "that dares most",
+     "be short with",
+     "turn their hearts",
+     "saw this many"
+    ],
+    "Fletcher+other": [
+     "one another 'tis",
+     "me in seeking",
+     "he's your friend",
+     "and has done",
+     "bold language i",
+     "bite the best"
+    ],
+    "Shirley": [
+     "cry your honour",
+     "have while i",
+     "hast a cruel",
+     "bound to heaven",
+     "expect you are",
+     "wisedome of my"
+    ],
+    "Shakespeare": [
+     "there to remain",
+     "men of some",
+     "show your grace",
+     "lord of canterbury",
+     "living i speak",
+     "of thee which"
+    ],
+    "Beaumont+Fletcher": [
+     "you be called",
+     "the king first",
+     "ye so far",
+     "but once think",
+     "out on't my",
+     "a counsellor to"
+    ],
+    "Rowley": [
+     "my self lay",
+     "me nay my",
+     "so i'll show"
+    ],
+    "Marston": [
+     "by heau'n i",
+     "how much are",
+     "must be sodaine",
+     "men that understand",
+     "a true heart",
+     "a prince not"
+    ],
+    "R18": [
+     "gave me in",
+     "man this good",
+     "they do one",
+     "tower a prisoner",
+     "once more my",
+     "of a public"
+    ],
+    "Middleton": [
+     "so far forget",
+     "lords and by",
+     "remain till the",
+     "had knowledge of",
+     "were half so",
+     "to remain till"
+    ],
+    "Chapman": [
+     "case of justice",
+     "power as he",
+     "his state at",
+     "friend if your",
+     "of canterbury i",
+     "the grips of"
+    ],
+    "Webster": [
+     "are so merciful",
+     "of my councell"
+    ],
+    "Ford": [
+     "the common voyce",
+     "few of you",
+     "heart my lords",
+     "mercy you may",
+     "good manners as",
+     "lord it stands"
+    ],
+    "Beaumont": [
+     "stay good my",
+     "young maid that",
+     "fair young maid",
+     "him well he's"
+    ],
+    "Field": [
+     "that gave us",
+     "embrace and love",
+     "there's some of"
+    ],
+    "Jonson": [
+     "deserue it that",
+     "you are provided",
+     "there for me",
+     "his grace of"
+    ],
+    "Anon": [
+     "well there's one"
+    ],
+    "Shelton": [
+     "and wisedome of",
+     "chamber dor and",
+     "are men in",
+     "all the weight",
+     "with wagging of",
+     "my disgrace for"
+    ],
+    "Theobald": [
+     "may prove pernicious",
+     "men in our"
+    ],
+    "Dekker": [
+     "the greatest monarch",
+     "that best should",
+     "king first then"
+    ],
+    "Heywood": [
+     "lord but yet",
+     "better starue then",
+     "that understand you"
+    ],
+    "Davenant": [
+     "are this is",
+     "are too thin"
+    ],
+    "Brome": [
+     "have laboured and",
+     "they obey the"
+    ],
+    "Tourneur": [
+     "attend with patience"
+    ]
+   }
+  },
+  "collab_henry8|5.3": {
+   "n_words": 802,
+   "links": {
+    "Dekker": 3,
+    "Fletcher+other": 9,
+    "Fletcher": 14,
+    "Beaumont": 1,
+    "Chapman": 2,
+    "Shakespeare": 6,
+    "Massinger": 4,
+    "Davenant": 3,
+    "R18": 4,
+    "Ford": 2,
+    "Beaumont+Fletcher": 6,
+    "Tourneur": 1,
+    "Shelton": 4,
+    "Shirley": 8,
+    "Middleton": 3,
+    "Marston": 1,
+    "Brome": 1,
+    "Heywood": 2,
+    "Rowley": 1,
+    "Theobald-transl": 1
+   },
+   "rate": {
+    "Shakespeare": 0.9916798064241018,
+    "Fletcher": 4.222425300772403,
+    "Fletcher+other": 1.7786209758700422,
+    "Beaumont+Fletcher": 3.9507733638859808,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.871231223364193,
+    "Shirley": 2.9625898960871595,
+    "Middleton": 2.0189240480773116,
+    "Ford": 1.7768617068533556,
+    "Webster": 0.0,
+    "Jonson": 0.0,
+    "Chapman": 1.1541546682670945,
+    "Marston": 1.3248718186515454,
+    "Dekker": 2.933583665806149,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 1.3405903960104029,
+    "Davenant": 5.194175597763042,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.8138881880407269,
+    "Shelton": 1.9421624036201905,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Dekker": [
+     "that stand about",
+     "here where are",
+     "which will never"
+    ],
+    "Fletcher+other": [
+     "that railed upon",
+     "three times on",
+     "are the youths",
+     "take the court",
+     "scatter 'em as",
+     "railed upon me"
+    ],
+    "Fletcher": [
+     "already from the",
+     "near the door",
+     "be hanged ye",
+     "do what should",
+     "any that had",
+     "'em alas i"
+    ],
+    "Beaumont": [
+     "ale and cakes"
+    ],
+    "Chapman": [
+     "god save her",
+     "do not being"
+    ],
+    "Shakespeare": [
+     "have we some",
+     "to endure i",
+     "you i' th'",
+     "you'll leave your",
+     "from the dor",
+     "you did nothing"
+    ],
+    "Massinger": [
+     "men and what",
+     "and strong ones",
+     "ne'er hope to",
+     "i mist the"
+    ],
+    "Davenant": [
+     "for ale and",
+     "is at dor",
+     "young or old"
+    ],
+    "R18": [
+     "'em win the",
+     "to come make",
+     "see the poor",
+     "amongst 'em i"
+    ],
+    "Ford": [
+     "down before me",
+     "to muster in"
+    ],
+    "Beaumont+Fletcher": [
+     "theres a trim",
+     "the youths that",
+     "what a fry",
+     "up or i'll",
+     "in limbo patrum",
+     "a fry of"
+    ],
+    "Tourneur": [
+     "gallows and be"
+    ],
+    "Shelton": [
+     "to her succour",
+     "in as much",
+     "such a showre",
+     "fell off her"
+    ],
+    "Shirley": [
+     "i made good",
+     "your head ake",
+     "he stands there",
+     "all together the",
+     "the ladies when",
+     "your faithful friends"
+    ],
+    "Middleton": [
+     "the dor with",
+     "surely these are",
+     "these lazy knaves"
+    ],
+    "Marston": [
+     "be patient 'tis"
+    ],
+    "Brome": [
+     "a fine hand"
+    ],
+    "Heywood": [
+     "or have we",
+     "i belong to"
+    ],
+    "Rowley": [
+     "when i might"
+    ],
+    "Theobald-transl": [
+     "knock 'em down"
+    ]
+   }
+  },
+  "collab_henry8|5.4": {
+   "n_words": 657,
+   "links": {
+    "Shakespeare": 13,
+    "Brome": 2,
+    "Fletcher+other": 6,
+    "Theobald-transl": 1,
+    "Massinger": 8,
+    "R18": 9,
+    "Shirley": 3,
+    "Fletcher": 11,
+    "Ford": 2,
+    "Heywood": 3,
+    "Marston": 1,
+    "Webster": 2,
+    "Rowley": 1,
+    "Chapman": 3,
+    "Beaumont": 2,
+    "Beaumont+Fletcher": 1,
+    "Shelton": 2
+   },
+   "rate": {
+    "Shakespeare": 2.148639580585554,
+    "Fletcher": 3.317619879178316,
+    "Fletcher+other": 1.1857473172466948,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 3.742462446728386,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 0.0,
+    "Ford": 1.7768617068533556,
+    "Webster": 2.838046856153595,
+    "Jonson": 0.0,
+    "Chapman": 1.7312320024006416,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.0,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.8312484230916357,
+    "Shelton": 0.9710812018100953,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shakespeare": [
+     "your royal grace",
+     "which time shall",
+     "did i get",
+     "were the servants",
+     "and the words",
+     "god protect thee"
+    ],
+    "Brome": [
+     "h s own",
+     "in her days"
+    ],
+    "Fletcher+other": [
+     "this is with",
+     "man shall eat",
+     "and fair vertu",
+     "nor shall this",
+     "have her yet",
+     "heaven shall call"
+    ],
+    "Theobald-transl": [
+     "from the sacred"
+    ],
+    "Massinger": [
+     "self so shall",
+     "to ripeness she",
+     "this lady when",
+     "to crown it",
+     "though in her",
+     "day without a"
+    ],
+    "R18": [
+     "shall stay this",
+     "all his neighbours",
+     "upon this land",
+     "whose hand i",
+     "to the happiness",
+     "hang their heads"
+    ],
+    "Shirley": [
+     "a virgin a",
+     "about her though",
+     "can behold that"
+    ],
+    "Fletcher": [
+     "pleased me that",
+     "pure soul shall",
+     "this and bless",
+     "dye she must",
+     "her honour shall",
+     "one shall make"
+    ],
+    "Ford": [
+     "grace and the",
+     "bright sun of"
+    ],
+    "Heywood": [
+     "this royal infant",
+     "god shall be",
+     "pattern to all"
+    ],
+    "Marston": [
+     "great in fame"
+    ],
+    "Webster": [
+     "get any thing",
+     "be truely known"
+    ],
+    "Rowley": [
+     "take my blessing"
+    ],
+    "Chapman": [
+     "so shall this",
+     "call her from",
+     "but as when"
+    ],
+    "Beaumont": [
+     "shake like a",
+     "and hang their"
+    ],
+    "Beaumont+Fletcher": [
+     "like a field"
+    ],
+    "Shelton": [
+     "and those about",
+     "and mighty princess"
+    ]
+   }
+  },
+  "collab_tnk|1.1": {
+   "n_words": 1814,
+   "links": {
+    "Fletcher+other": 14,
+    "Shakespeare": 23,
+    "Middleton": 5,
+    "Dekker": 1,
+    "R18": 15,
+    "Shelton": 6,
+    "Fletcher": 10,
+    "Jonson": 7,
+    "Shirley": 5,
+    "Marston": 3,
+    "Rowley": 1,
+    "Chapman": 2,
+    "Heywood": 5,
+    "Brome": 2,
+    "Davenant": 2,
+    "Massinger": 7,
+    "Ford": 4,
+    "Anon": 1,
+    "Daborne": 2,
+    "Webster": 1,
+    "Beaumont+Fletcher": 4,
+    "Beaumont": 2,
+    "Field": 2,
+    "Tourneur": 2,
+    "Theobald-transl": 2
+   },
+   "rate": {
+    "Shakespeare": 3.8014392579590566,
+    "Fletcher": 3.0160180719802874,
+    "Fletcher+other": 2.766743740242288,
+    "Beaumont+Fletcher": 2.6338489092573205,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 3.274654640887338,
+    "Shirley": 1.8516186850544745,
+    "Middleton": 3.3648734134621856,
+    "Ford": 3.5537234137067113,
+    "Webster": 1.4190234280767975,
+    "Jonson": 6.07053967097675,
+    "Chapman": 1.1541546682670945,
+    "Marston": 3.9746154559546363,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 4.066197698532103,
+    "Rowley": 1.3017612830159206,
+    "Field": 5.892751915144372,
+    "Brome": 2.6811807920208057,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 10.775862068965518,
+    "Anon": 8.758868354208637,
+    "R18": 3.0520807051527266,
+    "Shelton": 2.913243605430286,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 3.586800573888092,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher+other": [
+     "on the bride",
+     "too he that",
+     "it there there",
+     "business we are",
+     "not an howre",
+     "you are set"
+    ],
+    "Shakespeare": [
+     "which to do",
+     "of the speech",
+     "the moytie of",
+     "them and of",
+     "world what you",
+     "sorry i should"
+    ],
+    "Middleton": [
+     "which i pray",
+     "a fool pray",
+     "this worlds light",
+     "and the bears",
+     "this good action"
+    ],
+    "Dekker": [
+     "in their cradles"
+    ],
+    "R18": [
+     "o i hope",
+     "and press you",
+     "dare to ask",
+     "kiss upon thy",
+     "above him for",
+     "themselves i have"
+    ],
+    "Shelton": [
+     "cannot read it",
+     "with them any",
+     "meet us with",
+     "is written in",
+     "ever to take",
+     "living it is"
+    ],
+    "Fletcher": [
+     "o'th book of",
+     "out o'th book",
+     "written in your",
+     "me what woman",
+     "me i met",
+     "the feast full"
+    ],
+    "Jonson": [
+     "forward for i",
+     "i met your",
+     "that for our",
+     "thing pray you",
+     "lord is taken",
+     "out a jot"
+    ],
+    "Shirley": [
+     "say nothing pray",
+     "you as that",
+     "all farewell thus",
+     "sake and as",
+     "you cannot read"
+    ],
+    "Marston": [
+     "him drunk with",
+     "woe you cannot",
+     "with stench of"
+    ],
+    "Rowley": [
+     "thou being but"
+    ],
+    "Chapman": [
+     "and nature which",
+     "let him lead"
+    ],
+    "Heywood": [
+     "from henceforth i'll",
+     "have no roof",
+     "bed and for",
+     "no longer time",
+     "is my and"
+    ],
+    "Brome": [
+     "the bears and",
+     "but touch the"
+    ],
+    "Davenant": [
+     "to make petition",
+     "what's your request"
+    ],
+    "Massinger": [
+     "mercy in your",
+     "hundred and thou",
+     "longer time then",
+     "you wish your",
+     "transported with your",
+     "if not above"
+    ],
+    "Ford": [
+     "my tears like",
+     "my sister her",
+     "was your lord",
+     "take a husband"
+    ],
+    "Anon": [
+     "the knights and"
+    ],
+    "Daborne": [
+     "of our slain",
+     "our life this"
+    ],
+    "Webster": [
+     "good deed shall"
+    ],
+    "Beaumont+Fletcher": [
+     "their actions but",
+     "he should marry",
+     "all if not",
+     "one night with"
+    ],
+    "Beaumont": [
+     "us no longer",
+     "lord the day"
+    ],
+    "Field": [
+     "first borne child",
+     "you kneel not"
+    ],
+    "Tourneur": [
+     "and that work",
+     "thy force and"
+    ],
+    "Theobald-transl": [
+     "your first thought",
+     "be so hardy"
+    ]
+   }
+  },
+  "collab_tnk|1.2": {
+   "n_words": 940,
+   "links": {
+    "R18": 10,
+    "Shirley": 3,
+    "Fletcher+other": 7,
+    "Ford": 1,
+    "Shelton": 1,
+    "Middleton": 3,
+    "Heywood": 3,
+    "Rowley": 2,
+    "Shakespeare": 9,
+    "Beaumont+Fletcher": 2,
+    "Jonson": 3,
+    "Fletcher": 5,
+    "Field": 1,
+    "Dekker": 3,
+    "Chapman": 3,
+    "Webster": 1,
+    "Massinger": 2,
+    "Theobald-transl": 1
+   },
+   "rate": {
+    "Shakespeare": 1.4875197096361528,
+    "Fletcher": 1.5080090359901437,
+    "Fletcher+other": 1.383371870121144,
+    "Beaumont+Fletcher": 1.3169244546286603,
+    "Beaumont": 0.0,
+    "Massinger": 0.9356156116820965,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 2.0189240480773116,
+    "Ford": 0.8884308534266778,
+    "Webster": 1.4190234280767975,
+    "Jonson": 2.6016598589900357,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 2.933583665806149,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 2.6035225660318413,
+    "Field": 2.946375957572186,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.0347204701018176,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "to his bold",
+     "and turns of",
+     "the common stream",
+     "that we fear",
+     "the blood we",
+     "in the crimes"
+    ],
+    "Shirley": [
+     "shall offer to",
+     "their throats and",
+     "i do bleed"
+    ],
+    "Fletcher+other": [
+     "you did begin",
+     "am none that",
+     "the fall o'th",
+     "in a feavour",
+     "did begin to",
+     "as for our"
+    ],
+    "Ford": [
+     "need not a"
+    ],
+    "Shelton": [
+     "when he broke"
+    ],
+    "Middleton": [
+     "of his fury",
+     "but alas our",
+     "too for 'tis"
+    ],
+    "Heywood": [
+     "and to follow",
+     "before we further",
+     "us yet what"
+    ],
+    "Rowley": [
+     "the fore horse",
+     "am the fore"
+    ],
+    "Shakespeare": [
+     "of mine that's",
+     "had not and",
+     "and glory on",
+     "we fear the",
+     "we will keep",
+     "know all our"
+    ],
+    "Beaumont+Fletcher": [
+     "yet what man",
+     "him but whats"
+    ],
+    "Jonson": [
+     "then blood and",
+     "hard and harsh",
+     "to seal the"
+    ],
+    "Fletcher": [
+     "is faith or",
+     "masters of our",
+     "fear the gods",
+     "to do harm",
+     "soldier yes i"
+    ],
+    "Field": [
+     "faith or to"
+    ],
+    "Dekker": [
+     "leave his court",
+     "hand to seal",
+     "him stand to"
+    ],
+    "Chapman": [
+     "purge for her",
+     "what they win",
+     "them but such"
+    ],
+    "Webster": [
+     "find them but"
+    ],
+    "Massinger": [
+     "that does command",
+     "blood of mine"
+    ],
+    "Theobald-transl": [
+     "in an honourable"
+    ]
+   }
+  },
+  "collab_tnk|1.3": {
+   "n_words": 805,
+   "links": {
+    "R18": 5,
+    "Fletcher": 8,
+    "Massinger": 2,
+    "Shelton": 5,
+    "Heywood": 4,
+    "Beaumont": 3,
+    "Fletcher+other": 9,
+    "Shakespeare": 5,
+    "Beaumont+Fletcher": 1,
+    "Chapman": 3,
+    "Tourneur": 1,
+    "Jonson": 1,
+    "Shirley": 4,
+    "Marston": 2,
+    "Rowley": 3
+   },
+   "rate": {
+    "Shakespeare": 0.8263998386867515,
+    "Fletcher": 2.41281445758423,
+    "Fletcher+other": 1.7786209758700422,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 6.897344522358892,
+    "Massinger": 0.9356156116820965,
+    "Shirley": 1.4812949480435798,
+    "Middleton": 0.0,
+    "Ford": 0.0,
+    "Webster": 0.0,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 1.7312320024006416,
+    "Marston": 2.6497436373030907,
+    "Dekker": 0.0,
+    "Heywood": 3.2529581588256824,
+    "Rowley": 3.9052838490477617,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.0173602350509088,
+    "Shelton": 2.427703004525238,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "not against your",
+     "no more believe",
+     "high throne in",
+     "tyranny and power",
+     "hold you here"
+    ],
+    "Fletcher": [
+     "been soldiers and",
+     "they two have",
+     "had such another",
+     "he loves best",
+     "offer to her",
+     "which he loves"
+    ],
+    "Massinger": [
+     "to sea or",
+     "we more then"
+    ],
+    "Shelton": [
+     "end that the",
+     "soldiers and we",
+     "the true love",
+     "arm of the",
+     "even as it"
+    ],
+    "Heywood": [
+     "to see of",
+     "me to our",
+     "hath brought them",
+     "have you observed"
+    ],
+    "Beaumont": [
+     "breath and this",
+     "since our great",
+     "much labour and"
+    ],
+    "Fletcher+other": [
+     "fortunes i will",
+     "love any that's",
+     "'em then if",
+     "no manners to",
+     "to these so",
+     "long and with"
+    ],
+    "Shakespeare": [
+     "sing it in",
+     "wishes to our",
+     "we should hold",
+     "was then of",
+     "comes in like"
+    ],
+    "Beaumont+Fletcher": [
+     "a finger of"
+    ],
+    "Chapman": [
+     "with a finger",
+     "like the elements",
+     "his army in"
+    ],
+    "Tourneur": [
+     "from the arm"
+    ],
+    "Jonson": [
+     "since in our"
+    ],
+    "Shirley": [
+     "and we cannot",
+     "long till she",
+     "why it was",
+     "and this high"
+    ],
+    "Marston": [
+     "loud for we",
+     "we cannot weep"
+    ],
+    "Rowley": [
+     "we did and",
+     "not my poor",
+     "i pursue this"
+    ]
+   }
+  },
+  "collab_tnk|1.4": {
+   "n_words": 406,
+   "links": {
+    "Dekker": 2,
+    "Chapman": 2,
+    "Shakespeare": 3,
+    "Shirley": 3,
+    "Fletcher": 1,
+    "R18": 1,
+    "Fletcher+other": 2,
+    "Theobald-transl": 1,
+    "Middleton": 1,
+    "Massinger": 1,
+    "Shelton": 1,
+    "Ford": 1,
+    "Heywood": 1,
+    "Daborne": 1,
+    "Field": 1
+   },
+   "rate": {
+    "Shakespeare": 0.4958399032120509,
+    "Fletcher": 0.30160180719802876,
+    "Fletcher+other": 0.39524910574889827,
+    "Beaumont+Fletcher": 0.0,
+    "Beaumont": 0.0,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.8884308534266778,
+    "Webster": 0.0,
+    "Jonson": 0.0,
+    "Chapman": 1.1541546682670945,
+    "Marston": 0.0,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 0.0,
+    "Field": 2.946375957572186,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 0.20347204701018173,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Dekker": [
+     "and honour them",
+     "honour them with"
+    ],
+    "Chapman": [
+     "for our army",
+     "your dignities and"
+    ],
+    "Shakespeare": [
+     "set a mark",
+     "in their dear",
+     "love and great"
+    ],
+    "Shirley": [
+     "for our sake",
+     "were a mark",
+     "could not reach"
+    ],
+    "Fletcher": [
+     "those those they"
+    ],
+    "R18": [
+     "desire of liberty"
+    ],
+    "Fletcher+other": [
+     "are those men",
+     "we had rather"
+    ],
+    "Theobald-transl": [
+     "but those we"
+    ],
+    "Middleton": [
+     "have the name"
+    ],
+    "Massinger": [
+     "of life had"
+    ],
+    "Shelton": [
+     "in their time"
+    ],
+    "Ford": [
+     "to athens for"
+    ],
+    "Heywood": [
+     "saw them in"
+    ],
+    "Daborne": [
+     "those men of"
+    ],
+    "Field": [
+     "of men then"
+    ]
+   }
+  },
+  "collab_tnk|1.5": {
+   "n_words": 103,
+   "links": {
+    "Shakespeare": 2,
+    "Theobald": 1,
+    "Dekker": 1,
+    "Shelton": 1,
+    "Fletcher+other": 1
+   },
+   "rate": {
+    "Shakespeare": 0.33055993547470064,
+    "Fletcher": 0.0,
+    "Fletcher+other": 0.19762455287444913,
+    "Beaumont+Fletcher": 0.0,
+    "Beaumont": 0.0,
+    "Massinger": 0.0,
+    "Shirley": 0.0,
+    "Middleton": 0.0,
+    "Ford": 0.0,
+    "Webster": 0.0,
+    "Jonson": 0.0,
+    "Chapman": 0.0,
+    "Marston": 0.0,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 0.0,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.0,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shakespeare": [
+     "full of straying",
+     "market place where"
+    ],
+    "Theobald": [
+     "and death's the"
+    ],
+    "Dekker": [
+     "this world's a"
+    ],
+    "Shelton": [
+     "filled with tears"
+    ],
+    "Fletcher+other": [
+     "the day our"
+    ]
+   }
+  },
+  "collab_tnk|2.1": {
+   "n_words": 494,
+   "links": {
+    "Beaumont+Fletcher": 3,
+    "Marston": 1,
+    "Fletcher": 2,
+    "Heywood": 1,
+    "Middleton": 4,
+    "Jonson": 1,
+    "Fletcher+other": 3,
+    "Rowley": 5,
+    "Massinger": 1,
+    "Shelton": 4,
+    "Dekker": 1,
+    "Shakespeare": 5,
+    "Chapman": 2,
+    "R18": 3,
+    "Shirley": 2
+   },
+   "rate": {
+    "Shakespeare": 0.8263998386867515,
+    "Fletcher": 0.6032036143960575,
+    "Fletcher+other": 0.5928736586233474,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 0.0,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 0.7406474740217899,
+    "Middleton": 2.6918987307697484,
+    "Ford": 0.0,
+    "Webster": 0.0,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 1.1541546682670945,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 6.508806415079603,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.6104161410305452,
+    "Shelton": 1.9421624036201905,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Beaumont+Fletcher": [
+     "i keep though",
+     "are in prison",
+     "out i do"
+    ],
+    "Marston": [
+     "is the lower"
+    ],
+    "Fletcher": [
+     "be comforted the",
+     "great ones yet"
+    ],
+    "Heywood": [
+     "then it can"
+    ],
+    "Middleton": [
+     "i will estate",
+     "most likely for",
+     "you a full",
+     "they so i"
+    ],
+    "Jonson": [
+     "i tender my"
+    ],
+    "Fletcher+other": [
+     "sir here she",
+     "may perceive a",
+     "as the court"
+    ],
+    "Rowley": [
+     "when that shall",
+     "'tis pitty they",
+     "pitty they should",
+     "know not look",
+     "that now so"
+    ],
+    "Massinger": [
+     "report is a"
+    ],
+    "Shelton": [
+     "them when the",
+     "so did they",
+     "will talk more",
+     "of many things"
+    ],
+    "Dekker": [
+     "many things but"
+    ],
+    "Shakespeare": [
+     "we will talk",
+     "things but nothing",
+     "then i of",
+     "their mirth and",
+     "they seldom come"
+    ],
+    "Chapman": [
+     "of him go",
+     "you not much"
+    ],
+    "R18": [
+     "sigh to be",
+     "be a pair",
+     "i may cast"
+    ],
+    "Shirley": [
+     "my daughter at",
+     "you here upon"
+    ]
+   }
+  },
+  "collab_tnk|2.2": {
+   "n_words": 2386,
+   "links": {
+    "Fletcher+other": 47,
+    "Chapman": 7,
+    "R18": 25,
+    "Massinger": 11,
+    "Field": 1,
+    "Shakespeare": 35,
+    "Heywood": 10,
+    "Shelton": 9,
+    "Fletcher": 45,
+    "Tourneur": 3,
+    "Beaumont+Fletcher": 19,
+    "Brome": 5,
+    "Beaumont": 4,
+    "Dekker": 2,
+    "Ford": 4,
+    "Rowley": 4,
+    "Shirley": 8,
+    "Middleton": 5,
+    "Jonson": 4,
+    "Webster": 1,
+    "Marston": 3,
+    "Davenant": 1,
+    "Theobald-transl": 2
+   },
+   "rate": {
+    "Shakespeare": 5.78479887080726,
+    "Fletcher": 13.572081323911295,
+    "Fletcher+other": 9.288353985099109,
+    "Beaumont+Fletcher": 12.510782318972272,
+    "Beaumont": 9.19645936314519,
+    "Massinger": 5.1458858642515315,
+    "Shirley": 2.9625898960871595,
+    "Middleton": 3.3648734134621856,
+    "Ford": 3.5537234137067113,
+    "Webster": 1.4190234280767975,
+    "Jonson": 3.468879811986714,
+    "Chapman": 4.039541338934831,
+    "Marston": 3.9746154559546363,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 8.132395397064206,
+    "Rowley": 5.207045132063683,
+    "Field": 2.946375957572186,
+    "Brome": 6.702951980052014,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 14.777597162701344,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 5.086801175254544,
+    "Shelton": 4.369865408145429,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 3.586800573888092,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher+other": [
+     "like a too",
+     "out stript the",
+     "full of 'em",
+     "first saw her",
+     "down and never",
+     "the peoples curses"
+    ],
+    "Chapman": [
+     "beauties in her",
+     "worthy and as",
+     "us our good",
+     "yet good madam",
+     "more now must",
+     "you that's as"
+    ],
+    "R18": [
+     "not and desire",
+     "concerns me and",
+     "false as thy",
+     "gods to feed",
+     "or were they",
+     "sent for it"
+    ],
+    "Massinger": [
+     "old in the",
+     "we are an",
+     "it possible our",
+     "and never charge",
+     "men that when",
+     "close mine eies"
+    ],
+    "Field": [
+     "soul you have"
+    ],
+    "Shakespeare": [
+     "here but one",
+     "of war yet",
+     "her be as",
+     "let that one",
+     "as just a",
+     "the gods a"
+    ],
+    "Heywood": [
+     "so envious to",
+     "how modestly she",
+     "a friend be",
+     "under us our",
+     "that first saw",
+     "are mine this"
+    ],
+    "Shelton": [
+     "my body out",
+     "am sufficient to",
+     "our hands i",
+     "him what had",
+     "blood and all",
+     "between her arms"
+    ],
+    "Fletcher": [
+     "this fortune to",
+     "this lady this",
+     "'em and of",
+     "of these miseries",
+     "to ravish me",
+     "all have i"
+    ],
+    "Tourneur": [
+     "i'll nail thy",
+     "is't but a",
+     "art a traytour"
+    ],
+    "Beaumont+Fletcher": [
+     "light had i",
+     "kill thee thou",
+     "he lose her",
+     "blessing can be",
+     "a fair boy",
+     "and let mine"
+    ],
+    "Brome": [
+     "a wife might",
+     "our selves shall",
+     "she locks her",
+     "her next and",
+     "your fathers were"
+    ],
+    "Beaumont": [
+     "have a fortune",
+     "the sun grows",
+     "know nothing here",
+     "hung with the"
+    ],
+    "Dekker": [
+     "with mine eye",
+     "what had we"
+    ],
+    "Ford": [
+     "else if thou",
+     "with us here",
+     "nature this is",
+     "are our friend"
+    ],
+    "Rowley": [
+     "to arms the",
+     "loved better then",
+     "how now keeper",
+     "see how near"
+    ],
+    "Shirley": [
+     "good wench but",
+     "be i saw",
+     "tasted should be",
+     "window i would",
+     "eye of all",
+     "dare and all"
+    ],
+    "Middleton": [
+     "our fortunes were",
+     "lightning to blast",
+     "i that took",
+     "we shall die",
+     "that now that"
+    ],
+    "Jonson": [
+     "cosen how do",
+     "at all who",
+     "the court here",
+     "comming i shall"
+    ],
+    "Webster": [
+     "for shame see"
+    ],
+    "Marston": [
+     "that shook the",
+     "more upon his",
+     "her modesty will"
+    ],
+    "Davenant": [
+     "acquaintance we are"
+    ],
+    "Theobald-transl": [
+     "little patience we",
+     "all the fortune"
+    ]
+   }
+  },
+  "collab_tnk|2.3": {
+   "n_words": 716,
+   "links": {
+    "Shelton": 1,
+    "Fletcher+other": 5,
+    "Fletcher": 11,
+    "R18": 4,
+    "Chapman": 3,
+    "Brome": 2,
+    "Shakespeare": 10,
+    "Beaumont+Fletcher": 3,
+    "Jonson": 1,
+    "Heywood": 2,
+    "Ford": 2,
+    "Rowley": 1,
+    "Marston": 3,
+    "Shirley": 2,
+    "Dekker": 3,
+    "Webster": 4,
+    "Beaumont": 1,
+    "Massinger": 1
+   },
+   "rate": {
+    "Shakespeare": 1.652799677373503,
+    "Fletcher": 3.317619879178316,
+    "Fletcher+other": 0.9881227643722457,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 0.7406474740217899,
+    "Middleton": 0.0,
+    "Ford": 1.7768617068533556,
+    "Webster": 5.67609371230719,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 1.7312320024006416,
+    "Marston": 3.9746154559546363,
+    "Dekker": 2.933583665806149,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.8138881880407269,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shelton": [
+     "to let slip"
+    ],
+    "Fletcher+other": [
+     "were you bred",
+     "be done i'th",
+     "a noble beauty",
+     "leave the kingdom",
+     "have but will"
+    ],
+    "Fletcher": [
+     "her take a",
+     "me this fellow",
+     "be for our",
+     "ye know not",
+     "may ever dwell",
+     "before the ladies"
+    ],
+    "R18": [
+     "has a tongue",
+     "whither go you",
+     "more why then",
+     "as she's fair"
+    ],
+    "Chapman": [
+     "are there and",
+     "play to day",
+     "hold against the"
+    ],
+    "Brome": [
+     "here again and",
+     "town and here"
+    ],
+    "Shakespeare": [
+     "our town and",
+     "in person there",
+     "us and do",
+     "prefer me to",
+     "as you never",
+     "friends pray you"
+    ],
+    "Beaumont+Fletcher": [
+     "must thank 'em",
+     "know mine own",
+     "she must see"
+    ],
+    "Jonson": [
+     "and let in"
+    ],
+    "Heywood": [
+     "fair i know",
+     "but will the"
+    ],
+    "Ford": [
+     "fellow thou wilt",
+     "'tis a benefit"
+    ],
+    "Rowley": [
+     "a mercy i"
+    ],
+    "Marston": [
+     "and god knows",
+     "heigh for the",
+     "mine own is"
+    ],
+    "Shirley": [
+     "but a heap",
+     "a new lesson"
+    ],
+    "Dekker": [
+     "i'll go through",
+     "sir are there",
+     "lusty all the"
+    ],
+    "Webster": [
+     "ever dwell in",
+     "the duke most",
+     "duke and she",
+     "jealous as a"
+    ],
+    "Beaumont": [
+     "for our town"
+    ],
+    "Massinger": [
+     "that yes 'tis"
+    ]
+   }
+  },
+  "collab_tnk|2.4": {
+   "n_words": 287,
+   "links": {
+    "Shirley": 6,
+    "Massinger": 2,
+    "Fletcher+other": 5,
+    "Jonson": 1,
+    "Beaumont": 1,
+    "Theobald-transl": 1,
+    "Brome": 1,
+    "R18": 4,
+    "Middleton": 2,
+    "Fletcher": 3,
+    "Beaumont+Fletcher": 2,
+    "Chapman": 3,
+    "Heywood": 1
+   },
+   "rate": {
+    "Shakespeare": 0.0,
+    "Fletcher": 0.9048054215940862,
+    "Fletcher+other": 0.9881227643722457,
+    "Beaumont+Fletcher": 1.3169244546286603,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 0.9356156116820965,
+    "Shirley": 2.221942422065369,
+    "Middleton": 1.3459493653848742,
+    "Ford": 0.0,
+    "Webster": 0.0,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 1.3405903960104029,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.8138881880407269,
+    "Shelton": 0.0,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shirley": [
+     "me i loved",
+     "morrow he shall",
+     "he kist me",
+     "lips the better",
+     "enjoy him say",
+     "thee a happy"
+    ],
+    "Massinger": [
+     "keeper of his",
+     "these eyes yet"
+    ],
+    "Fletcher+other": [
+     "may thy goodnes",
+     "much and me",
+     "i am base",
+     "then thus much",
+     "ever these eyes"
+    ],
+    "Jonson": [
+     "this gentleman 'tis"
+    ],
+    "Beaumont": [
+     "woman in him"
+    ],
+    "Theobald-transl": [
+     "sing in an"
+    ],
+    "Brome": [
+     "he shall love"
+    ],
+    "R18": [
+     "he bows his",
+     "too but in",
+     "i loved my",
+     "him know i"
+    ],
+    "Middleton": [
+     "the law then",
+     "in to bring"
+    ],
+    "Fletcher": [
+     "says the law",
+     "wench that ever",
+     "any young wench"
+    ],
+    "Beaumont+Fletcher": [
+     "he a prince",
+     "a heaven it"
+    ],
+    "Chapman": [
+     "please to bestow",
+     "fair as he",
+     "him i seeing"
+    ],
+    "Heywood": [
+     "of his prison"
+    ]
+   }
+  },
+  "collab_tnk|2.5": {
+   "n_words": 566,
+   "links": {
+    "Massinger": 4,
+    "Fletcher": 12,
+    "Webster": 2,
+    "Fletcher+other": 11,
+    "R18": 7,
+    "Beaumont+Fletcher": 2,
+    "Shakespeare": 10,
+    "Shirley": 8,
+    "Heywood": 2,
+    "Jonson": 1,
+    "Middleton": 1,
+    "Marston": 1,
+    "Chapman": 3,
+    "Rowley": 2,
+    "Beaumont": 1,
+    "Dekker": 1
+   },
+   "rate": {
+    "Shakespeare": 1.652799677373503,
+    "Fletcher": 3.6192216863763447,
+    "Fletcher+other": 2.1738700816189405,
+    "Beaumont+Fletcher": 1.3169244546286603,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.871231223364193,
+    "Shirley": 2.9625898960871595,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.0,
+    "Webster": 2.838046856153595,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 1.7312320024006416,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 2.6035225660318413,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.4243043290712722,
+    "Shelton": 0.0,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Massinger": [
+     "last and greatest",
+     "i have horses",
+     "my best peece",
+     "service to this"
+    ],
+    "Fletcher": [
+     "not seen since",
+     "so how do",
+     "you deserve well",
+     "sir sir you're",
+     "much endebted to",
+     "but know it"
+    ],
+    "Webster": [
+     "his heir his",
+     "a noble giver"
+    ],
+    "Fletcher+other": [
+     "you are you're",
+     "find a loving",
+     "are wise i",
+     "to ride but",
+     "goodness you have",
+     "is so how"
+    ],
+    "R18": [
+     "a foot that",
+     "master but you",
+     "was a wondrous",
+     "must be ready",
+     "as thy worth",
+     "him die he"
+    ],
+    "Beaumont+Fletcher": [
+     "me would say",
+     "kiss her fair"
+    ],
+    "Shakespeare": [
+     "do observance to",
+     "proper man he",
+     "better prince i",
+     "said so and",
+     "were a shame",
+     "young a man"
+    ],
+    "Shirley": [
+     "you this but",
+     "when your servant",
+     "have won it",
+     "a gentleman are",
+     "noble service to",
+     "endebted to your"
+    ],
+    "Heywood": [
+     "to those gentle",
+     "you're mine and"
+    ],
+    "Jonson": [
+     "wait well sir"
+    ],
+    "Middleton": [
+     "he say true"
+    ],
+    "Marston": [
+     "is a happy"
+    ],
+    "Chapman": [
+     "if you serve",
+     "sweet you must",
+     "wise for that"
+    ],
+    "Rowley": [
+     "somewhat better then",
+     "assure you you'll"
+    ],
+    "Beaumont": [
+     "die he shall"
+    ],
+    "Dekker": [
+     "all his words"
+    ]
+   }
+  },
+  "collab_tnk|2.6": {
+   "n_words": 352,
+   "links": {
+    "Shakespeare": 7,
+    "Chapman": 3,
+    "Jonson": 1,
+    "Davenant": 1,
+    "Fletcher+other": 9,
+    "Webster": 1,
+    "Heywood": 2,
+    "R18": 3,
+    "Field": 1,
+    "Shelton": 2,
+    "Fletcher": 2,
+    "Brome": 2,
+    "Middleton": 1,
+    "Rowley": 1,
+    "Beaumont+Fletcher": 1
+   },
+   "rate": {
+    "Shakespeare": 1.1569597741614521,
+    "Fletcher": 0.6032036143960575,
+    "Fletcher+other": 1.7786209758700422,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 0.0,
+    "Massinger": 0.0,
+    "Shirley": 0.0,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.0,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 1.3017612830159206,
+    "Field": 2.946375957572186,
+    "Brome": 2.6811807920208057,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.6104161410305452,
+    "Shelton": 0.9710812018100953,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shakespeare": [
+     "for yet his",
+     "i'll venture so",
+     "and food for",
+     "wood a mile",
+     "again and yet",
+     "all the dukes"
+    ],
+    "Chapman": [
+     "am desperate if",
+     "him and out",
+     "me by him"
+    ],
+    "Jonson": [
+     "so he use"
+    ],
+    "Davenant": [
+     "love him beyond"
+    ],
+    "Fletcher+other": [
+     "way he takes",
+     "father yet i",
+     "did to me",
+     "he takes i",
+     "shortly you may",
+     "all the divells"
+    ],
+    "Webster": [
+     "all o'er the"
+    ],
+    "Heywood": [
+     "much as kist",
+     "as kist me"
+    ],
+    "R18": [
+     "he shall or",
+     "he made such",
+     "a shadow i'll"
+    ],
+    "Field": [
+     "or wit or"
+    ],
+    "Shelton": [
+     "him to become",
+     "thinks is not"
+    ],
+    "Fletcher": [
+     "too sure he",
+     "my way too"
+    ],
+    "Brome": [
+     "close till i",
+     "keep close till"
+    ],
+    "Middleton": [
+     "prison i am"
+    ],
+    "Rowley": [
+     "and tell to"
+    ],
+    "Beaumont+Fletcher": [
+     "i'll presently provide"
+    ]
+   }
+  },
+  "collab_tnk|3.1": {
+   "n_words": 1036,
+   "links": {
+    "Fletcher": 7,
+    "Ford": 4,
+    "Middleton": 5,
+    "Shelton": 1,
+    "Fletcher+other": 13,
+    "Beaumont+Fletcher": 3,
+    "Dekker": 1,
+    "Heywood": 3,
+    "Shakespeare": 10,
+    "Davenant": 1,
+    "Shirley": 5,
+    "Chapman": 4,
+    "Brome": 2,
+    "Massinger": 5,
+    "Beaumont": 2,
+    "R18": 4,
+    "Anon": 1,
+    "Theobald-transl": 1,
+    "Marston": 1,
+    "Jonson": 1
+   },
+   "rate": {
+    "Shakespeare": 1.652799677373503,
+    "Fletcher": 2.1112126503862014,
+    "Fletcher+other": 2.5691191873678387,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 2.339039029205241,
+    "Shirley": 1.8516186850544745,
+    "Middleton": 3.3648734134621856,
+    "Ford": 3.5537234137067113,
+    "Webster": 0.0,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 2.308309336534189,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 0.8138881880407269,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "yea my life",
+     "sir they call",
+     "now to look",
+     "and art a",
+     "off me and",
+     "self and say"
+    ],
+    "Ford": [
+     "in your glass",
+     "counsaile of the",
+     "promise and do",
+     "may be prowd"
+    ],
+    "Middleton": [
+     "you must guess",
+     "the deed with",
+     "after when you",
+     "self the happier",
+     "deed with a"
+    ],
+    "Shelton": [
+     "his care which"
+    ],
+    "Fletcher+other": [
+     "sword though it",
+     "a cuff my",
+     "land this is",
+     "be by a",
+     "a sun that",
+     "duke has lost"
+    ],
+    "Beaumont+Fletcher": [
+     "wish more then",
+     "bold i do",
+     "love would make"
+    ],
+    "Dekker": [
+     "and brave souls"
+    ],
+    "Heywood": [
+     "we challenge too",
+     "give me language",
+     "note of me"
+    ],
+    "Shakespeare": [
+     "sword and these",
+     "to breed me",
+     "title i am",
+     "may not wish",
+     "be rough with",
+     "not wish more"
+    ],
+    "Davenant": [
+     "language when i"
+    ],
+    "Shirley": [
+     "a sword though",
+     "so bold i",
+     "some news from",
+     "me some news",
+     "it to'th heart"
+    ],
+    "Chapman": [
+     "one i and",
+     "they shall get",
+     "good knight and",
+     "in shades that"
+    ],
+    "Brome": [
+     "and say but",
+     "me a sword"
+    ],
+    "Massinger": [
+     "sword in thy",
+     "you take comfort",
+     "of your language",
+     "sword and armour",
+     "since that your"
+    ],
+    "Beaumont": [
+     "earth they shall",
+     "hand and do"
+    ],
+    "R18": [
+     "i a sword",
+     "met give me",
+     "i chide him",
+     "i'll maintain my"
+    ],
+    "Anon": [
+     "i cherish and"
+    ],
+    "Theobald-transl": [
+     "and the athenians"
+    ],
+    "Marston": [
+     "thou knew'st my"
+    ],
+    "Jonson": [
+     "an office there"
+    ]
+   }
+  },
+  "collab_tnk|3.2": {
+   "n_words": 336,
+   "links": {
+    "Shirley": 4,
+    "Jonson": 1,
+    "Middleton": 1,
+    "Shakespeare": 5,
+    "R18": 1,
+    "Fletcher+other": 2,
+    "Ford": 1,
+    "Fletcher": 1,
+    "Massinger": 1,
+    "Shelton": 1,
+    "Marston": 1,
+    "Davenant": 1,
+    "Theobald-transl": 1
+   },
+   "rate": {
+    "Shakespeare": 0.8263998386867515,
+    "Fletcher": 0.30160180719802876,
+    "Fletcher+other": 0.39524910574889827,
+    "Beaumont+Fletcher": 0.0,
+    "Beaumont": 0.0,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 1.4812949480435798,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.8884308534266778,
+    "Webster": 0.0,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.0,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.0,
+    "Heywood": 0.0,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.20347204701018173,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shirley": [
+     "they feed on",
+     "water i have",
+     "is gone no",
+     "a sence to"
+    ],
+    "Jonson": [
+     "that service i"
+    ],
+    "Middleton": [
+     "way now the"
+    ],
+    "Shakespeare": [
+     "dissolue my life",
+     "all offices are",
+     "act but that",
+     "hanged for his",
+     "in me hath"
+    ],
+    "R18": [
+     "for that be"
+    ],
+    "Fletcher+other": [
+     "nothing and that's",
+     "how stand i"
+    ],
+    "Ford": [
+     "to listen who"
+    ],
+    "Fletcher": [
+     "ring the bell"
+    ],
+    "Massinger": [
+     "to deny my"
+    ],
+    "Shelton": [
+     "least i should"
+    ],
+    "Marston": [
+     "do him but"
+    ],
+    "Davenant": [
+     "have in them"
+    ],
+    "Theobald-transl": [
+     "o state of"
+    ]
+   }
+  },
+  "collab_tnk|3.3": {
+   "n_words": 483,
+   "links": {
+    "Dekker": 2,
+    "Fletcher": 9,
+    "Middleton": 1,
+    "R18": 5,
+    "Shakespeare": 4,
+    "Ford": 2,
+    "Fletcher+other": 8,
+    "Massinger": 4,
+    "Shirley": 3,
+    "Beaumont": 3,
+    "Shelton": 1,
+    "Beaumont+Fletcher": 1,
+    "Heywood": 1,
+    "Chapman": 1,
+    "Davenant": 1,
+    "Webster": 1,
+    "Jonson": 1
+   },
+   "rate": {
+    "Shakespeare": 0.6611198709494013,
+    "Fletcher": 2.7144162647822583,
+    "Fletcher+other": 1.580996422995593,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 6.897344522358892,
+    "Massinger": 1.871231223364193,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 0.6729746826924371,
+    "Ford": 1.7768617068533556,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.5770773341335472,
+    "Marston": 0.0,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.0173602350509088,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Dekker": [
+     "known in our",
+     "some two howres"
+    ],
+    "Fletcher": [
+     "not dye thus",
+     "i am gladder",
+     "drink i know",
+     "thou makst me",
+     "fool away with",
+     "'tis a lusty"
+    ],
+    "Middleton": [
+     "young men went"
+    ],
+    "R18": [
+     "and a broad",
+     "for fools and",
+     "thee honest then",
+     "more if he",
+     "and honour in"
+    ],
+    "Shakespeare": [
+     "heigh ho for",
+     "else there be",
+     "nor none so",
+     "sit down then"
+    ],
+    "Ford": [
+     "no matter we'll",
+     "should be near"
+    ],
+    "Fletcher+other": [
+     "hence and bring",
+     "and good now",
+     "much but if",
+     "come take courage",
+     "then that have",
+     "when young men"
+    ],
+    "Massinger": [
+     "argue that hereafter",
+     "not having our",
+     "sword and armour",
+     "not much but"
+    ],
+    "Shirley": [
+     "mention of this",
+     "you remember her",
+     "sir i'll pledge"
+    ],
+    "Beaumont": [
+     "wood and a",
+     "if he keep",
+     "duke has more"
+    ],
+    "Shelton": [
+     "say again that"
+    ],
+    "Beaumont+Fletcher": [
+     "she did sir"
+    ],
+    "Heywood": [
+     "the honesty and"
+    ],
+    "Chapman": [
+     "you not much"
+    ],
+    "Davenant": [
+     "you after a"
+    ],
+    "Webster": [
+     "a hunting and"
+    ],
+    "Jonson": [
+     "in our dais"
+    ]
+   }
+  },
+  "collab_tnk|3.4": {
+   "n_words": 232,
+   "links": {
+    "Shelton": 1,
+    "R18": 4,
+    "Shakespeare": 4,
+    "Webster": 3,
+    "Fletcher+other": 2,
+    "Rowley": 1,
+    "Beaumont+Fletcher": 1,
+    "Dekker": 1,
+    "Fletcher": 1,
+    "Massinger": 2,
+    "Beaumont": 1
+   },
+   "rate": {
+    "Shakespeare": 0.6611198709494013,
+    "Fletcher": 0.30160180719802876,
+    "Fletcher+other": 0.39524910574889827,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 0.9356156116820965,
+    "Shirley": 0.0,
+    "Middleton": 0.0,
+    "Ford": 0.0,
+    "Webster": 4.257070284230393,
+    "Jonson": 0.0,
+    "Chapman": 0.0,
+    "Marston": 0.0,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 0.0,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.8138881880407269,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shelton": [
+     "trust up in"
+    ],
+    "R18": [
+     "cockle shell and",
+     "a cockle shell",
+     "world that is",
+     "of a cockle"
+    ],
+    "Shakespeare": [
+     "little stars and",
+     "by east and",
+     "to ride and",
+     "all that look"
+    ],
+    "Webster": [
+     "i'll cut my",
+     "very cold and",
+     "a trice to"
+    ],
+    "Fletcher+other": [
+     "now there's a",
+     "am very cold"
+    ],
+    "Rowley": [
+     "to one is"
+    ],
+    "Beaumont+Fletcher": [
+     "above my knee"
+    ],
+    "Dekker": [
+     "against i shall"
+    ],
+    "Fletcher": [
+     "how they cry"
+    ],
+    "Massinger": [
+     "like a nightingale",
+     "with a course"
+    ],
+    "Beaumont": [
+     "now now there's"
+    ]
+   }
+  },
+  "collab_tnk|3.5": {
+   "n_words": 1203,
+   "links": {
+    "Middleton": 5,
+    "Shakespeare": 13,
+    "Jonson": 2,
+    "Dekker": 3,
+    "Shirley": 3,
+    "R18": 6,
+    "Fletcher+other": 14,
+    "Brome": 2,
+    "Shelton": 1,
+    "Ford": 2,
+    "Fletcher": 14,
+    "Chapman": 5,
+    "Beaumont+Fletcher": 5,
+    "Heywood": 2,
+    "Massinger": 3,
+    "Davenant": 3,
+    "Beaumont": 1,
+    "Marston": 1,
+    "Field": 1,
+    "Daborne": 1
+   },
+   "rate": {
+    "Shakespeare": 2.148639580585554,
+    "Fletcher": 4.222425300772403,
+    "Fletcher+other": 2.766743740242288,
+    "Beaumont+Fletcher": 3.29231113657165,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 3.3648734134621856,
+    "Ford": 1.7768617068533556,
+    "Webster": 0.0,
+    "Jonson": 1.734439905993357,
+    "Chapman": 2.885386670667736,
+    "Marston": 1.3248718186515454,
+    "Dekker": 2.933583665806149,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 0.0,
+    "Field": 2.946375957572186,
+    "Brome": 2.6811807920208057,
+    "Davenant": 5.194175597763042,
+    "Tourneur": 0.0,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 1.2208322820610904,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Middleton": [
+     "away boys i",
+     "is a cold",
+     "few of those",
+     "i'll fit thee",
+     "thee laugh and"
+    ],
+    "Shakespeare": [
+     "south from the",
+     "that we came",
+     "are a few",
+     "else give me",
+     "i say where's",
+     "be swift and"
+    ],
+    "Jonson": [
+     "it i'll lead",
+     "the chambermaid and"
+    ],
+    "Dekker": [
+     "feet i offer",
+     "as a march",
+     "out before him"
+    ],
+    "Shirley": [
+     "do your teeth",
+     "be sorry else",
+     "me once you"
+    ],
+    "R18": [
+     "the next the",
+     "be and no",
+     "and a a",
+     "no more holes",
+     "and mark your",
+     "we here some"
+    ],
+    "Fletcher+other": [
+     "now there's a",
+     "me thy poor",
+     "do do this",
+     "morris and i",
+     "look right and",
+     "at ye but"
+    ],
+    "Brome": [
+     "exegi quod nec",
+     "opus exegi quod"
+    ],
+    "Shelton": [
+     "the small ones"
+    ],
+    "Ford": [
+     "rare and i",
+     "sweet ladies this"
+    ],
+    "Fletcher": [
+     "a devil now",
+     "she'll do the",
+     "cause that we",
+     "me a devil",
+     "two by three",
+     "by one by"
+    ],
+    "Chapman": [
+     "but a tree",
+     "do you still",
+     "here's something to",
+     "long tail and",
+     "there's a dainty"
+    ],
+    "Beaumont+Fletcher": [
+     "credit of our",
+     "do the rarest",
+     "there are you",
+     "good woman why",
+     "and turn boys"
+    ],
+    "Heywood": [
+     "she fail me",
+     "are you close"
+    ],
+    "Massinger": [
+     "an owl the",
+     "raise me a",
+     "the tapster to"
+    ],
+    "Davenant": [
+     "long and thy",
+     "with your bodies",
+     "your bodies and"
+    ],
+    "Beaumont": [
+     "on it now"
+    ],
+    "Marston": [
+     "nods and hums"
+    ],
+    "Field": [
+     "lady bright the"
+    ],
+    "Daborne": [
+     "do give us"
+    ]
+   }
+  },
+  "collab_tnk|3.6": {
+   "n_words": 2678,
+   "links": {
+    "Fletcher": 43,
+    "Shirley": 13,
+    "Middleton": 8,
+    "R18": 26,
+    "Rowley": 3,
+    "Shelton": 4,
+    "Massinger": 13,
+    "Beaumont+Fletcher": 25,
+    "Fletcher+other": 30,
+    "Jonson": 5,
+    "Webster": 2,
+    "Shakespeare": 24,
+    "Marston": 3,
+    "Tourneur": 2,
+    "Ford": 8,
+    "Chapman": 11,
+    "Dekker": 6,
+    "Heywood": 4,
+    "Brome": 4,
+    "Anon": 1,
+    "Theobald": 1,
+    "Daborne": 1
+   },
+   "rate": {
+    "Shakespeare": 3.9667192256964072,
+    "Fletcher": 12.968877709515235,
+    "Fletcher+other": 5.928736586233473,
+    "Beaumont+Fletcher": 16.46155568285825,
+    "Beaumont": 0.0,
+    "Massinger": 6.081501475933628,
+    "Shirley": 4.814208581141634,
+    "Middleton": 5.383797461539497,
+    "Ford": 7.107446827413423,
+    "Webster": 2.838046856153595,
+    "Jonson": 4.336099764983392,
+    "Chapman": 6.347850675469019,
+    "Marston": 3.9746154559546363,
+    "Dekker": 5.867167331612298,
+    "Heywood": 3.2529581588256824,
+    "Rowley": 3.9052838490477617,
+    "Field": 0.0,
+    "Brome": 5.3623615840416115,
+    "Davenant": 0.0,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 5.387931034482759,
+    "Anon": 8.758868354208637,
+    "R18": 5.290273222264725,
+    "Shelton": 1.9421624036201905,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "to 'em nor",
+     "shall any thing",
+     "cut a peeces",
+     "may win it",
+     "life so basely",
+     "all our dangers"
+    ],
+    "Shirley": [
+     "you love any",
+     "he shall enjoy",
+     "and fortune for",
+     "you show more",
+     "honours sake and",
+     "be seen you"
+    ],
+    "Middleton": [
+     "mistress to me",
+     "maids that ever",
+     "these are men",
+     "urge it home",
+     "little let him",
+     "'tis the dukes"
+    ],
+    "R18": [
+     "he left i",
+     "must not fly",
+     "you shall both",
+     "yet spoke of",
+     "we'll use no",
+     "were not bred"
+    ],
+    "Rowley": [
+     "dear sister i",
+     "had a noble",
+     "here's one if"
+    ],
+    "Shelton": [
+     "appear again in",
+     "make it serve",
+     "have said they",
+     "very like that"
+    ],
+    "Massinger": [
+     "her yet i'll",
+     "for my contempt",
+     "to be denide",
+     "that my embraces",
+     "your reason will",
+     "a swine to"
+    ],
+    "Beaumont+Fletcher": [
+     "a right woman",
+     "visit me again",
+     "well said you'll",
+     "thy noble hand",
+     "that faith will",
+     "any means you"
+    ],
+    "Fletcher+other": [
+     "all ye gods",
+     "preserve the honour",
+     "that faith that",
+     "noble brother that",
+     "swords and cause",
+     "bless my ashes"
+    ],
+    "Jonson": [
+     "me o good",
+     "one another every",
+     "gotst thou this",
+     "true i stole",
+     "sister in a"
+    ],
+    "Webster": [
+     "us and say",
+     "more mercy then"
+    ],
+    "Shakespeare": [
+     "i'll bury thee",
+     "you then as",
+     "so in all",
+     "have worn a",
+     "not too heavy",
+     "me find a"
+    ],
+    "Marston": [
+     "before me that",
+     "your anger your",
+     "my grave will"
+    ],
+    "Tourneur": [
+     "my duty would",
+     "come i'll give"
+    ],
+    "Ford": [
+     "break from the",
+     "then to whom",
+     "of love about",
+     "we be found",
+     "sir by our",
+     "cannot love thee"
+    ],
+    "Chapman": [
+     "fear less then",
+     "all the justice",
+     "the left wing",
+     "love thee he",
+     "morning shall be",
+     "had not said"
+    ],
+    "Dekker": [
+     "cry woe worth",
+     "and cry woe",
+     "you that gainst",
+     "health as i",
+     "but i'll get",
+     "little i did"
+    ],
+    "Heywood": [
+     "say i commend",
+     "well done a",
+     "as kind a",
+     "in me thine"
+    ],
+    "Brome": [
+     "we seek not",
+     "which i'll plant",
+     "dye you shall",
+     "by fair and"
+    ],
+    "Anon": [
+     "end this difference"
+    ],
+    "Theobald": [
+     "reason will not"
+    ],
+    "Daborne": [
+     "thy self wilt"
+    ]
+   }
+  },
+  "collab_tnk|4.1": {
+   "n_words": 1301,
+   "links": {
+    "Fletcher": 21,
+    "Heywood": 3,
+    "Shelton": 8,
+    "Middleton": 3,
+    "R18": 14,
+    "Shirley": 14,
+    "Shakespeare": 19,
+    "Ford": 4,
+    "Rowley": 3,
+    "Theobald-transl": 4,
+    "Chapman": 6,
+    "Fletcher+other": 14,
+    "Beaumont+Fletcher": 5,
+    "Brome": 3,
+    "Jonson": 5,
+    "Marston": 3,
+    "Massinger": 7,
+    "Field": 2,
+    "Webster": 2,
+    "Daborne": 1,
+    "Dekker": 1
+   },
+   "rate": {
+    "Shakespeare": 3.1403193870096557,
+    "Fletcher": 6.333637951158604,
+    "Fletcher+other": 2.766743740242288,
+    "Beaumont+Fletcher": 3.29231113657165,
+    "Beaumont": 0.0,
+    "Massinger": 3.274654640887338,
+    "Shirley": 5.184532318152529,
+    "Middleton": 2.0189240480773116,
+    "Ford": 3.5537234137067113,
+    "Webster": 2.838046856153595,
+    "Jonson": 4.336099764983392,
+    "Chapman": 3.462464004801283,
+    "Marston": 3.9746154559546363,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 3.9052838490477617,
+    "Field": 5.892751915144372,
+    "Brome": 4.021771188031209,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 2.8486086581425445,
+    "Shelton": 3.884324807240381,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 7.173601147776184,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "has the trick",
+     "as a cockle",
+     "in to her",
+     "her and set",
+     "she saw me",
+     "it a boy"
+    ],
+    "Heywood": [
+     "name or his",
+     "question of your",
+     "the wind's fair"
+    ],
+    "Shelton": [
+     "one and then",
+     "i knew to",
+     "those two and",
+     "of me concerning",
+     "and she answered",
+     "listned to the"
+    ],
+    "Middleton": [
+     "but my pitty",
+     "wept and s",
+     "and c is"
+    ],
+    "R18": [
+     "laid me down",
+     "maids that love",
+     "you quickly as",
+     "good by me",
+     "have him tell",
+     "but this very"
+    ],
+    "Shirley": [
+     "hand i made",
+     "yes where's your",
+     "you can yes",
+     "all these must",
+     "head to morrow",
+     "on sir pretty"
+    ],
+    "Shakespeare": [
+     "must loose my",
+     "him i'll warrant",
+     "you ask o",
+     "you'll hear of",
+     "behind her i",
+     "gone is gone"
+    ],
+    "Ford": [
+     "be your brother",
+     "as by an",
+     "good comfort man",
+     "what pitty it"
+    ],
+    "Rowley": [
+     "when i might",
+     "her so for",
+     "daughter why do"
+    ],
+    "Theobald-transl": [
+     "them with her",
+     "the sound the",
+     "that lies behind",
+     "lies behind the"
+    ],
+    "Chapman": [
+     "must even take",
+     "a voyce a",
+     "made in to",
+     "willow willow willow",
+     "taken and what",
+     "set her safe"
+    ],
+    "Fletcher+other": [
+     "there be new",
+     "a sister yes",
+     "hear of one",
+     "you news good",
+     "owgh owgh 'tis",
+     "be all for"
+    ],
+    "Beaumont+Fletcher": [
+     "i c n",
+     "this a fine",
+     "you and see",
+     "her marriage a",
+     "me alone come"
+    ],
+    "Brome": [
+     "a wise course",
+     "now with child",
+     "but i laugh"
+    ],
+    "Jonson": [
+     "why as it",
+     "o is he",
+     "child by him",
+     "sir when did",
+     "her but this"
+    ],
+    "Marston": [
+     "my ear when",
+     "young man the",
+     "now she shows"
+    ],
+    "Massinger": [
+     "heaven forbid man",
+     "do then i'll",
+     "and got your",
+     "or fear of",
+     "that truely noble",
+     "see her how"
+    ],
+    "Field": [
+     "well 'tis too",
+     "or woman i"
+    ],
+    "Webster": [
+     "and to second",
+     "yes he's a"
+    ],
+    "Daborne": [
+     "far from what"
+    ],
+    "Dekker": [
+     "have their lives"
+    ]
+   }
+  },
+  "collab_tnk|4.2": {
+   "n_words": 1326,
+   "links": {
+    "Shakespeare": 24,
+    "Shirley": 7,
+    "R18": 10,
+    "Ford": 3,
+    "Fletcher+other": 21,
+    "Marston": 5,
+    "Chapman": 7,
+    "Fletcher": 14,
+    "Beaumont+Fletcher": 3,
+    "Webster": 2,
+    "Massinger": 8,
+    "Middleton": 3,
+    "Tourneur": 1,
+    "Shelton": 3,
+    "Davenant": 3,
+    "Jonson": 2,
+    "Rowley": 3,
+    "Field": 1,
+    "Daborne": 1,
+    "Brome": 1
+   },
+   "rate": {
+    "Shakespeare": 3.9667192256964072,
+    "Fletcher": 4.222425300772403,
+    "Fletcher+other": 4.150115610363431,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 0.0,
+    "Massinger": 3.742462446728386,
+    "Shirley": 2.5922661590762646,
+    "Middleton": 2.0189240480773116,
+    "Ford": 2.6652925602800335,
+    "Webster": 2.838046856153595,
+    "Jonson": 1.734439905993357,
+    "Chapman": 4.039541338934831,
+    "Marston": 6.624359093257727,
+    "Dekker": 0.0,
+    "Heywood": 0.0,
+    "Rowley": 3.9052838490477617,
+    "Field": 2.946375957572186,
+    "Brome": 1.3405903960104029,
+    "Davenant": 5.194175597763042,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 2.0347204701018176,
+    "Shelton": 1.456621802715143,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shakespeare": [
+     "blood of princes",
+     "have seen them",
+     "livery of the",
+     "fainting under the",
+     "joy must be",
+     "be so tyrannous"
+    ],
+    "Shirley": [
+     "my chastity be",
+     "to undo with",
+     "man but of",
+     "if she ever",
+     "men shall never",
+     "must open and"
+    ],
+    "R18": [
+     "pure red and",
+     "the altar where",
+     "i loved i",
+     "and round and",
+     "women ought to",
+     "bright lamps of"
+    ],
+    "Ford": [
+     "of a tough",
+     "they not sweet",
+     "all her best"
+    ],
+    "Fletcher+other": [
+     "has fired me",
+     "arched like the",
+     "his lady his",
+     "truly what i",
+     "not a smile",
+     "come would i"
+    ],
+    "Marston": [
+     "thou art alone",
+     "soul i long",
+     "eye as heavy",
+     "a face far",
+     "waight of arms"
+    ],
+    "Chapman": [
+     "to seal his",
+     "of he that",
+     "woman and had",
+     "like a trumpet",
+     "me thinks of",
+     "and what young"
+    ],
+    "Fletcher": [
+     "had run mad",
+     "bring 'em in",
+     "may go look",
+     "sons of honour",
+     "fancy i am",
+     "thinks of him"
+    ],
+    "Beaumont+Fletcher": [
+     "and thirty in",
+     "what a meer",
+     "under world the"
+    ],
+    "Webster": [
+     "both together now",
+     "fear he cannot"
+    ],
+    "Massinger": [
+     "wise nature with",
+     "i might end",
+     "returned and with",
+     "so till they",
+     "wish it but",
+     "of but of"
+    ],
+    "Middleton": [
+     "he finds 'em",
+     "know not ask",
+     "yes sir there"
+    ],
+    "Tourneur": [
+     "short me thinks"
+    ],
+    "Shelton": [
+     "great and fine",
+     "a character of",
+     "his arm to"
+    ],
+    "Davenant": [
+     "so few and",
+     "were here a",
+     "of gold his"
+    ],
+    "Jonson": [
+     "his arms are",
+     "you news the"
+    ],
+    "Rowley": [
+     "some six and",
+     "on his thigh",
+     "sweet sister i"
+    ],
+    "Field": [
+     "if wise nature"
+    ],
+    "Daborne": [
+     "he fights for"
+    ],
+    "Brome": [
+     "set him by"
+    ]
+   }
+  },
+  "collab_tnk|4.3": {
+   "n_words": 860,
+   "links": {
+    "Rowley": 1,
+    "R18": 10,
+    "Fletcher+other": 7,
+    "Shelton": 7,
+    "Shakespeare": 16,
+    "Beaumont+Fletcher": 2,
+    "Ford": 1,
+    "Beaumont": 1,
+    "Tourneur": 1,
+    "Chapman": 3,
+    "Shirley": 9,
+    "Massinger": 2,
+    "Middleton": 3,
+    "Jonson": 2,
+    "Webster": 1,
+    "Anon": 1,
+    "Fletcher": 1,
+    "Theobald-transl": 1,
+    "Heywood": 1
+   },
+   "rate": {
+    "Shakespeare": 2.644479483797605,
+    "Fletcher": 0.30160180719802876,
+    "Fletcher+other": 1.383371870121144,
+    "Beaumont+Fletcher": 1.3169244546286603,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 0.9356156116820965,
+    "Shirley": 3.332913633098054,
+    "Middleton": 2.0189240480773116,
+    "Ford": 0.8884308534266778,
+    "Webster": 1.4190234280767975,
+    "Jonson": 1.734439905993357,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 2.0347204701018176,
+    "Shelton": 3.3987842063353337,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Rowley": [
+     "your tongue or"
+    ],
+    "R18": [
+     "to hear there",
+     "place they shall",
+     "this charm that",
+     "young sir her",
+     "this place they",
+     "must bring a"
+    ],
+    "Fletcher+other": [
+     "have been her",
+     "in with my",
+     "too as ever",
+     "love this will",
+     "assure you how",
+     "on this gentleman"
+    ],
+    "Shelton": [
+     "the success which",
+     "eat with her",
+     "into their former",
+     "both she and",
+     "that both she",
+     "in execution and"
+    ],
+    "Shakespeare": [
+     "can sing and",
+     "for this her",
+     "them repair to",
+     "which is with",
+     "house i will",
+     "to peeces with"
+    ],
+    "Beaumont+Fletcher": [
+     "give half my",
+     "come there and"
+    ],
+    "Ford": [
+     "her to eat"
+    ],
+    "Beaumont": [
+     "come to eat"
+    ],
+    "Tourneur": [
+     "mark me then"
+    ],
+    "Chapman": [
+     "by no worse",
+     "the next world",
+     "friend i did"
+    ],
+    "Shirley": [
+     "or drown themselves",
+     "another world and",
+     "sir in great",
+     "they may return",
+     "love as she",
+     "an addition of"
+    ],
+    "Massinger": [
+     "hope in this",
+     "and appear with"
+    ],
+    "Middleton": [
+     "have great hope",
+     "maids that have",
+     "in prison come"
+    ],
+    "Jonson": [
+     "mind which i",
+     "tip of your"
+    ],
+    "Webster": [
+     "and would account"
+    ],
+    "Anon": [
+     "look where comes"
+    ],
+    "Fletcher": [
+     "gentleman my friend"
+    ],
+    "Theobald-transl": [
+     "comes you shall"
+    ],
+    "Heywood": [
+     "a whole million"
+    ]
+   }
+  },
+  "collab_tnk|5.1": {
+   "n_words": 1383,
+   "links": {
+    "Fletcher": 8,
+    "Beaumont+Fletcher": 6,
+    "Fletcher+other": 18,
+    "Shakespeare": 19,
+    "Heywood": 2,
+    "R18": 8,
+    "Shirley": 2,
+    "Mestayer": 1,
+    "Ford": 3,
+    "Massinger": 9,
+    "Middleton": 3,
+    "Brome": 2,
+    "Rowley": 1,
+    "Shelton": 3,
+    "Webster": 3,
+    "Dekker": 1,
+    "Chapman": 2,
+    "Theobald": 1,
+    "Jonson": 2,
+    "Tourneur": 1
+   },
+   "rate": {
+    "Shakespeare": 3.1403193870096557,
+    "Fletcher": 2.41281445758423,
+    "Fletcher+other": 3.5572419517400844,
+    "Beaumont+Fletcher": 3.9507733638859808,
+    "Beaumont": 0.0,
+    "Massinger": 4.210270252569434,
+    "Shirley": 0.7406474740217899,
+    "Middleton": 2.0189240480773116,
+    "Ford": 2.6652925602800335,
+    "Webster": 4.257070284230393,
+    "Jonson": 1.734439905993357,
+    "Chapman": 1.1541546682670945,
+    "Marston": 0.0,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 0.0,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.6277763760814539,
+    "Shelton": 1.456621802715143,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 8.866820358219542
+   },
+   "examples": {
+    "Fletcher": [
+     "and cure him",
+     "my wishes the",
+     "a beauty but",
+     "the gods regard",
+     "have blushed at",
+     "betray a beauty"
+    ],
+    "Beaumont+Fletcher": [
+     "of people i",
+     "to those above",
+     "is heavier then",
+     "before the holy",
+     "those above us",
+     "people i do"
+    ],
+    "Fletcher+other": [
+     "and weep unto",
+     "eyes had almost",
+     "was and who",
+     "to blow that",
+     "of it grant",
+     "ye lay by"
+    ],
+    "Shakespeare": [
+     "that did i",
+     "to thy grace",
+     "be to day",
+     "this business let",
+     "we to be",
+     "not love that"
+    ],
+    "Heywood": [
+     "eyes were i",
+     "of two i"
+    ],
+    "R18": [
+     "there ought in",
+     "fight with justice",
+     "that canst make",
+     "before the god",
+     "then will make",
+     "till one of"
+    ],
+    "Shirley": [
+     "to put life",
+     "world and we"
+    ],
+    "Mestayer": [
+     "to throw her"
+    ],
+    "Ford": [
+     "be his subjects",
+     "had mothers i",
+     "i should choose"
+    ],
+    "Massinger": [
+     "one a woman",
+     "they are equal",
+     "queen of flowers",
+     "to the scorn",
+     "and the altars",
+     "with an ey"
+    ],
+    "Middleton": [
+     "i to loose",
+     "i believed it",
+     "to loose one"
+    ],
+    "Brome": [
+     "would not had",
+     "business let us"
+    ],
+    "Rowley": [
+     "did i have"
+    ],
+    "Shelton": [
+     "thine own will",
+     "for his success",
+     "also to go"
+    ],
+    "Webster": [
+     "then from this",
+     "like wanton boys",
+     "i a virgin"
+    ],
+    "Dekker": [
+     "the camp a"
+    ],
+    "Chapman": [
+     "you but thus",
+     "spirits with mine"
+    ],
+    "Theobald": [
+     "and curst the"
+    ],
+    "Jonson": [
+     "which still is",
+     "honour the very"
+    ],
+    "Tourneur": [
+     "must put my"
+    ]
+   }
+  },
+  "collab_tnk|5.2": {
+   "n_words": 998,
+   "links": {
+    "R18": 8,
+    "Shakespeare": 15,
+    "Shirley": 9,
+    "Chapman": 3,
+    "Mestayer": 1,
+    "Webster": 3,
+    "Fletcher": 17,
+    "Fletcher+other": 12,
+    "Middleton": 6,
+    "Beaumont+Fletcher": 3,
+    "Heywood": 5,
+    "Shelton": 5,
+    "Beaumont": 1,
+    "Rowley": 4,
+    "Daborne": 1,
+    "Tourneur": 1,
+    "Jonson": 2,
+    "Davenant": 1,
+    "Ford": 2,
+    "Field": 1,
+    "Theobald": 1,
+    "Massinger": 1,
+    "Brome": 1,
+    "Theobald-transl": 1
+   },
+   "rate": {
+    "Shakespeare": 2.4791995160602545,
+    "Fletcher": 5.127230722366488,
+    "Fletcher+other": 2.3714946344933896,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 3.332913633098054,
+    "Middleton": 4.037848096154623,
+    "Ford": 1.7768617068533556,
+    "Webster": 4.257070284230393,
+    "Jonson": 1.734439905993357,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 4.066197698532103,
+    "Rowley": 5.207045132063683,
+    "Field": 2.946375957572186,
+    "Brome": 1.3405903960104029,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 1.6277763760814539,
+    "Shelton": 2.427703004525238,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 8.866820358219542
+   },
+   "examples": {
+    "R18": [
+     "she knew what",
+     "that's fine indeed",
+     "came smiling to",
+     "stays for her",
+     "is she she's",
+     "but first by"
+    ],
+    "Shakespeare": [
+     "you'll loose the",
+     "sir how old",
+     "horse if i",
+     "i and twenty",
+     "bound to him",
+     "of honesty how"
+    ],
+    "Shirley": [
+     "hour to visit",
+     "straight i must",
+     "good upon her",
+     "get her in",
+     "her i told",
+     "honest sir how"
+    ],
+    "Chapman": [
+     "right again you",
+     "come your love",
+     "her appetite and"
+    ],
+    "Mestayer": [
+     "what hour my"
+    ],
+    "Webster": [
+     "we'll sleep together",
+     "i'th way of",
+     "and then weel"
+    ],
+    "Fletcher": [
+     "visit you i",
+     "ye make a",
+     "her presently and",
+     "him he turns",
+     "we'll go with",
+     "me that's all"
+    ],
+    "Fletcher+other": [
+     "vertus i think",
+     "come sweet we'll",
+     "and has done",
+     "think he might",
+     "what stuff she",
+     "all the parish"
+    ],
+    "Middleton": [
+     "your love comes",
+     "she comes pray",
+     "and twenty i",
+     "he's a kind",
+     "take me let",
+     "against the wedding"
+    ],
+    "Beaumont+Fletcher": [
+     "will and tell",
+     "fair one you",
+     "we do there"
+    ],
+    "Heywood": [
+     "yours to command",
+     "assure you we",
+     "marry us for",
+     "is there else",
+     "loose the fight"
+    ],
+    "Shelton": [
+     "true for there",
+     "doubt do you",
+     "that i spoke",
+     "and casts himself",
+     "very comely and"
+    ],
+    "Beaumont": [
+     "appetite and do"
+    ],
+    "Rowley": [
+     "flesh you have",
+     "morrow and that",
+     "shall keep our",
+     "we should give"
+    ],
+    "Daborne": [
+     "a charge there"
+    ],
+    "Tourneur": [
+     "play at tennis"
+    ],
+    "Jonson": [
+     "how far is't",
+     "leave you here"
+    ],
+    "Davenant": [
+     "am content if"
+    ],
+    "Ford": [
+     "if she intreat",
+     "her that way"
+    ],
+    "Field": [
+     "you here you'll"
+    ],
+    "Theobald": [
+     "then even when"
+    ],
+    "Massinger": [
+     "well she knew"
+    ],
+    "Brome": [
+     "it home it"
+    ],
+    "Theobald-transl": [
+     "have me sing"
+    ]
+   }
+  },
+  "collab_tnk|5.3": {
+   "n_words": 1205,
+   "links": {
+    "R18": 6,
+    "Davenant": 1,
+    "Marston": 5,
+    "Chapman": 5,
+    "Shakespeare": 27,
+    "Fletcher+other": 13,
+    "Heywood": 3,
+    "Middleton": 2,
+    "Ford": 2,
+    "Webster": 3,
+    "Beaumont+Fletcher": 4,
+    "Shirley": 3,
+    "Shelton": 6,
+    "Brome": 2,
+    "Massinger": 1,
+    "Jonson": 2,
+    "Beaumont": 1,
+    "Tourneur": 1,
+    "Rowley": 5,
+    "Dekker": 4,
+    "Theobald-transl": 1,
+    "Field": 1,
+    "Fletcher": 2,
+    "Theobald": 1
+   },
+   "rate": {
+    "Shakespeare": 4.462559128908459,
+    "Fletcher": 0.6032036143960575,
+    "Fletcher+other": 2.5691191873678387,
+    "Beaumont+Fletcher": 2.6338489092573205,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 1.3459493653848742,
+    "Ford": 1.7768617068533556,
+    "Webster": 4.257070284230393,
+    "Jonson": 1.734439905993357,
+    "Chapman": 2.885386670667736,
+    "Marston": 6.624359093257727,
+    "Dekker": 3.9114448877415318,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 6.508806415079603,
+    "Field": 2.946375957572186,
+    "Brome": 2.6811807920208057,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.2208322820610904,
+    "Shelton": 2.913243605430286,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "and by out",
+     "cuts away a",
+     "space between these",
+     "this burst of",
+     "those that remain",
+     "a tear the"
+    ],
+    "Davenant": [
+     "quallity of his"
+    ],
+    "Marston": [
+     "go in faith",
+     "were no woman",
+     "to shine i",
+     "servant thou hast",
+     "his brow is"
+    ],
+    "Chapman": [
+     "and act the",
+     "shine i am",
+     "this war you",
+     "his race should",
+     "no end in't"
+    ],
+    "Shakespeare": [
+     "it were they",
+     "to any lady",
+     "what's deerest to",
+     "said it must",
+     "do incite the",
+     "must be present"
+    ],
+    "Fletcher+other": [
+     "and yet may",
+     "now the sound",
+     "remain with you",
+     "which it will",
+     "a life more",
+     "justice since i"
+    ],
+    "Heywood": [
+     "knight he is",
+     "well well then",
+     "further will you"
+    ],
+    "Middleton": [
+     "you the only",
+     "know your husband"
+    ],
+    "Ford": [
+     "your sister will",
+     "deerest to me"
+    ],
+    "Webster": [
+     "do hurt for",
+     "chance if i",
+     "i'th night and"
+    ],
+    "Beaumont+Fletcher": [
+     "may win me",
+     "gods would have",
+     "run and tell",
+     "could wish their"
+    ],
+    "Shirley": [
+     "you loose this",
+     "becomes him nobly",
+     "all grace and"
+    ],
+    "Shelton": [
+     "for they would",
+     "attention to the",
+     "of time he",
+     "a knight as",
+     "have won for",
+     "or a sharp"
+    ],
+    "Brome": [
+     "might do hurt",
+     "spoyling of his"
+    ],
+    "Massinger": [
+     "act the story"
+    ],
+    "Jonson": [
+     "to hear not",
+     "the other then"
+    ],
+    "Beaumont": [
+     "this instant are"
+    ],
+    "Tourneur": [
+     "it could no"
+    ],
+    "Rowley": [
+     "the cry is",
+     "me the title",
+     "ear you must",
+     "to me save",
+     "both that neither"
+    ],
+    "Dekker": [
+     "a brave life",
+     "your prize i",
+     "give them our",
+     "by to give"
+    ],
+    "Theobald-transl": [
+     "seat and in"
+    ],
+    "Field": [
+     "knight as ere"
+    ],
+    "Fletcher": [
+     "rather see a",
+     "deeds of honour"
+    ],
+    "Theobald": [
+     "shall make and"
+    ]
+   }
+  },
+  "collab_tnk|5.4": {
+   "n_words": 1127,
+   "links": {
+    "R18": 9,
+    "Middleton": 1,
+    "Massinger": 3,
+    "Fletcher+other": 13,
+    "Shakespeare": 12,
+    "Beaumont+Fletcher": 5,
+    "Jonson": 2,
+    "Heywood": 3,
+    "Ford": 5,
+    "Fletcher": 9,
+    "Shirley": 2,
+    "Beaumont": 1,
+    "Rowley": 2,
+    "Brome": 2,
+    "Anon": 1,
+    "Chapman": 5,
+    "Shelton": 4,
+    "Theobald-transl": 1,
+    "Davenant": 1,
+    "Webster": 1
+   },
+   "rate": {
+    "Shakespeare": 1.9833596128482036,
+    "Fletcher": 2.7144162647822583,
+    "Fletcher+other": 2.5691191873678387,
+    "Beaumont+Fletcher": 3.29231113657165,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 0.7406474740217899,
+    "Middleton": 0.6729746826924371,
+    "Ford": 4.442154267133389,
+    "Webster": 1.4190234280767975,
+    "Jonson": 1.734439905993357,
+    "Chapman": 2.885386670667736,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 2.6035225660318413,
+    "Field": 0.0,
+    "Brome": 2.6811807920208057,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 1.8312484230916357,
+    "Shelton": 1.9421624036201905,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "on't 'tis the",
+     "is a cursed",
+     "us like the",
+     "the gods young",
+     "her i die",
+     "the surge that"
+    ],
+    "Middleton": [
+     "most glad on't"
+    ],
+    "Massinger": [
+     "did it well",
+     "close thine eyes",
+     "a man alive"
+    ],
+    "Fletcher+other": [
+     "as glad as",
+     "first saw her",
+     "misery of age",
+     "make of us",
+     "thy brave soul",
+     "and like him"
+    ],
+    "Shakespeare": [
+     "said is false",
+     "bid farewell and",
+     "ah have my",
+     "did lye in",
+     "to her lead",
+     "the stones of"
+    ],
+    "Beaumont+Fletcher": [
+     "some will say",
+     "hand and they",
+     "we have by",
+     "heard she was",
+     "are children in"
+    ],
+    "Jonson": [
+     "children in some",
+     "as glad of"
+    ],
+    "Heywood": [
+     "a vessel that",
+     "unto the funeral",
+     "our desire that"
+    ],
+    "Ford": [
+     "let us bid",
+     "think so a",
+     "man alive that",
+     "life be now",
+     "us bid farewell"
+    ],
+    "Fletcher": [
+     "one that yet",
+     "we have are",
+     "this place first",
+     "he appears o",
+     "souls be with",
+     "is and with"
+    ],
+    "Shirley": [
+     "could be of",
+     "how do things"
+    ],
+    "Beaumont": [
+     "led you to"
+    ],
+    "Rowley": [
+     "this end i",
+     "stage of death"
+    ],
+    "Brome": [
+     "our thanks that",
+     "right good man"
+    ],
+    "Anon": [
+     "i die i'll"
+    ],
+    "Chapman": [
+     "have my friend",
+     "in a life",
+     "and call your",
+     "venus i have",
+     "rather then any"
+    ],
+    "Shelton": [
+     "his lord that",
+     "of our desire",
+     "with this note",
+     "to hang his"
+    ],
+    "Theobald-transl": [
+     "all is it"
+    ],
+    "Davenant": [
+     "justice take from"
+    ],
+    "Webster": [
+     "kind of ill"
+    ]
+   }
+  },
+  "df_double_falsehood|1.1": {
+   "n_words": 372,
+   "links": {
+    "R18": 3,
+    "Davenant": 2,
+    "Middleton": 1,
+    "Massinger": 3,
+    "Heywood": 3,
+    "Theobald-transl": 1,
+    "Shakespeare": 4,
+    "Webster": 1,
+    "Fletcher": 1,
+    "Jonson": 1,
+    "Fletcher+other": 1,
+    "Dekker": 1,
+    "Rowley": 1,
+    "Shirley": 1
+   },
+   "rate": {
+    "Shakespeare": 0.6611198709494013,
+    "Fletcher": 0.30160180719802876,
+    "Fletcher+other": 0.19762455287444913,
+    "Beaumont+Fletcher": 0.0,
+    "Beaumont": 0.0,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 0.37032373701089494,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.0,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.0,
+    "Marston": 0.0,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 0.6104161410305452,
+    "Shelton": 0.0,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "praise which is",
+     "my early youth",
+     "thy brow but"
+    ],
+    "Davenant": [
+     "hath of late",
+     "flatter thee my"
+    ],
+    "Middleton": [
+     "like him well"
+    ],
+    "Massinger": [
+     "the scale of",
+     "to mould him",
+     "to my favour"
+    ],
+    "Heywood": [
+     "from us receive",
+     "lovingly commends him",
+     "long and would"
+    ],
+    "Theobald-transl": [
+     "but i by"
+    ],
+    "Shakespeare": [
+     "man who with",
+     "i would detain",
+     "vantage of his",
+     "receive the secret"
+    ],
+    "Webster": [
+     "why my son"
+    ],
+    "Fletcher": [
+     "my grave one"
+    ],
+    "Jonson": [
+     "his name at"
+    ],
+    "Fletcher+other": [
+     "his letters of"
+    ],
+    "Dekker": [
+     "o do it"
+    ],
+    "Rowley": [
+     "who with my"
+    ],
+    "Shirley": [
+     "he says shall"
+    ]
+   }
+  },
+  "df_double_falsehood|1.2": {
+   "n_words": 1868,
+   "links": {
+    "Ford": 7,
+    "Dekker": 4,
+    "Shakespeare": 32,
+    "Massinger": 12,
+    "Jonson": 6,
+    "Fletcher": 10,
+    "Shelton": 9,
+    "Fletcher+other": 19,
+    "R18": 18,
+    "Heywood": 5,
+    "Shirley": 13,
+    "Middleton": 5,
+    "Chapman": 9,
+    "Rowley": 3,
+    "Daborne": 1,
+    "Brome": 3,
+    "Beaumont+Fletcher": 12,
+    "Tourneur": 2,
+    "Theobald-transl": 2,
+    "Theobald": 1,
+    "Davenant": 1,
+    "Beaumont": 2,
+    "Webster": 1
+   },
+   "rate": {
+    "Shakespeare": 5.28895896759521,
+    "Fletcher": 3.0160180719802874,
+    "Fletcher+other": 3.754866504614533,
+    "Beaumont+Fletcher": 7.9015467277719615,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 5.613693670092579,
+    "Shirley": 4.814208581141634,
+    "Middleton": 3.3648734134621856,
+    "Ford": 6.219015973986745,
+    "Webster": 1.4190234280767975,
+    "Jonson": 5.203319717980071,
+    "Chapman": 5.193696007201925,
+    "Marston": 0.0,
+    "Dekker": 3.9114448877415318,
+    "Heywood": 4.066197698532103,
+    "Rowley": 3.9052838490477617,
+    "Field": 0.0,
+    "Brome": 4.021771188031209,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 5.387931034482759,
+    "Anon": 0.0,
+    "R18": 3.6624968461832714,
+    "Shelton": 4.369865408145429,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 3.586800573888092,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Ford": [
+     "to move my",
+     "me ever your",
+     "with us which",
+     "request it is",
+     "mistress or a",
+     "or a duke"
+    ],
+    "Dekker": [
+     "of maids to",
+     "must send him",
+     "woo me and",
+     "your father let"
+    ],
+    "Shakespeare": [
+     "move my father",
+     "so proceed accordingly",
+     "of me who",
+     "with these ill",
+     "i was this",
+     "in the maid"
+    ],
+    "Massinger": [
+     "you are courted",
+     "great fortunes have",
+     "would but dare",
+     "in the suit",
+     "rich in her",
+     "frown if you"
+    ],
+    "Jonson": [
+     "court which is",
+     "you set such",
+     "their words their",
+     "as thy beauties",
+     "a face would",
+     "to the rack"
+    ],
+    "Fletcher": [
+     "our loves be",
+     "and repair to",
+     "must bethink me",
+     "i must bethink",
+     "cutting off the",
+     "a little folly"
+    ],
+    "Shelton": [
+     "there a good",
+     "the taylor that",
+     "could in this",
+     "say is that",
+     "not therefore to",
+     "his desire i"
+    ],
+    "Fletcher+other": [
+     "serve a mistress",
+     "whom you profess",
+     "e'er it can",
+     "of what cannot",
+     "goes along with",
+     "for this hour"
+    ],
+    "R18": [
+     "without which you",
+     "is chained to",
+     "in her charms",
+     "him the court",
+     "have not moved",
+     "to pursue and"
+    ],
+    "Heywood": [
+     "but when go",
+     "see how her",
+     "here's a deal",
+     "come not up",
+     "you for she"
+    ],
+    "Shirley": [
+     "one as will",
+     "to my closet",
+     "prompt you to",
+     "must not though",
+     "me duke i",
+     "to court which"
+    ],
+    "Middleton": [
+     "you true if",
+     "tear for thy",
+     "what his father",
+     "may say you",
+     "mother i should"
+    ],
+    "Chapman": [
+     "with any violence",
+     "the place o",
+     "view of his",
+     "a case he",
+     "your fancy then",
+     "with a firm"
+    ],
+    "Rowley": [
+     "not move him",
+     "my instructions shall",
+     "says your father"
+    ],
+    "Daborne": [
+     "return and in"
+    ],
+    "Brome": [
+     "she is content",
+     "him speak much",
+     "meaning of what"
+    ],
+    "Beaumont+Fletcher": [
+     "dear a rate",
+     "there are you",
+     "all that waits",
+     "at too dear",
+     "i cry for",
+     "are in him"
+    ],
+    "Tourneur": [
+     "my int'rest in",
+     "must put my"
+    ],
+    "Theobald-transl": [
+     "a request to",
+     "palace of the"
+    ],
+    "Theobald": [
+     "a spirit comes"
+    ],
+    "Davenant": [
+     "and catch her"
+    ],
+    "Beaumont": [
+     "never to get",
+     "what but for"
+    ],
+    "Webster": [
+     "from thy breast"
+    ]
+   }
+  },
+  "df_double_falsehood|1.3": {
+   "n_words": 633,
+   "links": {
+    "Shelton": 1,
+    "Marston": 1,
+    "Chapman": 4,
+    "Fletcher": 6,
+    "R18": 10,
+    "Shirley": 5,
+    "Fletcher+other": 7,
+    "Shakespeare": 8,
+    "Massinger": 3,
+    "Ford": 2,
+    "Theobald": 1,
+    "Davenant": 1,
+    "Jonson": 1,
+    "Brome": 1,
+    "Webster": 1
+   },
+   "rate": {
+    "Shakespeare": 1.3222397418988026,
+    "Fletcher": 1.8096108431881723,
+    "Fletcher+other": 1.383371870121144,
+    "Beaumont+Fletcher": 0.0,
+    "Beaumont": 0.0,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 1.8516186850544745,
+    "Middleton": 0.0,
+    "Ford": 1.7768617068533556,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 2.308309336534189,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.0,
+    "Heywood": 0.0,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 1.3405903960104029,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.0347204701018176,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shelton": [
+     "one who for"
+    ],
+    "Marston": [
+     "with strong imagination"
+    ],
+    "Chapman": [
+     "i must stoop",
+     "are made but",
+     "rather then keep",
+     "affections in my"
+    ],
+    "Fletcher": [
+     "maid for whom",
+     "which i smell",
+     "hour what are",
+     "she drives me",
+     "to plant your",
+     "to grow there"
+    ],
+    "R18": [
+     "you one who",
+     "her eyes which",
+     "like you have",
+     "sudden from her",
+     "you to descend",
+     "vain i have"
+    ],
+    "Shirley": [
+     "but i wrong",
+     "this late hour",
+     "late hour what",
+     "too near this",
+     "at this late"
+    ],
+    "Fletcher+other": [
+     "wonder when i",
+     "lord let 'em",
+     "good my heart",
+     "friend to your",
+     "come too near",
+     "laughed at by"
+    ],
+    "Shakespeare": [
+     "fortune on me",
+     "out of service",
+     "be as fair",
+     "well to do",
+     "by the merit",
+     "to hold so"
+    ],
+    "Massinger": [
+     "with a religious",
+     "faithful to the",
+     "strike up my"
+    ],
+    "Ford": [
+     "who for your",
+     "second son to"
+    ],
+    "Theobald": [
+     "lustre of her"
+    ],
+    "Davenant": [
+     "your memory too"
+    ],
+    "Jonson": [
+     "say is most"
+    ],
+    "Brome": [
+     "but touch the"
+    ],
+    "Webster": [
+     "are you one"
+    ]
+   }
+  },
+  "df_double_falsehood|2.1": {
+   "n_words": 477,
+   "links": {
+    "R18": 14,
+    "Beaumont+Fletcher": 4,
+    "Fletcher+other": 7,
+    "Webster": 1,
+    "Shirley": 3,
+    "Shakespeare": 8,
+    "Tourneur": 3,
+    "Jonson": 1,
+    "Middleton": 2,
+    "Ford": 2,
+    "Fletcher": 3,
+    "Davenant": 1,
+    "Chapman": 1,
+    "Massinger": 3,
+    "Heywood": 1
+   },
+   "rate": {
+    "Shakespeare": 1.3222397418988026,
+    "Fletcher": 0.9048054215940862,
+    "Fletcher+other": 1.383371870121144,
+    "Beaumont+Fletcher": 2.6338489092573205,
+    "Beaumont": 0.0,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 1.1109712110326846,
+    "Middleton": 1.3459493653848742,
+    "Ford": 1.7768617068533556,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.5770773341335472,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 0.8132395397064206,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 14.777597162701344,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.8486086581425445,
+    "Shelton": 0.0,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "the stores of",
+     "the tears the",
+     "have is it",
+     "have like me",
+     "stores of beauty",
+     "severe to my"
+    ],
+    "Beaumont+Fletcher": [
+     "self but not",
+     "mad and may",
+     "but the coyness",
+     "coyness of a"
+    ],
+    "Fletcher+other": [
+     "did not consent",
+     "the guilt to",
+     "have no choice",
+     "with sorrow that",
+     "the clamours of",
+     "clamours of the"
+    ],
+    "Webster": [
+     "as much that"
+    ],
+    "Shirley": [
+     "my conscience something",
+     "could boast my",
+     "i could boast"
+    ],
+    "Shakespeare": [
+     "to this oh",
+     "will as it",
+     "now for want",
+     "the blood or",
+     "yet i remember",
+     "lo you now"
+    ],
+    "Tourneur": [
+     "place and opportunity",
+     "world to boot",
+     "done but now"
+    ],
+    "Jonson": [
+     "see by the"
+    ],
+    "Middleton": [
+     "soft soft you",
+     "i remember too"
+    ],
+    "Ford": [
+     "own and the",
+     "they who have"
+    ],
+    "Fletcher": [
+     "must wink at",
+     "true she did",
+     "have enjoyed her"
+    ],
+    "Davenant": [
+     "queen of my"
+    ],
+    "Chapman": [
+     "of marriage not"
+    ],
+    "Massinger": [
+     "be severe to",
+     "the door upon",
+     "already by my"
+    ],
+    "Heywood": [
+     "in silence all"
+    ]
+   }
+  },
+  "df_double_falsehood|2.2": {
+   "n_words": 355,
+   "links": {
+    "Shakespeare": 3,
+    "R18": 7,
+    "Fletcher+other": 3,
+    "Shirley": 1,
+    "Fletcher": 3,
+    "Middleton": 1,
+    "Heywood": 2,
+    "Beaumont+Fletcher": 1,
+    "Tourneur": 1,
+    "Massinger": 3,
+    "Shelton": 1,
+    "Anon": 1,
+    "Beaumont": 1
+   },
+   "rate": {
+    "Shakespeare": 0.4958399032120509,
+    "Fletcher": 0.9048054215940862,
+    "Fletcher+other": 0.5928736586233474,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 0.37032373701089494,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.0,
+    "Webster": 0.0,
+    "Jonson": 0.0,
+    "Chapman": 0.0,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 1.6264790794128412,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 8.758868354208637,
+    "R18": 1.4243043290712722,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Shakespeare": [
+     "will commend to",
+     "not a maid",
+     "not not so"
+    ],
+    "R18": [
+     "his business now",
+     "no more believe",
+     "hearts like mine",
+     "he brings a",
+     "was not willing",
+     "answer for the"
+    ],
+    "Fletcher+other": [
+     "not so lady",
+     "my dishonour and",
+     "that's not worth"
+    ],
+    "Shirley": [
+     "way i go"
+    ],
+    "Fletcher": [
+     "me some two",
+     "have to wait",
+     "do but that's"
+    ],
+    "Middleton": [
+     "all my due"
+    ],
+    "Heywood": [
+     "wound my fame",
+     "am now become"
+    ],
+    "Beaumont+Fletcher": [
+     "no longer shame"
+    ],
+    "Tourneur": [
+     "o my presaging"
+    ],
+    "Massinger": [
+     "worth my thought",
+     "whither i pray",
+     "my thought i"
+    ],
+    "Shelton": [
+     "wounded with a"
+    ],
+    "Anon": [
+     "to wait your"
+    ],
+    "Beaumont": [
+     "you how my"
+    ]
+   }
+  },
+  "df_double_falsehood|2.3": {
+   "n_words": 1785,
+   "links": {
+    "R18": 55,
+    "Theobald-transl": 2,
+    "Fletcher": 10,
+    "Heywood": 5,
+    "Shakespeare": 28,
+    "Shirley": 14,
+    "Fletcher+other": 26,
+    "Beaumont+Fletcher": 6,
+    "Field": 2,
+    "Shelton": 11,
+    "Dekker": 3,
+    "Massinger": 11,
+    "Ford": 5,
+    "Theobald": 2,
+    "Davenant": 2,
+    "Brome": 2,
+    "Beaumont": 2,
+    "Jonson": 4,
+    "Webster": 1,
+    "Chapman": 4,
+    "Rowley": 3,
+    "Middleton": 3,
+    "Marston": 1
+   },
+   "rate": {
+    "Shakespeare": 4.6278390966458085,
+    "Fletcher": 3.0160180719802874,
+    "Fletcher+other": 5.1382383747356775,
+    "Beaumont+Fletcher": 3.9507733638859808,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 5.1458858642515315,
+    "Shirley": 5.184532318152529,
+    "Middleton": 2.0189240480773116,
+    "Ford": 4.442154267133389,
+    "Webster": 1.4190234280767975,
+    "Jonson": 3.468879811986714,
+    "Chapman": 2.308309336534189,
+    "Marston": 1.3248718186515454,
+    "Dekker": 2.933583665806149,
+    "Heywood": 4.066197698532103,
+    "Rowley": 3.9052838490477617,
+    "Field": 5.892751915144372,
+    "Brome": 2.6811807920208057,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 11.190962585559996,
+    "Shelton": 5.340946609955524,
+    "Theobald": 6.285750204286881,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 3.586800573888092,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "R18": [
+     "is the envy",
+     "all the tender",
+     "secret of his",
+     "thus alone i",
+     "the voice the",
+     "my dead father's"
+    ],
+    "Theobald-transl": [
+     "and good breeding",
+     "o give not"
+    ],
+    "Fletcher": [
+     "it and who",
+     "and am come",
+     "not but a",
+     "am much in",
+     "o had he",
+     "great deal too"
+    ],
+    "Heywood": [
+     "to that bargain",
+     "it seems were",
+     "a husband you",
+     "my worthy neighbour",
+     "a thousand tongues"
+    ],
+    "Shakespeare": [
+     "a master but",
+     "begins to sicken",
+     "this for this",
+     "on tuesday last",
+     "these in her",
+     "robs thee of"
+    ],
+    "Shirley": [
+     "are so nimble",
+     "'tis time enough",
+     "to the injured",
+     "her it seems",
+     "and qualities of",
+     "you suspect your"
+    ],
+    "Fletcher+other": [
+     "shall believe your",
+     "she were living",
+     "were not but",
+     "fellow that does",
+     "to drive this",
+     "was just such"
+    ],
+    "Beaumont+Fletcher": [
+     "the censuring world",
+     "have yes now",
+     "this light go",
+     "were living now",
+     "not to esteem",
+     "night indeed to"
+    ],
+    "Field": [
+     "i'll get a",
+     "desperately in love"
+    ],
+    "Shelton": [
+     "after a man",
+     "married to one",
+     "in the hollowness",
+     "with fire no",
+     "nor the other",
+     "her father would"
+    ],
+    "Dekker": [
+     "our master the",
+     "heart his love",
+     "you have yes"
+    ],
+    "Massinger": [
+     "long since given",
+     "commands or to",
+     "soul you are",
+     "a disease in",
+     "in her it",
+     "had lent him"
+    ],
+    "Ford": [
+     "nature by the",
+     "company to day",
+     "or half the",
+     "love and married",
+     "in her who"
+    ],
+    "Theobald": [
+     "aid me to",
+     "to learn this"
+    ],
+    "Davenant": [
+     "now have brought",
+     "resolve to live"
+    ],
+    "Brome": [
+     "you you thought",
+     "more company to"
+    ],
+    "Beaumont": [
+     "of my crime",
+     "will hear nothing"
+    ],
+    "Jonson": [
+     "i profess it",
+     "a pox nay",
+     "but one son",
+     "poor neighbour of"
+    ],
+    "Webster": [
+     "not my seeking"
+    ],
+    "Chapman": [
+     "good breeding to",
+     "live without a",
+     "take a man",
+     "give not the"
+    ],
+    "Rowley": [
+     "either be a",
+     "mad by this",
+     "the day i'm"
+    ],
+    "Middleton": [
+     "so long ago",
+     "a bad conscience",
+     "to undo you"
+    ],
+    "Marston": [
+     "my affections move"
+    ]
+   }
+  },
+  "df_double_falsehood|2.4": {
+   "n_words": 312,
+   "links": {
+    "Fletcher+other": 7,
+    "Fletcher": 8,
+    "Beaumont+Fletcher": 2,
+    "Shakespeare": 8,
+    "Davenant": 1,
+    "R18": 8,
+    "Massinger": 3,
+    "Shirley": 4,
+    "Webster": 1,
+    "Marston": 1,
+    "Shelton": 1,
+    "Chapman": 2
+   },
+   "rate": {
+    "Shakespeare": 1.3222397418988026,
+    "Fletcher": 2.41281445758423,
+    "Fletcher+other": 1.383371870121144,
+    "Beaumont+Fletcher": 1.3169244546286603,
+    "Beaumont": 0.0,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 1.4812949480435798,
+    "Middleton": 0.0,
+    "Ford": 0.0,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.0,
+    "Chapman": 1.1541546682670945,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.0,
+    "Heywood": 0.0,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.6277763760814539,
+    "Shelton": 0.48554060090504764,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher+other": [
+     "to you heaven",
+     "it not lady",
+     "not lady you",
+     "what your fortune",
+     "should want the",
+     "bold to offer"
+    ],
+    "Fletcher": [
+     "hand then mine",
+     "gentle sir that",
+     "waited at the",
+     "sir yes very",
+     "him and believe",
+     "should i trust"
+    ],
+    "Beaumont+Fletcher": [
+     "to offer this",
+     "my trust for"
+    ],
+    "Shakespeare": [
+     "pains i know",
+     "seen him though",
+     "moved me so",
+     "have moved me",
+     "an angel spake",
+     "bleeding in me"
+    ],
+    "Davenant": [
+     "i had leisure"
+    ],
+    "R18": [
+     "to bring relief",
+     "is no doubt",
+     "though a thousand",
+     "fancy we are",
+     "that though a",
+     "me sir ay"
+    ],
+    "Massinger": [
+     "not what your",
+     "seemed to promise",
+     "whom i think"
+    ],
+    "Shirley": [
+     "all to serve",
+     "and honour since",
+     "not to repent",
+     "you with many"
+    ],
+    "Webster": [
+     "bear an honest"
+    ],
+    "Marston": [
+     "me gentle sir"
+    ],
+    "Shelton": [
+     "a thousand dangers"
+    ],
+    "Chapman": [
+     "work me some",
+     "to bear an"
+    ]
+   }
+  },
+  "df_double_falsehood|3.1": {
+   "n_words": 338,
+   "links": {
+    "Beaumont": 1,
+    "Ford": 1,
+    "Fletcher": 4,
+    "Shakespeare": 4,
+    "Fletcher+other": 5,
+    "Shelton": 2,
+    "R18": 6,
+    "Shirley": 1,
+    "Massinger": 4,
+    "Beaumont+Fletcher": 2,
+    "Theobald": 1,
+    "Jonson": 1,
+    "Middleton": 1
+   },
+   "rate": {
+    "Shakespeare": 0.6611198709494013,
+    "Fletcher": 1.206407228792115,
+    "Fletcher+other": 0.9881227643722457,
+    "Beaumont+Fletcher": 1.3169244546286603,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 1.871231223364193,
+    "Shirley": 0.37032373701089494,
+    "Middleton": 0.6729746826924371,
+    "Ford": 0.8884308534266778,
+    "Webster": 0.0,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.0,
+    "Marston": 0.0,
+    "Dekker": 0.0,
+    "Heywood": 0.0,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 1.2208322820610904,
+    "Shelton": 0.9710812018100953,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Beaumont": [
+     "heavens have heard"
+    ],
+    "Ford": [
+     "testimony of her"
+    ],
+    "Fletcher": [
+     "any where it",
+     "to appear like",
+     "i may perswade",
+     "stand but this"
+    ],
+    "Shakespeare": [
+     "may bear me",
+     "heard and i",
+     "my best spirits",
+     "to hear all"
+    ],
+    "Fletcher+other": [
+     "am too patient",
+     "i am counseled",
+     "like this in",
+     "i am might",
+     "that's honest though"
+    ],
+    "Shelton": [
+     "this affair shall",
+     "down in his"
+    ],
+    "R18": [
+     "in human nature",
+     "the window she",
+     "us make haste",
+     "word for ever",
+     "my memory with",
+     "and to appear"
+    ],
+    "Shirley": [
+     "but this for"
+    ],
+    "Massinger": [
+     "could not put",
+     "shall be devoted",
+     "be devoted to",
+     "me fill my"
+    ],
+    "Beaumont+Fletcher": [
+     "much for us",
+     "julio as i"
+    ],
+    "Theobald": [
+     "to repay thy"
+    ],
+    "Jonson": [
+     "more put me"
+    ],
+    "Middleton": [
+     "it stood not"
+    ]
+   }
+  },
+  "df_double_falsehood|3.2": {
+   "n_words": 1392,
+   "links": {
+    "Dekker": 3,
+    "Shirley": 9,
+    "Beaumont+Fletcher": 3,
+    "Massinger": 7,
+    "Heywood": 4,
+    "Jonson": 2,
+    "Shakespeare": 31,
+    "Mestayer": 2,
+    "Middleton": 2,
+    "R18": 22,
+    "Fletcher": 8,
+    "Webster": 3,
+    "Rowley": 2,
+    "Ford": 4,
+    "Chapman": 3,
+    "Anon": 3,
+    "Davenant": 1,
+    "Theobald-transl": 1,
+    "Brome": 2,
+    "Fletcher+other": 11,
+    "Shelton": 2,
+    "Theobald": 1,
+    "Field": 2,
+    "Tourneur": 1
+   },
+   "rate": {
+    "Shakespeare": 5.12367899985786,
+    "Fletcher": 2.41281445758423,
+    "Fletcher+other": 2.1738700816189405,
+    "Beaumont+Fletcher": 1.9753866819429904,
+    "Beaumont": 0.0,
+    "Massinger": 3.274654640887338,
+    "Shirley": 3.332913633098054,
+    "Middleton": 1.3459493653848742,
+    "Ford": 3.5537234137067113,
+    "Webster": 4.257070284230393,
+    "Jonson": 1.734439905993357,
+    "Chapman": 1.7312320024006416,
+    "Marston": 0.0,
+    "Dekker": 2.933583665806149,
+    "Heywood": 3.2529581588256824,
+    "Rowley": 2.6035225660318413,
+    "Field": 5.892751915144372,
+    "Brome": 2.6811807920208057,
+    "Davenant": 1.731391865921014,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 26.276605062625908,
+    "R18": 4.476385034223998,
+    "Shelton": 0.9710812018100953,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 17.733640716439083
+   },
+   "examples": {
+    "Dekker": [
+     "there's no escape",
+     "in their stead",
+     "no escape for"
+    ],
+    "Shirley": [
+     "lord the circumstance",
+     "my letter may",
+     "of me nay",
+     "to thy knowledge",
+     "my arms i'll",
+     "passages of the"
+    ],
+    "Beaumont+Fletcher": [
+     "hear you were",
+     "bears a sword",
+     "look on why"
+    ],
+    "Massinger": [
+     "the dearest tyes",
+     "by the dearest",
+     "knowing you are",
+     "with my curses",
+     "be obedient and",
+     "them both but"
+    ],
+    "Heywood": [
+     "an ear for",
+     "left behind that",
+     "from this house",
+     "wear i not"
+    ],
+    "Jonson": [
+     "back i think",
+     "give her air"
+    ],
+    "Shakespeare": [
+     "is a bold",
+     "come go we",
+     "my last good",
+     "i then be",
+     "fills up the",
+     "thy fair mind"
+    ],
+    "Mestayer": [
+     "kill the traitor",
+     "is all on"
+    ],
+    "Middleton": [
+     "should stop the",
+     "which may with"
+    ],
+    "R18": [
+     "could not look",
+     "i can't bear",
+     "apt to change",
+     "can give he",
+     "the panting heart",
+     "by that paper"
+    ],
+    "Fletcher": [
+     "take heed and",
+     "what paper's that",
+     "see it it",
+     "question you have",
+     "i weep it",
+     "place where my"
+    ],
+    "Webster": [
+     "business and your",
+     "throw to the",
+     "of this forced"
+    ],
+    "Rowley": [
+     "shall know them",
+     "house of woe"
+    ],
+    "Ford": [
+     "my body not",
+     "fall a bleeding",
+     "respects of birth",
+     "as strong in"
+    ],
+    "Chapman": [
+     "me dear well",
+     "in women are",
+     "cost me dear"
+    ],
+    "Anon": [
+     "to wait your",
+     "defiance if you",
+     "days are gone"
+    ],
+    "Davenant": [
+     "if your courage"
+    ],
+    "Theobald-transl": [
+     "the portal and"
+    ],
+    "Brome": [
+     "weep it must",
+     "obey a father"
+    ],
+    "Fletcher+other": [
+     "for it patience",
+     "if i suffer",
+     "my blessing stay",
+     "you may mark",
+     "up and he",
+     "as he he"
+    ],
+    "Shelton": [
+     "stands still and",
+     "it shall first"
+    ],
+    "Theobald": [
+     "both but i'm"
+    ],
+    "Field": [
+     "that letter i",
+     "i'll kill the"
+    ],
+    "Tourneur": [
+     "when i weep"
+    ]
+   }
+  },
+  "df_double_falsehood|3.3": {
+   "n_words": 1323,
+   "links": {
+    "Fletcher": 15,
+    "Fletcher+other": 23,
+    "Shakespeare": 26,
+    "Shirley": 9,
+    "Shelton": 2,
+    "Field": 2,
+    "R18": 14,
+    "Davenant": 3,
+    "Marston": 3,
+    "Massinger": 9,
+    "Theobald": 2,
+    "Jonson": 2,
+    "Beaumont+Fletcher": 8,
+    "Chapman": 5,
+    "Webster": 1,
+    "Tourneur": 2,
+    "Middleton": 3,
+    "Rowley": 2,
+    "Ford": 1,
+    "Dekker": 2,
+    "Beaumont": 2,
+    "Brome": 1
+   },
+   "rate": {
+    "Shakespeare": 4.297279161171108,
+    "Fletcher": 4.524027107970431,
+    "Fletcher+other": 4.54536471611233,
+    "Beaumont+Fletcher": 5.267697818514641,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 4.210270252569434,
+    "Shirley": 3.332913633098054,
+    "Middleton": 2.0189240480773116,
+    "Ford": 0.8884308534266778,
+    "Webster": 1.4190234280767975,
+    "Jonson": 1.734439905993357,
+    "Chapman": 2.885386670667736,
+    "Marston": 3.9746154559546363,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 0.0,
+    "Rowley": 2.6035225660318413,
+    "Field": 5.892751915144372,
+    "Brome": 1.3405903960104029,
+    "Davenant": 5.194175597763042,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.8486086581425445,
+    "Shelton": 0.9710812018100953,
+    "Theobald": 6.285750204286881,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 0.0,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "for i deserve",
+     "should forget your",
+     "the bell knoll",
+     "yet that man",
+     "me and wound",
+     "have i travelled"
+    ],
+    "Fletcher+other": [
+     "ends take heed",
+     "e'er he had",
+     "like an aged",
+     "at and my",
+     "my conscience had",
+     "hand let not"
+    ],
+    "Shakespeare": [
+     "far from doing",
+     "faith none but",
+     "my state was",
+     "heaven make thee",
+     "into thy hand",
+     "part and each"
+    ],
+    "Shirley": [
+     "in pieces with",
+     "at distance thus",
+     "you loved my",
+     "your love may",
+     "your brother had",
+     "still be honest"
+    ],
+    "Shelton": [
+     "thee from that",
+     "but yesterday and"
+    ],
+    "Field": [
+     "heart now you",
+     "possession even of"
+    ],
+    "R18": [
+     "not hear the",
+     "he means me",
+     "my son too",
+     "they snatched me",
+     "my foot shall",
+     "was too rash"
+    ],
+    "Davenant": [
+     "it draw thy",
+     "me with strong",
+     "load i have"
+    ],
+    "Marston": [
+     "of sin that",
+     "lost a son",
+     "i credit thee"
+    ],
+    "Massinger": [
+     "i'm so far",
+     "my daughter she's",
+     "so near in",
+     "as a strange",
+     "being guilty of",
+     "thy hand let"
+    ],
+    "Theobald": [
+     "confess my wrongs",
+     "it one that"
+    ],
+    "Jonson": [
+     "heal these wounds",
+     "i'll step aside"
+    ],
+    "Beaumont+Fletcher": [
+     "but since his",
+     "every step i",
+     "was good i",
+     "been abused too",
+     "to start at",
+     "for your greatness"
+    ],
+    "Chapman": [
+     "though every step",
+     "honest face and",
+     "be well yet",
+     "i am knave",
+     "foot shall be"
+    ],
+    "Webster": [
+     "hither have i"
+    ],
+    "Tourneur": [
+     "your greatness you",
+     "had need for"
+    ],
+    "Middleton": [
+     "a cryer to",
+     "aside and hear",
+     "you passing well"
+    ],
+    "Rowley": [
+     "gone and bid",
+     "heart has this"
+    ],
+    "Ford": [
+     "whom our own"
+    ],
+    "Dekker": [
+     "with wild horses",
+     "comfort him he"
+    ],
+    "Beaumont": [
+     "shalt know my",
+     "pale as death"
+    ],
+    "Brome": [
+     "has a fair"
+    ]
+   }
+  },
+  "df_double_falsehood|4.1": {
+   "n_words": 2082,
+   "links": {
+    "R18": 35,
+    "Massinger": 9,
+    "Chapman": 11,
+    "Shakespeare": 25,
+    "Fletcher": 32,
+    "Shelton": 9,
+    "Fletcher+other": 28,
+    "Ford": 1,
+    "Davenant": 2,
+    "Beaumont+Fletcher": 12,
+    "Middleton": 4,
+    "Shirley": 10,
+    "Brome": 3,
+    "Heywood": 3,
+    "Dekker": 2,
+    "Marston": 4,
+    "Jonson": 5,
+    "Theobald-transl": 1,
+    "Theobald": 1,
+    "Mestayer": 1,
+    "Tourneur": 1,
+    "Rowley": 1,
+    "Beaumont": 1
+   },
+   "rate": {
+    "Shakespeare": 4.131999193433757,
+    "Fletcher": 9.65125783033692,
+    "Fletcher+other": 5.533487480484576,
+    "Beaumont+Fletcher": 7.9015467277719615,
+    "Beaumont": 2.2991148407862974,
+    "Massinger": 4.210270252569434,
+    "Shirley": 3.703237370108949,
+    "Middleton": 2.6918987307697484,
+    "Ford": 0.8884308534266778,
+    "Webster": 0.0,
+    "Jonson": 4.336099764983392,
+    "Chapman": 6.347850675469019,
+    "Marston": 5.299487274606181,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 2.4397186191192617,
+    "Rowley": 1.3017612830159206,
+    "Field": 0.0,
+    "Brome": 4.021771188031209,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 7.121521645356361,
+    "Shelton": 4.369865408145429,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 8.866820358219542
+   },
+   "examples": {
+    "R18": [
+     "love i read",
+     "these have not",
+     "out the game",
+     "i'll serve him",
+     "the cause this",
+     "he but puts"
+    ],
+    "Massinger": [
+     "think you 'tis",
+     "man was i",
+     "patience this is",
+     "i were five",
+     "saint in heaven",
+     "but quench these"
+    ],
+    "Chapman": [
+     "all these have",
+     "he stood and",
+     "it tells me",
+     "he seems much",
+     "it seems are",
+     "upon her if"
+    ],
+    "Shakespeare": [
+     "that the rude",
+     "or a soul",
+     "heart and you",
+     "child to make",
+     "us well and",
+     "in with us"
+    ],
+    "Fletcher": [
+     "sometimes i do",
+     "him so to",
+     "not all his",
+     "the game of",
+     "you weep too",
+     "to my sheep"
+    ],
+    "Shelton": [
+     "beat him so",
+     "heaven to lend",
+     "where the night",
+     "fear if the",
+     "in punishment of",
+     "a mother i"
+    ],
+    "Fletcher+other": [
+     "be a terror",
+     "to our plot",
+     "love the means",
+     "from us though",
+     "all the gifts",
+     "rude and sawcy"
+    ],
+    "Ford": [
+     "have robed you"
+    ],
+    "Davenant": [
+     "by safe and",
+     "of love sit"
+    ],
+    "Beaumont+Fletcher": [
+     "are the baits",
+     "my edge off",
+     "as sweet a",
+     "fear me i'll",
+     "the nearest well",
+     "not fare you"
+    ],
+    "Middleton": [
+     "hear sir what",
+     "course will be",
+     "can take my",
+     "my letter told"
+    ],
+    "Shirley": [
+     "or other be",
+     "knowledge have you",
+     "profit by it",
+     "you cannot chuse",
+     "breath of praise",
+     "'tis so he"
+    ],
+    "Brome": [
+     "below sir what",
+     "his madness and",
+     "a fine hand"
+    ],
+    "Heywood": [
+     "ho have i",
+     "way oh my",
+     "you so cunning"
+    ],
+    "Dekker": [
+     "strong heart and",
+     "you or a"
+    ],
+    "Marston": [
+     "make haste sir",
+     "a soul that's",
+     "her back from",
+     "nose that i"
+    ],
+    "Jonson": [
+     "in troth not",
+     "that thy boy",
+     "if that would",
+     "thus my brother",
+     "is upon him"
+    ],
+    "Theobald-transl": [
+     "pace with your"
+    ],
+    "Theobald": [
+     "pity my lost"
+    ],
+    "Mestayer": [
+     "indeed i've seen"
+    ],
+    "Tourneur": [
+     "a body as"
+    ],
+    "Rowley": [
+     "then why dost"
+    ],
+    "Beaumont": [
+     "this hour why"
+    ]
+   }
+  },
+  "df_double_falsehood|4.2": {
+   "n_words": 943,
+   "links": {
+    "Fletcher+other": 22,
+    "Shirley": 6,
+    "Fletcher": 13,
+    "Jonson": 3,
+    "Beaumont": 4,
+    "Beaumont+Fletcher": 4,
+    "Shakespeare": 13,
+    "R18": 11,
+    "Theobald-transl": 2,
+    "Field": 1,
+    "Heywood": 4,
+    "Chapman": 5,
+    "Marston": 1,
+    "Mestayer": 1,
+    "Theobald": 1,
+    "Massinger": 3,
+    "Ford": 1,
+    "Shelton": 3,
+    "Dekker": 1,
+    "Rowley": 1
+   },
+   "rate": {
+    "Shakespeare": 2.148639580585554,
+    "Fletcher": 3.9208234935743733,
+    "Fletcher+other": 4.347740163237881,
+    "Beaumont+Fletcher": 2.6338489092573205,
+    "Beaumont": 9.19645936314519,
+    "Massinger": 1.4034234175231448,
+    "Shirley": 2.221942422065369,
+    "Middleton": 0.0,
+    "Ford": 0.8884308534266778,
+    "Webster": 0.0,
+    "Jonson": 2.6016598589900357,
+    "Chapman": 2.885386670667736,
+    "Marston": 1.3248718186515454,
+    "Dekker": 0.9778612219353829,
+    "Heywood": 3.2529581588256824,
+    "Rowley": 1.3017612830159206,
+    "Field": 2.946375957572186,
+    "Brome": 0.0,
+    "Davenant": 0.0,
+    "Tourneur": 0.0,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.238192517111999,
+    "Shelton": 1.456621802715143,
+    "Theobald": 3.1428751021434405,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 3.586800573888092,
+    "Mestayer": 8.866820358219542
+   },
+   "examples": {
+    "Fletcher+other": [
+     "stand off stand",
+     "hearing i will",
+     "her heart will",
+     "and all they",
+     "these wild and",
+     "his vows have"
+    ],
+    "Shirley": [
+     "and solitary places",
+     "we met the",
+     "wonder what new",
+     "left thee now",
+     "to out bid",
+     "leave thee if"
+    ],
+    "Fletcher": [
+     "you weep now",
+     "know yet the",
+     "that shall live",
+     "now to look",
+     "will break else",
+     "have i run"
+    ],
+    "Jonson": [
+     "brought hither to",
+     "cannot get this",
+     "do that have"
+    ],
+    "Beaumont": [
+     "say nothing what",
+     "had become of",
+     "what had become",
+     "had not relieved"
+    ],
+    "Beaumont+Fletcher": [
+     "or there is",
+     "soul but yet",
+     "make me any",
+     "him this sad"
+    ],
+    "Shakespeare": [
+     "so if the",
+     "a pleasing shape",
+     "the sense and",
+     "me hearing i",
+     "heaven say amen",
+     "good friends but"
+    ],
+    "R18": [
+     "you never loved",
+     "thro all my",
+     "of your voice",
+     "equal share in",
+     "cave of death",
+     "tell the false"
+    ],
+    "Theobald-transl": [
+     "tell you something",
+     "have the sense"
+    ],
+    "Field": [
+     "for that can"
+    ],
+    "Heywood": [
+     "man had not",
+     "to change you",
+     "we will none",
+     "nothing yes sir"
+    ],
+    "Chapman": [
+     "what wind blows",
+     "if they may",
+     "but soft let's",
+     "look for that",
+     "and cheer my"
+    ],
+    "Marston": [
+     "good man had"
+    ],
+    "Mestayer": [
+     "undisturbed we may"
+    ],
+    "Theobald": [
+     "at sea what"
+    ],
+    "Massinger": [
+     "me all good",
+     "both or any",
+     "nothing left thee"
+    ],
+    "Ford": [
+     "to an oath"
+    ],
+    "Shelton": [
+     "heard the like",
+     "much more grateful",
+     "never to leave"
+    ],
+    "Dekker": [
+     "as women do"
+    ],
+    "Rowley": [
+     "friends but pray"
+    ]
+   }
+  },
+  "df_double_falsehood|5.1": {
+   "n_words": 675,
+   "links": {
+    "R18": 12,
+    "Beaumont+Fletcher": 1,
+    "Brome": 1,
+    "Fletcher": 9,
+    "Tourneur": 1,
+    "Theobald-transl": 1,
+    "Fletcher+other": 7,
+    "Shakespeare": 6,
+    "Shirley": 4,
+    "Marston": 2,
+    "Chapman": 1,
+    "Shelton": 2,
+    "Mestayer": 1,
+    "Dekker": 2,
+    "Webster": 1,
+    "Middleton": 3,
+    "Ford": 1,
+    "Massinger": 1,
+    "Jonson": 1
+   },
+   "rate": {
+    "Shakespeare": 0.9916798064241018,
+    "Fletcher": 2.7144162647822583,
+    "Fletcher+other": 1.383371870121144,
+    "Beaumont+Fletcher": 0.6584622273143301,
+    "Beaumont": 0.0,
+    "Massinger": 0.46780780584104825,
+    "Shirley": 1.4812949480435798,
+    "Middleton": 2.0189240480773116,
+    "Ford": 0.8884308534266778,
+    "Webster": 1.4190234280767975,
+    "Jonson": 0.8672199529966785,
+    "Chapman": 0.5770773341335472,
+    "Marston": 2.6497436373030907,
+    "Dekker": 1.9557224438707659,
+    "Heywood": 0.0,
+    "Rowley": 0.0,
+    "Field": 0.0,
+    "Brome": 1.3405903960104029,
+    "Davenant": 0.0,
+    "Tourneur": 4.925865720900449,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 2.441664564122181,
+    "Shelton": 0.9710812018100953,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 1.793400286944046,
+    "Mestayer": 8.866820358219542
+   },
+   "examples": {
+    "R18": [
+     "as we pass",
+     "obey him he",
+     "the depths of",
+     "be repaid with",
+     "appeal to the",
+     "maid you have"
+    ],
+    "Beaumont+Fletcher": [
+     "i help thee"
+    ],
+    "Brome": [
+     "it be he"
+    ],
+    "Fletcher": [
+     "what ails this",
+     "shall come near",
+     "is a fearful",
+     "but seem so",
+     "these to be",
+     "but guide me"
+    ],
+    "Tourneur": [
+     "i called to"
+    ],
+    "Theobald-transl": [
+     "of contemplation to"
+    ],
+    "Fletcher+other": [
+     "what your eyes",
+     "this way lady",
+     "in your story",
+     "seem so sir",
+     "am happy come",
+     "sir and am"
+    ],
+    "Shakespeare": [
+     "from hence where",
+     "of falshood if",
+     "when i called",
+     "own will shall",
+     "and affection to",
+     "due observance of"
+    ],
+    "Shirley": [
+     "a brother such",
+     "brother such an",
+     "perfect in your",
+     "i'll discover i"
+    ],
+    "Marston": [
+     "my tender youth",
+     "your ear a"
+    ],
+    "Chapman": [
+     "good duke and"
+    ],
+    "Shelton": [
+     "that once again",
+     "see him served"
+    ],
+    "Mestayer": [
+     "rise rise my"
+    ],
+    "Dekker": [
+     "drink that wine",
+     "me how did"
+    ],
+    "Webster": [
+     "would wish your"
+    ],
+    "Middleton": [
+     "true no more",
+     "brother i'll see",
+     "is done which"
+    ],
+    "Ford": [
+     "your griefs shall"
+    ],
+    "Massinger": [
+     "me that hitherto"
+    ],
+    "Jonson": [
+     "make your answer"
+    ]
+   }
+  },
+  "df_double_falsehood|5.2": {
+   "n_words": 2311,
+   "links": {
+    "Fletcher": 34,
+    "Beaumont+Fletcher": 15,
+    "Shakespeare": 24,
+    "Theobald-transl": 4,
+    "Brome": 5,
+    "Massinger": 9,
+    "Marston": 3,
+    "Rowley": 5,
+    "Fletcher+other": 31,
+    "Webster": 2,
+    "Shirley": 16,
+    "Beaumont": 2,
+    "Heywood": 7,
+    "Middleton": 5,
+    "R18": 36,
+    "Chapman": 4,
+    "Shelton": 7,
+    "Jonson": 6,
+    "Dekker": 3,
+    "Ford": 6,
+    "Tourneur": 2,
+    "Davenant": 2
+   },
+   "rate": {
+    "Shakespeare": 3.9667192256964072,
+    "Fletcher": 10.254461444732977,
+    "Fletcher+other": 6.126361139107923,
+    "Beaumont+Fletcher": 9.876933409714951,
+    "Beaumont": 4.598229681572595,
+    "Massinger": 4.210270252569434,
+    "Shirley": 5.925179792174319,
+    "Middleton": 3.3648734134621856,
+    "Ford": 5.330585120560067,
+    "Webster": 2.838046856153595,
+    "Jonson": 5.203319717980071,
+    "Chapman": 2.308309336534189,
+    "Marston": 3.9746154559546363,
+    "Dekker": 2.933583665806149,
+    "Heywood": 5.692676777944944,
+    "Rowley": 6.508806415079603,
+    "Field": 0.0,
+    "Brome": 6.702951980052014,
+    "Davenant": 3.462783731842028,
+    "Tourneur": 9.851731441800897,
+    "Daborne": 0.0,
+    "Anon": 0.0,
+    "R18": 7.324993692366543,
+    "Shelton": 3.3987842063353337,
+    "Theobald": 0.0,
+    "Theobald-verse": 0.0,
+    "Theobald-transl": 7.173601147776184,
+    "Mestayer": 0.0
+   },
+   "examples": {
+    "Fletcher": [
+     "see my hawks",
+     "which i held",
+     "but have the",
+     "been a wench",
+     "if an honest",
+     "you do express"
+    ],
+    "Beaumont+Fletcher": [
+     "and worse you",
+     "here by all",
+     "are a boy",
+     "your page and",
+     "me so sir",
+     "you father by"
+    ],
+    "Shakespeare": [
+     "more by jove",
+     "fool to put",
+     "now sir whose",
+     "above our power",
+     "father by your",
+     "him service he"
+    ],
+    "Theobald-transl": [
+     "had her so",
+     "on the golden",
+     "our court and",
+     "news do you"
+    ],
+    "Brome": [
+     "he falls back",
+     "men women and",
+     "upon me fye",
+     "the boy if",
+     "a providence above"
+    ],
+    "Massinger": [
+     "dye with it",
+     "hand to work",
+     "could not i",
+     "something i have",
+     "thus on your",
+     "their eyes or"
+    ],
+    "Marston": [
+     "to bury this",
+     "of joy now",
+     "wrong go to"
+    ],
+    "Rowley": [
+     "like a gunner",
+     "under me and",
+     "have their swing",
+     "boy here comes",
+     "got it you"
+    ],
+    "Fletcher+other": [
+     "the time at",
+     "they be worth",
+     "hands with my",
+     "art a right",
+     "heart that ne'er",
+     "i shake hands"
+    ],
+    "Webster": [
+     "i shall it",
+     "yes 'tis your"
+    ],
+    "Shirley": [
+     "i bring will",
+     "to the injured",
+     "wishes i desire",
+     "cunning in this",
+     "be plain is",
+     "how now so"
+    ],
+    "Beaumont": [
+     "do your hearts",
+     "boy but i"
+    ],
+    "Heywood": [
+     "be with thy",
+     "fellow for thy",
+     "be nothing to",
+     "that ne'er shall",
+     "thee fellow for",
+     "now so please"
+    ],
+    "Middleton": [
+     "i'll stop that",
+     "maids that have",
+     "no more brother",
+     "father got it",
+     "your hearts what"
+    ],
+    "R18": [
+     "not for common",
+     "do i once",
+     "sorrows why dost",
+     "once more my",
+     "our vows and",
+     "my girl thou"
+    ],
+    "Chapman": [
+     "boy if he",
+     "some other fool",
+     "me come what",
+     "pardon o my"
+    ],
+    "Shelton": [
+     "it we might",
+     "without doubt that",
+     "and dangers which",
+     "read it here",
+     "ask him forgiveness",
+     "go seek your"
+    ],
+    "Jonson": [
+     "your good father",
+     "if you provoke",
+     "him credit with",
+     "within he has",
+     "and house the",
+     "you a kiss"
+    ],
+    "Dekker": [
+     "i held a",
+     "make me rich",
+     "here my gracious"
+    ],
+    "Ford": [
+     "believe thee he",
+     "had my daughter",
+     "guide my hand",
+     "on this good",
+     "joy or grief",
+     "a farewell to"
+    ],
+    "Tourneur": [
+     "be as noble",
+     "children they are"
+    ],
+    "Davenant": [
+     "an agent in",
+     "then signior you"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,38 @@
+title: Margaret
+author: Clement Clarke Moore
+date: 1851
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 118-119; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooremargaret.htm
+form: iambic tetrameter quatrains (abab)
+lines: 24
+attribution: certain
+notes: No MS heading transcribed; site dates it 1851 (notebook order). Gallant warning about the 'electric' sprite in fair Margaret's eye (Icarus, Prometheus). Light. Site line count 24 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+While at fair Margaret's placid brows
+And laughing eyes, intent, I gaz'd,
+And thought of all the sighs and vows
+By many a hapless votary rais'd,
+
+Within each orb I saw what seem'd
+A changeful mischief-loving sprite
+That, now, with gentle radiance learn'd,
+Now, darted keen electric light.
+
+May some adventurous noble youth,
+Whose soul would scorn at aught to cower,
+Whose heart's the home of love and truth,
+Encounter this electric power.
+
+But ye who feel no sacred fire
+Of pure love mantling thro' your veins,
+Dare not to this fair maid aspire,
+Nor hope to wind her in your chains.
+
+And ye who flit from belle to belle,
+All heedless of the course you run,
+Remember how rash Icarus fell,
+For venturing up too near the sun.
+
+Think of Prometheus' cruel fate,
+Who dared to seize the fire on high.
+Beware, beware, ere yet too late,
+To tempt the sprite in Margaret's eye.

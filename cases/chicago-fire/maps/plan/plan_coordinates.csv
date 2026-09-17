@@ -1,0 +1,53 @@
+feature,x_ft_east_of_Jefferson_E_line,y_ft_north_of_DeKoven_N_line,lat,lon,source,resolution
+Academy parcel SW corner,18.3,0.0,41.869079,-87.642104,"Cook County parcel polygon (PIN 17-16-324-029), 2021 GIS",survey-grade GIS parcel (few ft)
+Academy parcel SE corner,338.3,0.0,41.869095,-87.640926,"Cook County parcel polygon (PIN 17-16-324-029), 2021 GIS",survey-grade GIS parcel (few ft)
+Academy parcel NW corner,17.2,194.0,41.869611,-87.642121,"Cook County parcel polygon (PIN 17-16-324-029), 2021 GIS",survey-grade GIS parcel (few ft)
+Academy parcel NE corner,337.0,194.0,41.869627,-87.640943,"Cook County parcel polygon (PIN 17-16-324-029), 2021 GIS",survey-grade GIS parcel (few ft)
+Block 38 SW corner (Jefferson E line x DeKoven N line) = plan origin,0,0,41.869078,-87.642172,derived: parcel SW corner - 18.3 ft (lot-line vertex offsets),estimate +-2 ft
+Block 38 SE corner (Clinton W line x DeKoven N line),358.4,0,41.869096,-87.640852,1833 plat width 358 ft; G-sub 83.4+E1/2 lot13 25+5x50,+-2 ft
+Block 38 NW corner (Jefferson E line x Taylor S line),0,215.8,41.869669,-87.642186,S half 100.75 (G-sub 5x20.15) + alley 15 + N half ~100 (1875 survey of adjoining blocks 99.55-100.83),+-2 ft
+Block 38 NE corner,358.4,215.8,41.869687,-87.640866,as above,+-2 ft
+Alley south line at O'Leary lot (x=133.4..158.4),145.9,100.8,41.869361,-87.641641,G-sub depth 100.75; parcel vertex 15-ft alley segment,+-1 ft
+Alley north line,145.9,115.8,41.869402,-87.641642,15-ft alley (Musham plan; parcel vertex),+-1 ft
+Block 38 lot 14 (G-sub 1874: 5 lots 20.15 x 83.4 facing Jefferson) west line on DeKoven,0,0,41.869078,-87.642172,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+Block 38 lot 13 west line on DeKoven,58.4,0,41.869081,-87.641957,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+Block 38 lot 12 west line on DeKoven,108.4,0,41.869083,-87.641772,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+Block 38 lot 11 west line on DeKoven,158.4,0,41.869086,-87.641588,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+Block 38 lot 10 west line on DeKoven,208.4,0,41.869088,-87.641404,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+Block 38 lot 9 west line on DeKoven,258.4,0,41.869091,-87.64122,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+Block 38 lot 8 west line on DeKoven,308.4,0,41.869093,-87.641036,Greeley-Carlson 1891 pl.28 (4.03 px/ft) + parcel vertices,+-1.5 ft
+"O'Leary lot (137) = E 1/2 lot 12, SW corner (street line)",133.4,0,41.869084,-87.64168,Musham 1940 plan (saloon-face calibrated) + 1891 numbering + Bales lot refs,+-1.5 ft
+O'Leary lot SE corner (street line),158.4,0,41.869086,-87.641588,,
+O'Leary lot NE corner (alley),158.4,100.8,41.869362,-87.641595,,
+O'Leary lot NW corner (alley),133.4,100.8,41.869361,-87.641687,,
+"O'Leary barn SW corner (20 ft E-W x 16 ft N-S at alley, W side of lot)",133.4,84.8,41.869317,-87.641686,"Musham plan: barn 16x20 on alley, passage on E side; Andreas: S line 8 ft N of Dalton rear",+-3 ft
+O'Leary barn SE corner,153.4,84.8,41.869318,-87.641612,,
+O'Leary barn NE corner,153.4,100.8,41.869362,-87.641613,,
+O'Leary barn NW corner,133.4,100.8,41.869361,-87.641687,,
+"O'Leary cottages (double, 16 wide x 36 N-S) SW corner",137.0,2.0,41.86909,-87.641667,"Andreas 36 ft N-S front nearly on street line; Musham plan 16 ft wide, ~3 ft in from W line",+-3 ft
+O'Leary cottages NE corner,153.0,38.0,41.869189,-87.641611,,
+Dalton house (135) SW corner on O'Leary E line,158.4,38.0,41.86919,-87.641591,"Andreas: on W line of lot, front 2 ft S of O'Leary N line, 40 ft deep, 4 ft above ground on posts",+-3 ft
+Dalton house NE corner (width ~20 ft estimated from Musham plan),178.4,78.0,41.8693,-87.64152,,width is estimate
+"Dalton shed 12x20 at alley, W side of lot",158.4,88.8,41.869329,-87.641594,Andreas 12x20 shed at rear on W side; Musham plan,+-3 ft
+Dalton 8-ft fence from house to shed on lot W line,158.4,78.0,41.869299,-87.641594,Andreas,
+133 (Lee/Canavan/Forbes) = E 1/2 lot 11 west line,183.4,0,41.869087,-87.641496,,
+"Block 38 south part, NW corner (Jefferson E line x DeKoven S line)",0,-60.0,41.868913,-87.642168,"DeKoven 60 ft (1891 plate, Musham, Sanborn 1906)",+-2 ft
+"Block 38 (S of DeKoven) orig. lots 15-17 = H-sub 1883 lots 3-6 (100 ft deep, face Jefferson) west line on DeKoven S line",0,-60.0,41.868913,-87.642168,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) private alley 8.5 west line on DeKoven S line,100,-60.0,41.868918,-87.641799,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) H lot 2 (No.140) west line on DeKoven S line,108.5,-60.0,41.868919,-87.641768,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) H lot 1 (No.138) west line on DeKoven S line,133.5,-60.0,41.86892,-87.641676,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) lot 18 W (No.136) west line on DeKoven S line,158.5,-60.0,41.868921,-87.641584,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+"Block 38 (S of DeKoven) lot 18 E (No.134, Catherine Sullivan) west line on DeKoven S line",183.5,-60.0,41.868922,-87.641492,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) lot 19 W (No.132) west line on DeKoven S line,208.5,-60.0,41.868924,-87.6414,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+"Block 38 (S of DeKoven) lot 19 E (No.130, William White) west line on DeKoven S line",233.5,-60.0,41.868925,-87.641308,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) lot 20 W (No.128) west line on DeKoven S line,258.5,-60.0,41.868926,-87.641216,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) lot 20 E (No.126) west line on DeKoven S line,283.5,-60.0,41.868927,-87.641124,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) lot 21 W (No.124) west line on DeKoven S line,308.5,-60.0,41.868929,-87.641031,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+Block 38 (S of DeKoven) lot 21 E (No.122) west line on DeKoven S line,333.5,-60.0,41.86893,-87.640939,1891 pl.28 H-sub dims + 1891/1906 house numbers at 25-ft granularity + Bales (White E1/2 lot 19) + Andreas affidavit (137 = E1/2 lot 12),+-2 ft
+South side lots north half depth (H lots 1-2: 100.6 ft),0,-160.6,41.868637,-87.642161,1891 pl.28 H-sub,
+CFD Fire Academy front wing SW corner,65.6,13.6,41.869118,-87.641931,Chicago Building Footprints (data.cityofchicago.org syp8-uezg) via parcels/chicago_footprints_block.geojson,"GIS footprint, +-3 ft"
+CFD Fire Academy front wing SE corner,217.7,14.1,41.869127,-87.641371,Chicago Building Footprints (data.cityofchicago.org syp8-uezg) via parcels/chicago_footprints_block.geojson,"GIS footprint, +-3 ft"
+CFD Fire Academy front wing NE corner,217.5,80.6,41.86931,-87.641376,Chicago Building Footprints (data.cityofchicago.org syp8-uezg) via parcels/chicago_footprints_block.geojson,"GIS footprint, +-3 ft"
+CFD Fire Academy front wing rear wall at x=127,127.2,80.5,41.869305,-87.641709,Chicago Building Footprints (data.cityofchicago.org syp8-uezg) via parcels/chicago_footprints_block.geojson,"GIS footprint, +-3 ft"
+CFD Fire Academy west wing NW corner,32.3,188.6,41.869596,-87.642065,Chicago Building Footprints (data.cityofchicago.org syp8-uezg) via parcels/chicago_footprints_block.geojson,"GIS footprint, +-3 ft"
+CFD Fire Academy rear wing NE corner,117.4,181.8,41.869582,-87.641751,Chicago Building Footprints (data.cityofchicago.org syp8-uezg) via parcels/chicago_footprints_block.geojson,"GIS footprint, +-3 ft"

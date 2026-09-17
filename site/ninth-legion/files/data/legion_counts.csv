@@ -1,0 +1,484 @@
+legion,database,province,count,dated_count,pre70,b70_107,b108_140,later141,undated,notes
+IX Hispana,EDCS,Britannia,123,5,0,4,1,0,118,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Roma,5,5,2,0,2,1,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Venetia et Histria / Regio X,5,4,4,0,0,0,1,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Latium et Campania / Regio I,4,4,1,1,1,1,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Galatia,3,1,0,0,1,0,2,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Provincia incerta,3,0,0,0,0,0,3,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Liguria / Regio IX,2,2,1,0,0,1,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Gallia Narbonensis,2,0,0,0,0,0,2,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Germania inferior,2,1,0,0,0,1,1,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Numidia,2,2,0,0,0,2,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Samnium / Regio IV,1,1,0,0,1,0,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Belgica,1,0,0,0,0,0,1,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Africa proconsularis,1,0,0,0,0,0,1,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Macedonia,1,1,1,0,0,0,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Syria,1,1,0,1,0,0,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Arabia,1,0,0,0,0,0,1,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Etruria / Regio VII,1,1,1,0,0,0,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Hispania citerior,1,0,0,0,0,0,1,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Umbria / Regio VI,1,1,0,0,0,1,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,Moesia inferior,1,1,0,0,1,0,0,regex q=(VIIII|IX) ?/? ?Hisp (mode=r); total hits 161; ids not in index 0
+IX Hispana,EDCS,ALL,161,30,10,6,7,7,131,regex q=(VIIII|IX) ?/? ?Hisp; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+XXII Deiotariana,EDCS,Aegyptus,5,2,0,2,0,0,3,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,Bruttium et Lucania / Regio III,1,1,0,1,0,0,0,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,Britannia,1,1,0,0,1,0,0,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,Palaestina,1,1,0,0,1,0,0,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,Latium et Campania / Regio I,1,1,0,0,1,0,0,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,Roma,1,1,0,1,0,0,0,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,Sicilia,1,1,0,1,0,0,0,regex q=XXII ?/? ?Deiot (mode=r); total hits 11; ids not in index 0
+XXII Deiotariana,EDCS,ALL,11,8,0,5,3,0,3,regex q=XXII ?/? ?Deiot; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+X Fretensis,EDCS,Palaestina,77,21,1,4,8,8,56,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Roma,12,12,3,1,2,6,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Syria,11,4,3,1,0,0,7,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Africa proconsularis,6,1,1,0,0,0,5,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Provincia incerta,5,0,0,0,0,0,5,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Venetia et Histria / Regio X,4,3,0,0,1,2,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Latium et Campania / Regio I,4,4,1,1,1,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Asia,3,2,1,1,0,0,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Samnium / Regio IV,3,2,1,0,0,1,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Lugudunensis,3,0,0,0,0,0,3,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Numidia,2,1,0,0,0,1,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Macedonia,2,2,1,0,0,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Picenum / Regio V,2,2,0,1,0,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Etruria / Regio VII,2,2,0,1,1,0,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Umbria / Regio VI,2,2,0,0,0,2,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Dacia,2,2,0,0,1,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Achaia,2,1,0,0,1,0,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Moesia inferior,2,2,0,0,1,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Dalmatia,2,2,1,0,0,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Pannonia inferior,2,2,0,0,0,2,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Hispania citerior,1,1,0,0,0,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Britannia,1,1,0,0,1,0,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Moesia superior,1,1,0,0,1,0,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Aegyptus,1,1,0,1,0,0,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Lusitania,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Galatia,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Pannonia superior,1,1,0,0,0,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Cilicia,1,1,0,0,1,0,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Sardinia,1,1,0,0,1,0,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,Arabia,1,1,0,0,0,1,0,regex q=(^|[^IVX])X ?/? ?Fret (mode=r); total hits 158; ids not in index 0
+X Fretensis,EDCS,ALL,158,75,13,11,20,31,83,regex q=(^|[^IVX])X ?/? ?Fret; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+VI Ferrata,EDCS,Palaestina,16,8,0,0,3,5,8,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Syria,9,6,1,4,1,0,3,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Galatia,9,2,0,0,0,2,7,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Roma,7,7,0,1,0,6,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Transpadana / Regio XI,6,6,0,5,1,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Numidia,6,1,0,0,0,1,5,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Latium et Campania / Regio I,6,2,0,0,2,0,4,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Arabia,5,1,0,0,1,0,4,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Africa proconsularis,4,0,0,0,0,0,4,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Venetia et Histria / Regio X,3,3,0,0,1,2,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Asia,3,3,1,1,0,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Hispania citerior,3,0,0,0,0,0,3,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Samnium / Regio IV,2,2,1,1,0,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Apulia et Calabria / Regio II,2,2,2,0,0,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Noricum,2,2,0,2,0,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Etruria / Regio VII,2,2,0,0,1,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Umbria / Regio VI,2,2,0,0,1,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Sicilia,1,1,0,0,1,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Dacia,1,1,0,1,0,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Cilicia,1,1,0,1,0,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Picenum / Regio V,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Macedonia,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Pannonia superior,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Dalmatia,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Pannonia inferior,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Moesia superior,1,1,1,0,0,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Creta et Cyrenaica,1,0,0,0,0,0,1,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Barbaricum,1,1,0,0,1,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Aegyptus,1,0,0,0,0,0,1,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,Germania superior,1,1,0,0,1,0,0,regex q=(^|[^IVX])VI ?/? ?Ferr (mode=r); total hits 100; ids not in index 0
+VI Ferrata,EDCS,ALL,100,60,6,16,14,24,40,regex q=(^|[^IVX])VI ?/? ?Ferr; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+III Cyrenaica,EDCS,Arabia,76,6,0,0,0,6,70,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Aegyptus,17,5,2,2,0,1,12,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Roma,12,11,1,2,0,8,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Syria,11,7,0,1,0,6,4,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Latium et Campania / Regio I,9,6,1,2,3,0,3,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Africa proconsularis,6,1,0,0,0,1,5,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Samnium / Regio IV,5,4,0,0,1,3,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Asia,4,3,1,1,1,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Hispania citerior,4,1,0,0,0,1,3,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Apulia et Calabria / Regio II,3,3,1,1,0,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Numidia,3,1,0,0,0,1,2,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Lycia et Pamphylia,2,0,0,0,0,0,2,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Lugudunensis,2,1,0,0,0,1,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Palaestina,2,2,0,0,1,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Etruria / Regio VII,2,2,0,1,1,0,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Umbria / Regio VI,2,2,0,0,0,2,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Macedonia,2,1,0,1,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Dalmatia,2,2,0,1,0,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Moesia superior,1,0,0,0,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Transpadana / Regio XI,1,0,0,0,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Gallia Narbonensis,1,0,0,0,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Aemilia / Regio VIII,1,1,1,0,0,0,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Belgica / Germania inferior,1,1,0,0,0,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Germania inferior,1,1,0,0,0,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Dacia,1,1,0,0,0,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Galatia,1,1,1,0,0,0,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Creta et Cyrenaica,1,0,0,0,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Mauretania Caesariensis,1,0,0,0,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Moesia inferior,1,1,0,0,1,0,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Britannia,1,0,0,0,0,0,1,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,Provincia incerta,1,1,0,0,0,1,0,regex q=(^|[^IVX])III ?/? ?Cyren (mode=r); total hits 177; ids not in index 0
+III Cyrenaica,EDCS,ALL,177,65,8,12,8,37,112,regex q=(^|[^IVX])III ?/? ?Cyren; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+II Traiana,EDCS,Aegyptus,46,24,0,0,4,20,22,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Palaestina,6,4,0,0,4,0,2,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Roma,5,5,0,0,0,5,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Latium et Campania / Regio I,4,4,0,0,2,2,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Syria,4,2,0,0,1,1,2,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Venetia et Histria / Regio X,3,2,0,0,0,2,1,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Hispania citerior,3,1,0,0,0,1,2,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Picenum / Regio V,3,3,0,0,2,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Umbria / Regio VI,3,3,0,0,1,2,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Africa proconsularis,2,1,0,0,1,0,1,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Apulia et Calabria / Regio II,2,2,0,0,0,2,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Lugudunensis,2,0,0,0,0,0,2,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Galatia,2,1,0,0,1,0,1,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Dalmatia,2,2,0,0,1,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Samnium / Regio IV,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Baetica,1,0,0,0,0,0,1,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Germania superior,1,1,0,0,1,0,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Moesia inferior,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Numidia,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Mauretania Caesariensis,1,0,0,0,0,0,1,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Pannonia superior,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Asia,1,1,0,1,0,0,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Barbaricum,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Sicilia,1,1,0,0,1,0,0,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,Arabia,1,0,0,0,0,0,1,regex q=(^|[^IVXL])II ?/? ?Traian (mode=r); total hits 98; ids not in index 0
+II Traiana,EDCS,ALL,98,62,0,1,19,42,36,regex q=(^|[^IVXL])II ?/? ?Traian; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+XII Fulminata,EDCS,Galatia,8,2,2,0,0,0,6,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Achaia,6,5,4,1,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Roma,5,4,0,0,0,4,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Latium et Campania / Regio I,5,4,0,0,1,3,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Venetia et Histria / Regio X,4,4,0,3,0,1,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Baetica,4,3,0,1,1,1,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Africa proconsularis,4,3,1,0,0,2,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Numidia,4,2,0,1,0,1,2,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Asia,3,0,0,0,0,0,3,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Dalmatia,3,3,0,0,3,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Palaestina,3,3,0,1,2,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Apulia et Calabria / Regio II,2,2,1,1,0,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Samnium / Regio IV,2,2,0,0,2,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Lycia et Pamphylia,2,0,0,0,0,0,2,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Mauretania Caesariensis,2,1,0,0,1,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Etruria / Regio VII,2,2,0,0,0,2,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Syria,2,1,0,1,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Pannonia inferior,2,2,0,0,0,2,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Moesia inferior,2,2,0,0,1,1,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Cappadocia,2,0,0,0,0,0,2,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Raetia,2,1,1,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Moesia superior,1,0,0,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Hispania citerior,1,0,0,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Gallia Narbonensis,1,0,0,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Liguria / Regio IX,1,1,0,0,1,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Dacia,1,1,0,0,0,1,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Barbaricum,1,1,0,1,0,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Armenia,1,1,0,0,0,1,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Aegyptus,1,1,1,0,0,0,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Sicilia,1,0,0,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Aemilia / Regio VIII,1,1,0,0,0,1,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Pannonia superior,1,1,0,0,0,1,0,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Arabia,1,0,0,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,Provincia incerta,1,0,0,0,0,0,1,regex q=(^|[^IVX])XII ?/? ?Fulm (mode=r); total hits 82; ids not in index 0
+XII Fulminata,EDCS,ALL,82,53,10,10,12,21,29,regex q=(^|[^IVX])XII ?/? ?Fulm; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+XV Apollinaris,EDCS,Pannonia superior,198,171,74,86,9,2,27,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Venetia et Histria / Regio X,18,16,10,4,2,0,2,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Cappadocia,15,2,0,1,0,1,13,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Latium et Campania / Regio I,9,8,3,3,1,1,1,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Aemilia / Regio VIII,6,5,1,3,1,0,1,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Roma,5,5,0,0,1,4,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Samnium / Regio IV,4,4,1,1,1,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Galatia,4,0,0,0,0,0,4,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Hispania citerior,3,1,0,0,0,1,2,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Dalmatia,3,3,1,0,1,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Africa proconsularis,3,0,0,0,0,0,3,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Noricum,3,3,0,3,0,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Numidia,3,1,0,0,0,1,2,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Pannonia inferior,3,2,0,0,0,2,1,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Provincia incerta,3,1,0,1,0,0,2,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Moesia superior,2,1,0,0,1,0,1,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Asia,2,2,0,1,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Barbaricum,2,0,0,0,0,0,2,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Liguria / Regio IX,2,2,1,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Armenia,2,1,0,0,0,1,1,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Umbria / Regio VI,2,2,1,1,0,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Baetica,1,1,0,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Lugudunensis,1,1,0,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Dacia,1,1,0,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Syria,1,1,0,1,0,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Creta et Cyrenaica,1,1,0,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Aegyptus,1,1,0,1,0,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Etruria / Regio VII,1,1,0,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Sardinia,1,1,0,0,1,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Thracia,1,1,0,0,1,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Achaia,1,1,0,0,1,0,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Lycia et Pamphylia,1,0,0,0,0,0,1,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,Apulia et Calabria / Regio II,1,1,0,0,0,1,0,regex q=(^|[^IVX])XV ?/? ?Apol (mode=r); total hits 304; ids not in index 0
+XV Apollinaris,EDCS,ALL,304,241,92,106,20,23,63,regex q=(^|[^IVX])XV ?/? ?Apol; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+XVI Flavia,EDCS,Syria,16,16,0,1,0,15,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Roma,12,11,0,1,1,9,1,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Latium et Campania / Regio I,5,4,0,1,1,2,1,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Galatia,5,2,0,0,0,2,3,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Numidia,4,0,0,0,0,0,4,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Africa proconsularis,4,1,0,0,0,1,3,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Cappadocia,3,2,0,2,0,0,1,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Dacia,2,2,0,0,0,2,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Etruria / Regio VII,2,2,0,0,0,2,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Venetia et Histria / Regio X,1,1,0,0,0,1,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Baetica,1,1,0,0,1,0,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Gallia Narbonensis,1,1,0,0,0,1,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Macedonia,1,1,0,0,1,0,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Samnium / Regio IV,1,1,0,0,0,1,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Moesia inferior,1,1,0,0,0,1,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Pannonia inferior,1,1,0,0,0,1,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Dalmatia,1,1,0,0,1,0,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Thracia,1,1,0,0,1,0,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Provincia incerta,1,0,0,0,0,0,1,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Mauretania Tingitana,1,1,0,0,0,1,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,Germania superior,1,1,0,0,1,0,0,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\() (mode=r); total hits 65; ids not in index 0
+XVI Flavia,EDCS,ALL,65,51,0,5,7,39,14,regex q=(^|[^IVX])XVI ?/? ?Fl(a|\(); date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+XXX Ulpia Victrix,EDCS,Germania inferior,164,61,0,0,4,57,103,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Lugudunensis,17,14,0,0,1,13,3,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Pannonia superior,13,3,0,0,2,1,10,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Roma,10,9,0,0,0,9,1,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Germania superior,9,7,0,0,0,7,2,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Noricum,8,8,0,0,0,8,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Provincia incerta,7,0,0,0,0,0,7,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Venetia et Histria / Regio X,6,2,0,0,0,2,4,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Latium et Campania / Regio I,5,5,0,0,0,5,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Africa proconsularis,4,1,0,0,0,1,3,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Dalmatia,4,4,0,0,0,4,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Hispania citerior,3,1,0,0,0,1,2,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Galatia,3,3,0,0,0,3,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Numidia,3,0,0,0,0,0,3,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Umbria / Regio VI,3,3,0,0,2,1,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Pannonia inferior,3,3,0,0,0,3,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Moesia superior,3,3,0,0,0,3,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Pontus et Bithynia,2,0,0,0,0,0,2,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Etruria / Regio VII,2,2,0,0,0,2,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Asia,1,1,0,0,0,1,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Aemilia / Regio VIII,1,1,0,0,0,1,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Alpes Poeninae,1,1,0,0,0,1,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Dacia,1,1,0,0,0,1,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Britannia,1,1,0,0,0,1,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Gallia Narbonensis,1,0,0,0,0,0,1,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Transpadana / Regio XI,1,1,0,0,1,0,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Aquitania / Aquitanica,1,0,0,0,0,0,1,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Thracia,1,1,0,1,0,0,0,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Mauretania Caesariensis,1,0,0,0,0,0,1,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Lycia et Pamphylia,1,0,0,0,0,0,1,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,Moesia inferior,1,0,0,0,0,0,1,regex q=XXX ?/? ?Ulp (mode=r); total hits 281; ids not in index 0
+XXX Ulpia Victrix,EDCS,ALL,281,136,0,1,10,125,145,regex q=XXX ?/? ?Ulp; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+I Minervia,EDCS,Germania inferior,333,160,0,6,0,154,173,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Roma,37,36,3,2,13,18,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Provincia incerta,33,11,0,1,0,10,22,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Lugudunensis,21,17,0,0,0,17,4,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Venetia et Histria / Regio X,12,9,3,1,1,4,3,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Transpadana / Regio XI,9,8,1,3,1,3,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Africa proconsularis,9,3,1,0,0,2,6,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Gallia Narbonensis,8,3,0,1,1,1,5,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Pannonia inferior,8,8,1,0,0,7,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Germania superior,8,4,0,2,0,2,4,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Dacia,6,6,0,0,1,5,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Hispania citerior,6,4,0,0,1,3,2,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Latium et Campania / Regio I,6,3,1,0,1,1,3,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Numidia,5,2,0,0,0,2,3,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Samnium / Regio IV,5,4,1,0,1,2,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Dalmatia,5,5,0,0,0,5,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Pannonia superior,5,4,0,0,0,4,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Moesia inferior,4,4,0,1,0,3,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Apulia et Calabria / Regio II,4,3,0,0,0,3,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Achaia,3,3,0,0,2,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Arabia,3,0,0,0,0,0,3,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Noricum,3,2,0,0,2,0,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Galatia,3,2,1,0,1,0,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Etruria / Regio VII,3,3,2,0,0,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Macedonia,2,1,0,0,1,0,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Syria,2,2,0,1,0,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Mauretania Caesariensis,2,0,0,0,0,0,2,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Britannia,1,1,0,0,0,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Alpes Cottiae,1,1,0,0,1,0,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Aquitania / Aquitanica,1,0,0,0,0,0,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Belgica / Germania inferior,1,1,0,0,0,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Baetica,1,1,1,0,0,0,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Cappadocia,1,1,0,1,0,0,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Mauretania Tingitana,1,1,0,0,0,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Thracia,1,1,0,0,0,1,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Bruttium et Lucania / Regio III,1,1,1,0,0,0,0,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,Raetia,1,0,0,0,0,0,1,regex q=(^|[^IVXL])I ?/? ?Minerv (mode=r); total hits 555; ids not in index 0
+I Minervia,EDCS,ALL,555,315,16,19,27,253,240,regex q=(^|[^IVXL])I ?/? ?Minerv; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+VI Victrix,EDCS,Britannia,336,119,0,1,24,94,217,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Germania inferior,88,14,0,11,2,1,74,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Roma,46,40,10,8,3,19,6,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Hispania citerior,16,10,2,2,2,4,6,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Africa proconsularis,12,7,0,1,2,4,5,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Latium et Campania / Regio I,10,8,3,1,2,2,2,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Germania superior,10,10,1,5,0,4,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Venetia et Histria / Regio X,9,8,3,3,1,1,1,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Lusitania,8,5,0,3,1,1,3,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Gallia Narbonensis,8,1,0,0,0,1,7,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Numidia,8,2,0,0,0,2,6,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Provincia incerta,8,0,0,0,0,0,8,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Samnium / Regio IV,7,6,1,0,0,5,1,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Transpadana / Regio XI,6,4,0,4,0,0,2,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Dacia,5,5,0,0,0,5,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Galatia,5,3,1,0,2,0,2,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Aemilia / Regio VIII,5,5,2,3,0,0,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Etruria / Regio VII,5,4,1,0,0,3,1,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Lugudunensis,4,3,0,0,1,2,1,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Belgica,4,2,0,1,0,1,2,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Dalmatia,4,4,0,2,0,2,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Barbaricum,4,4,0,0,0,4,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Pannonia superior,3,3,0,1,1,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Sardinia,2,2,0,0,0,2,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Apulia et Calabria / Regio II,2,2,1,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Baetica,2,2,0,1,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Picenum / Regio V,2,2,0,0,2,0,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Umbria / Regio VI,2,2,0,1,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Alpes Poeninae,1,1,0,1,0,0,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Alpes Cottiae,1,1,0,1,0,0,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Liguria / Regio IX,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Aquitania / Aquitanica,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Mauretania Caesariensis,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Noricum,1,1,1,0,0,0,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Aegyptus,1,0,0,0,0,0,1,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Raetia,1,1,0,0,0,1,0,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,Palaestina,1,0,0,0,0,0,1,regex q=(^|[^IVX])VI ?/? ?Vic (mode=r); total hits 630; ids not in index 0
+VI Victrix,EDCS,ALL,630,284,26,50,43,165,346,regex q=(^|[^IVX])VI ?/? ?Vic; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+X Gemina,EDCS,Pannonia superior,167,94,16,3,4,71,73,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Germania inferior,109,25,2,21,2,0,84,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Hispania citerior,27,13,10,1,0,2,14,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Roma,22,21,2,2,2,15,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Provincia incerta,18,2,0,1,0,1,16,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Noricum,14,9,0,0,2,7,5,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Venetia et Histria / Regio X,13,13,2,0,1,10,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Pannonia inferior,12,11,0,3,5,3,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Dalmatia,12,12,0,0,1,11,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Lusitania,8,2,1,1,0,0,6,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Africa proconsularis,8,2,0,0,0,2,6,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Germania superior,8,8,0,8,0,0,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Latium et Campania / Regio I,7,6,3,1,0,2,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Barbaricum,7,0,0,0,0,0,7,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Samnium / Regio IV,6,5,1,1,1,2,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Numidia,6,2,0,0,1,1,4,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Asia,4,2,0,0,0,2,2,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Gallia Narbonensis,4,2,1,0,1,0,2,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Aemilia / Regio VIII,4,4,1,0,0,3,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Syria,3,2,0,0,0,2,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Achaia,3,3,2,0,1,0,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Liguria / Regio IX,2,2,0,0,0,2,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Baetica,2,1,1,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Mauretania Tingitana,2,1,0,0,1,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Galatia,2,1,0,0,0,1,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Umbria / Regio VI,2,2,0,0,1,1,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Moesia inferior,2,2,0,0,1,1,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Alpes Cottiae,1,1,0,1,0,0,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Etruria / Regio VII,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Macedonia,1,1,0,0,1,0,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Aquitania / Aquitanica,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Belgica,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Dacia,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Bruttium et Lucania / Regio III,1,1,0,1,0,0,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Apulia et Calabria / Regio II,1,1,1,0,0,0,0,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Lugudunensis,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Mauretania Caesariensis,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,Lycia et Pamphylia,1,0,0,0,0,0,1,regex q=(^|[^IVX])X ?/? ?Gem (mode=r); total hits 485; ids not in index 0
+X Gemina,EDCS,ALL,485,251,43,44,25,139,234,regex q=(^|[^IVX])X ?/? ?Gem; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+II Augusta,EDCS,Britannia,1246,129,2,3,22,102,1117,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Roma,56,44,2,4,3,35,12,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Africa proconsularis,38,18,0,1,1,16,20,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Provincia incerta,26,24,0,2,8,14,2,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Numidia,21,8,0,0,1,7,13,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Latium et Campania / Regio I,20,19,3,2,5,9,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Gallia Narbonensis,16,7,1,0,2,4,9,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Moesia inferior,15,15,0,0,0,15,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Pannonia inferior,14,14,0,0,2,12,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Germania superior,13,12,0,3,3,6,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Dacia,13,13,0,0,3,10,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Mauretania Caesariensis,10,6,0,0,0,6,4,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,unknown,9,1,0,0,0,1,8,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Umbria / Regio VI,9,9,3,1,2,3,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Moesia superior,8,8,1,0,0,7,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Alpes Poeninae,7,7,0,0,0,7,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Etruria / Regio VII,7,6,2,1,0,3,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Asia,6,5,0,0,0,5,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Apulia et Calabria / Regio II,6,4,0,0,1,3,2,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Hispania citerior,6,4,1,0,1,2,2,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Dalmatia,6,6,1,0,0,5,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Syria,5,4,0,2,1,1,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Baetica,5,3,1,0,0,2,2,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Aemilia / Regio VIII,5,2,0,1,0,1,3,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Liguria / Regio IX,4,2,1,0,0,1,2,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Samnium / Regio IV,4,2,0,0,0,2,2,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Pannonia superior,4,3,0,1,1,1,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Germania inferior,3,2,0,0,0,2,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Venetia et Histria / Regio X,3,3,1,2,0,0,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Thracia,3,3,0,0,0,3,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Galatia,3,2,1,1,0,0,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Noricum,3,3,0,0,0,3,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Alpes Maritimae,2,2,0,0,0,2,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Lugudunensis,2,2,0,0,0,2,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Bruttium et Lucania / Regio III,2,2,0,1,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Palaestina,2,2,0,1,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Picenum / Regio V,2,2,0,0,0,2,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Macedonia,2,2,0,2,0,0,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Transpadana / Regio XI,1,1,1,0,0,0,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Achaia,1,0,0,0,0,0,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Lusitania,1,0,0,0,0,0,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Mauretania Tingitana,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Aquitania / Aquitanica,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Pontus et Bithynia,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Sicilia,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Sardinia,1,1,0,0,1,0,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Belgica,1,0,0,0,0,0,1,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,Cappadocia,1,1,0,0,0,1,0,regex q=(^|[^IVXL])II ?/? ?Aug (mode=r); total hits 1616; ids not in index 0
+II Augusta,EDCS,ALL,1616,407,21,28,57,301,1209,regex q=(^|[^IVXL])II ?/? ?Aug; date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)
+XX Valeria Victrix,EDCS,Britannia,550,117,0,5,16,96,433,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Roma,38,31,4,4,5,18,7,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Baetica,21,13,2,1,3,7,8,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Latium et Campania / Regio I,18,15,1,2,4,8,3,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Hispania citerior,14,8,0,1,1,6,6,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Africa proconsularis,13,2,0,0,0,2,11,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Numidia,13,2,0,0,0,2,11,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Asia,8,7,0,0,2,5,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Mauretania Caesariensis,8,1,0,0,0,1,7,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Dalmatia,8,7,0,2,2,3,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Etruria / Regio VII,7,7,0,2,1,4,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Venetia et Histria / Regio X,6,6,0,2,2,2,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Gallia Narbonensis,6,1,0,1,0,0,5,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Samnium / Regio IV,6,5,1,0,1,3,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Provincia incerta,6,4,0,0,0,4,2,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Lusitania,5,0,0,0,0,0,5,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Pannonia superior,5,4,0,0,0,4,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Aquitania / Aquitanica,5,2,2,0,0,0,3,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Aemilia / Regio VIII,5,4,0,2,1,1,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Palaestina,4,4,0,1,1,2,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Dacia,4,4,0,0,0,4,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Moesia inferior,4,4,0,0,1,3,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Sardinia,4,4,0,0,1,3,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Umbria / Regio VI,4,4,1,0,2,1,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Lugudunensis,3,1,0,0,0,1,2,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Moesia superior,3,3,0,0,0,3,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Noricum,3,3,0,0,1,2,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Picenum / Regio V,3,3,0,0,2,1,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Germania inferior,3,3,0,0,0,3,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Germania superior,2,2,0,0,0,2,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Mauretania Tingitana,2,1,0,0,1,0,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Belgica,2,1,0,0,0,1,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Syria,2,2,0,2,0,0,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Sicilia,2,1,0,0,0,1,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Achaia,2,2,0,0,1,1,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Galatia,2,1,0,0,0,1,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Macedonia,2,1,1,0,0,0,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Thracia,2,2,0,0,0,2,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Regnum Bospori,2,2,0,0,0,2,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Liguria / Regio IX,1,1,0,0,1,0,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Bruttium et Lucania / Regio III,1,1,0,0,0,1,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Arabia,1,0,0,0,0,0,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Aegyptus,1,0,0,0,0,0,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Cappadocia,1,0,0,0,0,0,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Pannonia inferior,1,1,0,0,0,1,0,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,Apulia et Calabria / Regio II,1,0,0,0,0,0,1,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic) (mode=r); total hits 804; ids not in index 0
+XX Valeria Victrix,EDCS,ALL,804,287,12,25,49,201,517,regex q=(^|[^X])XX ?/? ?(Val|Vic|val|vic); date band = midpoint of EDCS date range; includes tile stamps/graffiti (categories not filtered)

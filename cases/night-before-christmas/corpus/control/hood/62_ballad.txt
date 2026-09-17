@@ -1,0 +1,36 @@
+title: Ballad
+author: Thomas Hood
+date: c. 1821-1827
+source: https://www.gutenberg.org/ebooks/15652 (The Poetical Works of Thomas Hood, ed. W. M. Rossetti, New York: A. L. Burt)
+form: dactylic mixed
+lines: 24
+attribution: certain
+notes: 
+
+Spring it is cheery,
+Winter is dreary,
+Green leaves hang, but the brown must fly;
+When he's forsaken,
+Wither'd and shaken,
+What can an old man do but die?
+
+Love will not clip him,
+Maids will not lip him,
+Maud and Marian pass him by;
+Youth it is sunny,
+Age has no honey,--
+What can an old man do but die?
+
+June it was jolly,
+Oh for its folly!
+A dancing leg and a laughing eye;
+Youth may be silly,
+Wisdom is chilly,--
+What can an old man do but die?
+
+Friends, they are scanty,
+Beggars are plenty,
+If he has followers, I know why;
+Gold's in his clutches,
+(Buying him crutches!)
+What can an old man do but die?

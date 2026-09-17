@@ -1,0 +1,301 @@
+ownhand sizes {'lincoln': (1883, 125233), 'hay': (150, 53146)} target 50488
+  w1 done in 0.5s
+  w2 done in 0.9s
+  w3 done in 0.8s
+  c3 done in 1.8s
+  c4 done in 3.1s
+  c5 done in 4.5s
+  c6 done in 5.6s
+  c7 done in 6.5s
+  c8 done in 6.1s
+  c9 done in 7.3s
+  c10 done in 7.2s
+  c11 done in 6.7s
+  c12 done in 6.7s
+  c13 done in 6.6s
+  c14 done in 6.7s
+  c15 done in 6.6s
+  c16 done in 6.9s
+{
+ "specials": {
+  "c3": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 2,
+    "lincoln": 3
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c4": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 4,
+    "lincoln": 1
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c5": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 4,
+    "lincoln": 1
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c6": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 3,
+    "lincoln": 2
+   },
+   "hay_for_lincoln": {
+    "hay": 2,
+    "lincoln": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c7": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 2,
+    "lincoln": 3
+   },
+   "hay_for_lincoln": {
+    "hay": 2,
+    "lincoln": 2
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "c8": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "c9": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 2,
+    "lincoln": 2
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "c10": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "c11": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "c12": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "c13": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c14": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "hay": 1,
+    "lincoln": 4
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c15": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "hay": 1,
+    "lincoln": 4
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "c16": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "hay": 1,
+    "lincoln": 4
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "w1": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 4,
+    "lincoln": 1
+   },
+   "hay_for_lincoln": {
+    "hay": 2,
+    "lincoln": 2
+   },
+   "hay": {
+    "hay": 1
+   }
+  },
+  "w2": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "hay": 1,
+    "lincoln": 4
+   },
+   "hay_for_lincoln": {
+    "lincoln": 4
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "w3": {
+   "null": {
+    "lincoln": 1
+   },
+   "lincoln": {
+    "lincoln": 5
+   },
+   "hay_for_lincoln": {
+    "lincoln": 4
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  },
+  "vote_c4-10": {
+   "null": {
+    "hay": 1
+   },
+   "lincoln": {
+    "hay": 2,
+    "lincoln": 3
+   },
+   "hay_for_lincoln": {
+    "hay": 1,
+    "lincoln": 3
+   },
+   "hay": {
+    "lincoln": 1
+   }
+  }
+ }
+}

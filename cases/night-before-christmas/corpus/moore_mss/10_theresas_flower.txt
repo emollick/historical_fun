@@ -1,0 +1,36 @@
+title: Theresa's Flower
+author: Clement Clarke Moore
+date: 1846 (25 Dec.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 111-112; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooretheresasflower.htm
+form: iambic tetrameter/trimeter sestets (aabccb)
+lines: 24
+attribution: certain
+notes: MS heading: 'Written for my daughter Theresa, to send to a friend with a flower. Decr. 25, 1846.' Spoken in the daughter's voice; the flower is a Daphne. Serious-tender. Site line count 24 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+While lib'ral wealth, from door to door,
+Sends splendid gifts, and sheds its store
+In many a golden shower,
+A gentle maid presumes to send
+An humble off'ring to her friend;
+'Tis but a modest flower.
+
+For, to the feeling tender heart,
+A trifle may more joy impart
+Than wealth could e'er bestow.
+No brightest gem, no gold refin'd,
+Is worth a gift that wakes the mind
+To friendship's fervid glow.
+
+Let then this short-lived Daphne share,
+My gentle friend, thy fost'ring care
+Till all its bloom be past.
+And, for the sake of her who gives,
+Still let it, when no more it lives,
+Within thy mem'ry last.
+
+But ere, like all, it close in death,
+When thou perceive its fragrant breath
+Steal softly on the air,
+Oh! think it wafted by thy friend,
+While striving thro' the sky to send,
+For thee her fervent prayer.

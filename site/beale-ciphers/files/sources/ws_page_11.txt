@@ -1,0 +1,16 @@
+<noinclude><pagequality level="4" user="Jasonanaggie" />{{rh|{{#ifexpr: 11 mod 2||11}}| THE BEALE PAPERS. |{{#ifexpr: 11 mod 2|11|}}}}{{rule}}</noinclude>{{smaller block|
+{{right|{{sc|St. Louis, Mo.}}, May 9th, 1822.}}
+
+{{sc|Robt. Morris}}, Esq.:
+
+''My Esteemed Friend:''—Ever since leaving my comfortable quarters at your house I have been journeying to this place, and only succeeded in reaching it yesterday. I have had altogether a pleasant time, the weather being fine and the atmosphere bracing. I shall remain here a week or ten days longer, then “ho” for the plains, to hunt the buffalo and encounter the savage grizzlies. How long I may be absent I cannot now determine, certainly no less than two years, perhaps longer.
+
+With regard to the box left in your charge, I have a few words to say, and, if you will permit me, give you some instructions concerning it. It contains papers vitally affecting the fortunes of myself and many others engaged in business with me, and in the event of my death, its loss might be irreparable. You will, therefore, see the necessity of guarding it with vigilance and care to prevent so great a catastrophe. It also contains some letters addressed to yourself, and which will be necessary to enlighten you concerning the business in which we are engaged. Should none of us ever return you will please preserve carefully the box for the period of ten years from the date of this letter, and if I, or no one with authority from me, during that time demands its restoration, you will open it, which can be done by removing the lock. You will find, in addition to the papers addressed to you, other papers which will be unintelligible without the aid of a key to assist you. Such a key I have left in the hands of a friend in this place, sealed, addressed to yourself, and endorsed not to be delivered until June, 1832. By means of this you will understand fully all you will be required to do.
+
+I know you will cheerfully comply with my request, thus adding to the many obligations under which you have already placed me. In the meantime, should death or sickness happen to you, to which all are liable, please select from among your friends some one worthy, and to him hand this letter, and to him delegate your authority. I have been thus particular in my instructions, in consequence of the somewhat perilous enterprise in which we are engaged, but trust we shall meet long ere the time expires, and so save you this trouble. Be the result what it may, however, the game is worth the candle, and we will play it to the end. 
+
+With kindest wishes for your most excellent wife, compliments to the ladies, a good word to enquiring friends, if there be any, and assurances of my highest esteem for yourself, I remain as ever,
+
+{{right|Your sincere friend, {{gap}} T.J.B.}}}}
+
+After the reception of this letter, Mr. Morriss states that he was particularly careful to see the box securely placed where it could remain in absolute safety, so long as the exigencies of the case might require; the letter, too, he was equally careful to preserve for future use, should it be needed. Having done all that was required of him, Mr. Morriss could only await Beale's return, or some communication from him. In either case, he was {{hws|dis|disappointed}}<noinclude></noinclude>

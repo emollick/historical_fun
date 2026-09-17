@@ -1,0 +1,23 @@
+title: November
+author: William Cullen Bryant
+date: c. 1821-1832
+source: https://www.gutenberg.org/ebooks/16341 (Poems by William Cullen Bryant, authorized edition, Dessau: Katz Brothers, 1854; "Poems" section = poems of 1814-1832)
+form: iambic pentameter
+lines: 14
+attribution: certain
+notes: 
+
+Yet one smile more, departing, distant sun!
+One mellow smile through the soft vapoury air,
+Ere, o'er the frozen earth, the loud winds run,
+Or snows are sifted o'er the meadows bare.
+One smile on the brown hills and naked trees,
+And the dark rocks whose summer wreaths are cast,
+And the blue gentian flower, that, in the breeze,
+Nods lonely, of her beauteous race the last.
+Yet a few sunny days, in which the bee
+Shall murmur by the hedge that skirts the way,
+The cricket chirp upon the russet lea,
+And man delight to linger in thy ray.
+Yet one rich smile, and we will try to bear
+The piercing winter frost, and winds, and darkened air.

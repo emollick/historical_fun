@@ -1,0 +1,18 @@
+title: Epigram
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: ballad
+lines: 7
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+IN digging up your bones, Tom Paine,
+Will. Cobbett has done well:
+You visit him on Earth again,
+He'll visit you in Hell.
+
+You come to him on Earth again
+He'll go with you to Hell!
+
+January 2, 1820.

@@ -1,0 +1,70 @@
+# Double Falsehood and the lost Cardenio — working directory
+
+Case page: https://historical-mysteries.netlify.app/double-falsehood/
+
+## Published report
+- Report: https://historical-mysteries.netlify.app/double-falsehood/report (report.html here is the same page).
+
+## The mystery
+In the winter of 1612 to 1613 the King's Men, the acting company that Shakespeare wrote for and part-owned, played twenty times at the court of King James I, and the royal household's accounts list one of the plays as "Cardenno"; a second payment covers "Cardenna", played on 8 June 1613. Neither record names an author. The title comes from Don Quixote, the novel by Miguel de Cervantes (1605; in English 1612), whose Cardenio loses his bride Luscinda to his friend Fernando and runs mad in the mountains. The play was never printed and is not in the First Folio, the collected edition of Shakespeare's plays put together in 1623. On 9 September 1653 Humphrey Moseley, a London bookseller, entered "The History of Cardenio, by Mr Fletcher & Shakespeare" in the Stationers' Register, the book trade's record of who held the right to print what. John Fletcher was the playwright who succeeded Shakespeare as the King's Men's chief writer and wrote Henry VIII and The Two Noble Kinsmen with him. Moseley never printed the play, and no manuscript of it is known.
+
+On 13 December 1727 Lewis Theobald, a London editor and playwright who had made his name the year before by correcting Alexander Pope's edition of Shakespeare, staged Double Falshood; or, The Distrest Lovers at the Drury Lane theatre as "Written Originally by W. Shakespeare". The plot is Cervantes's Cardenio story with the names changed. Theobald's preface claimed three manuscripts, one in the hand of John Downes, prompter to one of the two London theatre companies from 1662, and once owned by the actor Thomas Betterton. Nobody else ever recorded seeing them. A notice at a revival in 1770 placed the "original Manuscript" in the museum of the Covent Garden theatre, which burned in 1808; no account of the fire mentions it, and the claim that it burned there was first made by Brean Hammond in 1984.
+
+## Why it is argued
+Four positions have been held since the play appeared.
+- Theobald wrote it himself and invented the manuscripts. Pope mocked one of its lines in 1728; George Steevens and Edmond Malone, the leading Shakespeare editors of their day, doubted it in 1780; Tiffany Stern, a historian of the early modern theatre, argued the case in full in 2011.
+- It is an old play, but not Shakespeare's. Richard Farmer, a Cambridge scholar, proposed James Shirley in 1767; Malone, and in 2017 Giuliano Pascucci, proposed Philip Massinger.
+- Fletcher wrote it. Every count of the verse since Gamaliel Bradford's in 1910 finds a break at scene 3.3 with Fletcher's habits after it, and Naseem Alotaibi's doctoral thesis of 2016 holds that Fletcher is the only author the text will yield.
+- Fletcher and Shakespeare wrote it together. This is the view of the play's modern editors, Brean Hammond (Arden Shakespeare, 2010), Gary Taylor (2016) and the New Oxford Shakespeare (2017), who describe three layers: a Jacobean original (Jacobean meaning from the reign of James I, 1603 to 1625), a rewriting of the 1660s and Theobald's revision of 1727.
+
+The argument has not been settled because the play has been rewritten at least once and probably twice, and rewriting destroys the features attribution depends on.
+
+## How the case was judged
+The documents (two court payment records of 1613, Moseley's entry of 1653, Theobald's licence, dedication, preface and one later statement, and the notices of 1770 and 1808) establish that the King's Men had a Cardenio in 1613 and that a bookseller assigned it to Fletcher and Shakespeare forty years later, and nothing more. The text was therefore compared with 264 plays and other works of the period, about 5.2 million words, most of them from the Text Creation Partnership, a project that keyboards early printed books. The measurements were distances based on the 300 commonest words, a statistical classifier, the "impostors" test (how often a candidate author beats a crowd of other writers; above 0.8 counts as verified) and counts of rare phrases and of small words such as "hath" and "doth" that had gone out of use by 1727. Each method was tried first on Henry VIII and The Two Noble Kinsmen, where scholars agree which scenes Fletcher wrote, and on the corpus's 45 Restoration and 18th-century rewritings of older plays, each measured for how much of the original wording it keeps, with the 39 whose originals are plays by Shakespeare or Fletcher alone scored for how much of the author survives revision; only then on Double Falsehood scene by scene, with Theobald's own 93,000 words put through the same tests as a control.
+
+## The verdict
+Fletcher wrote the second half. Shakespeare probably wrote in the first half, though that is not proven. Theobald did not make the play up.
+
+Evidence label: Probable. The evidence clearly favours one answer over all the others, but does not prove it. The percentage moves when the same evidence is weighed differently.
+
+Weighing the documents and the text (the weights are stated in the report's section "Where the percentages come from"): about 64 percent that the play descends from a Fletcher and Shakespeare original, 24 that it descends from a play Fletcher wrote alone or with another partner of the Jacobean period (the reign of James I, 1603 to 1625), 4 that it descends from a Jacobean play without Fletcher, 5 that Theobald wrote it himself, 3 something else. These figures are judgments. No model produced them, and nobody has yet rerun the computation. The range the evidence supports for the first figure is 50 to 75: about 50 if the 1653 Register entry is discounted entirely, about 55 if the Shakespeare readings in 1.2, 1.3 and 3.2 are treated as noise, about 75 if the argument by Gary Taylor and Steven Wagschal that the play follows Thomas Shelton's 1612 English translation of Don Quixote is accepted as proven (a phrase count could neither confirm nor refute it).
+
+What the text shows. Scenes 3.3, 4.1 and 5.2 show Fletcher's habits as strongly as his own scenes in Henry VIII and The Two Noble Kinsmen, the two plays he and Shakespeare wrote together: on the impostors test (a standard authorship check that asks how often a candidate author beats a crowd of other writers; 0.8 counts as verified) they score 0.82, 0.84 and 0.79, and the 125 chunks of Theobald's own plays, translations and verse average 0.19 on the same test, with a maximum of 0.63 (two chunks reach 0.60). Scenes 4.2 and 5.1 are probably Fletcher's too, on the classifier and the phrase counts rather than on this test. Scenes 1.1 to 3.2 are not Fletcher's; under heavy later rewriting they keep an older layer (thirteen "hath" and "doth", forms that had gone out of use by 1727, in 14,900 words against four in Theobald's own 93,000; Jacobean turns of phrase at twice the rate of his writing). Three passages read as Shakespeare on every model tried (the second half of 1.2, scene 3.2, the opening of 5.2), but the same models call John Webster and Philip Massinger, two other playwrights of the period, "Shakespeare" often enough that one scene's label cannot be trusted on its own. Shakespeare fits best of the candidates tested; Massinger (proposed by the editor Edmond Malone in 1780 and by Giuliano Pascucci in 2017) and Shirley (Farmer, 1767) do not fit at all. Act 2, where earlier scholars had already placed the later rewritings, was rewritten most.
+
+Label: AGREES with the play's modern editors, Brean Hammond (Arden Shakespeare, 2010), Gary Taylor (2016) and the New Oxford Shakespeare edition (2017), on Fletcher and on the three layers (a Jacobean original, a rewriting of the 1660s, Theobald's revision of 1727); reads the evidence for Shakespeare differently, because the Shakespeare-unique phrase links used by MacDonald P. Jackson (2012) and Taylor (2016) turn out not to tell Shakespeare from other Jacobean dramatists, while Fletcher-unique links do. Nothing here overturns what historians already think. The case made by the theatre historian Tiffany Stern (2011) that Theobald wrote the whole play is answered on the text at about 5 percent; her article was not read in full.
+
+## What is new
+None of this is new documentary evidence. Each item is a new measurement on texts that were already available, or a new reading of published results; the measurements were checked on plays of known authorship and on two 18th-century plays that contain no Jacobean writing, and nobody has yet rerun them.
+- The calibration: survival curves from the 39 adaptations (of 45 in the corpus) whose originals are plays by Shakespeare or Fletcher alone, giving every attribution score a meaning in terms of how much wording survived, plus two 18th-century plays with no Jacobean writing in them as a floor (Nicholas Rowe's Fair Penitent, Theobald's Orestes). None of the studies read for the report measured this.
+- The equal-corpus test at scene length against Shakespeare, Fletcher, Massinger, Shirley, Thomas Middleton, John Ford, Webster, Ben Jonson, the 18th-century group and Theobald together, checked by holding out one play at a time; the New Oxford Shakespeare's Authorship Companion listed it as the gap. Fletcher confirmed, Massinger and Shirley absent, Shakespeare the best fit for 3.2 and undecided for 1.2 and 1.3.
+- The check of Theobald's four plays, four translations and The Cave of Poverty together, with a scanned-copy control: on the impostors test his 125 chunks give Fletcher a mean of 0.19 and a maximum of 0.63 (against 0.79 to 0.84 in the verified scenes), and his 93,000 words contain four instances of "hath" and "doth", one of them the "doth" in The Cave of Poverty.
+- Shakespeare-unique phrase links do not discriminate at this scale (Fletcher's and Massinger's scenes carry them as densely as Shakespeare's own); Fletcher-unique links do.
+- The absence of "ye" from the play shows word-by-word modernisation and nothing more, since three adaptations of Fletcher from 1695 to 1702 also lack it.
+- Where the later layers sit: 18th-century-only phrasing peaks in 2.1 to 2.3, and 400-word windows put the Shakespeare-like writing in the second half of 1.2, in 3.2 and at the opening of 5.2, agreeing with Oliphant, Nance, Taylor, Tarlinskaja and Pascucci by an independent route.
+- A null result: no phrase-level preference for Shelton's translation over the later ones by John Phillips (1687) and Peter Motteux (1700).
+
+## Where the work fell short
+- Stern 2011 and Jackson 2012 were not read in full (paywalled; no copy obtained); their arguments come through Naseem Alotaibi's 2016 doctoral thesis and Taylor 2016, both read in full. Hammond's Arden edition, Kukowski 1991, Hope 1994 and Tarlinskaja's earlier papers likewise second-hand.
+- Theobald's own adaptations (Richard II 1720, The Fatal Secret 1735) were not available in usable text. William Davenant's adaptations other than Macbeth and The Tempest are not in the Text Creation Partnership (the project that keyboards early printed books), so the Davenant layer was not modelled as a class.
+- Beaumont, Field and Davenant's pre-war plays were too small to test as partners; the 24 percent for "Fletcher with another partner" is a judgment.
+- Theobald's texts are scans (legibility 0.86 to 0.98); a scanned Double Falsehood run through the same pipeline classifies the same way, but rare-phrase rates in his texts are depressed by about a fifth.
+- Scene-level accuracy is 84 percent for Shakespeare against sixteen other classes and lower for scenes under 400 words; no single scene label is certain.
+- The Bodleian manuscript of the 1613 court payments and the Stationers' Register were not examined; Steevens and Malone's 1780 Supplement, the 1770 notice, the 1718 Tonson assignment and the originals of Mist's Weekly Journal are second-hand.
+- Nobody has rerun the computation; the code and data are in this folder so that someone else can.
+
+## Files
+- report.html         The published report; source in code/report/report_src.html, built by code/report/build.py.
+- notes/scholarship.md  Claims register for 37 studies, each tagged by how it was read; sources/scholarship/SOURCES.md lists the files.
+- notes/documents.md    Documentary dossier, 13 sections with verbatim transcriptions and a verification flag (image / ocr / transcription / secondary) on every item; sources/documents/SOURCES.md lists the files.
+- corpus/             185 EEBO-TCP and ECCO-TCP texts (MANIFEST.tsv) fetched from raw.githubusercontent.com/textcreationpartnership; OCR texts of Theobald and of the 1700 to 1723 adaptations in corpus/raw_external/ (INDEX.md, PROVENANCE.md per folder); segments.jsonl is the parsed scene corpus.
+- code/               Parser and normaliser, features and classifiers, validation (validate.py, validate_many.py, theo_validate.py), adaptation retention and survival (adapt_retention.py, adapt_survival.py, gi_survival.py), impostors (impostors.py), attribution (attribute.py), phrase links, markers, windows, translations test, final_tables.py, figures.py.
+- data/results/       Every run as JSON with its log; final_tables.json holds every number in the report.
+- figures/            The four figures as SVG.
+
+## Regeneration
+    # run from this folder
+    python3 code/final_tables.py        # rebuilds data/results/final_tables.json from the run outputs
+    python3 code/figures.py             # rebuilds figures/*.svg
+    python3 code/report/build.py        # inlines the figures into report.html
+The long runs (validate.py, gi_survival.py, theo_validate.py) take 30 to 70 CPU-minutes each and are resumable; see the logs in data/results/.
+- Impostors test on Theobald's own texts: `python3 code/impostors.py --target theo_<key> --candidates SH,FL --iters 200 --out data/results/gi_null_theo_<key>.json` for each of the nine keys in corpus/segments.jsonl; the combined table is data/results/gi_null_theo_all.json.

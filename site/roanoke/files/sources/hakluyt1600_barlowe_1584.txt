@@ -1,0 +1,424 @@
+TEXT: Arthur Barlowe, 'The first voyage made to the coasts of America... Anno 1584' (Hakluyt 1600, vol. III, pp. 246-251)
+GOLDSMID SECTION: XXIV (Gutenberg #25645 file lines 10324-10743)
+SOURCE EDITION: Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid, vol. XIII 'America, Part II' (Edinburgh: E. & G. Goldsmid, 1889), text as transcribed by Project Gutenberg eBook #25645 (release 2008-05-29, updated 2020-06-20). Goldsmid reprints the text of the 1600 edition (vol. III) with original spelling (u/v, i/j as printed); Hakluyt's marginal notes are given as bracketed (Mnnn) references and Goldsmid's footnotes as (nnn) numbers.
+URL FETCHED: https://www.gutenberg.org/cache/epub/25645/pg25645.txt  (also https://www.gutenberg.org/files/25645/25645-8.txt)
+DATE FETCHED: 2026-09-14
+1600-EDITION PAGE NUMBERS: taken from the '[III. nnn.]' markers in the MacLehose edition (Glasgow 1904, vol. VIII), archive.org id principalnavigat08hakl, which reproduces the 1600 pagination; see maclehose1904_vol8_virginia_section.txt in this folder.
+==============================================================================
+
+XXIV. The first voyage made to the coasts of America, with two barks,
+wherein were Captaines M. Philip Amadas, and M. Arthur Barlowe, who
+discouered part of the Countrey now called Virginia Anno 1584. Written by
+one of the said Captaines, and sent to sir Walter Ralegh knight, at whose
+charge and direction, the said voyage was set forth.(84)
+
+
+The 27 day of Aprill, in the yere of our redemption 1584, we departed the
+West of England, with two barkes well furnished with men and victuals,
+hauing receiued our last and perfect directions by your letters,
+confirming the former instructions, and commandements deliuered by your
+selfe at our leauing the riuer of Thames. And I thinke it a matter both
+vnnecessary, for the manifest discouerie of the Countrey, as also for
+tediousnesse sake, to remember vnto you the diurnall of our course,
+sayling thither and returning: onely I haue presumed to present vnto you
+this briefe discourse, by which you may iudge how profitable this land is
+likely to succeede, as well to your selfe, (by whose direction and charge,
+and by whose seruantes this our discouerie hath beene performed) as also
+to her Highnesse, and the Common wealth, in which we hope your wisedome
+wilbe satisfied, considering that as much by vs hath bene brought to
+light, as by those smal meanes, and number of men we had, could any way
+haue bene expected, or hoped for.
+
+(M256) The tenth of May we arriued at the Canaries, and the tenth of Iune
+in this present yeere, we were fallen with the Islands of the West Indies,
+keeping a more Southeasterly course then was needefull, because wee
+doubted that the current of the Bay of Mexico, disbogging betweene the
+Cape of Florida and Hauana, had bene of greater force then afterwardes we
+found it to bee. At which Islands we found the ayre very vnwholsome, and
+our men grew for the most part ill disposed: so that hauing refreshed our
+selues with sweet water, and fresh victuall, we departed the twelfth day
+of our arriuall there. These Islands, with the rest adioyning, are so well
+knowen to your selfe, and to many others, as I will not trouble you with
+the remembrance of them.
+
+(M257) The second of Iuly, we found shole water, wher we smelt so sweet,
+and so strong a smel, as if we had bene in the midst of some delicate
+garden abounding with all kinde of odoriferous flowers, by which we were
+assured, that the land could not be farre distant: and keeping good watch,
+and bearing but slacke saile, the fourth of the same moneth we arriued
+vpon the coast, which we supposed to be a continent and firme lande, and
+we sayled along the same a hundred and twentie English miles before we
+could finde any entrance, or riuer issuing into the Sea. (M258) The first
+that appeared vnto vs, we entred, though not without some difficultie, and
+cast anker about three harquebuz-shot within the hauens mouth, on the left
+hand of the same: and after thankes giuen to God for our safe arriuall
+thither, we manned our boats, and went to view the land next adioyning,
+and to take possession of the same, in the right of the Queenes most
+excellent Maiestie, as rightfull Queene, and Princesse of the same, and
+after deliuered the same ouer to your vse, according to her Maiesties
+grant, and letters patents, vnder her Highnesse great seale. Which being
+performed, according to the ceremonies vsed in such enterprises, we viewed
+the land about vs, being (M259) whereas we first landed, very sandie and
+low towards the waters side, but so full of grapes, as the very beating
+and surge of the sea ouerflowed them, of which we found such plentie, as
+well there as in all places else, both on the sand and on the greene soile
+on the hils, as in the plaines, as well on euery little shrubbe, as also
+climing towardes the tops of high Cedars, that I thinke in all the world
+the like abundance is not to be found: and my selfe hauing seene those
+parts of Europe that most abound, find such difference as were incredible
+to be written.
+
+(M260) We passed from the Sea side towardes the toppes of those hilles
+next adioyning, being but of meane higth, and from thence wee behelde the
+Sea on both sides to the North, and to the South, finding no ende any of
+both wayes. This lande lay stretching it selfe to the West, which after
+wee found to bee but an Island of twentie miles long, and not above sixe
+miles broade. Vnder the banke or hill whereon we stoode, we behelde the
+vallyes replenished with goodly Cedar trees, and hauing discharged our
+harquebuz-shot, such a flocke of Cranes (the most part white) arose vnder
+vs, with such a cry redoubled by many ecchoes, as if an armie of men had
+showted all together.
+
+This Island had many goodly woodes full of Deere, Conies, Hares, and
+Fowle, euen in the middest of Summer in incredible abundance. The woodes
+are not such as you finde in Bohemia, Moscouia, or Hercynia, barren and
+fruitles, but the highest and reddest Cedars of the world, farre bettering
+the Ceders of the Açores of the Indies, or Lybanus, Pynes, Cypres,
+Sassaphras, the Lentisk, or the tree that beareth the Masticke, the tree
+that beareth the vine of blacke Sinamon, of which Master Winter brought
+from the streighte of Magellan, and many other of excellent smell and
+qualitie. (M261) We remained by the side of this Island two whole dayes
+before we saw any people of the Countrey: the third day we espied one
+small boate rowing towardes vs having in it three persons: this boat came
+to the Island side, foure harquebuz-shot from our shippes, and there two
+of the people remaining, the third came along the shoreside towards vs,
+and wee being then all within boord, he walked vp and downe vpon the point
+of the land next vnto vs: then the Master and the Pilot of the Admirall,
+Simon Ferdinando, and the Captaine Philip Amadas, my selfe, and others
+rowed to the land, whose comming this fellow attended, neuer making any
+shewe of feare or doubt. (M262) And after he had spoken of many things not
+vnderstood by vs, we brought him with his owne good liking, aboord the
+ships, and gaue him a shirt, a hat and some other things, and made him
+taste of our wine, and our meat, which he liked very wel: and after hauing
+viewed both barks, he departed, and went to his owne boat againe, which
+hee had left in a little Coue or Creeke adioyning: assoone as hee was two
+bow shoot into the water, he fell to fishing, and in lesse then halfe an
+houre, he had laden his boate as deepe, as it could swimme, with which hee
+came againe to the point of the lande, and there he diuided his fish into
+two parts, pointing one part to the ship, and the other to the pinnesse;
+which, after he had (as much as he might) requited the former benefites
+receiued, departed out of our sight.
+
+(M263) The next day there came vnto vs diuers boates, and in one of them
+the Kings brother, accompanied with fortie or fiftie men, very handsome
+and goodly people, and in their behauiour as mannerly and ciuill as any of
+Europe. His name was Granganimeo, and the king is called Wingina, the
+countrey Wingandacoa, and now by her Maiestie Virginia. The maner of his
+comming was in this sort: hee left his boates altogether as the first man
+did a little from the shippes by the shore, and came along to the place
+ouer against the ships, followed with fortie men. When he came to the
+place his seruants spread a long matte vpon the ground, on which he sate
+downe, and at the other ende of the matte foure others of his companie did
+the like, the rest of his men stood round about him, somewhat a farre off:
+when we came to the shore to him with our weapons, hee neuer mooued from
+his place, nor any of the other foure, nor neuer mistrusted any harme to
+be offered from vs, but sitting still he beckoned vs to come and sit by
+him, which we performed: and being set hee made all signes of ioy and
+welcome, striking on his head and his breast and afterwardes on ours, to
+shew wee were all one, smiling and making shewe the best he could of all
+loue, and familiaritie. After hee had made a long speech vnto vs, wee
+presented him with diuers things, which hee receiued very ioyfully, and
+thankefully. None of the companie durst speake one worde all the time:
+only the foure which were at theother ende, spake one in the others eare
+very softly. The King is greately obeyed, and his brothers and children
+reuerenced: the King himselfe in person was at our being there, sore
+wounded in a fight which hee had with the King of the next countrey,
+called Wingina, and was shot in two places through the body, and once
+cleane through the thigh, but yet he recouered: by reason whereof and for
+that hee lay at the chiefe towne of the countrey, being sixe dayes iourney
+off, we saw him not at all.
+
+After we had presented this his brother with such things as we thought he
+liked, wee likewise gaue somewhat to the other that satte with him on the
+matte: but presently he arose and tooke all from them and put it into his
+owne basket, making signes and tokens, that all things ought to bee
+deliuered vnto him, and the rest were but his seruants, and followers.
+(M264) A day or two after this we fell to trading with them, exchanging
+some things that we had, for Chamoys, Buffe, and Deere skinnes: when we
+shewed him all our packet of merchandize, of all things that he sawe, a
+bright tinne dish most pleased him, which hee presently tooke vp and clapt
+it before his breast, and after made a hole in the brimme thereof and hung
+it about his necke, making signes that it would defende him against his
+enemies arrowes: for those people maintaine a deadly and terrible warre,
+with the people and King adioyning. We exchanged our tinne dish for
+twentie skinnes, woorth twentie Crownes, or twentie Nobles: and a copper
+kettle for fiftie skins woorth fiftie Crownes. They offered vs good
+exchange for our hatchets, and axes, and for kniues and would haue giuen
+any thing for swordes: but wee would not depart with any. (M265) After two
+or three dayes the Kings brother came aboord the shippes, and dranke wine,
+and eat of our meat and of our bread, and liked exceedingly thereof: and
+after a fewe days ouerpassed, he brought his wife with him to the ships,
+his daughter and two or three children: his wife was very well fauoured,
+of meane stature, and very bashfull: shee had on her backe a long cloake
+of leather, with the furre side next to her body, and before her a piece
+of the same: about her forehead shee had a bande of white Corall, and so
+had her husband many times: in her eares shee had bracelets of pearles
+hanging downe to her middle, (whereof wee deliuered your worship a little
+bracelet) and those were of the bignes of good pease. The rest of her
+women of the better sort had pendants of copper hanging in either eare,
+and some of the children of the kings brother and other noble men, haue
+fiue or sixe in either eare: he himselfe had vpon his head a broad plate
+of golde, or copper, for being vnpolished we knew not what mettall it
+should be, neither would he by any meanes suffer vs to take it off his
+head, but feeling it, it would bow very easily. His apparell was as his
+wiues, onely the women weare their haire long on both sides, and the men
+but on one. They are of colour yellowish, and their hair black for the
+most part, and yet we saw children that had very fine aburne and chesnut
+coloured haire.
+
+After that these women had bene there, there came downe from all parts
+great store of people, bringing with them leather, corall, diuers kindes
+of dies, very excellent, and exchanged with us: but when Granganimeo the
+kings brother was present, none durst trade but himselfe: except such as
+weare red pieces of copper on their heads like himselfe: for that is the
+difference betweene the noble men, and the gouernours of countreys, and
+the meaner sort. And we both noted there, and you haue vnderstood since by
+these men, which we brought home, that no people in the worlde cary more
+respect to their King, Nobilitie, and Gouernours, then these doe. The
+Kings brothers wife, when she came to vs (as she did many times) was
+followed with forty or fifty women alwayes: and when she came into the
+shippe, she left them all on land, sauing her two daughters, her nurse and
+one or two more. The kings brother alwayes kept this order, as many boates
+as he would come withall to the shippes, so many fires would hee make on
+the shore a farre off, to the end we might vnderstand with what strength
+and company he approched. (M266) Their boates are made of one tree, either
+of Pine or of Pitch trees: a wood not commenly knowen to our people, nor
+found growing in England. They haue no edge-tooles to make them withall;
+if they haue any they are very fewe, and those it seemes they had twentie
+yeres since, which, as those two men declared, was out of a wracke which
+happened vpon their coast of some Christian ship, being beaten that way by
+some storme and outragious weather, whereof none of the people were saued,
+but only the ship, or some part of her being cast vpon the sand, out of
+whose sides they drew the nayles and the spikes, and with those they made
+their best instruments. (M267) The manner of making their boates is thus:
+they burne downe some great tree, or take such as are winde fallen,
+putting gumme and rosen vpon one side thereof, they set fire into it, and
+when it hath burnt it hollow, they cut out the coale with their shels, and
+euer where they would burne it deeper or wider they lay on gummes, which
+burne away the timber, and by this meanes they fashion very fine boates,
+and such as will transport twentie men. Their oares are like scoopes, and
+many times they set with long poles, as the depth serueth.
+
+The Kings brother had great liking of our armour, a sword, and diuers
+other things which we had: and offered to lay a great box of pearl in gage
+for them: but we refused it for this time, because we would not make them
+knowe, that we esteemed thereof, vntill we had vnderstoode in what places
+of the countrey the pearle grew: which now your Worshippe doeth very well
+vnderstand.
+
+He was very iust of his promise: for many times we deliuered him
+merchandize vpon his word, but euer he came within the day and performed
+his promise. He sent vs euery day a brase or two of fat Bucks, Conies,
+Hares, Fish the best of the world. He sent vs diuers kindes of fruites,
+Melons, Walnuts, Cucumbers, Gourdes, Pease, and diuers rootes, and fruites
+very excellent good, and of their Countrey corne, which is very white,
+faire and well tasted, and groweth three times in fiue moneths: in May
+they sow, in Iuly they reape, in Iune they sow, in August they reape: in
+Iuly they sow, in September they reape: onely they cast the corne into the
+ground, breaking a little of the soft turfe with a wodden mattock, or
+pickeaxe: our selues prooued the soile, and put some of our Pease in the
+ground, and in tenne dayes they were of fourteene ynches high: they haue
+also Beanes very faire of diuers colours and wonderfull plentie: some
+growing naturally, and some in their gardens, and so haue they wheat and
+oates.
+
+The soile is the most plentifull, sweete, fruitfull and wholsome of all
+the worlde: there were aboue fourteene seuerall sweete smelling timber
+trees, and the most part of their vnderwoods are Bayes and such like: they
+haue those Okes that we haue, but farre greater and better. After they had
+bene diuers times aboord our shippes, my selfe, with seuen more went
+twentie mile into the Riuer, that runneth towarde the Citie of Skicoak,
+which Riuer they call Occam: and the euening following, wee came to an
+Island which they call Raonoak, distant from the harbour by which we
+entered, seuen leagues: and at the north end thereof was a village of nine
+houses, built of Cedar, and fortified round about with sharpe trees, to
+keepe out their enemies, and the entrance into it made like a turne pike
+very artificially; when wee came towardes it, standing neere vnto the
+waters side, the wife of Granganimeo the kings brother came running out to
+meete vs very cheerefully and friendly, her husband was not then in the
+village: some of her people shee commanded to drawe our boate on shore for
+the beating of the billoe: others she appointed to cary vs on their backes
+to the dry ground, and others to bring our oares into the house for feare
+of stealing. When we were come into the vtter roome, hauing fiue roomes in
+her house, she caused vs to sit downe by a great fire, and after tooke off
+our clothes and washed them, and dryed them againe: some of the women
+plucked off our stockings and washed them, some washed our feete in warme
+water, and shee her selfe tooke great paines to see all thinges ordered in
+the best maner shee could, making great haste to dress some meate for vs
+to eate.
+
+After we had thus dryed ourselues, she brought vs into the inner roome,
+where shee set on the boord standing along the house; some wheate like
+furmentie, sodden Venison, and roasted, fish sodden, boyled and roasted,
+Melons rawe, and sodden, rootes of diuers kindes and diuers fruites: their
+drinke is commonly water, but while the grape lasteth, they drinke wine,
+and for want of caskes to keepe it, all the yere after they drink water,
+but it is sodden with Ginger in it, and black Sinamon, and sometimes
+Sassaphras, and diuers others wholesome, and medicinable hearbes and
+trees. We were entertained with all loue and kindnesse, and with as much
+bountie (after their maner) as they could possibly deuise. We found the
+people most gentle, louing, and faithfull, voide of all guile and treason,
+and such as liue after the maner of the golden age. The people onely care
+howe to defende them selues from the cold in their short winter, and to
+feed themselues with such meat as the soile affoordeth: their meat is very
+well sodden and they make broth very sweet and sauorie: their vessels are
+earthern pots, very large, white and sweete, their dishes are wodden
+platters of sweet timber: within the place where they feede was their
+lodging, (M268) and within that their Idoll, which they worship, of whome
+they speake incredible things. While we were at meate, there came in at
+the gates two or three men with their bowes and arrowes from hunting, whom
+when wee espied, we beganne to looke one towardes another, and offered to
+reach our weapons: but assoone as shee espied our mistrust, shee was very
+much mooued, and caused some of her men to runne out, and take away their
+bowes and arrowes and breake them, and withall beate the poore fellowes
+out of the gate againe. When we departed in the euening and would not tary
+all night she was very sory, and gaue vs into our boate our supper halfe
+dressed, pottes and all, and brought vs to our boate side, in which wee
+lay all night, remoouing the same a prettie distance from the shoare: shee
+perceiuing our ielousie, was much grieued, and sent diuers men and thirtie
+women, to sit all night on the banke side by vs, and sent vs into our
+boates fine mattes to couer vs from the raine, vsing very many wordes to
+entreate vs to rest in their houses: but because wee were fewe men, and if
+wee had miscaried, the voyage had bene in very great danger, wee durst not
+adventure any thing, although there was no cause of doubt: for a more
+kinde and louing people there can not be found in the worlde, as farre as
+we haue hitherto had triall.
+
+(M269) Beyond this Island there is the maine lande, and ouer against this
+Island falleth into this spacious water, the great riuer called Occam by
+the inhabitants on which standeth a towne called Pomeiock; and sixe dayes
+journey from the same is situate their greatest citie, called Skicoak,
+which this people affirme to be very greate: but the Sauages were neuer at
+it, only they speake of it by the report of their fathers and other men,
+whom they have heard affirme it to bee aboue one houres iourney about.
+
+Into this riuer falleth another great riuer, called Cipo, in which there
+is found great store of Muskles in which there are pearles: likewise there
+descendeth into this Occam, another riuer, called Nomopana, on the one
+side whereof standeth a great towne called Chawanook, and the Lord of that
+towne and countrey is called Pooneno: this Pooneho is not subject to the
+king of Wingandacoa, but is a free Lord: beyond this country is there
+another king, whom they call Menatonon, and these three kings are in
+league with each other. (M270) Towards the Southwest, foure dayes iourney
+is situate a towne called Sequotan, which is the Southermost towne of
+Wingandacoa, neere unto which, sixe and twentie yeres past there was a
+ship cast away, whereof some of the people were saued, and those were
+white people, whom the countrey people preserued.
+
+And after ten dayes remaining in an out Island vninhabited, called
+Wocokon, they with the help of some of the dwellers of Sequotan, fastened
+two boates of the countrey together and made mastes vnto them and sailes
+of their shirtes, and hauing taken into them such victuals as the countrey
+yeelded, they departed after they had remained in this out Island 3
+weekes: but shortly after it seemed they were cast away, for the boates
+were found vpon the coast cast a land in another Island adioyning: other
+then these, there was neuer any people apparelled, or white of colour,
+either seene or heard of amongst these people, and these aforesaid were
+seene onely of the inhabitantes of Secotan, which appeared to be very
+true, for they wondred maruelously when we were amongst them at the
+whitenes of our skins, euer coueting to touch our breasts, and to view the
+same. Besides they had our ships in marvelous admiration, and all things
+els were so strange vnto them, as it appeared that none of them had euer
+seene the like. When we discharged any piece, were it but an hargubuz,
+they would tremble thereat for very feare, and for the strangenesse of tha
+same: for the weapons which themselues vse are bowes and arrowes: the
+arrowes are but of small canes, headed with a sharpe shell or tooth of a
+fish sufficient ynough to kill a naked man. (M271) Their swordes be of
+wood hardened: likewise they vse wooden breastplates for their defence.
+They haue beside a kinde of club, in the end whereof they fasten the
+sharpe hornes of a stagge, or other beast. When they goe to warres they
+cary about with them their idol, of whom they aske counsel, as the Romans
+were woont of the Oracle of Apollo. They sing songs as they march towardes
+the battell in stead of drummes and trumpets: their warres are very cruell
+and bloody, by reason whereof, and of their ciuill dissentions which haue
+happened of late yeeres amongst them, the people are maruelously wasted,
+and in some places the countrey left desolate.
+
+(M272) Adioyning to this countrey aforesaid called Secotan beginneth a
+countrey called Pomouik, belonging to another king whom they call
+Piamacum, and this king is in league with the next king adioyning towards
+the setting of the Sunne, and the countrey Newsiok, situate vpon a goodly
+riuer called Neus: these kings haue mortall warre with Wingina king of
+Wingandacoa: but about two yeeres past there was a peace made betweene the
+King Piemacum, and the Lord of Secotan, as these men which we haue brought
+with vs to England, haue giuen vs to vnderstand: but there remaineth a
+mortall malice in the Secotanes, for many iniuries and slaughters done
+vpon them by this Piemacum. They inuited diuers men, and thirtie women of
+the best of his countrey to their towne to a feast: and when they were
+altogether merry, and praying before their Idol, (which is nothing els but
+a meer illusion of the deuill) the captaine or Lord of the town came
+suddenly vpon them, and slewe them euery one, reseruing the women and
+children: and these two haue oftentimes since perswaded vs to surprize
+Piemacum his towne, hauing promised and assured vs, that there will be
+found in it great store of commodities. But whether their perswasion be to
+the ende they may be reuenged of their enemies, or for the loue they beare
+to vs, we leaue that to the tryall hereafter.
+
+Beyond this Island called Roanoak, are maine Islands very plentifull of
+fruits and other naturall increases, together with many townes, and
+villages, along the side of the continent, some bounding vpon the Islands,
+and some stretching vp further into the land.
+
+When we first had sight of this countrey, some thought the first land we
+saw to bee the continent; but after we entred into the Hauen, we saw
+before vs another mighty long Sea: for there lyeth along the coast a
+tracte of Islands, two hundreth miles in length, adioyning to the Ocean
+sea, and betweene the Islands, two or three entrances: when you are entred
+betweene them (these Islands being very narrow for the most part, as in
+most places sixe miles broad, in some places lesse, in fewe more) then
+there appeareth another great Sea, containing in bredth in some places,
+forty, and in some fifty, in some twenty miles ouer, before you come vnto
+the continent: (M273) and in this inclosed Sea there are aboue an hundreth
+Islands of diuers bignesses, whereof one is sixteene miles long, at which
+we were, finding it a most pleasant and fertile ground, replenished with
+goodly Cedars, and diuers other sweete woods, full of Corrants, of flaxe,
+and many other notable commodities, which we at that time had no leasure
+to view. Besides this Island there are many, as I haue sayd, some of two,
+or three, of foure, of fiue miles, some more, some lesse, most beautifull
+and pleasant to behold, replenished with Deere, Conies, Hares, and diuers
+beasts, and about them the goodliest and best fish in the world, and in
+greatest abundance.
+
+Thus Sir, we haue acquainted you with the particulars of our discouery
+made this present voyage, as farre foorth as the shortnesse of the time we
+there continued would affoord vs to take viewe of: and so contenting our
+selves with this seruice at this time, which wee hope hereafter to
+inlarge, as occasion and assistance shalbe giuen, we resolued to leaue the
+countrey, and to apply ourselues to returne for England, which we did
+accordingly, and arriued safely in the West of England about the middest
+of September.
+
+And whereas wee haue aboue certified you of the countrey taken in
+possession by vs, to her Maiesties vse, and so to yours by her Maiesties
+grant, wee thought good for the better assurance thereof to record some of
+the particular Gentlemen, and men of accompt, who then were present, as
+witnesses of the same, that thereby all occasion of cauill to the title of
+the countrey, in her Maiesties behalfe may be preuented, which otherwise,
+such as like not the action may vse and pretend, whose names are:
+
+      Captains:
+      Master Philip Amadas
+      Master Arthur Barlow
+
+      Of the companie.
+      William Greeneuile,
+      Iohn Wood,
+      Iames Browewich,
+      Henry Greene,
+      Beniamin Wood,
+      Simon Ferdinando,
+      Nicholas Petman,
+      Iohn Hewes,
+
+We brought home also two of the Sauages being lustie men, whose names were
+Wanchese and Manteo.

@@ -1,0 +1,329 @@
+{
+ "nsim": 200000,
+ "gillogly_table1": {
+  "nondecreasing": {
+   "8": {
+    "observed_count": 1,
+    "permutation": {
+     "histogram": {
+      "0": 183909,
+      "1": 15429,
+      "2": 656,
+      "3": 6
+     },
+     "P_ge_observed": {
+      "p": 0.080455,
+      "se": 0.0006082022401101464,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 16091
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 180594,
+      "1": 18502,
+      "2": 875,
+      "3": 28,
+      "4": 1
+     },
+     "P_ge_observed": {
+      "p": 0.09703,
+      "se": 0.0006618730206769272,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 19406
+     }
+    },
+    "seconds": 18.2
+   },
+   "10": {
+    "observed_count": 1,
+    "permutation": {
+     "histogram": {
+      "0": 199339,
+      "1": 661
+     },
+     "P_ge_observed": {
+      "p": 0.003305,
+      "se": 0.00012833699729618113,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 661
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199103,
+      "1": 896,
+      "2": 1
+     },
+     "P_ge_observed": {
+      "p": 0.004485,
+      "se": 0.00014941360003359802,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 897
+     }
+    },
+    "seconds": 16.3
+   },
+   "11": {
+    "observed_count": 1,
+    "permutation": {
+     "histogram": {
+      "0": 199892,
+      "1": 108
+     },
+     "P_ge_observed": {
+      "p": 0.00054,
+      "se": 5.19474927210159e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 108
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199822,
+      "1": 178
+     },
+     "P_ge_observed": {
+      "p": 0.00089,
+      "se": 6.667862851019058e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 178
+     }
+    },
+    "seconds": 17.2
+   }
+  },
+  "step01": {
+   "8": {
+    "observed_count": 1,
+    "permutation": {
+     "histogram": {
+      "0": 199863,
+      "1": 137
+     },
+     "P_ge_observed": {
+      "p": 0.000685,
+      "se": 5.850345182123872e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 137
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199703,
+      "1": 297
+     },
+     "P_ge_observed": {
+      "p": 0.001485,
+      "se": 8.610443586134225e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 297
+     }
+    },
+    "seconds": 15.1
+   },
+   "10": {
+    "observed_count": 1,
+    "permutation": {
+     "histogram": {
+      "0": 199995,
+      "1": 5
+     },
+     "P_ge_observed": {
+      "p": 2.5e-05,
+      "se": 1.118020013237688e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 5
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199989,
+      "1": 11
+     },
+     "P_ge_observed": {
+      "p": 5.5e-05,
+      "se": 1.658266790959766e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 11
+     }
+    },
+    "seconds": 17.9
+   }
+  }
+ },
+ "pamphlet_encoder_key": {
+  "nondecreasing": {
+   "8": {
+    "observed_count": 3,
+    "permutation": {
+     "histogram": {
+      "0": 184964,
+      "1": 14479,
+      "2": 547,
+      "3": 9,
+      "4": 1
+     },
+     "P_ge_observed": {
+      "p": 5e-05,
+      "se": 1.5810993011193194e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 10
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 181023,
+      "1": 18063,
+      "2": 882,
+      "3": 30,
+      "4": 2
+     },
+     "P_ge_observed": {
+      "p": 0.00016,
+      "se": 2.8282008415245197e-05,
+      "upper95_if_zero": null,
+      "N": 200000,
+      "count": 32
+     }
+    },
+    "seconds": 20.1
+   },
+   "10": {
+    "observed_count": 3,
+    "permutation": {
+     "histogram": {
+      "0": 199369,
+      "1": 631
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199114,
+      "1": 884,
+      "2": 2
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "seconds": 19.3
+   },
+   "11": {
+    "observed_count": 3,
+    "permutation": {
+     "histogram": {
+      "0": 199877,
+      "1": 123
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199795,
+      "1": 205
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "seconds": 16.6
+   }
+  },
+  "step01": {
+   "8": {
+    "observed_count": 3,
+    "permutation": {
+     "histogram": {
+      "0": 199840,
+      "1": 159,
+      "2": 1
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199744,
+      "1": 256
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "seconds": 15.5
+   },
+   "10": {
+    "observed_count": 3,
+    "permutation": {
+     "histogram": {
+      "0": 199994,
+      "1": 6
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "uniform_numbers": {
+     "histogram": {
+      "0": 199990,
+      "1": 10
+     },
+     "P_ge_observed": {
+      "p": 0.0,
+      "se": 0.0,
+      "upper95_if_zero": 1.5e-05,
+      "N": 200000,
+      "count": 0
+     }
+    },
+    "seconds": 15.2
+   }
+  }
+ }
+}

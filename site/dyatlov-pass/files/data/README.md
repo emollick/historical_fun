@@ -1,0 +1,9 @@
+# data/ — sources saved verbatim (text extracted from the pages named)
+
+- burmantovo_1959-02-01_maslennikov_notes.csv — Burmantovo station readings for 1–2 Feb 1959 as copied on a loose sheet in E. Maslennikov's notebook 2, read from the scan (https://dyatlovpass.com/burmantovo-weather-february-1959; scan in code/geo/raw/maslennikov/). Not part of the criminal case file.
+- maslennikov-notebook-1/2_dyatlovpass-com.txt — Maslennikov's 1959 search notebooks, English transcription (https://dyatlovpass.com/maslennikov-notebook, /maslennikov-notebook-2).
+- borzenkov-2022-rebuttal_dyatlovpass-com.txt — V. Borzenkov's rebuttal of the Gaume–Puzrin model (https://dyatlovpass.com/borzenkov, April 2022).
+- karelin-avalanche-is-a-myth_dyatlovpass-com.txt — V. Karelin (1959 searcher) on the 2020 prosecutor's tent-trace expertise (https://dyatlovpass.com/karelin-avalanche-myth).
+- puzrin-gaume-2022-followup_dyatlovpass-com-mirror.txt — Gaume's summary of Puzrin & Gaume 2022 (Commun. Earth Environ., doi:10.1038/s43247-022-00393-x) with the site's questions and his answers (https://dyatlovpass.com/puzrin-gaume).
+- louhi-et-al-byla-li-lavina_ru.txt — Louhi, Dmitrievskaya, Litvinova, Ankudinov, «Перевал Дятлова. А была ли лавина?» (https://dyatlovpass.com/louhi-dmitrievskaya-litvinova-ankudinov-ru).
+- exhumation-2018/ — the pages used for research/zolotaryov-exhumation-2018.md (KP April–July 2018 exhumation and DNA reports incl. the Nikitin–Sazonova radio transcript of 26 April 2018, Tumanov 2018–2020, MK, URA, TASS/RIA on the Foundation's complaint, 66.ru/Interfax/RIA on the 2019–2020 prosecutors' check, dyatlovpass.com summaries and Sazonova's forum posts); one text file per page, named outlet_date_slug.txt; each holds the page title, JSON-LD article body where the site provides one, and the full html2text dump. TASS, Interfax and Gazeta copies are from the Wayback Machine.

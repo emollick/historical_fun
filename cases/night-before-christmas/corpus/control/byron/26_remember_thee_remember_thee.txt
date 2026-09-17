@@ -1,0 +1,18 @@
+title: Remember Thee! Remember Thee!
+author: George Gordon, Lord Byron
+date: c. 1809-1813
+source: https://www.gutenberg.org/ebooks/21811 (The Works of Lord Byron, Poetry vol. III, ed. E. H. Coleridge, London: John Murray, 1900)
+form: iambic tetrameter
+lines: 8
+attribution: certain
+notes: occasional piece (Poems 1809-1813)
+
+Remember thee! remember thee!
+Till Lethe quench life's burning stream
+Remorse and Shame shall cling to thee,
+And haunt thee like a feverish dream!
+
+Remember thee! Aye, doubt it not.
+Thy husband too shall think of thee:
+By neither shalt thou be forgot,
+Thou false to him, thou fiend to me!

@@ -1,0 +1,581 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>html{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Babylon or Nineveh</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{
+  --bg:#EEF0EE; --surface:#F7F8F6; --card:#F4F6F4; --quote:#E7EBE9;
+  --ink:#1B1F22; --ink2:#454D52; --muted:#6E777C; --rule:#CFD5D3; --rule-strong:#9AA3A6;
+  --accent:#1C6FA6; --babylon:#1C6FA6; --nineveh:#B8621B; --none:#7B5BA6;
+  --link:#175E8C; --focus:#B8621B;
+  --display:"Fraunces", Georgia, "Times New Roman", serif;
+  --body:"Gentium Book Plus", "Gentium Plus", Georgia, "Times New Roman", serif;
+  --ui:"IBM Plex Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15191B; --surface:#1C2124; --card:#1F2528; --quote:#232A2E;
+    --ink:#E8EAE6; --ink2:#BCC2C4; --muted:#8E979B; --rule:#343C40; --rule-strong:#5B6569;
+    --accent:#2E8BC0; --babylon:#2E8BC0; --nineveh:#D07A3A; --none:#8E76C4;
+    --link:#6FB4DC; --focus:#D07A3A;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15191B; --surface:#1C2124; --card:#1F2528; --quote:#232A2E;
+  --ink:#E8EAE6; --ink2:#BCC2C4; --muted:#8E979B; --rule:#343C40; --rule-strong:#5B6569;
+  --accent:#2E8BC0; --babylon:#2E8BC0; --nineveh:#D07A3A; --none:#8E76C4;
+  --link:#6FB4DC; --focus:#D07A3A;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55;padding-inline:16px;padding-block:0 64px}
+a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:2px}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.wrap{max-width:74ch;margin:0 auto}
+header.masthead{padding-block:40px 24px;border-bottom:1px solid var(--rule)}
+.eyebrow{font-family:var(--ui);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 14px}
+h1{font-family:var(--display);font-variation-settings:"opsz" 120;font-weight:600;font-size:clamp(38px,6vw,58px);line-height:1.02;letter-spacing:-.015em;margin:0 0 14px;text-wrap:balance}
+.dek{font-size:20px;line-height:1.4;color:var(--ink2);margin:0;max-width:62ch;text-wrap:pretty}
+h2{font-family:var(--display);font-variation-settings:"opsz" 60;font-weight:600;font-size:30px;line-height:1.15;letter-spacing:-.01em;margin:56px 0 14px;text-wrap:balance}
+h3{font-family:var(--display);font-variation-settings:"opsz" 30;font-weight:600;font-size:21px;line-height:1.25;margin:34px 0 10px;text-wrap:balance}
+p{margin:0 0 16px;text-wrap:pretty}
+ul,ol{padding-left:22px;margin:0 0 16px}
+li{margin-bottom:6px}
+.small{font-family:var(--ui);font-size:13.5px;color:var(--ink2);line-height:1.5}
+.muted{color:var(--muted)}
+hr{border:0;border-top:1px solid var(--rule);margin:40px 0}
+
+/* verdict panel */
+.verdict{margin:32px 0 0;padding:26px 26px 22px;background:var(--surface);border:1px solid var(--rule);border-top:3px solid var(--accent)}
+.verdict h2{margin:0 0 10px;font-size:24px}
+.verdict p.lead{font-size:19px;line-height:1.45}
+.bar{display:flex;gap:2px;height:30px;margin:18px 0 8px;background:var(--bg)}
+.bar .seg{height:100%;min-width:2px;position:relative}
+.bar .seg.b{background:var(--babylon)} .bar .seg.n{background:var(--nineveh)} .bar .seg.z{background:var(--none)}
+.bar .seg:first-child{border-radius:4px 0 0 4px} .bar .seg:last-child{border-radius:0 4px 4px 0}
+.keys{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;font-family:var(--ui);margin:0 0 6px}
+.keys div{border-top:2px solid var(--rule);padding-top:8px}
+.keys .k{display:flex;align-items:baseline;gap:8px}
+.keys .sw{width:10px;height:10px;border-radius:2px;flex:none;position:relative;top:0}
+.keys .sw.b{background:var(--babylon)} .keys .sw.n{background:var(--nineveh)} .keys .sw.z{background:var(--none)}
+.keys .num{font-family:var(--display);font-variation-settings:"opsz" 60;font-weight:700;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
+.keys .lab{font-size:13px;color:var(--ink2);line-height:1.35;margin-top:6px}
+.overturn{margin-top:18px;padding-top:14px;border-top:1px solid var(--rule)}
+.overturn p{margin-bottom:8px}
+
+/* contents */
+nav.toc{margin:28px 0 0;font-family:var(--ui);font-size:14px}
+nav.toc ol{columns:2;column-gap:28px;padding-left:20px;margin:6px 0 0}
+nav.toc li{break-inside:avoid;margin-bottom:4px}
+@media (max-width:560px){nav.toc ol{columns:1}.keys{grid-template-columns:1fr}.keys div{border-top:1px solid var(--rule)}}
+
+/* source cards */
+.src{margin:22px 0;background:var(--card);border:1px solid var(--rule);padding:18px 20px 14px}
+.src .tag{font-family:var(--ui);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px;display:flex;gap:10px;flex-wrap:wrap}
+.src .tag b{color:var(--ink2);font-weight:600;letter-spacing:.06em}
+.src .orig{font-size:16px;line-height:1.55;margin:0 0 10px;padding:12px 14px;background:var(--quote);border-left:3px solid var(--rule-strong)}
+.src .orig .tl{font-style:italic}
+.src .orig .ln{font-family:var(--ui);font-style:normal;font-size:11.5px;color:var(--muted);margin-right:6px}
+.src .tr{margin:0 0 10px;font-size:16.5px}
+.src .note{font-family:var(--ui);font-size:13.5px;color:var(--ink2);line-height:1.5;margin:0}
+.src .note b{color:var(--ink);font-weight:600}
+.gk{font-family:var(--body)}
+
+/* tables */
+.tblwrap{overflow-x:auto;margin:18px 0 22px}
+table{border-collapse:collapse;width:100%;font-family:var(--ui);font-size:13.5px;line-height:1.4}
+th,td{text-align:left;vertical-align:top;padding:9px 10px;border-bottom:1px solid var(--rule)}
+th{font-weight:600;color:var(--ink2);font-size:12.5px;letter-spacing:.04em;text-transform:uppercase;border-bottom:1px solid var(--rule-strong)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.total td{font-weight:600;border-top:2px solid var(--rule-strong)}
+td .c{font-family:var(--body);font-size:15px;color:var(--ink)}
+
+/* callouts */
+.aside{margin:22px 0;padding:14px 18px;border-left:3px solid var(--accent);background:var(--surface)}
+.aside p:last-child{margin-bottom:0}
+.counter{border-left-color:var(--nineveh)}
+.pre{font-family:var(--ui);font-size:13px;white-space:pre-wrap;background:var(--quote);padding:12px 14px;overflow-x:auto;margin:0 0 16px;line-height:1.45}
+figure{margin:18px 0 22px}
+figcaption{font-family:var(--ui);font-size:13px;color:var(--muted);margin-top:8px}
+details{margin:0 0 16px}
+.revnote{margin:22px 0 0;padding:12px 16px;border-left:3px solid var(--nineveh);background:color-mix(in srgb,var(--nineveh) 7%,var(--bg))}
+.revnote p{margin:0}
+ol.dalley{padding-left:1.4em}
+ol.dalley li{margin:0 0 10px}
+.codewrap{overflow-x:auto;margin:10px 0 0}
+pre.code{margin:0;padding:14px 16px;font-family:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;font-size:12.5px;line-height:1.45;color:var(--ink);background:color-mix(in srgb,var(--ink) 6%,var(--bg));border-radius:4px;white-space:pre}
+summary{cursor:pointer;font-family:var(--ui);font-size:14px;color:var(--ink2)}
+.biblio li{margin-bottom:8px;font-size:15.5px}
+footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--rule);font-family:var(--ui);font-size:13px;color:var(--muted)}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div id="mm-nav" style="font:14px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif;padding:9px 16px;background:#1B2026;color:#E6E8E3;display:flex;flex-wrap:wrap;gap:6px 22px"><a href="./" style="color:#E6E8E3;text-decoration:none">&larr; Case page: The Hanging Gardens</a><a href="../" style="color:#E6E8E3;text-decoration:none">Historical Mysteries</a><span style="opacity:.7">Full report · 14 September 2026</span><span style="opacity:.7;flex-basis:100%">Researched and written by Claude, an AI system, from the sources each case cites. Claude also drew the maps and charts marked &quot;made for this report&quot; from the data named in their captions.</span></div>
+<div class="wrap">
+<header class="masthead">
+  <p class="eyebrow">The Hanging Gardens</p>
+  <h1>Babylon or Nineveh</h1>
+  <p class="dek">Ancient writers counted a terraced garden at Babylon among the seven wonders of the world. It has never been found, and one scholar argues that it stood at Nineveh, the Assyrian capital on the Tigris, three hundred miles to the north. This report reads the kings' own inscriptions, the Greek and Latin descriptions and the excavation reports in the standard editions and weighs the three answers.</p>
+</header>
+
+<h2 id="mystery" style="margin-top:36px">The mystery</h2>
+<p>The story, as Greek writers told it, runs like this. A king of Babylon, the great city on the Euphrates in what is now southern Iraq, had married a woman from the mountains of Media, in the north-west of modern Iran. In the flat river country she pined for hills, so the king built her an artificial mountain beside the palace. He raised stone terraces on brick vaults, one above another like the tiers of a theatre, covered them with earth deep enough for full-grown trees, and planted them so that the whole rose like a wooded hillside. Water reached the top from the river through machinery hidden inside the structure, and no one outside could see how the garden was fed. By the first century BC Greek writers counted it among the seven wonders of the world.</p>
+<p>Five ancient descriptions survive. None of their authors writes as someone who had seen the garden, and they do not agree about who built it. The earliest is Berossus, a priest of Babylon who wrote a history of his country in Greek about 290 BC and whose words survive only in quotation by later writers. He names Nebuchadnezzar II, king of Babylon from 605 to 562 BC, who rebuilt the city and who appears in the Bible as the destroyer of Jerusalem. Two later writers say only that "a Syrian king", meaning an Assyrian one, built it while he ruled at Babylon. The other two name no builder, and the latest of them names no city either.</p>
+<p>The garden has never been found. Robert Koldewey, the German archaeologist who excavated Babylon from 1899 to 1917, believed he had found it in a block of vaulted rooms inside the palace, and the rooms turned out to be a storage basement; no later excavation has produced a garden. No cuneiform text from Babylon mentions one (cuneiform is the wedge-shaped script of ancient Mesopotamia, the land between the Tigris and the Euphrates, pressed into clay), and Herodotus, the Greek historian who described the city at length about 430 BC, says nothing of it. Of the seven wonders it is the only one whose site is unknown.</p>
+
+<h3>Why it is a mystery</h3>
+<p>Three answers have been given. The traditional one keeps the garden at Babylon and gives it to Nebuchadnezzar, whose own inscriptions describe a new palace, the North Palace, built on terraces "as high as a mountain" beside his father's. On this view the garden was a planted terrace of that palace, which the writers who made it a wonder exaggerated. Many specialists hold some version of this.</p>
+<p>The second answer moves the garden three hundred miles north. Since 1993 Stephanie Dalley, an Assyriologist at the University of Oxford (Assyriology is the study of the cuneiform texts of Mesopotamia), has argued that the Greeks had the wrong city. The garden, she says, was built by Sennacherib, king of Assyria from 705 to 681 BC, beside his palace at Nineveh, the Assyrian capital on the Tigris near the modern city of Mosul, a century before Nebuchadnezzar. Sennacherib's own inscriptions describe a garden beside the palace and a bronze device for raising water, which Dalley reads as a water screw, the spiral pump that the Greeks credited to Archimedes of Syracuse four centuries later. His canals and aqueducts, parts of which still stand, brought water towards Nineveh, and two carved stone panels (reliefs) from the palaces there show a garden. The Greeks, she argues, confused Assyria with Babylonia, a confusion their own texts show elsewhere (section 4), and moved the garden to the wrong river. Some specialists accept the identification. If she is right, the water screw was invented in Assyria four hundred years before Archimedes.</p>
+<p>The third answer is that no single garden lies behind the story. On this view Greek writers combined the general idea of a Mesopotamian royal park, the terraced palace at Babylon and their own interest in hidden machinery into a wonder that nobody had measured. Several historians of Babylon hold something close to this.</p>
+
+<h3>How the case was judged</h3>
+<p>The evidence is of three kinds, and all of it is in print. The first is what the kings themselves wrote: the clay prisms on which Sennacherib's scribes recorded his building at Nineveh (a prism is a six- or eight-sided block of clay inscribed on every face), and the inscriptions in which Nebuchadnezzar describes his palace at Babylon. Both are published in standard editions that give the cuneiform text and a translation. The second is the five Greek and Latin descriptions, quoted below in the original languages with published translations. The third is what excavation has found at both cities, together with the two Nineveh reliefs and the surveys of Sennacherib's canals. The published arguments on both sides were read, with one limit stated in section 8: Dalley's principal article of 1994 and her book of 2013 could be read only in part.</p>
+<p>The method has two steps. Each passage was read in its edition and compared with what Dalley and her critics say it means. Then the evidence was sorted into seven groups, and each group was given a probability under each of the three answers, so that the weighing is written down and anyone can change it. Starting the three answers level, the arithmetic gives Babylon about 57%, no single structure 38% and Nineveh 5%. Three of the seven groups turn on readings that specialists dispute, so the headline below lifts Nineveh to 10% and puts Babylon at 55% and no single structure at 35%. These figures are judgements expressed as numbers. They depend on the weights chosen, and section 5 shows how far they move when the weights change.</p>
+
+<section class="verdict" id="verdict" aria-labelledby="verdict-h">
+  <h2 id="verdict-h">The argument</h2>
+  <p class="lead">The garden was, more likely than not, a real raised garden at Babylon: the terraced North Palace that Nebuchadnezzar says he built "as high as a mountain", exaggerated by later writers. Every ancient witness who names a city names Babylon. Berossus places the garden in that palace, in a paragraph that follows Nebuchadnezzar's own inscription item by item. And the one cuneiform text that describes Sennacherib's garden speaks of water drawn by bucket and says nothing of terraces. Sennacherib's garden at Nineveh is real and well documented, and it is the closest ancestor of what the Greeks describe, but the evidence does not support Dalley's claim that it is the garden they described.</p>
+  <div class="bar" role="img" aria-label="Probabilities: Babylon 55 percent, no single structure 35 percent, Nineveh 10 percent">
+    <div class="seg b" style="width:55%" title="Babylon: 55%"></div>
+    <div class="seg z" style="width:35%" title="No single structure: 35%"></div>
+    <div class="seg n" style="width:10%" title="Nineveh: 10%"></div>
+  </div>
+  <div class="keys">
+    <div><div class="k"><span class="sw b"></span><span class="num">55%</span></div><div class="lab"><b>Babylon.</b> A real raised palace garden behind the tradition, most plausibly Nebuchadnezzar's North Palace; a garden of the Persian period (539 to 331 BC, when Persian kings ruled Babylon) on the same spot would also count.</div></div>
+    <div><div class="k"><span class="sw z"></span><span class="num">35%</span></div><div class="lab"><b>No single structure.</b> A literary construct: generic royal-garden imagery, a Babylonian palace terrace and the engineering fantasy of the Hellenistic age (the Greek-ruled centuries after Alexander the Great), with no one garden behind it.</div></div>
+    <div><div class="k"><span class="sw n"></span><span class="num">10%</span></div><div class="lab"><b>Nineveh.</b> Dalley's thesis: Sennacherib's garden, relocated to Babylon by confusion in the Greek tradition.</div></div>
+  </div>
+  <p class="small muted" style="margin:0 0 12px">Figure 1. How the probability divides between the three hypotheses. Made for this report from the weighing in section 5.</p>
+  <p class="small">Babylon is the probable answer: the evidence clearly favours it over the other two but does not prove it, and the percentage moves when the same evidence is weighed differently. The weighing in section 5 gives Babylon 57%, no single structure 38%, Nineveh 5%; the headline lifts Nineveh to 10% for the reason given above. This report is a reading of the sources by non-specialists. No Assyriologist has reviewed it.</p>
+  <div class="overturn">
+    <p><b>What would overturn it.</b> For Nineveh: a Neo-Assyrian text (one from the Assyrian empire of the ninth to seventh centuries BC) calling Nineveh "Babylon", or a Greek text placing a wonder-garden at Nineveh; a witness to Berossus without the garden sentence; an Assyrian water screw found, depicted or named by a word whose meaning is secure; a Nineveh text or relief showing the garden on vaulted tiers. For Babylon to become near-certain: excavation of the North Palace's northern slopes and riverside producing tree pits, garden soil or a planted terrace with water channels, or a cuneiform text naming a garden on the "new palace".</p>
+  </div>
+</section>
+
+<h2 id="plan">What this report covers</h2>
+<p>Section 1 sets out Dalley's argument and the editions used to test it. Section 2 reads the passage of Sennacherib's inscriptions on which it rests, then the water-lifting device, the canals and the two reliefs. Section 3 reads what Nebuchadnezzar says of his palace and what Koldewey found at Babylon. Section 4 quotes the Greek and Latin descriptions in the original and traces how they reached us. Section 5 weighs the evidence in a table that anyone can rerun. Section 6 states Dalley's case in her own words and answers it at the three points where it fails. Section 7 says what here is new and what agrees with earlier work. Section 8 lists the sources and says where this report falls short.</p>
+
+<nav class="toc" aria-label="Contents">
+  <b>Contents</b>
+  <ol>
+    <li><a href="#question">Dalley's case</a></li>
+    <li><a href="#assyrian">What Sennacherib says</a></li>
+    <li><a href="#babylon">What Babylon offers</a></li>
+    <li><a href="#classical">The Greek and Latin witnesses</a></li>
+    <li><a href="#weighing">Weighing the evidence</a></li>
+    <li><a href="#counter">Dalley's case in her own words</a></li>
+    <li><a href="#new">What this report adds</a></li>
+    <li><a href="#sources">Sources and limits</a></li>
+  </ol>
+</nav>
+
+<h2 id="question">1. Dalley's case</h2>
+<p>The Greeks called it the <span class="gk">κρεμαστὸς κῆπος</span>, the Romans the <i>horti pensiles</i>, the "hanging garden". The five descriptions are: Berossus, as quoted by Josephus, the Jewish historian who wrote in Greek at Rome about AD 95, with a one-line parallel in Abydenus, a Greek writer on Assyrian history of about the second century AD; Diodorus Siculus, a Greek historian of the first century BC (2.10, that is, book 2, chapter 10; ancient works are cited by book and chapter throughout); Strabo, the Greek geographer writing about AD 20 (16.1.5); Quintus Curtius Rufus, a Roman historian of Alexander the Great writing in the first century AD (5.1.31–35); and a short treatise on the seven wonders that circulates under the name of Philo of Byzantium, a Greek engineer of the third century BC, though the treatise itself was written between the fourth and sixth centuries AD. Four of the five put the garden in Babylon. Philo, the latest, names no city, king or river.</p>
+<p>Dalley's answer, argued from 1993 to her 2013 book <i>The Mystery of the Hanging Garden of Babylon</i>, is that the garden was Sennacherib's, laid out beside his "Palace Without a Rival" at Nineveh around 700 BC. Her argument runs like this. Sennacherib's prisms describe a garden "a replica of Mount Amanus" (a mountain range in what is now southern Turkey) next to the palace, made "a wonder for all peoples" and watered by a bronze device that she reads as an Archimedean screw. The stone aqueduct at Jerwan and the canal head at Khinnis, both in the hills north-east of Nineveh, are its water supply. Two reliefs from Nineveh show the garden. The classical descriptions (screws in Strabo and Philo, a "Syrian" builder in Diodorus and Curtius, a terrace shaped like a theatre) fit Nineveh better than Babylon. And Greek writers confused Nineveh with Babylon, a confusion she thinks was helped by Nineveh being known as "old Babylon" after Sennacherib destroyed Babylon in 689 BC. Section 6 gives the case in her own words.</p>
+<p>The question can be worked from published texts. Sennacherib's inscriptions are edited in the Royal Inscriptions of the Neo-Assyrian Period, volume 3 (RINAP 3, by A. Kirk Grayson and Jamie Novotny, 2012–2014), and Nebuchadnezzar's Babylon inscriptions in the Royal Inscriptions of the Neo-Babylonian Empire, volume 1, part 1 (RINBE 1/1, by Jamie Novotny and Frauke Weiershäuser, 2024); "Neo-Babylonian" names the Babylonian empire of 626 to 539 BC. The reliefs are catalogued, the classical passages are short, and Olof Pedersén of Uppsala University has synthesised the archaeology of Babylon in a 2021 book. What follows reads the primary texts in those editions, in the original languages, and the published argument on both sides.</p>
+
+<h2 id="assyrian">2. What Sennacherib says</h2>
+<p>Dalley's case rests on a passage in the prisms of 694 BC (column vii, lines 45–57, of text no. 17 in RINAP 3/1; the same text, with small variants, in the undated Bull Inscription, no. 46, carved on the colossal stone bulls that guarded the palace doors). It comes at the end of a long account of the palace, just after the carved wall slabs and just before the garden. Here is the transliteration (the cuneiform rendered sign by sign in the Latin alphabet; capitals mark signs that stand for whole words) with the Grayson–Novotny translation as published.</p>
+
+<div class="src">
+  <p class="tag"><b>RINAP 3/1 Sennacherib 17, col. vii 45–57</b><span>694 BC · Nineveh · edition of A. K. Grayson and J. Novotny, 2012</span></p>
+  <p class="orig"><span class="ln">vii 45</span><span class="tl">áš-šú u₄-me-šam-ma A.MEŠ di-lu-ti</span><br><span class="ln">46</span><span class="tl">da-lum eb-li gu-ḫaṣ-ṣa-a-te ZABAR</span><br><span class="ln">47</span><span class="tl">u ḫar-ḫa-ri ZABAR ú-še-piš-ma</span><br><span class="ln">48</span><span class="tl">ki-mu-ú ma-ka-a-te giš-maḫ-ḫi ù a-la-mit-ta URUDU</span><br><span class="ln">49</span><span class="tl">ṣe-er PÚ.MEŠ uš-ziz É.GAL.MEŠ šá-ti-na ú-šá-lik as-mì-iš</span><br><span class="ln">50</span><span class="tl">si-ḫir-ti É.GAL a-na tab-rat kiš-šat UN.MEŠ</span><br><span class="ln">51</span><span class="tl">ul-la-a re-ši-šá É.GAL šá-ni-na la i-šu-u</span><br><span class="ln">52</span><span class="tl">ni-bit-sa az-kur</span><br><span class="ln">53</span><span class="tl">GIŠ.KIRI₆.MAḪ-ḫu tam-šil KUR.ḫa-ma-nim</span><br><span class="ln">54</span><span class="tl">ša gi-mir ŠIM.ḪI.A GURUN ṣip-pa-a-te</span><br><span class="ln">55</span><span class="tl">GIŠ.MEŠ tuk-lat KUR-i ù KUR.kal-di</span><br><span class="ln">56</span><span class="tl">a-di GIŠ.MEŠ na-áš SÍG.ḪI.A</span><br><span class="ln">57</span><span class="tl">qé-reb-šú ḫur-ru-šu i-ta-a-šá az-qu-up</span></p>
+  <p class="tr">"In order to be able to draw water by bucket every day, I had bronze wire chains and bronze cables made and, instead of poles, I had tree trunks and date palm(s) of copper placed over wells. I made those palatial halls beautiful. To be an object of wonder for all of the people, I raised the superstructure of the entire palace. I called it 'The Palace Without a Rival.' I planted alongside it (the palace) a botanical garden, a replica of Mount Amanus, which has all kinds of aromatic plants (and) fruit trees, trees that are the mainstay of the mountains and Chaldea, together with cotton trees (lit. 'trees bearing wool'), collected inside it."</p>
+  <p class="note"><b>Checked against:</b> the ORACC edition of the text (ORACC is the Open Richly Annotated Cuneiform Corpus, where the volume is published online; <a href="https://web.archive.org/web/2022id_/http://oracc.museum.upenn.edu/rinap/rinap3/Q003491/">archived copy</a>; canonical <a href="http://oracc.org/rinap/Q003491/">oracc.org/rinap/Q003491</a>). Dalley's own rendering of the same lines, from her 2003 article with John Peter Oleson, a historian of ancient technology (Dalley and Oleson 2003, 7–8): "In order to draw water up all day long I had ropes, bronze wires and bronze chains made, and instead of shadufs I set up the great cylinders and <i>alamittu</i> palms over cisterns. I made those royal lodges look just right. I raised the height of the surroundings of the palace to be a Wonder for all Peoples." A shaduf is a counterweighted pole with a bucket on a rope, the ordinary well-sweep of the Near East.</p>
+</div>
+
+<p>Three things follow from the passage before any argument about screws.</p>
+<p><b>The garden is beside the palace, and nothing is said of terraces.</b> <i>itâša azqup</i>, "I planted alongside it", is the whole of its topography. Sennacherib records the dimensions of his palace terrace to the cubit (about half a metre; no. 16 vi 25–33) and the depth of his wall foundations, and he never mentions vaults, tiers, a substructure or a raised garden. The word Dalley translates "high garden", <i>kirimāḫu</i> (GIŠ.KIRI₆.MAḪ), is literally "great garden", and her own book concedes that "great" here means important rather than large. So the only Assyrian description of the Nineveh garden does not mention the raised terraces from which the classical garden took its name.</p>
+<p><b>"A wonder for all peoples" is said of the palace, not of the garden.</b> The clause <i>ana tabrāt kiššat nišī</i> governs "I raised the superstructure of the entire palace" (vii 50–51), on the editors' reading of <i>siḫirti ekalli</i> as "the entire palace". The Chicago Assyrian Dictionary (CAD), the standard dictionary of Akkadian, the language of Assyria and Babylonia, files this line under <i>siḫirtu</i> "entirety" ("I built the entire palace to a height to be admired by all people", CAD S 236). Dalley renders it "the surroundings of the palace" (2013, 63), taking the word in its other sense, "circumference, around" (CAD S 235), on which the wonder would take in the garden. Both senses occur in Sennacherib's inscriptions, so this is a reading, held by the dictionary and the editors, rather than a fact of the text. The same formula is used of the palace in the Taylor and Chicago prisms, six-sided prisms now in the British Museum and in Chicago (no. 22 vi 36–38: "I had completed the palace in the citadel of Nineveh … and had filled it with luxuriousness to be an object of wonder for all of the people"), of the sculptured wall slabs in the earliest version of the text (no. 1: 86, 702 BC), and of Sennacherib's roofs (no. 17 vi 37). It is a stock phrase of Assyrian palace rhetoric. Nebuchadnezzar uses the same idiom of his own palace, whose ceremonial name the Assyriologist Andrew George reads as "House (That Was) an Object of Wonder for the People" (<i>bīt tabrâti nišī</i>, RINBE 1/1 Nbk. 2 vii 36). Dalley's equation of <i>tabrītu</i> with the Greek <span class="gk">θέαμα</span>, "a sight", the word from which the seven "sights" or wonders take their name, is fair as a translation and says nothing about which building the Greeks had in mind.</p>
+<p><b>"A replica of Mount Amanus" is a formula used by three kings of the same dynasty.</b> Sargon II, Sennacherib's father, king of Assyria from 721 to 705 BC, used it of the park at Dur-Šarrukin, the capital he built at modern Khorsabad (Khorsabad Cylinder: "A park like unto Mount Amanus, in which were set out every tree of the Hittite-land, the plants of every mountain, I laid out by its side", in Daniel Luckenbill's translation, <i>Ancient Records of Assyria and Babylonia</i> (ARAB) II §119). Sennacherib repeats it in every version of his palace account from 702 BC on (no. 1: 87). Esarhaddon, Sennacherib's son, king from 680 to 669 BC, reuses it word for word of the garden beside his own new palace at Nineveh in 672 BC (RINAP 4 no. 1 vi 30–34: "I planted alongside it (the palace) a botanical garden, a replica of Mount Amanus, with all kinds of aromatic plants and fruit trees … I led a canal into it as a watering place for horses and I made it murmur like an irrigation ditch"). The phrase was used by three kings of three palace gardens. The motif connects Berossus' Median wife who "longed for mountains" to Assyrian garden ideology in general rather than to Sennacherib in particular.</p>
+
+<h3>The water-lifting device</h3>
+<p>Dalley reads line vii 48 as the two components of a screw pump: <i>gišmaḫḫu</i> (GIŠ.MAḪ, "great tree") as the cylinder, on the strength of its use for "cylinder" in Babylonian mathematical problem texts, and <i>alamittu</i>, a kind of palm, as the spiral, because Mesopotamian temple façades render a palm trunk as a spiral column. Cast in bronze, the two would make an Archimedean screw. Neither the dictionaries nor the editors have accepted the reading. The Chicago Assyrian Dictionary, which had the passage before it, translates "I placed (trunks of) giant trees and date palms (i.e., imported trunks) over the wells in place of the (usual) poles" and comments that the Sennacherib references identify <i>alamittu</i> "with the date palm, but it is its quality as timber that is emphasized" (CAD A/1, 335). It takes <i>makûtu</i>, the thing replaced, as "pole of the šadûf (waterlift)" (CAD M/1, 143), so Dalley's "instead of shadufs" is defensible; what replaced the shaduf poles were cast-metal palm trunks. RINAP 3/1 renders "tree trunks and date palm(s) of copper", and its note 49 calls the screw identification "conjectural", citing the objections of Ariel Bagg, the historian of Assyrian water engineering (Bagg 2000, 201–207, 277–279). Timothy Potts, an archaeologist of the ancient Near East, reviewing Dalley's book in the <i>New York Review of Books</i>, added the point that <i>alamittu</i> "appears in lexical lists only in the section on date palms; and this sense reasserts itself earlier in Sennacherib's text where it is followed by the epithet 'tree of riches'" (Potts 2013, n. 15; the lexical lists are the ancient scribal word lists that group terms by kind).</p>
+<p>The text supports the dictionaries. The purpose clause is <i>mê dilûti</i>, "water drawn by bucket". The equipment is rope, bronze wire chains and cables, which belong to a bucket lift and not to a screw. The two nouns of vii 48 are the same objects that the casting passage lists first among the things Sennacherib moulded in clay and cast in copper, alongside twelve lions, twelve bull colossi and twenty-two sphinxes (vii 9–19); they are sculptural castings. And the wells serve "those palatial halls", not the garden. The article in which Dalley published the screw reading, written with Oleson, itself allows that "neither the inscription nor the visual evidence prove the existence of the water screw in the seventh century B.C.", calls the crank drive she had proposed "almost certainly wrong", since the true crank was unknown before the second century BC, and grants that the screws in Strabo "might even have been retrofitted at the gardens after their invention by Archimedes" (Dalley and Oleson 2003, 14). The most that can be said is that Sennacherib installed a novel, decorative, cast-copper frame for lifting water by bucket from wells in the palace.</p>
+
+<h3>Where the water went</h3>
+<p>Sennacherib's canals are real, and they are the part of Dalley's case that survives best as archaeology. The Kisiri canal of 702 BC ran "from the border of the city Kisiri to the plain of Nineveh … for a distance of one and a half leagues from the Ḫusur River" (no. 1: 89–90); the Ḫusur, today the Khosr, is the stream that runs through Nineveh into the Tigris. In 694 the springs of Mount Muṣri, in the hills north-east of the city, were added. In 690 the inscription cut into the rock at Bavian, at the head of the system, records eighteen canals joined to the Khosr and the canal from the river Gomel at Khinnis, carried over the Jerwan valley on a stone aqueduct 280 m long and 22 m wide, whose blocks bear the text "I caused a canal to be dug to the meadows of Nineveh. Over deep-cut ravines I spanned a bridge of white stone blocks. Those waters I caused to pass over upon it" (Jacobsen and Lloyd 1935, 19–23, the report of Thorkild Jacobsen and Seton Lloyd, who excavated the aqueduct in the 1930s). The landscape archaeologist Jason Ur's study of satellite imagery (2005) and the fieldwork of Daniele Morandi Bonacossi of the University of Udine since 2012 have mapped the whole system, most recently the reliefs on the Faida canal.</p>
+<p>But every text delivers the water to the <i>tamirtu</i>, the irrigated plain and meadows of Nineveh, to orchards "upstream and downstream of the city" and to the citizens' fields. None claims to bring water onto Kuyunjik, the citadel mound on which the palaces stood, some twenty metres above the plain, and the bucket-and-wells passage shows why: at palace level the water had to be lifted. Esarhaddon's garden a generation later was watered by an open canal at ground level. The aqueduct on arches in the relief of Ashurbanipal, Sennacherib's grandson, king of Assyria from 668 until about 630 BC (British Museum 124939), is a real Assyrian type, like Jerwan on a smaller scale. It is not evidence that a garden stood on vaults.</p>
+
+<h3>The reliefs and the "second Babylon"</h3>
+<p>Two Nineveh images almost certainly show the palace gardens: the slab from Room H of Ashurbanipal's North Palace at Nineveh, a different building from Nebuchadnezzar's North Palace at Babylon (BM 124939, c. 645 BC), with a tree-planted hillside, a pillared pavilion, a royal stele (an inscribed standing stone) and an aqueduct on arches with channels running down through the garden; and a drawing by Austen Henry Layard, who excavated Nineveh in the 1840s, of a lost slab from Sennacherib's own South-West Palace (Original Drawing IV 77, the sheet number in the British Museum's set of Layard's drawings), which shows a pillared walkway with trees growing on its roof. Potts calls the identification "for the most part not in dispute", and this report accepts it. What they show, though, is a natural-looking slope watered from above, and a roofed colonnade, not tiers of vaulted galleries: "the arches probably represent a stone aqueduct, as still visible at Jerwan, rather than a garden terrace" (Julian Reade of the British Museum, Reade 2000, 197). Dalley's reconstruction drawing of 2002 added the theatre shape and the pillared terraces that the relief does not contain (Bichler and Rollinger 2005, 183 n. 147; Reinhold Bichler and Robert Rollinger are ancient historians at Innsbruck whose 2005 article examines Dalley's thesis at length).</p>
+<p>The "second Babylon" argument has less support. No Neo-Assyrian text calls Nineveh "Babylon". After Sennacherib destroyed Babylon in 689 BC he moved Babylonian rites north, gave the Babylonian creation epic an Assyrian version and built a new house for the akītu, the New Year festival, but these transfers substitute Assur, the old religious capital of Assyria, for Babylon, not Nineveh. Arbela in Assyria, Tarsus on the south coast of modern Turkey and Borsippa in Babylonia are called "likeness of Babylon" or "second Babylon" in various sources; Nineveh never is (Dalley 2008 collects the material and finds no Nineveh attestation). Her one positive witness for "old Babylon" is a latitude figure in an Arabic astronomical treatise of Azarqiel of Toledo, about AD 1070 (Bichler and Rollinger 2005, 179–181). And after Nineveh fell to the Medes and Babylonians in 612 BC there was no garden to visit. Xenophon, the Athenian soldier who marched past the site with a Greek army in 401 BC, recorded "a great stronghold, deserted and lying in ruins … Mespila … once inhabited by the Medes" (<i>Anabasis</i> 3.4.10–12). By the time the list of wonders was drawn up, the Greeks no longer knew the site's name.</p>
+
+<h2 id="babylon">3. What Babylon offers</h2>
+<p>No Babylonian royal inscription mentions the garden. The 2024 edition confirms this for the whole dynasty: no inscription of Nebuchadnezzar II from Babylon contains the word for garden (GIŠ.KIRI₆), and the two occurrences of <i>kirû</i>, "garden, orchard", in the entire Neo-Babylonian royal corpus are the orchards of Nabonidus, the last king of Babylon (556 to 539 BC), at the southern city of Ur, and fruit in a funerary offering. The editors of RINBE 1/1, commenting on the North Palace passage, write: "The creation of a garden is not mentioned in this inscription, nor in any other extant text of Nebuchadnezzar" (Novotny and Weiershäuser 2024, 94). Neo-Babylonian building inscriptions are, though, silent about gardens as a genre; they enumerate temples, walls, quays and palaces. The silence is what the genre leads one to expect, and Assyrian kings are the exception in describing their parks.</p>
+<p>What Nebuchadnezzar does describe is a palace built on terraces to a great height, and it is the palace Berossus names.</p>
+
+<div class="src">
+  <p class="tag"><b>RINBE 1/1 Nebuchadnezzar II 2 (East India House inscription), col. viii 42–ix 2</b><span>c. 600–580 BC · Babylon · edition of J. Novotny and F. Weiershäuser, 2024</span></p>
+  <p class="orig"><span class="tl">BÀD ša-da-ni-iš e-pú-uš-ma i-na bé-e-ri-šu-un pí-ti-iq a-gur-ri e-ep-ti-iq-ma i-na re-e-ši-šu ku-um-mu ra-ba-a a-na šu-ba-at šar-ru-ti-ia i-na ku-up-ri ù a-gur-ri ša-qí-iš e-pú-uš-ma it-ti É.GAL AD ú-ra-ad-di-ma … re-e-ši-ša ú-za-aq-qí-ir ḫu-úr-sa-ni-iš i-na 15 u₄-um ši-pí-ir-ša ú-ša-ak-li-il-ma ú-ša-pa-a šu-bat be-lu-ti</span></p>
+  <p class="tr">"… (two strong embankments) wall(s that were) as (solid as) a mountain. I fashioned a baked brick structure between them and, on top of it, I built to a great height a large <i>kummu</i>-building as the residence of my royal majesty using bitumen and baked brick. I added (it) to the palace of my father … I secured its foundation on the surface of the netherworld and raised its superstructure as high as a mountain. I completed its construction in (just) fifteen days and made the seat of my lordly majesty resplendent."</p>
+  <p class="note"><b>The inscription</b> is on a stone slab from Babylon given to the East India Company in London in 1803 and now in the British Museum; <i>kummu</i> is a word for a residential building that the editors leave untranslated. <b>The earlier phase of the same terrace</b> (Nebuchadnezzar II text no. 21 in the same edition, ii 33–35) calls it <span class="tl">ku-um-mu ge-gu-na-a-tim ra-ba-a-tim</span>, "a <i>kummu</i>-building (made) of large <i>gigunû</i>s", using the word for the stepped terraces of a temple tower (a ziggurat). The Chicago Assyrian Dictionary noted in 1956 that "this unique instance of a secular use of the <i>g.</i> could well have been interpreted as a 'hanging garden' especially if these <i>g.</i>'s were decorated with trees, an assumption for which, however, there is no evidence" (CAD G, 70). Text: <a href="https://epub.ub.uni-muenchen.de/118421/1/RINBE1-1_OA.pdf">RINBE 1/1, open access</a>.</p>
+</div>
+
+<p>Berossus' paragraph on Nebuchadnezzar tracks this inscription item by item: the triple walls, the gates, "another palace adjoining his father's", finished "in fifteen days", and then the stone terraces "made to look like mountains" planted with trees. The "fifteen days" is Nebuchadnezzar's own boast (RINBE 1/1 reads it as half an ideal month). The "high as a mountain" is his own simile, used twice. Rollinger (2013) argued that Greek <span class="gk">κρεμαστός</span>, "hanging", is the Greek rendering of exactly this phrase, and Pedersén concludes that "a simple reading of the text would be that he placed what was called the 'Hanging Gardens' in the North Palace" (2021, 124). The North Palace terrace stood about 15 m above the plain, with a 13 m-wide canal running through the complex and stone inlet grids under the terrace; Diodorus' four plethra square (a plethron is about 30 m) "is not so far from the size of the part of the terrace with the main building of the North Palace" (Pedersén 2021, 121–124). A Babylonian tablet of the Persian period lists gardeners (<i>nukaribbu</i>) and water-drawers (<i>dālû</i>) assigned to the "new palace" (a tablet published by Kathleen Abraham, 2004 no. 18, as reported by Pedersén 2021, 121). So in the Persian period the new palace had a garden, gardeners and water-drawers, whether or not it was the garden the Greeks described.</p>
+<p>Koldewey's identification was the first, and it failed. He placed the hanging garden in a block of fourteen vaulted cells in the north-east corner of the Southern Palace, the main palace begun by Nebuchadnezzar's father, because it was the one place with worked stone and had an odd three-shafted well that he read as a chain pump. He hedged even then: the identification "when studied in detail bristles with difficulties"; "according to Berosus, the hanging gardens must have been on the Kasr [the palace mound] … The Principal Citadel [the North Palace] may also be taken into consideration"; and Strabo's four plethra "is exactly four times its actual measurement" (Koldewey 1914, 95–98). The cells turned out to be a storage half-basement of 500–600 m² per floor, holding the ration archive of 303 tablets that names Jehoiachin, the king of Judah deported to Babylon in 597 BC, and the limestone is the paving of the Processional Way, the ceremonial street that ran past the palace (Pedersén 2021, 101–102; 2025). The identification has no defenders in the current literature. The alternatives (the Western Outwork, a massive riverside structure west of the Southern Palace, favoured by the British Assyriologist Donald Wiseman and by Reade; the North Palace, favoured by Rollinger, the Leipzig Assyriologist Michael Streck and Pedersén) all lie in ground that is denuded, robbed of its bricks and largely unexcavated. So the absence of a garden in the excavated parts of Babylon says nothing about the unexcavated parts.</p>
+
+<h2 id="classical">4. The Greek and Latin witnesses</h2>
+<p>Read in the original, the texts are more specific about place, and less specific about builder, than secondary accounts generally report. Translations are from the Loeb Classical Library, the standard series with Greek or Latin facing English, unless another translator is named.</p>
+
+<div class="src">
+  <p class="tag"><b>Berossus, <i>Babyloniaca</i> 3 (BNJ 680 F 8), in Josephus, <i>Against Apion</i> 1.141</b><span>Berossus c. 290 BC · Josephus c. AD 95 · Greek text: edition of Niese</span></p>
+  <p class="orig gk">ἐν δὲ τοῖς βασιλείοις τούτοις ἀναλήμματα λίθινα ὑψηλὰ ἀνοικοδομήσας καὶ τὴν ὄψιν ἀποδοὺς ὁμοιοτάτην τοῖς ὄρεσι, καταφυτεύσας δένδρεσι παντοδαποῖς ἐξειργάσατο καὶ κατεσκεύασε τὸν καλούμενον κρεμαστὸν παράδεισον διὰ τὸ τὴν γυναῖκα αὐτοῦ ἐπιθυμεῖν τῆς ὀρείας διαθέσεως τεθραμμένην ἐν τοῖς κατὰ τὴν Μηδίαν τόποις.</p>
+  <p class="tr">"Within this palace he erected lofty stone terraces, in which he closely reproduced mountain scenery, completing the resemblance by planting them with all manner of trees and constructing the so-called hanging garden; because his wife, having been brought up in Media, had a passion for mountain surroundings." (Thackeray, Loeb)</p>
+  <p class="note"><b>Berossus' history</b> survives only in quotation; BNJ 680 F 8 is the fragment's number in <i>Brill's New Jacoby</i>, the collection of the fragmentary Greek historians. <b>Also</b> in Josephus' <i>Jewish Antiquities</i> 10.226 with small variants, and in George Syncellus, a Byzantine chronicler of about AD 800. The same sentence is what Josephus attributes to Berossus immediately after the "fifteen days". Abydenus, independently of Josephus, has: <span class="gk">τά τε βασιλήϊα δένδροις ἤσκησε, κρεμαστοὺς παραδείσους ὀνομάσας</span>, "His palace too he adorned with trees, and gave it the name of the Hanging Gardens" (quoted by Eusebius, the church historian of the early fourth century AD, <i>Praeparatio Evangelica</i> 9.41.6). Greek text: <a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0215:book=1:whiston+section=19">Perseus Digital Library</a>.</p>
+</div>
+
+<div class="src">
+  <p class="tag"><b>Diodorus Siculus 2.10.1, 3–6</b><span>1st c. BC · on Clitarchus (c. 300 BC) and Ctesias (c. 400 BC)</span></p>
+  <p class="orig gk">Ὑπῆρχε δὲ καὶ ὁ κρεμαστὸς καλούμενος κῆπος παρὰ τὴν ἀκρόπολιν, οὐ Σεμιράμιδος, ἀλλά τινος ὕστερον Σύρου βασιλέως κατασκευάσαντος χάριν γυναικὸς παλλακῆς· ταύτην γάρ φασιν οὖσαν τὸ γένος Περσίδα … ὑπὸ δὲ ταῖς κατεσκευασμέναις ἀναβάσεσιν ᾠκοδόμηντο σύριγγες … τὸ δ᾽ ἐπὶ ταῖς δοκοῖς ὀρόφωμα πρῶτον μὲν εἶχεν ὑπεστρωμένον κάλαμον μετὰ πολλῆς ἀσφάλτου, μετὰ δὲ ταῦτα πλίνθον ὀπτὴν διπλῆν ἐν γύψῳ δεδεμένην, τρίτην δ᾽ ἐπιβολὴν ἐδέχετο μολιβᾶς στέγας … μία δ᾽ ἦν ἐκ τῆς ἀνωτάτης ἐπιφανείας διατομὰς ἔχουσα καὶ πρὸς τὰς ἐπαντλήσεις τῶν ὑδάτων ὄργανα, δι᾽ ὧν ἀνεσπᾶτο πλῆθος ὕδατος ἐκ τοῦ ποταμοῦ, μηδενὸς τῶν ἔξωθεν τὸ γινόμενον συνιδεῖν δυναμένου.</p>
+  <p class="tr">"There was also, beside the acropolis, the Hanging Garden, as it is called, which was built, not by Semiramis, but by a later Syrian king to please one of his concubines; for she, they say, being a Persian by race … Beneath the ascending terraces galleries had been built which carried the entire weight of the planted garden … The roof above these beams had first a layer of reeds laid in great quantities of bitumen, over this two courses of baked brick bonded by cement, and as a third layer a covering of lead … there was one gallery which contained openings leading from the topmost surface and machines for supplying the garden with water, the machines raising the water in great abundance from the river, although no one outside could see it being done." (Oldfather, Loeb)</p>
+  <p class="note"><b>Diodorus' sources:</b> Ctesias, a Greek physician at the Persian court about 400 BC whose account of Assyria is largely legendary, and Clitarchus, who wrote a popular history of Alexander about 300 BC. Semiramis is the legendary Assyrian queen of Greek story. <b>Dimensions:</b> four plethra a side (about 120 m), the top gallery fifty cubits high, walls twenty-two feet thick, stone beams sixteen by four feet. The lifting devices are <span class="gk">ὄργανα</span>, "engines", through <span class="gk">διατομαί</span>, "shafts", which Dalley and Oleson admit "might imply a vertical lift by means of ropes" (2003, 12). Diodorus names his two sources for the Babylon description three sections earlier, Ctesias and "Cleitarchus and certain of those who at a later time crossed into Asia with Alexander" (2.7.3). Text: <a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/2A*.html">LacusCurtius</a> (online edition).</p>
+</div>
+
+<div class="src">
+  <p class="tag"><b>Strabo, <i>Geography</i> 16.1.5 (C 738)</b><span>c. AD 20 · Greek text: edition of Meineke</span></p>
+  <p class="orig gk">διόπερ τῶν ἑπτὰ θεαμάτων λέγεται καὶ τοῦτο καὶ ὁ κρεμαστὸς κῆπος ἔχων ἐν τετραγώνῳ σχήματι ἑκάστην πλευρὰν τεττάρων πλέθρων· συνέχεται δὲ ψαλιδώμασι καμαρωτοῖς ἐπὶ πεττῶν ἱδρυμένοις κυβοειδῶν ἄλλοις ἐπ᾽ ἄλλοις· οἱ δὲ πεττοὶ κοῖλοι πλήρεις γῆς ὥστε δέξασθαι φυτὰ δένδρων τῶν μεγίστων, ἐξ ὀπτῆς πλίνθου καὶ ἀσφάλτου κατεσκευασμένοι καὶ αὐτοὶ καὶ αἱ ψαλίδες καὶ τὰ καμαρώματα. ἡ δ᾽ ἀνωτάτω στέγη προσβάσεις κλιμακωτὰς ἔχει, παρακειμένους δ᾽ αὐταῖς καὶ κοχλίας δι᾽ ὧν τὸ ὕδωρ ἀνῆγον εἰς τὸν κῆπον ἀπὸ τοῦ Εὐφράτου συνεχῶς οἱ πρὸς τοῦτο τεταγμένοι. ὁ γὰρ ποταμὸς διὰ μέσης ῥεῖ τῆς πόλεως σταδιαῖος τὸ πλάτος, ἐπὶ δὲ τῷ ποταμῷ ὁ κῆπος.</p>
+  <p class="tr">"… it is on this account that this [the wall] and the hanging garden are called one of the Seven Wonders of the World. The garden is quadrangular in shape, and each side is four plethra in length. It consists of arched vaults, which are situated, one after another, on checkered, cube-like foundations. The checkered foundations, which are hollowed out, are covered so deep with earth that they admit of the largest of trees, having been constructed of baked brick and asphalt, the foundations themselves and the vaults and the arches. The ascent to the uppermost terrace-roofs is made by a stairway; and alongside these stairs there were screws, through which the water was continually conducted up into the garden from the Euphrates by those appointed for this purpose. For the river, a stadium in width, flows through the middle of the city; and the garden is on the bank of the river." (Jones, Loeb)</p>
+  <p class="note"><b>The screws</b> (<span class="gk">κοχλίαι</span>) lift water "from the Euphrates" and are worked by men. C 738 is the page of the 1587 edition by which Strabo is cited. Greek text: <a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0197:book=16:chapter=1:section=5">Perseus Digital Library</a>; translation: <a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/16A*.html">LacusCurtius</a> (online edition).</p>
+</div>
+
+<div class="src">
+  <p class="tag"><b>Quintus Curtius Rufus 5.1.32–35</b><span>1st c. AD · on Clitarchus</span></p>
+  <p class="orig"><span class="tl">Super arcem, vulgatum Graecorum fabulis miraculum, pensiles horti sunt, summam murorum altitudinem aequantes multarumque arborum umbra et proceritate amoeni. Saxo pilae, quae totum onus sustinent, instructae sunt; super pilas lapide quadrato solum stratum est … Syriae regem Babylone regnantem hoc opus esse molitum memoriae proditum est, amore coniugis victum, quae, desiderio nemorum silvarumque in campestribus locis, virum conpulit amoenitatem naturae genere huius operis imitari.</span></p>
+  <p class="tr">"On the top of the citadel are the hanging gardens, a wonder celebrated in the tales of the Greeks, equalling the extreme height of the walls and made charming by the shade of many lofty trees. Columns of stone were set up to sustain the whole work, and on these was laid a floor of squared blocks … There is a tradition that a king of Syria, who ruled in Babylon, undertook this mighty task, induced by love for his wife, who from longing for the woods and groves prevailed upon her husband to imitate in the level country the charm of Nature by a work of this kind." (Rolfe, Loeb)</p>
+  <p class="note"><b>"Syria" is Assyria</b> in this idiom (the note of Rolfe, the Loeb translator; Strabo 16.1.2 says in terms that the historians' "Syrians" are "none other than those who set up the royal seat at Babylon and Ninus", Ninus being the Greek name for Nineveh). Curtius places the garden in Babylon, on the citadel, and calls it a wonder from the tales (<i>fabulae</i>) of the Greeks. Text: <a href="https://www.thelatinlibrary.com/curtius/curtius5.shtml">The Latin Library</a> (online edition).</p>
+</div>
+
+<p>The remaining witnesses give less detail. The treatise under Philo's name, dated to the fourth to sixth century AD, describes trees rooted on a platform carried by columns and palm-trunk beams that do not rot, and water forced up "screw-wise" (<span class="gk">κοχλιοειδῶς</span>) through "the spiral of the machines" (<span class="gk">τὸν ἕλικα τῶν μηχανημάτων</span>). It names no builder and, in the body of the chapter, no city at all. Its one topographical detail, water channels with their springs "from higher ground" (<span class="gk">τὰς πηγὰς ἐξ ὑπερδεξίων ἔχουσαι τόπων</span>), is un-Babylonian and reads more naturally at Nineveh, though the tract is a rhetorical set piece and not a report. Antipater of Sidon, a Greek poet of the second or first century BC, wrote the earliest intact list of the wonders, a short poem preserved in the Byzantine collection of Greek epigrams known as the Palatine Anthology (<i>Anthologia Palatina</i> 9.58); a papyrus list from Alexandria now in Berlin, the <i>Laterculi Alexandrini</i> of the late second century BC, is older but preserves only three entries. Antipater has seen "the walls of towering Babylon on which chariots may race" and <span class="gk">κάπων τ᾽ αἰώρημα</span>, "the hanging [thing] of gardens". Pliny the Elder, the Roman encyclopaedist writing in AD 77, hedges the builder: "<i>itemque pensiles, sive illos Semiramis sive Assyriae rex Syrus fecit</i>", "and likewise the hanging ones, whether Semiramis or Syrus king of Assyria made them" (<i>Natural History</i> 19.49). Only the tradition that goes back to Berossus names Nebuchadnezzar. No source names Sennacherib, and every source that names a city names Babylon.</p>
+
+<figure>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 756" role="img" aria-label="How the descriptions of the garden were passed down: the Ctesias line, the Alexander historians, the Babylonian priestly tradition through Berossus, and the wonder lists, with the two independent lines that place the garden in Babylon outlined in blue" style="max-width:100%;height:auto;display:block;font-family:var(--ui)">
+<defs><marker id="hg-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs>
+<text x="245" y="30" font-size="11" fill="currentColor" fill-opacity="0.7" text-anchor="middle" letter-spacing="0.06em">C. 400–330 BC</text>
+<text x="451" y="30" font-size="11" fill="currentColor" fill-opacity="0.7" text-anchor="middle" letter-spacing="0.06em">C. 300–290 BC</text>
+<text x="657" y="30" font-size="11" fill="currentColor" fill-opacity="0.7" text-anchor="middle" letter-spacing="0.06em">2ND C. BC TO AD 20</text>
+<text x="863" y="30" font-size="11" fill="currentColor" fill-opacity="0.7" text-anchor="middle" letter-spacing="0.06em">1ST–2ND C. AD</text>
+<text x="1069" y="30" font-size="11" fill="currentColor" fill-opacity="0.7" text-anchor="middle" letter-spacing="0.06em">4TH C. AD AND LATER</text>
+<line x1="14" y1="138" x2="1166" y2="138" stroke="currentColor" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="14" y1="340" x2="1166" y2="340" stroke="currentColor" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="14" y1="528" x2="1166" y2="528" stroke="currentColor" stroke-opacity="0.18" stroke-width="1"/>
+<text x="14" y="87" font-size="11" fill="currentColor" fill-opacity="0.75">Ctesias' Assyrian</text>
+<text x="14" y="101" font-size="11" fill="currentColor" fill-opacity="0.75">history</text>
+<text x="14" y="230" font-size="11" fill="currentColor" fill-opacity="0.75">Alexander's</text>
+<text x="14" y="244" font-size="11" fill="currentColor" fill-opacity="0.75">historians</text>
+<text x="14" y="430" font-size="11" fill="currentColor" fill-opacity="0.75">Babylonian priestly</text>
+<text x="14" y="444" font-size="11" fill="currentColor" fill-opacity="0.75">tradition</text>
+<text x="14" y="634" font-size="11" fill="currentColor" fill-opacity="0.75">Wonder lists</text>
+<line x1="340" y1="89" x2="561" y2="89" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<text x="451" y="84" font-size="10.5" fill="currentColor" fill-opacity="0.8" text-anchor="middle">used by</text>
+<line x1="340" y1="187" x2="561" y2="187" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<text x="451" y="182" font-size="10.5" fill="currentColor" fill-opacity="0.8" text-anchor="middle">used by</text>
+<line x1="546" y1="277" x2="561" y2="277" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<polyline points="451,314 451,324 863,324 863,315" fill="none" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<text x="657" y="336" font-size="10.5" fill="currentColor" fill-opacity="0.8" text-anchor="middle">used by</text>
+<line x1="546" y1="387" x2="561" y2="387" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<line x1="752" y1="387" x2="767" y2="387" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<line x1="958" y1="387" x2="973" y2="387" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<polyline points="451,424 451,477 767,477" fill="none" stroke="currentColor" stroke-width="1.4" stroke-dasharray="4 4" marker-end="url(#hg-arrow)"/>
+<text x="609" y="473" font-size="10.5" fill="currentColor" fill-opacity="0.8" text-anchor="middle">via Megasthenes?</text>
+<line x1="958" y1="477" x2="973" y2="477" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<line x1="752" y1="577" x2="973" y2="577" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<text x="863" y="572" font-size="10.5" fill="currentColor" fill-opacity="0.8" text-anchor="middle">used by</text>
+<line x1="657" y1="614" x2="657" y2="643" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<text x="663" y="633" font-size="10.5" fill="currentColor" fill-opacity="0.8">used by</text>
+<rect x="150" y="52" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" stroke="currentColor" stroke-opacity="0.45" stroke-width="1"/>
+<text x="159" y="70" font-size="11.5" font-weight="600" fill="currentColor">Ctesias, c. 400 BC</text>
+<text x="159" y="84" font-size="11" fill="currentColor" fill-opacity="0.85">Semiramis builds Babylon;</text>
+<text x="159" y="97" font-size="11" fill="currentColor" fill-opacity="0.85">Nineveh 'on the Euphrates'</text>
+<rect x="562" y="52" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" stroke="currentColor" stroke-opacity="0.45" stroke-width="1"/>
+<text x="571" y="70" font-size="11.5" font-weight="600" fill="currentColor">Diodorus 2.7–9, 1st c. BC</text>
+<text x="571" y="84" font-size="11" fill="currentColor" fill-opacity="0.85">walls, palaces with</text>
+<text x="571" y="97" font-size="11" fill="currentColor" fill-opacity="0.85">hunting reliefs</text>
+<rect x="150" y="150" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="159" y="168" font-size="11.5" font-weight="600" fill="currentColor">Unnamed Alexander-era source</text>
+<text x="159" y="182" font-size="11" fill="currentColor" fill-opacity="0.85">late 4th c. BC</text>
+<rect x="562" y="150" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="571" y="168" font-size="11.5" font-weight="600" fill="currentColor">Strabo 16.1.5, c. AD 20</text>
+<text x="571" y="182" font-size="11" fill="currentColor" fill-opacity="0.85">screws from the Euphrates;</text>
+<text x="571" y="195" font-size="11" fill="currentColor" fill-opacity="0.85">garden on the river bank</text>
+<rect x="356" y="240" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="365" y="258" font-size="11.5" font-weight="600" fill="currentColor">Clitarchus, c. 300 BC</text>
+<text x="365" y="272" font-size="11" fill="currentColor" fill-opacity="0.85">Alexander's Babylon</text>
+<rect x="562" y="240" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="571" y="258" font-size="11.5" font-weight="600" fill="currentColor">Diodorus 2.10, 1st c. BC</text>
+<text x="571" y="272" font-size="11" fill="currentColor" fill-opacity="0.85">from Clitarchus: 'a later Syrian</text>
+<text x="571" y="285" font-size="11" fill="currentColor" fill-opacity="0.85">king'; Persian concubine;</text>
+<text x="571" y="298" font-size="11" fill="currentColor" fill-opacity="0.85">vaults of brick and bitumen</text>
+<rect x="768" y="240" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="777" y="258" font-size="11.5" font-weight="600" fill="currentColor">Curtius 5.1.31–35, 1st c. AD</text>
+<text x="777" y="272" font-size="11" fill="currentColor" fill-opacity="0.85">'a king of Syria ruling in</text>
+<text x="777" y="285" font-size="11" fill="currentColor" fill-opacity="0.85">Babylon'; stone pillars;</text>
+<text x="777" y="298" font-size="11" fill="currentColor" fill-opacity="0.85">on the citadel</text>
+<rect x="356" y="350" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="365" y="368" font-size="11.5" font-weight="600" fill="currentColor">Berossus, c. 290 BC</text>
+<text x="365" y="382" font-size="11" fill="currentColor" fill-opacity="0.85">Nebuchadnezzar's new palace;</text>
+<text x="365" y="395" font-size="11" fill="currentColor" fill-opacity="0.85">stone terraces; Median wife</text>
+<rect x="562" y="350" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="571" y="368" font-size="11.5" font-weight="600" fill="currentColor">Alexander Polyhistor, 1st c. BC</text>
+<text x="571" y="382" font-size="11" fill="currentColor" fill-opacity="0.85">summarises Berossus</text>
+<rect x="768" y="350" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="777" y="368" font-size="11.5" font-weight="600" fill="currentColor">Josephus, c. AD 95</text>
+<text x="777" y="382" font-size="11" fill="currentColor" fill-opacity="0.85">quotes Polyhistor's Berossus:</text>
+<text x="777" y="395" font-size="11" fill="currentColor" fill-opacity="0.85">Antiquities 10.226; Apion 1.141</text>
+<rect x="974" y="350" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="983" y="368" font-size="11.5" font-weight="600" fill="currentColor">Eusebius and Syncellus</text>
+<text x="983" y="382" font-size="11" fill="currentColor" fill-opacity="0.85">copy Josephus: Chronicle,</text>
+<text x="983" y="395" font-size="11" fill="currentColor" fill-opacity="0.85">4th c. AD; Syncellus, c. AD 800</text>
+<rect x="768" y="440" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="777" y="458" font-size="11.5" font-weight="600" fill="currentColor">Abydenus, 2nd c. AD</text>
+<text x="777" y="472" font-size="11" fill="currentColor" fill-opacity="0.85">'adorned the palace with trees,</text>
+<text x="777" y="485" font-size="11" fill="currentColor" fill-opacity="0.85">calling them hanging paradeisoi'</text>
+<rect x="974" y="440" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="983" y="458" font-size="11.5" font-weight="600" fill="currentColor">Eusebius, Praeparatio 9.41</text>
+<text x="983" y="472" font-size="11" fill="currentColor" fill-opacity="0.85">early 4th c. AD; quotes Abydenus</text>
+<rect x="562" y="540" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" stroke="currentColor" stroke-opacity="0.45" stroke-width="1"/>
+<text x="571" y="558" font-size="11.5" font-weight="600" fill="currentColor">Hellenistic wonder canon</text>
+<text x="571" y="572" font-size="11" fill="currentColor" fill-opacity="0.85">Alexandria</text>
+<rect x="974" y="540" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" stroke="currentColor" stroke-opacity="0.45" stroke-width="1"/>
+<text x="983" y="558" font-size="11.5" font-weight="600" fill="currentColor">'Philo of Byzantium'</text>
+<text x="983" y="572" font-size="11" fill="currentColor" fill-opacity="0.85">4th–6th c. AD; columns,</text>
+<text x="983" y="585" font-size="11" fill="currentColor" fill-opacity="0.85">palm-trunk beams, screws</text>
+<rect x="562" y="644" width="190" height="74" rx="6" fill="currentColor" fill-opacity="0.05" stroke="currentColor" stroke-opacity="0.45" stroke-width="1"/>
+<text x="571" y="662" font-size="11.5" font-weight="600" fill="currentColor">Antipater, Anthology 9.58</text>
+<text x="571" y="676" font-size="11" fill="currentColor" fill-opacity="0.85">2nd or 1st c. BC</text>
+<rect x="14" y="732" width="22" height="12" rx="3" fill="currentColor" fill-opacity="0.05" style="stroke:var(--babylon)" stroke-width="2"/>
+<text x="44" y="742" font-size="11" fill="currentColor" fill-opacity="0.8">the two independent lines that place the garden in Babylon</text>
+<line x1="380" y1="738" x2="420" y2="738" stroke="currentColor" stroke-width="1.4" marker-end="url(#hg-arrow)"/>
+<text x="428" y="742" font-size="11" fill="currentColor" fill-opacity="0.8">the later writer used the earlier one</text>
+<line x1="660" y1="738" x2="700" y2="738" stroke="currentColor" stroke-width="1.4" stroke-dasharray="4 4" marker-end="url(#hg-arrow)"/>
+<text x="708" y="742" font-size="11" fill="currentColor" fill-opacity="0.8">a likely but unproven line</text>
+</svg>
+<figcaption>Figure 2. How the descriptions of the garden were passed down. Two lines are independent of each other, the Babylonian priestly tradition (Berossus, Abydenus) and the Alexander-historian tradition (Clitarchus; Strabo's unnamed source), and both put the garden in Babylon. Their boxes are outlined in blue; a solid arrow means the later writer used the earlier one, and the dotted arrow marks a likely but unproven line. Alexander Polyhistor, a Greek compiler of the first century BC, and Megasthenes, a Greek envoy to India about 300 BC, are the intermediaries through whom Berossus' words reached the later writers. Made for this report from the texts quoted in this section, Diodorus 2.7.3 on his own sources, Eusebius, <i>Praeparatio Evangelica</i> 9.40–41, and Bichler and Rollinger 2005.</figcaption>
+</figure>
+
+<h3>Silences, confusions and the question of a later insertion</h3>
+<p>Herodotus (1.178–187) describes Babylon's walls, gates, bridge, temple and palaces and says nothing of a garden. Xenophon's <i>Cyropaedia</i>, his fictionalised life of Cyrus the Great, is silent. So are the historians of Alexander who drew on eyewitnesses. Arrian, the second-century AD historian of Alexander's campaigns, drawing on two of Alexander's officers, Ptolemy and Aristobulus, records the palaces, a park (<span class="gk">παράδεισος</span>) across the river where the dying king was carried, the cypresses of Babylonia and the ruined tomb of Belus (the Babylonian god Marduk under his Greek name), and never a hanging garden (3.16; 7.19–25). Plutarch, the Greek biographer of about AD 100, quoting the court Journals of Alexander's reign, has Harpalus, Alexander's treasurer, adorning "the royal gardens and walks with Hellenic plants" at ground level and failing only with ivy (<i>Alexander</i> 35). The garden enters the record through two channels only, Clitarchus and Berossus. Dalley reads the silences as showing there was nothing at Babylon to see, but the same silences count against Nineveh: Herodotus says nothing of Nineveh's gardens either, and Xenophon, who passed Nineveh in 401 BC, describes only a ruin.</p>
+<p>The Greek tradition did confuse Assyria and Babylonia, and did so systematically. Ctesias, through Diodorus, founds Nineveh "on the Euphrates" (2.3.2). Diodorus' Babylonian palace walls carry glazed hunting scenes with Semiramis spearing a leopard and Ninus, the legendary founder of Nineveh, a lion (2.8.6), which is Assyrian palace imagery in a Babylonian setting. Herodotus makes Babylon the seat of "Assyrian" kings after the fall of Ninus, his name for Nineveh. This is the one real support the texts give Dalley, and it explains why Diodorus and Curtius can call the builder a "Syrian" king: in the Ctesian scheme the Assyrian dynasty ruled "in Babylon and Ninus" (Strabo 16.1.2), so any pre-Persian king of Babylon is a "Syrian" one. It does not explain how a garden at Nineveh became a garden "on the bank of the Euphrates".</p>
+<p>Berossus is the decisive witness, and Dalley treats him as such. Her answer is that the garden sentence is not Berossus at all but an insertion by Alexander Polyhistor, the Greek compiler of the first century BC through whose summary Josephus knew Berossus, or by Josephus himself, since the rest of the paragraph follows the East India House inscription item by item and the garden is the one item with no cuneiform counterpart (an argument also made by Bert van der Spek, the Amsterdam historian of Babylon, in 2008). Against this: the sentence stands in both Josephan works and in Syncellus, so Josephus found it in his Berossus, which was Polyhistor's summary. The manuscripts therefore rule out an addition after Josephus but cannot test one by Polyhistor, and that part of the case has to rest on other grounds. Abydenus, who did not draw on Josephus, has the "hanging paradeisoi" at Nebuchadnezzar's palace in different words, with no wife and no mountains, and his line may run through Megasthenes, the Greek envoy to India about 300 BC who also wrote on Assyria, rather than Polyhistor; if it does, he is a second witness, but that is likely rather than established. Berossus was writing for Greek readers and had reason to name the sight of Babylon best known to them. And a Babylonian priest with the archives in front of him is an unlikely witness to relocate a Nineveh garden to the palace of Nebuchadnezzar. Bichler and Rollinger call his testimony "the decisive crux" for the confusion thesis (2005, 187–188), and Potts, the most sympathetic specialist reviewer of Dalley's book, agrees: "If the gardens still existed in Berossus' day there is no doubt that he would have known about them and probably have seen them" (2013).</p>
+
+<h2 id="weighing">5. Weighing the evidence</h2>
+<p>To keep the weighing open to inspection, the evidence is written down as seven clusters, and each cluster is given a probability of being observed under each of the three hypotheses (its likelihood). The three hypotheses start level, one third each (the prior), the seven likelihoods are multiplied, and the last row of the table is what the evidence makes of them (the posterior). The numbers are judgements, and they are stated so that anyone can change them and rerun the script (<a href="#model-source">likelihood_model.py</a>, reproduced in full in section 8; its output is served beside this page as <a href="likelihood_results.json">likelihood_results.json</a>). Items inside a cluster rise and fall together, so each cluster gets one likelihood. Scoring the thirteen underlying items as if they were independent inflates the result: it puts Nineveh below 1%.</p>
+
+<div class="tblwrap" role="figure" aria-label="Table 1">
+<table>
+  <caption class="small" style="text-align:left;caption-side:top;padding:0 0 8px">Table 1. The seven evidence clusters and the probability assigned to each under the three hypotheses. Made for this report; every value is a judgement stated so that it can be changed and rerun. P(E | H) is the probability of seeing the evidence if hypothesis H is true; the last column divides the Nineveh figure by the Babylon figure.</caption>
+  <thead><tr><th>Cluster</th><th>What the evidence is</th><th class="num">P(E&nbsp;|&nbsp;Babylon)</th><th class="num">P(E&nbsp;|&nbsp;Nineveh)</th><th class="num">P(E&nbsp;|&nbsp;none)</th><th class="num">Nineveh : Babylon</th></tr></thead>
+  <tbody>
+    <tr><td>C1</td><td>Location testimony of the Greek tradition: every source that names a city names Babylon (Philo names none; Antipater names Babylon only for the wall beside the gardens); Greeks distinguished it from the ruined Ninus (Nineveh); no Assyrian "Babylon" for Nineveh</td><td class="num">0.90</td><td class="num">0.12</td><td class="num">0.75</td><td class="num">0.13</td></tr>
+    <tr><td>C2</td><td>Berossus places the garden in Nebuchadnezzar's new palace, in a paragraph tracking Nebuchadnezzar's own inscription; that palace was a <i>gigunû</i>-terrace "high as a mountain"</td><td class="num">0.80</td><td class="num">0.20</td><td class="num">0.35</td><td class="num">0.25</td></tr>
+    <tr><td>C3</td><td>The Babylonian silence: no garden at Babylon in any Neo-Babylonian royal text (section 3); nothing excavated; Herodotus, Xenophon and the Alexander historians who used eyewitnesses silent</td><td class="num">0.30</td><td class="num">0.95</td><td class="num">0.90</td><td class="num">3.17</td></tr>
+    <tr><td>C4</td><td>The Nineveh match, net of what is missing: a documented "Amanus" garden with a novel water-lifting frame, canals, aqueducts and two reliefs; but no terraces, the "wonder" is said of the palace, and the two formulae are stock phrases used by three kings</td><td class="num">0.50</td><td class="num">0.70</td><td class="num">0.45</td><td class="num">1.40</td></tr>
+    <tr><td>C5</td><td>Builder and wife: a Median wife for Nebuchadnezzar is credible, Sennacherib's queens (Tashmetu-sharrat, and Naqia, the mother of Esarhaddon) were not Median; but "a Syrian king reigning at Babylon" fits any Sargonid (a king of Sargon II's dynasty) who held Babylon as well as it fits Nebuchadnezzar (Strabo 16.1.2). Building materials are not counted; section 7 says why</td><td class="num">0.55</td><td class="num">0.40</td><td class="num">0.50</td><td class="num">0.73</td></tr>
+    <tr><td>C6</td><td>The screws: conjectural in Akkadian, probably Hellenistic in Greek; a near-neutral item</td><td class="num">0.45</td><td class="num">0.50</td><td class="num">0.45</td><td class="num">1.11</td></tr>
+    <tr><td>C7</td><td>A Persian-period text assigns gardeners and water-drawers to the "new palace" at Babylon</td><td class="num">0.80</td><td class="num">0.60</td><td class="num">0.60</td><td class="num">0.75</td></tr>
+    <tr class="total"><td></td><td>Posterior with equal priors</td><td class="num">57%</td><td class="num">5%</td><td class="num">38%</td><td class="num"></td></tr>
+  </tbody>
+</table>
+</div>
+
+<p>The result changes little with the prior. Starting instead from priors of 0.30 for Babylon, 0.40 for Nineveh and 0.30 for no single structure still ends at Babylon 56%, no single structure 38% and Nineveh 7%; starting from a sceptic's 0.30 for Babylon, 0.20 for Nineveh and 0.50 for no single structure ends at Babylon 46%, no single structure 51% and Nineveh 3%. Dropping any single cluster leaves Babylon ahead of Nineveh, though without Berossus (C2) the literary-construct hypothesis leads at 53%, and dropping the location cluster (C1) altogether, which means granting Dalley the whole confusion argument, lifts Nineveh to 27%. The Babylonian silence (C3) is the strongest item in Nineveh's favour, and it favours "no single structure" almost as much.</p>
+<p>What Dalley's case needs in combination is more instructive. Grant that Berossus' garden sentence is an interpolation (a sentence inserted by a later hand), that Sennacherib's device was a screw, and that Greek confusion suffices to move a garden from the Tigris to the Euphrates, and Nineveh goes ahead: 55% against Babylon's 27%. Her case is coherent, and the disagreement is about three readings, each of which seems improbable on the evidence set out above, and not about the arithmetic. To make Nineveh the clear favourite one would need, in addition, an Assyrian text or image showing the garden on vaulted tiers. No such evidence exists today. That is why the headline is Babylon about 55%, a literary construct about 35%, Nineveh about 10%, all three conditional on the hypotheses as framed and on the weights in the table.</p>
+<details><summary>Why the "no single structure" hypothesis keeps a third of the probability</summary>
+<p>It keeps a third because the Babylonian case rests on a small number of witnesses and on an argument from a palace terrace. Berossus attests a planted terrace called the hanging paradeisos (park) in the new palace, and Clitarchus a vaulted garden in the citadel by the river. No source attests the fifty-cubit, four-plethra, screw-fed garden as a structure that anyone measured. If Berossus' sentence is Polyhistor's, and Clitarchus enlarged a raised palace garden into a wonder to match Semiramis' walls, the story would have started from something at Babylon, but no one structure at Babylon would be the garden it describes. Several historians of Babylon (Amélie Kuhrt, Paul-Alain Beaulieu, van der Spek and Michael Seymour) hold something like this view, and it deserves the weight it gets here. What it cannot easily accommodate is Abydenus' independent line and the Persian-period gardeners of the new palace.</p>
+</details>
+
+<h2 id="counter">6. Dalley's case in her own words</h2>
+<p>Her case is set out here from her own statements rather than from her critics' summaries: the 1993 article in the journal <i>Garden History</i>, the 2003 article with Oleson, the 2008 chapter on "Babylon" as a name for other cities and the 2017 chapter, all read in full; the 1994 article in the journal <i>Iraq</i> through its opening paragraphs, all seventy-five footnotes and the forty-five page-referenced quotations of it in Bichler and Rollinger; and the 2013 book through its table of contents, some 230 short excerpts located by page number and about forty longer passages pieced together from them, including the Conclusion (pp. 203–205), with Bagg's and Potts's reviews of it read in full. Neither the 1994 article nor the book was available in full outside a subscription library, and section 8 says which parts of the argument that limit affects. Her case, in her own order, runs as follows.</p>
+<p><b>Babylon has yielded no evidence.</b> "Popularly attributed to Nebuchadnezzar II … they are not mentioned in any of the copious and remarkably complete written sources for that king's reign, nor have they come to light in extensive excavation of his palaces in Babylon" (1994, 45). Herodotus, whose "informants were, as he declares, Chaldaeans" (the Greek name for Babylon's learned priests), never mentions them, and "with the gardens at Nineveh, his account is vindicated" (1993, 8–9; 1994, 45). The diversion of the Euphrates in the Persian period would in any case have left "any machinery set up there to water the gardens from the river … useless, and all the trees in the garden would soon have withered and died" (1994, 45; 2013, 14–16).</p>
+<p><b>The classical writers describe an Assyrian kind of garden.</b> Most of them "do not name [Nebuchadnezzar] as the builder": Diodorus has "a later Syrian king", Curtius "a king of Assyria reigning in Babylon", and "'Syrian' meant 'Assyrian' from at least the 7th century BC onwards" (2013, 23); "since the description of the builder given by Q. Curtius Rufus … fits Sennacherib, a new location of the Hanging Gardens is required" (1994, 51). What they describe is "a type of garden known from northern Mesopotamia, which was very different from the type characteristic of southern Mesopotamia, where Babylon lay" (2013, 40–41), "built upon artificial terraces of stone, like a Greek theatre" (2013, 20). Sennacherib's own relief, known from Layard's Original Drawing IV 77, shows trees standing on a colonnade, which Layard himself called "a hanging garden, supported upon columns", and Ashurbanipal's relief BM 124939 shows the garden fed by an arched aqueduct whose arches "resemble those found on the remains of the aqueduct at Jerwan" (2013, 51; 1994, 51 with fig. 1).</p>
+<p><b>The garden sentence in Josephus is not Berossus' own.</b> "Berossus himself may not have mentioned Nebuchadnezzar in connection with the garden, but rather that passage was probably added to his original text by one of the authors who quoted from him in the two centuries that separate Berossus from Josephus" (2013, 35); in 1994 (55–56) she names Josephus or Alexander Polyhistor as the one who inserted it, and takes Abydenus' "Nebuchadnezzar" for a textual error for Sennacherib.</p>
+<p><b>Sennacherib's prism describes the wonder and its screws.</b> Her translation: "In order to draw water up all day long, I had ropes, bronze wire and bronze chains made. And instead of a shaduf I set up the great cylinders and <i>alamittu</i>-screws over cisterns … I raised the height of the surroundings of the palace, to be a Wonder for All Peoples … A park imitating the Amanus mountains I laid out next to it" (2013, 63; Dalley and Oleson 2003, 7–8). The duplicate prism "showed a sign, badly damaged on the first prism, clear enough to show that the 'great tree-trunk' and the 'date-palm' were made of copper or bronze, so they were metal castings, and not, therefore, living trees" (2013, 66); <i>gišmaḫḫu</i> is "cylinder" in Old Babylonian mathematical problems of the early second millennium BC (1994, 52 n. 45), and the spiral trunk of the <i>alamittu</i> palm, imitated in the spiral mud-brick columns of Tell al-Rimah, a second-millennium BC temple site in northern Iraq, gives the screw (1994, 52–53; 2013, 68). Luckenbill's water drawn from wells would be "hardly an innovation to boast of, and, besides, inappropriate for replacing shadufs" (2013, 65). "The correct decipherment of a 7th-century BC Assyrian inscription gives a match with the crucial elements in descriptions of later Greek authors" (2013, 203); "All the arguments to be found in this book stem from the better understanding of an original Assyrian text" (2013, 204).</p>
+<p><b>Nineveh was known as a Babylon, and Sennacherib had a named queen.</b> Lexical texts call Borsippa "Babylon the second" and Eridu, in the far south of Babylonia, "a Babylon" (2013, 117–118); the Toledan tables of Azarqiel give a longest day for "Old Babylon" whose latitude "is demonstrably not that of Babylon but somewhere in Assyria, in the vicinity of Nineveh" (2013, 119; 1994, 48–49), and "36.06 degrees for 'Old Babylon' suits Nimrud" (2013, 119), Nimrud being the earlier Assyrian capital some thirty kilometres south-east of Nineveh; after 689 Sennacherib remade Nineveh on Babylon's model, renaming its gates and transferring Marduk's rites to Assur (1994, 49–50; 2013, 111). Sennacherib "lovingly dedicated" a wing of the palace "to his first wife Tashmetu-sharrat … Following a North Syrian custom, Sennacherib broke with the normal Assyrian tradition of near-anonymity for queens", which for Dalley answers the classical queen for whom the garden was made (2013, 145). "Taking each one of the confusions, it is possible to explain why Sennacherib was mistaken for Nebuchadnezzar, why Nineveh became known as a Babylon, why the Euphrates was mistaken for the Tigris, and why Semiramis was credited with building Babylon and the Hanging Garden" (2013, 126–127).</p>
+<p><b>Nineveh was not destroyed in 612 BC, and knowledge of the garden could have reached the Greeks.</b> Nineveh was not razed in 612 (1994, 56; 2013, ch. 9); "the Hanging Garden itself was not necessarily still visible and visited as a marvel in Hellenistic and later times, but the palaces with some of their sculptured panels portraying the garden could still be visited, at least in part" (2013, 202). "One might posit that all the details of construction and appearance became known to Alexander's men in 331 BC by local knowledge at Jerwan and Gaugamela, but with legends already proliferating over whether an Assyrian king, or Semiramis, or Nebuchadnezzar, was the builder" (2013, 205; Gaugamela, near Nineveh, is the battlefield where Alexander defeated the Persian king Darius III in 331 BC). She adds that "it is still a problem that knowledgeable guides would have been needed to explain that water was raised invisibly by screws" (2013, 205), and that there is "no direct evidence for [Babylon as a name of other cities] in any Assyrian inscriptions from the time of Sargon and Sennacherib onwards" (2013, as quoted by Potts 2013, n. 21).</p>
+<p>Read this way the case is stronger than the four-step summary Bagg extracts from it, "the Classical sources mention a Hanging Garden in Babylon, which was watered by screws and built by Nebuchadnezzar; such a World Wonder has neither been found in Babylon nor is it mentioned in Nebuchadnezzar's inscriptions; Sennacherib built a royal park in Nineveh watered by screws which he had invented; the Classical sources confuse Babylon with Nineveh" (2014, col. 490), because her second and fifth points rest on evidence: the classical garden is an Assyrian type, and the Greek tradition did confuse Assyria and Babylonia. The case fails at three points, and at each the texts are against it.</p>
+<p><b>The screw.</b> The word the editors translate "bucket" (<i>dilûtu</i>) is her "draw water up"; the ropes, wire and chains she keeps are bucket tackle; her "cisterns" are wells (<i>būrtu</i>). Bagg wrote: "the inscription mentions chains and ropes that may allude to a kind of chain of buckets but are incompatible with a screw. Also, the device stood over wells, and it is not possible to draw water from a well with a screw" (2014, col. 491). Her joint article with Oleson itself allows that the evidence does not "prove the existence of the water screw in the seventh century B.C.", that Strabo's is the only passage "early enough and clear enough to carry some authority", and that his screws "might even have been retrofitted at the gardens after their invention by Archimedes" (Dalley and Oleson 2003, 14). Her book's answer, that water drawn from wells is "hardly an innovation to boast of", mistakes the boast, which in the text is the copper casting of the frame (vii 9–19) and not the lifting.</p>
+<p><b>The naming.</b> Her dossier proves that southern cities could be called "a Babylon" and that Sennacherib borrowed Babylonian forms. It produces no ancient text calling Nineveh Babylon, as she concedes, and the one direct item, an eleventh-century AD table whose "Old Babylon" latitude she herself says "suits Nimrud", is not enough to support the argument (Bichler and Rollinger 2005, 181). The argument from the queen also fails. Diodorus' concubine is "Persian by race" and Berossus' wife is Median; "Syrian queen" is Dalley's phrase, not the sources'; and Tashmetu-sharrat's name is Akkadian, which settles nothing about her origin either way.</p>
+<p><b>The transfer.</b> Her scenario has Alexander's men learn of the garden at Jerwan and Gaugamela and then describe it as standing in Babylon, a city they marched into within weeks and in which their king died. Potts's objection stands: "it is hardly possible to imagine that these same Greeks … would later have recorded what they learned about Jerwan/Nineveh by saying that there once was a spectacular ancient garden in Babylon" (2013). The argument from silence also counts against Nineveh, since Xenophon, who saw the ruins of Nineveh in 401 BC, attributed them to the Medes and mentions no garden (<i>Anabasis</i> 3.4.10–12). And for the case to stand, the garden sentence of Berossus, who had the Babylonian records in front of him, has to be an interpolation; the manuscripts of Josephus cannot test that, and the case against it rests on Abydenus' differently worded line and on Berossus' own motives (section 4).</p>
+<p>Three parts of her case stand, and they are why Nineveh keeps 10% rather than the weighing's 5%: Sennacherib's garden is the closest documented ancestor of what the Greeks describe, the Greek tradition confused Assyria with Babylonia (section 4), and the Babylonian record contains no garden. Potts's verdict is the one adopted here. The resemblance "may well shift the onus of proof onto the traditionalists", and yet "the commonsense if unspectacular conclusion [is] that the Hellenistic writers knew the Hanging Gardens were in Babylon and said so in their accounts, seemingly oblivious to the fact that there had been a remarkable precedent at Nineveh" (2013). The one addition made here is the observation, from Sennacherib's own text as the editors and the Chicago Assyrian Dictionary read it, that the "wonder" is the palace and not the garden (section 2). What would change the verdict is listed at the top of the page; the item most likely to turn up is a new witness to the Berossus paragraph.</p>
+
+<h2 id="new">7. What this report adds</h2>
+<p>The verdict is not new. It agrees with Bichler and Rollinger (2005), with Bagg (2014), who rejects the Nineveh thesis and treats the classical location at Babylon as reliable (cols. 491–492), with Potts (2013) in his more guarded way and with Pedersén (2021), who writes that "most scholars have accepted the identity of Nebuchadnezzar's North Palace and the palace described by Berossos" and that "a few have even opted for the alternative that the gardens were not in Babylon but elsewhere" (2021, 125). The RINAP editors take no position of their own and file the Nineveh identification as an "opinion" with "critical reviews" (RINAP 3/1, n. 44). Nineveh has had published support from other scholars besides Dalley (Renger 1998 and Veenhof 2001, as reported by Bichler and Rollinger; Meijer 2017 in the catalogue of the Leiden exhibition on Nineveh, who puts it as "may in fact have served as a source for later myths"; Foster 2004, known here by its title and opening only). No survey of specialists' opinions was made for this report. Pedersén's "most scholars" is his assessment, and what this report shows is agreement with a substantial position, not that the position prevails. What it adds is modest: it compares texts and arguments that earlier studies treat separately. None of it is new evidence; it is new analysis, or new arrangement, of evidence already in print.</p>
+<p><b>An explicit weighing.</b> The likelihood table shows where the weight lies: on the unanimity of location and on Berossus, not on the screw. It also shows that Dalley's case requires three contested readings at once, which a summary of resemblances conceals.</p>
+<p><b>A check across the whole corpus with the 2024 edition.</b> Nebuchadnezzar's silence can be checked across every edited text: no GIŠ.KIRI₆ occurs in any Babylon inscription of his, and the editors say so explicitly. So can its counterpart: the North Palace <i>gigunû</i>-terrace texts that Berossus' "stone terraces" paraphrase, and the Chicago Assyrian Dictionary's 1956 observation about them, which has not been seen cited in the Nineveh debate (Dalley's 1994 article and 2013 book were not read in full; section 8).</p>
+<p><b>The two formulae are stock phrases.</b> "A replica of Mount Amanus" (Sargon, Sennacherib, Esarhaddon) and "a wonder for all peoples" (palaces, slabs, roofs) are treated in summaries of the Nineveh thesis as phrases peculiar to one garden. Dalley herself treats them as formulae (her book counts "at least six" uses of "wonder" by Esarhaddon alone, 2013, 9) and uses the second to connect <i>tabrâtu</i> with the Greek θεάματα. Read across the corpus they are stock phrases of the dynasty's palace inscriptions; the second is not said of the garden; and if "wonder" links an Assyrian text to the Greek θεάματα, it links every Assyrian palace so described.</p>
+<p><b>The bucket.</b> Sennacherib's purpose clause, "water drawn by bucket every day", with its ropes, wire chains and cables, is the internal evidence against the screw. The point is Bagg's, made in his review of the book: "chains and ropes that may allude to a kind of chain of buckets but are incompatible with a screw. Also, the device stood over wells, and it is not possible to draw water from a well with a screw" (2014, col. 491); the RINAP translation "to draw water by bucket" (2012) already states it. What is added here is only that the two disputed nouns are listed among the sculptural castings (vii 9–19) and that the wells serve the palace halls, not the garden (section 2).</p>
+<p><b>The building materials do not decide it.</b> Strabo's vaults "of baked brick and asphalt" and Diodorus' reed-and-bitumen roof (bitumen is natural asphalt, used as mortar and waterproofing) read like Nebuchadnezzar's Babylon, where baked brick set in bitumen is the fabric of whole platforms, vaults and hollow piers included: that is how Nebuchadnezzar says he built the North Palace (section 3) and how Koldewey found Babylon's palaces built. That should not be counted against Nineveh. Sennacherib describes the bedding of his palace terrace, where it overlay the old bed of the Tebiltu, a stream that had run past the earlier palace, as limestone blocks "bonded together with bitumen" under a spread of "marsh reeds and rushes" (RINAP 3/1 no. 17 v 88–vi 3; no. 16 vi 19b–21a: "I bonded together, with bitumen, reeds below and strong mountain stone above"); the culverts that pass the Khosr under the city wall as built "with baked bricks" (no. 16 vii 81–84, with a following word the editors leave untranslated and which may be <i>qīru</i>, "bitumen"); and the arches, friezes and copings of the palace as faced with glazed baked bricks (no. 17 vi 42). At Assur he rebuilt two structures wholly "with baked bricks from a pure kiln" (nos. 196–202), and the outer wall of Kilizu, a town south-east of Nineveh (no. 219). The archaeologist Ylenia Viggiano's 2025 study of the bricks of Nineveh adds courtyard pavements coated with bitumen, a "baked brick and bitumen ramp" at the Aššur Gate, stamped "Palace of Sennacherib" bricks throughout, and, elsewhere in Assyria, bathrooms lined with baked brick and bitumen and baked-brick vaults in the Khorsabad drains and the Assur tombs (Viggiano 2025, 87–89, 118). Assyrian baked brick "is generally confined to specific parts of buildings" (Viggiano 2025, 87), and Sennacherib's own terrace was mudbrick courses on a limestone-and-bitumen bedding, ringed with limestone slabs, with no material at all named for the garden. So Strabo's description is consistent with a Babylonian structure, and it is not unlikely for an Assyrian one: Sennacherib never describes his garden's substructure, Assyrian builders did vault in baked brick where water was involved, and Diodorus' layer of reeds in bitumen has its closest textual parallel in Sennacherib's own terrace bedding. The materials carry no weight in the table.</p>
+
+<h2 id="sources">8. Sources and limits</h2>
+<p><b>Where this report falls short.</b> Dalley's 1994 article and 2013 book are not available in full outside a subscription library. What was read of them: the 1994 article's opening, all its footnotes and every page-referenced quotation of it in Bichler and Rollinger; of the book its table of contents, about 230 short excerpts located by page number and some forty longer passages pieced together from them, including the Conclusion; Bagg's and Potts's reviews in full; and her 1993, 2003, 2008 and 2017 statements in full. That is most of the argument but not all of the book, and a reader with library access should check section 6 against pp. 29–41, 61–82 and 107–126 in particular. Reade 2000, Bagg 2000, Streck 2018 and Wiseman 1985 are known here through Bichler and Rollinger, Potts, Pedersén and the RINAP notes, and Foster 2004 by its title and opening only. The Bavian and Jerwan inscriptions were read in Luckenbill's and Jacobsen's translations, not in RINAP 3/2. The Philo text was read in a poor scan. None of these gaps touches the decisive passages, which were read in the standard editions in the original languages, but a specialist with library access could close them and might sharpen the numbers in either direction.</p>
+<p><b>Primary texts read in the original.</b> Sennacherib: RINAP 3/1 nos. 1, 4, 15, 16, 17, 18, 22, 23 and RINAP 3/2 no. 46, in the ORACC edition (archived copies of the pages), with Luckenbill 1924 for comparison; Esarhaddon: RINAP 4 no. 1; Sargon II: Luckenbill, ARAB II §119; Jerwan and Bavian: Jacobsen and Lloyd 1935 and Luckenbill 1924. Nebuchadnezzar II: RINBE 1/1 (2024) nos. 2, 12, 21, 23, 37; Neriglissar (559–556 BC) and Nabonidus in RINBE 2; the glossary of RIBo, the online Royal Inscriptions of Babylonia. Lexica: CAD A/1 (<i>alamittu</i>), G (<i>gigunû</i>), M/1 (<i>makûtu</i>), S (<i>siḫirtu</i>). Greek and Latin: Josephus, <i>Against Apion</i> 1.128–142 and <i>Jewish Antiquities</i> 10.219–228 (text: Niese; translations: Thackeray, Whiston); Syncellus p. 418 in Dindorf's edition; Eusebius, <i>Praeparatio Evangelica</i> 9.40–41 (Gifford's translation) and his <i>Chronicle</i>, which survives in Armenian (Bedrosian's translation); Diodorus 2.3, 2.7–13, 17.64, 17.112 (text: Vogel; translation: Oldfather); Strabo 16.1.1–5 (text: Meineke; translation: Jones); Curtius 5.1.17–36 (Rolfe's translation); Arrian 3.16, 7.17–26; Plutarch, <i>Alexander</i> 35, 73–77; Herodotus 1.178–187; Xenophon, <i>Anabasis</i> 3.4.7–12; Antipater, <i>Anthologia Palatina</i> 9.58; Pliny, <i>Natural History</i> 6.121–123, 19.49, 36; Judith 1:1; Isaiah 13–14, 23:13; Nahum.</p>
+<p><b>Scholarship read in full.</b> Dalley 1993; Dalley and Oleson 2003; Dalley 2008; Dalley 2017; Bagg 2014; Bichler and Rollinger 2005 (pre-print); Potts 2013; Viggiano 2025; Pedersén 2021 (the palace chapters) and 2025; Koldewey 1914; Jacobsen and Lloyd 1935; the RINAP 3/1 introduction and notes; RINBE 1/1 commentary. <b>Read in part (see above) or through others:</b> Dalley 1994 and 2013; Reade 2000; Bagg 2000; Foster 2004; Ur 2005; Wiseman 1983 and 1985; Rollinger 2013; Streck 2018; van der Spek 2008 and 2013; the British Museum Assyriologist Irving Finkel's 1988 chapter (unusable scan).</p>
+<p><b>The weighing script.</b> The script is reproduced below so the weighing can be rerun from this page alone; its output is the file linked in section 5.</p>
+<details id="model-source"><summary>likelihood_model.py, the full script (Python 3, no dependencies)</summary>
+<div class="codewrap"><pre class="code">#!/usr/bin/env python3
+&quot;&quot;&quot;
+Likelihood-ratio model for the referent of the &quot;Hanging Garden of Babylon&quot;.
+
+Hypotheses (mutually exclusive):
+  B  a real raised palace garden at Babylon lies behind the tradition (most
+     plausibly on the terraces of Nebuchadnezzar II&#x27;s North Palace; a
+     Persian-period garden on the same spot also counts), however much the
+     telling exaggerated it or borrowed Assyrian colour;
+  N  Sennacherib&#x27;s palace garden at Nineveh lies behind it (Dalley&#x27;s thesis),
+     relocated to Babylon by confusion in the Greek tradition;
+  0  no single real structure lies behind it: a literary construct.
+
+The evidence is grouped into seven CLUSTERS.  Items inside a cluster are
+correlated (they would rise and fall together), so each cluster gets ONE
+likelihood triple P(E|B), P(E|N), P(E|0); treating the thirteen underlying
+items as independent would overstate the case.  All numbers are judgements, stated
+so that anyone can change them and rerun:  python3 likelihood_model.py
+&quot;&quot;&quot;
+import json, sys
+
+CLUSTERS = [
+ (&quot;C1&quot;, &quot;Location testimony of the Greek tradition&quot;,
+  [&quot;Every Greek and Latin source that names a city puts the garden in Babylon: the Clitarchus-derived accounts &quot;
+   &quot;(Diodorus 2.10, Curtius 5.1.31-35), Strabo 16.1.5, Berossus/Abydenus; Philo names no city, and Antipater of Sidon &quot;
+   &quot;names Babylon only for the wall beside the gardens&quot;,
+   &quot;Greek writers from Herodotus 1.178 on distinguish Babylon from the dead city of Ninus; Xenophon saw Nineveh &quot;
+   &quot;deserted in 401 BC (Anab. 3.4.10-12); the descriptions present a working garden in Alexander&#x27;s Babylon&quot;,
+   &quot;No Neo-Assyrian text calls Nineveh &#x27;Babylon&#x27;; the &#x27;old Babylon&#x27; latitude datum is an 11th-century Arabic &quot;
+   &quot;tract (Bichler-Rollinger 2005, 179-181); Sennacherib&#x27;s cult transfers concern Assur, not Nineveh&quot;],
+  0.90, 0.12, 0.75),
+ (&quot;C2&quot;, &quot;Berossus&quot;,
+  [&quot;Berossus (c. 290 BC), a Babylonian priest demonstrably using Nebuchadnezzar&#x27;s inscriptions (the &#x27;fifteen days&#x27;), &quot;
+   &quot;places the &#x27;hanging paradeisos&#x27; of high stone terraces in Nebuchadnezzar&#x27;s new palace (Josephus, Ap. 1.141 = &quot;
+   &quot;Ant. 10.226; Abydenus in Eusebius, PE 9.41)&quot;,
+   &quot;Nebuchadnezzar&#x27;s own text on that palace describes a &#x27;kummu of large gigunu-terraces&#x27; raised &#x27;as high as a &quot;
+   &quot;mountain&#x27; (RINBE 1/1 Nbk. 21 ii 33-35; Nbk. 2 viii 27-ix 2), which CAD G 70 already said &#x27;could well have been &quot;
+   &quot;interpreted as a hanging garden&#x27;&quot;],
+  0.80, 0.20, 0.35),
+ (&quot;C3&quot;, &quot;The Babylonian blank&quot;,
+  [&quot;No Neo-Babylonian royal inscription mentions a garden at Babylon (RINBE 1/1, 2024: &#x27;nor in any other extant text of &quot;
+   &quot;Nebuchadnezzar&#x27;; the corpus&#x27;s two occurrences of kiru are Nabonidus&#x27; orchards at Ur and a funerary offering)&quot;,
+   &quot;Nothing identifiable has been excavated at Babylon; Koldewey&#x27;s vaulted building is a storeroom; the North Palace &quot;
+   &quot;slopes and riverside are denuded and largely unexcavated&quot;,
+   &quot;Herodotus, Xenophon&#x27;s Cyropaedia and the eyewitness Alexander stratum (Arrian; the Ephemerides in Plutarch, &quot;
+   &quot;Alex. 76) are silent; only Clitarchus and Berossus/Abydenus carry the garden&quot;],
+  0.30, 0.95, 0.90),
+ (&quot;C4&quot;, &quot;The Nineveh match, net of what is missing&quot;,
+  [&quot;Sennacherib documents a palace garden &#x27;a replica of Mount Amanus&#x27;, water raised from wells by a novel cast-copper &quot;
+   &quot;installation, canals and aqueducts (RINAP 3/1 no. 17 vii 45-57; Jerwan); reliefs show an aqueduct on arches into &quot;
+   &quot;a planted hillside (BM 124939) and a pillared walkway roofed with trees (Or. Dr. IV 77)&quot;,
+   &quot;But his detailed accounts never describe terraces, vaults or a raised substructure; the &#x27;wonder for all peoples&#x27; &quot;
+   &quot;is the palace (no. 17 vii 50-52); the Amanus formula is reused by Esarhaddon (RINAP 4 no. 1 vi 30-34); the &quot;
+   &quot;relief shows a hillside and an aqueduct, not tiered vaults (Reade 2000; Bichler-Rollinger 2005)&quot;],
+  0.50, 0.70, 0.45),
+ (&quot;C5&quot;, &quot;Builder and wife&quot;,
+  [&quot;Nebuchadnezzar for his Median wife (Berossus); &#x27;a later Syrian king reigning at Babylon&#x27; for a Persian concubine &quot;
+   &quot;(Clitarchus): Nebuchadnezzar&#x27;s Median marriage is credible, Sennacherib&#x27;s queens (Tashmetu-sharrat, Naqia) are not Median&quot;,
+   &quot;but &#x27;Syrian&#x27; means Assyrian (Strabo 16.1.2) and fits any Sargonid who held Babylon, so the attribution itself is &quot;
+   &quot;only mildly discriminating. Building materials (the baked brick and bitumen of Strabo and Diodorus) are &quot;
+   &quot;not counted, because they do not discriminate: Sennacherib&#x27;s own &quot;
+   &quot;palace account has the terrace foundation bonded with bitumen under a bed of reeds (RINAP 3/1 no. 17 v 86-vi 1; &quot;
+   &quot;no. 16 vi 19b-21a) and culverts of baked brick under the city wall (no. 16 vii 81-84), and baked brick with &quot;
+   &quot;bitumen is attested archaeologically at Nineveh (Viggiano).&quot;],
+  0.55, 0.40, 0.50),
+ (&quot;C6&quot;, &quot;The screws&quot;,
+  [&quot;Strabo&#x27;s and Philo&#x27;s kochliai versus Sennacherib&#x27;s copper &#x27;tree trunks and date palms&#x27; set over wells for &quot;
+   &quot;bucket-drawn water (dilutu): the screw reading is conjectural (CAD A/1 and M/1; RINAP 3/1 note 49; Bagg 2000), &quot;
+   &quot;and the Greek screw is probably Hellenistic technology (Oleson in Dalley-Oleson 2003, 14)&quot;],
+  0.45, 0.50, 0.45),
+ (&quot;C7&quot;, &quot;A watered garden at the North Palace in Persian times&quot;,
+  [&quot;A Persian-period Babylon text lists gardeners (nukaribbu) and water-drawers (dalu) for the &#x27;new palace&#x27; &quot;
+   &quot;(Abraham 2004 no. 18, via Pedersen 2021, 121)&quot;],
+  0.80, 0.60, 0.60),
+]
+
+HYP = [&quot;Babylon&quot;, &quot;Nineveh&quot;, &quot;No single structure&quot;]
+
+def posterior(clusters, prior):
+    w = list(prior)
+    for c in clusters:
+        pb, pn, p0 = c[3], c[4], c[5]
+        w[0] *= pb; w[1] *= pn; w[2] *= p0
+    s = sum(w)
+    return [x / s for x in w]
+
+def fmt(p):
+    return &quot;  &quot;.join(f&quot;{h}: {x*100:5.1f}%&quot; for h, x in zip(HYP, p))
+
+def modify(clusters, changes):
+    out = []
+    for c in clusters:
+        cid, name, items, pb, pn, p0 = c
+        if cid in changes:
+            pb, pn, p0 = changes[cid]
+        out.append((cid, name, items, pb, pn, p0))
+    return out
+
+def main():
+    flat = (1/3, 1/3, 1/3)
+    base = posterior(CLUSTERS, flat)
+    print(&quot;Base case (flat priors):\n  &quot; + fmt(base))
+    print(&quot;\nLikelihood ratios per cluster (N:B, 0:B):&quot;)
+    for cid, name, items, pb, pn, p0 in CLUSTERS:
+        print(f&quot;  {cid} {name:48s} N/B = {pn/pb:5.2f}   0/B = {p0/pb:5.2f}&quot;)
+    print(&quot;\nAlternative priors:&quot;)
+    for name, pr in [(&quot;Babylon-leaning (0.45,0.20,0.35)&quot;, (0.45,0.20,0.35)),
+                     (&quot;Nineveh-leaning (0.30,0.40,0.30)&quot;, (0.30,0.40,0.30)),
+                     (&quot;Sceptic-leaning (0.30,0.20,0.50)&quot;, (0.30,0.20,0.50))]:
+        print(f&quot;  {name:36s} &quot; + fmt(posterior(CLUSTERS, pr)))
+    print(&quot;\nLeave-one-cluster-out (flat priors):&quot;)
+    for i, c in enumerate(CLUSTERS):
+        print(f&quot;  without {c[0]}  &quot; + fmt(posterior(CLUSTERS[:i] + CLUSTERS[i+1:], flat)))
+    print(&quot;\nDalley-favourable world: Berossus&#x27; garden sentence an interpolation (C2 N=0.6), the screw reading accepted&quot;)
+    print(&quot;(C6 B=0.30 N=0.85 0=0.30), Greek confusion granted and Nineveh not wholly abandoned (C1 N=0.35):&quot;)
+    dal = modify(CLUSTERS, {&quot;C2&quot;: (0.80, 0.60, 0.35), &quot;C6&quot;: (0.30, 0.85, 0.30), &quot;C1&quot;: (0.90, 0.35, 0.75)})
+    print(&quot;  &quot; + fmt(posterior(dal, flat)))
+    print(&quot;\nWhat would put Nineveh ahead: additionally a Nineveh text or relief showing vaulted, tiered terraces&quot;)
+    print(&quot;(C4 N=0.95) and the builder-and-wife cluster read as neutral (C5 0.5/0.5/0.5):&quot;)
+    dal2 = modify(dal, {&quot;C4&quot;: (0.50, 0.95, 0.45), &quot;C5&quot;: (0.50, 0.50, 0.50)})
+    print(&quot;  &quot; + fmt(posterior(dal2, flat)))
+    out = {&quot;hypotheses&quot;: HYP, &quot;base_posterior&quot;: base,
+           &quot;clusters&quot;: [dict(id=c[0], name=c[1], items=c[2], P_B=c[3], P_N=c[4], P_0=c[5]) for c in CLUSTERS],
+           &quot;dalley_favourable&quot;: posterior(dal, flat), &quot;nineveh_ahead_scenario&quot;: posterior(dal2, flat)}
+    with open(sys.argv[1] if len(sys.argv) &gt; 1 else &quot;likelihood_results.json&quot;, &quot;w&quot;) as f:
+        json.dump(out, f, indent=1)
+
+if __name__ == &quot;__main__&quot;:
+    main()
+</pre></div>
+</details>
+
+<h3>Selected bibliography</h3>
+<ul class="biblio">
+  <li>Bagg, A. M. 2000. <i>Assyrische Wasserbauten</i> (Baghdader Forschungen 24). Mainz.</li>
+  <li>Bagg, A. M. 2014. Review of Dalley 2013. <i>Bibliotheca Orientalis</i> 71: 485–492 (open access at Peeters Online Journals).</li>
+  <li>Bichler, R., and R. Rollinger. 2005. "Die Hängenden Gärten zu Ninive – Die Lösung eines Rätsels?" In <i>Von Sumer bis Homer. Festschrift Manfred Schretter</i> (AOAT 325), 153–218. <a href="http://www.achemenet.com/pdf/in-press/Haengende-Garten.pdf">Pre-print</a>.</li>
+  <li>Dalley, S. 1993. "Ancient Mesopotamian Gardens and the Identification of the Hanging Gardens of Babylon Resolved." <i>Garden History</i> 21: 1–13. doi:10.2307/1587050.</li>
+  <li>Dalley, S. 1994. "Nineveh, Babylon and the Hanging Gardens: Cuneiform and Classical Sources Reconciled." <i>Iraq</i> 56: 45–58. doi:10.2307/4200384.</li>
+  <li>Dalley, S. 1997. "The Hanging Gardens of Babylon at Nineveh." In <i>Assyrien im Wandel der Zeiten</i> (HSAO 6), ed. H. Waetzoldt and H. Hauptmann, 19–24. Heidelberg.</li>
+  <li>Dalley, S., and J. P. Oleson. 2003. "Sennacherib, Archimedes, and the Water Screw: The Context of Invention in the Ancient World." <i>Technology and Culture</i> 44: 1–26. doi:10.1353/tech.2003.0011.</li>
+  <li>Dalley, S. 2008. "Babylon as a Name for Other Cities Including Nineveh." In <i>Proceedings of the 51st Rencontre Assyriologique Internationale</i> (SAOC 62), 25–33. Chicago.</li>
+  <li>Dalley, S. 2013. <i>The Mystery of the Hanging Garden of Babylon: An Elusive World Wonder Traced</i>. Oxford.</li>
+  <li>Dalley, S. 2017. "Sennacherib's Palace Garden at Nineveh, a World Wonder." In L. P. Petit and D. Morandi Bonacossi (eds), <i>Nineveh, the Great City</i>, 188–191. Leiden.</li>
+  <li>Grayson, A. K., and J. Novotny. 2012–2014. <i>The Royal Inscriptions of Sennacherib, King of Assyria (704–681 BC)</i>, Parts 1–2 (RINAP 3/1–2). Winona Lake. Online at <a href="http://oracc.org/rinap/rinap3/">oracc.org/rinap/rinap3</a>.</li>
+  <li>Jacobsen, T., and S. Lloyd. 1935. <i>Sennacherib's Aqueduct at Jerwan</i> (OIP 24). Chicago. <a href="https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oip24.pdf">PDF</a>.</li>
+  <li>Koldewey, R. 1914. <i>The Excavations at Babylon</i>, tr. A. S. Johns. London. <a href="https://archive.org/details/ldpd_10797913_000">archive.org</a>.</li>
+  <li>Luckenbill, D. D. 1924. <i>The Annals of Sennacherib</i> (OIP 2). Chicago. 1927. <i>Ancient Records of Assyria and Babylonia</i> II. Chicago.</li>
+  <li>Novotny, J., and F. Weiershäuser. 2024. <i>The Royal Inscriptions of Nabopolassar and Nebuchadnezzar II, Part 1</i> (RINBE 1/1). University Park. <a href="https://epub.ub.uni-muenchen.de/118421/1/RINBE1-1_OA.pdf">Open access</a>.</li>
+  <li>Pedersén, O. 2021. <i>Babylon: The Great City</i>. Münster. <a href="https://www.zaphon.de/WebRoot/Store28/Shops/83179382/MediaGallery/Pedersen-Babylon-Zaphon-2021-100dpi.pdf">Open access</a>.</li>
+  <li>Potts, T. 2013. "Looking for the Hanging Gardens of Babylon." <i>New York Review of Books</i>, 26 September 2013. <a href="https://www.nybooks.com/articles/2013/09/26/looking-hanging-gardens-babylon/">Link</a>.</li>
+  <li>Reade, J. E. 2000. "Alexander the Great and the Hanging Gardens of Babylon." <i>Iraq</i> 62: 195–217. doi:10.2307/4200490.</li>
+  <li>Rollinger, R. 2013. "Berossos and the Monuments: City Walls, Sanctuaries, Palaces and the Hanging Gardens." In J. Haubold et al. (eds), <i>The World of Berossos</i>, 137–162. Wiesbaden.</li>
+  <li>The Assyrian Dictionary of the Oriental Institute of the University of Chicago (CAD), vols. A/1 (1964), G (1956), M/1 (1977), S (1984). <a href="https://isac.uchicago.edu/research/publications/assyrian-dictionary-oriental-institute-university-chicago-cad">Open access</a>.</li>
+  <li>Ur, J. 2005. "Sennacherib's Northern Assyrian Canals: New Insights from Satellite Imagery and Aerial Photography." <i>Iraq</i> 67: 317–345.</li>
+  <li>Viggiano, Y. 2025. "Displaying Social Dynamics in Clay: The Decorative Use of Baked Bricks in the Upper Parts of Mudbrick Walls in Sennacherib's Building Programs at Nineveh." <i>Asia Anteriore Antica</i> 7: 87–123. doi:10.36253/asiana-3351 (open access).</li>
+</ul>
+
+<footer>Every quotation above was copied from the cited edition or a digitised copy of it. Claims that rest on a secondary report of a source that could not be opened are marked as such in the text or in section 8.</footer>
+</div>
+</body>
+</html>

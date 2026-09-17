@@ -1,0 +1,8 @@
+time_local,sky,wind_dir,wind_m_s,temp_C,note
+15:00,overcast,N,5,-8,
+18:00,cloudy,N,1,-10,
+19:00,cloudy,N,3,-11,
+21:00,cloudy,N,1,-13,
+23:00,cloudy,W,1,-5,warm blip with wind veering W just ahead of the front
+00:00 (2 Feb),cloudy,NW,3,-15,dyatlovpass.com's converted table prints -5 F (-20.6 C) here; the scan reads -15 C
+03:00 (2 Feb),clear,W,3,-21,

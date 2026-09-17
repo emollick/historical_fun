@@ -1,0 +1,20 @@
+title: Lines Composed on the Occasion of His Royal Highness
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: iambic pentameter
+lines: 10
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+FAMED for contemptuous breach of sacred ties,
+By headless Charles see heartless Henry lies;
+Between them stands another sceptred thing--
+It moves, it reigns--in all but name, a king:
+
+Charles to his people, Henry to his wife,
+--In him the double tyrant starts to life:
+Justice and Death have mixed their dust in vain,
+Each royal Vampire wakes to life again.
+Ah, what can tombs avail!--since these disgorge
+The blood and dust of both--to mould a George.

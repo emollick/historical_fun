@@ -1,0 +1,46 @@
+TEXT: Ralph Lane, 'An extract of Master Ralph Lanes letter to M. Richard Hakluyt Esquire, and another Gentleman of the middle Temple, from Virginia' (3 Sept. 1585) (Hakluyt 1600, vol. III, p. 254)
+GOLDSMID SECTION: XXVI (Gutenberg #25645 file lines 11101-11142)
+SOURCE EDITION: Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid, vol. XIII 'America, Part II' (Edinburgh: E. & G. Goldsmid, 1889), text as transcribed by Project Gutenberg eBook #25645 (release 2008-05-29, updated 2020-06-20). Goldsmid reprints the text of the 1600 edition (vol. III) with original spelling (u/v, i/j as printed); Hakluyt's marginal notes are given as bracketed (Mnnn) references and Goldsmid's footnotes as (nnn) numbers.
+URL FETCHED: https://www.gutenberg.org/cache/epub/25645/pg25645.txt  (also https://www.gutenberg.org/files/25645/25645-8.txt)
+DATE FETCHED: 2026-09-14
+1600-EDITION PAGE NUMBERS: taken from the '[III. nnn.]' markers in the MacLehose edition (Glasgow 1904, vol. VIII), archive.org id principalnavigat08hakl, which reproduces the 1600 pagination; see maclehose1904_vol8_virginia_section.txt in this folder.
+==============================================================================
+
+XXVI. An extract of Master Ralph Lanes letter to M. Richard Hakluyt
+Esquire, and another Gentleman of the middle Temple, from Virginia.
+
+
+In the meane while you shall vnderstand, that since Sir Richard Greenuils
+departure from vs, as also before, we haue discouered the maine to be the
+goodliest soyle vnder the cope of heauen, so abounding with sweete trees,
+that bring such sundry rich and pleasant gummes, grapes of such
+greatenesse, yet wilde, as France, Spaine nor Italie haue no greater, so
+many sortes of Apothecarie drugs, such seuerall kindes of flaxe, and one
+kind like silke, the same gathered of a grasse, as common there, as grasse
+is here. And nowe within these few dayes we haue found here Maiz or Guinie
+wheate, whose eare yeeldeth corne for bread 400. vpon one eare, and the
+Cane maketh very good and perfect sugar, also Terra Samia, otherwise Terra
+sigillata. Besides that, it is the goodliest and most pleasing Territorie
+of the world: for the continent is of an huge and vnknowen greatnesse, and
+very well peopled and towned, though sauagely, and the climate so
+wholsome, that wee had not one sicke since we touched the land here. To
+conclude, if Virginia had but horses and kine in some reasonable
+proportion, I dare assure my selfe, being inhabited with English, no
+realme in Christendome were comparable to it. (M282) For this already we
+finde, that what commodities soeuer Spaine, France, Italy, or the East
+partes doe yeeld vnto vs, in wines of all sortes, in oyles, in flaxe, in
+rosens, pitch, frankensence, corrans, sugers, and such like, these partes
+doe abound with the growth of them all, but being Sauages that possess the
+land, they know no vse of the same. And sundry other rich commodities,
+that no parts of the world, be they West or East Indies, haue, here wee
+finde great abundance of. (M283) The people naturally are most curteous,
+and very desirous to haue clothes, bvt especially of course cloth rather
+then silke, course canuas they also like well of, but copper caryeth the
+price of all, so it be made red. Thus good M. Hakluyt and M.H. I haue
+inioyned you both in one letter of remembrance, as two that I loue dearely
+well, and commending me most heartily to you both I commit you to the
+tuition of the Almightie. From the New Fort in Virginia, this third of
+September, 1585.
+
+Your most assured friend.
+Ralph Lane.

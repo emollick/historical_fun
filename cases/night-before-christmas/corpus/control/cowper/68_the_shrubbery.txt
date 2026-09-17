@@ -1,0 +1,38 @@
+title: The Shrubbery
+author: William Cowper
+date: 1782
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: iambic tetrameter
+lines: 24
+attribution: certain
+notes: 
+
+Oh, happy shades--to me unblest!
+Friendly to peace, but not to me!
+How ill the scene that offers rest,
+And heart that cannot rest, agree!
+
+This glassy stream, that spreading pine,
+Those alders, quivering to the breeze,
+Might soothe a soul less hurt than mine,
+And please, if any thing could please.
+
+But fix'd unalterable Care
+Foregoes not what she feels within,
+Shows the same sadness every where,
+And slights the season and the scene.
+
+For all that pleased in wood or lawn,
+While Peace possess'd these silent bowers,
+Her animating smile withdrawn,
+Has lost its beauties and its powers.
+
+The saint or moralist should tread
+This moss-grown alley musing, slow;
+They seek like me the secret shade,
+But not like me to nourish woe!
+
+Me fruitful scenes and prospects waste
+Alike admonish not to roam;
+These tell me of enjoyments past,
+And those of sorrows yet to come.

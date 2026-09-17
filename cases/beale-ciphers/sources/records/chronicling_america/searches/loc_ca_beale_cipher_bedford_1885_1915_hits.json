@@ -1,0 +1,298 @@
+{
+ "source_file": "loc_ca_beale_cipher_bedford_1885_1915.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1915-12-31&fo=json&ops=AND&qs=beale+cipher+bedford&searchType=advanced&start_date=1885-01-01",
+ "total_hits": 36,
+ "results_in_capture": 36,
+ "results": [
+  {
+   "date": "1893-01-20",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-01-20/ed-1/?sp=1"
+  },
+  {
+   "date": "1901-10-15",
+   "title": "the news & observer (raleigh, n.c.) 1894-current",
+   "state": [
+    "north carolina"
+   ],
+   "url": "http://www.loc.gov/resource/sn85042104/1901-10-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1901-10-15",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1901-10-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1903-02-13",
+   "title": "the indianapolis journal (indianapolis [ind.]) 1867-1904",
+   "state": [
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/resource/sn82015679/1903-02-13/ed-1/?sp=6"
+  },
+  {
+   "date": "1901-10-18",
+   "title": "springfield weekly republican (springfield, mass.) 1851-1946",
+   "state": [
+    "massachusetts"
+   ],
+   "url": "http://www.loc.gov/resource/sn83020847/1901-10-18/ed-1/?sp=7"
+  },
+  {
+   "date": "1901-10-15",
+   "title": "the savannah morning news (savannah, ga.) 1900-current",
+   "state": [
+    "georgia"
+   ],
+   "url": "http://www.loc.gov/resource/sn89053684/1901-10-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1901-10-15",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1901-10-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1900-03-27",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1900-03-27/ed-1/?sp=7"
+  },
+  {
+   "date": "1892-06-30",
+   "title": "the saratoga sun (saratoga, carbon county, wyo.) 1891-current",
+   "state": [
+    "wyoming"
+   ],
+   "url": "http://www.loc.gov/resource/sn83002748/1892-06-30/ed-1/?sp=2"
+  },
+  {
+   "date": "1885-04-09",
+   "title": "reporter and farmer (webster, day county, dakota [s.d.]) 188?-1946",
+   "state": [
+    "south dakota"
+   ],
+   "url": "http://www.loc.gov/resource/sn99068116/1885-04-09/ed-1/?sp=2"
+  },
+  {
+   "date": "1896-05-03",
+   "title": "the morning times (washington, d.c.) 1895-1897",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024442/1896-05-03/ed-1/?sp=1"
+  },
+  {
+   "date": "1897-05-12",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1897-05-12/ed-1/?sp=2"
+  },
+  {
+   "date": "1887-03-14",
+   "title": "sacramento daily record-union (sacramento [calif.]) 1875-1891",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014381/1887-03-14/ed-1/?sp=4"
+  },
+  {
+   "date": "1905-08-05",
+   "title": "the baltimore county union (towsontown, md.) 1865-1909",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016368/1905-08-05/ed-1/?sp=3"
+  },
+  {
+   "date": "1890-08-04",
+   "title": "the morning call (san francisco [calif.]) 1878-1895",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn94052989/1890-08-04/ed-1/?sp=1"
+  },
+  {
+   "date": "1888-07-13",
+   "title": "the cambria freeman (ebensburg, pa.) 1867-1938",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn83032041/1888-07-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1899-11-15",
+   "title": "juniata sentinel and republican (mifflintown, juniata county, pa.) 1873-1955",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn86053634/1899-11-15/ed-1/?sp=3"
+  },
+  {
+   "date": "1886-08-06",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1886-08-06/ed-1/?sp=3"
+  },
+  {
+   "date": "1906-07-05",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1906-07-05/ed-1/?sp=9"
+  },
+  {
+   "date": "1888-11-16",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1888-11-16/ed-1/?sp=2"
+  },
+  {
+   "date": "1887-03-15",
+   "title": "the salt lake herald (salt lake city [utah]) 1870-1909",
+   "state": [
+    "utah"
+   ],
+   "url": "http://www.loc.gov/resource/sn85058130/1887-03-15/ed-1/?sp=1"
+  },
+  {
+   "date": "1889-02-18",
+   "title": "evening journal (wilmington, del.) 1888-1932",
+   "state": [
+    "delaware"
+   ],
+   "url": "http://www.loc.gov/resource/sn85042354/1889-02-18/ed-1/?sp=1"
+  },
+  {
+   "date": "1888-03-06",
+   "title": "st. paul daily globe (saint paul, minn.) 1884-1896",
+   "state": [
+    "minnesota"
+   ],
+   "url": "http://www.loc.gov/resource/sn90059522/1888-03-06/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-08-13",
+   "title": "the jersey city news (jersey city [n.j.]) 1889-1906",
+   "state": [
+    "new jersey"
+   ],
+   "url": "http://www.loc.gov/resource/sn87068097/1894-08-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1906-08-22",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1906-08-22/ed-1/?sp=9"
+  },
+  {
+   "date": "1886-07-06",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1886-07-06/ed-1/?sp=3"
+  },
+  {
+   "date": "1890-01-28",
+   "title": "the portland daily press (portland, me.) 1862-1921",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016025/1890-01-28/ed-1/?sp=3"
+  },
+  {
+   "date": "1907-08-04",
+   "title": "the courier-journal (louisville [ky.]) 1869-current",
+   "state": [
+    "kentucky"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045188/1907-08-04/ed-1/?sp=12"
+  },
+  {
+   "date": "1903-11-04",
+   "title": "alexandria gazette (alexandria, d.c.) 1834-1974",
+   "state": [
+    "virginia",
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025007/1903-11-04/ed-1/?sp=2"
+  },
+  {
+   "date": "1888-04-21",
+   "title": "st. paul daily globe (saint paul, minn.) 1884-1896",
+   "state": [
+    "minnesota"
+   ],
+   "url": "http://www.loc.gov/resource/sn90059522/1888-04-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1901-09-28",
+   "title": "alexandria gazette (alexandria, d.c.) 1834-1974",
+   "state": [
+    "virginia",
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85025007/1901-09-28/ed-1/?sp=2"
+  },
+  {
+   "date": "1889-12-13",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1889-12-13/ed-1/?sp=1"
+  },
+  {
+   "date": "1902-05-29",
+   "title": "the somerset reporter (skowhegan, me.) 1868-1909",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022565/1902-05-29/ed-1/?sp=3"
+  },
+  {
+   "date": "1897-11-15",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1897-11-15/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-04-12",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1894-04-12/ed-1/?sp=10"
+  },
+  {
+   "date": "1901-02-28",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1901-02-28/ed-1/?sp=13"
+  }
+ ]
+}

@@ -1,0 +1,1192 @@
+{
+ "1.1": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.0,
+   "SH": 1.0
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.0,
+   "R18": 0.65,
+   "SH": 0.35
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.0,
+   "R18": 0.58,
+   "SH": 0.42
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.49,
+   "SH": 0.51
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.0,
+   "R18": 0.46,
+   "SH": 0.54
+  },
+  "3c_150_delta": "R18",
+  "3c_150_svm": {
+   "FL": 0.0,
+   "R18": 0.59,
+   "SH": 0.41
+  },
+  "3c_late_delta": "R18",
+  "3c_late_svm": {
+   "FL": 0.0,
+   "R18": 0.63,
+   "SH": 0.37
+  },
+  "16c_delta": "R18",
+  "16c_svm": {
+   "FL": 0.0,
+   "JAC_Brome": 0.0,
+   "JAC_Chapman": 0.0,
+   "JAC_Davenant": 0.01,
+   "JAC_Dekker": 0.0,
+   "JAC_Ford": 0.0,
+   "JAC_Heywood": 0.0,
+   "JAC_Jonson": 0.1,
+   "JAC_Marston": 0.06,
+   "JAC_Middleton": 0.13,
+   "JAC_Rowley": 0.08,
+   "JAC_Shirley": 0.02,
+   "JAC_Webster": 0.15,
+   "MA": 0.01,
+   "R18": 0.34,
+   "SH": 0.09
+  },
+  "gi": {
+   "SH": 0.3,
+   "FL": 0.01
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 5.38,
+   "doth": 2.69,
+   "has": 0.0,
+   "does": 0.0,
+   "fem_proxy": 0.35,
+   "n_words": 372
+  },
+  "links": {
+   "Shakespeare": 4,
+   "Fletcher": 2,
+   "Beaumont+Fletcher": 0,
+   "Fletcher+other": 1,
+   "Shirley": 1,
+   "R18": 3,
+   "Theobald": 0
+  }
+ },
+ "1.2": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.01,
+   "SH": 0.99
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.0,
+   "R18": 0.44,
+   "SH": 0.56
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.0,
+   "R18": 0.5,
+   "SH": 0.5
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.64,
+   "SH": 0.36
+  },
+  "3c_500_delta": "SH",
+  "3c_500_svm": {
+   "FL": 0.0,
+   "R18": 0.14,
+   "SH": 0.86
+  },
+  "3c_150_delta": "R18",
+  "3c_150_svm": {
+   "FL": 0.0,
+   "R18": 0.45,
+   "SH": 0.54
+  },
+  "3c_late_delta": "SH",
+  "3c_late_svm": {
+   "FL": 0.0,
+   "R18": 0.7,
+   "SH": 0.3
+  },
+  "16c_delta": "JAC_Shirley",
+  "16c_svm": {
+   "FL": 0.0,
+   "JAC_Brome": 0.01,
+   "JAC_Chapman": 0.08,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.03,
+   "JAC_Ford": 0.03,
+   "JAC_Heywood": 0.01,
+   "JAC_Jonson": 0.12,
+   "JAC_Marston": 0.01,
+   "JAC_Middleton": 0.04,
+   "JAC_Rowley": 0.02,
+   "JAC_Shirley": 0.09,
+   "JAC_Webster": 0.01,
+   "MA": 0.01,
+   "R18": 0.37,
+   "SH": 0.17
+  },
+  "gi": {
+   "SH": 0.48,
+   "FL": 0.09
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.54,
+   "hath": 1.07,
+   "doth": 0.54,
+   "has": 2.68,
+   "does": 0.0,
+   "fem_proxy": 0.39,
+   "n_words": 1868
+  },
+  "links": {
+   "Shakespeare": 33,
+   "Fletcher": 10,
+   "Beaumont+Fletcher": 12,
+   "Fletcher+other": 19,
+   "Shirley": 14,
+   "R18": 22,
+   "Theobald": 0
+  }
+ },
+ "1.3": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.01,
+   "SH": 0.99
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.0,
+   "R18": 0.08,
+   "SH": 0.92
+  },
+  "3c_all_delta": "SH",
+  "3c_all_svm": {
+   "FL": 0.04,
+   "R18": 0.08,
+   "SH": 0.87
+  },
+  "3c_char4_delta": "SH",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.0,
+   "SH": 0.99
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.0,
+   "R18": 0.02,
+   "SH": 0.97
+  },
+  "3c_150_delta": "SH",
+  "3c_150_svm": {
+   "FL": 0.0,
+   "R18": 0.03,
+   "SH": 0.97
+  },
+  "3c_late_delta": "SH",
+  "3c_late_svm": {
+   "FL": 0.0,
+   "R18": 0.05,
+   "SH": 0.94
+  },
+  "16c_delta": "JAC_Marston",
+  "16c_svm": {
+   "FL": 0.0,
+   "JAC_Brome": 0.0,
+   "JAC_Chapman": 0.06,
+   "JAC_Davenant": 0.39,
+   "JAC_Dekker": 0.04,
+   "JAC_Ford": 0.0,
+   "JAC_Heywood": 0.01,
+   "JAC_Jonson": 0.12,
+   "JAC_Marston": 0.05,
+   "JAC_Middleton": 0.0,
+   "JAC_Rowley": 0.01,
+   "JAC_Shirley": 0.0,
+   "JAC_Webster": 0.01,
+   "MA": 0.01,
+   "R18": 0.08,
+   "SH": 0.22
+  },
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.27
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 1.57,
+   "hath": 0.0,
+   "doth": 1.57,
+   "has": 0.0,
+   "does": 1.57,
+   "fem_proxy": 0.45,
+   "n_words": 635
+  },
+  "links": {
+   "Shakespeare": 8,
+   "Fletcher": 6,
+   "Beaumont+Fletcher": 0,
+   "Fletcher+other": 7,
+   "Shirley": 5,
+   "R18": 10,
+   "Theobald": 0
+  }
+ },
+ "2.1": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.01,
+   "SH": 0.99
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.0,
+   "R18": 0.5,
+   "SH": 0.5
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.0,
+   "R18": 0.71,
+   "SH": 0.29
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.99,
+   "SH": 0.01
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.0,
+   "R18": 0.99,
+   "SH": 0.01
+  },
+  "3c_150_delta": "R18",
+  "3c_150_svm": {
+   "FL": 0.02,
+   "R18": 0.18,
+   "SH": 0.8
+  },
+  "3c_late_delta": "R18",
+  "3c_late_svm": {
+   "FL": 0.0,
+   "R18": 0.75,
+   "SH": 0.25
+  },
+  "16c_delta": "R18",
+  "16c_svm": {
+   "FL": 0.0,
+   "JAC_Brome": 0.02,
+   "JAC_Chapman": 0.01,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.0,
+   "JAC_Ford": 0.01,
+   "JAC_Heywood": 0.0,
+   "JAC_Jonson": 0.18,
+   "JAC_Marston": 0.02,
+   "JAC_Middleton": 0.56,
+   "JAC_Rowley": 0.03,
+   "JAC_Shirley": 0.01,
+   "JAC_Webster": 0.0,
+   "MA": 0.0,
+   "R18": 0.1,
+   "SH": 0.05
+  },
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.26
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 0.0,
+   "does": 2.1,
+   "fem_proxy": 0.22,
+   "n_words": 477
+  },
+  "links": {
+   "Shakespeare": 8,
+   "Fletcher": 3,
+   "Beaumont+Fletcher": 4,
+   "Fletcher+other": 7,
+   "Shirley": 3,
+   "R18": 15,
+   "Theobald": 0
+  }
+ },
+ "2.2": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.03,
+   "SH": 0.97
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.0,
+   "R18": 0.91,
+   "SH": 0.09
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.0,
+   "R18": 0.79,
+   "SH": 0.21
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.5,
+   "SH": 0.5
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.0,
+   "R18": 0.59,
+   "SH": 0.41
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.24,
+   "R18": 0.57,
+   "SH": 0.2
+  },
+  "3c_late_delta": "SH",
+  "3c_late_svm": {
+   "FL": 0.0,
+   "R18": 0.88,
+   "SH": 0.11
+  },
+  "16c_delta": "JAC_Shirley",
+  "16c_svm": {
+   "FL": 0.0,
+   "JAC_Brome": 0.01,
+   "JAC_Chapman": 0.01,
+   "JAC_Davenant": 0.03,
+   "JAC_Dekker": 0.03,
+   "JAC_Ford": 0.01,
+   "JAC_Heywood": 0.16,
+   "JAC_Jonson": 0.06,
+   "JAC_Marston": 0.01,
+   "JAC_Middleton": 0.05,
+   "JAC_Rowley": 0.0,
+   "JAC_Shirley": 0.59,
+   "JAC_Webster": 0.01,
+   "MA": 0.0,
+   "R18": 0.02,
+   "SH": 0.0
+  },
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.23
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 2.82,
+   "does": 0.0,
+   "fem_proxy": 0.4,
+   "n_words": 355
+  },
+  "links": {
+   "Shakespeare": 3,
+   "Fletcher": 3,
+   "Beaumont+Fletcher": 1,
+   "Fletcher+other": 3,
+   "Shirley": 1,
+   "R18": 8,
+   "Theobald": 0
+  }
+ },
+ "2.3": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.0,
+   "SH": 1.0
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.0,
+   "R18": 0.62,
+   "SH": 0.38
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.0,
+   "R18": 0.62,
+   "SH": 0.38
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.85,
+   "SH": 0.15
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.0,
+   "R18": 0.84,
+   "SH": 0.16
+  },
+  "3c_150_delta": "R18",
+  "3c_150_svm": {
+   "FL": 0.0,
+   "R18": 0.69,
+   "SH": 0.31
+  },
+  "3c_late_delta": "R18",
+  "3c_late_svm": {
+   "FL": 0.0,
+   "R18": 0.66,
+   "SH": 0.34
+  },
+  "16c_delta": "R18",
+  "16c_svm": {
+   "FL": 0.0,
+   "JAC_Brome": 0.01,
+   "JAC_Chapman": 0.01,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.0,
+   "JAC_Ford": 0.05,
+   "JAC_Heywood": 0.0,
+   "JAC_Jonson": 0.11,
+   "JAC_Marston": 0.01,
+   "JAC_Middleton": 0.12,
+   "JAC_Rowley": 0.02,
+   "JAC_Shirley": 0.02,
+   "JAC_Webster": 0.0,
+   "MA": 0.0,
+   "R18": 0.42,
+   "SH": 0.23
+  },
+  "gi": {
+   "SH": 0.53,
+   "FL": 0.18
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 2.24,
+   "does": 0.56,
+   "fem_proxy": 0.4,
+   "n_words": 1785
+  },
+  "links": {
+   "Shakespeare": 28,
+   "Fletcher": 10,
+   "Beaumont+Fletcher": 6,
+   "Fletcher+other": 27,
+   "Shirley": 14,
+   "R18": 56,
+   "Theobald": 0
+  }
+ },
+ "2.4": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.51,
+   "SH": 0.49
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.02,
+   "R18": 0.92,
+   "SH": 0.06
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.11,
+   "R18": 0.88,
+   "SH": 0.01
+  },
+  "3c_char4_delta": "FL",
+  "3c_char4_svm": {
+   "FL": 0.16,
+   "R18": 0.82,
+   "SH": 0.02
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.01,
+   "R18": 0.85,
+   "SH": 0.14
+  },
+  "3c_150_delta": "R18",
+  "3c_150_svm": {
+   "FL": 0.01,
+   "R18": 0.96,
+   "SH": 0.03
+  },
+  "3c_late_delta": "SH",
+  "3c_late_svm": {
+   "FL": 0.06,
+   "R18": 0.91,
+   "SH": 0.04
+  },
+  "16c_delta": "JAC_Shirley",
+  "16c_svm": {
+   "FL": 0.01,
+   "JAC_Brome": 0.0,
+   "JAC_Chapman": 0.0,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.03,
+   "JAC_Ford": 0.04,
+   "JAC_Heywood": 0.01,
+   "JAC_Jonson": 0.01,
+   "JAC_Marston": 0.0,
+   "JAC_Middleton": 0.03,
+   "JAC_Rowley": 0.0,
+   "JAC_Shirley": 0.04,
+   "JAC_Webster": 0.03,
+   "MA": 0.01,
+   "R18": 0.64,
+   "SH": 0.14
+  },
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.4
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 6.41,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 3.21,
+   "does": 0.0,
+   "fem_proxy": 0.34,
+   "n_words": 312
+  },
+  "links": {
+   "Shakespeare": 8,
+   "Fletcher": 8,
+   "Beaumont+Fletcher": 2,
+   "Fletcher+other": 7,
+   "Shirley": 4,
+   "R18": 9,
+   "Theobald": 0
+  }
+ },
+ "3.1": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.33,
+   "SH": 0.67
+  },
+  "3c_delta": "FL",
+  "3c_svm": {
+   "FL": 0.05,
+   "R18": 0.32,
+   "SH": 0.62
+  },
+  "3c_all_delta": "FL",
+  "3c_all_svm": {
+   "FL": 0.03,
+   "R18": 0.37,
+   "SH": 0.6
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.02,
+   "R18": 0.81,
+   "SH": 0.17
+  },
+  "3c_500_delta": "FL",
+  "3c_500_svm": {
+   "FL": 0.18,
+   "R18": 0.12,
+   "SH": 0.71
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.35,
+   "R18": 0.07,
+   "SH": 0.58
+  },
+  "3c_late_delta": "SH",
+  "3c_late_svm": {
+   "FL": 0.09,
+   "R18": 0.01,
+   "SH": 0.91
+  },
+  "16c_delta": "FL",
+  "16c_svm": {
+   "FL": 0.15,
+   "JAC_Brome": 0.0,
+   "JAC_Chapman": 0.24,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.0,
+   "JAC_Ford": 0.0,
+   "JAC_Heywood": 0.02,
+   "JAC_Jonson": 0.05,
+   "JAC_Marston": 0.02,
+   "JAC_Middleton": 0.1,
+   "JAC_Rowley": 0.02,
+   "JAC_Shirley": 0.16,
+   "JAC_Webster": 0.02,
+   "MA": 0.0,
+   "R18": 0.02,
+   "SH": 0.19
+  },
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.59
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 2.96,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 0.0,
+   "does": 0.0,
+   "fem_proxy": 0.57,
+   "n_words": 338
+  },
+  "links": {
+   "Shakespeare": 5,
+   "Fletcher": 4,
+   "Beaumont+Fletcher": 2,
+   "Fletcher+other": 5,
+   "Shirley": 1,
+   "R18": 6,
+   "Theobald": 0
+  }
+ },
+ "3.2": {
+  "2c_delta": "SH",
+  "2c_svm": {
+   "FL": 0.1,
+   "SH": 0.9
+  },
+  "3c_delta": "R18",
+  "3c_svm": {
+   "FL": 0.04,
+   "R18": 0.18,
+   "SH": 0.78
+  },
+  "3c_all_delta": "R18",
+  "3c_all_svm": {
+   "FL": 0.02,
+   "R18": 0.32,
+   "SH": 0.67
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.0,
+   "R18": 0.9,
+   "SH": 0.1
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.01,
+   "R18": 0.33,
+   "SH": 0.66
+  },
+  "3c_150_delta": "R18",
+  "3c_150_svm": {
+   "FL": 0.04,
+   "R18": 0.31,
+   "SH": 0.65
+  },
+  "3c_late_delta": "SH",
+  "3c_late_svm": {
+   "FL": 0.07,
+   "R18": 0.53,
+   "SH": 0.39
+  },
+  "16c_delta": "JAC_Ford",
+  "16c_svm": {
+   "FL": 0.02,
+   "JAC_Brome": 0.04,
+   "JAC_Chapman": 0.15,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.05,
+   "JAC_Ford": 0.03,
+   "JAC_Heywood": 0.08,
+   "JAC_Jonson": 0.03,
+   "JAC_Marston": 0.03,
+   "JAC_Middleton": 0.0,
+   "JAC_Rowley": 0.12,
+   "JAC_Shirley": 0.13,
+   "JAC_Webster": 0.01,
+   "MA": 0.01,
+   "R18": 0.21,
+   "SH": 0.07
+  },
+  "gi": {
+   "SH": 0.37,
+   "FL": 0.33
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.72,
+   "hath": 2.87,
+   "doth": 0.0,
+   "has": 1.44,
+   "does": 0.72,
+   "fem_proxy": 0.4,
+   "n_words": 1392
+  },
+  "links": {
+   "Shakespeare": 31,
+   "Fletcher": 8,
+   "Beaumont+Fletcher": 3,
+   "Fletcher+other": 12,
+   "Shirley": 9,
+   "R18": 24,
+   "Theobald": 0
+  }
+ },
+ "3.3": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.98,
+   "SH": 0.02
+  },
+  "3c_delta": "FL",
+  "3c_svm": {
+   "FL": 0.88,
+   "R18": 0.11,
+   "SH": 0.01
+  },
+  "3c_all_delta": "FL",
+  "3c_all_svm": {
+   "FL": 0.46,
+   "R18": 0.54,
+   "SH": 0.0
+  },
+  "3c_char4_delta": "FL",
+  "3c_char4_svm": {
+   "FL": 0.42,
+   "R18": 0.57,
+   "SH": 0.01
+  },
+  "3c_500_delta": "FL",
+  "3c_500_svm": {
+   "FL": 0.6,
+   "R18": 0.4,
+   "SH": 0.0
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.74,
+   "R18": 0.25,
+   "SH": 0.0
+  },
+  "3c_late_delta": "FL",
+  "3c_late_svm": {
+   "FL": 0.81,
+   "R18": 0.19,
+   "SH": 0.01
+  },
+  "16c_delta": "FL",
+  "16c_svm": {
+   "FL": 0.44,
+   "JAC_Brome": 0.01,
+   "JAC_Chapman": 0.02,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.02,
+   "JAC_Ford": 0.0,
+   "JAC_Heywood": 0.0,
+   "JAC_Jonson": 0.0,
+   "JAC_Marston": 0.0,
+   "JAC_Middleton": 0.01,
+   "JAC_Rowley": 0.12,
+   "JAC_Shirley": 0.02,
+   "JAC_Webster": 0.02,
+   "MA": 0.0,
+   "R18": 0.3,
+   "SH": 0.03
+  },
+  "gi": {
+   "SH": 0.32,
+   "FL": 0.83
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 4.54,
+   "does": 0.76,
+   "fem_proxy": 0.48,
+   "n_words": 1323
+  },
+  "links": {
+   "Shakespeare": 26,
+   "Fletcher": 15,
+   "Beaumont+Fletcher": 8,
+   "Fletcher+other": 23,
+   "Shirley": 9,
+   "R18": 16,
+   "Theobald": 0
+  }
+ },
+ "4.1": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.42,
+   "SH": 0.58
+  },
+  "3c_delta": "FL",
+  "3c_svm": {
+   "FL": 0.25,
+   "R18": 0.58,
+   "SH": 0.17
+  },
+  "3c_all_delta": "FL",
+  "3c_all_svm": {
+   "FL": 0.16,
+   "R18": 0.79,
+   "SH": 0.06
+  },
+  "3c_char4_delta": "FL",
+  "3c_char4_svm": {
+   "FL": 0.62,
+   "R18": 0.29,
+   "SH": 0.1
+  },
+  "3c_500_delta": "FL",
+  "3c_500_svm": {
+   "FL": 0.03,
+   "R18": 0.54,
+   "SH": 0.43
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.11,
+   "R18": 0.65,
+   "SH": 0.24
+  },
+  "3c_late_delta": "FL",
+  "3c_late_svm": {
+   "FL": 0.49,
+   "R18": 0.28,
+   "SH": 0.23
+  },
+  "16c_delta": "FL",
+  "16c_svm": {
+   "FL": 0.17,
+   "JAC_Brome": 0.01,
+   "JAC_Chapman": 0.04,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.01,
+   "JAC_Ford": 0.0,
+   "JAC_Heywood": 0.0,
+   "JAC_Jonson": 0.01,
+   "JAC_Marston": 0.01,
+   "JAC_Middleton": 0.02,
+   "JAC_Rowley": 0.06,
+   "JAC_Shirley": 0.45,
+   "JAC_Webster": 0.01,
+   "MA": 0.0,
+   "R18": 0.06,
+   "SH": 0.13
+  },
+  "gi": {
+   "SH": 0.44,
+   "FL": 0.81
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.48,
+   "hath": 0.96,
+   "doth": 0.0,
+   "has": 3.84,
+   "does": 1.44,
+   "fem_proxy": 0.38,
+   "n_words": 2082
+  },
+  "links": {
+   "Shakespeare": 25,
+   "Fletcher": 32,
+   "Beaumont+Fletcher": 11,
+   "Fletcher+other": 28,
+   "Shirley": 10,
+   "R18": 40,
+   "Theobald": 0
+  }
+ },
+ "4.2": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.91,
+   "SH": 0.09
+  },
+  "3c_delta": "FL",
+  "3c_svm": {
+   "FL": 0.37,
+   "R18": 0.61,
+   "SH": 0.02
+  },
+  "3c_all_delta": "FL",
+  "3c_all_svm": {
+   "FL": 0.41,
+   "R18": 0.58,
+   "SH": 0.0
+  },
+  "3c_char4_delta": "FL",
+  "3c_char4_svm": {
+   "FL": 0.5,
+   "R18": 0.38,
+   "SH": 0.12
+  },
+  "3c_500_delta": "FL",
+  "3c_500_svm": {
+   "FL": 0.69,
+   "R18": 0.3,
+   "SH": 0.01
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.33,
+   "R18": 0.66,
+   "SH": 0.01
+  },
+  "3c_late_delta": "FL",
+  "3c_late_svm": {
+   "FL": 0.33,
+   "R18": 0.25,
+   "SH": 0.42
+  },
+  "16c_delta": "FL",
+  "16c_svm": {
+   "FL": 0.47,
+   "JAC_Brome": 0.0,
+   "JAC_Chapman": 0.04,
+   "JAC_Davenant": 0.0,
+   "JAC_Dekker": 0.04,
+   "JAC_Ford": 0.01,
+   "JAC_Heywood": 0.09,
+   "JAC_Jonson": 0.01,
+   "JAC_Marston": 0.01,
+   "JAC_Middleton": 0.02,
+   "JAC_Rowley": 0.02,
+   "JAC_Shirley": 0.01,
+   "JAC_Webster": 0.0,
+   "MA": 0.0,
+   "R18": 0.24,
+   "SH": 0.02
+  },
+  "gi": {
+   "SH": 0.39,
+   "FL": 0.48
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 3.18,
+   "does": 0.0,
+   "fem_proxy": 0.46,
+   "n_words": 943
+  },
+  "links": {
+   "Shakespeare": 15,
+   "Fletcher": 13,
+   "Beaumont+Fletcher": 4,
+   "Fletcher+other": 22,
+   "Shirley": 6,
+   "R18": 12,
+   "Theobald": 0
+  }
+ },
+ "5.1": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.96,
+   "SH": 0.04
+  },
+  "3c_delta": "FL",
+  "3c_svm": {
+   "FL": 0.73,
+   "R18": 0.26,
+   "SH": 0.01
+  },
+  "3c_all_delta": "FL",
+  "3c_all_svm": {
+   "FL": 0.47,
+   "R18": 0.48,
+   "SH": 0.04
+  },
+  "3c_char4_delta": "R18",
+  "3c_char4_svm": {
+   "FL": 0.07,
+   "R18": 0.92,
+   "SH": 0.0
+  },
+  "3c_500_delta": "R18",
+  "3c_500_svm": {
+   "FL": 0.59,
+   "R18": 0.4,
+   "SH": 0.0
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.58,
+   "R18": 0.41,
+   "SH": 0.01
+  },
+  "3c_late_delta": "FL",
+  "3c_late_svm": {
+   "FL": 0.92,
+   "R18": 0.08,
+   "SH": 0.0
+  },
+  "16c_delta": "FL",
+  "16c_svm": {
+   "FL": 0.48,
+   "JAC_Brome": 0.01,
+   "JAC_Chapman": 0.01,
+   "JAC_Davenant": 0.01,
+   "JAC_Dekker": 0.05,
+   "JAC_Ford": 0.01,
+   "JAC_Heywood": 0.0,
+   "JAC_Jonson": 0.0,
+   "JAC_Marston": 0.06,
+   "JAC_Middleton": 0.01,
+   "JAC_Rowley": 0.16,
+   "JAC_Shirley": 0.02,
+   "JAC_Webster": 0.05,
+   "MA": 0.0,
+   "R18": 0.1,
+   "SH": 0.03
+  },
+  "gi": {
+   "SH": 0.41,
+   "FL": 0.35
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 0.0,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 7.41,
+   "does": 0.0,
+   "fem_proxy": 0.43,
+   "n_words": 675
+  },
+  "links": {
+   "Shakespeare": 7,
+   "Fletcher": 9,
+   "Beaumont+Fletcher": 1,
+   "Fletcher+other": 8,
+   "Shirley": 4,
+   "R18": 12,
+   "Theobald": 0
+  }
+ },
+ "5.2": {
+  "2c_delta": "FL",
+  "2c_svm": {
+   "FL": 0.65,
+   "SH": 0.35
+  },
+  "3c_delta": "FL",
+  "3c_svm": {
+   "FL": 0.49,
+   "R18": 0.27,
+   "SH": 0.24
+  },
+  "3c_all_delta": "FL",
+  "3c_all_svm": {
+   "FL": 0.4,
+   "R18": 0.48,
+   "SH": 0.11
+  },
+  "3c_char4_delta": "FL",
+  "3c_char4_svm": {
+   "FL": 0.19,
+   "R18": 0.79,
+   "SH": 0.02
+  },
+  "3c_500_delta": "FL",
+  "3c_500_svm": {
+   "FL": 0.26,
+   "R18": 0.02,
+   "SH": 0.72
+  },
+  "3c_150_delta": "FL",
+  "3c_150_svm": {
+   "FL": 0.23,
+   "R18": 0.71,
+   "SH": 0.07
+  },
+  "3c_late_delta": "FL",
+  "3c_late_svm": {
+   "FL": 0.59,
+   "R18": 0.1,
+   "SH": 0.31
+  },
+  "16c_delta": "FL",
+  "16c_svm": {
+   "FL": 0.23,
+   "JAC_Brome": 0.02,
+   "JAC_Chapman": 0.05,
+   "JAC_Davenant": 0.01,
+   "JAC_Dekker": 0.02,
+   "JAC_Ford": 0.0,
+   "JAC_Heywood": 0.01,
+   "JAC_Jonson": 0.12,
+   "JAC_Marston": 0.02,
+   "JAC_Middleton": 0.02,
+   "JAC_Rowley": 0.16,
+   "JAC_Shirley": 0.02,
+   "JAC_Webster": 0.01,
+   "MA": 0.0,
+   "R18": 0.12,
+   "SH": 0.17
+  },
+  "gi": {
+   "SH": 0.59,
+   "FL": 0.84
+  },
+  "markers": {
+   "ye": 0.0,
+   "em": 1.29,
+   "hath": 0.0,
+   "doth": 0.0,
+   "has": 6.46,
+   "does": 0.0,
+   "fem_proxy": 0.46,
+   "n_words": 2323
+  },
+  "links": {
+   "Shakespeare": 23,
+   "Fletcher": 33,
+   "Beaumont+Fletcher": 16,
+   "Fletcher+other": 33,
+   "Shirley": 16,
+   "R18": 38,
+   "Theobald": 0
+  }
+ }
+}

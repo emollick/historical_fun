@@ -1,0 +1,15 @@
+title: Journal in Cephalonia
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: iambic pentameter
+lines: 6
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+THE dead have been awakened--shall I sleep?
+The World's at war with tyrants--shall I crouch?
+The harvest's ripe--and shall I pause to reap?
+I slumber not; the thorn is in my Couch;
+Each day a trumpet soundeth in mine ear,
+Its echo in my heart----

@@ -1,0 +1,30 @@
+feature,x_west_ft,x_east_ft,y_south_ft,y_north_ft,label_on_plan,basis
+Frank Shult's saloon (corner),0,59.5,0.5,21.9,"Frank Shult's Saloon 2 stories 20'x60'","Musham 1940 p.98 plan; 4.12 px/ft from its scale bar; x measured from W face of saloon (taken as Jefferson E line); y from DeKoven N line; +-2 ft"
+Stores and dwellings 20x40 along Jefferson (4 units),0,40,21.9,99.5,"20'x40' Stores and Dwellings",same
+Shed 20x12 front of 141,74,85,0.5,20.6,"Shed 20'x12'",same
+Large frame house No.141,86.7,108,0.5,43.7,"Large frame house / No. 141",same
+2-story barn 20x20 rear of 141,65.5,86,80,99.5,"2 story barn 20'x20'",same
+Ice house 12x12,74,86,68,79,"Ice House 12'x12'",same
+Shed 12x25 rear of 141/139,86.7,111,87,99.5,"Shed 12'x25'",same
+Cottage Mrs Annie Murray No.139,111,130,3.6,30.3,"Cottage Mrs. Annie Murray / 139",same
+Shed 12x20 rear of 139,111,132,87,99.5,"Shed 12'x20'",same
+O'Leary lot lines (137),133,158,0,100.75,"137",same (lines at x=803 and 905 px)
+O'Leary barn 16x20,134.7,155.3,82,100.2,"O'Leary barn 16'x20'",same
+Cottage Patrick O'Leary (rear),136,154,23,40,"Cottages Patrick O'Leary",same
+Cottage Patrick McLaughlin (front),136,154,3.6,21.8,"Patrick McLaughlin",same
+Dalton cottage No.135,160,181,37.6,64.3,"Cottage James Dalton / 135","same; NB Andreas gives 40 ft depth (front 2 ft S of O'Leary N line) -> rear at ~78 ft"
+Dalton shed 12x20 (alley),160,181,87,99.5,"Shed 12'x20'",same
+Cottage Morris Connovan (133 rear),186,205,40,60.7,"Cottage Morris Connovan",same
+William Lee (133 middle),186,205,21.8,40,"William Lee",same
+Walter Forbes (133 front),186,205,3.6,20.6,"Walter Forbes / 133",same
+2-story barn 20x25 rear of 133,182,206,80,100.7,"2 story barn 20'x25'",same
+Alley,-,-,100.75,115.75,"Alley 15' wide",same
+Sheds 10x25 north of alley (4),86.7-181,,115,126,"Shed 10'x25' (x4)",same
+Paint shop north of alley,186,206,115,126,"John Tchle(?) Paint Shop",same
+Point A window over Shult's saloon,48.5,,23,,"A","Musham: fire seen from window (A) at 8:45"
+Point B Connovan cottage wall,198,,65.5,,"B","reflection seen on wall (B) from Dalton cottage (C) at 8:55"
+Point C Dalton cottage,172,,71.6,,"C",
+Point D William Lee home,181,,29,,"D","fire also seen from (D) about same time"
+Little Giant engine No.6 position,-28,,-59.5,,"The Little Giant","SW corner Jefferson/DeKoven; hose line laid through O'Leary lot"
+DeKoven S line as drawn,,,-53.4,,"De Koven Street 60 feet wide","drawn 53 ft; labelled 60"
+Jefferson W line as drawn,-33.5,,,,"Jefferson Street 40 feet wide","drawn 33.5 ft; labelled 40"

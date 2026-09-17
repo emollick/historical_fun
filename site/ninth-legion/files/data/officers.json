@@ -1,0 +1,662 @@
+[
+ {
+  "name": "Q. Petillius Cerialis Caesius Rufus",
+  "rank_in_IX": "legatus legionis (senatorial)",
+  "inscription_ref": "Tacitus, Annales 14.32 (literary); cf. Agricola 8, 17",
+  "db_ids": {},
+  "url": "https://www.thelatinlibrary.com/tacitus/tac.ann14.shtml",
+  "findspot": "n/a (literary)",
+  "latin_text": "et victor Britannus, Petil[l]io Ceriali, legato legionis nonae, in subsidium adventanti obvius, fudit legionem, et quod peditum interfecit: Cerialis cum equitibus evasit in castra et munimentis defensus est. (Tac. Ann. 14.32, Latin Library text)",
+  "fixed_points": [
+   {
+    "event": "Boudican revolt, defeat of the Ninth's infantry",
+    "date": "60 (or 61)",
+    "evidence": "Tacitus Ann. 14.29-39; dated by the consular year of Caesennius Paetus and Petronius Turpilianus (61) / governorship of Suetonius Paulinus"
+   },
+   {
+    "event": "later career: cos. suff. 70 and 74, governor of Britain 71-73/4",
+    "date": "70-74",
+    "evidence": "Tacitus Hist. 3-5, Agr. 8, 17; fasti (recalled)"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 58",
+   "latest": "61",
+   "most_likely": "60/61"
+  },
+  "reasoning": "Directly dated by the narrative of the revolt; the only literarily dated legate of the Ninth.",
+  "scholars_views": "A. Birley, Fasti (1981) 231 (legate 59-61); universally accepted.",
+  "verified_online": "Latin text verified (Latin Library); dating recalled/standard"
+ },
+ {
+  "name": "C. Caristanius C. f. Ser. Fronto",
+  "rank_in_IX": "legatus legionis (senatorial, adlected inter praetorios)",
+  "inscription_ref": "ILS 9485 = AE 1914, 262 (Antioch in Pisidia)",
+  "db_ids": {
+   "EDCS": "EDCS-16201163"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-16201163); Dessau ILS III.2 no. 9485 (archive.org inscriptioneslat03dessuoft)",
+  "findspot": "Antioch in Pisidia (Yalvac, Turkey)",
+  "latin_text": "C(aio) Carist[a]/nio C(ai) f(ilio) Ser(gia) Fr[on]/toni trib(uno) mil(itum) pr[aef(ecto)] / eq(uitum) alae Bosp(oranorum) adl[e]/cto in senatu(m) inter / tribunic(ios) promoto in/ter praetorios leg(ato) pro / pr(aetore) Ponti et Bithyn(iae) leg(ato) Imp(eratoris) / divi Vespasian(i) Aug(usti) leg(ionis) / IX Hispanae in Britann(ia) / leg(ato) pro pr(aetore) Imp(eratoris) divi Titi / Caes(aris) Aug(usti) et Imp(eratoris) Domitian(i) / Caes(aris) Aug(usti) provinc(iae) Pam/phyliae et Lyciae patro/no col(oniae) // T(itus) Caristanius Cal/purnianus Rufus / ob merita eius h(onoris) c(ausa)  [EDCS text]",
+  "fixed_points": [
+   {
+    "event": "legate of IX Hispana 'in Britannia' under Vespasian",
+    "date": "before 24 June 79",
+    "evidence": "the stone itself: leg. Imp. divi Vespasiani Aug."
+   },
+   {
+    "event": "governor of Lycia-Pamphylia under Titus and Domitian",
+    "date": "c. 81-84",
+    "evidence": "stone; Eck, Chiron 12 (1982) 307-9 (via Wikipedia)"
+   },
+   {
+    "event": "consul suffect",
+    "date": "90",
+    "evidence": "Gallivan, CQ 31 (1981) 191, 217 (via Wikipedia)"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 74",
+   "latest": "79",
+   "most_likely": "c. 76-79"
+  },
+  "reasoning": "Legionary command falls between adlection inter praetorios (74/75) + legateship of Bithynia and the Lycian governorship beginning under Titus (79/81). Confirms the legion was in Britain in the late 70s.",
+  "scholars_views": "A. Birley, Fasti 234: c. 76-79 (under Frontinus/Agricola); Remy 1989, 63; de.wikipedia: c. 76-79.",
+  "verified_online": "Latin verified in EDCS and Dessau (OCR); dates from Wikipedia/Eck"
+ },
+ {
+  "name": "L. Roscius M. f. Qui. Aelianus Maecius Celer",
+  "rank_in_IX": "tribunus militum (laticlavius), commanding a vexillation of the Ninth on Domitian's German expedition",
+  "inscription_ref": "CIL XIV 3612 = ILS 1025 (Tibur)",
+  "db_ids": {
+   "EDCS": "EDCS-05801602"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-05801602); Dessau ILS I no. 1025 (archive.org inscriptioneslat01dess)",
+  "findspot": "Tibur (Tivoli)",
+  "latin_text": "L(ucio) Roscio M(arci) f(ilio) Qui(rina) / Aeliano Maecio / Celeri / co(n)s(uli) proco(n)s(uli) provinc(iae) / Africae pr(aetori) tr(ibuno) pl(ebis) quaest(ori) / Aug(usti) Xvir(o) stlitib(us) iudic(andis) / trib(uno) mil(itum) leg(ionis) IX Hispan(ae) / vexillarior(um) eiusdem / in expeditione Germanica / donato ab Imp(eratore) Aug(usto) / militarib(us) donis corona / vallari et murali vexillis / argenteis II hastis puris II / salio / C(aius) Vecilius C(ai) f(ilius) Pal(atina) Probus / amico optimo / l(ocus) d(atus) s(enatus) c(onsulto)  [EDCS text]",
+  "fixed_points": [
+   {
+    "event": "expeditio Germanica of Domitian (Chattan war)",
+    "date": "83",
+    "evidence": "Dessau ad ILS 1025 n.3 (Mommsen); standard"
+   },
+   {
+    "event": "consul suffect",
+    "date": "Nov-Dec 100",
+    "evidence": "Fasti Ostienses (Vidman 1982, 45f, 94f) via Wikipedia; Dessau cites CIL VI 451"
+   },
+   {
+    "event": "proconsul of Africa",
+    "date": "117/118",
+    "evidence": "Eck, Chiron 13 (1983) 148f via Wikipedia"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 82",
+   "latest": "c. 85",
+   "most_likely": "83"
+  },
+  "reasoning": "Tribunate anchored by the named expedition; consulship 17 years later fits a laticlave tribune aged c. 22-25 in 83.",
+  "scholars_views": "A. Birley, Fasti 270; Syme, Tacitus 666 (praetor 90-94); Maxfield 1972.",
+  "verified_online": "Latin verified EDCS + Dessau; dates via Wikipedia/Dessau"
+ },
+ {
+  "name": "C. Velius Salvi f. Rufus",
+  "rank_in_IX": "praefectus vexillariorum of nine legions, including VIIII Hispana (equestrian ex primipilo)",
+  "inscription_ref": "ILS 9200 = IGLS VI 2796 = AE 1903, 368 (Heliopolis/Baalbek)",
+  "db_ids": {
+   "EDH": "HD031653",
+   "EDCS": "EDCS-16300627"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031653",
+  "findspot": "Heliopolis (Baalbek), Syria",
+  "latin_text": "C(aio) Velio Sal/vi f(ilio) Rufo p(rimo) p(ilo) leg(ionis) XII / fulm(inatae) / praef(ecto) vexillari/orum leg(ionum) VIIII I adiut(ricis) II adiut(ricis) / II Aug(ustae) VIII Aug(ustae) VIIII Hisp(anae) XIIII ge/m(inae) XX vic(tricis) XXI rapac(is) trib(uno) co/h(ortis) XIII urb(anae) duci exercitus Africi et / Mauretanici ad nationes quae / sunt in Mauretania comprimendas do/nis donato ab Imp(eratore) Vespasiano et Imp(eratore) / Tito bello Iudaico corona vallar(i) / torquibus fa[le]ris armillis item / donis donato corona murali / hastis duabus vexillis duobus et bel/lo Marcomannorum Quadorum / Sarmatarum adversus quos expedi/tionem fecit per regnum Decebali / regis Dacorum corona murali has/tis duabus vexillis duobus proc(uratori) Imp(eratoris) Cae/saris Aug(usti) Germanici provinciae Panno/niae et Dalmatiae item proc(uratori) provinciae / Raetiae ius gladi hic missus in Parthiam Epipha/nem et Callinicum regis Antiochi filios ad / Imp(eratorem) Vespasianum cum ampla manu tribu/tariorum reduxit M(arcus) Alfius M(arci) f(ilius) Fabia O/lympiacus aquilife(r) vet(eranus) leg(ionis) XV Apollinar(is)  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "decorated by Vespasian and Titus in the Jewish war",
+    "date": "67-70",
+    "evidence": "stone"
+   },
+   {
+    "event": "vexillation command over legions of Germania Superior and Britain (I Adi., VIII Aug., XIIII Gem., XXI Rapax + II Adi., II Aug., VIIII Hisp., XX Vict.)",
+    "date": "Domitianic, 83 (Ritterling) or c. 85-89",
+    "evidence": "Dessau ad ILS 9200 n.5: Ritterling put it in Domitian's German war, Domaszewski at the end of Vespasian's reign"
+   },
+   {
+    "event": "Marcomannic-Quadic-Sarmatian war, expedition through Decebalus' kingdom",
+    "date": "c. 89-92",
+    "evidence": "stone; standard"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 83",
+   "latest": "c. 89",
+   "most_likely": "83 (Chattan war) - same occasion as Roscius Aelianus' vexillation"
+  },
+  "reasoning": "Shows a vexillation of the Ninth serving on the Rhine under Domitian; the legion itself remained in Britain.",
+  "scholars_views": "Dessau (ILS 9200 notes); Ritterling 1904; A. Birley, RGB 2005 (recalled).",
+  "verified_online": "Latin verified (EDH/EDCS/Dessau)"
+ },
+ {
+  "name": "L. Burbuleius L. f. Quir. Optatus Ligarianus",
+  "rank_in_IX": "tribunus laticlavius (so styled on the stone: trib. laticl. leg. IX Hispan.)",
+  "inscription_ref": "CIL X 6006 = ILS 1066 (Minturnae)",
+  "db_ids": {
+   "EDCS": "EDCS-20600417"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-20600417); Dessau ILS I 1066",
+  "findspot": "Minturnae (Minturno), Latium; now Naples",
+  "latin_text": "L(ucio) Burbuleio L(uci) f(ilio) Quir(ina) / Optato Ligariano / co(n)s(uli) sodal(i) Aug(ustali) leg(ato) Imperat(oris) / Antonini Aug(usti) Pii pro pr(aetore) prov(inciae) / Syriae in quo honor(e) decessit leg(ato) / eiusdem et divi Hadriani pro pr(aetore) prov(inciae) / Cappad(ociae) cur(atori) oper(um) locor(um)q(ue) publ(icorum) praef(ecto) / aerar(ii) Saturn(i) proco(n)s(uli) Sicil(iae) logiste / Syriae legat(o) leg(ionis) XVI Fl(aviae) Firm(ae) cur(atori) rei p(ublicae) / Narbon(ensium) item Anconitanor(um) item / Tarricin(ensium) curat(ori) viar(um) Clodiae Cassiae / Ciminae pr(aetori) aed(ili) pl(ebis) q(uaestori) Ponti et Bithyn(iae) / trib(uno) laticl(avio) leg(ionis) IX Hispan(ae) IIIvir(o) <c=K>apit(ali) / patr(ono) col(oniae) / Rasinia Pietas nutr(ix) filiar(um) eius / s(ua) p(ecunia) p(osuit) l(ocus) d(atus) d(ecreto) d(ecurionum)  [EDCS text]",
+  "fixed_points": [
+   {
+    "event": "consul suffect",
+    "date": "19 May 135 (in office)",
+    "evidence": "diploma AE 1999, 1352 = Roxan, ZPE 127 (1999) 249 (EDCS-16100210): 'M. Aemilio Papo L. Burbuleio Ligariano cos.'"
+   },
+   {
+    "event": "proconsul of Sicily",
+    "date": "130/131",
+    "evidence": "Eck, Chiron 13 (1983) 169-71 via Wikipedia"
+   },
+   {
+    "event": "praefectus aerarii Saturni",
+    "date": "132-134/5",
+    "evidence": "Alfoldy 1977, 291 via Wikipedia"
+   },
+   {
+    "event": "quaestor of Pontus-Bithynia (after Pliny's governorship c. 110-112, which never mentions him)",
+    "date": "after c. 112",
+    "evidence": "argument from silence in Pliny's letters (Wikipedia/Birley)"
+   },
+   {
+    "event": "governor of Cappadocia under Hadrian and Pius, then Syria under Pius, died in office",
+    "date": "c. 137-c. 144",
+    "evidence": "stone"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 110",
+   "latest": "c. 118",
+   "most_likely": "c. 113-117"
+  },
+  "reasoning": "Working back from cos. 135 (aged c. 42 for a IIIvir capitalis/novus homo): praef. aer. 132-4, Sicily 130/1, logista + XVI Fl. F. c. 126-129, curatorships c. 124-125, praetor c. 122/3, aedile c. 120/1, quaestor c. 118/9 (aged 25 => born c. 93), tribunate at 20-23 = c. 113-116/117. Places a laticlave in the Ninth in the last Trajanic years, cf. RIB 665 (107/8).",
+  "scholars_views": "A. Birley, Fasti 271ff (tribunate 'in the reign of Hadrian, about the time of the transfer to the Rhine', i.e. c. 117-120 - Wikipedia table gives c. 118-122); de.wikipedia: quaestor 'probably at the beginning of Hadrian's reign'; Campbell 2018 lists him among the Ninth's former officers.",
+  "verified_online": "Latin verified EDCS + Dessau; consular diploma text verified EDCS; other dates via Wikipedia"
+ },
+ {
+  "name": "T. (CIL: L.) Aninius L. f. Pap. Sextius Florentinus",
+  "rank_in_IX": "legatus legionis (senatorial)",
+  "inscription_ref": "CIL III 87 (p. 968) = CIL III 14148,10 (Petra, 'Sextius Florentinus tomb'); NOT in ILS (checked Dessau index: no Aninius Florentinus)",
+  "db_ids": {
+   "EDCS": "EDCS-21200156",
+   "EDH": "not in EDH (Petra search checked)"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-21200156)",
+  "findspot": "Petra (Jordan), rock-cut tomb facade in the Wadi Musa necropolis",
+  "latin_text": "T(ito) Aninio L(uci) f(ilio) Pap(iria) Sextio Florentino IIIviro aur(o) arg(ento) flando trib(uno) milit(um) leg(ionis) I Minerviae quaest(ori) prov(inciae) Achaiae trib(uno) pleb(is) leg(ato) leg(ionis) VIIII Hisp(anae) proco(n)sul(i) / pr[ov(inciae)] Narb(onensis) leg(ato) Aug(usti) pr(o) pr(aetore) prov(inciae) Arab(iae) patri piis[sim]o ex testamento ipsius  [EDCS text; CIL read the praenomen L., the papyrus gives T. - Eck 1972 n.4; the praetorship is omitted by the cutter]",
+  "fixed_points": [
+   {
+    "event": "attested as governor of Arabia",
+    "date": "2 December 127",
+    "evidence": "P. Yadin 16 (Babatha archive) - Yadin, JVEG 17 (1963) 238 cited by Eck, Chiron 2 (1972) 459 n.4; A. Birley 2005, 244 (via Graafstal 2025 n.121); Wikipedia"
+   },
+   {
+    "event": "successor T. Haterius Nepos attested in Arabia",
+    "date": "17 November 130",
+    "evidence": "P. Yadin 23; Eck, JRS 89 (1999) 84 via Wikipedia -> Florentinus died in office between 127 and 130"
+   },
+   {
+    "event": "proconsul of Gallia Narbonensis (one-year post immediately before Arabia)",
+    "date": "123/4 or 124/5",
+    "evidence": "Eck, Chiron 13 (1983) 158 n.376 (via Graafstal 2025 n.122 and Wikipedia); A. Birley, Fasti 238: 124/5"
+   },
+   {
+    "event": "tribunate in I Minervia",
+    "date": "c. 110",
+    "evidence": "A. Birley, Fasti 238 (via Wikipedia)"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 119",
+   "latest": "c. 124",
+   "most_likely": "c. 121-124 (E. Birley 1971 per Eck: 'etwa 123'; A. Birley 2005: not leaving the legion 'much before 124')"
+  },
+  "reasoning": "Arabia (3-year praetorian legateship) began c. 126/7 to be in office in Dec 127 and to end with death before Nov 130; Narbonensis (1 year) 123/4 or 124/5; a legionary command normally lasts c. 3 years and normally precedes the proconsulship directly, so IX Hispana c. 120/1-123/4; praetorship (omitted) c. 118-120; born c. 88-90 (tribune c. 110).",
+  "scholars_views": "Ritterling 1925 (legion ended under Hadrian but after 119/120); E. Birley 1971, 79 (legate c. 120-122 / c. 123); Eck 1972: 'etwa 123 n. Chr. praetorischer Legat'; A. Birley 1981, 238: 'first few years of the reign of Hadrian'; A. Birley 2005, 228: 'unlikely to have left the legion much before 124'; Hodgson 2021: compatible with loss in the 120s, last officers c. 124 (Graafstal's summary); Graafstal 2025: legion's end 'not much before 123/4'; Campbell 2018: legion survived beyond Britain.",
+  "verified_online": "Latin verified EDCS; papyrus dates verified via Eck 1972 (online PDF) and secondary literature (papyri.info blocked)"
+ },
+ {
+  "name": "L. Aemilius L. f. Cam. Karus (Carus)",
+  "rank_in_IX": "tribunus militum (laticlavius) - first of two tribunates (IX Hispana, then VIII Augusta)",
+  "inscription_ref": "CIL VI 1333 = CIL VI 31633 = ILS 1077 (Rome); AE 2016, +28",
+  "db_ids": {
+   "EDCS": "EDCS-17800486"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-17800486); Dessau ILS I 1077; photo discussed at https://ninth-legion.blogspot.com/2023/03/roman-spelling-again.html",
+  "findspot": "Rome",
+  "latin_text": "L(ucio) Aemilio L(uci) f(ilio) Cam(ilia) Karo co(n)[s(uli)] / leg(ato) Aug(usti) pr(o) pr(aetore) provinciae Cappadociae / leg(ato) Aug(usti) pr(o) pr(aetore) censitori provinciae Lugdunensis / leg(ato) Aug(usti) pr(o) pr(aetore) provinciae Arabiae / curatori viae Flaminiae leg(ato) leg(ionis) XXX U(lpiae) V(ictricis) / praet(ori) trib(uno) pleb(is) quaest(ori) Aug(usti) / trib(uno) militum leg(ionis) VIII Aug(ustae) / trib(uno) militum leg(ionis) VIIII Hispanae / Xviro stlitib(us) iudic(andis) / sodali Flaviali XVviro s(acris) f(aciundis) / C(aius) Iulius Erucianus Crispus praef(ectus) / alae primae Ulpiae Dacorum / amico optimo  [EDCS text; cursus inversus, so IX Hispana precedes VIII Augusta]",
+  "fixed_points": [
+   {
+    "event": "consul suffect (with Q. Egrilius Plarianus)",
+    "date": "in office 19 March 144",
+    "evidence": "diplomas: Eck & Pangerl, ZPE 193 (2015) 253-60 ('Eine zweite Kopie der Konstitution fuer die Truppen Syriens vom 19. Maerz 144'); de.wikipedia; Eck 2013, 74"
+   },
+   {
+    "event": "governor of Arabia",
+    "date": "142 (tenure c. 141-144)",
+    "evidence": "military diploma and an Arabian inscription (de.wikipedia, citing PIR/Eck); Wikipedia: 142-143"
+   },
+   {
+    "event": "legate of XXX Ulpia Victrix (Vetera)",
+    "date": "c. 136-138",
+    "evidence": "two inscriptions in Germania Inferior (de.wikipedia; Dessau cites Brambach 334)"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 118",
+   "latest": "c. 127",
+   "most_likely": "c. 121-125"
+  },
+  "reasoning": "Consul 144 at the usual c. 42 for a non-patrician => born c. 102; Xvir at 18-19 (c. 120), first tribunate (IX) at 19-21 = c. 121-123, second tribunate (VIII Aug.) c. 123-125, quaestor Aug. at 25 = c. 127, praetor c. 132, XXX Ulpia c. 136-8, cur. viae c. 138-41, Arabia c. 141-4. Quaestor Augusti and the double tribunate mark imperial favour, so no long retardation is likely (Birley 2005, 228): the tribunate cannot be earlier than c. 118 nor later than c. 127.",
+  "scholars_views": "Ritterling 1925 1668f; E. Birley 1971, 79; A. Birley 1981, 274ff: c. 123 (noting IX and XXX both in Germania Inferior); A. Birley 2005, 228/286: c. 124; Hodgson 2021: brought back to 'somewhere around the mid 120s' (RAT summary); Graafstal 2025: 'around 124'; Cowan 2013: after 122; Campbell 2018: 'their commanders had lengthy careers thenceforth'.",
+  "verified_online": "Latin verified EDCS + Dessau; consular date via de.wikipedia/Eck-Pangerl reference"
+ },
+ {
+  "name": "L. Novius Crispinus Martialis Saturninus",
+  "rank_in_IX": "tribunus militum (laticlavius)",
+  "inscription_ref": "CIL VIII 2747 = ILS 1070 (Lambaesis); duplicate CIL VIII 18273",
+  "db_ids": {
+   "EDH": "HD031258 (and HD031261)",
+   "EDCS": "(EDCS record not fetched)"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD031258",
+  "findspot": "Lambaesis (Tazoult-Lambese), Numidia",
+  "latin_text": "L(ucio) Novio Crispino / Martiali Saturnino / co(n)s(uli) desig(nato) leg(ato) Aug(usti) pr(o) pr(aetore) / provinciae Africae proco(n)s(uli) Galliae / Narbonensis leg(ato) Aug(usti) leg(ionis) I Italicae / leg(ato) Aug(usti) iuridico Astyriae et Gallaeciae / praetori trib(uno) pleb(is) quaestori pro praet(ore) / provinciae Macedoniae trib(uno) mil(itum) / leg(ionis) VIIII Hisp(anae) IIIIviro viarum / curandarum seviro eq(uitum) Romanorum / veterani [[leg(ionis) III]] Aug(ustae) / qui militare coeperunt Glabrione / et Torquato item Asiatico II et Aquilino co(n)s(ulibus)  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "dedication by veterans enrolled under the consuls of 124 and 125, discharged after 25 years; Crispinus consul designate",
+    "date": "149/150",
+    "evidence": "the stone; Dessau ad loc.: 'titulus positus est anno 150'"
+   },
+   {
+    "event": "legate of III Augusta (leg. Aug. pr. pr. provinciae Africae)",
+    "date": "147-149",
+    "evidence": "CIL VIII 2542, 2682 (Dessau); Thomasson, Fasti Africani 149 no. 29"
+   },
+   {
+    "event": "consul suffect",
+    "date": "150 (or 151)",
+    "evidence": "Eck 2013, 76 (via Wikipedia); Dessau"
+   },
+   {
+    "event": "praetorship",
+    "date": "c. 135 (at the latest)",
+    "evidence": "A. Birley 2005, 287; Alfoldy 1977, 340"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 120",
+   "latest": "c. 130",
+   "most_likely": "c. 124-128"
+  },
+  "reasoning": "Consul 150 at c. 45 (slow novus homo career, IIIIvir viarum): born c. 105; sevir/IIIIvir c. 123-4; tribunate at 19-23 = c. 124-128; quaestor pro pr. Macedoniae c. 130; trib. pl. c. 132; praetor c. 135; iuridicus c. 136-8; I Italica; Narbonensis 144/5; III Augusta 147-149; cos. 150. Even allowing an older consul (50), the tribunate cannot fall before c. 120; Ritterling's 'at most shortly before 130' is the upper bound.",
+  "scholars_views": "Ritterling 1925, 1668f: tribune 'hoechstens kurz vor 130'; E. Birley 1971, 77f; Alfoldy 1977, 277: c. 125; A. Birley 1981, 276ff and 2005, 228: 'can hardly have been tribune earlier than the mid-120s'; Hodgson 2021: 120s; Graafstal 2025: mid-120s; Eck 1972 uses him against a 117-119 destruction.",
+  "verified_online": "Latin verified EDH; dates Dessau/Wikipedia/Graafstal"
+ },
+ {
+  "name": "Q. Camurius Q. f. Lem. Numisius Iunior",
+  "rank_in_IX": "tr(ibunus) [mil(itum)] (the word laticlavius is NOT on the stone; a IIIvir monetalis, so a laticlave is implied)",
+  "inscription_ref": "CIL XI 5670 (Attidium, Umbria), with CIL XI 5671-5672; AE 1994, +588; AE 2006, +243; AE 2008, +499",
+  "db_ids": {
+   "EDCS": "EDCS-23000342 (5670), EDCS-23000343 (5671)"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-23000342)",
+  "findspot": "Attidium (Attiggio, near Fabriano), Umbria",
+  "latin_text": "[Q(uinto) C]amur[io Q(uinti) f(ilio) Lem(onia)] / Numisio Iu[niori] / IIIvir(o) a(ere) a(rgento) a(uro) f(lando) f(eriundo) tr(ibuno) [mil(itum)] / leg(ionis) VIIII Hi[spanae] / sodali Titiali [Flaviali] / qua[e]st(ori) urb(ano) ae[d(ili) cur(uli)] / pr(aetori) [le]g(ato) Aug(usti) leg(ionis) [---] / et [leg(ionis)] VI Victr(icis) [---] / et [Iu]nior pa[tri ---]  [EDCS text; Eck 1972 prints the same]. CIL XI 5671: Q(uinto) Camurio [- f(ilio)] / Lem(onia) Numi[sio] / Iuniori III[vir(o) ---]",
+  "fixed_points": [
+   {
+    "event": "a Q. Numisius Iunior consul suffect (with M. Annius Libo)",
+    "date": "8 February 161 (diploma) and 26 April 161 (dedication, Panciera)",
+    "evidence": "Eck, Chiron 2 (1972) 459-62 (diploma from Moesia Superior); de.wikipedia; Eck 2013, 80"
+   },
+   {
+    "event": "legion VI Victrix in Britain",
+    "date": "from c. 122",
+    "evidence": "Laelianus inscription; RIB"
+   },
+   {
+    "event": "the career on the stone stops at the legateship of VI Victrix - no consulship; the stone was set up by his children ('...et Iunior patri'), i.e. before any consulship",
+    "date": "EDCS: 151-161",
+    "evidence": "the stone"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 105 (if the tribune is the father of the consul of 161)",
+   "latest": "c. 143 (if the tribune is himself the consul of 161)",
+   "most_likely": "disputed: c. 139-143 (Eck 1972, A. Birley 1981, Alfoldy 1977) vs. c. 105-120 (Keppie 1989, Hodgson 2021)"
+  },
+  "reasoning": "If tribune = cos. 161: consul at c. 40-42 => born c. 119-121, IIIvir at 18-20 (c. 138-140), tribune c. 139-143 (Eck: 'nicht vor etwa 140/141'; tribunates could last up to 3 years); praetor c. 150, two legionary commands c. 152-158 (Alfoldy), then one post, consul 161. If the dedicating son 'Iunior' is the consul of 161 (Keppie), the father was born c. 85-95 and tribune c. 105-118; his command of VI Victrix could then have been on the Rhine or in Britain c. 125-135. The stone reads 'leg(ionis) VIIII Hi[' - the numeral VIIII is on the stone (not restored); no reading dispute about the numeral was found in EDCS, Eck 1972 or Campbell (blog 2025, who lists it among the 'VIIII HISP' spellings).",
+  "scholars_views": "Eck 1972: tribune not before c. 140/141, so the legion existed under Antoninus Pius and probably perished at Elegeia 161 (E. Birley's suggestion); A. Birley 1981, 255: tribunate in the 140s, VI Victrix command mid-150s; Alfoldy 1977: praetor c. 150; Keppie 1989, 251-2: the consul of 161 may be the SON of the tribune, who served a generation earlier; Hodgson 2021: follows Keppie (consul = son or grandson); Graafstal 2025 n.19 accepts Keppie; Campbell 2018 calls the consul 'a new discovery, Quintus Numisius Junior' (blurb) and keeps a mid-120s to mid-160s window.",
+  "verified_online": "Latin verified EDCS (both stones); consular diploma via Eck 1972 PDF (online) and de.wikipedia"
+ },
+ {
+  "name": "[---]us, equestrian officer from Mersch (anonymous)",
+  "rank_in_IX": "tribunus militum (angusticlavius) - second militia",
+  "inscription_ref": "CIL XIII 4030 = AE 1973, 361 (Mersch, Luxembourg); Krier & Schwinden, Trierer Zeitschrift 37 (1974); Kremer 2007; AE 2007, +122",
+  "db_ids": {
+   "EDH": "HD011186",
+   "EDCS": "EDCS-10601003"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD011186",
+  "findspot": "Mersch (Luxembourg), civitas Treverorum - monumental villa tomb",
+  "latin_text": "------] / flam[en] Augu[sti] / flamen Leni M[art]is quinq[uennalis] / praef(ectus) cohort(is) [II His]panor(um) eq[uitatae] / tribunus militu[m le]g(ionis) VIIII Hi[spanae] / praefect(us) e[quitum alae Augustae] / Vocon[tiorum ------  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "ala Augusta Vocontiorum in Britain",
+    "date": "by 17 July 122 (diploma CIL XVI 69) and later at Newstead",
+    "evidence": "recalled; RIB"
+   },
+   {
+    "event": "Kremer 2016 (Monuments funeraires de la cite des Trevires): tribunate served in Germania Inferior at Nijmegen; career ended by c. 125; monument built c. 130 at the earliest, stylistically late-Hadrianic",
+    "date": "c. 105-125 / monument c. 130-138",
+    "evidence": "WebSearch summary of Kremer 2016 (not read in full)"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 90",
+   "latest": "c. 125",
+   "most_likely": "c. 105-120 (if the Nijmegen attribution is right)"
+  },
+  "reasoning": "No internal date. Tres militiae in the post-Flavian order (cohort - legionary tribunate - ala); the ala Augusta Vocontiorum served in Germania Inferior before moving to Britain by 122; Krier-Schwinden/Kremer date the monument to Hadrian's reign. Hodgson 2021 cites Krier & Schwinden 1974 (bibliography), presumably treating him as an officer of the Nijmegen detachment c. 105-120.",
+  "scholars_views": "Krier & Schwinden 1974 (not accessible); Kremer 2007/2016; Hodgson 2021 (bibliography).",
+  "verified_online": "Latin verified EDH/EDCS; dating second-hand"
+ },
+ {
+  "name": "L. Latinius L. f. Publilia Macer, Verona",
+  "rank_in_IX": "primus pilus and praefectus castrorum",
+  "inscription_ref": "AE 1968, 323 = AE 2005, +1060 (Aachen-Burtscheid altar to Apollo); Nesselhauf & v. Petrikovits, BJ 167 (1967) 268ff; Schillinger-Haefele, BRGK 58 (1977) no. 144",
+  "db_ids": {
+   "EDH": "HD014357",
+   "EDCS": "EDCS-10700516"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD014357",
+  "findspot": "Aachen-Burtscheid (Aquae Granni), Germania Inferior",
+  "latin_text": "L(ucius) Latinius L(uci) f(ilius) Publilia / Macer Ver(ona) p(rimi)p(ilus) leg(ionis) VIIII Hisp(anae) / praef(ectus) castr(orum) pro se et suis / Apollini / v(otum) s(olvit) // l(ibens) m(erito)  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "none internal; associated with the Ninth's presence at Nijmegen (tile stamps LEG VIIII HISP from the Hunerberg fortress/Holdeurn; Ewijk pendant)",
+    "date": "Bogaers 1967: 120s; Haalebos 2000: detachment c. 104-120; Hodgson 2021: detachment c. 105-120",
+    "evidence": "Eck 1972 n.7-8; Graafstal 2025, 26 with nn. 13-17; EDH dates 101-200"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 104",
+   "latest": "c. 130",
+   "most_likely": "c. 105-125"
+  },
+  "reasoning": "Only the letter-forms and the Nijmegen context date it; the praefectus castrorum's presence in Germania Inferior is the strongest evidence that a substantial part of the legion (with its camp prefect) was on the Rhine.",
+  "scholars_views": "Nesselhauf 1967 (reconstruction criticised by E. Birley 1971, 75f); Bogaers 1967; E. Birley 1971; Eck 1972; Haalebos 2000; Hodgson 2021 (detachment only); Graafstal 2025.",
+  "verified_online": "Latin verified EDH/EDCS"
+ },
+ {
+  "name": "L. Decrius L. f. Ser. Longinus",
+  "rank_in_IX": "praefectus castrorum (after centurionates in II Aug., VII Gem. bis, XXII Deiotariana and primipilate of XXII)",
+  "inscription_ref": "AE 1913, 215 (Agnano, near Puteoli)",
+  "db_ids": {
+   "EDH": "HD027393",
+   "EDCS": "EDCS-16300271"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD027393",
+  "findspot": "Agnano (Campania)",
+  "latin_text": "D(is) M(anibus) / L(ucio) Decrio L(uci) f(ilio) Ser(gia) / Longino / praef(ecto) fabrum / |(centurioni) leg(ionis) II Aug(ustae) et VII / gemin(ae) bis et XXII / Deiotar(i)an(ae) p(rimo) p(ilo) legion(is) / eiusdem praef(ecto) castr(orum) / leg(ionis) VIIII Hispa(nae) / L(ucius) Decrius L(uci) f(ilius) Ser(gia) / Iulianus qui et / Numisianus / princeps leg(ionis) XI Cl(audiae) p(iae) f(idelis) patri opt(imo) / testamento fieri iussit  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "XXII Deiotariana last securely attested 119, gone by the 140s",
+    "date": "c. 119-130",
+    "evidence": "standard (recalled)"
+   },
+   {
+    "event": "XI Claudia at Durostorum (son's post)",
+    "date": "after c. 106",
+    "evidence": "standard (recalled)"
+   },
+   {
+    "event": "EDCS dating",
+    "date": "101-140",
+    "evidence": "EDCS-16300271"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 100",
+   "latest": "c. 125",
+   "most_likely": "c. 110-120"
+  },
+  "reasoning": "His primipilate in XXII Deiotariana must precede that legion's disappearance (c. 120s); the camp prefecture of the Ninth followed immediately, so c. 110-125. Not a fixed point for the legion's end.",
+  "scholars_views": "Dobson, Die Primipilares (1978) no. ? (recalled, not checked); Campbell 2018 'Bay of Naples' chapter presumably discusses him.",
+  "verified_online": "Latin verified EDH/EDCS"
+ },
+ {
+  "name": "L. Valerius L. f. Proclus",
+  "rank_in_IX": "centurion (last post; missus honesta missione from the Ninth)",
+  "inscription_ref": "CIL III 12411 = ILS 2666b = ILBulg 432 = AE 1892, 106 (Pavlikeni near Nicopolis ad Istrum)",
+  "db_ids": {
+   "EDH": "HD042822",
+   "EDCS": "EDCS-29100179"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD042822",
+  "findspot": "Pavlikeni, near Nicopolis ad Istrum (Moesia Inferior)",
+  "latin_text": "D(is) M(anibus) / L(ucius) Val(erius) L(uci) f(ilius) Proclus / mil(es) leg(ionis) V M(acedonicae) b(ene)f(iciarius) lega(ti) / opt(io) ad spe(m) ordin(is) / |(centurio) leg(ionis) eiusd(em) d(onatus) tor(quibus) ar(millis) / pha(le)r(is) bel(lo) Dac(ico) |(centurio) leg(ionis) I / Ital(icae) |(centurio) leg(ionis) XI Cl(audiae) |(centurio) leg(ionis) / XX V(aleriae) v(ictricis) |(centurio) leg(ionis) VIIII Hisp(anae) / mis(sus) h(onesta) mis(sione) vix(it) an(nos) LXXV / h(ic) s(itus) e(st)  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "decorated as centurion of V Macedonica in the Dacian war",
+    "date": "101-106",
+    "evidence": "stone"
+   },
+   {
+    "event": "EDH/EDCS dating",
+    "date": "121-150",
+    "evidence": "HD042822"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 112",
+   "latest": "c. 125",
+   "most_likely": "c. 115-122"
+  },
+  "reasoning": "Four centurionates follow the Dacian-war decoration; at the average c. 3.3 years per post (Graafstal 2025, Table 1, which includes Proclus) the Ninth post falls c. 116-120 and his discharge c. 120 (+/-5). Transfer XX V.V. -> VIIII Hisp. implies both legions in the same army (Britain), and he was discharged from the Ninth.",
+  "scholars_views": "Graafstal 2025 Table 1 (risen from ranks, 5 posts, 5 legions, died at 75); Summerly 1990.",
+  "verified_online": "Latin verified EDH/EDCS"
+ },
+ {
+  "name": "Ti. Claudius Ti. f. [Ga]l. Vitalis",
+  "rank_in_IX": "centurion (leg. IX Hisp., between XX Victrix and VII Claudia)",
+  "inscription_ref": "CIL VI 3584 = ILS 2656 (Rome; known only from Renaissance copies)",
+  "db_ids": {
+   "EDCS": "(not retrieved; EDCS search by word-forms failed)"
+  },
+  "url": "Dessau ILS I 2656 (archive.org inscriptioneslat01dess); Strobel, Tyche 2 (1987) 203-9",
+  "findspot": "Rome",
+  "latin_text": "Ti. Claudio Ti. f. [G]a[l.] Vitali ex equ[i]te R., ordinem accepit in leg. V [Mac.], successione promotus [ex] leg. V Ma[c.] in leg. [I It]al., donis d. torquib. armill. phaler. corona val[l.] bello Dacico, successione promot. ex leg. I Ital. in leg. I Miner., [it]er. donis d. torquib. armil[l.] phaler. corona val[l.] bello Dacico, successione promot. ex leg. I Miner. in leg. XX Vict., item prom. in leg. ead., item successione promotus ex leg. XX Vict. in leg. IX [Hi]sp., succ. promot. ex leg. IX [Hi]sp. in leg. VII Cl. p. f., item successit in leg. ead., milit. (centurio) in II pr. post. annis XI, vixit annis XLI.  [Dessau ILS 2656, OCR lightly corrected]",
+  "fixed_points": [
+   {
+    "event": "decorated twice 'bello Dacico' (as centurion of I Italica and of I Minervia)",
+    "date": "101-102 and 105-106",
+    "evidence": "stone"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 107",
+   "latest": "c. 118",
+   "most_likely": "c. 109-115"
+  },
+  "reasoning": "Two XX Victrix posts intervene between the second Dacian-war decoration (106) and the Ninth; then two posts in VII Claudia plus 11 years as princeps posterior of cohort II; died aged 41. Strobel 1987 reconstructs a compressed Trajanic sequence. Trajanic terminus only.",
+  "scholars_views": "Strobel 1987; Graafstal 2025 n.91 (career unusual); A. Birley RGB 2005 (recalled).",
+  "verified_online": "Latin verified from Dessau OCR only; CIL/EDCS text not retrieved"
+ },
+ {
+  "name": "L. Servaeus Sabinus",
+  "rank_in_IX": "centurion (leg. VIII(I) Hispana, then III Augusta, then VI Victrix)",
+  "inscription_ref": "AE 1930, 109 (Savatra, Lycaonia); cf. CIL III 14398 = AE 1903, 77 (his father T. Servaeus Sabinus, primus pilus)",
+  "db_ids": {
+   "EDH": "HD025791",
+   "EDCS": "EDCS-16100418; father EDCS-32500026"
+  },
+  "url": "https://edh.ub.uni-heidelberg.de/edh/inschrift/HD025791",
+  "findspot": "Savatra (Yaglibayat), Lycaonia, Galatia",
+  "latin_text": "Lucio Servaeo [Sa]/bino |(centurioni) leg(ionis) VIII(I) His/panae |(centurioni) leg(ionis) III Au[g](ustae) / |(centurioni) leg(ionis) VI victricis / statuam ex testam[ento]  [EDH text; the stone reads VIII HISPANAE, emended to VIIII]. Father: Tito Servaeo Sabino / p(rimo) p(ilo) donato omnibus / donis L(ucius) Servaeus / Sabinus |(centurio) leg(ionis) VI Vict(ricis) / patri suo fecit",
+  "fixed_points": [
+   {
+    "event": "VI Victrix moves from Germania Inferior to Britain",
+    "date": "c. 122",
+    "evidence": "Laelianus inscription"
+   },
+   {
+    "event": "EDCS dating",
+    "date": "101-150",
+    "evidence": "EDCS"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 100",
+   "latest": "c. 130",
+   "most_likely": "Trajanic-early Hadrianic (c. 110-122)"
+  },
+  "reasoning": "No fixed point; the sequence IX -> III Aug. -> VI Victrix suggests a Hadrianic career; if the VI Victrix post was in Britain (after 122) the Ninth post is earlier. Note the stone-cutter's VIII: a caution when numerals are used as evidence.",
+  "scholars_views": "not discussed in the sources consulted (possibly in Campbell 2018).",
+  "verified_online": "Latin verified EDH/EDCS"
+ },
+ {
+  "name": "Aelius Asclepiades, natione Cilix",
+  "rank_in_IX": "miles leg. IX (8 years' service, died aged 42)",
+  "inscription_ref": "CIL X 1769 (Puteoli)",
+  "db_ids": {
+   "EDCS": "EDCS-11500706"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-11500706)",
+  "findspot": "Puteoli (Pozzuoli), Campania",
+  "latin_text": "D(is) M(anibus) / Aelius Asc/lepiades nati(one) / [C]il(ix) mil(es) leg(ionis) IX / vix(it) ann(os) XXXXII / mil(itavit) ann(os) VIII / Aelia Seleria / b(ene) m(erentibus) f(ecit)  [EDCS text; EDCS dates 141-160 on formula]",
+  "fixed_points": [
+   {
+    "event": "nomen Aelius = citizenship from Hadrian (117-138) or descendant of such a grant",
+    "date": "117 or later",
+    "evidence": "onomastic inference (Bogaers 1967, 73; Eck 1972 n.7)"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "c. 117",
+   "latest": "undatable (2nd c.)",
+   "most_likely": "if a Hadrianic new citizen: enlistment c. 117-130, service to c. 125-138; otherwise no terminus"
+  },
+  "reasoning": "Cited by Bogaers/Eck as a possible Hadrianic recruit (Cilician - hence perhaps enlisted when the legion was in the East). Objections: no praenomen (Keppie 1989, 252-3; Hodgson 2021, 18-19: cannot be shown to have received citizenship himself under Hadrian), 'leg. IX' without cognomen, D.M. formula could be Antonine; Jarrett & Mann 1970, 185 already rejected the inference. Even on the most favourable reading (citizenship 117, enlistment at once) his eight years end c. 125-126 (RAT commentator).",
+  "scholars_views": "Bogaers 1967, 73 (pro); Jarrett & Mann 1970, 185 (contra); Eck 1972 n.7 (cautious); Keppie 1989, 252-3 (contra); Hodgson 2021, 18-19 (contra).",
+  "verified_online": "Latin verified EDCS"
+ },
+ {
+  "name": "M. Pontius M. f. Pup. Laelianus Larcius Sabinus (VI Victrix - comparandum, not an officer of IX)",
+  "rank_in_IX": "n/a: tribunus militum of VI Victrix 'cum qua ex Germania in Brittanniam transiit'",
+  "inscription_ref": "CIL VI 41146 = CIL VI 1497 + 1549 = ILS 1094 + 1100 (Rome, Forum of Trajan)",
+  "db_ids": {
+   "EDCS": "EDCS-01000265"
+  },
+  "url": "https://edcs.hist.uzh.ch/ (EDCS-01000265); Dessau ILS I 1094, 1100",
+  "findspot": "Rome, Forum of Trajan",
+  "latin_text": "M(arco) Pontio M(arci) f(ilio) Pup(inia) / Laeliano Larcio Sabino co(n)s(uli) pon/tifici sodali Antoniniano Veriano / fetiali leg(ato) Aug(usti) pr(o) pr(aetore) prov(inciae) Syriae leg(ato) Aug(usti) / pr(o) pr(aetore) prov(inciae) Pannon(iae) super(ioris) leg(ato) Aug(usti) pr(o) pr(aetore) Pan/non(iae) infer(ioris) comiti divi Veri Aug(usti) donato donis / militarib(us) bello Armeniaco et Parthico / ab Imp(eratore) Antonino Aug(usto) et a divo Vero Aug(usto) / [coron(is)] mu[rali vallari clas]sica aur[ea] / [hastis puris IIII vexillis IIII comiti Imp(eratoris) Anto]/[n]ini Aug(usti) et divi Veri bello Germanic(o) / item comiti Imp(eratoris) Antonini Aug(usti) Germanici Sar/matici leg(ato) leg(ionis) I Miner(viae) curatori civit(atis) Araus(ionensium) / prov(inciae) Galliae Narb(onensis) praetori trib(uno) pleb(is) candidato / Imp(eratoris) divi Hadriani ab act(is) senat(us) quaestori prov(inciae) / Narb(onensis) trib(uno) mil(itum) leg(ionis) VI Victr(icis) cum qua ex Germ(ania) in / Brit{t}an(niam) transiit IIIIvir(o) viar(um) curandar(um) / huic senatus auctore M(arco) Aurelio Antonino Aug(usto) / Armeniac(o) Medic(o) Parthic(o) maximo Germ(anico) Sarmat(ico) / statuam poni habitu civili in foro divi Traiani / pecunia publica censuit  [EDCS text]",
+  "fixed_points": [
+   {
+    "event": "consul suffect (with Q. Mustius Priscus)",
+    "date": "July-Aug 145",
+    "evidence": "Eck 2013, 74 (via Wikipedia); Holder 2006, 810"
+   },
+   {
+    "event": "governor of Pannonia Inferior",
+    "date": "7 Aug 143 (diploma)",
+    "evidence": "Roxan, ZPE 127 (1999) 255 via Wikipedia"
+   },
+   {
+    "event": "tribunus plebis candidatus of Hadrian",
+    "date": "before 138",
+    "evidence": "stone"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "n/a",
+   "latest": "n/a",
+   "most_likely": "VI Victrix's move to Britain c. 122 (A. Birley, Fasti 273) or 'broadly around 123' (Graafstal 2025); his tribunate c. 121-125"
+  },
+  "reasoning": "Consul 145 at c. 40-42 => born c. 103-105; tribunate at c. 20 = c. 123 +/-2. VI Victrix replaced IX Hispana at York; thus IX had left York by c. 122-125.",
+  "scholars_views": "Ritterling 1925 (VI Victrix came with Hadrian in 122); A. Birley 1981, 273; Graafstal 2025: unproven link with the imperial visit.",
+  "verified_online": "Latin verified EDCS + Dessau (ILS 1100)"
+ },
+ {
+  "name": "Legio IX Hispana: RIB 665 (York gate) - unit-level fixed point",
+  "rank_in_IX": "n/a (building inscription)",
+  "inscription_ref": "RIB 665 = CIL VII 241 (York, King's Square: south-east gate of the fortress)",
+  "db_ids": {
+   "EDH": "HD069928",
+   "RIB": "665"
+  },
+  "url": "https://romaninscriptionsofbritain.org/inscriptions/665",
+  "findspot": "York (Eboracum)",
+  "latin_text": "[I]mp(erator) Caesar / [divi N]ervae fil(ius) Ne[rva] / [Trai]anus Aug(ustus) Ger[m(anicus) Dac]/[icus po]ntifex maximu[s tribun]/[iciae po]testatis XII imp(erator) V[I co(n)s(ul) V p(ater) p(atriae)] / [portam] per leg(ionem) VIIII Hi[sp(anam) fecit]  [EDH text]",
+  "fixed_points": [
+   {
+    "event": "Trajan trib. pot. XII",
+    "date": "10 Dec 107 - 9 Dec 108",
+    "evidence": "the stone"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "107",
+   "latest": "108",
+   "most_likely": "107/108"
+  },
+  "reasoning": "Last dated monument of the legion as a unit in Britain.",
+  "scholars_views": "all",
+  "verified_online": "Latin verified EDH/RIB"
+ },
+ {
+  "name": "Other soldiers of the Ninth without datable careers (summary entry)",
+  "rank_in_IX": "signifer, cornicularius, milites, eques",
+  "inscription_ref": "RIB 673 (L. Duccius Rufinus, signifer, Viennensis, York; late 1st - early 2nd c.); RIB 659 (L. Celerinius Vitalis, cornicularius leg. VIIII Hisp., York; 'must antedate the arrival of the Sixth Legion at York about A.D. 120' - RIB); RIB 254-257 (Lincoln: Q. Cornelius eques, C. Saufeius, L. Sempronius Flavinus, C. Valerius signifer - pre-Flavian, 'leg. VIIII' without Hispana); Nijmegen tile stamps LEG VIIII HISP (EDH HD020257, dated 71-130), Ewijk pendant; Carlisle-area tile stamps RIB 2462.x",
+  "db_ids": {
+   "EDH": "HD069924 (RIB 659), HD020257 (Nijmegen)",
+   "RIB": "254-257, 659, 665, 673, 2462"
+  },
+  "url": "https://romaninscriptionsofbritain.org/inscriptions/673",
+  "findspot": "York, Lincoln, Nijmegen, Carlisle area",
+  "latin_text": "RIB 659: D[eo sancto] / Silva[no s(acrum)] / L(ucius) Celerin[i]us / Vitalis corni(cularius) / leg(ionis) VIIII His(panae) / v(otum) s(olvit) l(ibens) l(aetus) m(erito) / et donum hoc donum / adpertiniat cautum attiggam  [EDH]",
+  "fixed_points": [
+   {
+    "event": "typological/context dating only",
+    "date": "Lincoln 60s-70s; York c. 80-120; Nijmegen c. 104-130",
+    "evidence": "RIB; EDH; Bogaers/Haalebos"
+   }
+  ],
+  "implied_service_in_IX": {
+   "earliest": "-",
+   "latest": "-",
+   "most_likely": "-"
+  },
+  "reasoning": "Not usable for a terminus; listed for completeness.",
+  "scholars_views": "RIB commentary.",
+  "verified_online": "texts verified EDH/RIB (raw HTML)"
+ },
+ {
+  "name": "Negative checks",
+  "rank_in_IX": "-",
+  "inscription_ref": "M. Vettius Valens, CIL XI 395 = ILS 2648 (Ariminum): career in XIII Gemina, VI Victrix and XIIII Gemina - NOT in IX Hispana. Cn. Iulius Agricola (Tac. Agr. 5) and Titus (Suet. Tit. 4.1) served as tribunes in Britain c. 58-61 but no legion is named. Caesius Nasica (Tac. Ann. 12.40, c. 50) and P. Cornelius Lentulus Scipio (ILS 940, Africa c. 22) are earlier legates (recalled, not re-verified).",
+  "db_ids": {},
+  "url": "-",
+  "findspot": "-",
+  "latin_text": "-",
+  "fixed_points": [],
+  "implied_service_in_IX": {
+   "earliest": "-",
+   "latest": "-",
+   "most_likely": "-"
+  },
+  "reasoning": "-",
+  "scholars_views": "A. Birley, Fasti 231, 269.",
+  "verified_online": "recalled"
+ }
+]

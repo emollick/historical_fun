@@ -1,0 +1,38 @@
+<noinclude><pagequality level="4" user="Jasonanaggie" />{{rh|{{#ifexpr: 18 mod 2||18}}| THE BEALE PAPERS. |{{#ifexpr: 18 mod 2|18|}}}}{{rule}}{{smaller block/s}}</noinclude>Great Britain is a (310) history of repeated injuries and usurpations, all having in direct (320) object the establishment of an absolute tyranny over these States. (330) To prove this, let facts be submitted to a candid (340) world.
+
+He has refused his assent to laws the most (350) wholesome and necessary for the public good. He has forbidden (360) his governors to pass laws of immediate and pressing importance, (370) unless suspended in their operation till his assent should be (380) obtained; and when so suspended he has utterly neglected to (390) attend to them.
+
+He has refused to pass other laws (400) for the accommodation of large districts of people, unless those (410) people would relinquish their right of representation in the legislature, (420) a right inestimable to them and formidable to tyrants only. (430)
+
+He has called together legislative bodies at places unusual, uncomfortable (440) and distant from the depositary of their public records, for (450) the sole purpose of fatiguing them into compliance with his (460) measures.
+
+He has dissolved representative houses repeatedly for opposing with (470) manly firmness, his invasions on the rights of the people. (480)
+
+He has refused, for a long time after such dissolutions, (480) to cause others to be elected; whereby the legislative powers, (490) incapable of annihilation, have returned to the people at large (500) for their exercise, the State remaining, in the meantime, (510) exposed to all the danger of invasion from without, and (520) convulsions within.
+
+He has endeavored to prevent the population of (530) these States, for that purpose, obstructing the laws of naturalization (540) of foreigners; refusing to pass others to encourage their migration (550) hither, and raising the conditions of new appropriations of lands. (560)
+
+He has obstructed the administration of justice by refusing his (570) assent to laws for establishing judiciary powers.
+
+He has made (580) judges dependent on his will alone for the tenure of (590) their offices, and the amount and payment of their salaries. (600)
+
+He has erected a multitude of new offices, and sent (610) hither swarms of officers to harass our people and eat (620) out their substance.
+
+He has kept among us in times (630) of peace standing armies, without the consent of our legislature.
+
+He (640) has offered to render the military independent of and superior (650) to the civil power. 
+
+He has combined with others to (660) subject us to a jurisdiction foreign to our constitution, and (670) unacknowledged by our laws, giving his assent to their acts of (680) pretended legislation.
+
+For quartering large bodies of armed troops among (690) us;
+
+For protecting them, by a mock trial, from punishment, (700) for any murders which they should commit on the inhabitants (710) of these States;
+
+For cutting off our trade with all (720) parts of the world;
+
+For imposing taxes on us without (730) our consent;
+
+For depriving us, in many cases, of the (740) benefits of trial by jury;
+
+For transporting us beyond seas (750) to be tried for pretended offences;
+{{nop}}<noinclude>{{smaller block/e}}</noinclude>

@@ -1,0 +1,35 @@
+title: Ballad
+author: Thomas Hood
+date: c. 1821-1827
+source: https://www.gutenberg.org/ebooks/15652 (The Poetical Works of Thomas Hood, ed. W. M. Rossetti, New York: A. L. Burt)
+form: ballad
+lines: 24
+attribution: certain
+notes: 
+
+She's up and gone, the graceless girl,
+And robb'd my failing years!
+My blood before was thin and cold
+But now 'tis turn'd to tears;--
+My shadow falls upon my grave,
+So near the brink I stand,
+She might have stay'd a little yet,
+And led me by the hand!
+
+Aye, call her on the barren moor,
+And call her on the hill:
+'Tis nothing but the heron's cry,
+And plover's answer shrill;
+My child is flown on wilder wings
+Than they have ever spread,
+And I may even walk a waste
+That widen'd when she fled.
+
+Full many a thankless child has been,
+But never one like mine;
+Her meat was served on plates of gold,
+Her drink was rosy wine;
+But now she'll share the robin's food,
+And sup the common rill,
+Before her feet will turn again
+To meet her father's will!

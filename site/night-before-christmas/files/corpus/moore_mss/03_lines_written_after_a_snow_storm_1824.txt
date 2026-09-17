@@ -1,0 +1,48 @@
+title: [Lines Written after a Snow-Storm] (Troy Sentinel text, 1824)
+author: Clement Clarke Moore
+date: 1824
+source: Troy Sentinel, 20 Feb. 1824 (untitled, unsigned, headed FOR THE TROY SENTINEL); transcribed by Scott Norsworthy, Melvilliana blog, 9 Apr. 2019, from the Troy Public Library / NYS Historic Newspapers scan, https://melvilliana.blogspot.com/2019/04/lines-written-after-snow-storm-by.html
+form: iambic tetrameter/trimeter quatrains (common measure, abab)
+lines: 32
+attribution: certain
+notes: EARLIER NEWSPAPER TEXT of the poem printed as 'Lines Written after a Snow-Storm' in Poems (1844), pp. 80-82 (see ../moore/05_lines_written_after_a_snow_storm.txt); keep as a variant witness, do not add to totals alongside the 1844 text. Addressed to the poet's children. Serious-tender. Differs from 1844 in c. 20 readings, e.g. 'Come dearest children look around' / 'And see how soft' / 'The trees are deck'd by fairy hands' / 'So lovely and so fair' / 'ivy bowers' (1844 'icy bowers'; Norsworthy thinks 'ivy' a copyist's or printer's error) / 'Perhaps they are feathers' / 'In some cold wintry place' (1844 'cold dreary wintry place', which restores the metre) / 'move their slumbering heads' / 'feathery' / 'my dearlings' (1844 'darlings') / 'such delight' / 'now fades away'. Quatrain breaks supplied (the blog sets every line as its own paragraph). Em dash set closed per the corpus convention. Attribution rests on the 1844 book, which reprints it under Moore's name; the 1824 printing itself is anonymous.
+
+Come dearest children look around,
+And see how soft and light
+The silent snow has clad the ground,
+In robes of purest white.
+
+The trees are deck'd by fairy hands,
+Nor need their native green;
+And every breeze now seems to stand,
+All hush'd, to view the scene.
+
+You wonder how these snows were made
+That dance upon the air;
+As if from purer worlds they stray'd,
+So lovely and so fair.
+
+Perhaps they are the summer flowers,
+In northern stars that bloom;
+Wafted away from ivy bowers,
+To cheer our winter's gloom.
+
+Perhaps they are feathers of a race
+Of birds, that live away
+In some cold wintry place,
+Far from the sun's warm ray.
+
+And clouds perhaps are downy beds,
+On which the winds repose;
+Who, when they move their slumbering heads,
+Shake down the feathery snows.
+
+But see, my dearlings, while we stay
+And gaze with such delight,
+The fairy scene now fades away,
+And mocks our raptur'd sight.
+
+And let this fleeting vision teach
+A truth you soon must know—
+That all the joys we here can reach,
+Are transient as the snow.

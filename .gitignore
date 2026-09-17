@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.netlify/
+deploy-*.zip
+.DS_Store

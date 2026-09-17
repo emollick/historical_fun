@@ -1,0 +1,7 @@
+{
+ "source_file": "loc_ca_titles_stlouis.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=title&fa=location_city:st.+louis&fo=json",
+ "total_hits": 0,
+ "results_in_capture": 0,
+ "results": []
+}

@@ -1,0 +1,270 @@
+{
+ "df_double_falsehood": [
+  {
+   "key": "df_double_falsehood",
+   "act": 1,
+   "scene": 1,
+   "n_words": 372,
+   "head": "ACT I. SCENE I.",
+   "delta": {
+    "FL": 1.299420749074485,
+    "R18": 0.8249165958947111,
+    "SH": 0.8988820442964435
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 1.9831922942011506e-05,
+    "R18": 0.5806142330208368,
+    "SH": 0.41936593505622105
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 1,
+   "scene": 2,
+   "n_words": 1868,
+   "head": "SCENE II. Prospect of a Village at a Distance.",
+   "delta": {
+    "FL": 1.0800667278942513,
+    "R18": 0.9449182014787318,
+    "SH": 0.9808765256335189
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.0029968016271351462,
+    "R18": 0.49874836274635115,
+    "SH": 0.4982548356265136
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 1,
+   "scene": 3,
+   "n_words": 635,
+   "head": "SCENE III.",
+   "delta": {
+    "FL": 1.0665990634283025,
+    "R18": 0.9772679828694476,
+    "SH": 0.9619793403174094
+   },
+   "delta_pred": "SH",
+   "svm_prob": {
+    "FL": 0.04210869549680065,
+    "R18": 0.08311177636378168,
+    "SH": 0.8747795281394175
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 2,
+   "scene": 1,
+   "n_words": 477,
+   "head": "ACT II. SCENE I.",
+   "delta": {
+    "FL": 1.1489200439293867,
+    "R18": 0.8305170657018499,
+    "SH": 1.0286457061060519
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.00011843068110540022,
+    "R18": 0.713695390963012,
+    "SH": 0.28618617835588256
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 2,
+   "scene": 2,
+   "n_words": 355,
+   "head": "SCENE II. An Apartment.",
+   "delta": {
+    "FL": 1.0155869835070477,
+    "R18": 0.9304658445876419,
+    "SH": 1.0526148655116823
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.004868289927616817,
+    "R18": 0.7892439900047943,
+    "SH": 0.20588772006758888
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 2,
+   "scene": 3,
+   "n_words": 1785,
+   "head": "SCENE III. Prospect of a Village, before Don Berna",
+   "delta": {
+    "FL": 1.1435646891993696,
+    "R18": 0.8355660741809279,
+    "SH": 1.0286174008020417
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.0012393708647856706,
+    "R18": 0.620051868626185,
+    "SH": 0.3787087605090293
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 2,
+   "scene": 4,
+   "n_words": 312,
+   "head": "SCENE IV. Changes to another Prospect of Don Berna",
+   "delta": {
+    "FL": 0.9679765062979412,
+    "R18": 0.947127679891624,
+    "SH": 1.0794013207569941
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.1136903003917074,
+    "R18": 0.8764901408001091,
+    "SH": 0.009819558808183554
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 3,
+   "scene": 1,
+   "n_words": 338,
+   "head": "ACT III. SCENE I.",
+   "delta": {
+    "FL": 0.929575304737308,
+    "R18": 1.0100149992030605,
+    "SH": 1.0536377280232863
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.03480409506579295,
+    "R18": 0.36522702994179157,
+    "SH": 0.5999688749924155
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 3,
+   "scene": 2,
+   "n_words": 1392,
+   "head": "SCENE II. Don Bernard's House.",
+   "delta": {
+    "FL": 1.0360754616286918,
+    "R18": 0.9561750165128182,
+    "SH": 1.0095911398314956
+   },
+   "delta_pred": "R18",
+   "svm_prob": {
+    "FL": 0.015407260046611016,
+    "R18": 0.31823653271453667,
+    "SH": 0.6663562072388524
+   },
+   "svm_pred": "SH"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 3,
+   "scene": 3,
+   "n_words": 1323,
+   "head": "SCENE III. Prospect of a Village at a Distance.",
+   "delta": {
+    "FL": 0.8024738476440385,
+    "R18": 0.9793293279897856,
+    "SH": 1.197152211790749
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.4621581771988241,
+    "R18": 0.5366461024455289,
+    "SH": 0.0011957203556469123
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 4,
+   "scene": 1,
+   "n_words": 2082,
+   "head": "ACT IV. SCENE I.",
+   "delta": {
+    "FL": 0.8425399141493,
+    "R18": 1.0424771955920464,
+    "SH": 1.1006863900888193
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.15606576064189226,
+    "R18": 0.7866350101962738,
+    "SH": 0.05729922916183404
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 4,
+   "scene": 2,
+   "n_words": 943,
+   "head": "SCENE II.",
+   "delta": {
+    "FL": 0.8878333070294533,
+    "R18": 0.964758501006221,
+    "SH": 1.134469379181543
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.4147283223228985,
+    "R18": 0.5824473788358896,
+    "SH": 0.00282429884121197
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 5,
+   "scene": 1,
+   "n_words": 675,
+   "head": "ACT V. SCENE I.",
+   "delta": {
+    "FL": 0.93488818408327,
+    "R18": 0.9749236213310031,
+    "SH": 1.0824830652385589
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.4741663944314821,
+    "R18": 0.48358681753329574,
+    "SH": 0.04224678803522214
+   },
+   "svm_pred": "R18"
+  },
+  {
+   "key": "df_double_falsehood",
+   "act": 5,
+   "scene": 2,
+   "n_words": 2323,
+   "head": "SCENE II. An Apartment in the Lodge.",
+   "delta": {
+    "FL": 0.8668050888150807,
+    "R18": 1.0303140591910978,
+    "SH": 1.0905512535301007
+   },
+   "delta_pred": "FL",
+   "svm_prob": {
+    "FL": 0.40311486682361347,
+    "R18": 0.4844439584904138,
+    "SH": 0.11244117468597267
+   },
+   "svm_pred": "R18"
+  }
+ ]
+}

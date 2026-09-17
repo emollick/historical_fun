@@ -1,0 +1,42 @@
+Jackson words: poem 51.6 | summary {"moore_all": {"n": 95, "mean": 33.73234285109847, "sd": 8.915144313212636, "min": 7.142857142857143, "max": 56.86274509803921}, "moore_anap": {"n": 4, "mean": 39.67683991404781, "sd": 4.529133389834324, "min": 34.24657534246575, "max": 45.88235294117647}, "liv_all": {"n": 37, "mean": 49.48164558923819, "sd": 10.669625811265156, "min": 28.37837837837838, "max": 65.15151515151516}, "liv_anap": {"n": 16, "mean": 45.19823521117003, "sd": 10.503525412670317, "min": 28.37837837837838, "max": 64.1025641025641}, "liv_other": {"n": 21, "mean": 52.745196353480594, "sd": 9.58595552245451, "min": 34.146341463414636, "max": 65.15151515151516}}
+Phoneme pairs L-fav: ['DH DH', 'AY L', 'AH N', 'AH F', 'N AH', 'AH P', 'AH L', 'Z IH', 'N DH', 'UW M']
+Phoneme pairs M-fav: ['T S', 'T F', 'T IH', 'T W', 'V HH', 'IY T', 'S W', 'S DH', 'ER T', 'S S']
+Phoneme share: poem 64.6 n 48 | summary {"moore_all": {"n": 39, "mean": 49.91810688091531, "sd": 11.890186510657635, "min": 16.666666666666668, "max": 84.61538461538461}, "moore_anap": {"n": 4, "mean": 46.23263888888889, "sd": 17.206139934533812, "min": 16.666666666666668, "max": 59.375}, "liv_all": {"n": 36, "mean": 61.77828538963982, "sd": 12.108291214521985, "min": 35.714285714285715, "max": 82.3529411764706}, "liv_anap": {"n": 20, "mean": 63.304141009878165, "sd": 12.264116384561348, "min": 35.714285714285715, "max": 82.3529411764706}, "liv_other": {"n": 16, "mean": 59.870965864341876, "sd": 11.632508798570777, "min": 38.46153846153846, "max": 81.81818181818181}}
+Expressions (obs | per-1000 moore, liv, moore_anap, liv_anap, controls_anap):
+  some         obs= 0 | moore=2.59(p=0.24) livingston=0.21(p=0.87) moore_anap=3.34(p=0.14) liv_anap=0.29(p=0.82) controls_anap=1.93(p=0.35)
+  oft          obs= 0 | moore=1.17(p=0.53) livingston=0.07(p=0.94) moore_anap=1.11(p=0.47) liv_anap=0.15(p=0.89) controls_anap=0.21(p=0.89)
+  many a       obs= 0 | moore=0.67(p=0.69) livingston=0.00(p=0.98) moore_anap=0.56(p=0.63) liv_anap=0.00(p=0.96) controls_anap=0.21(p=0.89)
+  in vain      obs= 0 | moore=0.44(p=0.78) livingston=0.21(p=0.87) moore_anap=0.00(p=0.86) liv_anap=0.15(p=0.89) controls_anap=0.35(p=0.82)
+  at length    obs= 0 | moore=0.54(p=0.74) livingston=0.21(p=0.87) moore_anap=1.11(p=0.47) liv_anap=0.29(p=0.82) controls_anap=0.15(p=0.92)
+  that's       obs= 0 | moore=0.49(p=0.76) livingston=0.00(p=0.98) moore_anap=0.56(p=0.63) liv_anap=0.00(p=0.96) controls_anap=0.25(p=0.87)
+  should       obs= 1 | moore=1.74(p=0.61) livingston=0.21(p=0.13) moore_anap=1.11(p=0.53) liv_anap=0.00(p=0.039) controls_anap=1.48(p=0.55)
+  would        obs= 1 | moore=3.29(p=0.84) livingston=1.35(p=0.53) moore_anap=2.23(p=0.74) liv_anap=0.88(p=0.4) controls_anap=2.17(p=0.69)
+  like         obs= 8 | moore=3.29(p=0.00057) livingston=1.14(p=4e-07) moore_anap=8.35(p=0.1) liv_anap=1.17(p=6.1e-07) controls_anap=3.84(p=0.0015)
+  hope         obs= 1 | moore=1.30(p=0.51) livingston=0.21(p=0.13) moore_anap=1.67(p=0.65) liv_anap=0.00(p=0.039) controls_anap=0.67(p=0.31)
+  ere          obs= 1 | moore=1.22(p=0.49) livingston=0.29(p=0.16) moore_anap=1.11(p=0.53) liv_anap=0.59(p=0.3) controls_anap=0.40(p=0.2)
+  dread        obs= 1 | moore=0.88(p=0.39) livingston=0.14(p=0.093) moore_anap=0.00(p=0.14) liv_anap=0.15(p=0.11) controls_anap=0.17(p=0.088)
+  vision(s)    obs= 1 | moore=0.39(p=0.2) livingston=0.14(p=0.093) moore_anap=0.00(p=0.14) liv_anap=0.15(p=0.11) controls_anap=0.17(p=0.088)
+  brain(s)     obs= 1 | moore=0.49(p=0.24) livingston=0.00(p=0.019) moore_anap=1.11(p=0.53) liv_anap=0.00(p=0.039) controls_anap=0.15(p=0.078)
+  all          obs= 9 | moore=6.82(p=0.014) livingston=7.06(p=0.018) moore_anap=5.01(p=0.0029) liv_anap=5.27(p=0.0032) controls_anap=5.73(p=0.0049)
+  twas         obs= 1 | moore=0.75(p=0.34) livingston=0.64(p=0.31) moore_anap=0.56(p=0.37) liv_anap=0.29(p=0.18) controls_anap=0.64(p=0.3)
+  oh           obs= 0 | moore=0.83(p=0.63) livingston=0.00(p=0.98) moore_anap=0.56(p=0.63) liv_anap=0.00(p=0.96) controls_anap=1.35(p=0.48)
+  ah           obs= 0 | moore=0.21(p=0.89) livingston=0.14(p=0.91) moore_anap=0.56(p=0.63) liv_anap=0.00(p=0.96) controls_anap=0.36(p=0.82)
+  little       obs= 4 | moore=0.60(p=0.00039) livingston=1.50(p=0.011) moore_anap=3.34(p=0.14) liv_anap=1.61(p=0.014) controls_anap=0.91(p=0.0017)
+  happy        obs= 1 | moore=0.23(p=0.13) livingston=0.86(p=0.38) moore_anap=0.00(p=0.14) liv_anap=1.32(p=0.53) controls_anap=0.31(p=0.16)
+  merry        obs= 1 | moore=0.21(p=0.11) livingston=0.07(p=0.057) moore_anap=0.00(p=0.14) liv_anap=0.15(p=0.11) controls_anap=0.10(p=0.053)
+  snug         obs= 1 | moore=0.03(p=0.021) livingston=0.07(p=0.057) moore_anap=0.00(p=0.14) liv_anap=0.00(p=0.039) controls_anap=0.13(p=0.069)
+  jolly        obs= 1 | moore=0.00(p=0.007) livingston=0.36(p=0.19) moore_anap=0.00(p=0.14) liv_anap=0.59(p=0.3) controls_anap=0.01(p=0.0067)
+  chin         obs= 1 | moore=0.00(p=0.007) livingston=0.14(p=0.093) moore_anap=0.00(p=0.14) liv_anap=0.29(p=0.18) controls_anap=0.04(p=0.025)
+  broad        obs= 1 | moore=0.00(p=0.007) livingston=0.21(p=0.13) moore_anap=0.00(p=0.14) liv_anap=0.29(p=0.18) controls_anap=0.07(p=0.041)
+  opening      obs= 1 | moore=0.21(p=0.11) livingston=0.00(p=0.019) moore_anap=0.00(p=0.14) liv_anap=0.00(p=0.039) controls_anap=0.03(p=0.017)
+  lustre       obs= 1 | moore=0.05(p=0.035) livingston=0.00(p=0.019) moore_anap=0.00(p=0.14) liv_anap=0.00(p=0.039) controls_anap=0.08(p=0.046)
+  objects      obs= 1 | moore=0.26(p=0.14) livingston=0.07(p=0.057) moore_anap=0.00(p=0.14) liv_anap=0.15(p=0.11) controls_anap=0.12(p=0.066)
+  soon         obs= 2 | moore=1.71(p=0.24) livingston=0.57(p=0.044) moore_anap=0.56(p=0.077) liv_anap=0.15(p=0.0066) controls_anap=0.68(p=0.055)
+  could        obs= 0 | moore=1.97(p=0.34) livingston=1.28(p=0.49) moore_anap=2.23(p=0.26) liv_anap=0.44(p=0.76) controls_anap=1.36(p=0.48)
+  twinkl       obs= 2 | moore=0.05(p=0.00061) livingston=0.00(p=0.00019) moore_anap=0.00(p=0.01) liv_anap=0.00(p=0.00078) controls_anap=0.04(p=0.00032)
+  nap          obs= 1 | moore=0.00(p=0.007) livingston=0.07(p=0.057) moore_anap=0.00(p=0.14) liv_anap=0.15(p=0.11) controls_anap=0.03(p=0.017)
+  st nick      obs= 1 | moore=0.00(p=0.007) livingston=0.00(p=0.019) moore_anap=0.00(p=0.14) liv_anap=0.00(p=0.039) controls_anap=0.00(p=0.0013)
+  nicholas     obs= 3 | moore=0.00(p=5.9e-08) livingston=0.00(p=1.2e-06) moore_anap=0.00(p=0.00052) liv_anap=0.00(p=1e-05) controls_anap=0.02(p=2.9e-07)
+  santa        obs= 0 | moore=0.00(p=0.99) livingston=0.00(p=0.98) moore_anap=0.00(p=0.86) liv_anap=0.00(p=0.96) controls_anap=0.00(p=1)
+log LR (Moore vs Liv) Norsworthy8: 14.3 {'should': 1.130040927938091, 'would': -0.17821228726582117, 'like': 7.108624179545208, 'hope': 1.0802363602290603, 'ere': 0.8489493680952163, 'dread': 1.223049651681708, 'vision(s)': 0.6915564800328096, 'brain(s)': 2.3963031459109247}
+log LR (Moore vs Liv) Jackson6: -2.76 {'some': -1.2848934040594437, 'oft': -0.5850042722952101, 'many a': -0.35523455335716303, 'in vain': -0.11142136919382184, 'at length': -0.16797423834397232, "that's": -0.25626703234439974}

@@ -1,0 +1,204 @@
+SOURCE HEADER | URL: https://raw.githubusercontent.com/textcreationpartnership/A28352/master/A28352.xml | Edition: Edward Bland et al., The Discovery of New Brittaine, London: Thomas Harper for John Stephenson, 1651 (Wing B3155), EEBO-TCP A28352 | Fetched: 2026-09-14 (UTC) by worker B | EEBO-TCP transcription converted to plain text; [[PAGE n]] = original page breaks, [[MARGIN: ...]] = original marginal notes, [?] = illegible letter in TCP
+----
+
+
+
+ Virginia -- Description and travel.
+
+ 2006-04
+ TCPAssigned for keying and markup
+
+ 2006-07
+ SPi GlobalKeyed and coded from ProQuest page images
+
+ 2006-08
+ Judith SiefringSampled and proofread
+
+ 2006-08
+ Judith SiefringText and markup reviewed and edited
+
+ 2006-09
+ pfsBatch review (QC) and XML conversion
+
+[[PB facs tcp:62446:1]]
+
+ Indian Wheat
+
+ Indian Iar
+
+[[PB facs tcp:62446:1]]
+
+ THE DISCOVERY OF Nevv Brittaine. Began August 27. Anno Dom. 1650. By 
+
+ Edward Bland, Merchant.
+
+ Abraham Woode, Captaine.
+
+ Sackford Brewſter, Elias Pennant, Gentlemen.
+
+ From Fort Henry, at the head of Appamattuck River in Virginia, to the Fals of Blandina, firſt River in New Brittaine, which runneth Weſt, being 120. Mile South-weſt, between 35. & 37. degrees, (a pleaſant Country,) of temperate Ayre, and fertile Soyle.
+
+ LONDON, Printed by Thomas Harper for John Stephenſon, at the Sun below Ludgate. M.DC.LI.
+
+[[PB facs tcp:62446:2]]
+
+[[PB facs tcp:62446:2]]
+
+ TO THE HONORABLE, SIR JOHN DANVERS, KNIGHT: Great Favourer of the Westerne Plantations, and a Member of the Parliament of England.
+
+ Noble Sir:
+
+ THE great Incouragement that I have found from your Worthy ſelfe to propogate the Publique Affaires, as well Forraigne as Domeſtique, hath imbolned mee to preſume humbly to preſent this ſmall Piece of the Diſcovery of the Weſterne Part of Virginia, wherein you
+
+[[PB facs tcp:62446:3]]
+
+ſhall finde by the Induſtry of the Surveyors of that Part, the great Benefit that may accrew to the Engliſh Plantation; in regard of the many and ſeverall Commodities that may thence ariſe, by reaſon of the fertility of the Soyle, Nature having provided ſo plentifully for all things, that with no extraordinary great Charge it may be effected, to the great Profit, and more Glory of this Engliſh Nation: And whereas your ſelfe hath beene, and ſtill are a Chiefe Agent in that, and other Plantations, ſo (under God) you may be a meanes for converting divers of thoſe poor Indians to the Chriſtian Faith. For the World doth take notice you obſerve the Orators ſaying; That you were not borne for your ſelfe, but for your Country: Which that you may ever doe, ſhall be the Prayer,
+
+ SIR,
+
+ Of your moſt humble ſervant, J. S.
+
+[[PB facs tcp:62446:3]]
+
+ To the Reader.
+
+ WHo ever thou art that deſireſt the Advancement of Gods glory by converſion of the Indians, the Augmentation of the Engliſh Common-wealth, in extending its liberties; I would adviſe thee to conſider the preſent benefit and future profits that will ariſe in the wel ſetling Virginia's Confines, eſpecially that happy Country of New Brittaine, in the Latitude of 35. and 37. degrees, of more temperate Clymate then that the Engliſh now inhabite, abounding with great Rivers of long extent, and encompaſſing a great part, or moſt of Virginia's Continent; a place ſo eaſie to be ſettled in, in regard that Horſe and Cattle in foure or five dayes may be conveyed for the benefit of Ʋndertakers, and all inconveniencies avoyded which commonly
+
+[[PB facs tcp:62446:4]]
+
+commonly attend New Plantations, being ſupplied with neceſſaries from the Neighbourhood of Virginia.
+
+ That the Aſſembly of Virginia (as may be ſeene by their Order ſince my returne heereto procured) have conceived a hundred to be a ſufficient force and competence for the eſtabliſhment of that Country in which Tobacco will grow larger and more in quantity. Sugar Canes are ſuppoſed naturally to be there, or at leaſt if implanted will undoubtedly flouriſh: For we brought with us thence extraordinary Canes of twenty five foot long and ſix inches round; there is alſo great ſtore of fiſh, and the Inhabitants relate that there is plenty of Salt made to the Sunne without art; Tobacco Pipes have beene ſeene among theſe Indians tipt with Silver, and they weare Copper Plates about their necks: They have two Crops of Indian Corne yearely, whereas Virginia hath but one. What I write, is what I have proved; I cordially wiſh ſome more then private Spirits would take it into their conſideration, ſo may it prove moſt advantagious to particular and publick ends; for which ſo prayeth,
+
+ Your faithfull ſervant, Edward Bland.
+
+[[PB facs tcp:62446:4]]
+
+ October 20. 1650. By the Aſſembly.
+
+ IT is Ordered by the Grand Aſſembly, that according to the Petition of Mr. Edward Bland, Merchant, that he the ſayd Bland, or any other be permitted to diſcover and ſeate to the Southward in any convenient place where they diſcover; and that according to his Petition for furthering his Deſignes hee bee permitted to have correspondence with the Indians, and alſo receive the benevolence of the well-affected, and uſe all lawfull meanes for effecting thereof, provided that they ſecure themſelves in effecting the ſayd Deſigne with a hundred able men ſufficiently furniſhed with Armes and Munition.
+
+ John Corkes, Cler. Dom. Com.
+
+[[PB facs tcp:62446:5]]
+
+ Sir Walter Rawleighs Obſervation on 35. degrees Latitude.
+
+ PAradiſe was created a part of this Earth, and ſeated in the lower part of Eden or Meſopotamia, containing alſo a part of Shinar and Armenia; it ſtands 35 degrees from the Equinoctiall, and 55 from the North-pole, in a temperate Climate, full of excellent fruits, chiefely of Palme-trees without labour; for wherein ſoever the Earth, Nature, and the Sun can moſt vaunt that they have excelled, yet ſhall the Palme-tree be the greateſt wonder of all their workes: This tree alone giveth unto man whatſoever his life beggeth at Natures hand. The like are alſo found both in the Eaſt and Weſt-Indies as well as in Paradiſe, which Countries are alſo bleſſed with a perpetuall Spring and Summer, &c. Rawleighs Marrow of Hiſtory, Page 42.
+
+ By how much Adam exceeded all living men in perfection, by being the immediate workmanſhip of God, by ſo much did that choſen, and particular Garden exceed all the parts of the Ʋniverſall World in which God had planted the Trees of Life, and Knowledge, Plants onely proper, and belonging to the Paradiſe, and Garden, of ſo great a Lord. Ibid. p. 43.
+
+[[PAGE 1]]
+
+ The Diſcovery of New Britaine.
+
+ AUguſt 27. 1650. The Right Honorable Sir W. Berkly, Kt. being Governour and Captaine Generall of Virginia, Edw. Bland Merch. Abraham Wood Capt. Elias Ponnant and Sackford Brewſter Gent. foure Men, and one Indian named Pyancha, an Appamattuck for our Guide, with two ſervants, foure Horſes and Proviſion, advanced from Fort Henry, lying on Appamattuck River at the fals, being a branch of James River, intending a South weſterne Diſcovery.
+
+ This day wee paſſed over a branch belonging to Blackwater lake, running South eaſt into Chawan River; at that place wee were forced to unlade our Carriages by reaſon of the great raines lately fallen, which otherwiſe is very paſſable for foot, being firm gravelly ground in the bottome, and lieth from Fort Henry 20. miles, and ſome 12. miles from this place we travelled unto a deepe River called the Nottaway Creeke ſome 100. paces over ſandy bottomes (& with a little labour may be made paſſeable) unto a Nottaway Town liyng ſome two miles from the River. Hither we came within night, and by reaſon of our ſuddaine approach and hallowing of Robert Farmer ſervant to Mr. Bland, the Inhabitants ran all away into the Woods, with their Women and Children; therefore by us it was named Farmers Chaſe. After our arrivall there within a ſmall ſpace of time one Indian man appeared, and finding of us peaceable, and the white flag bore before us by our Guide whom they knew, he made a
+
+[[PAGE 2]]
+
+hallow and the reſt came in from their ſculking holes like ſo many timerous Hares, and ſhewed us what curteſie they could. About two houres after came to us Oyeocker elder brother to Chounterounte one of the Nottaway Kings, who told us that his brother Chounterounte, and other of the Nottaway Kings would come to us next day by Noone, and that the day before Chounterounte and all his men had been a hunting, and it hapned that Chounterounte had ſhot one of his brothers in the leg, and that thereupon he was gone downewards. We ſtayed untill next day at Noone but he came not, and then we journyed unto the Towne belonging unto Oyeocker, who kindly invited us thither, and told us he thought that Chounterounte would meet us there, and alſo of his owne accord proffered us to be our guide whitherſoever we went. The Land generally to this Towne is Champion, very rich, and the Towne ſcituate in a rich levell, well timbered, watered, and very convenient for Hogs and Cattle.
+
+ Auguſt 28. We journied with our new entertained Guide Oyeocker, lying betweene South, and South and by Weſt, from the firſt Towne upon a very rich levell of Land: ſixteen miles from this place we came unto the River Penna Mount, being another branch of Chawan River, eight miles on the South ſide it hath very rich Land and Corn-fields on both ſides the River, and is about ſome 200. paces wide, and runs out with elbowes: at the place of our paſſage over this River to this ſecond Towne is ſhallow upon a Sandy Point, and with a very little labour may be made paſſeable both for foot and horſe, or any Carriage by Land,
+
+[[PAGE 3]]
+
+or pentater with ſmall Boats, and ſome two miles higher there is a ſound paſſage no deeper then a mans anckle: Within night came Chounterounte unto our Quarters frowning, and with a countenance noting much diſcontent, downe he ſets, and lookes about him, ſalutes the Engliſh with a ſcornefull poſture, and then our Appamattack Guide, and tels him, I am ſorry for thee friend, thou wilt be knockt on the head; after this ſome pauſe was made before any diſcourſe, expecting the Engliſh would begin, but finding us ſlow, he thus ſpake: There was a Wainoake Indian told him that there was an Engliſhman a Cockarous hard by Captaine Floods, gave this Indian Bells, and other petty truck to lay downe to the Tuskarood King, and would have hired him to have gone with him, but the Wainoakes being doubtfull what to doe, went to Captaine Flood for advice, who adviſed them not to go, for that the Governour would give no licence to go thither; heereupon Chounterounte was by us queſtioned, when and who it was that had told him ſo, & if he did know that Wainoake Indian, to which he anſwered doubtfully, and demanded of us whither we did intend to go; we told him the Tuskarood King had envited us to trade, and our Governour had ordered us to go, and ſpeake with an Engliſhman amongſt them, and to enquire for an Engliſh woman caſt away long ſince, and was amongſt thoſe Nations. Chounterounte perſwaded us to go no further, alleadging there was no Engliſh there, that the way was long, for paſſage very bad by reaſon of much raine that had lately fallen, and many rotten Marriſhes and Swampps there was to paſſe over, in fine we
+
+[[PAGE 4]]
+
+found him, and all his men very unwilling we ſhould go any further; but we told them, that let the waies and paſſages be never ſo bad, we were reſolved to go through, and that we were not afraid of him nor his Nation, nor any other, for we intended no injury, and that we muſt go, for we were commanded by our King; theſe words cauſed Chounterounte to aſſimulate a feare in his countenance, and after delivery of himſelfe, at our going away next day, when we had mounted our Horſes, Chounterounte came privately unto us, and in a moſt ſerious manner intimating unto us, that he loved us, and our Nation, and that he lively apprehended our danger, and that our ſafety concerned him, for if any accident hapned otherwiſe then good to us, he ſhould be ſuſpected to have a hand in it, and withall wiſhed us to go no further, for that he certainly knew that the Nations we were to go through would make us away by treachery; we anſwered him, that we were not afraid to be killed, for that any one of us were able to deale with forty through the protection of our great God, for we were commanded by our King.
+
+ Auguſt 29. We travelled from this ſecond Town to Maharineck, eight miles upon barren Champion Lands, and ſix miles further is a branch that runnes South weſt, with rich Lands upon it; and from thence ſome ſixe miles further, is a Brooke ſome hundred paces over, and runnes South and a little to the Weſt, on both ſides of the Creek: for fowre miles or thereabouts, is very rich Lands, well Timbered and Watered, and large dry Meadowes, South and by Weſt: From this Creeke is another, ſome eight miles off,
+
+[[PAGE 5]]
+
+that opens it ſelfe into divers ſmall Guts, made by the inundation of Freſhes of Waters; and the paſſage lies ſome two hundred paces from the Path, and this Creek is ſome ten miles from Maharinecke Towne, and was by us named Newcombs Forreſt. It was night when we entred into Maharineck, where we found a Houſe ready made for us of Matts; and Corne ſtalkes layd in ſeverall places for our Horſes, the Inhabitants ſtanding, according to their cuſtome, to greet us: and after ſome diſcourſe with their Werrowance, a Youth, to whom wee preſented ſeverall gifts, we certified them the cauſe of our comming was to Trade in way of friendſhip, and deſired the great men that what Wares or Skins the Town did afford, might be brought to our Quarters next morning; and alſo a meaſure for Roanoak, which they promiſed ſhould be done, and ſo left us to our ſelves a while, untill wee had refreſhed our ſelves with ſuch proviſions as they had ſet before us, in moſt plentifull maner; and afterwards the great men and Inhabitants came, and performed divers Ceremonies, and Dancings before us, as they uſe to doe to their grea[?] Emperour Apachancano, when they entertain him in moſt ſolemne maner and friendſhip.
+
+ Auguſt 30. Being wearied with our laſt dayes travell, we continued at Maharineck, and this day ſpake with a Tuskarood Indian, who told us that the Engliſhman was a great way off at the further Tuskarood Towne, and wee hired this Turkarood Indian to run before, and tell his Werrowance wee intended to lay him downe a preſent at Hocomowananck, and deſired to have him meete us there, and alſo wrote to that
+
+[[PAGE 6]]
+
+effect to the Engliſhman in Engliſh, Latine, Spaniſh, French and Dutch, the Tuskarood promiſed in three dayes to meete us at Hocomawananck. In the afternoone came two Indians to our Quarters, one of whom the Maharinecks told us was the Werrowance of Hocomawananck River, ſeemed very joyfull that wee could goe thither, and told us the Tuskarood would have come to us to trade, but that the Wainoakes had ſpoken much to diſhearten them from having any trade with the Engliſh, and that they intended divers times to have come in, but were afraid, for the Wainoakes had told them that the Engliſh would kill them, or detaine them, and would not let them goe without a great heape of Roanoake middle high, to which we anſwered that the Wainoakes durſt nor affirme any ſuch thing to our faces, and that they had likewiſe ſpoken much againſt the Tuskarood to the Engliſh, it being a common thing amongſt them to villefie one another, and tell nothing but lies to the Engliſh.
+
+ This day in the morning the Maharineck great men ſpake to heare ſome of our guns go off: Whereupon we ſhot two guns at a ſmall marke, both hitting it, and at ſo great a diſtance of a hundred paces, or more, that the Indians admired at it: And a little before night the old King of Maharineck came to us, and told us, that the people in the Towne were afraid when the guns went off, and ran all away into the Woods. This night alſo we had much Dancing.
+
+ August 31. Wee went away from Maharineck South Eaſt two miles to goe over Maharineck River, which hath a bottome betweene two high land ſides
+
+[[PAGE 7]]
+
+through which you muſt paſſe to get over, which River is about two hundred paces broad, and hath a high water marke after a freſh of at leaſt twenty foot perpendicular by the trees in the breaches betweene the River, and the high land of the old fields. This River is the Southerly laſt and maine branch of Chawan River, and was by us named Woodford River, and runs to the Eaſtward of the South. On both ſides of Woodford River is very much exceeding rich Land, but eſpecially on the further ſide towards Hocomawananck. Imediately after the paſſage over this River, are old Indian fields of exceeding rich Land, that beare two Crops of Indian Corne a yeare, and hath timber trees above five foot over, whoſe truncks are a hundred foot in cleare timber, which will make twenty Cuts of Board timber a piece, and of theſe there is abundance.
+
+ As alſo exceeding rich Land, full of great Reeds thrice as big as the largeſt Arrow Reeds we have about our Plantations; this good Land continues for ſome ſix miles together unto a great Swampp, and then begins a pyny barren Champion Land with divers Branches and Pecoſans, yet very paſſeable, running South and by Weſt, unto a deepe River ſome a hundred paces over, running South, and a little to the Eaſt, which River incloſes a ſmall Iſland which wee named Brewſters Iſland, ſome eighteene miles from Woodford River due South, and by Weſt, with very exceeding rich Land on both ſides of it for ſome ſixe miles together, and this River we alſo named Brewſters River, it being the firſt branch of Hocomawananck River: and a little lower downe as the River runs, is
+
+[[PAGE 8]]
+
+ſuch another River as Chickahamine River (which is a mile broad.)
+
+ After we had paſſed over this River we travelled ſome twenty miles further upon a pyny barren Champion Land to Hocomawananck River, South, and by Weſt: ſome twelve miles from Brewſters River we came unto a path running croſſe ſome twenty yards on each ſide unto two remarkeable Trees; at this path our Appamattuck Guide made a ſtop, and cleared the Weſterly end of the path with his foote, being demanded the meaning of it, he ſhewed an unwillingneſſe to relate it, ſighing very much: Whereupon we made a ſtop untill Oyeocker our other Guide came up, and then our Appamattuck Guide journied on; but Oyeocker at his comming up cleared the other end of the path, and prepared himſelfe in a moſt ſerious manner to require our attentions, and told us that many yeares ſince their late great Emperour Appachancano came thither to make a War upon the Tuskarood, in revenge of three of his men killed, and one wounded, who eſcaped, and brought him word of the other three murthered by the Hocomawananck Indians for lucre of the Roanoake they brought with them to trade for Otter skins. There accompanyed Appachancano ſeverall petty Kings that were under him, amongſt which there was one King of a Towne called Pawhatan, which had long time harboured a grudge againſt the King of Chawan, about a yong woman that the King of Chawan had detayned of the King of Pawhatan: Now it hapned that the King of Chawan was invited by the King of Pawhatan to this place under pretence to preſent him with a Guift of
+
+[[PAGE 9]]
+
+ſome great vallew, and there they met accordingly, and the King of Pawhatan went to ſalute and embrace the King of Chawan, and ſtroaking of him after their uſuall manner, he whipt a bow ſtring about the King of Chawans neck, and ſtrangled him; and how that in memoriall of this, the path is continued unto this day, and the friends of the Pawhatans when they paſſe that way, cleanſe the Weſterly end of the path, and the friends of the Chawans the other. And ſome two miles from this path we came unto an Indian Grave upon the Eaſt ſide of the path: Upon which Grave there lay a great heape of ſticks covered with greene boughs, we demanded the reaſon of it, Oyeocker told us, that there lay a great man of the Chawans that dyed in the ſame quarrell, and in honour of his maemory they continue greene boughs over his Grave to this day, and ever when they goe forth to Warre they relate his, and others valorous, loyall Acts, to their yong men, to annimate them to doe the like when occaſion requires. Some foure miles from Hocomawananck is very rich Champian Land: It was night when we came to Hocomawananck River, and the Indian that came with us from Woodford River, and belonged to Hocomawananck, would have had us quartered upon the ſide of a great Swampp that had the advantage of ſeverall bottomes of the Swampp on both ſides of us, but we removed to take our advantage for ſafety, and retreate, in caſe any accident ſhould happen, which at that time promiſed nothing but danger, for our Guides began to be doubtfull, and told us, that the Hocomawananck Indians were very treacherous, and that they did not like their countenances,
+
+[[PAGE 10]]
+
+and ſhape well; this place we named Pyanchas Parke: about three houres after we had taken up our Quarters, ſome of the Inhabitants came, and brought us roaſting cares, and Sturgeon, and the Hocomawananck Indian that came with us from Woodford River, came not unto us untill next day, but his Warrowance told us before wee came from Woodford, hee could not come untill that day at night. The next day morning after our comming to Hocomawananck the Inhabitants ſeemed to prepare us a houſe: But we about eight of the clock ſet forward to goe view the place where they killed Sturgeon, which was ſome ſix miles from the place where we quartered by Pyanchas Parke, where there is a River Running very deep South, exceeding deepe, and foure hundred paces broad. The high water marke of this River between both ſides of the River perpendicular, from the top of the Banck to the River, is forty five foot upon a freſh; this River was by us named Blandina River: from Pyanchas Parke to the place where they kill Sturgeon is ſix miles up the River running Northerly, and all exceeding rich Land: Both upwards and downewards upon the River, at this place where they kill Sturgeon alſo are the Falls, and at the foot of theſe Falls alſo lies two Iſlands in a great Bay, the uppermoſt whereof Mr. Blande named Charles Iſland, and the lowermoſt Captaine Wood named Berkeley Iſland: on the further ſide of theſe Iſlands the Bay runs navigable by the two Iſlands ſides: Charles Iſland is three miles broad, and foure miles long, and Berkeley Iſland almoſt as big, both in a manner impregnable, by nature being fortified with high Clefts of Rocky Stone,
+
+[[PAGE 11]]
+
+and hardly paſſeable, without a way cut through them, and conſiſts all of exceeding rich Land, and cleare fields, wherein growes Canes of a foot about, and of one yeares growth Canes that a reaſonable hand can hardly ſpan; and the Indians told us they were very ſweet, and that at ſome time of the yeare they did ſuck them, and eate them, and of thoſe we brought ſome away with us. The Land over againſt Charles Iſland we named Blands Diſcovery, and the Land over againſt Berkeley Iſland we named Woods journy, and at the lower end of Charles Iſland lies a Bay due South from the ſaid Iſland, ſo ſpatious that we could not ſee the other ſide of it: this bay we nameed Pennants Bay, and in the River between Charles Iſland, and the maine Land lies a Rocky Point in the River, which Point comes out of Charles Iſland, and runs into the middle of the River: this Point we nameed Brewſters Point, and at this Point only, and no other is there any place paſſeable into Charles Iſland, and this Brewſters Point runs not quite from Charles Iſland to the maine Land, but when you come off the maine Land to the Rivers ſide, you muſt wade about fifty paces to come upon the Point, and if you miſſe the Point on either ſide, up or downe the River, you muſt ſwim, and the River runs very ſwift. Some three miles from the River ſide over againſt Charles Iſland is a place of ſeverall great heapes of bones, and heere the Indian belonging to Blandina River that went along with us to the Fals, ſat downe, and ſeemed to be much diſcontented, inſomuch that he ſhed teares; we demanded why thoſe bones were piled up ſo curiouſly? Oyeocker told us, that at this place Appachancano
+
+[[PAGE 21]]
+
+one morning with 400. men treacherouſly ſlew 240. of the Blandina River Indians in revenge of three great men ſlaine by them, and the place we named Golgotha; as we were going to Blandina River we ſpake to Oyeocker our Guide to lead us the way, and he would not; but asked our Appamattuck Guide why we did not get us gone, for the Inhabitants were jealous of us, and angry with us, and that the Runner we ſent to the Tuskarood would not come at the day appointed, nor his King, but ran another way, and told the Indians that we came to out them off; whereupon our Appamattuck Guide ſtepped forth, and frowning ſaid, come along, we will go ſee the Falls, and ſo led the way, and alſo told us that the Woodford Indians lied, and that Indian that came to us, which the Woodford Indian ſaid was the King of Blandina River, was not the Werrowance of Blandina River; whereupon we reſolved to return (having named the whole Continent New Brittaine) another way into our old path that led to Brewſters River, and ſhot off no guns becauſe of making a commotion, and adding to the Natives feares. At Blandina River we had ſome diſcourſe with our Appamattuck Guide concerning that River, who told us that that Branch of Blandina River ran a great way up into the Country; and that about three dayes journy further to the South-Weſt, there was a far greater Branch ſo broad that a man could hardly ſee over it, and bended it ſelfe to the Northward above the head of James River, unto the foot of the great Mountaines, on which River there lived many people upwards, being the Occonacheans and the Neſſoneicks, and that where ſome of the Occonacheans
+
+[[PAGE 13]]
+
+lived, there is an Iſland within the River three dayes journy about, which is of a very rich and fertile ſoile, and that the upper end of the Iſland is fordable, not above knee deepe, of a ſtony bottome, running very ſwift, and the other ſide very deepe and navigable: Alſo we found many of the people of Blandina River to have beards, and both there, and at Woodford River we ſaw many very old men, and that the Climate according to our opinions was far more temperate then ours of Virginia, and the Inhabitants full of Children; they alſo told us that at the bottome of the River was great heapes of Salt; and we ſaw among them Copper, and were informed that they tip their pipes with ſilver, of which ſome have been brought into this Country, and 'tis very probable that there may be Gold, and other Mettals amongſt the hils.
+
+ September 1. About noone from Woods Journey wee travelled ſome ſixe miles North Eaſt, unto the old Path that leads to Brewſters River: within night we quartered on the other ſide of it, and kept good watch: this Path runnes from Woods Journey north and by Eaſt, and due North.
+
+ September 2. In the morning about eight of the clocke, as every one was mounted, came to our quarters Occonnoſquay, ſonne to the Tuskarood King, and another Indian whom he told was a Werrowance, and his Kinſeman, with the Runner which wee had ſent to the Tuskarood King, who was to meet us at Blandina River that night; the Kings ſonne told us that the Engliſh man would be at his houſe that night, a great way off; and would have had us gone backe with him, but we would not, and appointed him to meete
+
+[[PAGE 14]]
+
+us at Woodford River where hee came not, wee having ſome ſuſpition that hee came from Woodford River that night, and that our Runner had not beene where we had ſent him, through ſome information of our Nottaway guide, which afterwards proved true, by the Relation of the Werrowance of Blandina River, whom about fowre howres after wee had parted with the Kings ſon, wee met on the way comming from Woodford River with a company of men, thinking he ſhould have found us at Blandina River that night, according to his order and promiſe; with whom falling into diſcourſe, he told us that the King of the Tuskaroods ſon, and our Runner were the night before at Woodford River; but the Kings ſon told us he came from Blandina River, and beyond, and hearing we were gone before he came, he had travelled all night from Blandina River to overtake us. This day about Noone we came to Woodford River Towne, and tarried there that night, we found the old Werrowance, and all his great men gone, yet had courteous quarter; but not without great grounds of ſuſpition, and ſignes that they were angry at us: at our coming back to Woodford River we had information that ſome Spies of Wainoake had been there a little before we came, and that the King of Wainoake and Chounterounte had ſent Runners to all the Nations thereabouts, informing them that the Engliſh were come to cut them off, which we ſuppoſed to be ſome greater Polititians then Indian Conſultations, who had ſome private ends to themſelves, and minded nothing leſſe then a publick good; for we found that the Runner whom we imployed to carry our meſſage to
+
+[[PAGE 15]]
+
+the Tuskarood King, ran to the Waynoakes, and he whom the Woodford Indians told us was the Werrowance of Blandina River, was a Woodford Indian, and no Werrowance, but done of purpoſe to get ſomething out of us, and we had information that at that time there were other Engliſh amongſt the Indians.
+
+ September 3. By breake of day we journied from Woodford River to a path ſome eight miles above Pennants Mount running North, and by Eaſt and North, North, Eaſt, which was done by the advice of our Appamattuck Guide, who told us that he was informed that ſome plots might be acted againſt us, if we returned the way that we came, for we told Chounterounte we would returne the ſame way againe: And this information our Guide told us he had from a woman that was his Sweet-heart belonging to Woodford River. This day we paſſed over very much rich, red, fat, marle Land, betweene Woodford River Towne, and the head of Pennants Mount, with divers Indian fields; the head of which River abounds much with great Rocks of Stone, and is two hundred paces over, and hath a ſmall Iſland in it named Sackfords Iſland. Betweene Pennants Mount River head, and the head of Farmers Chaſe River is very much exceeding rich, red, fat, marle Land, and Nottaway and Schockoores old fields, for a matter of ſixe miles together all the trees are blowne up or dead: Heere it began to raine, and ſome ſix miles further we tooke up our quarters, and it proved a very wet night. At the firſt other Nottaway old fields, we found the Inhabitants much perplexed about a gun that went off to the Weſtward of them, the night before wee came thither, which
+
+[[PAGE 16]]
+
+our Appamattuck Guide conceived were the Wainoake Spies, ſet out there to prevent our journyings, and we found ſeverall Agers about the place where the Indians told us the gun went off.
+
+ Septemb. 4. About 8 of the Clock we travelled North, North-Eaſt ſome ſix miles, unto the head of Farmers Chaſe River, where we were forced to ſwimm our horſes over, by reaſon of the great rain that fell that night, which otherwiſe with a little labour may be made very paſſable. At this place is very great Rocky ſtones, fit to make Mill-ſtones with very rich tracks of Land, and in ſome places between the head of Farmers Chaſe River and Black water Lake, is ground that gives very probable proofe of an Iron, or ſome other rich Mi[?]e. Some ſixteen miles from Farmers Chaſe, North, and by Eaſt, and North, North-Eaſt, lies Black water Lake, which hath very much rich land about it, and with little labour will be made very paſſable. From Black water Lake we did travell to the old fields of Manks Neſſoneicks, and from thence ſome 12 miles N.N Eaſt we came unto Fort Henry about the cloſe of the Evening, all well and in good health, notwithſtanding from the time we had ſpoken with Chounterounte at Pennants Mount, we every night kept a ſtrickt watch, having out Swords girt, and our Guns and Piſtols by us, for the Indians every night where we lay, kept a ſtrict guard upon us.
+
+ The Diſcoverers, viz.
+
+ Mr. Edward Blande, Merchant.
+
+ Abraham Wood, Captaine.
+
+ Mr. Elias Pennant.
+
+ Mr. Sackford Brewſter.
+
+ Robert Farmer, Servant to Mr. Blande.
+
+ Henry Newcombe, Servant to Captaine Wood.
+
+ Guides. 
+
+ Oyeocker, a Nottaway Werrowance.
+
+ Pyancha, an Appamattuck War Captaine.
+
+ FINIS.
+
+[[PB facs tcp:62446:13]]
+

@@ -1,0 +1,1789 @@
+TEXT: Thomas Hariot, A Briefe and True Report of the New Found Land of Virginia (the 1590 Theodor de Bry Frankfurt edition text, without the plates), complete.
+SOURCE EDITION: Project Gutenberg eBook #4247 (transcribed from the 1590 De Bry edition in the Library of Congress; produced by Norman M. Wolcott and David Widger).
+URL FETCHED: https://www.gutenberg.org/cache/epub/4247/pg4247.txt
+DATE FETCHED: 2026-09-14
+==============================================================================
+
+The Project Gutenberg eBook of A Briefe and True Report of the New Found Land of Virginia
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: A Briefe and True Report of the New Found Land of Virginia
+
+Author: Thomas Harriot
+
+
+        
+Release date: July 1, 2003 [eBook #4247]
+                Most recently updated: November 6, 2021
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/4247
+
+Credits: Norman M. Wolcott and David Widger
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK A BRIEFE AND TRUE REPORT OF THE NEW FOUND LAND OF VIRGINIA ***
+
+
+
+
+A BRIEFE AND TRUE REPORT OF THE NEW FOUND LAND OF VIRGINIA
+
+1590
+
+by Thomas Hariot
+
+The 1590 edition of de Brys in the Library of Congress
+
+
+A briefe and true report
+of the new found land of Virginia,
+_of the commodities and of the nature and man
+ners of the naturall inhabitants: Discouered by
+the English Colony there seated by_ Sir Richard
+Greinuile Knight _In the yeere 1585. Which remained
+vnder the gouernment of twelue monethes,
+At the speciall charge and direction of the Honourable_
+SIR WALTER RALEIGH _Knight, lord Warden
+of the stanneries Who therein hath beene fauoured
+and authorised by her_ MAIESTIE
+_and her letters patents:
+This fore booke Is made in English
+By Thomas Hariot; seruant to the abouenamed
+Sir_ WALTER, _a member of the Colony, and there
+imployed in discouering._
+
+CVM GRATIA ET PRIVILEGIO CÆS. MATIS SPECIALD
+
+FRANCOFORTI AD MOENVM
+TYPIS IOANNIS WECHELI, SVMTIBVS VERO THEODORI
+DE BRY ANNO CD D XC.
+VENALES REPERIVNTVR IN OFFICINA SIGISMVNDI FEIRABENDII
+
+TO THE RIGHT
+WORTHIE AND HONOVRABLE,
+SIR VVALTER RALEGH,
+KNIGHT, SENESCHAL OF THE DVCHIES OF
+Cornewall and Exeter, and L. Warden of the stannaries in Deuon
+and Cornewall, T.B. wisheth true felicitie.
+
+_SIR, seeing that the parte of the Worlde, which is betwene the FLORIDA
+and the Cap BRETON nowe nammed VIRGINIA, to the honneur of yours most
+souueraine Layde and Queene ELIZABETH, hath ben descouuerd by yours
+meanes and great chardges. And that your Collonye hath been theer
+established to your great honnor and prayse, and noe lesser proffit
+vnto the common welth: Yt ys good raison that euery man euertwe him
+selfe for to showe the benefit which they haue receue of yt. Theerfore,
+for my parte I haue been allwayes Desirous for to make yow knowe the
+good will that I haue to remayne still your most humble seruant. I haue
+thincke that I cold faynde noe better occasion to declare yt, then
+takinge the paines to cott in copper (the most diligentlye and well
+that wear in my possible to doe) the Figures which doe leuelye
+represent the forme and maner of the Inhabitants of the same countrye
+with theirs ceremonies, sollemne feastes, and the manner and situation
+of their Townes or Villages. Addinge vnto euery figure a brief
+declaration of the same, to that ende that euerye man cold the better
+vnderstand that which is in liuely represented. Moreouer I haue thincke
+that the aforesaid figures wear of greater commendation, If somme
+Histoire which traitinge of the commodites and fertillitye of the said
+countreye weare Ioyned with the same, therfore haue I serue miselfe of
+the rapport which Thomas Hariot hath lattely sett foorth, and haue
+causse them booth togither to be printed for to dedicate vnto you, as a
+thinge which by reigtte dooth allreadye apparteyne vnto you. Therfore
+doe I creaue that you will accept this little Booke, and take yt In
+goode partte. And desiringe that fauor that you will receue me in the
+nomber of one of your most humble seruantz, besechinge the lord to
+blese and further you in all yours good doinges and actions, and allso
+to preserue, and keepe you allwayes in good helthe. And soe I comitt
+you unto the almyhttie, from Franckfort the first of Apprill 1590._
+
+_Your most humble seruant_,
+
+THEODORVS de BRY.
+
+
+
+
+TO THE ADVENTVRERS,
+FAVORERS, AND
+VVELVVILLERS OF THE ENTERPRISE
+FOR THE INHABITTING
+and planting in VIRGINIA.
+
+Since the first vndertaking by Sir Walter Ralegh to deale in the action
+of discouering of that Countrey which is now called and known by the
+name of VIRGINIA; many voyages hauing bin thiter made at sundrie times
+to his great charge, as first in the yeere 1584, and afterwardes in the
+yeeres 1585 1586, and now of late this last yeare of 1587. There haue
+bin diuers and variable reportes with some slaunderous and shamefull
+speeches bruited abroade by many that returned from thence. Especially
+of that discouery which was made by the Colony transported by Sir
+Richard Greinuile in the yeare 1585, being of all the others the most
+principal and as yet of most effect, the time of their abode in the
+countrey beeing a whole yeare, when as in the other voyage before they
+staied but sixe weekes; and the others after were onelie for supply and
+transportation, nothing more being discouered then had been before.
+Which reports haue not done a litle wrong to many that otherwise would
+have also fauoured & aduentured in the action, to the honour and
+benefite of our nation, besides the particular profite and credite
+which would redound to them selues the dealers therein; as I hope by
+the sequele of euents to the shame of those that haue auouched the
+contrary shalbe manifest: if you the aduenturers, fauourers, and
+welwillers do but either encrease in number, or in opinion continue, or
+hauing bin doubtfull renewe your good liking and furtherance to deale
+therein according to the worthinesse thereof alreadye found and as you
+shall vnderstand hereafter to be requisite. Touching which woorthines
+through cause of the diuersitie of relations and reportes, manye of
+your opinions coulde not bee firme, nor the mindes of some that are
+well disposed, bee setled in any certaintie.
+
+I haue therefore thought it good beeing one that haue beene in the
+discouerie and in dealing with the natuall inhabitantes specially
+imploied; and hauing therefore seene and knowne more then the
+ordinaire: to imparte so much vnto you of the fruites of our labours,
+as that you may knowe howe iniuriously the enterprise is slaundered.
+And that in publike manner at this present chiefelie for two respectes.
+
+First that some of you which are yet ignorant or doubtfull of the state
+thereof, may see that there is sufficient cause why the cheefe
+enterpriser with the fauour of her Maiestie, notwithstanding suche
+reportes; hath not onelie since continued the action by sending into
+the countrey againe, and replanting this last yeere a new Colony; but
+is also readie, according as the times and meanes will affoorde, to
+follow and prosecute the same.
+
+Secondly, that you seeing and knowing the continuance of the action by
+the view hereof you may generally know & learne what the countrey is; &
+therevpon consider how your dealing therein if it proceede, may returne
+you profit and gaine; bee it either by inhabitting & planting or
+otherwise in furthering thereof.
+
+And least that the substance of my relation should be doubtful vnto you
+as of others by reason of their diuersitie: I will first open the cause
+in a few wordes wherefore they are so different; referring my selue to
+your fauourable constructions, and to be adiudged of as by good
+consideration you shall finde cause.
+
+Of our companie that returned some for their misdemenour and ill
+dealing in the countrey, haue beene there worthily punished; who by
+reason of their badde natures, haue maliciously not onelie spoken ill
+of their Gouernours; but for their sakes slaundered the countrie it
+selfe. The like also haue those done which were of their consort.
+
+Some beeing ignorant of the state thereof, nothwithstanding since their
+returne amongest their friendes and acquaintance and also others,
+especially if they were in companie where they might not be gainesaide;
+woulde seeme to know so much as no men more; and make no men so great
+trauailers as themselues. They stood so much as it maie seeme vppon
+their credite and reputation that hauing been a twelue moneth in the
+countrey, it woulde haue beene a great disgrace vnto them as they
+thought, if they coulde not haue saide much whether it were true or
+false. Of which some haue spoken of more then euer they saw or
+otherwise knew to bee there; othersome haue not bin ashamed to make
+absolute deniall of that which although not by them, yet by others is
+most certainely and there plentifully knowne. And othersome make
+difficulties of those things they haue no skill of.
+
+The cause of their ignorance was, in that they were of that many that
+were neuer out of the Iland where wee were seated, or not farre, or at
+the leastwise in few places els, during the time of our aboade in the
+countrey; or of that many that after golde and siluer was not so soone
+found, as it was by them looked for, had little or no care of any other
+thing but to pamper their bellies; or of that many which had little
+vnderstanding, lesse discretion, and more tongue then was needfull or
+requisite.
+
+Some also were of a nice bringing vp, only in cities or townes, or such
+as neuer (as I may say) had seene the world before. Because there were
+not to bee found any English cities, nor such faire houses, nor at
+their owne wish any of their olde accustomed daintie food, nor any soft
+beds of downe or fethers: the countrey was to them miserable, & their
+reports thereof according.
+
+Because my purpose was but in briefe to open the cause of the varietie
+of such speeches; the particularities of them, and of many enuious,
+malicious, and slaunderous reports and deuises els, by our owne
+countrey men besides; as trifles that are not worthy of wise men to bee
+thought vpon, I meane not to trouble you withall: but will passe to the
+commodities, the substance of that which I haue to make relation of
+vnto you.
+
+The treatise whereof for your more readie view & easier vnderstanding I
+will diuide into three speciall parts. In the first I will make
+declaration of such commodities there alreadie found or to be raised,
+which will not onely serue the ordinary turnes of you which are and
+shall bee the planters and inhabitants, but such an ouerplus
+sufficiently to bee yelded, or by men of skill to bee prouided, as by
+way of trafficke and exchaunge with our owne nation of England, will
+enrich your selues the prouiders; those that shal deal with you; the
+enterprisers in general; and greatly profit our owne countrey men, to
+supply them with most things which heretofore they haue bene faine to
+prouide either of strangers or of our enemies: which commodities for
+distinction sake, I call _Merchantable_.
+
+In the second, I will set downe all the comodities which wee know the
+countrey by our experience doeth yeld of its selfe for victuall, and
+sustenance of mans life; such as is vsually fed vpon by the inhabitants
+of the countrey, as also by vs during the time we were there.
+
+In the last part I will make mention generally of such other
+commodities besides, as I am able to remember, and as I shall thinke
+behoofull for those that shall inhabite, and plant there to knowe of;
+which specially concerne building, as also some other necessary vses:
+with a briefe description of the nature and maners of the people of the
+countrey.
+
+
+
+
+THE FIRST PART,
+OF MARCHANTABLE COMMODITIES.
+
+_Silke of grasse or grasse Silke._
+
+There is a kind of grasse in the countrey vppon the blades where of
+there groweth very good silke in forme of a thin glittering skin to bee
+stript of. It groweth two foote and a halfe high or better: the blades
+are about two foot in length, and half inch broad. The like groweth in
+Persia, which is in the selfe same climate as Virginia, of which very
+many of the silke workes that come from thence into Europe are made.
+Here of if it be planted and ordered as in Persia, it cannot in reason
+be otherwise, but that there will rise in shorte time great profite to
+the dealers therein; seeing there is so great vse and vent thereof as
+well in our countrey as els where. And by the meanes of sowing &
+planting in good ground, it will be farre greater, better, and more
+plentifull then it is. Although notwithstanding there is great store
+thereof in many places of the countrey growing naturally and wilde.
+Which also by proof here in England, in making a piece of silke
+Grogran, we found to be excellent good.
+
+_Worme Silke._
+
+In manie of our iourneyes we found silke wormes fayre and great; as
+bigge as our ordinary walnuttes. Although it hath not beene our happe
+to haue found such plentie as elsewhere to be in the coutrey we haue
+heard of; yet seeing that the countrey doth naturally breede and
+nourish them, there is no doubt but if art be added in planting of
+mulbery trees and others fitte for them in commodious places, for their
+feeding and nourishing; and some of them carefully gathered and
+husbanded in that sort as by men of skill is knowne to be necessarie:
+there will rise as great profite in time to the Virginians, as thereof
+doth now to the Persians, Turkes, Italians and Spaniards.
+
+_Flaxe and Hempe._
+
+The trueth is that of Hempe and Flaxe there is no greate store in any
+one place together, by reason it is not planted but as the soile doth
+yeeld it of it selfe; and howsoeuer the leafe, and stemme or stalke doe
+differ from ours; the stuffe by the iudgement of men of skill is
+altogether as good as ours. And if not, as further proofe should finde
+otherwise; we haue that experience of the soile, as thas there canno
+bee shewed anie reason to the contrary, but that it will grow there
+excellent well; and by planting will be yeelded plentifully: seeing
+there is so much ground whereof some may well be applyed to such
+purposes. What benefite heereof may growe in cordage and linnens who
+can not easily understand?
+
+_Allum._
+
+There is a veine of earth along the sea coast for the space of fourtie
+or fiftie miles, whereof by the iudgement of some that have made triall
+heere in England, is made good Allum, of that kinde which is called
+Roche Allum. The richnesse of such a commoditie is so well knowne that
+I neede not to saye any thing thereof. The same earth doth also yeelde
+White Copresse, Nitrum, and Alumen Plumeum, but nothing so plentifully
+as the common Allum; which be also of price and profitable.
+
+_Wapeih._
+
+Wapeih, a kinde of earth so called by the naturall inhabitants; very
+like to terra sigillata: and hauing beene refined, it hath beene found
+by some of our Phisitions and Chirurgeons to bee of the same kinde of
+vertue and more effectuall. The inhabitants vse it very much for the
+cure of sores and woundes: there is in diuers places great plentie, and
+in some places of a blewe sort.
+
+_Pitch, Tarre, Rozen, and Turpentine._
+
+There are those kindes of trees which yeelde them abundantly and great
+store. In the very same Iland where wee were seated, being fifteene
+miles of length, and fiue or sixe miles in breadth, there are fewe
+trees els but of the same kind; the whole Iland being full.
+
+_Sassafras._
+
+Sassafras, called by the inhabitantes _Winauk_, a kinde of wood of most
+pleasand and sweete smel, and of most rare vertues in phisick for the
+cure of many diseases. It is found by experience to bee farre better
+and of more vses then the wood which is called _Guaiacum_, or _Lignum
+vitæ_. For the description, the manner of vsing and the manifolde
+vertues thereof, I referre you to the booke of _Monardus_, translated
+and entituled in English, _The ioyfull newes from the West Indies_.
+
+_Cedar._
+
+_Cedar_, a very sweet wood and fine timber; whereof if nests of chests
+be there made, or timber therof fitted for sweet & fine bedsteads,
+tables, deskes, lutes, virginalles & many things else, (of which there
+hath beene proofe made already) to make vp fraite with other principal
+commodities will yeeld profite.
+
+_Wine._
+
+There are two kinds of grapes that the soile doth yeeld naturally: the
+one is small and sowre of the ordinarie bignesse as ours in England:
+the other farre greater & of himselfe lushious sweet. When they are
+planted and husbanded as they ought, a principall commoditie of wines
+by them may be raised.
+
+_Oyle._
+
+There are two sortes of _Walnuttes_ both holding oyle, but the one
+farre more plentifull then the other. When there are milles & other
+deuises for the purpose, a commodity of them may be raised because
+there are infinite store. There are also three seuerall kindes of
+_Berries_ in the forme of Oke akornes, which also by the experience and
+vse of the inhabitantes, wee finde to yeelde very good and sweete oyle.
+Furthermore the _Beares_ of the countrey are commonly very fatte, and
+in some places there are many: their fatnesse because it is so liquid,
+may well be termed oyle, and hath many speciall vses.
+
+_Furres._
+
+All along the Sea coast there are great store of _Otters_, which
+beeying taken by weares and other engines made for the purpose, will
+yeelde good profite. Wee hope also of _Marterne furres_, and make no
+doubt by the relation of the people but that in some places of the
+countrey there are store: although there were but two skinnes that came
+to our handes. _Luzarnes_ also we haue vnderstanding of, although for
+the time we saw none.
+
+_Deare skinnes._
+
+_Deare skinnes_ dressed after the manner of _Chamoes_ or vndressed are
+to be had of the naturall inhabitants thousands yeerely by way of
+trifficke for trifles: and no more wast or spoile of Deare then is and
+hath beene ordinarily in time before.
+
+_Ciuet cattes._
+
+In our trauailes, there was founde one to haue beene killed by a
+saluage or inhabitant: and in an other place the smell where one or
+more had lately beene before: whereby we gather besides then by the
+relation of the people that there are some in the countrey: good
+profite will rise by them.
+
+_Iron._
+
+In two places of the countrey specially, one about fourescore and the
+other sixe score miles from the Fort or place where wee dwelt: wee
+founde neere the water side the ground to be rockie, which by the
+triall of a minerall man, was founde to holde Iron richly. It is founde
+in manie places of the countrey else. I knowe nothing to the contrarie,
+but that it maie bee allowed for a good marchantable commoditie,
+considering there the small charge for the labour and feeding of men:
+the infinite store of wood: the want of wood and deerenesse thereof in
+England: & the necessity of ballasting of shippes.
+
+_Copper._
+
+A hundred and fiftie miles into the maine in two townes wee founde with
+the inhabitaunts diuerse small plates of copper, that had beene made as
+wee vnderstood, by the inhabitantes that dwell farther into the
+countrey: where as they say are mountaines and Riuers that yeelde also
+whyte graynes of Mettall, which is to bee deemed _Siluer_. For
+confirmation whereof at the time of our first arriuall in the Countrey,
+I sawe with some others with mee, two small peeces of siluer grosly
+beaten about the weight of a Testrone, hangyng in the eares of a
+_Wiroans_ or _chiefe Lorde_ that dwelt about fourescore myles from vs;
+of whom thorowe enquiry, by the number of dayes and the way, I learned
+that it had come to his handes from the same place or neere, where I
+after vnderstood the copper was made and the white graynes of mettall
+founde. The aforesaide copper wee also founde by triall to holde
+siluer.
+
+_Pearle._
+
+Sometimes in feeding on muscles wee founde some pearle; but it was our
+hap to meete with ragges, or of a pide colour; not hauing yet
+discouered those places where wee hearde of better and more plentie.
+One of our companie; a man of skill in such matters, had gathered
+together from among the sauage people aboute fiue thousande: of which
+number he chose so many as made a fayre chaine, which for their
+likenesse and vniformitie in roundnesse, orientnesse, and pidenesse of
+many excellent colours, with equalitie in greatnesse, were verie fayer
+and rare; and had therefore beene presented to her Maiestie, had wee
+not by casualtie and through extremity of a storme, lost them with many
+things els in comming away from the countrey.
+
+_Sweete Gummes._
+
+Sweete Gummes of diuers kindes and many other Apothecary drugges of
+which wee will make speciall mention, when wee shall receiue it from
+such men of skill in that kynd, that in taking reasonable paines shall
+discouer them more particularly then wee haue done; and than now I can
+make relation of, for want of the examples I had prouited and gathered,
+and are nowe lost, with other thinges by causualtie before mentioned.
+
+_Dyes of diuers kindes._
+
+There is Shoemake well knowen, and vsed in England for blacke; the
+seede of an hearbe called Wasewówr; little small rootes called
+Cháppacor; and the barke of the tree called by the inhabitaunts
+Tangomóckonomindge: which Dies are for diuers sortes of red: their
+goodnesse for our English clothes remayne yet to be proued. The
+inhabitants vse them onely for the dying of hayre; and colouring of
+their faces, aud Mantles made of Deare skinnes; and also for the dying
+of Rushes to make artificiall workes withall in their Mattes and
+Baskettes; hauing no other thing besides that they account of, apt to
+vse them for. If they will not proue merchantable there is no doubt but
+the Planters there shall finde apte vses for them, as also for other
+colours which wee knowe to be there.
+
+_Oade._
+
+A thing of so great vent and vse amongst English Diers, which cannot
+bee yeelded sufficiently in our owne countrey for spare of ground; may
+bee planted in Virginia, there being ground enough. The grouth therof
+need not to be doubted when as in the Ilandes of the Asores it groweth
+plentifully, which is in the same climate. So likewise of Madder.
+
+_Suger canes._
+
+Whe carried thither Suger canes to plant which beeing not so well
+preserued as was requisit, & besides the time of the yere being past
+for their setting when we arriued, wee could not make that proofe of
+them as wee desired. Notwithstanding, seeing that they grow in the same
+climate, in the South part of Spaine and in Barbary, our hope in reason
+may yet continue. So likewise for _Orenges_, and _Lemmons_, there may
+be planted also _Quinses_. Wherebi may grow in reasonable time if the
+action be diligently prosecuted, no small commodities in _Sugers_,
+_Suckets_, and _Marmalades_.
+
+Many other commodities by planting may there also bee raised, which I
+leaue to your discret and gentle considerations: and many also may bee
+there which yet we haue not discouered. Two more commodities of great
+value one of certaintie, and the other in hope, not to be planted, but
+there to be raised & in short time to be prouided and prepared, I might
+have specified. So likewise of those commodities already set downe I
+might haue said more; as of the particular places where they are founde
+and best to be planted and prepared: by what meanes and in what
+reasonable space of time they might be raised to profit and in what
+proportion; but because others then welwillers might bee therewithall
+acquainted, not to the good of the action, I haue wittingly omitted
+them: knowing that to those that are well disposed I haue vttered,
+according to my promise and purpose, for this part sufficient.
+
+
+
+
+THE SECOND PART,
+OF SVCHE COMMODITIES AS VIRGINIA IS knowne to yeelde for victuall and
+sustenance of mans life, vsually fed vpon by the naturall inhabitants:
+as also by vs during the time of our aboad. And first of such as are
+sowed and husbanded.
+
+PAGATOWR, a kinde of graine so called by the inhabitants; the same in
+the West Indies is called MAYZE: English men call it Guinney wheate or
+Turkie wheate, according to the names of the countreys from whence the
+like hath beene brought. The graine is about the bignesse of our
+ordinary English peaze and not much different in forme and shape: but
+of diuers colours: some white, some red, some yellow, and some blew.
+All of them yeelde a very white and sweete flowre: beeing vsed
+according to his kinde it maketh a very good bread. Wee made of the
+same in the countrey some mault, whereof was brued as good ale as was
+to bee desired. So likewise by the help of hops therof may bee made as
+good Beere. It is a graine of marueilous great increase; of a thousand,
+fifteene hundred and some two thousand fold. There are three sortes, of
+which two are ripe in an eleuen and twelue weekes at the most:
+sometimes in ten, after the time they are set, and are then of height
+in stalke about sixe or seuen foote. The other sort is ripe in
+fourteene, and is about ten foote high, of the stalkes some beare foure
+heads, some three, some one, and two: euery head containing fiue, sixe,
+or seuen hundred graines within a fewe more or lesse. Of these graines
+besides bread, the inhabitants make victuall eyther by parching them;
+or seething them whole vntill they be broken; or boyling the floure
+with water into a pappe.
+
+_Okindgier_, called by vs _Beanes_, because in greatnesse & partly in
+shape they are like to the Beanes in England; sauing that they are
+flatter, of more diuers colours, and some pide. The leafe also of the
+stemme is much different. In taste they are altogether as good as our
+English peaze.
+
+_Wickonzówr_, called by vs _Peaze_, in respect of the beanes for
+distinction sake, because they are much lesse; although in forme they
+little differ; but in goodnesse of tast much, & are far better then our
+English peaze. Both the beanes and peaze are ripe in tenne weekes after
+they are set. They make them victuall either by boyling them all to
+pieces into a broth; or boiling them whole vntill they bee soft and
+beginne to breake as is vsed in England, eyther by themselues or mixtly
+together: Sometime they mingle of the wheate with them. Sometime also
+beeing whole sodden, they bruse or pound them in a morter, & thereof
+make loaues or lumps of dowishe bread, which they vse to eat for
+varietie.
+
+_Macócqwer_, according to their seuerall formes called by vs,
+_Pompions_, _Mellions_, and _Gourdes_, because they are of the like
+formes as those kindes in England. In _Virginia_ such of seuerall
+formes are of one taste and very good, and do also spring from one
+seed. There are of two sorts; one is ripe in the space of a moneth, and
+the other in two moneths.
+
+There is an hearbe which in Dutch is called _Melden_. Some of those
+that I describe it vnto, take it to be a kinde of Orage; it groweth
+about foure or fiue foote high: of the seede thereof they make a thicke
+broth, and pottage of a very good taste: of the stalke by burning into
+ashes they make a kinde of salt earth, wherewithall many vse sometimes
+to season their brothes; other salte they knowe not. Wee our selues,
+vsed the leaues also for pothearbes.
+
+There is also another great hearbe in forme of a Marigolde, about sixe
+foote in height; the head with the floure is a spanne in breadth. Some
+take it to bee _Planta Solis:_ of the seedes heereof they make both a
+kinde of bread and broth.
+
+All the aforesaid commodities for victuall are set or sowed, sometimes
+in groundes apart and seuerally by themselues; but for the most part
+together in one ground mixtly: the manner thereof with the dressing and
+preparing of the ground, because I will note vnto you the fertilitie of
+the soile; I thinke good briefly to describe.
+
+The ground they neuer fatten with mucke, dounge or any other thing;
+neither plow nor digge it as we in England, but onely prepare it in
+sort as followeth. A fewe daies before they sowe or set, the men with
+wooden instruments, made almost in forme of mattockes or hoes with long
+handles; the women with short peckers or parers, because they vse them
+sitting, of a foote long and about fiue inches in breadth: doe onely
+breake the vpper part of the ground to rayse vp the weedes, grasse, &
+old stubbes of corne stalkes with their rootes. The which after a day
+or twoes drying in the Sunne, being scrapte vp into many small heapes,
+to saue them labour for carrying them away; they burne into ashes. (And
+whereas some may thinke that they vse the ashes for to better the
+grounde; I say that then they woulde eyther disperse the ashes abroade;
+which wee obserued they doe not, except the heapes bee too great: or
+els would take speciall care to set their corne where the ashes lie,
+which also wee finde they are carelesse of.) And this is all the
+husbanding of their ground that they vse.
+
+Then their setting or sowing is after this maner. First for their
+corne, beginning in one corner of the plot, with a pecker they make a
+hole, wherein they put foure graines with that care they touch not one
+another, (about an inch asunder) and couer them with the moulde againe:
+and so through out the whole plot, making such holes and vsing them
+after such maner: but with this regard that they bee made in rankes,
+euery ranke differing from other halfe a fadome or a yarde, and the
+holes also in euery ranke, as much. By this meanes there is a yarde
+spare ground betwene euery hole: where according to discretion here and
+there, they set as many Beanes and Peaze: in diuers places also among
+the seedes of _Macócqwer_, _Melden_ and _Planta Solis_.
+
+The ground being thus set according to the rate by vs experimented, an
+English Acre conteining fourtie pearches in length, and foure in
+breadth, doeth there yeeld in croppe or ofcome of corne, beanes, and
+peaze, at the least two hundred London bushelles: besides the
+_Macócqwer_, _Melden_, and _Planta Solis_: When as in England fourtie
+bushelles of our wheate yeelded out of such an acre is thought to be
+much.
+
+I thought also good to note this vnto you, if you which shall inhabite
+and plant there, maie know how specially that countrey corne is there
+to be preferred before ours: Besides the manifold waies in applying it
+to victuall, the increase is so much that small labour and paines is
+needful in respect that must be vsed for ours. For this I can assure
+you that according to the rate we haue made proofe of, one man may
+prepare and husbande so much grounde (hauing once borne corne before)
+with lesse then foure and twentie houres labour, as shall yeelde him
+victuall in a large proportion for a twelue moneth, if hee haue nothing
+else, but that which the same ground will yeelde, and of that kinde
+onelie which I haue before spoken of: the saide ground being also but
+of fiue and twentie yards square. And if neede require, but that there
+is ground enough, there might be raised out of one and the selfsame
+ground two haruestes or of-comes; for they sowe or set and may at anie
+time when they thinke good from the middest of March vntill the ende of
+Iune: so that they also set when they haue eaten of their first croppe.
+In some places of the countrey notwithstanding they haue two haruests,
+as we haue heard, out of one and the same ground.
+
+For English corne neuertheles whether to vse or not to vse it, you that
+inhabite maie do as you shall haue farther cause to thinke best. Of the
+grouth you need not to doubt; for barlie, oates and peaze, we haue
+seene proof of, not beeing purposely sowen but fallen casually in the
+worst sort of ground, and yet to be as faire as any we haue euer seene
+here in England. But of wheat because it was musty and hat taken salt
+water wee could make no triall: and of rye we had none. Thus much haue
+I digressed and I hope not vnnecessarily: nowe will I returne againe to
+my course and intreate of that which yet remaineth appertaining to this
+Chapter.
+
+There is an herbe which is sowed a part by it selfe & is called by the
+inhabitants Vppówoc: In the West Indies it hath diuers names, according
+to the seuerall places & countries where it groweth and is vsed: The
+Spaniardes generally call it Tobacco. The leaues thereof being dried
+and brought into powder: they vse to take the fume or smoke thereof by
+sucking it through pipes made of claie into their stomacke and heade;
+from whence it purgeth superfluous fleame & other grosse humors,
+openeth all the pores & passages of the body: by which meanes the vse
+thereof, not only preserueth the body from obstructions; but also if
+any be, so that they haue not beene of too long continuance, in short
+time breaketh them: wherby their bodies are notably preserued in
+health, & know not many greeuous diseases wherewithall wee in England
+are oftentimes afflicted.
+
+The Vppówoc is of so precious estimation amongest then, that they
+thinke their gods are maruelously delighted therwith: Wherupon sometime
+they make hallowed fires & cast some of the pouder therein for a
+sacrifice: being in a storme vppon the waters, to pacifie their gods,
+they cast some vp into the aire and into the water: so a weare for fish
+being newly set vp, they cast some therein and into the aire: also
+after an escape of danger, they cast some into the aire likewise: but
+all done with strange gestures, stamping, somtime dauncing, clapping of
+hands, holding vp of hands, & staring vp into rhe heauens, vttering
+therewithal and chattering strange words & noises.
+
+We ourselues during the time we were there vsed to suck it after their
+maner, as also since our returne, & haue found manie rare and wonderful
+experiments of the vertues thereof; of which the relation woulde
+require a volume by it selfe: the vse of it by so manie of late, men &
+women of great calling as else, and some learned Phisitions also, is
+sufficient witnes.
+
+And these are all the commodities for sustenance of life that I know
+and can remember they vse to husband: all else that followe are founde
+growing naturally or wilde.
+
+_Of Rootes._
+
+OPENAVK are a kind of roots of round forme, some of the bignes of
+walnuts, some far greater, which are found in moist & marish grounds
+growing many together one by another in ropes, or as thogh they were
+fastnened with a string. Being boiled or sodden they are very good
+meate.
+
+OKEEPENAVK are also of round shape, found in dry grounds: some are of
+the bignes of a mans head. They are to be eaten as they are taken out
+of the ground, for by reason of their drinesse they will neither roste
+nor seeth. Their tast is not so good as of the former rootes,
+notwithstanding for want of bread & somtimes for varietie the
+inhabitants vse to eate them with fish or flesh, and in my iudgement
+they doe as well as the houshold bread made of rie heere in England.
+
+_Kaishúcpenauk_ a white kind of roots about the bignes of hen egs &
+nere of that forme: their tast was not so good to our seeming as of the
+other, and therfore their place and manner of growing not so much cared
+for by vs: the inhabitants notwithstanding vsed to boile & eate many.
+
+_Tsinaw_ a kind of roote much like vnto the which in England is called
+the _China root_ brought from the East Indies. And we know not anie
+thing to the contrary but that it maie be of the same kind. These roots
+grow manie together in great clusters and doe bring foorth a brier
+stalke, but the leafe in shape far vnlike; which beeing supported by
+the trees it groweth neerest vnto, wil reach or climbe to the top of
+the highest. From these roots while they be new or fresh beeing chopt
+into small pieces & stampt, is strained with water a iuice that maketh
+bread, & also being boiled, a very good spoonemeate in maner of a
+gelly, and is much better in tast if it bee tempered with oyle. This
+_Tsinaw_ is not of that sort which by some was caused to be brought
+into England for the _China roote_, for it was discouered since, and is
+in vse as is afore saide: but that which was brought hither is not yet
+knowne neither by vs nor by the inhabitants to serue for any vse or
+purpose; although the rootes in shape are very like.
+
+_Coscúshaw_, some of our company tooke to bee that kinde of roote which
+the Spaniards in the West Indies call _Cassauy_, whereupon also many
+called it by that name: it groweth in very muddie pooles and moist
+groundes. Being dressed according to the countrey maner, it maketh a
+good bread, and also a good sponemeate, and is vsed very much by the
+inhabitants: The iuice of this root is poison, and therefore heede must
+be taken before any thing be made therewithal: Either the rootes must
+bee first sliced and dried in the Sunne, or by the fire, and then being
+pounded into floure wil make good bread: or els while they are greene
+they are to bee pared, cut into pieces and stampt; loues of the same to
+be laid neere or ouer the fire vntill it be floure, and then being well
+pounded againe, bread, or sponemeate very good in taste, and holsome
+may be made thereof.
+
+_Habascon_ is a roote of hoat taste almost of the forme and bignesse of
+a Parseneepe, of it selfe it is no victuall, but onely a helpe beeing
+boiled together with other meates.
+
+There are also _Leekes_ differeing little from ours in England that
+grow in many places of the countrey, of which, when we came in places
+where, wee gathered and eate many, but the naturall inhabitants neuer.
+
+_Of Fruites._
+
+CHESTNVTS, there are in diuers places great store: some they vse to
+eate rawe, some they stampe and boile to make spoonemeate, and with
+some being sodden they make such a manner of dowebread as they vse of
+their beanes before mentioned.
+
+WALNVTS: There are two kindes of Walnuts, and of then infinit store: In
+many places where very great woods for many miles together the third
+part of trees are walnuttrees. The one kind is of the same taste and
+forme or litle differing from ours of England, but that they are harder
+and thicker shelled: the other is greater and hath a verie ragged and
+harde shell: but the kernell great, verie oylie and sweete. Besides
+their eating of them after our ordinarie maner, they breake them with
+stones and pound them in morters with water to make a milk which they
+vse to put into some sorts of their spoonmeate; also among their sodde
+wheat, peaze, beanes and pompions which maketh them haue a farre more
+pleasant taste.
+
+MEDLARS a kind of verie good fruit, so called by vs chieflie for these
+respectes: first in that they are not good vntill they be rotten: then
+in that they open at the head as our medlars, and are about the same
+bignesse: otherwise in taste and colour they are farre different: for
+they are as red as cheries and very sweet: but whereas the cherie is
+sharpe sweet, they are lushious sweet.
+
+METAQVESVNNAVK, a kinde of pleasaunt fruite almost of the shape &
+bignes of English peares, but that they are of a perfect red colour as
+well within as without. They grow on a plant whose leaues are verie
+thicke and full of prickles as sharpe as needles. Some that haue bin in
+the Indies, where they haue seen that kind of red die of great price
+which is called Cochinile to grow, doe describe his plant right like
+vnto this of Metaquesunnauk but whether it be the true Cochinile or a
+bastard or wilde kind, it cannot yet be certified; seeing that also as
+I heard, Cochinile is not of the fruite but founde on the leaues of the
+plant; which leaues for such matter we haue not so specially obserued.
+
+GRAPES there are of two sorts which I mentioned in the marchantable
+commodities.
+
+STRABERIES there are as good & as great as those which we haue in our
+English gardens.
+
+MVLBERIES, Applecrabs, Hurts or Hurtleberies, such as wee haue in
+England.
+
+SACQVENVMMENER a kinde of berries almost like vnto capres but somewhat
+greater which grow together in clusters vpon a plant or herb that is
+found in shalow waters: being boiled eight or nine hours according to
+their kind are very good meate and holesome, otherwise if they be eaten
+they will make a man for the time franticke or extremely sicke.
+
+There is a kind of reed which beareth a seed almost like vnto our rie
+or wheat, & being boiled is good meate.
+
+In our trauailes in some places wee founde _wilde peaze_ like vnto ours
+in England but that they were lesse, which are also good meate.
+
+_Of a kinde of fruite or berrie in the forme of Acornes._
+
+There is a kind of berrie or acorne, of which there are fiue sorts that
+grow on seuerall kinds of trees; the one is called _Sagatémener_, the
+second _Osámener_, the third _Pummuckóner_. These kind of acorns they
+vse to drie vpon hurdles made of reeds with fire vnderneath almost
+after the maner as we dry malt in England. When they are to be vsed
+they first water them vntil they be soft & then being sod they make a
+good victuall, either to eate so simply, or els being also pounded, to
+make loaues or lumpes of bread. These be also the three kinds of which,
+I said before, the inhabitants vsed to make sweet oyle.
+
+An other sort is called _Sapúmmener_ which being boiled or parched doth
+eate and taste like vnto chestnuts. They sometime also make bread of
+this sort.
+
+The fifth sort is called _Mangúmmenauk_, and is the acorne of their
+kind of oake, the which beeing dried after the maner of the first
+sortes, and afterward watered they boile them, & their seruants or
+sometime the chiefe themselues, either for variety or for want of
+bread, doe eate them with their fish or flesh.
+
+_Of Beastes._
+
+_Deare_, in some places there are great store: neere vnto the sea coast
+they are of the ordinarie bignes as ours in England, & some lesse: but
+further vp into the countrey where there is better seed they are
+greater: they differ from ours onely in this, their tailes are longer
+and the snags of their hornes looke backward.
+
+_Conies_, Those that we haue seen & al that we can heare of are of a
+grey colour like vnto hares: in some places there are such plentie that
+all the people of some townes make them mantles of the furre or flue of
+the skinnes of those they vsually take.
+
+_Saquenúckot_ & _Maquówoc_; two kindes of small beastes greater then
+conies which are very good meat. We neuer tooke any of them our selves,
+but sometime eate of such as the inhabitants had taken & brought vnto
+vs.
+
+_Squirels_ which are of a grey colour, we haue taken & eaten.
+
+_Beares_ which are all of black colour. The beares of this countrey are
+good meat; the inhabitants in time of winter do use to take & eate
+manie; so also somtime did wee. They are taken commonlie in this sort.
+In some Ilands or places where they are, being hunted for, as soone as
+they haue spiall of a man they presently run awaie, & then being chased
+they clime and get vp the next tree they can, from whence with arrowes
+they are shot downe starke dead, or with those wounds that they may
+after easily be killed; we sometime shotte them downe with our
+caleeuers.
+
+I haue the names of eight & twenty seuerall sortes of beasts which I
+haue heard of to be here and there dispersed in the countrie,
+especially in the maine: of which there are only twelue kinds that we
+haue yet discouered, & of those that be good meat we know only them
+before mentioned. The inhabitants somtime kil the _Lyon_ & eat him: &
+we somtime as they came to our hands of their _Wolues_ or _woluish
+Dogges_, which I haue not set downe for good meat, least that some
+woulde vnderstand my iudgement therin to be more simple than needeth,
+although I could alleage the difference in taste of those kindes from
+ours, which by some of our company haue been experimented in both.
+
+_Of Foule._
+
+_Turkie cockes_ and _Turkie hennes_: _Stockdoues: Partridges: Cranes:
+Hernes:_ & in winter great store of _Swannes_ & _Geese_. Of al sortes
+of foule I haue the names in the countrie language of fourescore and
+sixe of which number besides those that be named, we haue taken, eaten,
+& haue the pictures as they were there drawne with the names of the
+inhabitaunts of seuerall strange sortes of water foule eight, and
+seuenteene kindes more of land foul, although wee haue seen and eaten
+of many more, which for want of leasure there for the purpose coulde
+not bee pictured: and after wee are better furnished and stored vpon
+further discouery, with their strange beastes, fishe, trees, plants,
+and hearbes, they shall bee also published.
+
+There are also _Parats_, _Faulcons_, & _Marlin haukes_, which although
+with vs they bee not vsed for meate, yet for other causes I thought
+good to mention.
+
+_Of Fishe._
+
+For foure monethes of the yeere, February, March, Aprill and May, there
+are plentie of _Sturgeons:_ And also in the same monethes of
+_Herrings_, some of the ordinary bignesse as ours in England, but the
+most part farre greater, of eighteene, twentie inches, and some two
+foote in length and better; both these kindes of fishe in those
+monethes are most plentifull, and in best season, which wee founde to
+bee most delicate and pleasaunt meate.
+
+There are also _Troutes, Porpoises, Rayes, Oldwiues, Mullets, Plaice_,
+and very many other sortes of excellent good fish, which we haue taken
+& eaten, whose names I know not but in the countrey language; wee haue
+of twelue sorts more the pictures as they were drawn in the countrey
+with their names.
+
+The inhabitants vse to take then two maner of wayes, the one is by a
+kind of wear made of reedes which in that countrey are very strong. The
+other way which is more strange, is with poles make sharpe at one end,
+by shooting them into the fish after the maner as Irishmen cast dartes;
+either as they are rowing in their boates or els as they are wading in
+the shallowes for the purpose.
+
+There are also in many places plentie of these kindes which follow.
+
+_Sea crabbes_, such as we haue in England.
+
+_Oystres_, some very great, and some small; some rounde and some of a
+long shape: They are founde both in salt water and brackish, and those
+that we had out of salt water are far better than the other as in our
+owne countrey.
+
+Also _Muscles, Scalopes, Periwinkles_, and _Creuises_.
+
+_Seekanauk_, a kind of crustie shell fishe which is good meate, about a
+foote in breadth, hauing a crustie tayle, many legges like a crab; and
+her eyes in her backe. They are founde in shallowes of salt waters; and
+sometime on the shoare.
+
+There are many _Tortoyses_ both of lande and sea kinde, their backes &
+bellies are shelled very thicke; their head, feete, and taile, which
+are in appearance, seeme ougly as though they were members of a serpent
+or venemous: but notwithstanding they are very good meate, as also
+their egges. Some haue bene founde of a yard in bredth and better.
+
+And thus haue I made relation of all sortes of victuall that we fed
+vpon for the time we were in _Virginia_, as also the inhabitants
+themselues, as farre foorth as I knowe and can remember or that are
+specially worthy to bee remembred.
+
+
+
+
+THE THIRD AND LAST PART,
+OF SVCH OTHER THINGES AS IS BEHOOFULL for those which shall plant and
+inhabit to know of; with a description of the nature and manners of the
+people of the countrey.
+
+_Of commodities for building and other necessary uses._
+
+Those other things which I am more to make rehearsall of, are such as
+concerne building, and other mechanicall necessarie vses; as diuers
+sortes of trees for house & ship timber, and other vses els: Also lime,
+stone, and brick, least that being not mentioned some might haue bene
+doubted of, or by some that are malicious reported the contrary.
+
+_Okes_, there are as faire, straight, tall, and as good timber as any
+can be, and also great store, and in some places very great.
+
+_Walnut trees_, as I haue saide before very many, some haue bene seen
+excellent faire timber of foure & fiue fadome, & aboue fourescore foot
+streight without bough.
+
+_Firre trees_ fit for masts of ships, some very tall & great.
+
+_Rakíock_, a kind of trees so called that are sweet wood of which the
+inhabitans that were neere vnto vs doe commonly make their boats or
+Canoes of the form of trowes; only with the helpe of fire, harchets of
+stones, and shels; we haue known some so great being made in that sort
+of one tree that they haue carried well xx. men at once, besides much
+baggage: the timber being great, tal, streight, soft, light, & yet
+tough enough I thinke (besides other vses) to be fit also for masts of
+ships.
+
+_Cedar_, a sweet wood good for seelings, Chests, Boxes, Bedsteedes,
+Lutes, Virginals, and many things els, as I haue also said before. Some
+of our company which haue wandered in some places where I haue not
+bene, haue made certaine affirmation of _Cyprus_ which for such and
+other excellent vses, is also a wood of price and no small estimation.
+
+_Maple_, and also _Wich-hazle_; wherof the inhabitants vse to make
+their bowes.
+
+_Holly_ a necessary thing for the making of birdlime.
+
+_Willowes_ good for the making of weares and weeles to take fish after
+the English manner, although the inhabitants vse only reedes, which
+because they are so strong as also flexible, do serue for that turne
+very well and sufficiently.
+
+_Beech_ and _Ashe_, good for caske, hoopes: and if neede require, plow
+worke, as also for many things els.
+
+_Elme._
+
+_Sassafras_ trees.
+
+_Ascopo_ a kinde of tree very like vnto Lawrell, the barke is hoat in
+tast and spicie, it is very like to that tree which Monardus describeth
+to bee _Cassia Lignea_ of the West Indies.
+
+There are many other strange trees whose names I knowe not but in the
+_Virginian_ language, of which I am not nowe able, neither is it so
+conuenient for the present to trouble you with particular relation:
+seeing that for timber and other necessary vses I haue named
+sufficient: And of many of the rest but that they may be applied to
+good vse, I know no cause to doubt.
+
+Now for Stone, Bricke and Lime, thus it is. Neere vnto the Sea coast
+where wee dwelt, there are no kind of stones to bee found (except a
+fewe small pebbles about foure miles off) but such as haue bene brought
+from farther out of the maine. In some of our voiages wee haue seene
+diuers hard raggie stones, great pebbles, and a kinde of grey stone
+like vnto marble, of which the inhabitants make their hatchets to
+cleeue wood. Vpon inquirie wee heard that a little further vp into the
+Countrey were all sortes verie many, although of Quarries they are
+ignorant, neither haue they vse of any store whereupon they should haue
+occasion to seeke any. For if euerie housholde haue one or two to
+cracke Nuttes, grinde shelles, whet copper, and sometimes other stones
+for hatchets, they haue enough: neither vse they any digging, but onely
+for graues about three foote deepe: and therefore no maruaile that they
+know neither Quarries, nor lime stones, which both may bee in places
+neerer than they wot of.
+
+In the meane time vntill there bee discouerie of sufficient store in
+some place or other conuenient, the want of you which are and shalbe
+the planters therein may be as well supplied by Bricke: for the making
+whereof in diuers places of the countrey there is clay both excellent
+good, and plentie; and also by lime made of Oister shels, and of others
+burnt, after the maner as they vse in the Iles of Tenet and Shepy, and
+also in diuers other places of England: Which kinde of lime is well
+knowne to bee as good as any other. And of Oister shels there is
+plentie enough: for besides diuers other particular places where are
+abundance, there is one shallowe sounde along the coast, where for the
+space of many miles together in length, and two or three miles in
+breadth, the grounde is nothing els beeing but halfe a foote or a foote
+vnder water for the most part.
+
+This much can I say further more of stones, that about 120. miles from
+our fort neere the water in the side of a hill was founde by a
+Gentleman of our company, a great veine of hard ragge stones, which I
+thought good to remember vnto you.
+
+_Of the nature and manners of the people._
+
+It resteth I speake a word or two of the naturall inhabitants, their
+natures and maners, leauing large discourse thereof vntill time more
+conuenient hereafter: nowe onely so farre foorth, as that you may know,
+how that they in respect of troubling our inhabiting and planting, are
+not to be feared; but that they shall haue cause both to feare and loue
+vs, that shall inhabite with them.
+
+They are a people clothed with loose mantles made of Deere skins, &
+aprons of the same rounde about their middles; all els naked; of such a
+difference of statures only as wee in England; hauing no edge tooles or
+weapons of yron or steele to offend vs withall, neither know they how
+to make any: those weapons that they haue, are onlie bowes made of
+Witch hazle, & arrowes of reeds; flat edged truncheons also of wood
+about a yard long, neither haue they any thing to defend themselues but
+targets made of barcks; and some armours made of stickes wickered
+together with thread.
+
+Their townes are but small, & neere the sea coast but few, some
+containing but 10. or 12. houses: some 20. the greatest that we haue
+seene haue bene but of 30. houses: if they be walled it is only done
+with barks of trees made fast to stakes, or els with poles onely fixed
+vpright and close one by another.
+
+Their houses are made of small poles made fast at the tops in rounde
+forme after the maner as is vsed in many arbories in our gardens of
+England, in most townes couered with barkes, and in some with
+artificiall mattes made of long rushes; from the tops of the houses
+downe to the ground. The length of them is commonly double to the
+breadth, in some places they are but 12. and 16. yardes long, and in
+other some wee haue seene of foure and twentie.
+
+In some places of the countrey one onely towne belongeth to the
+gouernment of a _Wiróans_ or chiefe Lorde; in other some two or three,
+in some sixe, eight, & more; the greatest _Wiróans_ that yet we had
+dealing with had but eighteene townes in his gouernment, and able to
+make not aboue seuen or eight hundred fighting men at the most: The
+language of euery gouernment is different from any other, and the
+farther they are distant the greater is the difference.
+
+Their maner of warres amongst themselues is either by sudden surprising
+one an other most commonly about the dawning of the day, or moone
+light; or els by ambushes, or some suttle deuises: Set battels are very
+rare, except if fall out where there are many trees, where eyther part
+may haue some hope of defence, after the deliuerie of euery arrow, in
+leaping behind some or other.
+
+If there fall out any warres between vs & them; what their fight is
+likely to bee, we hauing aduantages against them so many maner of
+waies, as by our discipline, our strange weapons and deuises els;
+especially by ordinance great and small, it may be easily imagined; by
+the experience we haue had in some places, the turning vp of their
+heeles against vs in running away was their best defence.
+
+In respect of vs they are a people poore, and for want of skill and
+iudgement in the knowledge and vse of our things, doe esteeme our
+trifles before thinges of greater value: Notwithstanding in their
+proper manner considering the want of such meanes as we haue, they
+seeme very ingenious; For although they haue no such tooles, nor any
+such craftes, sciences and artes as wee; yet in those thinges they doe,
+they shewe excellencie of wit. And by howe much they vpon due
+consideration shall finde our manner of knowledges and craftes to
+exceede theirs in perfection, and speed for doing or execution, by so
+much the more is it probable that they shoulde desire our friendships &
+loue, and haue the greater respect for pleasing and obeying vs. Whereby
+may bee hoped if meanes of good gouernment bee vsed, that they may in
+short time be brought to ciuilitie, and the imbracing of true religion.
+
+Some religion they haue alreadie, which although it be farre from the
+truth, yet beyng as it is, there is hope it may bee the easier and
+sooner reformed.
+
+They beleeue that there are many Gods which they call _Montóac_, but of
+different sortes and degrees; one onely chiefe and great God, which
+hath bene from all eternitie. Who as they affirme when hee purposed to
+make the worlde, made first other goddes of a principall order to bee
+as meanes and instruments to bee vsed in the creation and gouernment to
+follow; and after the Sunne, Moone, and Starres, as pettie goddes and
+the instruments of the other order more principall. First they say were
+made waters, out of which by the gods was made all diuersitie of
+creatures that are visible or inuisible.
+
+For mankind they say a woman was made first, which by the woorking of
+one of the goddes, conceiued and brought foorth children: And in such
+sort they say they had their beginning.
+
+But how manie yeeres or ages haue passed since, they say they can make
+no relation, hauing no letters nor other such meanes as we to keepe
+recordes of the particularities of times past, but onelie tradition
+from father to sonne.
+
+They thinke that all the gods are of humane shape, & therfore they
+represent them by images in the formes of men, which they call
+_Kewasówok_ one alone is called _Kewás;_ Them they place in houses
+appropriate or temples which they call _Machicómuck;_ Where they
+woorship, praie, sing, and make manie times offerings vnto them. In
+some _Machicómuck_ we haue seene but on _Kewas_, in some two, and in
+other some three; The common sort thinke them to be also gods.
+
+They beleeue also the immortalitie of the soule, that after this life
+as soone as the soule is departed from the bodie according to the
+workes it hath done, it is eyther carried to heauen the habitacle of
+gods, there to enioy perpetuall blisse and happiness, or els to a great
+pitte or hole, which they thinke to bee in the furthest partes of their
+part of the worlde towarde the sunne set, there to burne continually:
+the place they call _Popogusso_.
+
+For the confirmation of this opinion, they tolde mee two stories of two
+men that had been lately dead and reuiued againe, the one happened but
+few yeres before our comming in the countrey of a wicked man which
+hauing beene dead and buried, the next day the earth of the graue
+beeing seene to moue, was taken vp againe; Who made declaration where
+his soule had beene, that is to saie very neere entring into
+_Popogusso_, had not one of the gods saued him & gaue him leaue to
+returne againe, and teach his friends what they should doe to auiod
+that terrible place of torment.
+
+The other happened in the same yeere wee were there, but in a towne
+that was threescore miles from vs, and it was tolde mee for straunge
+newes that one beeing dead, buried and taken vp againe as the first,
+shewed that although his bodie had lien dead in the graue, yet his
+soule was aliue, and had trauailed farre in a long broade waie, on both
+sides whereof grewe most delicate and pleasaunt trees, bearing more
+rare and excellent fruites then euer hee had seene before or was able
+to expresse, and at length came to most braue and faire houses, neere
+which hee met his father, that had beene dead before, who gaue him
+great charge to goe backe againe and shew his friendes what good they
+were to doe to enioy the pleasures of that place, which when he had
+done he should after come againe.
+
+What subtilty soeuer be in the _Wiroances_ and Priestes, this opinion
+worketh so much in manie of the common and simple sort of people that
+it maketh them haue great respect to their Gouernours, and also great
+care what they do, to auoid torment after death, and to enjoy blisse;
+although nothwithstanding there is punishment ordained for
+malefactours, as stealers, whoremoongers, and other sortes of wicked
+doers; some punished with death, some with forfeitures, some with
+beating, according to the greatnes of the factes.
+
+And this is the summe of their religion, which I learned by hauing
+special familiarity with some of their priestes. Wherein they were not
+so sure grounded, nor gaue such credite to their traditions and stories
+but through conuersing with vs they were brought into great doubts of
+their owne, and no small admiration of ours, with earnest desire in
+many, to learne more than we had meanes for want of perfect vtterance
+in their language to expresse.
+
+Most thinges they sawe with vs, as Mathematicall instruments, sea
+compasses, the vertue of the loadstone in drawing yron, a perspectiue
+glasse whereby was shewed manie strange sightes, burning glasses,
+wildefire woorkes, gunnes, bookes, writing and reading, spring clocks
+that seeme to goe of themselues, and manie other thinges that wee had,
+were so straunge vnto them, and so farre exceeded their capacities to
+comprehend the reason and meanes how they should be made and done, that
+they thought they were rather the works of gods then of men, or at the
+leastwise they had bin giuen and taught vs of the gods. Which made
+manie of them to haue such opinions of vs, as that if they knew not the
+trueth of god and religion already, it was rather to be had from vs,
+whom God so specially loued then from a people that were so simple, as
+they found themselues to be in comparison of vs. Whereupon greater
+credite was giuen vnto that we spake of concerning such matters.
+
+Manie times and in euery towne where I came, according as I was able, I
+made declaration of the contentes of the Bible; that therein was set
+foorth the true and onelie GOD, and his mightie woorkes, that therein
+was contayned the true doctrine of saluation through Christ, which
+manie particularities of Miracles and chiefe poyntes of religion, as I
+was able then to vtter, and thought fitte for the time. And although I
+told them the booke materially & of itself was not of anie such vertue,
+as I thought they did conceiue, but onely the doctrine therein
+contained; yet would many be glad to touch it, to embrace it, to kisse
+it, to hold it to their brests and heades, and stroke ouer all their
+bodie with it; to shew their hungrie desire of that knowledge which was
+spoken of.
+
+The _Wiroans_ with whom we dwelt called _Wingina_, and many of his
+people would be glad many times to be with vs at our praiers, and many
+times call vpon vs both in his owne towne, as also in others whither he
+sometimes accompanied vs, to pray and sing Psalmes; hoping thereby to
+bee partaker in the same effectes which wee by that meanes also
+expected.
+
+Twise this _Wiroans_ was so greiuously sicke that he was like to die,
+and as hee laie languishing, doubting of anie helpe by his owne
+priestes, and thinking he was in such daunger for offending vs and
+thereby our god, sent for some of vs to praie and bee a meanes to our
+God that it would please him either that he might liue or after death
+dwell with him in blisse; so likewise were the requestes of manie
+others in the like case.
+
+On a time also when their corne began to wither by reason of a drouth
+which happened extraordinarily, fearing that it had come to passe by
+reason that in some thing they had displeased vs, many woulde come to
+vs & desire vs to praie to our God of England, that he would perserue
+their corne, promising that when it was ripe we also should be
+partakers of the fruite.
+
+There could at no time happen any strange sicknesse, losses, hurtes, or
+any other crosse vnto them, but that they would impute to vs the cause
+or meanes therof for offending or not pleasing vs.
+
+One other rare and strange accident, leauing others, will I mention
+before I ende, which mooued the whole countrey that either knew or
+hearde of vs, to haue vs in wonderfull admiration.
+
+There was no towne where we had any subtile deuise practised against
+vs, we leauing it vnpunished or not reuenged (because wee sought by all
+meanes possible to win them by gentlenesse) but that within a few dayes
+after our departure from euerie such towne, the people began to die
+very fast, and many in short space; in some townes about twentie, in
+some fourtie, in some sixtie, & in one sixe score, which in trueth was
+very manie in respect of their numbers. This happened in no place that
+wee could learne but where wee had bene, where they vsed some practise
+against vs, and after such time; The disease also so strange, that they
+neither knew what it was, nor how to cure it; the like by the report of
+the oldest men in the countrey neuer happened before, time out of
+minde. A thing specially obserued by vs as also by the naturall
+inhabitants themselues.
+
+Insomuch that when some of the inhabitantes which were our friends &
+especially the _Wiroans Wingina_ had obserued such effects in foure or
+fiue towns to follow their wicked practises, they were preswaded that
+it was the worke of our God through our meanes, and that wee by him
+might kil and slai whom we would without weapons and not come neere
+them.
+
+And thereupon when it had happened that they had vnderstanding that any
+of their enemies had abused vs in our iourneyes, hearing that wee had
+wrought no reuenge with our weapons, & fearing vpon some cause the
+matter should so rest: did come and intreate vs that we woulde bee a
+meanes to our God that they as others that had dealt ill with vs might
+in like sort die; alleaging howe much it would be for our credite and
+profite, as also theirs; and hoping furthermore that we would do so
+much at their requests in respect of the friendship we professe them.
+
+Whose entreaties although wee shewed that they were vngodlie, affirming
+that our God would not subiect him selfe to anie such praiers and
+requestes of men: that in deede all thinges haue beene and were to be
+done according to his good pleasure as he had ordained: and that we to
+shew ourselues his true seruants ought rather to make petition for the
+contrarie, that they with them might liue together with vs, bee made
+partakers of his truth & serue him in righteousnes; but notwitstanding
+in such sort, that wee referre that as all other thinges, to bee done
+according to his diuine will & pleasure, and as by his wisedome he had
+ordained to be best.
+
+Yet because the effect fell out so sodainly and shortly after according
+to their desires, they thought neuertheless it came to passe by our
+meanes, and that we in vsing such speeches vnto them did but dissemble
+in the matter, and therefore came vnto vs to giue vs thankes in their
+manner that although wee satisfied them not in promise, yet in deedes
+and effect we had fulfilled their desires.
+
+This maruelous accident in all the countrie wrought so strange opinions
+of vs, that some people could not tel whether to think vs gods or men,
+and the rather because that all the space of their sicknesse, there was
+no man of ours knowne to die, or that was specially sicke: they noted
+also that we had no women amongst vs, neither that we did care for any
+of theirs.
+
+Some therefore were of opinion that wee were not borne of women, and
+therefore not mortall, but that wee were men of an old generation many
+yeeres past then risen againe to immortalitie.
+
+Some woulde likewise seeme to prophesie that there were more of our
+generation yet to come, to kill theirs and take their places, as some
+thought the purpose was by that which was already done.
+
+Those that were immediatly to come after vs they imagined to be in the
+aire, yet inuisible & without bodies, & that they by our intreaty & for
+the loue of vs did make the people to die in that sort as they did by
+shooting inuisible bullets into them.
+
+To confirme this opinion their phisitions to excuse their ignorance in
+curing the disease, would not be ashemed to say, but earnestly make the
+simple people beleue, that the strings of blood that they sucked out of
+the sicke bodies, were the strings wherewithal the inuisible bullets
+were tied and cast.
+
+Some also thought that we shot them ourselues out of our pieces from
+the place where we dwelt, and killed the people in any such towne that
+had offended vs as we listed, how farre distant from vs soeuer it were.
+
+And other some saide that it was the speciall woorke of God for our
+sakes, as wee our selues haue cause in some sorte to thinke no lesse,
+whatsoeuer some doe or maie imagine to the contrarie, specially some
+Astrologers knowing of the Eclipse of the Sunne which wee saw the same
+yeere before in our voyage thytherward, which vnto them appeared very
+terrible. And also of a Comet which beganne to appeare but a few daies
+before the beginning of the said sicknesse. But to conclude them from
+being the speciall an accident, there are farther reasons then I thinke
+fit at this present to bee alleadged.
+
+These their opinions I haue set downe the more at large that it may
+appeare vnto you that there is good hope they may be brought through
+discreet dealing and gouernement to the imbracing of the trueth, and
+consequently to honour, obey, feare and loue vs.
+
+And although some of our companie towardes the ende of the yeare,
+shewed themselues too fierce, in slaying some of the people, in some
+towns, vpon causes that on our part, might easily enough haue been
+borne withall: yet notwithstanding because it was on their part iustly
+deserued, the alteration of their opinions generally & for the most
+part concerning vs is the lesse to bee doubted. And whatsoeuer els they
+may be, by carefulnesse of our selues neede nothing at all to be
+feared.
+
+The best neuerthelesse in this as in all actions besides is to be
+endeuoured and hoped, & of the worst that may happen notice to bee
+taken with consideration, and as much as may be eschewed.
+
+
+
+
+_The Conclusion._
+
+Now I haue as I hope made relation not of so fewe and smal things but
+that the countrey of men that are indifferent & wel disposed maie be
+sufficiently liked. If there were no more knowen then I haue mentioned,
+which doubtlesse and in great reason is nothing to that which remaineth
+to bee discouered, neither the soile, nor commodities. As we haue
+reason so to gather by the difference we found in our trauails: for
+although all which I haue before spoken of, haue bin discouered &
+experiemented not far from the sea coast where was our abode & most of
+our trauailing: yet somtimes as we made our iourneies farther into the
+maine and countrey; we found the soyle to bee fatter; the trees greater
+and to growe thinner; the grounde more firme and deeper mould; more and
+larger champions; finer grasse and as good as euer we saw any in
+England; in some places rockie and farre more high and hillie ground;
+more plentie of their fruites; more abondance of beastes; the more
+inhabited with people, and of greater pollicie & larger dominions, with
+greater townes and houses.
+
+Why may wee not then looke for in good hope from the inner parts of
+more and greater plentie, as well of other things, as of those which
+wee haue alreadie discouered? Vnto the Spaniardes happened the like in
+discouering the maine of the West Indies. The maine also of this
+countrey of _Virginia_, extending some wayes so many hundreds of
+leagues, as otherwise then by the relation of the inhabitants wee haue
+most certaine knowledge of, where yet no Christian Prince hath any
+possession or dealing, cannot but yeeld many kinds of excellent
+commodities, which we in our discouerie haue not yet seene.
+
+What hope there is els to be gathered of the nature of the climate,
+being answerable to the Iland of _Iapan_, the land of _China, Persia,
+Jury_, the Ilandes of _Cyprus_ and _Candy_, the South parts of _Greece,
+Italy_, and _Spaine_, and of many other notable and famous countreis,
+because I meane not to be tedious, I leaue to your owne consideration.
+
+Whereby also the excellent temperature of the ayre there at all
+seasons, much warmer then in England, and neuer so violently hot, as
+sometimes is vnder & between the Tropikes, or nere them; cannot bee
+vnknowne vnto you without farther relation.
+
+For the holsomnesse thereof I neede to say but thus much: that for all
+the want of prouision, as first of English victuall; excepting for
+twentie daies, wee liued only by drinking water and by the victuall of
+the countrey, of which some sorts were very straunge vnto vs, and might
+haue bene thought to haue altered our temperatures in such sort as to
+haue brought vs into some greeuous and dangerous diseases: secondly the
+want of English meanes, for the taking of beastes, fishe, and foule,
+which by the helpe only of the inhabitants and their meanes, coulde not
+bee so suddenly and easily prouided for vs, nor in so great numbers &
+quantities, nor of that choise as otherwise might haue bene to our
+better satisfaction and contentment. Some want also wee had of clothes.
+Furthermore, in all our trauailes which were most speciall and often in
+the time of winter, our lodging was in the open aire vpon the grounde.
+And yet I say for all this, there were but foure of our whole company
+(being one hundred and eight) that died all the yeere and that but at
+the latter ende thereof and vpon none of the aforesaide causes. For all
+foure especially three were feeble, weake, and sickly persons before
+euer they came thither, and those that knewe them much marueyled that
+they liued so long beeing in that case, or had aduentured to trauaile.
+
+Seing therefore the ayre there is so temperate and holsome, the soyle
+so fertile and yeelding such commodities as I haue before mentioned,
+the voyage also thither to and fro beeing sufficiently experimented, to
+bee perfourmed thrise a yeere with ease and at any season thereof: And
+the dealing of _Sir Walter Raleigh_ so liberall in large giuing and
+graunting lande there, as is alreadie knowen, with many helpes and
+furtherances els: (The least that hee hath graunted hath beene fiue
+hundred acres to a man onely for the aduenture of his person): I hope
+there remaine no cause whereby the action should be misliked.
+
+If that those which shall thither trauaile to inhabite and plant bee
+but reasonably prouided for the first yere as those are which were
+transported the last, and beeing there doe vse but that diligence and
+care as is requisite, and as they may with ease: There is no doubt but
+for the time following they may haue victuals that is excellent good
+and plentie enough; some more Englishe sortes of cattaile also
+hereafter, as some haue bene before, and are there yet remaining, may
+and shall bee God willing thiter transported: So likewise our kinde of
+fruites, rootes, and hearbes may bee there planted and sowed, as some
+haue bene alreadie, and proue wel: And in short time also they may
+raise of those sortes of commodities which I haue spoken of as shall
+both enrich themselues, as also others that shall deale with them.
+
+And this is all the fruites of our labours, that I haue thought
+necessary to aduertise you of at this present: what els concerneth the
+nature and manners of the inhabitants of _Virginia:_ The number with
+the particularities of the voyages thither made; and of the actions of
+such that haue bene by _Sir Walter Raleigh_ therein and there imployed,
+many worthy to bee remembered; as of the first discouerers of the
+Countrey: of our Generall for the time _Sir Richard Greinuile;_ and
+after his departure, of our Gouernour there Master _Rafe Lane;_ with
+diuers other directed and imployed vnder theyr gouernement: Of the
+Captaynes and Masters of the voyages made since for transporation; of
+the Gouernour and assistants of those alredie transported, as of many
+persons, accidents, and thinges els, I haue ready in a discourse by it
+selfe in maner of a Chronicle according to the course of times, and
+when time shall bee thought conuenient shall be also published.
+
+Thus referring my relation to your fauourable constructions, expecting
+good successe of the action, from him which is to be acknowledged the
+authour and gouernour not only of this but of all things els, I take my
+leaue of you, this moneth of Februarii, 1588.
+
+F I N I S.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK A BRIEFE AND TRUE REPORT OF THE NEW FOUND LAND OF VIRGINIA ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

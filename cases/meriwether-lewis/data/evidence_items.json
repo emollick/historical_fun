@@ -1,0 +1,340 @@
+{
+ "_readme": "Evidence items for the death of Meriwether Lewis, 11 Oct 1809. Each 'lik' entry is a judged range for P(this evidence | hypothesis): S = self-inflicted (suicide, sane or deranged), H = homicide by anyone, A = accident. Only the ratios between hypotheses matter. Ranges are the author's judgment after reading the sources named in 'basis'; they are not measurements. Items sharing a 'group' rest on one underlying fact or one chain of transmission; under group_rule 'one' the model uses a single randomly chosen item per group per draw (conservative), under 'product' it multiplies them all (upper bound). See code/evidence_model.py and the report's 'How the verdict was weighed' section.",
+ "main_prior": "even_S_H",
+ "group_rule": "one",
+ "priors": {
+  "even_S_H": {
+   "S": 0.475,
+   "H": 0.475,
+   "A": 0.05
+  },
+  "flat": {
+   "S": 0.3333,
+   "H": 0.3333,
+   "A": 0.3334
+  },
+  "murder_leaning": {
+   "S": 0.2,
+   "H": 0.75,
+   "A": 0.05
+  },
+  "suicide_leaning": {
+   "S": 0.7,
+   "H": 0.25,
+   "A": 0.05
+  }
+ },
+ "items": [
+  {
+   "id": "E1_boat_attempts",
+   "label": "Suicide attempts on the boat before Fort Pickering, reported before the death (House to Bates, 28 Sept 1809) and after it (Russell's letters as relayed by Clark, 26 Nov 1809; National Intelligencer, 27 Nov 1809; Russell's 1811 statement)",
+   "group": "state_of_mind",
+   "lik": {
+    "S": [
+     0.4,
+     0.8
+    ],
+    "H": [
+     0.02,
+     0.15
+    ],
+    "A": [
+     0.02,
+     0.15
+    ]
+   },
+   "basis": "sources/1809-09-28_house_to_bates_FRAGMENTS.md; sources/1809_clark_to_jonathan_clark_excerpts_holmberg_wpo1992.md; sources/1809-11-27_national_intelligencer.md; sources/1811-11-26_russell_statement_excerpts_wpo.md. The attempts were reported by the boat crew, not seen by any writer; House's letter predates the death, so it cannot be part of a cover story."
+  },
+  {
+   "id": "E2_will_at_bluffs",
+   "label": "A will made at Fort Pickering naming Clark and W. D. Meriwether executors (Clark, 26 Nov 1809, from Russell's letters; a will found among the papers, Coles to Jefferson, 5 Jan 1810)",
+   "group": "state_of_mind",
+   "lik": {
+    "S": [
+     0.3,
+     0.7
+    ],
+    "H": [
+     0.05,
+     0.3
+    ],
+    "A": [
+     0.05,
+     0.3
+    ]
+   },
+   "basis": "sources/1809_clark_to_jonathan_clark_excerpts_holmberg_wpo1992.md; sources/1810-01-05_coles_to_jefferson.md. The will itself is not in Founders Online; Richards (1996) said the will filed in Virginia is not in Lewis's hand."
+  },
+  {
+   "id": "E3_fort_pickering_state",
+   "label": "Russell's first-hand report of Lewis's 'mental derangement' at Fort Pickering and the watch he kept over him (Russell to Jefferson, 4 and 31 Jan 1810; House to Bates 28 Sept 1809 on the 'strict watch')",
+   "group": "state_of_mind",
+   "lik": {
+    "S": [
+     0.5,
+     0.9
+    ],
+    "H": [
+     0.1,
+     0.4
+    ],
+    "A": [
+     0.1,
+     0.4
+    ]
+   },
+   "basis": "sources/1810-01-04_russell_to_jefferson.md; sources/1810-01-31_russell_to_jefferson.md; sources/1809-09-28_house_to_bates_FRAGMENTS.md."
+  },
+  {
+   "id": "E4_derangement_on_road",
+   "label": "Derangement on the road and at the stand, reported by Neelly (18 Oct 1809), the Clarion (20 Oct 1809: 'deranging malady for about six weeks') and Mrs Grinder to Wilson (May 1810: pacing, talking to himself, flushed face)",
+   "group": "state_of_mind",
+   "lik": {
+    "S": [
+     0.5,
+     0.9
+    ],
+    "H": [
+     0.1,
+     0.4
+    ],
+    "A": [
+     0.1,
+     0.4
+    ]
+   },
+   "basis": "sources/1809-10-18_neelly_to_jefferson.md; sources/1809-10-20_nashville_democratic_clarion_FRAGMENTS.md; sources/1811-05-28_wilson_letter_portfolio_1812.md."
+  },
+  {
+   "id": "E5_family_and_history",
+   "label": "Predisposition: Jefferson's 'hypochondriac affections' inherited from the father (1813); Clark's 'the weight of his mind' known before the journey (28 Oct 1809); half-brother Dr John Marks confined for insanity in 1819",
+   "group": "state_of_mind",
+   "lik": {
+    "S": [
+     0.5,
+     0.9
+    ],
+    "H": [
+     0.3,
+     0.7
+    ],
+    "A": [
+     0.3,
+     0.7
+    ]
+   },
+   "basis": "sources/1813-08-18_jefferson_to_paul_allen_lewis_biography.md; sources/1809_clark_to_jonathan_clark_excerpts_holmberg_wpo1992.md; notes/B_medical_forensic.md section 2e."
+  },
+  {
+   "id": "E6_contemporaries_accept",
+   "label": "Everyone who knew him and wrote at the time accepted the report of suicide: Jefferson, Madison ('to put an end to himself'), Clark ('I fear this report has too much truth'), Bates ('die in such a manner'), Brahan, Russell, Neelly, the executors; no contemporary called for an inquiry",
+   "lik": {
+    "S": [
+     0.6,
+     0.95
+    ],
+    "H": [
+     0.25,
+     0.7
+    ],
+    "A": [
+     0.3,
+     0.7
+    ]
+   },
+   "basis": "sources/1809-10-30_madison_to_jefferson.md; sources/1809_clark_to_jonathan_clark_excerpts_holmberg_wpo1992.md; sources/1809-11-09_bates_to_richard_bates.md; sources/1810-04-18_jefferson_to_russell.md. Their acceptance rested partly on the same Neelly report, so the ratio is kept modest."
+  },
+  {
+   "id": "E7_core_narrative_stable",
+   "label": "The earliest narrative (Neelly and Brahan 18 Oct; Clarion 20 Oct; Wilson from Mrs Grinder, May 1810) agrees on the core: two shots about 3 a.m., a head wound and a wound below the breast, a request for water, survival to sunrise; the servants 200 yards off heard no intruders; the additions (three shots, riders at dark, Pernier in Lewis's clothes) appear only in 1838 to 1845",
+   "group": "grinder_chain",
+   "lik": {
+    "S": [
+     0.6,
+     0.9
+    ],
+    "H": [
+     0.3,
+     0.7
+    ],
+    "A": [
+     0.5,
+     0.8
+    ]
+   },
+   "basis": "notes/C_timeline_setting_versions.md concordance; sources/1809-10-18_brahan_to_jefferson.md; sources/1811-05-28_wilson_letter_portfolio_1812.md. A household that killed him would also tell a stable story, so the ratio is modest."
+  },
+  {
+   "id": "E8_dying_words",
+   "label": "Lewis's reported words to the servants that he had done it himself ('I have done the business my good Servant give me Some water', Neelly; 'he had shot himself and would die', Clarion; 'I am no coward; but I am so strong, so hard to die', Wilson), reported by the servants within a week (Neelly; the Clarion) and by Mrs Grinder seven months later (Wilson)",
+   "group": "grinder_chain",
+   "lik": {
+    "S": [
+     0.6,
+     0.9
+    ],
+    "H": [
+     0.1,
+     0.4
+    ],
+    "A": [
+     0.3,
+     0.7
+    ]
+   },
+   "basis": "sources/1809-10-18_neelly_to_jefferson.md; sources/1809-10-20_nashville_democratic_clarion_FRAGMENTS.md; sources/1811-05-28_wilson_letter_portfolio_1812.md. Under homicide these words must be invented by Pernier, or by the Grinders with the servants' complicity, or misheard."
+  },
+  {
+   "id": "E9_wound_pattern",
+   "label": "Wound pattern: a grazing head shot and a trunk shot from two pistols, razor cuts on neck, arm and thigh, two hours of survival with speech and movement. Multiple-shot suicides are 1.6 to 8% of firearm suicides, while more than one wound is common in firearm homicides (Baldino 2024); in the largest series described (Karger and Brinkmann, 11 cases) the first shot missed the brain in 5, and torso shots predominate in multiple-shot suicides (Jensen 2025, 71 percent); cutting after a failed shot is the defined 'unplanned complex suicide'; a killer leaving the victim alive two hours to talk is unusual",
+   "lik": {
+    "S": [
+     0.02,
+     0.4
+    ],
+    "H": [
+     0.03,
+     0.8
+    ],
+    "A": [
+     0.001,
+     0.03
+    ]
+   },
+   "basis": "notes/B_medical_forensic.md section 3c (Hudson 1981; Karger and Brinkmann 1997; Karger et al. 2002; Druid 1997; Töro and Pollak 2009; Bohnert and Pollak 2004; Sirago et al. 2026). Nobody recorded range, soot or the state of the pistols, so the most diagnostic facts are missing. Ranges are wide on purpose."
+  },
+  {
+   "id": "E10_missing_money",
+   "label": "Money: Russell says Lewis left Fort Pickering with 'perhaps about two hundred & twenty dollars', including a $99.58 Treasurer's check, 'none of which it is said could be found' (31 Jan 1810); the check did later reach Washington and was forwarded to Jefferson (editors, Jackson 2:471-3); Neelly gave Pernier $15 for the road; Coles found 'a little memorandum Book with Some money & his Will' in the trunks (5 Jan 1810)",
+   "lik": {
+    "S": [
+     0.4,
+     0.8
+    ],
+    "H": [
+     0.5,
+     0.9
+    ],
+    "A": [
+     0.4,
+     0.8
+    ]
+   },
+   "basis": "sources/1810-01-04_russell_to_jefferson.md; sources/1810-01-31_russell_to_jefferson.md (with the editors' note on the check); sources/1810-01-05_coles_to_jefferson.md; sources/1809-10-18_neelly_to_jefferson.md; Jackson 2:470-74 (inventory, not seen). What is missing is an unknown part of 'more than One hund $ in Notes & Specie' reported at second hand; money passing through Neelly, Pernier, the Grinders and Nashville could go astray without a murder."
+  },
+  {
+   "id": "E11_valuables_left",
+   "label": "Valuables left with the body or in the trunks: the brace of pistols, rifle, dirk, tomahawk, silver watch, horses, the journals and the vouchers; Neelly later kept the pistols, dirk, rifle and a horse",
+   "lik": {
+    "S": [
+     0.7,
+     0.95
+    ],
+    "H": [
+     0.2,
+     0.6
+    ],
+    "A": [
+     0.7,
+     0.95
+    ]
+   },
+   "basis": "sources/1809-10-18_neelly_to_jefferson.md; sources/1810-01-04_russell_to_jefferson.md; Marks to Reuben Lewis, 22 Jan 1812 (Fisher p. 136, via Carrick). A robbery that leaves the guns, the watch and the horses is unusual; a killing for other motives would leave them."
+  },
+  {
+   "id": "E12_neelly_conduct",
+   "label": "Neelly's conduct: absent at the death by his own account (searching for strayed horses), kept the pistols, dirk, rifle and a horse, claimed to have lent Lewis money (denied by Russell), was in debt and (per Turnbow) in court at Franklin that day; wrote at once to Jefferson",
+   "lik": {
+    "S": [
+     0.2,
+     0.5
+    ],
+    "H": [
+     0.3,
+     0.7
+    ],
+    "A": [
+     0.2,
+     0.5
+    ]
+   },
+   "basis": "sources/neelly_james_dossier_SECONDARY.md; scholarship: Turnbow 2012 and 2015, Danisi 2013 and 2014. The Franklin court record does not show whether Neelly was present (Everman)."
+  },
+  {
+   "id": "E13_pernier_conduct",
+   "label": "Pernier's conduct: carried the news and Jefferson's letter to Washington, petitioned Jefferson for $271.50 in wages on 10 Feb 1810, lodged destitute with Süverman, was refused by the government, died of laudanum on 29 Apr 1810; no contemporary accused him beyond Russell's 'aiding and abetting' sentence of 31 Jan 1810",
+   "lik": {
+    "S": [
+     0.3,
+     0.7
+    ],
+    "H": [
+     0.15,
+     0.5
+    ],
+    "A": [
+     0.3,
+     0.7
+    ]
+   },
+   "basis": "sources/1810-02-10_pernier_to_jefferson.md; sources/1810-05-05_suverman_to_jefferson_pernier_death.md; sources/1810-08-21_jefferson_to_wd_meriwether.md; sources/1810-01-31_russell_to_jefferson.md. A murderer who had taken the money would be unlikely to go to Monticello and the President's house to ask for back wages."
+  },
+  {
+   "id": "E14_lucid_letters",
+   "label": "Lucid letters and plans: to Madison 16 Sept 1809 and to Stoddard 22 Sept 1809 (asks for $200, expects to be on his way back to St. Louis after December); 'when in his best senses he spoke about a trunk of papers' (Clarion)",
+   "lik": {
+    "S": [
+     0.4,
+     0.8
+    ],
+    "H": [
+     0.6,
+     0.9
+    ],
+    "A": [
+     0.6,
+     0.9
+    ]
+   },
+   "basis": "sources/1809-09-16_lewis_to_madison.md; sources/1809-09-22_lewis_to_stoddard.md; sources/1809-10-20_nashville_democratic_clarion_FRAGMENTS.md. People who kill themselves commonly make plans in lucid intervals; the ratio is modest."
+  },
+  {
+   "id": "E15_moonless_night",
+   "label": "The night of 10 to 11 October 1809 was moonless (new moon 9 Oct; moonset 18:35), so Mrs Grinder could not have watched Lewis stagger about the yard by moonlight as Wilson's version has it (Guice 2002; confirmed by computation here)",
+   "lik": {
+    "S": [
+     0.25,
+     0.6
+    ],
+    "H": [
+     0.3,
+     0.7
+    ],
+    "A": [
+     0.25,
+     0.6
+    ]
+   },
+   "basis": "data/astronomy_1809.txt; code/astronomy_1809.py; sources/1811-05-28_wilson_letter_portfolio_1812.md. This damages Wilson's second-hand version of Mrs Grinder's story, not the first version given to Neelly; a frightened woman embellishing to a stranger seven months later is common under either hypothesis."
+  },
+  {
+   "id": "E16_later_tradition",
+   "label": "Later tradition of murder: the 1838 to 1845 'schoolteacher' account (riders at dark, three shots, Pernier in Lewis's clothes), the Tennessee monument committee's report of 1849 to 1850 ('more probable that he died by the hands of an assassin', on the strength of a letter from Clark's son about the servant), local stories of a Grinder trial",
+   "lik": {
+    "S": [
+     0.4,
+     0.8
+    ],
+    "H": [
+     0.5,
+     0.9
+    ],
+    "A": [
+     0.4,
+     0.8
+    ]
+   },
+   "basis": "sources/1849_lewis_monument_committee_report.md; Fisher 1962 pp. 189 ff. (1845 text not seen). The committee's stated ground (the servant fled to Natchez and was never heard of again) is false: Pernier went to Monticello and Washington and died there in April 1810."
+  }
+ ]
+}

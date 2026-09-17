@@ -1,0 +1,524 @@
+[
+ {
+  "group": "Moore",
+  "author": "Clement Clarke Moore",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 4,
+  "lines": 197,
+  "words": 1797
+ },
+ {
+  "group": "Moore",
+  "author": "Clement Clarke Moore",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 42,
+  "lines": 5038,
+  "words": 36750
+ },
+ {
+  "group": "Livingston",
+  "author": "Henry Livingston Jr.",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 19,
+  "lines": 543,
+  "words": 4409
+ },
+ {
+  "group": "Livingston",
+  "author": "Henry Livingston Jr.",
+  "form": "anapestic",
+  "attribution": "probable",
+  "poems": 4,
+  "lines": 296,
+  "words": 2417
+ },
+ {
+  "group": "Livingston",
+  "author": "Henry Livingston Jr.",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 34,
+  "lines": 914,
+  "words": 5734
+ },
+ {
+  "group": "Livingston",
+  "author": "Henry Livingston Jr.",
+  "form": "other",
+  "attribution": "probable",
+  "poems": 9,
+  "lines": 233,
+  "words": 1465
+ },
+ {
+  "group": "Controls",
+  "author": "Anonymous (The Children's Friend, No. III, New York: William B. Gilley, 1821)",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 1,
+  "lines": 32,
+  "words": 212
+ },
+ {
+  "group": "Controls",
+  "author": "Catherine Ann Dorset",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 2,
+  "lines": 151,
+  "words": 1347
+ },
+ {
+  "group": "Controls",
+  "author": "Charles Sprague",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 33,
+  "lines": 2552,
+  "words": 18606
+ },
+ {
+  "group": "Controls",
+  "author": "Charles Wolfe",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 2,
+  "lines": 68,
+  "words": 496
+ },
+ {
+  "group": "Controls",
+  "author": "Charles Wolfe",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 8,
+  "lines": 514,
+  "words": 3897
+ },
+ {
+  "group": "Controls",
+  "author": "Fitz-Greene Halleck",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 2,
+  "lines": 130,
+  "words": 1105
+ },
+ {
+  "group": "Controls",
+  "author": "Fitz-Greene Halleck",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 32,
+  "lines": 2810,
+  "words": 20076
+ },
+ {
+  "group": "Controls",
+  "author": "George Colman the Younger",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 13,
+  "lines": 1501,
+  "words": 10755
+ },
+ {
+  "group": "Controls",
+  "author": "George Gordon, Lord Byron",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 26,
+  "lines": 707,
+  "words": 5424
+ },
+ {
+  "group": "Controls",
+  "author": "George Gordon, Lord Byron",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 92,
+  "lines": 2568,
+  "words": 16877
+ },
+ {
+  "group": "Controls",
+  "author": "Hannah Flagg Gould",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 55,
+  "lines": 2325,
+  "words": 18671
+ },
+ {
+  "group": "Controls",
+  "author": "Hannah Flagg Gould",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 121,
+  "lines": 5664,
+  "words": 39568
+ },
+ {
+  "group": "Controls",
+  "author": "James Gates Percival",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 8,
+  "lines": 582,
+  "words": 4164
+ },
+ {
+  "group": "Controls",
+  "author": "James Gates Percival",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 88,
+  "lines": 9340,
+  "words": 70824
+ },
+ {
+  "group": "Controls",
+  "author": "James Kirke Paulding",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 25,
+  "lines": 3283,
+  "words": 25822
+ },
+ {
+  "group": "Controls",
+  "author": "James Smith and Horace Smith",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 7,
+  "lines": 446,
+  "words": 3345
+ },
+ {
+  "group": "Controls",
+  "author": "James Smith and Horace Smith",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 16,
+  "lines": 1230,
+  "words": 8464
+ },
+ {
+  "group": "Controls",
+  "author": "Joel Barlow",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 15,
+  "lines": 1826,
+  "words": 14241
+ },
+ {
+  "group": "Controls",
+  "author": "John Pierpont",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 3,
+  "lines": 170,
+  "words": 1173
+ },
+ {
+  "group": "Controls",
+  "author": "John Pierpont",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 66,
+  "lines": 6805,
+  "words": 48174
+ },
+ {
+  "group": "Controls",
+  "author": "John Trumbull",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 56,
+  "lines": 5705,
+  "words": 37830
+ },
+ {
+  "group": "Controls",
+  "author": "John Wolcot (Peter Pindar)",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 1,
+  "lines": 15,
+  "words": 113
+ },
+ {
+  "group": "Controls",
+  "author": "John Wolcot (Peter Pindar)",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 122,
+  "lines": 8409,
+  "words": 64469
+ },
+ {
+  "group": "Controls",
+  "author": "Joseph Rodman Drake",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 3,
+  "lines": 36,
+  "words": 348
+ },
+ {
+  "group": "Controls",
+  "author": "Joseph Rodman Drake",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 22,
+  "lines": 1512,
+  "words": 11192
+ },
+ {
+  "group": "Controls",
+  "author": "Lydia Huntley Sigourney",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 4,
+  "lines": 208,
+  "words": 1832
+ },
+ {
+  "group": "Controls",
+  "author": "Lydia Huntley Sigourney",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 129,
+  "lines": 5835,
+  "words": 40038
+ },
+ {
+  "group": "Controls",
+  "author": "Nathaniel Parker Willis",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 45,
+  "lines": 2969,
+  "words": 21854
+ },
+ {
+  "group": "Controls",
+  "author": "Philip Freneau",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 66,
+  "lines": 4572,
+  "words": 39088
+ },
+ {
+  "group": "Controls",
+  "author": "Philip Freneau",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 257,
+  "lines": 15189,
+  "words": 104907
+ },
+ {
+  "group": "Controls",
+  "author": "Richard Henry Dana Sr.",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 30,
+  "lines": 3261,
+  "words": 25344
+ },
+ {
+  "group": "Controls",
+  "author": "Robert Bloomfield",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 24,
+  "lines": 2970,
+  "words": 20919
+ },
+ {
+  "group": "Controls",
+  "author": "Robert Southey",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 7,
+  "lines": 558,
+  "words": 4184
+ },
+ {
+  "group": "Controls",
+  "author": "Robert Southey",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 72,
+  "lines": 4997,
+  "words": 34633
+ },
+ {
+  "group": "Controls",
+  "author": "Samuel Woodworth",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 29,
+  "lines": 1390,
+  "words": 10315
+ },
+ {
+  "group": "Controls",
+  "author": "Samuel Woodworth",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 70,
+  "lines": 4167,
+  "words": 27415
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Campbell",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 14,
+  "lines": 504,
+  "words": 4292
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Campbell",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 88,
+  "lines": 6403,
+  "words": 45636
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Hood",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 35,
+  "lines": 3201,
+  "words": 24221
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Hood",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 151,
+  "lines": 11998,
+  "words": 83702
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Love Peacock",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 17,
+  "lines": 1030,
+  "words": 8510
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Love Peacock",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 93,
+  "lines": 6243,
+  "words": 40168
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Moore",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 201,
+  "lines": 7515,
+  "words": 63613
+ },
+ {
+  "group": "Controls",
+  "author": "Thomas Moore",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 253,
+  "lines": 8857,
+  "words": 57445
+ },
+ {
+  "group": "Controls",
+  "author": "Walter Scott",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 23,
+  "lines": 3157,
+  "words": 20394
+ },
+ {
+  "group": "Controls",
+  "author": "William Cowper",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 16,
+  "lines": 501,
+  "words": 3632
+ },
+ {
+  "group": "Controls",
+  "author": "William Cowper",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 143,
+  "lines": 9459,
+  "words": 65978
+ },
+ {
+  "group": "Controls",
+  "author": "William Cullen Bryant",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 1,
+  "lines": 64,
+  "words": 491
+ },
+ {
+  "group": "Controls",
+  "author": "William Cullen Bryant",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 66,
+  "lines": 3961,
+  "words": 29571
+ },
+ {
+  "group": "Controls",
+  "author": "William Roscoe",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 1,
+  "lines": 52,
+  "words": 480
+ },
+ {
+  "group": "Controls",
+  "author": "Winthrop Mackworth Praed",
+  "form": "anapestic",
+  "attribution": "certain",
+  "poems": 15,
+  "lines": 932,
+  "words": 6569
+ },
+ {
+  "group": "Controls",
+  "author": "Winthrop Mackworth Praed",
+  "form": "other",
+  "attribution": "certain",
+  "poems": 87,
+  "lines": 6838,
+  "words": 43947
+ }
+]

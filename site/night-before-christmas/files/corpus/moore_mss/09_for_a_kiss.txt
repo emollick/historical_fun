@@ -1,0 +1,29 @@
+title: For a Kiss
+author: Clement Clarke Moore
+date: 1846
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 110; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/mooreforakiss.htm
+form: anapestic tetrameter couplets
+lines: 20
+attribution: certain
+notes: MS heading: 'To a very young lady who sent me a kiss. 1846.' Light-gallant thank-you verse; the second anapestic-tetrameter poem in the notebook. Transcriber's emendation '[h]and' (last line) unbracketed. Site line count 20 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+Thousand thanks, my sweet girl, for the kiss that you sent!
+And ten thousand times more for your heart's kind intent!
+But, ah me! like a blossom too tender to last,
+Ere it reach'd me, the freshness and fragrance were past.
+There are kisses, 'tis true, may be sent where you choose;
+But 'tis only because they've no sweetness to lose.
+There are fruits which endure the approach of decay;
+But the true zest of nature breathes fresh from the spray.
+There are flowers, deep-tinted and rich of perfume,
+That, when gather'd, awhile may continue to bloom;
+But the flowrets of morn, breathing soft thro' the dew,
+Lose their charms soon as pluck'd from the stem where they grew.
+There are wines of a spirit so rich and so sound,
+They improve to the taste as they go the world round;
+While the exquisite flavor of some is so faint
+That the vessel containing them oft gives a taint.
+Then, believe me, whenever your gifts you would send,
+Never trust them in charge of the faithfulest friend;
+For their worth can be told and their sweetness made known
+By no substitute's hand, by no lips but your own.

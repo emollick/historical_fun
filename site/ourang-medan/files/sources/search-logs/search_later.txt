@@ -1,0 +1,77 @@
+QUERY: cyaankali AND schip AND "stille oceaan" AND date within "1954-01-01 1956-12-31" | collection: DDD_artikel | numberOfRecords: 1 
+1955/01/07 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404481:mpeg21:a0051 | PANORAMA | KB C 251
+
+QUERY: blauwzuur AND schip AND bemanning AND dood AND date within "1950-01-01 1990-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: "dode bemanning" AND "stille oceaan" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: spookschip AND "stille oceaan" AND date within "1949-01-01 1990-12-31" | collection: DDD_artikel | numberOfRecords: 38 
+1957/01/11 | Algemeen Dagblad | p1 | MMKB19:000346009:mpeg21:a00009 | SPOOKSCHIP AAN DE GROND | Koninklijke Bibliotheek
+1955/11/15 | De waarheid | p2 | ddd:010370481:mpeg21:a0054 | De Telex meldt, dat | KB C 157
+1956/04/14 | Het vrĳe volk : democratisch-socialistisch dagblad | p9 | ddd:010952491:mpeg21:a0270 | Ondergang van ,spookschip' was niet mysterieus | Gemeentearchief Rotterdam
+1955/11/24 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden-Zuid-Oost-Friesland en Noord-Overĳssel | p1 | ddd:010686792:mpeg21:a0001 | Spookschip op Stille Oceaan | Koninklijke Bibliotheek C 199
+1955/11/24 | Algemeen Dagblad | p3 | MMKB19:000331047:mpeg21:a00070 | GEEN SPOOR VAN DE OPVARENDEN | Koninklijke Bibliotheek
+1956/02/04 | Algemeen Dagblad | p4 | MMKB19:000330030:mpeg21:a00069 | Schip spoorloos | Koninklijke Bibliotheek
+1955/11/15 | Het vrĳe volk : democratisch-socialistisch dagblad | p9 | ddd:010952363:mpeg21:a0200 | Raadsel Joyita on bemand gevonden onopgelost | Gemeentearchief Rotterdam
+1955/11/16 | Algemeen Dagblad | p5 | MMKB19:000331040:mpeg21:a00097 | „Spookschip” Joyita prooi van zeerovers? | Koninklijke Bibliotheek
+1956/02/04 | Nieuwsblad van het Noorden | p3 | ddd:010882713:mpeg21:a0065 | Kleine dingen in ’n grote wereld Spookschepen op Stille Oceaan | Groninger archieven 649-1340
+1958/08/14 | De nieuwe Limburger | p19 | MMCC01:048051039:mpeg21:a00249 | Spookschepen op 7 wereldzeeën DE VLIEGENDE ARABIER Nieuwste aanvulling van een 200 jaar ou | Centre Céramique
+1949/02/12 | Dagblad voor Noord-Limburg | p6 | MMCC02:211145036:mpeg21:a00066 | „Spookschip" werd gedecoreerd | Centre Céramique
+1958/08/14 | De nieuwe Limburger | p19 | MMCC01:048051039:mpeg21:a00250 | VLIECENDE SPOOKVLOOT | Centre Céramique
+1955/11/26 | Nijmeegsch dagblad | p7 | MMRANM03:048402049:mpeg21:a00068 | 6. Op het Zuidelijk deel van de | Regionaal Archief Nijmegen
+1949/05/31 | Het Rotterdamsch parool | p2 | MMSARO02:164872125:mpeg21:a00040 | DE AVONTUREN WAN KAPITEIN ROB | Stadsarchief Rotterdam
+1949/05/30 | Nieuw Utrechtsch dagblad | p2 | MMKB27:017772123:mpeg21:a00035 | DE AVONTUREN VAN KAPITEIN ROB | Koninklijke Bibliotheek
+1950/09/06 | De West : nieuwsblad uit en voor Suriname | p4 | ddd:110637492:mpeg21:a0083 | De schal van Opa Larsen | Koninklijke Bibliotheek
+1974/05/27 | Leeuwarder courant : hoofdblad van Friesland | p2 | ddd:010619649:mpeg21:a0106 | Pakkende episode slapjes verfilmd | KBDK
+1956/02/04 | Twentsch dagblad Tubantia | p3 | MMHCO02:163755030:mpeg21:a00032 | Na de Joyita de Arakarimoa Weer een schip bij de Fidzjieilanden spoorloos Met 27 man aan b | Historisch Centrum Overijssel
+1970/04/16 | Het vrĳe volk : democratisch-socialistisch dagblad | p3 | ddd:010957209:mpeg21:a0204 | Schrik na ploffend geluid ONTREDDERDE APOLLO LIJKT SPOOKSCHIP | Gemeentearchief Rotterdam
+1955/12/03 | Trouw | p | ABCDDD:010819893:mpeg21:a0212 | Schepen die spoorloos ■ verdwenen ,;- Wat overkwam de bemanningen? DE ZEE ZWIJGT... | Koninklijke Bibliotheek
+1949/02/11 | Bredasche courant | p | MMSAB03:000068900:mpeg21:a0018 | HET SPOOKSCHIP TROMP Vijf keer als getorpedeerd opgegeven door de Japs | Stadsarchief Breda
+1956/02/06 | Zutphens dagblad | p5 | MMRAZ03:179310031:mpeg21:a00104 | Geheimzinnige onderzeeër kruist in Stille Oceaan „Joyita" verlaten, „Warakarimoa" | Regionaal Archief Zutphen
+1956/02/07 | Deventer dagblad | p3 | MMHCO02:163920032:mpeg21:a00065 | Geheimzinnige onderzeeër kruist in Stille Oceaan „Joyita" verlaten, „Warakarimoa" verdwene | Historisch Centrum Overijssel
+1958/08/30 | Dagblad voor Noord-Limburg | p14 | MMCC02:211183052:mpeg21:a00182 | Mysteries van de wereldzeeën ,De Vliegende Hollander' heeft ook thans nog spookachtige col | Centre Céramique
+1988/12/24 | De Telegraaf | p5 | ddd:110610827:mpeg21:a1017 | BIJNA SLOEG DE REDDINGSCAPSULE TE PLETTER... Jan Brinkman met 26 lotgenoten twintig uur sp | Koninklijke Bibliotheek C 98
+1966/04/08 | Nieuwe Winterswijksche courant | p6 | MMECAL02:180064042:mpeg21:a00078 | Spookschepen op de wereldzeeën „De vliegende Hollander” is nuchtere werkelijkheid | Erfgoedcentrum Achterhoek en Liemers
+1959/07/11 | Het Binnenhof | p12 | MMKB19:002054010:mpeg21:a00171 | Het spookschip van de Chinese Zee | Koninklijke Bibliotheek
+1956/02/07 | Nijmeegsch dagblad | p1 | MMRANM03:048403032:mpeg21:a00018 | Kruist nieuwe kapitein Nemo in Stille Oceaan? Onbekende duikboot gesignaleerd in wateren w | Regionaal Archief Nijmegen
+1956/02/07 | Arnhemsche courant | p1 | MMKB19:000305032:mpeg21:a00012 | Kruist nieuwe kapitein Nemo in Stille Oceaan? | Koninklijke Bibliotheek
+1985/06/01 | NRC Handelsblad | p | KBNRC01:000029744:mpeg21:a0167 | Over tot de orde van de dag | Koninklijke Bibliotheek
+1960/11/24 | Eindhovensch dagblad | p3 | MMRHCE02:163638046:mpeg21:a00046 | CARROUSEL | Regionaal Historisch Centrum Eindhoven
+1957/01/14 | Twentsche courant | p9 | MMCOLO01:280938011:mpeg21:a00098 | Levensgeluk hangt af van president Eisenhower Ondergang van de „Graf Spee" werd begin van  | Koninklijke Bibliotheek
+1964/11/28 | Leeuwarder courant : hoofdblad van Friesland | p2 | ddd:010617014:mpeg21:a0143 | Ruim drieduizend jaar oud | KBDK
+1955/11/22 | De Volkskrant | p | ABCDDD:010842746:mpeg21:a0116 | Vaarwel „Joyita” | Koninklijke Bibliotheek
+1974/05/27 | Tubantia | p | KBPERS01:003358022:mpeg21:a00228 | eughton-film deze ter erg slap | Koninklijke Bibliotheek
+1957/01/14 | Twentsche courant | p9 | MMCOLO01:280575066:mpeg21:a00093 | Levensgeluk hangt af van president Eisenhower Ondergang van de „Graf Spee" werd begin van  | Collectie Overijssel
+1960/06/04 | Trouw | p | ABCDDD:010819104:mpeg21:a0291 | Acht man op een SPOOKSCHIP | Koninklijke Bibliotheek
+1974/05/22 | Leekster courant | p25 | MMRHCG04:235174008:mpeg21:a00227 | Televisie brengt zondagavond de boeiende film Enter Gantry | Groninger archieven
+
+QUERY: silvio AND triest AND schip AND date within "1948-01-01 1960-12-31" | collection: DDD_artikel | numberOfRecords: 2 
+1948/03/13 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862945:mpeg21:a0038 | S.O.S, | Koninklijk Instituut voor de Tropen (KIT
+1948/02/28 | De locomotief : Samarangsch handels- en advertentie-blad | p2 | ddd:010862918:mpeg21:a0035 | Langs een omweg. | Koninklijk Instituut voor de Tropen (KIT
+
+QUERY: panorama AND medan AND date within "1954-12-01 1955-02-28" | collection: DDD_artikel | numberOfRecords: 1 
+1955/01/07 | Amigoe di Curacao : weekblad voor de Curacaosche eilanden | p2 | ddd:010404481:mpeg21:a0051 | PANORAMA | KB C 251
+
+QUERY: "marshall" AND spookschip | collection: DDD_artikel | numberOfRecords: 17 
+1960/02/05 | Nieuwsblad van het Zuiden | p1 | MMKB19:000649030:mpeg21:a00011 | „Spookschip veertig keer verkocht in schrootaffaire | Koninklijke Bibliotheek
+1936/09/07 | De Sumatra post | p3 | ddd:010384031:mpeg21:a0104 | VERMAKELIJKHEDEN. | KB 1634 C1
+1956/09/21 | Emmer courant | p4 | MMGEM01:163349060:mpeg21:a00056 | Tilms voor de komende dagen De witte non | Gemeente Emmen
+1921/08/10 | De avondpost | p3 | MMKB27:017876184:mpeg21:a00022 | TELEGRAMMEN. | Koninklijke Bibliotheek
+1936/09/08 | De Sumatra post | p3 | ddd:010384032:mpeg21:a0116 | VERMAKELIJKHEDEN. | KB 1634 C1
+1952/03/18 | De Gooi- en Eemlander | p5 | MMGAGM01:234887066:mpeg21:a00079 | Nederland heeft uitstekende handelsrelaties met Oostenrijk Weense jaarbeurs levert het bew | Gemeentearchief Gooise Meren en Huizen
+1948/07/19 | Het Parool | p | ABCDDD:010828665:mpeg21:a0115 | Reis met risico's door James M. Fox | Koninklijke Bibliotheek
+1966/01/15 | De Telegraaf | p31 | ddd:110588953:mpeg21:a0649 | Wij ontvingen... | Koninklijke Bibliotheek C 98
+1953/01/02 | Nieuwsblad van het Noorden | p5 | ddd:010677174:mpeg21:a0114 | DE NIEUWJAARSWENS 1953 | KB C 65
+1949/04/20 | Twentsch dagblad Tubantia en Enschedesche courant en Vrije Twentsche courant | p | MMSAEN01:000058581:mpeg21:a0021 | LAATSTE NIEUWS Algemene Vergadering C.H.U. | Stadsarchief Enschede
+1957/04/06 | Ons Noorden | p7 | MMRHCG04:235394082:mpeg21:a00098 | Vliegende Hollander: een schrikbeeld? KRONIEK VAN ZATERDAG | Groninger archieven
+1957/04/06 | Overijsselsch dagblad | p7 | MMKB23:001293005:mpeg21:a00111 | Vliegende Hollander: een schrikbeeld? KRONIEK VAN ZATERDAG | Historisch Centrum Overijssel
+1936/10/06 | Nieuwe Harlinger courant | p5 | MMTRES04:211324080:mpeg21:a00058 | FEUILLETON HET EILAND VAN AVONTUUR | Tresoar
+1921/08/10 | De Maasbode | p | MMKB04:000191146:mpeg21:a0020 | LAATSTE BERICHTEN. | Koninklijke Bibliotheek
+1949/04/29 | Nieuwsblad voor de Hoeksche Waard en IJselmonde | p2 | MMMHW01:001053050:mpeg21:a00010 | De President van onze Staatsbank laat een somber getuid horen | Museum Hoeksche Waard
+1984/10/26 | NRC Handelsblad | p | KBNRC01:000028225:mpeg21:a0186 | televisie en radio Hier en nu | Koninklijke Bibliotheek
+1883/01/10 | Nederlandsche staatscourant | p | MMKB08:000141122:mpeg21:a0013 | MINISTERIE VAN JUSTITIE. AUTEURSREGT. | Koninklijke Bibliotheek
+
+QUERY: "medan" AND "spookschip" AND date within "1948-01-01 1990-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+
+QUERY: medan AND geheimzinnig AND schip AND bemanning AND dood AND date within "1949-01-01 1995-12-31" | collection: DDD_artikel | numberOfRecords: 0 
+

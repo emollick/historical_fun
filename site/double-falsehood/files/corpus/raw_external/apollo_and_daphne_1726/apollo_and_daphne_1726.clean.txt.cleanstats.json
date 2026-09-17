@@ -1,0 +1,32 @@
+{
+ "stats": {
+  "noise": 99,
+  "pagenum": 7,
+  "sig": 7,
+  "hyphen_join": 2,
+  "auto": 3,
+  "override": 1,
+  "words_out": 1110,
+  "lines_out": 378
+ },
+ "top_replacements": [
+  [
+   "falute>salute",
+   1
+  ],
+  [
+   "defire>desire",
+   1
+  ],
+  [
+   "flow>slow",
+   1
+  ],
+  [
+   "pleafure>pleasure",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

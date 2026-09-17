@@ -1,0 +1,436 @@
+ts	qid	tag	query	limit	http	total_hits	n_hits	bales_frags	err
+2026-09-14T06:45:18Z	q0001	probe	"Kate the barn is afire" OR "loosened them as quick as I could" OR "could not be got out of a fire" OR "keeper of the crib" OR "Steamer Little Giant" OR "Behind the Conclusions"	20	200	0	0	0	
+2026-09-14T06:45:32Z	q0002	probe	"Kate the barn is afire" "loosened them as quick as I could"	20	200	2	2	5	
+2026-09-14T06:45:40Z	q0003	probe	"Kate the barn is afire" | "loosened them as quick as I could"	20	200	0	0	0	
+2026-09-14T06:45:46Z	q0004	probe	"Kate the barn is afire" zzzzqqqx	20	200	0	0	0	
+2026-09-14T06:48:41Z	q0005	probe	"Kate the barn is afire" OR "loosened them as quick as I could"	20	200	2	2	5	
+2026-09-14T06:48:47Z	q0006	probe	"keeper of the crib"	20	200	12	12	1	
+2026-09-14T06:48:58Z	q0007	probe	"sitting on the sidewalk"	20	200	6197	20	0	
+2026-09-14T06:50:34Z	q0008	probe	"loosened them as quick as I could" "Kate the barn is afire"	20	200	2	2	5	<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>
+2026-09-14T06:50:43Z	q0009	probe	"loosened them as quick as I could" "Behind the Conclusions"	20	200	1	1	5	
+2026-09-14T06:50:50Z	q0010	probe	"loosened them as quick as I could" "Behind the Conclusions" "keeper of the crib" "Steamer Little Giant"	20	200	1	1	5	
+2026-09-14T06:54:03Z	q0011	probe	"Kate the barn is afire" "loosened them as quick as I could" "could not be got out of a fire" "keeper of the crib" "Steamer Little Giant"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T06:54:09Z	q0012	probe	"Kate the barn is afire" "loosened them as quick as I could" "could not be got out of a fire" "keeper of the crib" "Steamer Little Giant" "Behind the Conclusions"	10	200	1	1	5	
+2026-09-14T06:54:16Z	q0013	probe	loosen*	10	200	732890	10	0	
+2026-09-14T06:54:25Z	q0014	probe	"witness) Examination by"	10	200	47	10	3	
+2026-09-14T06:54:31Z	q0015	probe	"sworn November 25, 1871"	10	200	1	1	1	
+2026-09-14T06:54:43Z	q0016	probe	"Examination by Mr. Chadwick"	10	200	1	1	1	
+2026-09-14T06:54:56Z	q0017	probe	"12th witness"	10	200	38	10	0	
+2026-09-14T06:56:39Z	q0018	heading	"Sullivan sworn"	10	200	72	10	0	
+2026-09-14T06:56:56Z	q0019	heading	"Rau sworn"	10	200	0	0	0	
+2026-09-14T06:57:23Z	q0020	heading	"Musham sworn"	10	200	0	0	0	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T06:57:41Z	q0021	heading	"Conway sworn"	10	200	33	10	0	
+2026-09-14T06:57:55Z	q0022	heading	"Schaefer sworn"	10	200	3	3	0	
+2026-09-14T06:58:10Z	q0023	heading	"Schimmals sworn"	10	200	0	0	0	
+2026-09-14T06:58:19Z	q0024	heading	"14th witness"	10	200	44	10	0	
+2026-09-14T06:58:24Z	q0027	heading	"2nd witness"	10	200	231	10	0	
+2026-09-14T06:58:25Z	q0026	chain	"myself and my husband" "do you live? DeKoven" "do you live? A" "do you live? A" "operator at the courthouse"	10	200	1	1	5	
+2026-09-14T06:58:31Z	q0025	ordinal	"14th witness" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T06:58:34Z	q0028	heading	"Daniel Sullivan" "November 25, 1871" "14th"	10	200	11	10	5	
+2026-09-14T06:58:41Z	q0030	ordinal	"2nd witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:58:50Z	q0031	ordinal	"3rd witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:58:59Z	q0032	ordinal	"4th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:03Z	q0029	chain	"207 #22—John Tolland, keeper" "226 CATHARINE MCLAUGHLIN 228" "loosened them as quick as I could"	10	200	1	1	3	<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>
+2026-09-14T06:59:06Z	q0033	ordinal	"6th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:13Z	q0035	ordinal	"7th witness" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T06:59:20Z	q0036	ordinal	"9th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:27Z	q0037	ordinal	"10th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:36Z	q0038	ordinal	"11th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:44Z	q0039	ordinal	"15th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:51Z	q0040	ordinal	"16th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T06:59:56Z	q0041	ordinal	"17th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:00:02Z	q0042	ordinal	"18th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:00:09Z	q0043	ordinal	"19th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:00:16Z	q0044	ordinal	"20th witness" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:00:42Z	q0034	chain	"in bed myself and my husband" "Where do you live" "Where do you live" "Where do you live" "on oath, declares that"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:01:48Z	q0046	B	sidewalk "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:01:55Z	q0048	B	"in front of White" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:02:06Z	q0049	B	"one hundred and ninety" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:02:09Z	q0047	chain	"Brown? Q. Where do you live" "A. 134 DeKoven Street" "do you live? DeKoven" "xi Xii Table of" "witness Q. Where do you live? A"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:02:24Z	q0050	B	"line of sight" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:02:55Z	q0051	chain	"commissioners Q. Where do you live? A" "myself and my husband" "tun- nel, Tuesday, November" "the central office at"	10	200	1	1	5	
+2026-09-14T07:03:38Z	q0052	B	obstructed "loosened them as quick as I could"	10	500	-1	0	0	HTTP Error 500: Internal Server Error parse:Expecting value: line 1 column 1 (char 0)
+2026-09-14T07:04:15Z	q0054	B	blocked Sullivan "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:04:39Z	q0055	chain	"side of DeKoven Street" "DeKoven Street.! Q. What is your" "What is your business" "SULLIVAN MICHAEL C. HICKEY"	10	200	1	1	5	
+2026-09-14T07:04:55Z	q0056	B	"Lot 19" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:05:17Z	q0058	B	"Lot 18" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:05:26Z	q0059	B	"Lot 12" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:05:27Z	q0057	chain	"witness Q. Where do you live? A" "commissioners Q. Where do you live? A" "when this fire commenced" "E. Fuller, night operator"	10	200	1	1	5	
+2026-09-14T07:05:32Z	q0061	chain	"Sunday evening, October 8" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:05:32Z	q0060	B	"Block 37" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:05:37Z	q0062	chain	"DeKoven Street.! Q. What is your" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:05:38Z	q0063	B	"Block 38" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:05:46Z	q0065	B	"east half" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:05:48Z	q0066	chain	"White’s house or head" "time of the inquiry" "Sullivan saw the smoke" "Mus- ham’s reference material"	10	200	1	1	5	
+2026-09-14T07:05:56Z	q0067	B	"could not have seen" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:05:56Z	q0068	chain	"Determining the Distance That" "lived across the street" "the street, walk past" "Sullivan testified that when"	10	200	1	1	5	
+2026-09-14T07:06:01Z	q0069	B	"Dalton's house" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:06:02Z	q0070	chain	"never claimed in ei" "side of DeKoven Street" "was a great big" "dray. I am a"	10	200	1	1	5	
+2026-09-14T07:06:10Z	q0071	B	"twenty-five minutes past nine" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:06:10Z	q0072	chain	"What is your business" "JAMES H. HILDRETH ROBERT" "left the house, and" "the alleyway is presumed"	10	200	1	1	5	
+2026-09-14T07:06:15Z	q0073	B	"half-past nine" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:06:16Z	q0074	chain	"AND PATRICK O’LEARY PROPERTIES" "Douglas A. Swanson diminished" "example, that after the" "witness Q. Where do you live? A"	10	200	1	1	5	
+2026-09-14T07:06:19Z	q0075	B	"8:30" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:06:28Z	q0077	B	"8:40" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:06:34Z	q0078	B	"8:45" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:06:38Z	q0079	B	"8:20" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:06:39Z	q0076	chain	"commissioners Q. Where do you live? A" "O'Leary House McLaughlin House" "them five cows that" "alarm telegraph, Tuesday, November"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:06:43Z	q0080	B	"his mother's cow" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:06:49Z	q0082	B	lantern Sullivan "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:06:51Z	q0081	chain	"duty until 12:30 same" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:06:56Z	q0083	B	smoking Sullivan "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:07:00Z	q0085	B	perjur* "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:07:06Z	q0086	B	lied Sullivan "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:07:11Z	q0084	chain	"his location, stating that" "testimony, as any buildings" "likely the Forbes house" "depicted, the house clearly"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:07:12Z	q0087	B	"cover up" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:07:17Z	q0088	chain	"height would have certainly" "20, 1871 Daniel “Peg" "William White’s property.’ Why" "argue that perhaps Sullivan"	10	200	1	1	4	
+2026-09-14T07:07:17Z	q0089	B	McDermott affidavit "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:07:23Z	q0091	B	"Mrs. White" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:07:29Z	q0092	B	feed cow Sullivan "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:07:41Z	q0090	chain	"almost certain that Sullivan" "you stand there? A" "house and in McLaughlin’s.”" "both sides of White’s"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:07:54Z	q0093	B	"Peg Leg" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:08:03Z	q0095	B	"Louis M. Cohn" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:08:04Z	q0094	chain	"Murray and Patrick O'Leary" "would have nonetheless obstructed" "the fire officials failed" "ultimately became the O’Leary"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:08:10Z	q0096	B	Ahern cow "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:08:14Z	q0097	chain	"Allegedly Ran to the Barn The" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:08:16Z	q0098	B	"Copyright" "loosened them as quick as I could"	10	200	2	2	2	
+2026-09-14T07:08:22Z	q0099	chain	"dray. I am a" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:08:25Z	q0100	B	"Library of Congress Cataloguing" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:08:31Z	q0102	B	"McFarland" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:08:46Z	q0101	chain	"What is your business" "loosened them as quick as I could"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:08:57Z	q0103	chain	"witness Q. Where do you live? A" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:09:06Z	q0104	chain	"White did own land" "claims as to see- ing the" "barn rising above Dalton’s" "Mus- ham’s reference material"	10	200	1	1	4	
+2026-09-14T07:09:14Z	q0105	chain	"134 De- Koven Street" "in front of White’s" "tered the barn, the fire had" "never claimed in ei"	10	200	1	1	5	
+2026-09-14T07:09:21Z	q0106	chain	"the south side of DeKoven Street" "was a great big" "E: “After the Inquiry’—The" "side of the street"	10	200	1	1	5	
+2026-09-14T07:09:47Z	q0107	chain	"point that is two-and-one-half" "1871 FIGURE 51—THE ANNE" "Douglas A. Swanson diminished" "one made an alarm"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:09:54Z	q0109	chain	"DeKoven Street. Q. The house that" "DeKoven Note: Forbes's house" "horse, wagon, and harness" "#24—Denis J. Swenie, foreman"	10	200	1	1	5	
+2026-09-14T07:10:02Z	q0110	chain	"on duty until 12:30" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:10:09Z	q0108	marker	"[255]" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:10:16Z	q0112	marker	"[257]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:10:24Z	q0113	marker	"[258]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:10:24Z	q0111	chain	"height would have certainly" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:10:33Z	q0115	chain	"in his testimony, Sullivan" "address the in- congruity" "realize that the Dalton" "house on it with exacting"	10	200	1	1	4	
+2026-09-14T07:10:33Z	q0114	marker	"[259]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:10:39Z	q0117	marker	"[260]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:10:46Z	q0118	marker	"[261]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:10:50Z	q0116	chain	"Louis Cohn.! riZ —Chicago" "lot line between DeKoven" "first broken through the" "mar- shals.'° Nonetheless, it"	10	200	1	1	4	
+2026-09-14T07:10:57Z	q0120	chain	"other side of the" "carrying on was in" "presumed to be a" "20' 30' 40' 50' scale"	10	200	1	1	5	
+2026-09-14T07:11:04Z	q0119	marker	"[262]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:11:07Z	q0121	chain	"have nonetheless obstructed Sullivan’s" "at this particular location.’" "Because of these ordinances"	10	200	1	1	3	
+2026-09-14T07:11:14Z	q0122	marker	"[263]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:11:14Z	q0123	chain	"the south side of DeKoven Street" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:11:38Z	q0125	chain	"the opposite side of the street" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:11:39Z	q0124	marker	"[264]" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:11:45Z	q0126	chain	"the O’Leary- Dalton boundary" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:11:46Z	q0127	marker	"[265]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:11:53Z	q0129	marker	"[266]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:11:59Z	q0130	marker	"[267]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:12:09Z	q0128	chain	"As platted, DeKoven Street" "as an alley, running" "in front of William" "something that could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:12:14Z	q0132	chain	"Sullivan’s sons bought her" "utilizing Chicago real estate" "have been set back" "rear of his property"	10	200	1	1	5	
+2026-09-14T07:12:24Z	q0133	chain	"buildings to be destroyed" "erty; it was across" "across the street could not" "the case, then the"	10	200	1	1	4	
+2026-09-14T07:12:25Z	q0131	marker	"[268]" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:12:32Z	q0134	chain	"Center of the Chicago" "subdivision in which the" "19 a year later" "he testified that after"	10	200	1	1	5	
+2026-09-14T07:12:51Z	q0135	marker	"[269]" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:13:15Z	q0136	chain	"a “vacant lot” west" "if Mrs. Sullivan lived" "home on lot 21" "the half- lot on"	10	200	1	1	4	<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>
+2026-09-14T07:13:15Z	q0137	marker	"[270]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:13:23Z	q0139	marker	"[271]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:13:40Z	q0138	chain	"records also indicate that" "was the other barn" "Leg” because of his" "have been almost half"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:13:46Z	q0141	chain	"tered the barn, the fire had" "never claimed in ei" "256 Said I, “It is time for me to" "was a great big"	10	200	1	1	4	
+2026-09-14T07:13:48Z	q0140	marker	"[272]" "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:13:54Z	q0143	marker	"[121]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:00Z	q0144	marker	"[122]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:05Z	q0145	marker	"[117]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:10Z	q0146	marker	"[118]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:10Z	q0142	chain	"the last fifteen or" "that between Clinton and" "Report of the Board" "that the fire started"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:14:17Z	q0147	marker	"[119]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:22Z	q0149	marker	"[120]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:29Z	q0150	marker	"[247]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:37Z	q0151	marker	"[248]" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:14:41Z	q0152	marker	"[249]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:48Z	q0153	marker	"[250]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:14:52Z	q0148	chain	"sists of the recollections" "then what was Schae" "1871 FIGURE 51—THE ANNE" "Douglas A. Swanson diminished"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:14:55Z	q0154	marker	"[251]" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:15:08Z	q0156	markerQ	"[255]" Q	10	200	2082870	10	0	
+2026-09-14T07:15:16Z	q0157	markerQ	"[257]" Q	10	200	1992908	10	0	
+2026-09-14T07:15:18Z	q0155	chain	"In this affidavit Sullivan" "published in the Tribune" "commissioners and marshals never" "witness Q. Where do you live"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:15:27Z	q0159	chain	"burnt? A. Yes sir. Q. On the" "hour, they were certainly" "DeKoven Note: Forbes's house" "coal and two tons"	10	200	1	1	4	
+2026-09-14T07:15:35Z	q0160	chain	"No. 14, Tuesday, November" "that might give testimony" "remained on duty until"	10	200	1	1	3	
+2026-09-14T07:15:36Z	q0158	markerQ	"[259]" Q	10	200	2010355	10	0	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:15:46Z	q0161	chain	"carrying on was in" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:15:56Z	q0163	chain	"presumed to be a" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:16:04Z	q0164	chain	"wide and 118 feet" "appropriating a 15-foot- wide" "startling conclusions are revealed" "he used to go"	10	200	1	1	4	
+2026-09-14T07:16:07Z	q0162	markerQ	"[260]" Q	10	200	2113537	10	0	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:16:14Z	q0166	markerQ	"[262]" Q	10	200	1995249	10	0	
+2026-09-14T07:16:42Z	q0168	markerQ2	"[255]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:16:49Z	q0169	markerQ2	"[257]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:16:49Z	q0165	chain	"probably did go to" "testify. ° Sullivan’s Testimony" "been set back as" "Finally, an eight-foot-high fence"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:16:55Z	q0170	markerQ2	"[259]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:16:56Z	q0171	chain	"O’Leary, was only fourteen" "something and made for" "excuse the fire officials" "that Sullivan may have"	10	200	1	1	5	
+2026-09-14T07:17:02Z	q0172	markerQ2	"[260]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:17:02Z	q0173	chain	"neighborhood. Musham locates Walter" "would have certainly blocked" "half of lot 19" "must have lived in"	10	200	1	1	5	
+2026-09-14T07:17:08Z	q0174	markerQ2	"[262]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:17:13Z	q0175	chain	"the adjoining land to" "vacant, if Daniel Sullivan" "21, that he lived" "described as the west"	10	200	1	1	5	
+2026-09-14T07:17:15Z	q0176	markerQ2	"[263]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:17:20Z	q0177	chain	"have been the middle" "only remaining Sullivan parcel—the" "of Jacob Schaller, Mary" "which was probably located"	10	200	1	1	4	
+2026-09-14T07:17:25Z	q0178	markerQ2	"[264]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:17:25Z	q0179	chain	"of Mrs. O’Leary’s Cow" "tioning before the commissioners" "about twenty min- utes" "other side of the"	10	200	1	1	5	
+2026-09-14T07:17:32Z	q0180	markerQ2	"[266]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:17:42Z	q0183	chain	"stream put on that. Catherine Sullivan" "the south side of DeKoven Street" "256 Said I, “It is time for me to" "had nothing on but his pants"	10	200	1	1	5	
+2026-09-14T07:17:44Z	q0182	markerQ2	"[267]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:17:52Z	q0184	chain	"rope. Q. The door was here" "hand as you went in any quantity of" "keep account of it. I went" "wide was that alley? A. I do not know"	10	200	1	1	5	
+2026-09-14T07:18:05Z	q0186	chain	"high as that door. I sat" "city for the last fifteen or" "Was that between Clinton and" "of the board of police and"	10	200	1	1	5	
+2026-09-14T07:18:14Z	q0187	chain	"12th witness Q. Where do you live" "north side of DeKoven Street, fronting" "I can tell. I will tell" "Q. They were trying to put the fire out"	10	200	1	1	4	
+2026-09-14T07:18:24Z	q0188	chain	"every- thing that I wanted in" "November 28 #25—Alexander McMonagle, foreman, Steamer" "eve- ning. At 9:30 I received" "this subdivision. As platted, DeKoven Street"	10	200	0	0	0	
+2026-09-14T07:18:25Z	q0185	markerQ2	"[268]" Q "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:18:30Z	q0189	chain	"for use as an alley, running" "as at least one neigh- boring" "easily be verified? He testified that" "the house and barn on lot 21 in September"	10	200	1	1	4	
+2026-09-14T07:18:34Z	q0190	markerQ2	"[269]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:18:37Z	q0191	chain	"estate rec- ords, inquiry testimony, post-fire" "much as thirty-seven feet, Andreas would" "also may have blocked Sulli- van’s" "fire. It is possible that Forbes’s"	10	200	1	1	4	
+2026-09-14T07:18:39Z	q0192	markerQ2	"[271]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:18:44Z	q0193	chain	"on the south side of DeKoven" "be verified or challenged by the" "and height of these buildings 118" "Historical Society, does not indicate the"	10	200	1	1	5	
+2026-09-14T07:18:45Z	q0194	markerQ2	"[121]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:19:07Z	q0196	markerQ2	"[122]" Q "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:19:20Z	q0197	markerQ2	"[117]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:19:31Z	q0195	chain	"O’Learys lived were all originally 50" "the O’Leary house, he went next" "in September of 1870, Catherine Sullivan" "it is quite possible that one"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:19:39Z	q0199	chain	"Douglas A. Swan- son. 56. Daniel" "west half of lot 19 Figure" "barn located? Catherine Sullivan testified that" "leg. He apparently lost the original"	10	200	1	1	4	
+2026-09-14T07:19:47Z	q0200	chain	"Mr. McLaughlin had played his fiddle" "yet broken through the roof. Sullivan" "the affidavit or his testimony that" "quite possible that the fire started"	10	200	1	1	4	
+2026-09-14T07:19:56Z	q0201	chain	"firemen and “the statements of citizens" "doing for forty-five minutes? Why did" "at twenty or twenty-five minutes past" "See Figure 54. Like the O'Leary"	10	200	1	1	5	
+2026-09-14T07:20:03Z	q0198	markerQ2	"[118]" Q "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:20:06Z	q0202	chain	"October 8, 1871 FIGURE 51—THE ANNE" "Diagram by Douglas A. Swanson diminished" "October 20. In this affidavit Sullivan" "affidavit was published in the Tribune"	10	200	1	1	4	
+2026-09-14T07:20:17Z	q0204	chain	"asked him who “every- one” was so" "good sleepers to sleep through a" "House BS DeKoven Note: Forbes's house" "happened on that Sun- day evening"	10	200	1	1	4	
+2026-09-14T07:20:24Z	q0203	markerQ2	"[119]" Q "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:20:24Z	q0205	chain	"There wasn’t any stream put on" "twenty min- utes past nine to" "along. I was hollering and shoving" "off into stalls? A. No, only"	10	200	1	1	5	
+2026-09-14T07:20:31Z	q0207	chain	"hundreds of times. Q. Do you" "Q. Do you know when Dalton’s house took" "rear of it? A. Yes sir. Back" "other side of the street from"	10	200	1	1	5	
+2026-09-14T07:20:38Z	q0208	chain	"buildings should you think there was on fire then" "she came there. They gave it two or three" "O’Learys lived were all originally 50" "another or- dinance was approved, appropriating"	10	200	1	1	4	
+2026-09-14T07:20:41Z	q0206	markerQ2	"[249]" Q "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:20:48Z	q0209	chain	"lens of this diagram, sev- eral" "telling the truth when he testified" "place” for their mother. Daniel Sullivan" "whether or not she would be available"	10	200	1	1	4	
+2026-09-14T07:20:49Z	q0210	markerQ2	"[250]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:20:55Z	q0211	chain	"somewhat plausible that if Forbes’ house" "Sul- livan’s view see Appendix B" "O’ Leary barn which, according to" "close to the wall, I could"	10	200	1	1	5	
+2026-09-14T07:20:55Z	q0212	markerQ2	"[251]" Q "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:21:00Z	q0214	markerQ2	"Transcript of the Inquiry (Sullivan)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:21:01Z	q0213	chain	"burned down. One might be tempted" "pervasive or non-existent throughout the area" "neighborhood. Musham locates Walter Forbes’ house" "would have certainly blocked Sullivan’s line"	10	200	1	1	4	
+2026-09-14T07:21:06Z	q0215	markerQ2	"Transcript of the Inquiry (Regan)" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:21:11Z	q0216	chain	"half of lot 19 Figure 64" "White’s house, and William White owned" "of lot 18 the middle half-lot" "horses out. 18 and in another"	10	200	1	1	4	
+2026-09-14T07:21:27Z	q0217	markerQ2	"Transcript of the Inquiry (McLaughlin)" "loosened them as quick as I could"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:21:34Z	q0218	chain	"O’Leary home. The west half-lot was" "Daniel Sullivan’s barns was on the" "brushed aside as easily as the" "sitting on the side- walk by"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:21:37Z	q0219	markerQ2	"Transcript of the Inquiry (O'Leary)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:21:48Z	q0221	markerQ2	"Transcript of the Inquiry (Brown)" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:05Z	q0220	chain	"Mrs. O’Leary’s Cow the barn and thus" "tioning before the commissioners and mar" "suasively argues that the fire began" "the fire began much ear- lier"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:22:11Z	q0222	markerQ2	"Transcript of the Inquiry (Schaefer)" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:22:19Z	q0224	markerQ2	"Transcript of the Inquiry (Hickey)" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:22:19Z	q0225	T2	hobbled "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:19Z	q0226	chain	"See Figure 54. Like the O'Leary" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:20Z	q0227	chain	"12th witness Q. Where do you live" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:24Z	q0228	markerQ2	"Transcript of the Inquiry (Williams)" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:22:28Z	q0231	chain	"city for the last fifteen or" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:28Z	q0229	T2	"No one knows what really happened" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:34Z	q0232	markerQ2	"Transcript of the Inquiry (Hildreth)" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:22:37Z	q0233	chain	"Great Chicago Fire and the Myth" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:22:39Z	q0234	T2	pipe "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:22:43Z	q0235	markerQ2	"Transcript of the Inquiry (Tolland)" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:22:43Z	q0230	chain	"east of his home and sat in" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:22:46Z	q0237	T2	"wooden leg" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:22:52Z	q0238	markerQ2	"Transcript of the Inquiry (Musham)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:23:01Z	q0236	chain	"Diagram by Douglas A. Swanson diminished" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:23:08Z	q0239	chain	"Daniel Sullivan’s barns was on the" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:23:08Z	q0242	chain	"October 8, 1871 FIGURE 51—THE ANNE" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:23:13Z	q0240	T2	passageway "loosened them as quick as I could"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:23:16Z	q0243	chain	"view of the barn.” Had the fire started" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:23:18Z	q0244	chain	"Jeffer- son? Between Canal and Clinton" "fronting south? A. Yes sir. Q. What is the" "board of police and fire commissioners" "the commis- sioners or marshals.!? It"	10	200	1	1	5	
+2026-09-14T07:23:23Z	q0245	T2	"feet west" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:23:23Z	q0241	markerQ2	"Transcript of the Inquiry (Rau)" "loosened them as quick as I could"	10	200	0	0	0	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:23:27Z	q0247	chain	"Historical Society, does not indicate the" "leg. He apparently lost the original" "that these persons might be interviewed" "stated in a sworn affidavit that"	10	200	1	1	4	
+2026-09-14T07:23:30Z	q0249	markerQ2	"Transcript of the Inquiry (Conway)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:23:31Z	q0248	T2	"feet east" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:23:32Z	q0250	chain	"that when he first saw the fire, it had" "high as that door. I sat" "home also burned down. One might" "later, at about 9:20 P.M. See"	10	200	0	0	0	
+2026-09-14T07:23:36Z	q0251	markerQ2	"Transcript of the Inquiry (Schimmals)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:23:40Z	q0253	chain	"witnessed the fire in its early" "wait for three quarters of an" "attested that he was at the O’Leary" "on October 20, about five weeks"	10	200	1	1	4	
+2026-09-14T07:23:44Z	q0254	markerQ2	"Transcript of the Inquiry (Fiene)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:23:44Z	q0246	chain	"wide and 118 feet deep. The" "o'clock, he saw fire in Leary’s" "this subdivision. As platted, DeKoven Street" "the block in an east-west direction"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:23:49Z	q0255	chain	"256 Said I, “It is time for me to" "had nothing on but his pants" "A. The door was here. c As I came" "ings there? A. I didn’t, because"	10	200	1	1	5	
+2026-09-14T07:23:51Z	q0256	chain	"Street, and southeast of the O’Leary" "Sullivan acquired another tract of land" "Douglas A. Swan- son. 56. Daniel" "west half of lot 19 Figure"	10	200	1	1	4	
+2026-09-14T07:23:55Z	q0257	seed2	"I couldn't tell. I got excited" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:23:55Z	q0252	T2	"feet from" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:23:58Z	q0259	chain	"testified that “I was in my own basement in" "during the party that evening, and" "post-fire photo- graphs, and other information" "home blocked his view. Sullivan testified"	10	200	1	1	5	
+2026-09-14T07:24:00Z	q0260	seed2	"This is Jefferson Street" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:01Z	q0258	chain	"horses out. 18 and in another" "wide was that alley? A. I do not know" "reason why. I commenced to get" "in other buildings. A. Yes sir"	10	200	1	1	4	
+2026-09-14T07:24:02Z	q0261	T2	"total distance" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:24:07Z	q0263	seed2	"No sir. I could not say. Q. What three" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:24:09Z	q0262	chain	"and his brothers “bought a place”" "1870. With two barns in the" "by McFarland. LIBRARY OF CONGRESS CATALOGUING-IN-PUBLICATION" "Cover art: “The Cause of the"	10	200	1	1	4	
+2026-09-14T07:24:10Z	q0265	T2	seconds "loosened them as quick as I could"	10	200	1	1	4	
+2026-09-14T07:24:10Z	q0264	chain	"stream put on that. Catherine Sullivan" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:13Z	q0266	seed2	"Almost every house" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:18Z	q0270	seed2	"Where do you live? A. 134 DeKoven" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:18Z	q0268	T2	"one minute" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:19Z	q0269	chain	"pervasive or non-existent throughout the area" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:19Z	q0267	chain	"much as thirty-seven feet, Andreas would" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:24Z	q0272	T2	"FIGURE 54" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:24:27Z	q0274	chain	"five-foot alleyway. Sullivan’s lo- cation is" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:28Z	q0271	seed2	"Denis Ryan" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:24:29Z	q0273	chain	"corner of Forbes’s home would have" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:30Z	q0275	T2	"FIGURE 78" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:24:33Z	q0277	seed2	"Regan" "Q." "Leary" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:24:35Z	q0278	chain	"McLaughlin house house | DeKoven Street" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:38Z	q0276	chain	"half of lot 19 Figure 64" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:39Z	q0279	T2	"FIGURE 64" "loosened them as quick as I could"	10	200	1	1	4	
+2026-09-14T07:24:44Z	q0282	chain	"of lot 18 the middle half-lot" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:44Z	q0281	chain	"possible that Forbes’s home also burned" "di- agram of the O’Leary neighborhood" "neighbors of the O’Learys, cannot be" "Sullivan to ex- plain why he"	10	200	1	1	4	
+2026-09-14T07:24:46Z	q0280	seed2	"the first that I heard" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:24:46Z	q0283	T2	"west parcel" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:24:50Z	q0285	chain	"Great Chicago Fire and the Myth" "statements made during Sullivan’s ques- tioning" "Leary’s place. I lived on the" "it was probably taller than the"	10	200	1	1	5	
+2026-09-14T07:24:51Z	q0284	chain	"Sul- livan’s view see Appendix B" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:24:53Z	q0286	seed2	"woke" "Leary" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:24:56Z	q0287	T2	"east parcel" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:24:56Z	q0288	chain	"130-31. Although Andreas per- suasively argues" "appears to be compelling proof that" "favor- able light. If the fire" "Michael McDermott that was published in"	10	200	1	1	4	
+2026-09-14T07:25:03Z	q0290	T2	"contiguous parcels" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:06Z	q0291	chain	"earlier claimed in a sworn affidavit" "stayed there as long as from" "A man by the name of Regan" "west end of it. Q. They were shut"	10	200	1	1	5	
+2026-09-14T07:25:09Z	q0292	chain	"this subdivision. As platted, DeKoven Street" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:16Z	q0294	chain	"I have been there in Leary’s" "at the west end of it.!! Q. Do you" "it. Q. Did he have a barn in the" "Jefferson. Q. How many buildings should"	10	200	1	1	5	
+2026-09-14T07:25:17Z	q0295	chain	"Douglas A. Swan- son. 56. Daniel" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:22Z	q0296	chain	"there. I couldn’t tell what time" "build- ing? A. Yes sir. I do. Q. There" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:25:23Z	q0293	T2	"In front of which" "loosened them as quick as I could"	10	200	1	1	3	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:25:29Z	q0298	chain	"Jeffer- son? Between Canal and Clinton" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:30Z	q0299	T2	"went next door" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:25:35Z	q0300	chain	"fronting south? A. Yes sir. Q. What is the" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:35Z	q0301	T2	"not yet broken through" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:39Z	q0297	chain	"west half of lot 19 Figure" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:25:41Z	q0303	T2	"through the roof" "loosened them as quick as I could"	10	200	1	1	4	
+2026-09-14T07:25:42Z	q0302	chain	"before O'Leary testified, and is reprinted" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:44Z	q0304	chain	"by McFarland. LIBRARY OF CONGRESS CATALOGUING-IN-PUBLICATION" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:25:51Z	q0307	chain	"in Block 38 in this subdivision" "barn.” See “The Great Fire,” Chicago" "line. See Figure 54. Like the" "direction. Seven-and-one- half feet were taken"	10	200	1	1	4	
+2026-09-14T07:25:54Z	q0306	chain	"on lot 21, that he lived in a house" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:26:02Z	q0309	chain	"It might be fourteen or fifteen" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:26:05Z	q0305	T2	"Regan and Sullivan" "loosened them as quick as I could"	10	200	2	2	3	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:26:09Z	q0310	chain	"12th witness Q. Where do you" "of the board of police and fire commissioners" "years.’ I guess the number is" "the commis- sioners or marshals.!? It"	10	200	1	1	5	
+2026-09-14T07:26:11Z	q0311	T2	"Sullivan and Regan" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:26:16Z	q0308	chain	"and McLaughlin homes. But in 1871" "of William White’s house, and William" "land, lot 21. This lot was also on the" "on the only remaining Sullivan parcel—the"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:26:24Z	q0312	chain	"118 The Great Chicago Fire and the Myth" "indicate the source of his conclusions" "sight. Diagram by Douglas A. Swanson" "leg. He apparently lost the original"	10	200	1	1	4	
+2026-09-14T07:26:25Z	q0314	chain	"the rear part of my own" "and some historians have suggested that" "information from his- torical works on" "that while in front of White’s"	10	200	1	1	5	
+2026-09-14T07:26:32Z	q0316	chain	"place” for their mother. Daniel Sullivan" "would be able to keep both" "Chicago Fire Oct cu Bulkeley Compar" "as much as thirty-seven feet, Andreas"	10	200	1	1	4	
+2026-09-14T07:26:33Z	q0315	chain	"interviewed. Also, the transcript of the" "affidavit that when he went into the O’Leary barn" "that when he first saw the fire, it had" "PROPERTIES October 8, 1871 FIGURE 51—THE"	10	200	1	1	4	
+2026-09-14T07:26:41Z	q0318	chain	"high as that door. I sat" "home also burned down. One might" "later, at about 9:20 P.M. See" "stages.” He notes, for example, that"	10	200	0	0	0	
+2026-09-14T07:26:42Z	q0317	chain	"hay loft of 116 The Great" "entrance of this passageway to the" "claimed he ran can now be determined" "that Sullivan allegedly traveled would be"	10	200	1	1	4	
+2026-09-14T07:26:46Z	q0319	chain	"before calling down to Brown? Even" "home on the night of the fire: “Daniel" "256 Said I, “It is time for me to" "and his shirt, and this is the way he"	10	200	1	1	4	
+2026-09-14T07:26:47Z	q0320	chain	"hobble 193 feet, which is more" "to the barn, which was at the rear of" "was between the O’Leary/McLaughlin and Dalton" "barn on October 8, 1871, but"	10	200	1	1	4	
+2026-09-14T07:26:54Z	q0313	T2	"started the fire" "loosened them as quick as I could"	10	200	2	2	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:26:55Z	q0321	chain	"A. The door was here. c As I came" "you because there was a little" "children out, and I couldn’t see" "were. Q. Doing their best to"	10	200	1	1	5	
+2026-09-14T07:26:59Z	q0323	T2	"one-legged" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:26:59Z	q0324	chain	"Sullivan Notes 1. Chicago Title Insurance" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:00Z	q0322	chain	"of lot 19. See Chicago Title" "what would eventually be the O'Leary" "wood shavings. The hay or shavings" "it appears that although the upper"	10	200	1	1	4	
+2026-09-14T07:27:02Z	q0325	T2	"feet wide" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:27:03Z	q0326	chain	"earlier claimed in a sworn affidavit" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:06Z	q0327	chain	"rear of the cow shed, and this" "boards, and he half fell over" "lost the original in a railroad"	10	200	1	1	3	
+2026-09-14T07:27:06Z	q0328	T2	"feet to the" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:27:06Z	q0329	chain	"at the west end of it.!! Q. Do you" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:27:09Z	q0331	T2	"sidewalks" "loosened them as quick as I could"	10	200	2	2	5	
+2026-09-14T07:27:10Z	q0332	chain	"it. Q. Did he have a barn in the" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:13Z	q0333	heads	"Transcript of the Inquiry (Daniel Sullivan)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:27:14Z	q0334	chain	"line. See Figure 54. Like the" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:15Z	q0335	chain	"destroyed by the fire. It is possible" "or non-existent throughout the area that" "Musham’s monograph includes a di- agram" "as far as the Dalton house, a corner"	10	200	1	1	4	
+2026-09-14T07:27:17Z	q0336	heads	"Transcript of the Inquiry (Catherine O'Leary)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:27:19Z	q0337	chain	"as much as thirty-seven feet, Andreas" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:20Z	q0338	chain	"Sullivan and Dennis Regan, who were" "commissioners and marshals never asked Sullivan" "Myth of Mrs. O’Leary’s Cow The" "made during Sullivan’s ques- tioning before"	10	200	1	1	5	
+2026-09-14T07:27:20Z	q0339	heads	"Transcript of the Inquiry (Patrick O'Leary)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:27:23Z	q0340	chain	"White owned not one but two" "As platted, DeKoven Street was forty" "van sat in front of White’s" "Tribune, 26 November 1871, p. ie"	10	200	1	1	4	
+2026-09-14T07:27:23Z	q0341	chain	"O'Leary \ house \ ' | Murray" "Leary’s place. I lived on the" "it was probably taller than the" "Benner, In- quiry, vol. 4, pp"	10	200	1	1	4	
+2026-09-14T07:27:24Z	q0342	heads	"Transcript of the Inquiry (Catherine Sullivan)" "loosened them as quick as I could"	10	200	0	0	0	
+2026-09-14T07:27:27Z	q0344	chain	"Andreas provides what initially appears to" "fire department in a much less" "a sworn statement before Michael McDermott" "sat in front of White’s house"	10	200	1	1	5	
+2026-09-14T07:27:28Z	q0345	heads	"Inquiry (D. Sullivan)" "loosened them as quick as I could"	10	200	1	1	4	
+2026-09-14T07:27:29Z	q0343	chain	"White owned the adjoining land to" "south side of DeKoven Street, but" "half of lot 18, or the west" "by Douglas A. Swan- son. 56"	10	200	1	1	4	
+2026-09-14T07:27:31Z	q0347	heads	"Appendix B" "feet" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:27:32Z	q0346	chain	"A man by the name of Regan" "four cows tied. That was the" "bring feed. I knew where the" "The whole block from that to"	10	200	1	1	5	
+2026-09-14T07:27:34Z	q0348	chain	"the west half of lot 19" "build- ing, and one of my boys was out" "was forty feet wide. On July" "from the rear of the future"	10	200	1	1	5	
+2026-09-14T07:27:35Z	q0349	heads	"= the width of" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:27:36Z	q0350	chain	"could. Of course there was an engine" "Do you know that two-story new build" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:27:39Z	q0352	heads	"= the distance" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:27:39Z	q0351	chain	"fire, it is possible to graphically" "White’s house, “I saw a fire in Leary’s barn" "and the Myth of Mrs. O’Leary’s" "probably did go to the O’Leary"	10	200	1	1	5	
+2026-09-14T07:27:40Z	q0353	chain	"12th witness Q. Where do you" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:46Z	q0355	chain	"years.’ I guess the number is" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:27:46Z	q0354	chain	"her son’s horses on her own" "2002 by McFarland. LIBRARY OF CONGRESS" "Background imag ™ =A am |" "the O’ Leary barn = 192"	10	200	0	0	0	
+2026-09-14T07:27:54Z	q0357	chain	"determined, using the Pythagorean Theorem the" "be: 108.17 feet= the distance that" "one-half the length of a football" "of the O'Leary property. Indeed, he"	10	200	0	0	0	
+2026-09-14T07:27:54Z	q0356	chain	"Myth of Mrs. O’Leary’s Cow would be" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:28:04Z	q0359	chain	"the north or south side of" "number? A. 137. Q. Do you know" "The report of the board of police and fire commissioners" "is quite likely, though, that on"	10	200	1	1	4	
+2026-09-14T07:28:05Z	q0358	chain	"to the front of the O’Leary" "evidence seems clear that the fire" "Title Insurance Company records; Figure 63" "property. On this same day another"	10	200	1	1	4	
+2026-09-14T07:28:14Z	q0360	chain	"tive to the location of Forbes’" "sight. Diagram by Douglas A. Swanson" "leg. He apparently lost the original" "the in- quiry investigation and the"	10	200	1	1	4	
+2026-09-14T07:28:20Z	q0362	chain	"O’Leary barn, “he found the hay in the" "broken through the roof of the" "PROPERTIES October 8, 1871 FIGURE 51—THE" "high as that door. I sat"	10	200	1	1	4	
+2026-09-14T07:28:27Z	q0361	chain	"caught fire, and he immediately attempted" "of the barn door adjoining the" "Sul- livan sit?! Chicago real estate" "Chicago city directories for the years"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:28:27Z	q0363	chain	"home also burned down. One might" "later, at about 9:20 P.M. See" "stages.” He notes, for example, that" "worse, did the commis- sioners deliberately"	10	200	0	0	0	
+2026-09-14T07:28:36Z	q0365	chain	"home on the night of the fire: “Daniel" "reprinted in Appendix C. The commissioners" "256 Said I, “It is time for me to" "put up his hands and scratched"	10	200	1	1	4	
+2026-09-14T07:28:37Z	q0364	chain	"of the City of Chicago depicts" "barn still would have been obstructed" "Sullivan sit? As explained in Appendix" "depicts the di- mensions of the"	10	200	1	1	4	
+2026-09-14T07:28:43Z	q0366	chain	"A. The door was here. c As I came" "outside right up against the barn" "west half of lot 19, and that" "feet.! Q. The barn was in the rear"	10	200	1	1	5	
+2026-09-14T07:29:01Z	q0367	chain	"the barn. Furthermore, it appears that" "O’Leary home together at about nine" "the barn, somehow the fire started" "At the time the fire broke out, there was"	10	200	1	1	3	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:29:07Z	q0368	chain	"couldn’t see anything but the fire. Q. Just about" "stop the fire. A. Yes sit. I suppose" "Title Insurance Company records indicate that"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:29:08Z	q0369	chain	"visiting the O’ Learys. If so" "excited. Q. It was filled with fire? A. It" "loosened them as quick as I could"	10	200	1	1	4	
+2026-09-14T07:29:14Z	q0370	chain	"or non-existent throughout the area that" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:29:17Z	q0371	chain	"alleyway. Sullivan’s lo- cation is presumed" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:29:21Z	q0372	chain	"of the first buildings to be destroyed" "Sullivan’s View of the Barn H" "the Forbes house was set back" "drawn from the statements of Daniel"	10	200	1	1	4	
+2026-09-14T07:29:27Z	q0373	chain	"lo- cation. It seems at least" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:29:28Z	q0374	chain	"a neighbor’s house. The commissioners and" "Myth of Mrs. O’Leary’s Cow The" "answers are the final statements made"	10	200	1	1	4	
+2026-09-14T07:29:37Z	q0376	chain	"place? A. I went across the" "at least two stories high, so" "In- quiry, vol. 4, pp. 130-31" "History of Chicago historian A. T"	10	200	1	1	4	
+2026-09-14T07:29:38Z	q0375	chain	"I stood up again, and I" "possibly two stories in height would" "as twenty or twenty-five minutes, sitting" "on was in the front of Leary’s"	10	200	1	1	5	
+2026-09-14T07:29:55Z	q0378	chain	"half of lot 19 Figure 64" "and sat in front of William" "of lot 18 the middle half-lot" "account of it. I went and got my horses"	10	200	1	1	5	
+2026-09-14T07:30:03Z	q0377	chain	"that potentially de- picts the fire" "O’Leary, Sullivan also gave a sworn" "livan” called him out of bed" "Daniel Sullivan testified that he sat"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:30:08Z	q0379	chain	"almost directly op- posite the O’Leary" "is quite possible that one of" "the subdivision in which the O’Learys" "property. On this same day another"	10	200	1	1	4	
+2026-09-14T07:30:14Z	q0381	chain	"White was still in the area" "Sullivan’s testi- mony through the lens" "livan’s view see Appendix B. Finally" "O’Leary barn that Sunday, he was"	10	200	1	1	4	
+2026-09-14T07:30:23Z	q0382	chain	"and his brothers “bought a place”" "Mrs. O’Leary’s Cow, first published in" "Historical Society’s Harry E. Pratt Memorial" "O’Leary passageway across the street +"	10	200	1	1	4	
+2026-09-14T07:30:31Z	q0383	chain	"Figure 54, total 90 feet. The" "108.17 feet. Therefore, the approximate total" "possible that Sullivan, hampered by his" "assume that Sullivan would have run"	10	200	0	0	0	
+2026-09-14T07:30:38Z	q0384	chain	"distance from the DeKoven Street en" "suddenly stretched out his legs as" "DeKoven and Clinton streets and seventy-five" "street. This resulted in a taking"	10	200	1	1	4	
+2026-09-14T07:30:45Z	q0385	chain	"previous chapter. While inside, he dropped" "strolling down the alley and stopped" "lot.” But in 1871 William White" "White’s “west parcel.” The reasons are"	10	200	1	1	4	
+2026-09-14T07:30:51Z	q0380	chain	"A man by the name of Regan" "furthest corner. b On this end" "herself, and I used to go" "thing that took afire was a"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:31:01Z	q0387	chain	"city used to make their home" "there any building on fire? A. Yes sir. The" "other houses as fast as they" "thought the world was on fire"	10	200	1	1	5	
+2026-09-14T07:31:07Z	q0388	chain	"PROPERTIES October 8, 1871 FIGURE 51—THE" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:31:12Z	q0386	chain	"Street prior to the time he was deeded" "Sullivan sat in front of a" "joining properties, a “west parcel” and" "distance to 193 feet.” An Analysis"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:31:16Z	q0389	chain	"ct stree  On the south" "1871 12th witness Q. Where do" "anything about the fire? Where it commenced" "and fire commissioners, embodying the results"	10	200	1	1	4	
+2026-09-14T07:31:18Z	q0390	chain	"tered the barn, the fire had not yet broken" "scenario is not at all implausible:”" "few minutes before going home.”’ While" "the final analysis the most damning"	10	200	1	1	4	
+2026-09-14T07:31:26Z	q0391	chain	"hundred and thirty six, now.’ Q" "vember 25, 1871, the day Sullivan" "be irrelevant. But such a possibility" "Forbes’ home. Although Andreas’ History of"	10	200	1	1	4	
+2026-09-14T07:31:26Z	q0392	chain	"to go in there and bring feed.”" "portion. Q. What seemed to be" "loosened them as quick as I could"	10	200	1	1	5	
+2026-09-14T07:31:32Z	q0394	chain	"wide. On July 30, 1855, the" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:31:40Z	q0395	chain	"ie Finally, his sworn statement published" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:31:47Z	q0396	chain	"the east half of lot 19" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:31:49Z	q0393	chain	"sight. Diagram by Douglas A. Swanson" "leg. He apparently lost the original" "Tribune’s sum- mary of the proceedings" "loft on fire.” This affidavit was"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:31:59Z	q0397	chain	"half-lot. So where was the other barn" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:32:03Z	q0398	chain	"the barn. Furthermore, it appears that" "Q. You spoke of a party" "home also burned down. One might" "later, at about 9:20 P.M. See"	10	200	0	0	0	
+2026-09-14T07:32:03Z	q0399	chain	"Myth of Mrs. O’Leary’s Cow by" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:32:45Z	q0401	chain	"Chicago depicts improvements on Chicago properties" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:32:47Z	q0400	chain	"stages.” He notes, for example, that" "worse, did the commis- sioners deliberately" "home on the night of the fire: “Daniel" "never commented on this in- consistency"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:34:16Z	q0405	chain	"ct stree  On the south" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:34:21Z	q0406	chain	"1871 12th witness Q. Where do" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:34:30Z	q0407	chain	"sight. Diagram by Douglas A. Swanson" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:34:33Z	q0404	chain	"separate tracts of land. These two" "Council of the City of Chicago" "order to enjoy the music. McLaughlin" "the October 20 Tribune is in"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:34:35Z	q0408	chain	"Lit- tle is known of Sullivan" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:34:39Z	q0410	chain	"the barn. Furthermore, it appears that" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:34:40Z	q0409	chain	"until it was after eight o’clock" "by Douglas A. Swan- son. 56" "five feet east of where her" "fire, it is possible to graphically"	10	200	1	1	5	
+2026-09-14T07:34:46Z	q0411	chain	"Q. You spoke of a party" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:34:47Z	q0412	chain	"White’s house, “I saw a fire in Leary’s barn" "back as much as thirty-seven feet" "Richard F. Bales FOREWORD BY THOMAS" "her son’s horses on her own"	10	200	1	1	5	
+2026-09-14T07:34:55Z	q0413	chain	"Sullivan testified, debris from the burned" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:35:10Z	q0414	chain	"2002 by McFarland. LIBRARY OF CONGRESS" "Background imag ™ =A am |" "the O’ Leary barn = 192" "determined, using the Pythagorean Theorem the"	10	200	0	0	0	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:35:18Z	q0415	chain	"later, at about 9:20 P.M. See" "loosened them as quick as I could"	10	200	0	0	0	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:35:28Z	q0416	chain	"be: 108.17 feet= the distance that" "one-half the length of a football" "of the O'Leary property. Indeed, he" "can be calculated as follows: 100"	10	200	0	0	0	
+2026-09-14T07:35:34Z	q0418	chain	"was not caused by Mrs. O’Leary’s" "63. 10. Mrs. Sullivan is probably" "from the rear of the future" "to extinguish the blaze. The fire"	10	200	1	1	4	
+2026-09-14T07:35:40Z	q0417	chain	"home on the night of the fire: “Daniel" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:35:48Z	q0420	chain	"commenced Sunday night, October 8th? A" "results of the investigation into the" "six, now.’ Q. Do you know anything about the" "possibility seems unlikely. The 1871 Tribune"	10	200	1	1	4	
+2026-09-14T07:35:53Z	q0421	chain	"of Chicago contains a diagram of" "the proceedings indicates that Mrs. McLaughlin" "published in the October 20, 1871" "O’LEARY PROPERTIES October 8, 1871 FIGURE"	10	200	1	1	5	
+2026-09-14T07:36:00Z	q0422	chain	"Wil- liam Lee claimed that after" "deliberately omit key testimony from their" "consistency. See “How It Originated,” p. 2" "256 Said I, “It is time for me to"	10	200	1	1	4	
+2026-09-14T07:36:12Z	q0423	chain	"he had a foot of lice" "A. The door was here. c As I came" "side of the barn, a little" "lived in a home on lot 21"	10	200	1	1	5	
+2026-09-14T07:36:22Z	q0424	chain	"feet.! Q. The barn was in the rear" "couldn’t see anything but the fire. Q. Just about" "stop the fire. A. Yes sit. I suppose" "indicate that Mrs. Sullivan originally took"	10	200	1	1	4	
+2026-09-14T07:36:33Z	q0425	chain	"was what started the fire.”’ Despite" "ing himself on his sound leg" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:36:45Z	q0419	chain	"was open, allowing for the full" "estate records indicate that Sullivan probably" "the years —Chicago Tribune, November 26" "properties; it also includes the addresses"	10	200	1	1	4	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:36:53Z	q0427	chain	"by Dal- ton’s house. Why Walter" "and as il- lustrated in Figure" "O’Leary property and adjoin- ing parcels" "the barn. Furthermore, it appears that"	10	200	1	1	4	
+2026-09-14T07:36:57Z	q0426	chain	"seems equally clear that even if" "loosened them as quick as I could"	10	200	1	1	2	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:37:04Z	q0428	chain	"nine o'clock, walked into the O’Learys’" "it happen? There are a number" "no reason for anyone to believe" "they leave the O’Leary home to"	10	200	1	1	4	
+2026-09-14T07:37:05Z	q0429	chain	"cause of the fire. The conclusions" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:37:10Z	q0431	chain	"either. These questions and answers are" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:37:12Z	q0430	chain	"all smoke and fire and flames" "loosened them as quick as I could"	10	200	1	1	3	
+2026-09-14T07:37:17Z	q0432	chain	"the sidewalk in front of your" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:37:21Z	q0433	chain	"slipped out from me, and I went down. I" "possibly two stories in height would" "White’s house for as long as" "on was in the front of Leary’s"	10	200	1	1	5	
+2026-09-14T07:37:25Z	q0434	chain	"appears that Dalton’s home was at" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:37:29Z	q0435	chain	"Sullivan’s lo- cation is presumed to" "of lot 18 the middle half-lot" "fire? A. I don't. I didn’t" "south side of DeKoven Street, almost"	10	200	1	1	4	
+2026-09-14T07:37:31Z	q0436	chain	"quiry, vol. 4, pp. 130-31. Although" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:37:35Z	q0437	chain	"bother to ask Mrs. O’Leary if" "Figure 54. When one examines Sullivan’s" "historian is silent as to its" "livan’s view see Appendix B. Finally"	10	200	1	1	4	
+2026-09-14T07:37:38Z	q0438	chain	"1, pp. 254- 55. Like Mrs" "loosened them as quick as I could"	10	200	1	1	2	
+2026-09-14T07:37:45Z	q0440	chain	"non-existent throughout the area that Sullivan" "Walter Forbes’ House Would Have Blocked" "and sat down in front of a neighbor’s" "Myth of Mrs. O’Leary’s Cow The"	10	200	1	1	5	
+2026-09-14T07:38:05Z	q0441	chain	"nine-thirty tocsin.? But in his History" "happened that Sunday evening, one that" "Although O'Leary testified that “Dan Sul"	10	200	1	1	3	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:38:12Z	q0442	chain	"When Did the Fire Start? Daniel" "A man by the name of Regan" "corner. b On this end there was four" "evening, because my mother keeps a"	10	200	1	1	5	
+2026-09-14T07:38:19Z	q0439	chain	"claimed that he was not in the O’Leary" "Great Chicago Fire and the Myth" "Bales earned the Illinois State Historical" "White’s house to the en- trance"	10	200	1	1	5	<urlopen error [Errno 104] Connection reset by peer>
+2026-09-14T07:38:19Z	q0443	chain	"replied, “Not very rapidly. The next" "these young scoundrels living around the" "went and put water on, was there any building" "only just they were quenching the"	10	200	1	1	5	
+2026-09-14T07:38:26Z	q0445	chain	"telling you. I got so much excited" "opinion that someone emptied the ashes" "slipped in the O'Leary barn was"	10	200	1	1	3	
+2026-09-14T07:38:28Z	q0444	chain	"Figure 54, total 90 feet. The" "108.17 feet. Therefore, the approximate total" "possible that Sullivan, hampered by his" "that Sullivan would have run through"	10	200	0	0	0	

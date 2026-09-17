@@ -1,0 +1,457 @@
+{
+ "question": "principal seat of the main body, c. 1588-1607",
+ "prior": {
+  "H1": 0.2,
+  "H2": 0.28,
+  "H3": 0.2,
+  "H4": 0.1,
+  "H5": 0.22
+ },
+ "mix": 0.15,
+ "raw": {
+  "H1": 0.16408972073211386,
+  "H2": 0.7700655284519374,
+  "H3": 0.015839731714713857,
+  "H4": 0.0028077255534222304,
+  "H5": 0.04719729354781272
+ },
+ "reported": {
+  "H1": 0.16947626262229679,
+  "H2": 0.6845556991841468,
+  "H3": 0.04346377195750678,
+  "H4": 0.0323865667204089,
+  "H5": 0.07011769951564081
+ },
+ "cases": [
+  {
+   "name": "Reported",
+   "p": {
+    "H1": 0.16947626262229679,
+    "H2": 0.6845556991841468,
+    "H3": 0.04346377195750678,
+    "H4": 0.0323865667204089,
+    "H5": 0.07011769951564081
+   }
+  },
+  {
+   "name": "Flat prior",
+   "p": {
+    "H1": 0.20916064227752956,
+    "H2": 0.6305661939859937,
+    "H3": 0.047294541637649914,
+    "H4": 0.03613120567511223,
+    "H5": 0.07684741642371473
+   }
+  },
+  {
+   "name": "No mixture (raw ledger)",
+   "p": {
+    "H1": 0.16408972073211386,
+    "H2": 0.7700655284519374,
+    "H3": 0.015839731714713857,
+    "H4": 0.0028077255534222304,
+    "H5": 0.04719729354781272
+   }
+  },
+  {
+   "name": "Drop C1",
+   "p": {
+    "H1": 0.3217964697676765,
+    "H2": 0.48646248017955873,
+    "H3": 0.06380085803643673,
+    "H4": 0.0349929051064852,
+    "H5": 0.09294728690984287
+   }
+  },
+  {
+   "name": "Drop C2",
+   "p": {
+    "H1": 0.11193948488135658,
+    "H2": 0.7221688354425134,
+    "H3": 0.05033921279537229,
+    "H4": 0.03252370747001402,
+    "H5": 0.08302875941074368
+   }
+  },
+  {
+   "name": "Drop C3",
+   "p": {
+    "H1": 0.1680537554863286,
+    "H2": 0.6778799384814131,
+    "H3": 0.04332645603487938,
+    "H4": 0.03573683534664769,
+    "H5": 0.07500301465073117
+   }
+  },
+  {
+   "name": "Drop C4",
+   "p": {
+    "H1": 0.28069883980856214,
+    "H2": 0.5447266903309281,
+    "H3": 0.054200189664778256,
+    "H4": 0.034289686981020306,
+    "H5": 0.08608459321471118
+   }
+  },
+  {
+   "name": "Drop C5",
+   "p": {
+    "H1": 0.23731344102794288,
+    "H2": 0.5859499794488376,
+    "H3": 0.05001215720330067,
+    "H4": 0.03709464606734661,
+    "H5": 0.08962977625257204
+   }
+  },
+  {
+   "name": "Drop C6",
+   "p": {
+    "H1": 0.1274501489764911,
+    "H2": 0.7414007858917303,
+    "H3": 0.03940695254071709,
+    "H4": 0.03155629729533922,
+    "H5": 0.06018581529572242
+   }
+  },
+  {
+   "name": "Drop C7",
+   "p": {
+    "H1": 0.17030968805319846,
+    "H2": 0.6884669264810739,
+    "H3": 0.03846513955072087,
+    "H4": 0.0324008273935868,
+    "H5": 0.07035741852141995
+   }
+  },
+  {
+   "name": "Drop C8",
+   "p": {
+    "H1": 0.12405215092172103,
+    "H2": 0.7121364792124826,
+    "H3": 0.0492927489070197,
+    "H4": 0.03341980186770964,
+    "H5": 0.0810988190910671
+   }
+  },
+  {
+   "name": "Drop C9",
+   "p": {
+    "H1": 0.22519605796706124,
+    "H2": 0.6129384536572872,
+    "H3": 0.04884245506771029,
+    "H4": 0.033896647417495235,
+    "H5": 0.07912638589044603
+   }
+  },
+  {
+   "name": "Drop C10",
+   "p": {
+    "H1": 0.14041992744205953,
+    "H2": 0.7036543472515568,
+    "H3": 0.047320772932087765,
+    "H4": 0.032729113382156685,
+    "H5": 0.07587583899213918
+   }
+  },
+  {
+   "name": "Drop C11",
+   "p": {
+    "H1": 0.16825959876043606,
+    "H2": 0.6788459515195645,
+    "H3": 0.050760951984137874,
+    "H4": 0.03236574848633774,
+    "H5": 0.06976774924952388
+   }
+  },
+  {
+   "name": "Jamestown clusters C4 and C5 counted as one (half weight each)",
+   "p": {
+    "H1": 0.25844100278018617,
+    "H2": 0.5660315708416782,
+    "H3": 0.05205162017787619,
+    "H4": 0.03552792744782053,
+    "H5": 0.08794787875243887
+   }
+  },
+  {
+   "name": "Croatoan-friendly: halve the strength of C1, C4, C5, C9",
+   "p": {
+    "H1": 0.38151809571188977,
+    "H2": 0.4098884138389529,
+    "H3": 0.06717104369571758,
+    "H4": 0.039187753993002394,
+    "H5": 0.1022346927604373
+   }
+  },
+  {
+   "name": "Chesapeake-friendly: halve the strength of C1, C4, C5, C11",
+   "p": {
+    "H1": 0.3412976343590972,
+    "H2": 0.4517270950051754,
+    "H3": 0.07105590710942006,
+    "H4": 0.03753293286438204,
+    "H5": 0.0983864306619252
+   }
+  },
+  {
+   "name": "Sea-friendly: halve the strength of C3 and C5",
+   "p": {
+    "H1": 0.2004093916436778,
+    "H2": 0.6345341076860644,
+    "H3": 0.046449775362285645,
+    "H4": 0.03642624447139767,
+    "H5": 0.08218048083657448
+   }
+  },
+  {
+   "name": "Everything halved (every likelihood ratio pulled toward 1)",
+   "p": {
+    "H1": 0.2176832617697277,
+    "H2": 0.5110749172560628,
+    "H3": 0.08831211118255305,
+    "H4": 0.04735989859585729,
+    "H5": 0.13556981119579908
+   }
+  },
+  {
+   "name": "Mixture 30% instead of 15%",
+   "p": {
+    "H1": 0.1748628045124797,
+    "H2": 0.5990458699163561,
+    "H3": 0.0710878122002997,
+    "H4": 0.06196540788739556,
+    "H5": 0.0930381054834689
+   }
+  }
+ ],
+ "lo": {
+  "H1": 11.193948488135657,
+  "H2": 40.98884138389529,
+  "H3": 1.5839731714713856,
+  "H4": 0.28077255534222306,
+  "H5": 4.719729354781272
+ },
+ "hi": {
+  "H1": 38.15180957118898,
+  "H2": 77.00655284519374,
+  "H3": 8.831211118255306,
+  "H4": 6.196540788739556,
+  "H5": 13.556981119579909
+ },
+ "headline": [
+  {
+   "label": "Albemarle mainland (Chowan)",
+   "p": 68.5,
+   "lo": 41,
+   "hi": 77,
+   "lead": true,
+   "copper": false
+  },
+  {
+   "label": "Croatoan (Hatteras)",
+   "p": 16.9,
+   "lo": 11,
+   "hi": 38,
+   "lead": false,
+   "copper": true
+  },
+  {
+   "label": "Other",
+   "p": 7.0,
+   "lo": 5,
+   "hi": 14,
+   "lead": false,
+   "copper": false
+  },
+  {
+   "label": "Chesapeake",
+   "p": 4.3,
+   "lo": 2,
+   "hi": 9,
+   "lead": false,
+   "copper": false
+  },
+  {
+   "label": "Sea",
+   "p": 3.2,
+   "lo": 0,
+   "hi": 6,
+   "lead": false,
+   "copper": false
+  }
+ ],
+ "findings": [
+  {
+   "id": "A",
+   "claim": "Some of the colonists went to Croatoan after August 1587 (the carving names it as their seat; arrival is inferred)",
+   "p": 80,
+   "lo": 65,
+   "hi": 90,
+   "basis": "The carved name, under the code White records, names Croatoan as the place where the planters were or meant to be seated, without the mark of distress (Hakluyt 1600 III, pp. 292 to 293); Manteo's kin had received Stafford there in July 1587, fifty miles of sheltered water away; Lawson's Hatteras tradition of 1709; sixteenth-century objects at Cape Creek in unpublished contexts. Against: White never landed there and no witness records finding them on the island; the sign could name where news of them was to be had; Lawson's white ancestors have other candidates."
+  },
+  {
+   "id": "B",
+   "claim": "The colony divided into more than one group at some point",
+   "p": 75,
+   "lo": 60,
+   "hi": 85,
+   "basis": "White's own text names two destinations; Lane had dispersed his colony to eat; every Jamestown report counts a handful, never a hundred; and the two archaeological footprints lie fifty miles apart. No source states a division."
+  },
+  {
+   "id": "C",
+   "claim": "Some colonists were killed by Powhatan's people, about 1607",
+   "p": 45,
+   "lo": 30,
+   "hi": 60,
+   "basis": "The killing is stated early (May 1609) and repeatedly, with a date and a place outside Powhatan's territory; but it comes through one channel, it served a Company doctrine that justified seizing priests, and the 'confession' is a 1625 margin note. Smith, who spoke with Powhatan, never wrote it."
+  },
+  {
+   "id": "D",
+   "claim": "Descendants of colonists lived among the Hatteras Indians in 1709",
+   "p": 60,
+   "lo": 45,
+   "hi": 75,
+   "basis": "Lawson's testimony from the Hatteras themselves is independent and specific; castaways and Lane's men are alternative sources of 'white ancestors'; sixteen fighting men is a small community."
+  },
+  {
+   "id": "E",
+   "claim": "Some colonists tried to sail home",
+   "p": 10,
+   "lo": 5,
+   "hi": 20,
+   "basis": "The boats were gone in 1590 and Grenville's men had left the same coast by boat in 1586; against, no pilot, families, and no trace in any record of either nation."
+  },
+  {
+   "id": "F",
+   "claim": "The first Dare Stone is a sixteenth-century inscription",
+   "p": 20,
+   "lo": 15,
+   "hi": 25,
+   "basis": "Section 7 gives the grounds: the finder could not be traced; a stone relic was hawked and a bogus relic had been proposed at Manteo that summer; the text borrows from the printed narratives and departs from the spelling habits of the period corpus; and no test has ever been run on the stone."
+  }
+ ],
+ "model_section": 6,
+ "clusters": [
+  {
+   "label": "C1  The plan: 'remoue 50 miles further vp into the maine presently' (White, Aug 1587); the fort symbol hidden under the patch at the Chowan mouth on White's 1585-86 map; Lane's 1586 plan to move by way of the Chowan",
+   "lik": {
+    "H1": 0.3,
+    "H2": 0.9,
+    "H3": 0.25,
+    "H4": 0.3,
+    "H5": 0.4
+   },
+   "note": "This is the only destination the colonists stated. 'The maine' excludes the banks; 50 miles in any reckoning stays inside the Albemarle basin and does not reach the Chesapeake."
+  },
+  {
+   "label": "C2  The departure: CROATOAN carved without a cross, houses taken down, a palisade built, boats and light guns gone, heavy iron left (White, Aug 1590)",
+   "lik": {
+    "H1": 0.9,
+    "H2": 0.5,
+    "H3": 0.35,
+    "H4": 0.5,
+    "H5": 0.4
+   },
+   "note": "The code names Croatoan as the seat when the word was cut. Under H2 or H3 the carving needs a Croatoan stage or a party left there, which the code allowed for but did not say."
+  },
+  {
+   "label": "C3  Silence at sea: the Spaniards found the harbour empty in July 1588; no vessel of the colony was ever reported in English or Spanish records, which noted every English sail in the Indies; the 1602-03 searches never reached the island",
+   "lik": {
+    "H1": 0.85,
+    "H2": 0.85,
+    "H3": 0.85,
+    "H4": 0.35,
+    "H5": 0.75
+   },
+   "note": "This cluster bears mainly on H4: a pinnace that sailed for England or the Indies and left no trace in either nation's records most likely sank, which is possible but lowers the weight given to H4."
+  },
+  {
+   "label": "C4  Jamestown 1607-08: Opechancanough, Powhatan and the Paspahegh weroance report clothed men at Ocanahonan and Panawicke to the south; the chart's '4 men clothed that came from Roonock to Ocanahowan'; the Council in 1609: search south, 'more probable then towards the north'",
+   "lik": {
+    "H1": 0.35,
+    "H2": 0.8,
+    "H3": 0.35,
+    "H4": 0.35,
+    "H5": 0.45
+   },
+   "note": "Three informants in two months all pointed inland to the south-west, and none to the banks or the bay. The small number reported fits stragglers under any outcome, which limits the weight."
+  },
+  {
+   "label": "C5  The London informant 1609-12: Powhatan slaughtered the first planted 'vppon the first arrivall of our Colonie' after they had lived 'twenty and od yeares ... intermixt with those salvages, and were out of his territory'; survivors fled up the Chowan to a copper-working weroance who was Powhatan's enemy (Council May 1609; Strachey); Purchas's confession note 1625",
+   "lik": {
+    "H1": 0.4,
+    "H2": 0.7,
+    "H3": 0.4,
+    "H4": 0.2,
+    "H5": 0.4
+   },
+   "note": "This is one channel, recorded three times. Its geography (outside Powhatan's territory, up the Chowan, copper country to the west) fits H2 and fits H3 only if the Council and Strachey misplaced the victims. The objects in Purchas's note could have been picked up on Roanoke Island."
+  },
+  {
+   "label": "C6  The 1609 searches: Sicklemore at Chowanoke 'found little hope and lesse certainetie'; Powell and Todkill among the Mangoags heard 'they were all dead'",
+   "lik": {
+    "H1": 0.7,
+    "H2": 0.45,
+    "H3": 0.7,
+    "H4": 0.75,
+    "H5": 0.65
+   },
+   "note": "These are the only field reports, and both are second-hand and negative. If a hundred English had lived twenty years at the Chowan mouth the Chowanokes should have known more than 'little hope'; H2 is marked down for this."
+  },
+  {
+   "label": "C7  The Chesapeake case: Powhatan destroyed the Chesepians for a prophecy 'not many yeares since' (Strachey p. 101); the boy with yellow hair that George Percy, one of the first Jamestown settlers, saw on the James in 1607",
+   "lik": {
+    "H1": 0.5,
+    "H2": 0.5,
+    "H3": 0.8,
+    "H4": 0.5,
+    "H5": 0.5
+   },
+   "note": "The destruction is a fact of Strachey's text; its link to the colonists is an inference the text does not make. The boy has other explanations (the Spanish Jesuit mission of 1570-72 on the Chesapeake, Lane's men 1585-86)."
+  },
+  {
+   "label": "C8  Hatteras tradition: Lawson 1709, ancestors 'white People, and could talk in a Book', grey eyes, 'Affinity to the English'; Beverley 1705 'remov'd to Croatan'",
+   "lik": {
+    "H1": 0.85,
+    "H2": 0.55,
+    "H3": 0.4,
+    "H4": 0.4,
+    "H5": 0.45
+   },
+   "note": "The tradition is independent of the Jamestown reports and comes from the Indians' side; but it was recorded 120 years after the event, concerns a community of sixteen men, and comes from a coast where shipwrecked sailors are another possible source of white ancestors."
+  },
+  {
+   "label": "C9  Bertie archaeology: English kitchen ceramics of c.1586-1650 types and a few fittings at two spots on Salmon Creek beside a Native town; no structure, burial or sealed deposit; no peer-reviewed report",
+   "lik": {
+    "H1": 0.35,
+    "H2": 0.55,
+    "H3": 0.35,
+    "H4": 0.3,
+    "H5": 0.4
+   },
+   "note": "The footprint is where H2 predicts one and is small, which a plough zone and a dispersed settlement could explain; Lane's men in 1586 or Jamestown-era traders could also explain it."
+  },
+  {
+   "label": "C10 Hatteras archaeology: European objects of 16th-century type mostly in 17th-century contexts; the hammerscale of 2024 with claimed 1580s dates, unpublished",
+   "lik": {
+    "H1": 0.65,
+    "H2": 0.5,
+    "H3": 0.4,
+    "H4": 0.45,
+    "H5": 0.45
+   },
+   "note": "A smithing floor of the 1580s on Croatoan would fit H1 best and a Croatoan stage under H2 well; everything turns on the date, which is not yet in print."
+  },
+  {
+   "label": "C11 Chesapeake archaeology: no sixteenth-century European material at the one fully reported Chesepian site (Great Neck, Hodges 1998); few sites dug",
+   "lik": {
+    "H1": 0.7,
+    "H2": 0.7,
+    "H3": 0.45,
+    "H4": 0.7,
+    "H5": 0.7
+   },
+   "note": "This is weak evidence: a colony of a hundred for twenty years should have left something, but almost nothing has been excavated."
+  }
+ ]
+}

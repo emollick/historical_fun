@@ -1,0 +1,198 @@
+{
+ "seed": 20260914,
+ "n_counties_1822": 78,
+ "county_name_len_mean": 8.461538461538462,
+ "county_name_len_min": 3,
+ "county_name_len_median": 8.0,
+ "associate_pools": {
+  "amherst_1810_heads": {
+   "n": 864,
+   "first_mean": 6.082175925925926,
+   "first_median": 6.0,
+   "last_mean": 6.366898148148148,
+   "last_median": 6.0,
+   "full_mean": 12.449074074074074,
+   "full_sd": 2.2380752052026,
+   "full_p5": 9.0,
+   "full_p25": 11.0
+  },
+  "bedford_1850_men_30plus": {
+   "n": 426,
+   "first_mean": 5.795774647887324,
+   "first_median": 6.0,
+   "last_mean": 6.187793427230047,
+   "last_median": 6.0,
+   "full_mean": 11.98356807511737,
+   "full_sd": 2.0674568627104644,
+   "full_p5": 9.0,
+   "full_p25": 11.0
+  },
+  "botetourt_1850_index_30plus": {
+   "n": 3299,
+   "first_mean": 5.8626856623219155,
+   "first_median": 5.0,
+   "last_mean": 6.419824189148227,
+   "last_median": 6.0,
+   "full_mean": 12.282509851470142,
+   "full_sd": 2.2945234968789405,
+   "full_p5": 9.0,
+   "full_p25": 11.0
+  }
+ },
+ "relative_pools": {
+  "bedford_1850_all": {
+   "n": 2366,
+   "first_mean": 5.487320371935756,
+   "first_median": 5.0,
+   "last_mean": 6.204142011834319,
+   "last_median": 6.0,
+   "full_mean": 11.691462383770077,
+   "full_sd": 2.120500062650911,
+   "full_p5": 9.0,
+   "full_p25": 10.0
+  },
+  "botetourt_1850_all": {
+   "n": 10855,
+   "first_mean": 5.865131275909719,
+   "first_median": 6.0,
+   "last_mean": 6.416766467065869,
+   "last_median": 6.0,
+   "full_mean": 12.281897742975588,
+   "full_sd": 2.258172993829169,
+   "full_p5": 9.0,
+   "full_p25": 11.0
+  }
+ },
+ "n_mc": 20000,
+ "scenarios": {
+  "S0_bare_minimum": {
+   "description": "associate: first name + surname; relative: first name only (surname assumed shared); residence: county name only, no word 'county', no state",
+   "mean": 791.8351,
+   "sd": 19.404020407894855,
+   "p1": 747.0,
+   "p5": 760.0,
+   "p50": 792.0,
+   "p95": 824.0,
+   "P_total_le_618": 0.0,
+   "mc_se": 2.5e-05
+  },
+  "S1_relative_surname": {
+   "description": "as S0 but the relative also gets a surname (a married sister or a mother would need one)",
+   "mean": 978.08995,
+   "sd": 20.88372473955496,
+   "p1": 929.0,
+   "p5": 944.0,
+   "p50": 978.0,
+   "p95": 1013.0,
+   "P_total_le_618": 0.0,
+   "mc_se": 2.5e-05
+  },
+  "S2_county_word": {
+   "description": "as S1 plus the word 'county' (6 letters) after each county name, as B2 writes 'county of bedford'",
+   "mean": 1157.8985,
+   "sd": 21.121105504920898,
+   "p1": 1110.0,
+   "p5": 1124.0,
+   "p50": 1158.0,
+   "p95": 1193.0,
+   "P_total_le_618": 0.0,
+   "mc_se": 2.5e-05
+  },
+  "S3_county_and_state": {
+   "description": "as S2 plus 'virginia' (8 letters) for each residence",
+   "mean": 1398.106,
+   "sd": 21.027405070526417,
+   "p1": 1350.0,
+   "p5": 1364.0,
+   "p50": 1398.0,
+   "p95": 1433.0,
+   "P_total_le_618": 0.0,
+   "mc_se": 2.5e-05
+  },
+  "S4_initials_only": {
+   "description": "extreme abbreviation: associate = initial + surname; relative = initial + surname; residence = county name",
+   "mean": 690.9891,
+   "sd": 17.64060036364976,
+   "p1": 650.99,
+   "p5": 662.0,
+   "p50": 691.0,
+   "p95": 720.0,
+   "P_total_le_618": 0.0,
+   "mc_se": 2.5e-05
+  },
+  "S5_initials_no_relative_surname": {
+   "description": "associate = initial + surname; relative = first name only; residence = county name",
+   "mean": 639.71705,
+   "sd": 17.799156982775898,
+   "p1": 599.0,
+   "p5": 611.0,
+   "p50": 640.0,
+   "p95": 669.0,
+   "P_total_le_618": 0.1152,
+   "mc_se": 0.0022575313951305304
+  },
+  "S6_surnames_and_counties_only": {
+   "description": "floor: associate surname + relative surname + county name, nothing else",
+   "mean": 630.86165,
+   "sd": 17.47594945281944,
+   "p1": 590.0,
+   "p5": 602.0,
+   "p50": 631.0,
+   "p95": 660.0,
+   "P_total_le_618": 0.23965,
+   "mc_se": 0.0030184257279250717
+  }
+ },
+ "letters_per_entry_available": 20.6,
+ "mean_full_name_amherst": 12.449074074074074,
+ "S0_by_associate_pool": {
+  "amherst_1810_heads": {
+   "S0_mean": 791.7469,
+   "S0_p5": 760.0,
+   "P_le_618": 0.0
+  },
+  "bedford_1850_men_30plus": {
+   "S0_mean": 777.94,
+   "S0_p5": 746.0,
+   "P_le_618": 0.0
+  },
+  "botetourt_1850_index_30plus": {
+   "S0_mean": 787.1839,
+   "S0_p5": 755.0,
+   "P_le_618": 0.0
+  }
+ },
+ "synthetic_list_entries": [
+  "william burford william edgar caroline county virginia",
+  "james pettit james monroe lancaster county virginia",
+  "jacob burnett eliza padget henrico county virginia",
+  "james bowin william dejarnette kingandqueen county virginia",
+  "abner padgett eliza martin charlescity county virginia",
+  "james garland nickola kablen scott county virginia",
+  "richard hardwick rod davies lynchburg county virginia",
+  "thomas martin robert green princeedward county virginia",
+  "rush hudson john kablen tazewell county virginia",
+  "hannah allen henry myers loudoun county virginia",
+  "john wright betty fitzgerald frederick county virginia",
+  "jeremiah taylor archi scatin newkent county virginia",
+  "george campbell james cofer mathews county virginia",
+  "frankey neighbours robert bruice richmond county virginia",
+  "john ballard moriah sumpter henry county virginia",
+  "john henson robin coleman isleofwight county virginia",
+  "john philips catherine holen westmoreland county virginia",
+  "moza peter sarah dewitt bath county virginia",
+  "john crawford amanda elliot loudoun county virginia",
+  "fleming carter partrick christian lynchburg county virginia",
+  "william gregory edward reynolds montgomery county virginia",
+  "samuel watts tho waugh augusta county virginia",
+  "john swanson william anderson lancaster county virginia",
+  "richard mays angeline saunders charlescity county virginia",
+  "john watkins james phelps isleofwight county virginia",
+  "saml niceley william gwyn montgomery county virginia",
+  "lucy coleman charles ogden princegeorge county virginia",
+  "richard turner james wingfield amherst county virginia",
+  "john rose martha sumpter fluvanna county virginia",
+  "john camm nancy campbell essex county virginia"
+ ],
+ "synthetic_list_letters": 1395
+}

@@ -1,0 +1,1832 @@
+# National Park Service, Cultural Landscapes Inventory: Meriwether Lewis Site, Natchez Trace Parkway (NPS Southeast Region; PDF as posted by npshistory.com, 63 pp.).
+
+CITATION: National Park Service, Cultural Landscapes Inventory: Meriwether Lewis Site, Natchez Trace Parkway (NPS Southeast Region; PDF as posted by npshistory.com, 63 pp.).
+URL fetched: https://npshistory.com/publications/natr/cli-meriwether-lewis.pdf
+DATE FETCHED: 2026-09-14
+TRANSCRIPTION/NOTE: Text extracted with pymupdf from the PDF; whole document; layout lost.
+
+---- TEXT ----
+
+National Park Service 
+Cultural Landscapes Inventory 
+Meriwether Lewis 
+Natchez Trace Parkway 
+1998 
+
+
+ 
+Table of Contents 
+Inventory Unit Summary & Site Plan 
+Concurrence Status 
+Geographic Information and Location Map 
+Management Information 
+National Register Information 
+Chronology & Physical History 
+Analysis & Evaluation of Integrity 
+Condition 
+Treatment 
+Bibliography & Supplemental Information 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Inventory Unit Summary & Site Plan 
+The Cultural Landscapes Inventory Overview: 
+Inventory Summary 
+CLI General Information: 
+Purpose and Goals of the CLI 
+The Cultural Landscapes Inventory (CLI) is an evaluated inventory of all significant landscapes in units of the
+national park system in which the National Park Service has, or plans to acquire any enforceable legal 
+interest.  Landscapes documented through the CLI are those that individually meet criteria set forth in the 
+National Register of Historic Places such as historic sites, historic designed landscapes, and historic 
+vernacular landscapes or those that are contributing elements of properties that meet the criteria.  In addition,
+landscapes that are managed as cultural resources because of law, policy, or decisions reached through the 
+park planning process even though they do not meet the National Register criteria, are also included in the 
+CLI.   
+The CLI serves three major purposes.  First, it provides the means to describe cultural landscapes on an 
+individual or collective basis at the park, regional, or service-wide level.  Secondly, it provides a platform to
+share information about cultural landscapes across programmatic areas and concerns and to integrate related 
+data about these resources into park management.  Thirdly, it provides an analytical tool to judge 
+accomplishment and accountability. 
+The legislative, regulatory, and policy direction for conducting the CLI include: 
+National Historic Preservation Act of 1966 (16 USC 470h-2(a)(1)).  Each Federal agency shall establish…a
+preservation program for the identification, evaluation, and nomination to the National Register of Historic 
+Places…of historic properties… 
+Executive Order 13287: Preserve America, 2003.  Sec. 3(a)…Each agency with real property management 
+responsibilities shall prepare an assessment of the current status of its inventory of historic properties required
+by section 110(a)(2) of the NHPA…No later than September 30, 2004, each covered agency shall complete a
+report of the assessment and make it available to the Chairman of the Advisory Council on Historic 
+Preservation and the Secretary of the Interior… (c) Each agency with real property management 
+responsibilities shall, by September 30, 2005, and every third year thereafter, prepare a report on its progress
+in identifying…  historic properties in its ownership and make the report available to the Council and the 
+Secretary…  
+The Secretary of the Interior’s Standards and Guidelines for Federal Agency Historic Preservation Programs
+Pursuant to the National Historic Preservation Act, 1998.  Standard 2: An agency provides for the timely 
+identification and evaluation of historic properties under agency jurisdiction or control and/or subject to effect
+by agency actions (Sec. 110 (a)(2)(A)  
+Cultural Landscapes Inventory 
+Page 1 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Management Policies 2006.  5.1.3.1 Inventories: The Park Service will (1) maintain and expand the 
+following inventories…about cultural resources in units of the national park system…Cultural Landscape 
+Inventory of historic designed landscapes, historic vernacular landscapes,… and historic sites…  
+tural Resource Management Guideline, 1997, Release No. 5, page 22 issued pursuant to Director’s Order 
+#28.  As cultural resources are identified and evaluated, they should also be listed in the appropriate 
+Service-wide inventories of cultural resources. 
+Responding to the Call to Action: 
+The year 2016 marks the 100th anniversary of the National Park Service.  A five-year action plan entitled, “A
+Call to Action: Preparing for a Second Century of Stewardship and Engagement” charts a path toward that 
+second century vision by asking Service employees and partners to commit to concrete actions that advance 
+the agency’s mission.  The heart of the plan includes four broad themes supported by specific goals and 
+measurable actions.  These themes are: Connecting People to Parks, Advancing the NPS Education Mission,
+Preserving America’s Special Places, and Enhancing Professional and Organizational Excellence. The 
+Cultural Landscape Inventory relates to three of these themes: 
+Connect People to Parks.  Help communities protect what is special to them, highlight their history, and 
+retain or rebuild their economic and environmental sustainability. 
+Advance the Education Mission.  Strengthen the National Park Service’s role as an educational force based
+on core American values, historical and scientific scholarship, and unbiased translation of the complexities of
+the American experience. 
+Preserve America’s Special Places.  Be a leader in extending the benefits of conservation across physical, 
+social, political, and international boundaries in partnership with others. 
+The national CLI effort directly relates to #3, Preserve America’s Special Places, and specifically to Action 
+#28, “Park Pulse.”  Each CLI documents the existing condition of park resources and identifies impacts, 
+threats, and measures to improve condition.  This information can be used to improve park priority setting 
+and communicate complex park condition information to the public. 
+Responding to the Cultural Resources Challenge: 
+The Cultural Resources Challenge (CRC) is a NPS strategic plan that identifies our most critical priorities.  
+The primary objective is to “Achieve a standard of excellence for the stewardship of the resources that form 
+the historical and cultural foundations of the nation, commit at all levels to a common set of goals, and 
+articulate a common vision for the next century.”  The CLI contributes to the fulfillment of all five goals of 
+the CRC:  
+1) Provide leadership support, and advocacy for the stewardship, protection, interpretation, and 
+management of the nation’s heritage through scholarly research, science and effective management;  
+2) Recommit to the spirit and letter of the landmark legislation underpinning the NPS  
+Cultural Landscapes Inventory 
+Page 2 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+3) Connect all Americans to their heritage resources in a manner that resonates with their lives, legacies, and
+dreams, and tells the stories that make up America’s diverse national identity;  
+4) Integrate the values of heritage stewardship into major initiatives and issues such as renewable energy, 
+climate change, community assistance and revitalization, and sustainability, while cultivating excellence in 
+science and technical preservation as a foundation for resource protection, management, and rehabilitation;
+and  
+5) Attract, support, and retain a highly skilled and diverse workforce, and support the development of 
+leadership and expertise within the National Park Service. 
+Scope of the CLI 
+CLI data is gathered from existing secondary sources found in park libraries, archives and at NPS regional 
+offices and centers, as well as through on-site reconnaissance. The baseline information describes the 
+historical development and significance of the landscape, placing it in the context of the landscape’s overall 
+significance. Documentation and analysis of the existing landscape identifies character-defining 
+characteristics and features, and allows for an evaluation of the landscape’s overall integrity and an 
+assessment of the landscape’s overall condition. The CLI also provides an illustrative site plan that indicates 
+major features within the inventory unit and generates spatial data for Geographic Information Systems 
+(GIS).  The CLI also identifies stabilization needs to prevent further deterioration of the landscape and 
+provides data for the Facility Management Software System  
+Inventory Unit Description: 
+The Meriwether Lewis Monument is a component landscape in Lewis County, Tennessee, seven miles east of 
+the county seat of Hohenwald and seventy miles southwest of Nashville. The 300 acre site is located along the
+historic Natchez Trace at the burial site of Meriwether Lewis, today part of the Natchez Trace Parkway 
+(Milepost 385.9, Section 1-E). The site is bounded by the parkway to the east and south, Tennessee Highway
+20 to the west, and buffered by second growth forest to the north. The centerpiece of the Meriwether Lewis 
+site is a commemorative landscape designed by the National Park Service in the 1930s (Park Development 
+Era). A maintenance complex, picnic area, and hiking trails are within the component landscape boundaries, 
+while a campground, overlook, picnic area, and park housing border the historic core. The Meriwether Lewis
+tract of the Natchez Trace Parkway extends to the north and east of the component landscape. 
+The Grinder’s Inn operated along the Old Natchez Trace, a nationally significant route used first by migrating 
+animals, later by the Chickasaw and Choctaw, and during the eighteenth century, as the overland path from 
+the Mississippi River to Nashville. Meriwether Lewis stopped at Grinder’s Inn on October 10, 1809 and died
+the following morning. Historians suggest he committed suicide, while local lore maintains he was murdered. 
+Lewis was buried at the site. Few landscape features remain from this historic period, though the 
+configuration of the inn, spring, road trace, and burial remain intact. Archeologists located the site of 
+Grinder’s Inn along the Natchez Trace in 1992. The monument erected in 1848 marks the site of Meriwether
+Lewis’ burial with a broken column atop an engraved plinth supported by a rough-hewn stone pyramid. In 
+1856, land around the monument became a local cemetery. The road trace and spring were incorporated into 
+park development in the twentieth century.   
+Cultural Landscapes Inventory 
+Page 3 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+The Meriwether Lewis landscape memorializes the co-captain of the expedition to the Pacific Ocean and his 
+burial along the Natchez Trace. The cemetery (Pioneer Cemetery) surrounds the monument in a level, grassy
+ellipse enclosed by a loop tour road. The War Department administered the site from 1925-1933 and designed
+the formal space around the monument. The poorly-maintained gravestones were replaced in 1927 with flush 
+marble markers. The War Department added interpretive tablets to the landscape and removed a dilapidated 
+iron fence around the monument. The period of significance for the site (1925-1948) includes this landscape 
+design and the improvements made by the National Park Service. During the NPS Park Development Era, the 
+road system was improved and the ellipse was graded and filled. The change in topography prompted the 
+resetting of the cemetery stones and covered a portion of the old Natchez trace. A log office-museum built in 
+1935 resides near the site of the Grinder’s Inn and the nearby parking lot and drinking fountain (1935) remain 
+unchanged. The Natchez road trace was delineated during the 1930s to the north and south of the memorial 
+ellipse. The current tour road loop encircling the monument and cemetery preserve the simple landscape 
+designed to commemorate Lewis. The extant entrance road built during the period of significance creates a 
+vista along an axis to the monument. 
+The Old Spring picnic area remains an intact recreational site on a loop road spur east of the campground 
+road. The picnic area includes scattered picnic tables, grilles, and trash cans located near the local spring. 
+Stone culverts and drainage ditches remain from the original 1935 design and the site links to the trail 
+network. Besides the Old Spring picnic area, maintenance buildings and a residence were added in 1935 and 
+remain in use today. A Pump House and Utility Building are part of the Maintenance Area and the 
+Superintendent’s Residence, once adjacent to the other buildings, was moved to a Mission 66 housing area in 
+1960.    
+Outside of the historic landscape, a campground and additional picnic area exist as the park road continues. 
+These areas and two overlooks were completed in 1960. The Mission 66 development includes two comfort 
+stations, the Little Swan picnic area, the campground, and park housing (that has since been removed). 
+Additional buildings were added to the Maintenance Area in 1960. The 1935 Superintendent’s Residence is 
+located in the park housing. 
+Cultural Landscapes Inventory 
+Page 4 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Site Plan 
+CLI updated site map, 2009. 
+Property Level and CLI Numbers 
+Meriwether Lewis 
+Inventory Unit Name: 
+Component Landscape 
+Property Level: 
+550193 
+CLI Identification Number: 
+Parent Landscape: 
+550177 
+Park Information 
+Park Name and Alpha Code: 
+Natchez Trace Parkway -NATR  
+Park Organization Code: 
+5570 
+Park Administrative Unit: 
+Natchez Trace Parkway 
+Cultural Landscapes Inventory 
+Page 5 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+CLI Hierarchy Description 
+The Meriwether Lewis Monument landscape is a component landscape of the Natchez Trace Parkway. The 
+300-acre site is located in Section 1-E (approximately at milepost 385.9) and was incorporated legislatively 
+into the Natchez Trace Parkway in 1961. The boundaries of the component landscape coincide with the 
+boundaries that established the Meriwether Lewis National Monument in 1925. 
+Cultural Landscapes Inventory 
+Page 6 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Concurrence Status 
+Inventory Status: 
+Complete 
+Completion Status Explanatory Narrative: 
+Susan Hitchcock completed a draft CLI in conjunction with the Meriwether Lewis CLR in 2001. In 
+2008, Beth Wheeler visited the site and recorded current site conditions, updated existing condition 
+photography, and adapted the final CLR publication. The CLR provided a site history, historic 
+photographs, and identified key landscape features. Together the CLR and current site conditions 
+provide the CLI with information about the Meriwether Lewis landscape. The park contact is Dr. 
+Christina Miller-Smith. 
+Concurrence Status: 
+Yes 
+Park Superintendent Concurrence: 
+Park Superintendent Date of Concurrence: 
+07/16/2009 
+National Register Concurrence: 
+Eligible -- SHPO Consensus Determination 
+Date of Concurrence Determination: 
+07/09/2009 
+Reviewed by Claudette Stager and signed by Richard Tune. 
+National Register Concurrence Narrative: 
+Concurrence Graphic Information: 
+Cultural Landscapes Inventory 
+Page 7 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Letter to SHPO 
+Cultural Landscapes Inventory 
+Page 8 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Letter to SHPO; 2nd page 
+Cultural Landscapes Inventory 
+Page 9 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Letter & SHPO Signature of Concurrence 
+Cultural Landscapes Inventory 
+Page 10 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Letter to the Superintendent 
+Cultural Landscapes Inventory 
+Page 11 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Superintendent Signature of Concurrence 
+Cultural Landscapes Inventory 
+Page 12 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+The Meriwether Lewis component landscape is roughly rectangular and bound to the south by Tennessee 
+Highway 20 and second growth forest. The east and north boundaries merge into Natchez Trace Parkway. The
+western boundary meets private property beyond a buffer of woodlands. To the northeast, a modern tour road
+extends to the campground, overlook, and Little Swan picnic area, not  included in the historic core 
+landscape. Incorporated into the Natchez Trace Parkway in 1961, the historic site preserves the route of the 
+original trace and the significant memorial and burial site of Meriwether Lewis within a recreation area along 
+the parkway. The boundaries of the component landscape correspond with the 1925 national monument tract.
+State and County: 
+TN 
+State: 
+County: 
+Lewis County 
+Size (Acres): 
+300.00 
+Boundary Coordinates: 
+USGS Map 1:24,000 
+Source: 
+Area 
+Type of Point: 
+-87.4612731208 
+Latitude: 
+35.5200876290 
+Longitude: 
+USGS Map 1:24,000 
+Source: 
+Area 
+Type of Point: 
+-87.4601062260 
+Latitude: 
+35.5049979330 
+Longitude: 
+USGS Map 1:24,000 
+Source: 
+Area 
+Type of Point: 
+-87.4695329251 
+Latitude: 
+35.5105159740 
+Longitude: 
+Cultural Landscapes Inventory 
+Page 13 of 61
+Inventory Unit Boundary Description: 
+Geographic Information & Location Map 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Location Map: 
+Location map 
+Cultural Landscapes Inventory 
+Page 14 of 61
+Source: 
+USGS Map 1:24,000 
+Type of Point: 
+Area 
+Latitude: 
+-87.4508011561 
+Longitude: 
+35.5150958400 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Regional Context: 
+Cultural 
+Type of Context: 
+Description: 
+The Hohenwald/Lewis County area was the site of early hunting grounds claimed by both the 
+Cherokee and the Chickasaw. European settlers made their way to middle Tennessee and in the 
+process turned one of the Indian trails, the Natchez Trace, into a major north-south pathway. The road
+was probably a series of trails, the two best known being the "Path to the Choctaw Nation," extending 
+from Natchez northeastward, and the "Chickasaw Trace," running from the vicinity of Tupelo to 
+Nashville. The Natchez Trace was used by boatmen and others as an over land route from the 
+Mississippi River to Nashville. Inns and trading posts were established along the trace and 
+coincidentally, Grinder’s Inn became the site of the death and burial of Meriwether Lewis in 1809.  
+Early settlers, drawn by the natural beauty of the area, cleared isolated farms from the wilderness. 
+They formed villages at Gordon and Newburg until the Civil War disrupted county government. 
+During the war and for several years following it, the residents were subject to attack by roaming 
+parties of renegades. In 1878, German immigrants created a town they called Hohenwald (meaning 
+high forest) and developed a lumber industry. With the help of the railroad, an organized colony of 
+Swiss immigrants settled in 1894 and created a "New Switzerland" south of Hohenwald. The two 
+small towns eventually merged under the name of Hohenwald. 
+Physiographic 
+Type of Context: 
+Description: 
+The Meriwether Lewis site is part of a flat high bench of the Highland Rim of Middle Tennessee. The 
+site is located on the dividing line between a gently rolling upland topography to the northeast and 
+steeply graded drainages, including the tributaries of Little Swan Creek. The area is heavily forested, 
+dominated by a mix of hardwoods. 
+Political 
+Type of Context: 
+Description: 
+The cultural landscape is located within Tennessee's 7th congressional district. 
+Management Unit: 
+NATR 
+Tract Numbers: 
+140-05 and 140-06 
+GIS File Description: 
+Management Information 
+Cultural Landscapes Inventory 
+Page 15 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+General Management Information 
+Should be Preserved and Maintained 
+Management Category: 
+09/28/2001 
+Management Category Date: 
+Meriwether Lewis Monument is included in the 1975 National Register nomination for sites on the Old 
+Natchez Trace in Tennessee. 
+Management Category Explanatory Narrative: 
+Maintenance Location Code: 
+66733 
+NPS Legal Interest: 
+Fee Simple 
+Type of Interest: 
+Public Access: 
+Unrestricted 
+Type of Access: 
+Adjacent Lands Information 
+Do Adjacent Lands Contribute? 
+Yes 
+Adjacent Lands Description: 
+The campground and picnic area at Little Swan Creek, the employee housing area, and a portion of the 
+maintenance complex are outside of the 300 acre Meriwether Lewis Monument component landscape 
+boundary. These areas in addition to the adjacent portions of the Natchez Trace Parkway contribute to the 
+significance of Meriwether Lewis Monument and do not compromise the historic or commemorative scene. 
+Cultural Landscapes Inventory 
+Page 16 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+National Register Information 
+Existing National Register Status 
+National Register Landscape Documentation: 
+Entered Inadequately Documented 
+National Register Explanatory Narrative: 
+Meriwether Lewis Monument is part of the National Register nomination for Tennessee sites located on the 
+Old Natchez Trace. The nomination, listed in May 1975, includes a very brief description of the history of the
+site and identifies the Monument as the only contributing feature. The nomination primarily addresses the 
+road trace through several Tennessee counties.  
+The National Register documentation of the Meriwether Lewis Monument should be expanded in scope and 
+detail to articulate the commemorative significance of the site and include specific landscape features from 
+the War Department and National Park Service design. A separate nomination for the Meriwether Lewis 
+Monument should be undertaken. 
+Existing NRIS Information: 
+Name in National Register: 
+Old Natchez Trace (310-2A) 
+NRIS Number: 
+76000156 
+Other Names: 
+310-2A;Road from Natchez to Nashville;Path to Chickasaw 
+Nation;Path to Choctaw Nation;Natchez Trace 
+Listed In The National Register 
+Primary Certification: 
+11/07/1976 
+Primary Certification Date: 
+National Register Eligibility 
+Eligible -- SHPO Consensus Determination 
+National Register Concurrence: 
+Contributing 
+Contributing/Individual: 
+Site 
+National Register Classification: 
+National 
+Significance Level: 
+A - Associated with events significant to broad patterns 
+of our history 
+Significance Criteria:  
+B - Associated with lives of persons significant in our 
+past 
+Significance Criteria:  
+C - Embodies distinctive construction, work of master, 
+or high artistic values 
+Significance Criteria:  
+Cultural Landscapes Inventory 
+Page 17 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Criteria Considerations: 
+D -- A cemetery which derives its primary significance from graves 
+of persons of transcendent importance, from age, from distinctive 
+design features, or from association with historic events 
+F -- A property primarily commemorative in intent if design, age, 
+tradition, or symbolic value has invested it with its own historical 
+significance 
+Period of Significance: 
+Time Period: 
+CE 1809 
+Historic Context Theme: 
+Developing the American Economy 
+Subtheme: 
+Transportation by Land and Air 
+Facet: 
+Early Turnpikes, Roads, And Taverns East Of The Mississippi 
+None 
+Other Facet: 
+Time Period: 
+CE 1848 
+Historic Context Theme: 
+Expressing Cultural Values 
+Subtheme: 
+Landscape Architecture 
+Facet: 
+The Revival Of Classicism 
+Time Period: 
+CE 1925 - 1948 
+Historic Context Theme: 
+Developing the American Economy 
+Subtheme: 
+Transportation by Land and Air 
+Facet: 
+Early Turnpikes, Roads, And Taverns East Of The Mississippi 
+None 
+Other Facet: 
+Time Period: 
+CE 1925 - 1948 
+Historic Context Theme: 
+Expressing Cultural Values 
+Subtheme: 
+Architecture 
+Facet: 
+Vernacular Architecture 
+None 
+Other Facet: 
+Time Period: 
+CE 1925 - 1948 
+Historic Context Theme: 
+Expressing Cultural Values 
+Subtheme: 
+Landscape Architecture 
+Facet: 
+The 1930's: Era Of Public Works 
+None 
+Other Facet: 
+Cultural Landscapes Inventory 
+Page 18 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Area of Significance: 
+Architecture 
+Area of Significance Category: 
+None 
+Area of Significance Subcategory: 
+Landscape Architecture 
+Area of Significance Category: 
+None 
+Area of Significance Subcategory: 
+Transportation 
+Area of Significance Category: 
+None 
+Area of Significance Subcategory: 
+Statement of Significance: 
+Meriwether Lewis Monument is nationally significant under National Register Criteria A and B as part of the 
+old Natchez Trace. A 1975 nomination lists the original portion of the road trace through Tennessee as well as 
+the associated Meriwether Lewis Monument. The Natchez Trace is significant for its use by prehistoric tribes 
+for hunting and gathering and later guiding explorers and travelers along the ridgeline from Natchez and the 
+Mississippi River to Nashville. The Trace was extensively traveled from the late 1780s to the early 1830s and 
+played an important role in opening the western frontier. The Natchez Trace retains integrity of location, 
+setting, design, materials, and feeling as it passes through the Meriwether Lewis landscape. The integrity of 
+workmanship is diminished by the addition of fill as a War Department improvement over the original trace 
+near the ellipse.  
+The transportation route also became associated with Meriwether Lewis in 1809 when he died at the 
+Grinder’s Inn. Grinder's Inn was one of the early stands along the Trace that provided shelter and food to 
+travelers and was said to be the “last white settlement before entering Indian Territory in the southwest.” 
+Meriwether Lewis, co-captain with William Clark of the historic overland expedition to the Pacific Ocean, 
+was traveling on October 10, 1809 and stopped at the Grinder’s Inn for the night. He died the following 
+morning (either by murder or suicide) and the site became the location of his burial. Archeology uncovered 
+the site of the Grinder’s Inn in recent years, but little information survives from this early period. The integrity 
+of location and association remain. The 1975 nomination notes the location of the inn and Lewis burial to be
+contributing features of the significant Natchez Trace. 
+The historic designed landscape derives its primary significance as a memorial to Meriwether Lewis (Criteria
+C). The landscape evolved from the historic site associated with the burial of Lewis, the Old Natchez Trace, 
+and the Grinder’s Inn to a landscape that reflects early 20th-century memorial architecture and landscape 
+architecture. The Monument, dating from 1848, expresses the valor of Meriwether Lewis while the 
+surrounding ellipse, containing the monument and community cemetery, is a character-defining feature of the
+Cultural Landscapes Inventory 
+Page 19 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+designed landscape. The current ellipse landscape was completed during the NPS Park Development Era. The
+period of significance related to the memorial landscape covers the end of the War Department administration 
+and early NPS development (1925-1948).  
+The first effort to commemorate the location of Meriwether Lewis’s grave began in 1848 with the erection of 
+the Monument. The monument was built in a style typical of the era and memorialized Lewis with a broken 
+stone column supported by an engraved plinth and rusticated base. The broken column symbolized a life cut 
+short (alluding to possible suicide) and marked the location of his burial. Subsequent efforts to reinforce the 
+commemorative setting were complicated by the use of the area immediately around the Monument as a 
+cemetery beginning in 1856. The Monument and cemetery languished in obscurity prior to the establishment
+of the Meriwether Lewis National Monument in 1925.  
+The War Department converted the overgrown rural cemetery into a memorial landscape in the late 1920s. A
+minimalist approach to grounds management resulted in a simple lawn with a few trees, highlighting the 
+Monument as a centerpiece. The cemetery grave markers were replaced with flush white marble markers, 
+further expressing the simple design evocative of its time. The formal space symbolized the War Department 
+approach to commemorative sites and interpretive panels were added to call attention to the Grinder’s Inn, 
+Natchez Trace, and Meriwether Lewis Monument. The War Department transferred ownership of the site to 
+the National Park Service in 1933.  
+This landscape was irrevocably altered by the addition of four feet of fill to the ellipse in 1935 during 
+regrading of the site. An important change after the transfer to the NPS was the relocation of the entry road, 
+which had historically overlaid the old Natchez Trace. The new design created an axial approach to the 
+Monument, a design motif characteristic of Park Development-era landscapes. The road created a vista 
+terminating with the Monument and regrading and realigned the tour road to loop around the ellipse. As 
+expressed in the early 1930s, the Park Service felt that the layout heightened the memorial character of the 
+site. Today the Monument remains the centerpiece of the twentieth-century commemorative landscape and 
+the tour road encircles the Monument, cemetery, and open lawn with a few mature, scattered oaks. The 
+Monument, 1926 replacement of the cemetery markers, the addition of War Department interpretive tablets, 
+and the regrading of the landscape to a uniformly flat ellipse enclosed by a tour road all convey the 
+significance of the site as a 20th century memorial to Meriwether Lewis. The integrity of location, 
+association, setting, feeling, materials, workmanship, and design remain intact from the period of 
+significance. 
+Chronology & Physical History 
+Cultural Landscape Type and Use 
+Cultural Landscape Type: 
+Designed 
+Historic Site 
+Current and Historic Use/Function: 
+Cultural Landscapes Inventory 
+Page 20 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Primary Historic Function: 
+Cemetery 
+Primary Current Use: 
+Cemetery 
+Other Use/Function 
+Other Type of Use or Function 
+Equipment/Vehicle Storage 
+Both Current And Historic 
+Campground/Picnic Area 
+Both Current And Historic 
+Cemetery 
+Historic 
+Leisure-Passive (Park) 
+Both Current And Historic 
+Monument (Marker, Plaque) 
+Both Current And Historic 
+Pedestrian-Related-Other 
+Historic 
+Current and Historic Names: 
+Name 
+Type of Name 
+Meriwether Lewis Monument 
+Current 
+Meriwether Lewis National Monument 
+Historic 
+Ethnographic Study Conducted: 
+No Survey Conducted 
+Chronology: 
+Year 
+Event 
+Annotation 
+Established 
+The Chickasaw and Chotaw utilized an overland path that 
+would become the Natchez Trace. 
+CE 1500 - 1750 
+Inhabited 
+Meriwether Lewis and John Pernier stop at Grinder`s Inn on 
+the old Natchez Trace on the evening of October 10, 1809. 
+Meriwether Lewis dies the next day. 
+CE 1809 
+Planned 
+Alexander Wilson, friend of Meriwether Lewis, describes the 
+burial site as "a few loose rails thrown over his grave" and 
+finances a post fence to shelter the grave from wolves and 
+hogs. 
+CE 1811 
+Established 
+Lewis County, Tennessee established. 
+CE 1843 
+Memorialized 
+In 1848, the Tennessee legislature provided $500 to build a 
+monument to memorialize Meriwether Lewis. The broken 
+column, plinthe, and rustic stone pyramid reflected the 
+commemorative design popular in the mid-nineteenth 
+century. A wrought iron fence was constructed around the 
+monument. 
+CE 1848 
+Cultural Landscapes Inventory 
+Page 21 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Land Transfer 
+Hugh Venable donates one acre of land surrounding the 
+Meriwether Lewis monument to Lewis County to establish a 
+local cemetery. 
+CE 1849 
+Altered 
+Other burials added to the cemetery during the early site 
+history. The oldest original burial marker (surviving) dates to 
+1856. 
+CE 1856 
+Built 
+Between 1923-1924, a road was opened over the old Trace 
+between Highway 20 and the Old Spring veering west of 
+Grinder's Inn with a loop road around the Monument. 
+CE 1923 - 1924 
+Established 
+On 6 February, President Coolidge issued a proclamation 
+establishing Meriwether Lewis National Monument. The 
+monument was dedicated on August 18, 1925 on the 151st 
+anniversary of Lewis's birth. The new national monument is 
+administered by the War Department and included an 
+additional 49 acres (surrounding the one-acre plot) donated by
+J. Clint Moore and his family. 
+CE 1925 
+Stabilized 
+In 1926, the Monument shaft was plumbed and the stone work 
+holding the shaft was straighened and repointed with cement 
+mortar. The border masonry at the base was removed, the 
+Monument placed on a base of concrete and set with twenty 
+cannon balls. 
+CE 1926 
+Developed 
+The War Department completed a number of improvements 
+to the site under the supervision of DeLong Rice 
+(Superintendent). New marble markers for the local cemetery 
+were ordered, the road system was upgraded to a chert 
+surface, a flag pole was constructed, a tool shed built, and 
+concrete gutters added. Siege guns were placed at the entrance
+along the Old Natchez Trace and rocks were removed from 
+the slope leading to the Old Spring. Stones were also added to 
+outline the old Natchez Trace route from the highway to the 
+monument. 
+CE 1926 - 1930 
+Land Transfer 
+250 acres transferred from the State of Tennessee to the U.S. 
+government to expand the historic site. The additional land 
+included the Old Spring and Grinder`s Inn site. 
+CE 1927 
+Cultural Landscapes Inventory 
+Page 22 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Removed 
+In 1927, the existing gravestones were removed and replaced 
+with flush marble markers. 
+Built 
+The installation of two limestone entrance pillars. War 
+Department tablets were added and five oaks were planted in 
+the ellipse. 
+CE 1931 - 1932 
+Land Transfer 
+Meriwether Lewis National Monument was transferred to the 
+National Park Service. 
+CE 1933 
+Removed 
+The park removed the two siege guns from the entrance, the 
+iron fence surrounding the ellipse, and the stones outlining the
+old Trace. An Emergency Conservation Work (ECW) crew 
+worked at the monument on erosion control, general clean-up,
+and trail development. 
+CE 1933 - 1936 
+Altered 
+The park altered the topography by adding four feet of fill to 
+the ellipse. The flush cemetery markers were taken up and 
+reset, but the Monument base and the stone curb were covered
+up. 
+CE 1935 - 1936 
+Built 
+The park completed construction of the office-museum, 
+superintendent`s residence, pump house, utility building, and 
+new road network. As part of this work, the bronze entrance 
+plaque was relocated to the new entrance. A drinking fountain
+was added near the office-museum. 
+Built 
+Brick walkways leading to the Superintendent`s residence. 
+Flagstone landing outside of the office-museum. The trail to 
+the Old Spring was also upgraded. 
+CE 1937 
+Built 
+A rail fence was constructed along the Highway 20 boundary.
+CE 1944 
+Altered 
+Flagpole added to museum-office area. In 1947, flagpoles are
+taken down and put back up. 
+CE 1945 - 1947 
+Removed 
+Portions of the Park Development-era road network were 
+removed. Also during this time, the custodian`s residence was 
+moved to the newly developed housing area. The road spur 
+north of the monument was removed and the recreation and 
+historic site were separated. 
+CE 1959 - 1960 
+Cultural Landscapes Inventory 
+Page 23 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Established 
+Meriwether Lewis National Monument incorporated into the 
+management of Natchez Trace Parkway under the 
+administration of the National Park Service. 
+CE 1961 
+Built 
+Installation of the Little Swan recreational area occurred 
+between 1963-67 and included a campground, two comfort 
+stations, a picnic area, and a terminating loop as part of 
+theNPS Mission 66 initiative. 
+CE 1963 - 1967 
+Established 
+Meriwether Lewis Monument listed on the National Register 
+of Historic Places as part of the nomination of Old Natchez 
+Trace sites in Tennessee. 
+CE 1975 
+Excavated 
+Archeologists conduct a series of surveys at the site to locate 
+the site of Grinder`s Inn. The archeology includes, shovel test
+pits, ground-penetrating radar, and remote sensing. 
+CE 1992 - 1998 
+Rehabilitated 
+The Meriwether Lewis monument was rehabilitated in 2000. 
+The monument received a new concrete foundation and was 
+modified vertically to avoid a change in location or site 
+regrading. A new stone base was added and the original plinth 
+and column preserved. Marble curbs were added around the 
+monument in 2001. 
+CE 2000 - 2001 
+Cultural Landscapes Inventory 
+Page 24 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Physical History: 
+Prehistory to 1809 
+Before the southeast was settled, animals blazed a trail along the ridgeline searching for natural salt 
+licks and land to graze. The Chickasaw and Choctaw used the same trail, Natchez Trace, as a route 
+across the southeast. Andrew Jackson later used the trace to move his troops during the War of 1812. 
+The ancient footpath became an overland return route for boatmen in the nineteenth century who 
+floated down the Ohio and Mississippi Rivers to New Orleans or Natchez. Boatmen, farmers, 
+itinerant preachers, and traders followed the trace north to Nashville, Tennessee and established a 
+reliable route between the gulf coast ports and eastern states. Inns and “stands” or trading posts 
+appeared along the route to provide services and goods for travelers on the Natchez Trace. Grinder’s
+Inn, seventy miles south of Nashville, was one such “stand” and became the site of Meriwether 
+Lewis's final resting spot. Lewis died on October 10, 1809 while staying at Grinder’s Inn en route to
+Washington. 
+1809-1926 The Death of Meriwether Lewis and Early Designation 
+General Meriwether Lewis first served as secretary to President Thomas Jefferson and later as 
+Governor of Louisiana (Territory), after his return from the exploration (1803-1805). On a trip to 
+Washington DC via New Orleans to justify payment for reimbursements in 1809, Lewis traveled 
+overland through Tennessee. Lewis arrived at Grinder’s Inn on the Natchez Trace the evening of 
+October 10, 1809 and was found the following morning with bullet wounds to the head and chest. 
+Historians studying the cause of Lewis’ death support a suicide theory, though local legend maintains 
+that he was murdered. Lewis was buried near the Grinder’s Inn and a post fence was financed by his 
+friend Alexander Wilson two years later to protect the grave from wolves and routing hogs.  
+In 1848, the state of Tennessee erected the Meriwether Lewis Monument to commemorate the death
+and burial of the General who led the expedition to the Pacific Ocean with William Clark. The 
+Meriwether Lewis Monument was placed at the gravesite by local witnesses to verify the location. 
+Lemuel Kirby, a stonemason, designed a broken column memorial, typical of nineteenth-century 
+funerary architecture, to represent a life cut short. A wrought-iron fence was constructed around the 
+stone monument. The following year, 1849, the land surrounding the monument was sold for use as a
+cemetery. The oldest extant grave marker dates to 1856, though earlier burials may have taken place. 
+By the 1880s, the monument was covered in moss and the overall condition of the site declining from
+disuse. By 1893, the iron fence enclosed the monument and cemetery was in disrepair. Accounts 
+published in magazine articles in 1905 describe 50 gravestones adjacent to the monument and the 
+entire site in poor condition. The fence was said to be used by General John Bell Hood’s men for 
+horseshoes and nails during the Civil War.  
+Lobbying by George “Teen” Cothran in 1923 aided the Meriwether Lewis Memorial Association 
+(MLMA) in designating the site a national monument. Cothran surveyed the property and cleared a 
+stretch of the Natchez Trace between Tennessee Highway 20. An entrance road built in 1923-1924, 
+provided access to the monument looping west of Grinder’s Inn. On February 2, 1925, President 
+Coolidge proclaimed the 50-acre site a national monument. The condition of the Meriwether Lewis 
+Monument was poor at the time and reports detailed fallen trees, overgrown vegetation, broken 
+headstones and the column monument leaning. 
+Cultural Landscapes Inventory 
+Page 25 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+View of monument and cemetery from Everybody's magazine, 1905. 
+Cultural Landscapes Inventory 
+Page 26 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+View of the Monument prior to establishment as a national monument, c. 1916 
+Cultural Landscapes Inventory 
+Page 27 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Dedication of the Meriwether Lewis National Monument, 1925 
+1926-1933 War Department Era 
+In 1926, the park became administered by the War Department and was placed under the supervision 
+of the Superintendent of Shiloh battlefield. The following year, the Governor of Tennessee signed a 
+bill adding 250 acres to the site, including the location of Grinder’s Inn and the Old Spring. The site,
+totaling 300 acres altogether, included and surrounded the Meriwether Lewis Monument. While no 
+master plan exists for the War Department period, a number of improvements took place. The 
+monument was plumbed and repointed while citizens met to identify and mark the surrounding 
+burials. The gravestones were replaced with flush marble markers. The monument was set on a 
+concrete base with 20 cannonballs lining the perimeter to replace the iron fence. The new fence was 
+constructed of red cedar posts with galvanized iron and each post was topped with a fifty-pound 
+shell. The road system was improved to a chert drive and a storage building and flagpole were 
+constructed. The portion of the Old Natchez Trace running through the park was designated with a 
+border of concrete and stone, while two siege guns were placed at the entrance in 1927. In 1931-32, 
+two stone pillars were added to the entrance with bronze plaques. Vegetation was cleared on the lawn
+and the slope leading to the Old Spring was leveled. The War Department also placed interpretive 
+signs on-site that remain intact today. Photographs from the War Department era reveal five post 
+oaks in the area of the monument. 
+Cultural Landscapes Inventory 
+Page 28 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Siege guns at entrance, 1931. 
+1933-1942 NPS Park Development Era 
+Cultural Landscapes Inventory 
+Page 29 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Cultural Landscapes Inventory 
+Page 30 of 61
+The landscape became NPS property in 1933. The existing conditions of the site upon transfer 
+included: gravel roads leading to the spring and campground, two stone pillars with bronze plaques 
+and accompanying guns at the entrance, a storage building and office structure, a steel flagpole, a 
+fence enclosing the cemetery, and interpretive markers placed by the War Department. Excavations 
+of the Grinder’s Inn took place in 1933, though only a few nails and the chimney foundation were 
+uncovered.  
+The National Park Service prepared a site map and began planning for improvements to the 
+Meriwether Lewis Monument. The park plans included a system of trails to be constructed by the 
+Emergency Conservation Work (ECW) of the Civilian Conservation Corps (CCC) as well as general 
+clean-up, erosion control, and other improvements. The Washington office stepped in to prevent 
+plans that removed healthy understory vegetation and allowed trails to be constructed as roadways. 
+The removal of deadwood occurred and new native trees were planted. 
+The construction of an office-museum and rerouting of the entrance road dramatically altered the 
+monument approach. The office-museum, a log building typical of the Tennessee vernacular, was 
+built south of the monument to reflect the architecture of the original Grinder’s Inn. The entrance 
+from Tennessee Route 20 was realigned to create a vista terminating at the monument. The addition 
+of four feet of fill to the tour road ellipse prompted the reinstallation of the monument itself and the 
+marble headstones. The fence was removed and “judicious plantings” were planned for the Natchez 
+Trace. The tour road continued north, following the old trace, to a “public gathering space.” The 
+simple oval design of the formal landscape complimented the cemetery and monument and plans to 
+reconstruct Grinder’s Inn were discarded.  
+The Superintendent’s Residence and utility buildings complimented the construction of the 
+office-museum. The residence was positioned to the east of the office, overlooking the historic 
+landscape and the utility area. In 1935, the pump house and workshop were built, both extant  
+and in use today. Besides the addition of visitor and caretaker facilities, landscape features added by 
+the NPS included a flagstone landing at the office and brick walkway near the residence. By 1936, 
+the siege guns at the entrance were removed. A stone drinking fountain was added next to the 
+office-museum.  
+The construction of Natchez Trace Parkway in the late 1930s and early 1940s dovetailed into 
+planning initiatives for the Meriwether Lewis Monument. The site was placed under jurisdiction of 
+the new park and a new entrance linked the site to the Parkway. A bronze plaque once adorning one 
+of the stone entrance pillars was relocated to greet visitors off of the Natchez Trace Parkway. 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Meriwether Lewis Monument and ellipse, 1941. 
+Cultural Landscapes Inventory 
+Page 31 of 61
+Relocated entrance, 1941. 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+War Department improvements circa 1934. Note the interpretive tablets, the iron fence with 
+cannonballs, and the curbing in the foreground . 
+Cultural Landscapes Inventory 
+Page 32 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Entrance sign, 1941. 
+1942-Present National Park Service Administration 
+The Meriwether Lewis site underwent additional changes related to the 1948 Master Plan. The 
+entrance road was rerouted to provide vehicular access to the utility buildings and new park housing, 
+while the northern loop of the monument road was removed. The maintenance area was expanded 
+and a new entrance from the parkway added. Locals passed an ordinance limiting the open grazing of 
+domestic animals before the 1948 plan was implemented. 
+Mission 66 projects further improved the visitor services at Meriwether Lewis Monument. A 
+recreation area and associated access road to Little Swan was built. This area, built between 1963 and
+1967 included a campground, two comfort stations, overlooks, a picnic area, and terminal road loop.
+The Superintendent’s Residence was moved to join new park housing, which included two ranch 
+houses. The Old Natchez Trace was maintained as a foot trail after the rerouting of park roads. In 
+1975, the Meriwether Lewis site was added to the National Register of Historic Places as part of the
+old Natchez Trace sites in Tennessee. A General Management Plan written in 1987 called for 
+archeology and the location of the Grinder’s Inn was found in 1992. The NPS administers the 
+Meriwether Lewis Monument as part of the Natchez Trace Parkway. 
+In 2000, the monument was rehabilitated following the recommendations of a 1998 Historic 
+Structure Report. The column, plinth, and base were dismantled and a new foundation raised the 
+location of the monument vertically. In 2001, new marble curbs were added around the preserved 
+structure.  
+Cultural Landscapes Inventory 
+Page 33 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+In 2003, a Cultural Landscape Report called for rehabilitation of the memorial landscape. Since that 
+time a new D.A.R. monument has been added near the site of Grinder’s Inn, the two ranch park 
+houses were demolished, and a mature oak in the ellipse was struck by lightning. The component 
+landscape is in good condition and the site maintained following the treatment recommendations 
+made in 2003. 
+Aerial view of the park showing NPS road network, 1951 
+Cultural Landscapes Inventory 
+Page 34 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Moving the custodian`s residence, 1960 
+Maintenance complex, 1962 
+Cultural Landscapes Inventory 
+Page 35 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+View of the Monument and ellipse, 1962 
+Cultural Landscapes Inventory 
+Page 36 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Monument base, 2000. 
+Cultural Landscapes Inventory 
+Page 37 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Monument shortly after rehabilitation, 2000 
+Cultural Landscapes Inventory 
+Page 38 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Analysis & Evaluation of Integrity 
+Analysis and Evaluation of Integrity Narrative Summary: 
+The landscape of the Meriwether Lewis Monument derives historic significance from the commemorative 
+design that embodies the ideals of the early twentieth-century landscape architecture. The landscape evolved
+from a historic site associated with Grinder’s Inn and the Old Natchez Trace to a landscape significant as a 
+memorial to Meriwether Lewis. The one-acre grass ellipse containing the monument, flagpole, War 
+Department signage, and cemetery is a feature with several landscape characteristics. The formal simplicity 
+should not be mistaken for an inadequate tribute to Meriwether Lewis since the configuration of the lawn and 
+trees evokes the early twentieth-century attitudes toward the commemoration of famous Americans. 
+Changes initiated by the 1948 General Management Plan resulted in the separation of the historic and 
+recreational areas of the park, replacement of the previous landscape, and ended the period of significance. 
+The aspects of integrity, location, design, setting, materials, workmanship, feeling, and association are 
+present to varying degrees at the Meriwether Lewis Monument.  
+The location of the site remains unchanged including the monument, the office-museum, the pump house, 
+the utility building, the stone drinking fountain, site of the Grinder’s Inn, and the Old Natchez Trace. The 
+War Department tablets have moved location (evidenced from historic photos) but their context survives. 
+Segments of the tour road were removed, but a majority of the loop and picnic access remains with integrity 
+of location.  
+The landscape retains integrity of design with the rehabilitation of the monument in 2000-01 and the 
+preservation of the grassy ellipse and office-museum area. The roads constructed during the Park 
+Development era has diminished design integrity when portions connecting the historic and recreational 
+areas were removed, but the overall form of the elliptical tour road and entrance road vista is intact. The 
+office-museum area preserves the spatial arrangement of the flagstone walkway, stone drinking fountain, 
+and parking lot. The significant design of the Meriwether Lewis Monument and contrasting flush cemetery 
+markers is retained in the twentieth century landscape design.   
+The natural setting surrounding the ellipse retains integrity and proposals to create an extensive park-like 
+setting ended in the early days of the NPS administration. The integrity of setting remains from the period of 
+significance with native second growth forests and selected understory species thriving around the tour road
+ellipse. The landscape in the Old Spring picnic area, near the office-museum, and bordering the Maintenance 
+Area reflects the setting of the Park Development Era. Integrity of the Grinder’s Inn landscape is lost.  
+The small-scale features, buildings, and vegetation retain diminished integrity of materials due to the fill and
+repair of the ellipse and modifications over the intervening years. The replacement and addition of modern 
+features has compromised the material integrity of the pump house and the Superintendent’s Residence. The 
+stone, concrete, marble, asphalt, and brick used historically in the other buildings remains intact. The 
+Monument was rehabilitated in 2000-01 and the War Department tablets recently repainted. The vegetation 
+retains material integrity, though replacement of some trees has compromised integrity.  
+Cultural Landscapes Inventory 
+Page 39 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+The integrity of workmanship was preserved in the monument after the 2001 rehabilitation. The 
+office-museum, utility building, pump house, picnic area culverts, and stone drinking fountain all exemplify 
+the workmanship and construction techniques of the Park Development era.  
+The feeling of the commemorative site is preserved by the focus on the monument as a centerpiece and the 
+simple surrounding landscape. The tour loop, flush marble markers, and scattered vegetation, all highlight 
+the park-like feeling and retain integrity.  
+The association of the memorial landscape persists with the monument to Meriwether Lewis and the 
+interpreted old Natchez Trace. The conversion of a rural cemetery to a formal landscape has continued 
+unchanged since the 1920s. The alteration of the Natchez Trace diminished the association of the trace, 
+which is now partially buried beneath the tour loop road, though portions to the north and south of the 
+monument are identified and preserved. The Monument, War Department tablets, and landscape design all 
+convey the association with Meriwether Lewis. The memorial landscape has integrity of association. 
+Aspects of Integrity: 
+Location 
+Association 
+Design 
+Workmanship 
+Feeling 
+Cultural Landscapes Inventory 
+Page 40 of 61
+Buildings and Structures 
+The most significant structure of the cultural landscape is the Meriwether Lewis Monument. 
+Constructed in 1848, the monument memorializes the grave of Meriwether Lewis and dominates the 
+current formal ellipse. The monument was restored in 2000-01 and is listed on the National Register
+and LCS. The Meriwether Lewis monument is over twenty feet tall and consists of a broken column 
+on an engraved plinth of stone, both sections made from a fine limestone called Tennessee marble. 
+The base is a pyramid of rough-hewn stacked stone and a marble curb encloses the base. The 
+monument is in good condition and conveys integrity of materials, location, setting, feeling, design, 
+and association.  
+The office-museum built in 1935 during the Park Development Era survives in good condition. The 
+building is constructed of logs and serves as a visitor contact station. The vernacular architecture is 
+often mistaken by visitors for a replica of the Grinder’s Inn, yet the building retains integrity of 
+location, association, materials, workmanship, design, setting, and feeling as a typical park structure 
+of the period. The office-museum is a dog-trot with a gable roof and clapboard addition in the rear. 
+The building contributes to the historic landscape design and should be included in future National 
+Register documentation.   
+The Maintenance Area complex includes construction from the early Park Development era and 
+modern utility buildings that do not contribute to the historic landscape. The complex is part of the  
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+1948 Master Plan (included in the period of significance) has contributing and potentially 
+contributing structures. A Mission 66 shed and administrative building are non-contributing, yet two
+buildings in the complex are eligible for the National Register. The Pump House (1935) is a 10’x12’
+brick building with a side-gable slate shingle roof. The foundation is concrete, beveled at the exterior, 
+and the windows have been replaced. The Pump House still contains the original pump and retains 
+integrity of location, materials, feeling, association, and setting. The window modification 
+compromised the integrity of workmanship.  
+The garage/utility building, current used as a carpenter’s workshop and shed (78’x 28’) remains from 
+the period of significance (1935) and retains integrity of location, materials, association, setting, and
+workmanship. The utility building is a timber-framed ell-gable building with a white clapboard 
+exterior. The building retains the original doors and 6/6 windows. Lichen and moss are deteriorating
+the roof. Ornamental corner pediments survive on the ell-gable of the building.  
+The Superintendent’s Residence, built in 1935 and moved in 1960, is located at the terminus of the 
+residential area of the park. Two Mission 66 quarters nearby were demolished in recent years. The 
+Superintendent’s Residence is a one-story timber-frame, side gable house with a slate roof, carport, 
+and bay window on the front façade. The house has some integrity of association, but no integrity of
+materials, workmanship (due to modifications), setting, feeling, or location. The residence is 
+non-contributing due to the move in 1960.  
+The 1948 Master Plan included the Maintenance Area buildings built before 1948 and the later 
+Mission 66 development. The complex is significance to the historic Park Development design and 
+two buildings contribute to the period of significance. The remaining structures will likely attain the
+same significance when they reach 50 years of age since they are part of the same Master Plan.  
+The water tank was removed at an unknown date. 
+Character-defining Features: 
+Maintenance Shed 
+Feature: 
+133868 
+Feature Identification Number: 
+Non contributing – compatible 
+Type of Feature Contribution: 
+Maintenance Administration Building 
+Feature: 
+133870 
+Feature Identification Number: 
+Non contributing – compatible 
+Type of Feature Contribution: 
+Quarters/Superintendent's Residence 
+Feature: 
+95911 
+Feature Identification Number: 
+Non contributing – compatible 
+Type of Feature Contribution: 
+Cultural Landscapes Inventory 
+Page 41 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Meriwether Lewis Monument 
+Feature: 
+95912 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+102351 
+IDLCS Number: 
+LCS Structure Name: 
+Meriwether Lewis Monument, MP 385.9 
+CS-1 
+LCS Structure Number: 
+Pump House 
+Feature: 
+95913 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+Utility Building 
+Feature: 
+95914 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+Cultural Landscapes Inventory 
+Page 42 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Meriwether Lewis Monument and ellipse, 2001 
+Circulation 
+The circulation routes within the inventory unit are a part of the historic landscape design and 
+contribute to the significance of the site. The Old Natchez Trace remains as a historic road bed 
+cleared of vegetation and interpreted near the office-museum and Meriwether Lewis Monument. The 
+integrity of association, location, workmanship and setting remain for the old roadbed. A 2006 
+D.A.R. monument also honors the Old Natchez Trace.  
+During the War Department administration of the site, a new entrance was established along the Old
+Natchez Trace, perpendicular to Tennessee Highway 20. The entrance led to the monument and 
+veered west of the Grinder’s Inn site. The entrance was marked with stone pillars and siege guns 
+when the NPS administered the site (1926-31). This portion of the road system was abandoned in 
+1935 when the entrance was rerouted to the south. The 1924 entrance has no integrity, but the loop 
+around the monument, although improved over the years, remains intact.  
+Cultural Landscapes Inventory 
+Page 43 of 61
+Landscape Characteristic Graphics: 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+The NPS Park Development Era (1933-1948) included the major road building and planning that 
+shaped circulation in the component landscape. The circulation system contributes to the formal NPS
+design of the memorial landscape with the entrance aligned on an axis and a delineated formal space, 
+together honoring Lewis with a terminal view of the monument. The 1935 entrance began from 
+Highway 20 and veered to the east of the Grinder’s Inn. The curvilinear entrance aligned to create an
+axial vista to the Monument and connected to the 1924 loop around the cemetery. A turn-around in 
+front of the office-museum and a parking lot adjacent were also built at this time. The entrance, 
+turn-around, and parking lot all remain intact and retain integrity of location, design, association, 
+materials, setting, and feeling.   
+A road to the old spring was also cleared and graveled in 1935. The Old Spring Road leads to the 
+picnic area and remains in good condition. The road has integrity of location, association, 
+workmanship, design, and setting. The Old Spring Road loop remains from the period of 
+significance. 
+Planning initiatives during NPS administration specified the separation of historic and recreational 
+areas of the park, prompting changes to the Park Development-era circulation system. A 1938 
+Bureau of Public Roads plan included an extension of the monument loop to the north. The public 
+gathering area loop was added along Old Natchez trace immediately north of the monument, but was
+removed as part of the 1948 NPS Master Plan and retains no integrity today. Disagreement about 
+converting the monument loop road into a pedestrian path continued even though a plan specifying 
+its retention was approved in 1948. Earlier plans called for an elaborate design surrounding the 
+monument that was never built.  
+Additional roads and changes were included in the 1948 Master Plan. The park constructed a spur 
+road to the campground in the 1960s that was part of the 1948 plan but funded as part of the Mission
+66 initiative. The road to Little Swan included a campground spur, a picnic area, and two overlooks.
+The current configuration has a distinct historic area, while other recreational and administrative 
+functions are accessed by a separate entrance off the Natchez Trace Parkway. Today the oval 
+monument road remains essentially intact and conveys integrity of location, setting, design, 
+association, materials, and workmanship.  
+Roadways beyond the component landscape include a two-way asphalt road to the Little Swan 
+campground and picnic area (2.02 miles) built as part of the Mission 66 initiative. A paved service 
+road accesses the maintenance complex and park housing (located outside the Meriwether Lewis 
+component landscape boundary) from the Natchez Trace Parkway entry road. The residential road 
+built during Mission 66 was included in the 1948 Master Plan.  
+The trail system retains integrity from the historic period. The trail from the monument to Dye Stone 
+Spring and from the picnic area to the Old Spring remains from the 1930s with integrity of location,
+setting, association, and materials. 
+Character-defining Features: 
+Trail system 
+Feature: 
+Cultural Landscapes Inventory 
+Page 44 of 61
+Feature Identification Number: 
+135060 
+Type of Feature Contribution: 
+Contributing 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Access Road 
+Feature: 
+135064 
+Feature Identification Number: 
+Non contributing – compatible 
+Type of Feature Contribution: 
+Campground Road 
+Feature: 
+135066 
+Feature Identification Number: 
+Non contributing – compatible 
+Type of Feature Contribution: 
+1924 ellipse route 
+Feature: 
+135068 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+1935 road network 
+Feature: 
+95915 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+Old Natchez Trace 
+Feature: 
+95916 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+102060 
+IDLCS Number: 
+LCS Structure Name: 
+Old Natchez Trace Segment, MP 386-387 
+NATR 
+LCS Structure Number: 
+Old Natchez Trace mp 386-387 
+Feature: 
+95919 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+102061 
+IDLCS Number: 
+LCS Structure Name: 
+Old Natchez Trace Segment, MP 386-387 
+NATR 
+LCS Structure Number: 
+Old Natchez Trace mp 386 
+Feature: 
+95918 
+Feature Identification Number: 
+Cultural Landscapes Inventory 
+Page 45 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Contributing 
+Type of Feature Contribution: 
+102062 
+IDLCS Number: 
+LCS Structure Name: 
+Old Natchez Trace Segment, MP 386 
+NATR 
+LCS Structure Number: 
+Old Natchez Trace mp 385-386 
+Feature: 
+95917 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+102063 
+IDLCS Number: 
+LCS Structure Name: 
+Old Natchez Trace Segment, MP 385-386 
+NATR 
+LCS Structure Number: 
+Landscape Characteristic Graphics: 
+CLI Circulation map (2009) with each phase of road development. 
+Cultural Landscapes Inventory 
+Page 46 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Axial alignment of entrance road, 2000 
+Cultural Landscapes Inventory 
+Page 47 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+View of tour road taken from segment of Natchez Trace 
+Small Scale Features 
+Several small scale features contribute to the Meriwether Lewis landscape and interpretation of the 
+site. Significant small scale features include flush marble cemetery markers installed by the War 
+Department in 1927 and restored in 2001. These markers replaced the original gravestones of local 
+citizens buried around the monument. The cemetery was redesigned to honor Lewis and broken and 
+ill maintained markers were removed. A non contributing wooden sign notes the “Pioneer Cemetery” 
+at the beginning of the tour road loop presently.  
+The War Department installed interpretive tablets that survive from the period of significance and 
+note the importance of the Grinder’s Inn, Old Natchez Trace, and the burial of Meriwether Lewis. 
+These contributing landscape features are metal with white and brown paint and in good condition. 
+The War Department tablets do not have integrity of location or setting (due to changes in the 
+commemorative landscape) but retain integrity of materials, association, and workmanship. The War 
+Department also installed a steel flagpole (1925) near the monument that retains integrity of 
+association.  
+A stone drinking fountain next to the office museum remains from the early NPS site improvements 
+in 1935. The fountain is inoperable but contributes to the designed landscape. The rail fence at the 
+entrance was added in 1944 and retains integrity of materials, location, setting, workmanship, design, 
+association, and feeling. A modern kiosk, wooden bench, trashcan, and water fountain between the 
+building and the parking lot date to the Mission 66 period and do not contribute to the historic 
+landscape 
+Cultural Landscapes Inventory 
+Page 48 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+A Tennessee Society of the Daughters of the American Revolution monument placed in 2006 
+commemorates the importance of the “Early American Trail” and its use by Andrew Jackson and 
+Meriwether Lewis. This modern addition is non-contributing, but does not detract from the design of
+the landscape or the spatial organization of the site. Other modern features include wooden park signs 
+indicating the route of the Old Natchez trace, traffic signs, a fire hydrant, and modern lighting. These
+modern features do not contribute to the period of significance. 
+Several drainage features and stone culverts survive from the period of significance in the Old Spring
+picnic area. These features are in good condition and retain integrity of location, setting, design, 
+materials, workmanship, association, and feeling. The stone culverts around the ellipse appear as 
+only a modern metal grate and subtle grassy ditch indicating drainage. Later changes to the ellipse 
+removed or buried these culverts.  
+The culverts extant at the Old Spring picnic area and at the entrance should be further researched and 
+added to the LCS. A stone culvert on the south side of the Old Spring picnic loop is angled, while the
+culvert north of the loop is straight. Stone markers standing upright in the ground near the Old Spring
+prevent vehicle access and remain in good condition. Two stone culverts at the entrance survive and
+likely date to 1935 when the entrance was rerouted.  
+Non-extant small-scale features include the siege guns removed to Fort Donelson, stone entrance 
+pillars added in 1931-32, and bronze plaques. The plaques hung on the stone pillars but were moved
+in 1941 and placed near the entrance, freestanding from the pillars. The plaques were put into the 
+Natchez Trace Parkway collection at some point after their replacement. No documentation shows 
+when the stone pillars were removed 
+Character-defining Features: 
+War Department Grinder's Inn tablet 
+Feature: 
+133862 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+War Department Natchez Trace tablet 
+Feature: 
+134998 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+War Department Lewis tablet 
+Feature: 
+135000 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+DAR Monument 
+Feature: 
+Cultural Landscapes Inventory 
+Page 49 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+135002 
+Feature Identification Number: 
+Non contributing – compatible 
+Type of Feature Contribution: 
+Old Spring culvert (north) 
+Feature: 
+135014 
+Feature Identification Number: 
+Undetermined 
+Type of Feature Contribution: 
+Old Spring culvert (south) 
+Feature: 
+135016 
+Feature Identification Number: 
+Undetermined 
+Type of Feature Contribution: 
+Entrance culverts 
+Feature: 
+135018 
+Feature Identification Number: 
+Undetermined 
+Type of Feature Contribution: 
+Cemetery markers 
+Feature: 
+95920 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+Stone drinking fountain 
+Feature: 
+95921 
+Feature Identification Number: 
+Contributing 
+Type of Feature Contribution: 
+Cultural Landscapes Inventory 
+Page 50 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Pioneer cemetery gravestones, 2008. 
+Cultural Landscapes Inventory 
+Page 51 of 61
+Landscape Characteristic Graphics: 
+War Department tablet interpreting Grinder's Inn, 2008. 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Old Spring culvert, south of picnic loop. 2008. 
+Cultural Landscapes Inventory 
+Page 52 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Park Development Era drinking fountain 
+Spatial Organization 
+The association with Meriwether Lewis began in 1809 at the Grinder’s Inn along the old Natchez 
+Trace. The arrangement of the inn and outbuildings is lost, though the inn site, old spring, and old 
+road trace remain. The spatial organization of the 1809 features served as the origin of the memorial 
+landscape and a monument was erected in 1848. The 250 acre land tract added in 1927 to the original
+50 acre monument tract reunited the Meriwether Lewis Monument (and burial site) with the site of 
+the inn and old spring. Today the Grinder’s Inn archeological site and interpreted old Natchez Trace
+remain extant near the office-museum.  
+The arrangement of the Meriwether Lewis monument, centered among the flush marble gravestones 
+of the local cemetery (1927), emphasizes the importance of the historic association with Lewis while 
+preserving the existing grave locations. The spatial organization of the Meriwether Lewis Monument
+memorial ellipse remains a key landscape feature of the historic design. The monument is a 
+centerpiece among the cemetery markers and a few mature oaks, enclosed by an oval tour route. The
+level terrain punctuated by trees further expresses the simplicity of the landscape design and 
+emphasizes the monument as a focal point. The loop and approach road built in 1935 created a formal 
+memorial area and aligned the entrance to highlight an axial vista of the monument. The 1935 
+parking lot is intact and contributes to the overall spatial organization of the visitor contact area. 
+Cultural Landscapes Inventory 
+Page 53 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+The NPS separation of the historic and recreational space remains extant. The approach to the  
+Old Spring picnic area was rerouted and 100 feet of road demolished north of the monument loop. A
+new road leading from the 1935 entrance veered south, apart from the historic site, and led to the Old 
+Spring Road spur, additional picnicking, camping, and overlooks beyond the boundary of the 
+component landscape. The removal of the portion of the park road north of the monument restored 
+the formal landscape to prominence as the terminus of the loop. 
+Landscape Characteristic Graphics: 
+Overview of the ellipse showing spatial organization, 2008. 
+Cultural Landscapes Inventory 
+Page 54 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+CLR Site map (2001) with historic landscape core, maintenance/recreation area, and picnic areas 
+noted. 
+Cultural Landscapes Inventory 
+Page 55 of 61
+Axial approach to the ellipse, 2000 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Topography 
+Major topographical changes occurred during the period of significance motivated by the 1935 Park 
+Development Era road work. The addition of four feet of fill to the ellipse changed the built aspects 
+of the landscape and prompted the reinstallation of the markers and monument. The iron fence was 
+also removed at this time. The fill covered the original Natchez Trace nearest the monument. After 
+1948, the National Park Service preserved the level design of the landscape and did not change the 
+topography. The existing flat ellipse, graded drainage around the tour road, and unaltered Old Trace 
+to the north and south of the commemorative landscape survive with integrity of location, setting, 
+design, association, and workmanship. The natural topography is preserved in the landscape 
+surrounding the historic core. 
+Vegetation 
+The conversion of the ellipse in 1927 from an overgrown rural cemetery to a managed memorial 
+landscape has remained unchanged over the years. The formal vegetation pattern is a character 
+defining element of the commemorative landscape at Meriwether Lewis. A flat expanse of turf is 
+punctuated by a few native trees. The historic specimens within the ellipse have been damaged by ice 
+storms, wind, and lightning and survive as large, mature oaks. The open grassy ellipse appears as it 
+did in War Department era photographs. The office-museum portion has understory plantings of 
+redbud and dogwood, though no original 1938 plantings survive. The integrity of design, setting, and
+association are retained in the vegetation at the site.  
+The area beyond the monument ellipse, adjacent to the historic core (including the Old Spring picnic 
+ground) remains in second growth forest. Oaks, red cedars, tulip poplars, and red maple predominate 
+among mixed hardwoods. The NPS replanted native species to restore the natural setting throughout
+Meriwether Lewis Monument during the Park Development Era. 
+Cultural Landscapes Inventory 
+Page 56 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Vegetation pattern of the ellipse, 2001 
+Views and Vistas 
+Views from the approach road to the Meriwether Lewis Monument remain open and define the 
+character of the landscape. Since the construction of the road in 1935, management practices 
+preserved the axial vista and retained an open formal landscape. Vegetative buffers protect the 
+broader cultural landscape from incompatible views of private property to the north and east. 
+Cultural Landscapes Inventory 
+Page 57 of 61
+Landscape Characteristic Graphics: 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Condition 
+Condition Assessment and Impacts 
+Good 
+Condition Assessment: 
+09/30/2000 
+Assessment Date: 
+Good 
+Condition Assessment: 
+07/16/2009 
+Assessment Date: 
+Condition Assessment Explanatory Narrative: 
+Given the relative stability of the landscape, reassessment will occur by FY 17 after FMSS-CL project is 
+complete. 
+Since the CLR was published in 2003, the Meriwether Lewis Monument landscape of Natchez Trace Parkway 
+remains in good condition. The addition of a monument in 2006 does not distract from the design elements 
+defining the old trace landscape. The mown lawn is well-maintained and visitor contact area kept up-to-date.
+Lightning struck a mature white oak in the historic ellipse in 2006. This tree should be replaced in-kind. 
+Impacts 
+Type of Impact: 
+Soil Compaction 
+External or Internal: 
+Internal 
+Impact Description: 
+The tour road loop around the Meriwether Lewis Monument shows 
+signs of erosion next to the monument and War Department sign. 
+This area bordering the road is eroding where vehicles stop 
+frequently. 
+Type of Impact: 
+Adjacent Lands 
+External or Internal: 
+External 
+Impact Description: 
+The impact of development on adjacent lands is not a factor at 
+present but should be monitored. 
+Stabilization Costs 
+Landscape Stabilization Cost: 
+0.00 
+Treatment 
+Cultural Landscapes Inventory 
+Page 58 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Treatment 
+Approved Treatment: 
+Rehabilitation 
+Approved Treatment Document: 
+Cultural Landscape Report 
+Document Date: 
+12/31/2003 
+The Cultural Landscape Report (CLR) published in 2003 suggests a rehabilitation strategy to maintain the 
+existing historic landscape and make compatible use possible. Rehabilitation addresses contemporary 
+management, planning, and interpretive concerns while preserving the significant historic resources. The 
+replacement of deteriorated base stones and the marble curb on the Meriwether Lewis Monument allowed the 
+monument to return to its original height. Specific treatment recommendations included the preservation of the
+Old Spring picnic area, maintaining the native plant palette, restoring the marble cemetery stones, interpreting
+the Old Natchez Trace and expanding visitor services. The CLR suggests updating documentation of the site. 
+Since the publication of the report, one large oak tree in the ellipse has died. 
+Approved Treatment Document Explanatory Narrative: 
+Approved Treatment Costs 
+Landscape Treatment Cost: 
+158,552.00 
+Cost Date: 
+12/31/2003 
+Level of Estimate: 
+C - Similar Facilities 
+Cost Estimator: 
+Regional Office 
+Landscape Approved Treatment Cost Explanatory Description: 
+These treatment costs were taken from the recommendations of the Cultural Landscape Report. 
+Cultural Landscapes Inventory 
+Page 59 of 61
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Bibliography 
+Citation Title: 
+A Preliminary Report on Stands and Travel Accomodations of the 
+Natchez Trace 
+CRBIB 
+Source Name: 
+011008 
+Citation Number: 
+Citation Title: 
+Death of Meriwether Lewis 
+CRBIB 
+Source Name: 
+011003 
+Citation Number: 
+Citation Title: 
+General Management Plan/ Environmental Assessment, Natchez 
+Trace Parkway 
+CRBIB 
+Source Name: 
+013396 
+Citation Number: 
+Citation Title: 
+Grinders Stand 
+CRBIB 
+Source Name: 
+002744 
+Citation Number: 
+Citation Title: 
+Interpretive Prospectus for Meriwether Lewis Park, Part of the 
+Interpretive Prospectus of Natchez Trace Parkway 
+CRBIB 
+Source Name: 
+011942 
+Citation Number: 
+Citation Title: 
+Meriwether Lewis 1774-1809 
+CRBIB 
+Source Name: 
+002693 
+Citation Number: 
+Natchez Trace Parkway 
+Citation Author: 
+Citation Title: 
+Meriwether Lewis National Monument, Its Origin, Development, and 
+Administration 
+1959 
+Year of Publication: 
+CRBIB 
+Source Name: 
+002755 
+Citation Number: 
+Cultural Landscapes Inventory 
+Page 60 of 61
+Bibliography and Supplemental Information 
+
+
+ 
+Natchez Trace Parkway 
+Meriwether Lewis 
+Citation Title: 
+Final Construction Report Meriwether Lewis National Monument 
+DSC/TIC 
+Source Name: 
+Narrative 
+Citation Type: 
+DSC 
+Citation Location: 
+Citation Title: 
+Master Plan Development Outline 
+DSC/TIC 
+Source Name: 
+Graphic 
+Citation Type: 
+DSC 
+Citation Location: 
+Citation Title: 
+"A Forgotten Hero" Southern Women's Magazine 
+1917 
+Year of Publication: 
+Citation Title: 
+"The Natchez Trace" Everybody's Magazine 
+Citation Title: 
+History of Lewis County, Tennessee 
+Citation Title: 
+Messages of the Governors of Tennessee 
+Stephen Ambrose 
+Citation Author: 
+Citation Title: 
+Undaunted Courage 
+1996 
+Year of Publication: 
+Citation Publisher: 
+Simon and Schuster 
+Citation Title: 
+Meriwether Lewis Monument and Site: A Compilation of Critical 
+Dates and Developments 
+Other 
+Source Name: 
+SERO 
+Citation Location: 
+NPS 
+Citation Author: 
+Citation Title: 
+Mission 66 Prospectus Brief, Meriwether Lewis National Monument 
+1955 
+Year of Publication: 
+Other 
+Source Name: 
+Natchez Trace Parkway 
+Citation Location: 
+Cultural Landscapes Inventory 
+Page 61 of 61

@@ -1,0 +1,6316 @@
+{
+ "n_control_samples": 115,
+ "n_control_authors": 27,
+ "lengths": {
+  "beale_letters": 2717,
+  "beale_letter1": 2149,
+  "beale_b2": 154,
+  "narrative": 3946,
+  "morriss": 860,
+  "narrative_A": 1978,
+  "narrative_B": 1968,
+  "beale_letters_2000": 2000,
+  "narrative_2000": 1996
+ },
+ "methods": {
+  "burrows_delta_100mfw": {
+   "loo_nn_accuracy": 0.4956521739130435,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8739349072535716,
+   "same_sd": 0.1534422398489116,
+   "diff_mean": 1.0565812227681297,
+   "diff_sd": 0.15377497614668184,
+   "cross_genre_same_mean": 0.9759119273997771,
+   "cross_genre_diff_mean": 1.0759243225984088,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.773960978476082,
+     "z_vs_diff": -1.8378818932312093,
+     "pct_diff_pairs_closer": 0.017789672544080603,
+     "pct_same_pairs_closer": 0.2413793103448276,
+     "LR_same_vs_diff": 4.790111212971112
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.9570916656371905,
+     "z_vs_diff": -0.6469814505842536,
+     "pct_diff_pairs_closer": 0.2781801007556675,
+     "pct_same_pairs_closer": 0.729064039408867,
+     "LR_same_vs_diff": 0.8255066034577611
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.9417498243466261,
+     "z_vs_diff": -0.7467495772001875,
+     "pct_diff_pairs_closer": 0.24291561712846346,
+     "pct_same_pairs_closer": 0.7093596059113301,
+     "LR_same_vs_diff": 0.9414156676686026
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.941155316900397,
+     "z_vs_diff": -0.7506156642653681,
+     "pct_diff_pairs_closer": 0.24181360201511334,
+     "pct_same_pairs_closer": 0.7093596059113301,
+     "LR_same_vs_diff": 0.946314390355623
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.9070721275645339,
+     "z_vs_diff": -0.9722589393282237,
+     "pct_diff_pairs_closer": 0.17522040302267003,
+     "pct_same_pairs_closer": 0.625615763546798,
+     "LR_same_vs_diff": 1.258285770673644
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.8614601796848563,
+     "z_vs_diff": -1.2688738309226115,
+     "pct_diff_pairs_closer": 0.095088161209068,
+     "pct_same_pairs_closer": 0.4876847290640394,
+     "LR_same_vs_diff": 1.8401987018856965
+    },
+    "morriss|narrative": {
+     "distance": 0.8761357973128241,
+     "z_vs_diff": -1.1734381625472246,
+     "pct_diff_pairs_closer": 0.11870277078085642,
+     "pct_same_pairs_closer": 0.5270935960591133,
+     "LR_same_vs_diff": 1.6098343574011313
+    },
+    "morriss|beale_letters": {
+     "distance": 1.0439551122909487,
+     "z_vs_diff": -0.08210770564605567,
+     "pct_diff_pairs_closer": 0.49149874055415615,
+     "pct_same_pairs_closer": 0.8522167487684729,
+     "LR_same_vs_diff": 0.49918785838093266
+    },
+    "beale_b2|narrative": {
+     "distance": 1.531196528167918,
+     "z_vs_diff": 3.0864274363279076,
+     "pct_diff_pairs_closer": 0.997323677581864,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 6.494108796784675e-05
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.523349691082266,
+     "z_vs_diff": 3.035399386886578,
+     "pct_diff_pairs_closer": 0.9968513853904282,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.00010930233631914088
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.19411788544668587,
+    0.35512015421044746
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.773960978476082
+     ],
+     [
+      "jefferson_2",
+      0.8120340045137836
+     ],
+     [
+      "jackson_3",
+      0.8674291918334675
+     ],
+     [
+      "cooke_lee_1",
+      0.8862899498283661
+     ],
+     [
+      "davis_1",
+      0.8886117806349445
+     ]
+    ],
+    "narrative": [
+     [
+      "cooke_lee_1",
+      0.7265684454914445
+     ],
+     [
+      "jefferson_1",
+      0.7479748582679404
+     ],
+     [
+      "davis_1",
+      0.75756721779495
+     ],
+     [
+      "jefferson_2",
+      0.7576837915756771
+     ],
+     [
+      "cooke_2",
+      0.772287345947751
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.8761357973128241
+     ],
+     [
+      "narrative_A",
+      0.9412846800222535
+     ],
+     [
+      "narrative_2000",
+      0.9439538141852825
+     ],
+     [
+      "narrative_B",
+      0.9904288350178035
+     ],
+     [
+      "jackson_4",
+      1.0040098885364575
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "jefferson_2",
+      0.8331868924412784
+     ],
+     [
+      "narrative",
+      0.8336094648677138
+     ],
+     [
+      "pattie_1",
+      0.9004405293633008
+     ],
+     [
+      "shsp_4",
+      0.9213303957530148
+     ],
+     [
+      "davis_1",
+      0.9257615126320209
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.8143795151831971
+     ],
+     [
+      "randolph_4",
+      0.874840625277474
+     ],
+     [
+      "poe_goldbug_2",
+      0.9073925385751133
+     ],
+     [
+      "twain_letters_1",
+      0.9482347251147485
+     ],
+     [
+      "cable_4",
+      0.9707387693171912
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "pattie_4",
+      0.905998480315893
+     ],
+     [
+      "narrative",
+      0.9123765763483689
+     ],
+     [
+      "jefferson_1",
+      0.968221392781247
+     ],
+     [
+      "narrative_B",
+      0.9694922964147112
+     ],
+     [
+      "paulding_3",
+      0.9722593341886535
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.9241137222324655
+     ],
+     [
+      "jefferson",
+      0.9359479250637753
+     ],
+     [
+      "jackson",
+      0.9431782007594556
+     ],
+     [
+      "davis",
+      0.9820169786957389
+     ],
+     [
+      "paulding",
+      0.9937900828592469
+     ],
+     [
+      "flint",
+      0.9969729502246104
+     ],
+     [
+      "tjames",
+      1.0135322619482166
+     ],
+     [
+      "irving",
+      1.029105815424586
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.9780089807331183
+     ],
+     [
+      "jefferson",
+      0.9896275796347143
+     ],
+     [
+      "davis",
+      1.0131020335068415
+     ],
+     [
+      "irving",
+      1.0193867383629882
+     ],
+     [
+      "flint",
+      1.036080668288001
+     ],
+     [
+      "paulding",
+      1.0377340123103915
+     ],
+     [
+      "shsp",
+      1.0397433431091592
+     ],
+     [
+      "tjames",
+      1.0412498726226802
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.773960978476082
+     ],
+     [
+      "paulding",
+      0.8835194423806119
+     ],
+     [
+      "jqadams",
+      0.8869004127582376
+     ],
+     [
+      "davis",
+      0.8968934504191824
+     ],
+     [
+      "jefferson",
+      0.9014950500591115
+     ],
+     [
+      "jackson",
+      0.9093966490789009
+     ],
+     [
+      "hall",
+      0.9095418194035889
+     ],
+     [
+      "cabell",
+      0.9269198419982069
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.9658567575200285
+     ],
+     [
+      "jackson",
+      1.1149709124654321
+     ],
+     [
+      "jqadams",
+      1.1403865434024494
+     ],
+     [
+      "eggleston",
+      1.1485903168531242
+     ],
+     [
+      "paulding",
+      1.16145324555744
+     ],
+     [
+      "lee",
+      1.1651421797309593
+     ],
+     [
+      "irving",
+      1.1684687746780336
+     ],
+     [
+      "shsp",
+      1.1704934649156178
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7407407407407407,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 1.053089262977753,
+     "mean_dist_late": 1.1167007305567784
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 1.0905856633139788,
+     "mean_dist_late": 1.1419261826721867
+    },
+    "beale_letter1": {
+     "mean_dist_early": 1.069977411739026,
+     "mean_dist_late": 1.1260282287013488
+    },
+    "narrative": {
+     "mean_dist_early": 1.0018465627449913,
+     "mean_dist_late": 0.9919442145053934
+    },
+    "morriss": {
+     "mean_dist_early": 1.2200197441832843,
+     "mean_dist_late": 1.213095607913462
+    }
+   }
+  },
+  "cosine_delta_100mfw": {
+   "loo_nn_accuracy": 0.5826086956521739,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.7307916698482443,
+   "same_sd": 0.1898037870006488,
+   "diff_mean": 1.017193371816849,
+   "diff_sd": 0.15834381287334773,
+   "cross_genre_same_mean": 0.7624749368050332,
+   "cross_genre_diff_mean": 1.038709235139341,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6551886550970705,
+     "z_vs_diff": -2.286194263929531,
+     "pct_diff_pairs_closer": 0.020465994962216624,
+     "pct_same_pairs_closer": 0.35467980295566504,
+     "LR_same_vs_diff": 6.482321032130343
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.7408773939013948,
+     "z_vs_diff": -1.7450380466489543,
+     "pct_diff_pairs_closer": 0.05258186397984887,
+     "pct_same_pairs_closer": 0.5073891625615764,
+     "LR_same_vs_diff": 3.6188507397460095
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7452311795692149,
+     "z_vs_diff": -1.7175422728083782,
+     "pct_diff_pairs_closer": 0.05415617128463476,
+     "pct_same_pairs_closer": 0.5123152709359606,
+     "LR_same_vs_diff": 3.5096415475883522
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.746521617774262,
+     "z_vs_diff": -1.7093926761703384,
+     "pct_diff_pairs_closer": 0.05525818639798489,
+     "pct_same_pairs_closer": 0.5123152709359606,
+     "LR_same_vs_diff": 3.4764766963279956
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.6819294094396378,
+     "z_vs_diff": -2.117316466576274,
+     "pct_diff_pairs_closer": 0.026290931989924434,
+     "pct_same_pairs_closer": 0.3793103448275862,
+     "LR_same_vs_diff": 5.297477515523568
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.6214554675294627,
+     "z_vs_diff": -2.4992318746544258,
+     "pct_diff_pairs_closer": 0.012279596977329974,
+     "pct_same_pairs_closer": 0.2955665024630542,
+     "LR_same_vs_diff": 8.49922588515641
+    },
+    "morriss|narrative": {
+     "distance": 0.5841364464587884,
+     "z_vs_diff": -2.7349153560199033,
+     "pct_diff_pairs_closer": 0.0069269521410579345,
+     "pct_same_pairs_closer": 0.22660098522167488,
+     "LR_same_vs_diff": 13.56079527020373
+    },
+    "morriss|beale_letters": {
+     "distance": 0.767157708232398,
+     "z_vs_diff": -1.579068099013402,
+     "pct_diff_pairs_closer": 0.06470403022670025,
+     "pct_same_pairs_closer": 0.541871921182266,
+     "LR_same_vs_diff": 2.916861676477948
+    },
+    "beale_b2|narrative": {
+     "distance": 1.0986981149353015,
+     "z_vs_diff": 0.5147327302497409,
+     "pct_diff_pairs_closer": 0.6804156171284634,
+     "pct_same_pairs_closer": 0.9753694581280788,
+     "LR_same_vs_diff": 0.16958622351690333
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.9564958168795668,
+     "z_vs_diff": -0.3833276074123064,
+     "pct_diff_pairs_closer": 0.3284005037783375,
+     "pct_same_pairs_closer": 0.8817733990147784,
+     "LR_same_vs_diff": 0.49382027217264596
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.037399412788168766,
+    0.07133855820238716
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "jackson_2",
+      0.6440697707631162
+     ],
+     [
+      "narrative",
+      0.6551886550970705
+     ],
+     [
+      "jefferson_2",
+      0.6604376732483843
+     ],
+     [
+      "jefferson_4",
+      0.6633313841735125
+     ],
+     [
+      "narrative_B",
+      0.6819294094396378
+     ]
+    ],
+    "narrative": [
+     [
+      "morriss",
+      0.5841364464587884
+     ],
+     [
+      "beale_letters",
+      0.6551886550970705
+     ],
+     [
+      "poe_letters_1",
+      0.6737168748506535
+     ],
+     [
+      "cabell_2",
+      0.6807380219566013
+     ],
+     [
+      "cooke_lee_4",
+      0.6891995474169703
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.5841364464587884
+     ],
+     [
+      "narrative_A",
+      0.6132129817448033
+     ],
+     [
+      "narrative_2000",
+      0.6150465915169477
+     ],
+     [
+      "eggleston_3",
+      0.6880198207856983
+     ],
+     [
+      "narrative_B",
+      0.6949310806306164
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6991989946960331
+     ],
+     [
+      "jefferson_2",
+      0.701569303863782
+     ],
+     [
+      "jefferson_4",
+      0.7074148438183003
+     ],
+     [
+      "morriss",
+      0.74307297354989
+     ],
+     [
+      "narrative_A",
+      0.743723319300928
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.47616547633287953
+     ],
+     [
+      "cable_4",
+      0.6006762142448112
+     ],
+     [
+      "twain_letters_1",
+      0.6278637871307201
+     ],
+     [
+      "randolph_4",
+      0.650343942640329
+     ],
+     [
+      "twain_letters_4",
+      0.6605933011998342
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "pattie_4",
+      0.5888885324954525
+     ],
+     [
+      "twain_letters_4",
+      0.6374811300390238
+     ],
+     [
+      "lee_3",
+      0.6383544091628106
+     ],
+     [
+      "poe_goldbug_2",
+      0.6390788548084438
+     ],
+     [
+      "randolph_1",
+      0.6419009728202798
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.7142255136069499
+     ],
+     [
+      "jefferson",
+      0.7603216604701252
+     ],
+     [
+      "jackson",
+      0.7641921026924031
+     ],
+     [
+      "randolph",
+      0.8402798686980065
+     ],
+     [
+      "gregg",
+      0.8985072389933093
+     ],
+     [
+      "pattie",
+      0.9015418554380064
+     ],
+     [
+      "paulding",
+      0.9109329106938701
+     ],
+     [
+      "flint",
+      0.920113798920213
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7618639461873162
+     ],
+     [
+      "jefferson",
+      0.8133033590446221
+     ],
+     [
+      "pattie",
+      0.8295826902754829
+     ],
+     [
+      "jackson",
+      0.8721359615558685
+     ],
+     [
+      "flint",
+      0.8918405445740437
+     ],
+     [
+      "gregg",
+      0.8990206793048985
+     ],
+     [
+      "paulding",
+      0.9151209101315173
+     ],
+     [
+      "tjames",
+      0.9363589305507144
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6551886550970705
+     ],
+     [
+      "jackson",
+      0.8084116355086219
+     ],
+     [
+      "poe",
+      0.8091473698957173
+     ],
+     [
+      "lee",
+      0.8224113128536502
+     ],
+     [
+      "jqadams",
+      0.8357892965010858
+     ],
+     [
+      "eggleston",
+      0.8428168579231796
+     ],
+     [
+      "jefferson",
+      0.8789818752760608
+     ],
+     [
+      "cabell",
+      0.8844323565349641
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.6540720311877098
+     ],
+     [
+      "jackson",
+      0.8097633225962013
+     ],
+     [
+      "lee",
+      0.8486334967683994
+     ],
+     [
+      "eggleston",
+      0.8819059411765495
+     ],
+     [
+      "jqadams",
+      0.8918202188358039
+     ],
+     [
+      "randolph",
+      0.9465289643240202
+     ],
+     [
+      "cable",
+      0.9486457114878095
+     ],
+     [
+      "bagby",
+      0.9620756019695962
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7592592592592593,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9511218471343882,
+     "mean_dist_late": 1.0527116395368128
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9467429271901185,
+     "mean_dist_late": 1.0505201893369518
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9456710987121492,
+     "mean_dist_late": 1.0536602445623122
+    },
+    "narrative": {
+     "mean_dist_early": 1.0282752081645845,
+     "mean_dist_late": 0.9849022246698735
+    },
+    "morriss": {
+     "mean_dist_early": 1.0052458263135118,
+     "mean_dist_late": 0.9937853570129531
+    }
+   }
+  },
+  "burrows_delta_150mfw": {
+   "loo_nn_accuracy": 0.5565217391304348,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8707936127975543,
+   "same_sd": 0.13381340067409328,
+   "diff_mean": 1.033728329600881,
+   "diff_sd": 0.13366458324431651,
+   "cross_genre_same_mean": 0.9883841519372224,
+   "cross_genre_diff_mean": 1.051613658281027,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.7406056128725421,
+     "z_vs_diff": -2.192972211588462,
+     "pct_diff_pairs_closer": 0.0053526448362720405,
+     "pct_same_pairs_closer": 0.1625615763546798,
+     "LR_same_vs_diff": 11.00986201980773
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.8878908732857106,
+     "z_vs_diff": -1.0910702953272515,
+     "pct_diff_pairs_closer": 0.1413727959697733,
+     "pct_same_pairs_closer": 0.5763546798029556,
+     "LR_same_vs_diff": 1.5371583986274124
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.871477127523572,
+     "z_vs_diff": -1.213868312301853,
+     "pct_diff_pairs_closer": 0.10689546599496222,
+     "pct_same_pairs_closer": 0.4876847290640394,
+     "LR_same_vs_diff": 1.7502668362108862
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.8718328651027323,
+     "z_vs_diff": -1.2112068924213895,
+     "pct_diff_pairs_closer": 0.10799748110831234,
+     "pct_same_pairs_closer": 0.4876847290640394,
+     "LR_same_vs_diff": 1.745178137503573
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.864747951570335,
+     "z_vs_diff": -1.2642120592384454,
+     "pct_diff_pairs_closer": 0.09493073047858942,
+     "pct_same_pairs_closer": 0.4729064039408867,
+     "LR_same_vs_diff": 1.8526580263512085
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.7841705932365359,
+     "z_vs_diff": -1.867044585087998,
+     "pct_diff_pairs_closer": 0.014168765743073047,
+     "pct_same_pairs_closer": 0.23645320197044334,
+     "LR_same_vs_diff": 5.057373562052956
+    },
+    "morriss|narrative": {
+     "distance": 0.9082654493987821,
+     "z_vs_diff": -0.9386396692141985,
+     "pct_diff_pairs_closer": 0.18293450881612092,
+     "pct_same_pairs_closer": 0.6502463054187192,
+     "LR_same_vs_diff": 1.2947581658788578
+    },
+    "morriss|beale_letters": {
+     "distance": 1.0272856686875755,
+     "z_vs_diff": -0.048200209486527694,
+     "pct_diff_pairs_closer": 0.5045654911838791,
+     "pct_same_pairs_closer": 0.8817733990147784,
+     "LR_same_vs_diff": 0.4599818265044259
+    },
+    "beale_b2|narrative": {
+     "distance": 1.3436877401513572,
+     "z_vs_diff": 2.318934477833385,
+     "pct_diff_pairs_closer": 0.9826826196473551,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.04311417316894317
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.3511657673627526,
+     "z_vs_diff": 2.3748806905839,
+     "pct_diff_pairs_closer": 0.9842569269521411,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.03408513238780994
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.0853655183959317,
+    0.19986683238636363
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.7406056128725421
+     ],
+     [
+      "jefferson_2",
+      0.8348616116130321
+     ],
+     [
+      "narrative_B",
+      0.864747951570335
+     ],
+     [
+      "narrative_2000",
+      0.8711761417121451
+     ],
+     [
+      "narrative_A",
+      0.8718328651027323
+     ]
+    ],
+    "narrative": [
+     [
+      "jefferson_1",
+      0.7277958494363536
+     ],
+     [
+      "cooke_lee_1",
+      0.7402240069238614
+     ],
+     [
+      "beale_letters",
+      0.7406056128725421
+     ],
+     [
+      "jefferson_2",
+      0.7570751659383244
+     ],
+     [
+      "cabell_1",
+      0.7595980301892987
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.9082654493987821
+     ],
+     [
+      "narrative_A",
+      0.9665765698034202
+     ],
+     [
+      "narrative_2000",
+      0.9682558910630454
+     ],
+     [
+      "narrative_B",
+      0.9805042377762447
+     ],
+     [
+      "beale_letter1",
+      1.0204264286970677
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.7955217430732054
+     ],
+     [
+      "jefferson_2",
+      0.8546990499709877
+     ],
+     [
+      "ejames_2",
+      0.8662885661817495
+     ],
+     [
+      "narrative_A",
+      0.8700460552835928
+     ],
+     [
+      "narrative_2000",
+      0.871477127523572
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "poe_goldbug_2",
+      0.8817835868558799
+     ],
+     [
+      "bagby_4",
+      0.8892261711576464
+     ],
+     [
+      "cable_4",
+      0.8937180782405638
+     ],
+     [
+      "randolph_4",
+      0.9252632049658466
+     ],
+     [
+      "twain_letters_1",
+      0.9317762156153543
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "narrative",
+      0.9174288619277555
+     ],
+     [
+      "lee_3",
+      0.9501870483366679
+     ],
+     [
+      "pattie_4",
+      0.9593813831423561
+     ],
+     [
+      "jefferson_1",
+      0.9817926454909415
+     ],
+     [
+      "narrative_B",
+      0.9931774605780018
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.8682904083365337
+     ],
+     [
+      "jackson",
+      0.919040291530691
+     ],
+     [
+      "jefferson",
+      0.9291766935539385
+     ],
+     [
+      "tjames",
+      0.9448439356671064
+     ],
+     [
+      "davis",
+      0.9756944613950819
+     ],
+     [
+      "shsp",
+      0.9798798419246728
+     ],
+     [
+      "flint",
+      0.9824479669267845
+     ],
+     [
+      "gregg",
+      0.9845986366062696
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.9172393484269533
+     ],
+     [
+      "tjames",
+      0.9597264865850303
+     ],
+     [
+      "jefferson",
+      0.9721455307070606
+     ],
+     [
+      "irving",
+      0.9786659100013878
+     ],
+     [
+      "davis",
+      0.9850537678127411
+     ],
+     [
+      "shsp",
+      0.9866694413043586
+     ],
+     [
+      "gregg",
+      0.9904393426164484
+     ],
+     [
+      "jackson",
+      0.9950627887861183
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.7406056128725421
+     ],
+     [
+      "cabell",
+      0.8247551534236536
+     ],
+     [
+      "jqadams",
+      0.8520184000322583
+     ],
+     [
+      "jefferson",
+      0.8594642897108322
+     ],
+     [
+      "jackson",
+      0.8731195414970582
+     ],
+     [
+      "hall",
+      0.8919771547764973
+     ],
+     [
+      "davis",
+      0.8943573941746055
+     ],
+     [
+      "eggleston",
+      0.8977260403235003
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.9735404037898325
+     ],
+     [
+      "jackson",
+      1.1429067405168447
+     ],
+     [
+      "jqadams",
+      1.1592066631612425
+     ],
+     [
+      "cabell",
+      1.1801283399235967
+     ],
+     [
+      "eggleston",
+      1.1858084136051383
+     ],
+     [
+      "shsp",
+      1.1867655486629816
+     ],
+     [
+      "cooke",
+      1.1931054565313017
+     ],
+     [
+      "tjames",
+      1.2014543483531717
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7314814814814815,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 1.0051006802924511,
+     "mean_dist_late": 1.063654243751844
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 1.028828757444891,
+     "mean_dist_late": 1.0825527183013244
+    },
+    "beale_letter1": {
+     "mean_dist_early": 1.007515409934878,
+     "mean_dist_late": 1.0636671970761031
+    },
+    "narrative": {
+     "mean_dist_early": 0.9631980631189274,
+     "mean_dist_late": 0.9473168147452528
+    },
+    "morriss": {
+     "mean_dist_early": 1.2383622893191573,
+     "mean_dist_late": 1.2318588816130804
+    }
+   }
+  },
+  "cosine_delta_150mfw": {
+   "loo_nn_accuracy": 0.591304347826087,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.7581179538813094,
+   "same_sd": 0.16773980806492333,
+   "diff_mean": 1.0164078898857682,
+   "diff_sd": 0.13697123625213142,
+   "cross_genre_same_mean": 0.8165912245342941,
+   "cross_genre_diff_mean": 1.0350921059140128,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6730068780319434,
+     "z_vs_diff": -2.507103106098169,
+     "pct_diff_pairs_closer": 0.013853904282115869,
+     "pct_same_pairs_closer": 0.32019704433497537,
+     "LR_same_vs_diff": 8.953733207898315
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.746876441912735,
+     "z_vs_diff": -1.9677959792732695,
+     "pct_diff_pairs_closer": 0.036838790931989926,
+     "pct_same_pairs_closer": 0.458128078817734,
+     "LR_same_vs_diff": 4.890687478027338
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7446496309980708,
+     "z_vs_diff": -1.98405348687556,
+     "pct_diff_pairs_closer": 0.03620906801007557,
+     "pct_same_pairs_closer": 0.458128078817734,
+     "LR_same_vs_diff": 4.994601870305027
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.7227445119280069,
+     "z_vs_diff": -2.1439784438916574,
+     "pct_diff_pairs_closer": 0.028180100755667507,
+     "pct_same_pairs_closer": 0.4088669950738916,
+     "LR_same_vs_diff": 5.92094739551598
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.7329995000956904,
+     "z_vs_diff": -2.06910879645118,
+     "pct_diff_pairs_closer": 0.0313287153652393,
+     "pct_same_pairs_closer": 0.41379310344827586,
+     "LR_same_vs_diff": 5.509453979150678
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.6151235932325593,
+     "z_vs_diff": -2.9296975601106507,
+     "pct_diff_pairs_closer": 0.006612090680100755,
+     "pct_same_pairs_closer": 0.2019704433497537,
+     "LR_same_vs_diff": 17.61574739466958
+    },
+    "morriss|narrative": {
+     "distance": 0.6200149061686573,
+     "z_vs_diff": -2.893987048400774,
+     "pct_diff_pairs_closer": 0.006769521410579345,
+     "pct_same_pairs_closer": 0.21182266009852216,
+     "LR_same_vs_diff": 17.01434765713033
+    },
+    "morriss|beale_letters": {
+     "distance": 0.7489637688038278,
+     "z_vs_diff": -1.9525568170359473,
+     "pct_diff_pairs_closer": 0.037311083123425695,
+     "pct_same_pairs_closer": 0.4729064039408867,
+     "LR_same_vs_diff": 4.79233332224472
+    },
+    "beale_b2|narrative": {
+     "distance": 1.0784503830326364,
+     "z_vs_diff": 0.4529600144125348,
+     "pct_diff_pairs_closer": 0.6580604534005038,
+     "pct_same_pairs_closer": 0.9753694581280788,
+     "LR_same_vs_diff": 0.16264635033731467
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.9739481616360168,
+     "z_vs_diff": -0.3099901074966803,
+     "pct_diff_pairs_closer": 0.35232997481108314,
+     "pct_same_pairs_closer": 0.896551724137931,
+     "LR_same_vs_diff": 0.46393484387504563
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.022586472602739726,
+    0.055085230560055536
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6730068780319434
+     ],
+     [
+      "narrative_A",
+      0.7227445119280069
+     ],
+     [
+      "narrative_2000",
+      0.7239884451326711
+     ],
+     [
+      "jackson_2",
+      0.7277167841067739
+     ],
+     [
+      "narrative_B",
+      0.7329995000956904
+     ]
+    ],
+    "narrative": [
+     [
+      "morriss",
+      0.6200149061686573
+     ],
+     [
+      "poe_letters_1",
+      0.6503121592000116
+     ],
+     [
+      "cabell_2",
+      0.6578180652845429
+     ],
+     [
+      "beale_letters",
+      0.6730068780319434
+     ],
+     [
+      "eggleston_3",
+      0.7227042121388418
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.6200149061686573
+     ],
+     [
+      "narrative_A",
+      0.6617307434185511
+     ],
+     [
+      "narrative_2000",
+      0.6635378428147374
+     ],
+     [
+      "narrative_B",
+      0.7056493539647446
+     ],
+     [
+      "eggleston_3",
+      0.7473926986704436
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.7298607667946251
+     ],
+     [
+      "narrative_A",
+      0.7436510326484487
+     ],
+     [
+      "narrative_2000",
+      0.7446496309980708
+     ],
+     [
+      "morriss",
+      0.7748966681533893
+     ],
+     [
+      "poe_goldbug_2",
+      0.7826973762527609
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.5886948088333288
+     ],
+     [
+      "cable_4",
+      0.6072573880190957
+     ],
+     [
+      "twain_letters_1",
+      0.6578264464089332
+     ],
+     [
+      "poe_letters_1",
+      0.6783136395764714
+     ],
+     [
+      "twain_letters_4",
+      0.6784109673355595
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "lee_3",
+      0.5757967546387872
+     ],
+     [
+      "twain_letters_4",
+      0.582059644123066
+     ],
+     [
+      "pattie_4",
+      0.6377527862521486
+     ],
+     [
+      "narrative",
+      0.6503121592000116
+     ],
+     [
+      "randolph_1",
+      0.6630492286489174
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.7278720060118486
+     ],
+     [
+      "jackson",
+      0.8240860744673371
+     ],
+     [
+      "jefferson",
+      0.8470121619912214
+     ],
+     [
+      "gregg",
+      0.8981674430129932
+     ],
+     [
+      "randolph",
+      0.9086108021845432
+     ],
+     [
+      "tjames",
+      0.9225141348902262
+     ],
+     [
+      "flint",
+      0.9349762688781046
+     ],
+     [
+      "poe",
+      0.9352901082870758
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7890844704807574
+     ],
+     [
+      "jefferson",
+      0.8847737808982732
+     ],
+     [
+      "tjames",
+      0.8874365601300499
+     ],
+     [
+      "gregg",
+      0.889172350974184
+     ],
+     [
+      "pattie",
+      0.8893401937136504
+     ],
+     [
+      "flint",
+      0.9108267118582547
+     ],
+     [
+      "jackson",
+      0.9196044048268371
+     ],
+     [
+      "ejames",
+      0.9297510718515413
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6730068780319434
+     ],
+     [
+      "cabell",
+      0.7927705635385329
+     ],
+     [
+      "lee",
+      0.8387254520033242
+     ],
+     [
+      "jackson",
+      0.8390737076544779
+     ],
+     [
+      "poe",
+      0.8394363309029288
+     ],
+     [
+      "jqadams",
+      0.8621325308063685
+     ],
+     [
+      "eggleston",
+      0.8623784130692911
+     ],
+     [
+      "jefferson",
+      0.8755650721571053
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.6836900486916478
+     ],
+     [
+      "jackson",
+      0.8644568825506572
+     ],
+     [
+      "eggleston",
+      0.9061246277658088
+     ],
+     [
+      "randolph",
+      0.9077383407470052
+     ],
+     [
+      "jqadams",
+      0.9170388024784184
+     ],
+     [
+      "lee",
+      0.9192317050071543
+     ],
+     [
+      "page",
+      0.9253336162349725
+     ],
+     [
+      "cabell",
+      0.9426622182120967
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7314814814814815,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9530612839217617,
+     "mean_dist_late": 1.0466075418634548
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9491109858831944,
+     "mean_dist_late": 1.046346419038388
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9488237463631115,
+     "mean_dist_late": 1.04754844334519
+    },
+    "narrative": {
+     "mean_dist_early": 1.0288521656295664,
+     "mean_dist_late": 0.9784940358486894
+    },
+    "morriss": {
+     "mean_dist_early": 1.0028975098100397,
+     "mean_dist_late": 0.9960123508392126
+    }
+   }
+  },
+  "burrows_delta_200mfw": {
+   "loo_nn_accuracy": 0.6,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8539049547065738,
+   "same_sd": 0.11465359186903722,
+   "diff_mean": 1.0063253894817887,
+   "diff_sd": 0.1176602453802097,
+   "cross_genre_same_mean": 0.9562006616413908,
+   "cross_genre_diff_mean": 1.0169960996278111,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6830663211496134,
+     "z_vs_diff": -2.7473941371411343,
+     "pct_diff_pairs_closer": 0.00047229219143576825,
+     "pct_same_pairs_closer": 0.07389162561576355,
+     "LR_same_vs_diff": 94.01258627164532
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.8279052740476,
+     "z_vs_diff": -1.5164010142732443,
+     "pct_diff_pairs_closer": 0.052739294710327456,
+     "pct_same_pairs_closer": 0.4236453201970443,
+     "LR_same_vs_diff": 2.7052504462738947
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.8160101571910771,
+     "z_vs_diff": -1.6174981760043352,
+     "pct_diff_pairs_closer": 0.03809823677581864,
+     "pct_same_pairs_closer": 0.3793103448275862,
+     "LR_same_vs_diff": 3.2267117599968516
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.8108127811433928,
+     "z_vs_diff": -1.6616709212751726,
+     "pct_diff_pairs_closer": 0.033847607052896724,
+     "pct_same_pairs_closer": 0.3694581280788177,
+     "LR_same_vs_diff": 3.517858861980742
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.8043814344657771,
+     "z_vs_diff": -1.716331241392926,
+     "pct_diff_pairs_closer": 0.02644836272040302,
+     "pct_same_pairs_closer": 0.3497536945812808,
+     "LR_same_vs_diff": 3.9434454409447928
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.7501403563631066,
+     "z_vs_diff": -2.177328734024314,
+     "pct_diff_pairs_closer": 0.0051952141057934505,
+     "pct_same_pairs_closer": 0.16748768472906403,
+     "LR_same_vs_diff": 10.213126657561961
+    },
+    "morriss|narrative": {
+     "distance": 0.9096282904304066,
+     "z_vs_diff": -0.8218332261581911,
+     "pct_diff_pairs_closer": 0.21237405541561713,
+     "pct_same_pairs_closer": 0.6995073891625616,
+     "LR_same_vs_diff": 1.1238297859919824
+    },
+    "morriss|beale_letters": {
+     "distance": 1.0131969655330861,
+     "z_vs_diff": 0.05840185042188593,
+     "pct_diff_pairs_closer": 0.5511649874055415,
+     "pct_same_pairs_closer": 0.9064039408866995,
+     "LR_same_vs_diff": 0.34356833955306354
+    },
+    "beale_b2|narrative": {
+     "distance": 1.3660046259860676,
+     "z_vs_diff": 3.05693087195258,
+     "pct_diff_pairs_closer": 0.9971662468513854,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 4.1469737652045573e-07
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.376631952570924,
+     "z_vs_diff": 3.14725302409934,
+     "pct_diff_pairs_closer": 0.9974811083123426,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 1.0719239521452913e-07
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.026122081719421413,
+    0.07633269190763468
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6830663211496134
+     ],
+     [
+      "jefferson_2",
+      0.7903608960551546
+     ],
+     [
+      "narrative_B",
+      0.8043814344657771
+     ],
+     [
+      "narrative_2000",
+      0.8055855558679795
+     ],
+     [
+      "narrative_A",
+      0.8108127811433928
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.6830663211496134
+     ],
+     [
+      "jefferson_1",
+      0.7295604232504432
+     ],
+     [
+      "beale_letter1",
+      0.7446528367150443
+     ],
+     [
+      "pollock_3",
+      0.7603377687986529
+     ],
+     [
+      "jackson_3",
+      0.7659162396110417
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.9096282904304066
+     ],
+     [
+      "narrative_2000",
+      0.94162968840794
+     ],
+     [
+      "narrative_A",
+      0.9444162909564756
+     ],
+     [
+      "narrative_B",
+      0.9894015715186053
+     ],
+     [
+      "beale_letter1",
+      1.0082812725290833
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.7446528367150443
+     ],
+     [
+      "narrative_2000",
+      0.8160101571910771
+     ],
+     [
+      "narrative_A",
+      0.8196715357435658
+     ],
+     [
+      "jefferson_2",
+      0.8211762271189437
+     ],
+     [
+      "ejames_2",
+      0.8215479463791385
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "cable_4",
+      0.8082149763945402
+     ],
+     [
+      "poe_goldbug_2",
+      0.8084699213780407
+     ],
+     [
+      "bagby_4",
+      0.848571752030361
+     ],
+     [
+      "twain_letters_4",
+      0.8691079360265843
+     ],
+     [
+      "twain_letters_1",
+      0.8894665978137656
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "narrative",
+      0.9031472022443563
+     ],
+     [
+      "jefferson_1",
+      0.9595819820228467
+     ],
+     [
+      "narrative_B",
+      0.9734996239214808
+     ],
+     [
+      "randolph_1",
+      0.9783367525919258
+     ],
+     [
+      "lee_3",
+      0.9814599980406118
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.8075971078045849
+     ],
+     [
+      "jackson",
+      0.8896800057696388
+     ],
+     [
+      "jefferson",
+      0.8940306006014809
+     ],
+     [
+      "davis",
+      0.9028830776617996
+     ],
+     [
+      "tjames",
+      0.9181246361983786
+     ],
+     [
+      "gregg",
+      0.9401609422187847
+     ],
+     [
+      "hall",
+      0.9417079018510068
+     ],
+     [
+      "flint",
+      0.9450894232573886
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.8587810738492088
+     ],
+     [
+      "davis",
+      0.9278818547922894
+     ],
+     [
+      "tjames",
+      0.9343189444824352
+     ],
+     [
+      "jefferson",
+      0.9390538741020459
+     ],
+     [
+      "irving",
+      0.9432313369122459
+     ],
+     [
+      "gregg",
+      0.9545165595944154
+     ],
+     [
+      "jackson",
+      0.962775801066978
+     ],
+     [
+      "hall",
+      0.9643700741098067
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6830663211496134
+     ],
+     [
+      "jackson",
+      0.8400562244053699
+     ],
+     [
+      "jefferson",
+      0.8404758326652584
+     ],
+     [
+      "davis",
+      0.8420248292171247
+     ],
+     [
+      "jqadams",
+      0.848128742708042
+     ],
+     [
+      "cabell",
+      0.8585801300076147
+     ],
+     [
+      "paulding",
+      0.8655917527878646
+     ],
+     [
+      "eggleston",
+      0.8760293643321317
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.9669089312375405
+     ],
+     [
+      "jackson",
+      1.1599429612632806
+     ],
+     [
+      "jqadams",
+      1.1829825393049447
+     ],
+     [
+      "eggleston",
+      1.1929403117401334
+     ],
+     [
+      "cooke",
+      1.2007602056344675
+     ],
+     [
+      "davis",
+      1.2062405785131052
+     ],
+     [
+      "flint",
+      1.2065389425311146
+     ],
+     [
+      "tjames",
+      1.2174122280963315
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7222222222222222,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9649008256776627,
+     "mean_dist_late": 1.0225780248650669
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.993916452518615,
+     "mean_dist_late": 1.0499625138216049
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9731115820229264,
+     "mean_dist_late": 1.0300833375893184
+    },
+    "narrative": {
+     "mean_dist_early": 0.9251271456968949,
+     "mean_dist_late": 0.9290505552853094
+    },
+    "morriss": {
+     "mean_dist_early": 1.2402588325768609,
+     "mean_dist_late": 1.2466992876523701
+    }
+   }
+  },
+  "cosine_delta_200mfw": {
+   "loo_nn_accuracy": 0.6260869565217392,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.771205149226283,
+   "same_sd": 0.157499899417,
+   "diff_mean": 1.0160555792020558,
+   "diff_sd": 0.11985445436555933,
+   "cross_genre_same_mean": 0.8240103864678925,
+   "cross_genre_diff_mean": 1.0307856591100963,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6112895412515765,
+     "z_vs_diff": -3.377146390537409,
+     "pct_diff_pairs_closer": 0.002991183879093199,
+     "pct_same_pairs_closer": 0.15270935960591134,
+     "LR_same_vs_diff": 24.87815832739184
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.6914862712466436,
+     "z_vs_diff": -2.708028747646433,
+     "pct_diff_pairs_closer": 0.010390428211586901,
+     "pct_same_pairs_closer": 0.3103448275862069,
+     "LR_same_vs_diff": 13.112147053127433
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.6937026439580298,
+     "z_vs_diff": -2.6895365462249803,
+     "pct_diff_pairs_closer": 0.01086272040302267,
+     "pct_same_pairs_closer": 0.31527093596059114,
+     "LR_same_vs_diff": 12.762176561481425
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.6735127363022204,
+     "z_vs_diff": -2.8579900906733964,
+     "pct_diff_pairs_closer": 0.00818639798488665,
+     "pct_same_pairs_closer": 0.2660098522167488,
+     "LR_same_vs_diff": 15.661586251677683
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.6753262043627365,
+     "z_vs_diff": -2.842859505246968,
+     "pct_diff_pairs_closer": 0.00850125944584383,
+     "pct_same_pairs_closer": 0.2660098522167488,
+     "LR_same_vs_diff": 15.42659498878062
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.5970742266322656,
+     "z_vs_diff": -3.4957511991326222,
+     "pct_diff_pairs_closer": 0.0025188916876574307,
+     "pct_same_pairs_closer": 0.14285714285714285,
+     "LR_same_vs_diff": 26.19095962655003
+    },
+    "morriss|narrative": {
+     "distance": 0.5443511247900037,
+     "z_vs_diff": -3.9356439183590184,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.09852216748768473,
+     "LR_same_vs_diff": 79.93558085865865
+    },
+    "morriss|beale_letters": {
+     "distance": 0.6662806628431905,
+     "z_vs_diff": -2.91833055525865,
+     "pct_diff_pairs_closer": 0.0069269521410579345,
+     "pct_same_pairs_closer": 0.24630541871921183,
+     "LR_same_vs_diff": 16.554333765968625
+    },
+    "beale_b2|narrative": {
+     "distance": 1.0994448712711495,
+     "z_vs_diff": 0.6957546343230109,
+     "pct_diff_pairs_closer": 0.7496851385390428,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.12959500837767107
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.0189179083952151,
+     "z_vs_diff": 0.023881708930309234,
+     "pct_diff_pairs_closer": 0.4782745591939547,
+     "pct_same_pairs_closer": 0.9408866995073891,
+     "LR_same_vs_diff": 0.26029840245754887
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.003778346932396561,
+    0.0190232341731048
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6112895412515765
+     ],
+     [
+      "morriss",
+      0.6662806628431905
+     ],
+     [
+      "narrative_2000",
+      0.6689516816747014
+     ],
+     [
+      "narrative_A",
+      0.6735127363022204
+     ],
+     [
+      "narrative_B",
+      0.6753262043627365
+     ]
+    ],
+    "narrative": [
+     [
+      "morriss",
+      0.5443511247900037
+     ],
+     [
+      "beale_letters",
+      0.6112895412515765
+     ],
+     [
+      "beale_letter1",
+      0.6715800333990062
+     ],
+     [
+      "beale_letters_2000",
+      0.6806442442595777
+     ],
+     [
+      "poe_letters_1",
+      0.7096944139061925
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.5443511247900037
+     ],
+     [
+      "narrative_2000",
+      0.5863457160281539
+     ],
+     [
+      "narrative_A",
+      0.5998408188316308
+     ],
+     [
+      "narrative_B",
+      0.6364303927980685
+     ],
+     [
+      "beale_letters_2000",
+      0.6525343391793117
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "morriss",
+      0.6697146983655695
+     ],
+     [
+      "narrative",
+      0.6715800333990062
+     ],
+     [
+      "narrative_2000",
+      0.6937026439580298
+     ],
+     [
+      "narrative_A",
+      0.7007451274009375
+     ],
+     [
+      "narrative_B",
+      0.7485096785451726
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.630056685509889
+     ],
+     [
+      "cable_4",
+      0.6362344160407818
+     ],
+     [
+      "twain_letters_4",
+      0.6863769525203166
+     ],
+     [
+      "twain_letters_1",
+      0.6903234518563734
+     ],
+     [
+      "randolph_2",
+      0.708972033411374
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "twain_letters_4",
+      0.6525417675943994
+     ],
+     [
+      "lee_3",
+      0.6932013427544601
+     ],
+     [
+      "randolph_1",
+      0.6972898368582601
+     ],
+     [
+      "lee_1",
+      0.7016311344242162
+     ],
+     [
+      "randolph_2",
+      0.7048538998167032
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.6744194703324784
+     ],
+     [
+      "jefferson",
+      0.8630644871772084
+     ],
+     [
+      "jackson",
+      0.8685250551161792
+     ],
+     [
+      "randolph",
+      0.894191202204597
+     ],
+     [
+      "gregg",
+      0.8979600234192502
+     ],
+     [
+      "poe",
+      0.9139743556134651
+     ],
+     [
+      "tjames",
+      0.9367482827305105
+     ],
+     [
+      "pattie",
+      0.9384976090700707
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7321071475395619
+     ],
+     [
+      "jefferson",
+      0.8904646736716564
+     ],
+     [
+      "gregg",
+      0.8933451772950725
+     ],
+     [
+      "pattie",
+      0.8950275639682099
+     ],
+     [
+      "tjames",
+      0.9011339661478005
+     ],
+     [
+      "ejames",
+      0.9275329213782036
+     ],
+     [
+      "poe",
+      0.9351861332462895
+     ],
+     [
+      "irving",
+      0.9505421288204745
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6112895412515765
+     ],
+     [
+      "poe",
+      0.8490957173997193
+     ],
+     [
+      "lee",
+      0.8577067163198463
+     ],
+     [
+      "cabell",
+      0.8590639227209061
+     ],
+     [
+      "jackson",
+      0.874314928362088
+     ],
+     [
+      "eggleston",
+      0.8926829386536227
+     ],
+     [
+      "jqadams",
+      0.9026266134209626
+     ],
+     [
+      "jefferson",
+      0.9139663438597293
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.6181356058148496
+     ],
+     [
+      "randolph",
+      0.8845914478467132
+     ],
+     [
+      "jackson",
+      0.918508552844254
+     ],
+     [
+      "eggleston",
+      0.9204281536128873
+     ],
+     [
+      "poe",
+      0.9407883454859309
+     ],
+     [
+      "lee",
+      0.9425960210437356
+     ],
+     [
+      "jqadams",
+      0.9459008705098634
+     ],
+     [
+      "pattie",
+      0.9477777168609735
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7870370370370371,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9562890604936543,
+     "mean_dist_late": 1.0443173482555737
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9535676864287765,
+     "mean_dist_late": 1.0442266508435196
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9534312898770734,
+     "mean_dist_late": 1.0446938317730143
+    },
+    "narrative": {
+     "mean_dist_early": 1.0141082001505752,
+     "mean_dist_late": 0.9905619944321783
+    },
+    "morriss": {
+     "mean_dist_early": 0.9982059748812497,
+     "mean_dist_late": 1.0025393175483968
+    }
+   }
+  },
+  "burrows_delta_300mfw": {
+   "loo_nn_accuracy": 0.6869565217391305,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8205942594116119,
+   "same_sd": 0.10114729470272645,
+   "diff_mean": 0.9577360696418137,
+   "diff_sd": 0.10445027252462116,
+   "cross_genre_same_mean": 0.9258836522741795,
+   "cross_genre_diff_mean": 0.9640829803843034,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6384198965110469,
+     "z_vs_diff": -3.057111919506932,
+     "pct_diff_pairs_closer": 0.00031486146095717883,
+     "pct_same_pairs_closer": 0.03940886699507389,
+     "LR_same_vs_diff": 284.0806505828443
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.7993166125953418,
+     "z_vs_diff": -1.5166974026719653,
+     "pct_diff_pairs_closer": 0.04927581863979849,
+     "pct_same_pairs_closer": 0.43349753694581283,
+     "LR_same_vs_diff": 2.7010476236418537
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7853810268444128,
+     "z_vs_diff": -1.6501157788436895,
+     "pct_diff_pairs_closer": 0.033690176322418136,
+     "pct_same_pairs_closer": 0.35467980295566504,
+     "LR_same_vs_diff": 3.4414229599503106
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.7848190304993524,
+     "z_vs_diff": -1.6554962946765028,
+     "pct_diff_pairs_closer": 0.03321788413098237,
+     "pct_same_pairs_closer": 0.35467980295566504,
+     "LR_same_vs_diff": 3.476522473740208
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.7090753004723573,
+     "z_vs_diff": -2.3806617556774845,
+     "pct_diff_pairs_closer": 0.0015743073047858943,
+     "pct_same_pairs_closer": 0.14285714285714285,
+     "LR_same_vs_diff": 19.959088787407637
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.7406060142299243,
+     "z_vs_diff": -2.078788787848372,
+     "pct_diff_pairs_closer": 0.007241813602015114,
+     "pct_same_pairs_closer": 0.21182266009852216,
+     "LR_same_vs_diff": 9.13396084592983
+    },
+    "morriss|narrative": {
+     "distance": 0.8619890334140243,
+     "z_vs_diff": -0.9166757913936484,
+     "pct_diff_pairs_closer": 0.18403652392947104,
+     "pct_same_pairs_closer": 0.6403940886699507,
+     "LR_same_vs_diff": 1.2003987095845872
+    },
+    "morriss|beale_letters": {
+     "distance": 0.9608380385759319,
+     "z_vs_diff": 0.029698045386975718,
+     "pct_diff_pairs_closer": 0.541404282115869,
+     "pct_same_pairs_closer": 0.9064039408866995,
+     "LR_same_vs_diff": 0.37990806116899223
+    },
+    "beale_b2|narrative": {
+     "distance": 1.1963276697684337,
+     "z_vs_diff": 2.2842601973142664,
+     "pct_diff_pairs_closer": 0.9814231738035264,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.0007769479940407078
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.224968311257027,
+     "z_vs_diff": 2.558463804412009,
+     "pct_diff_pairs_closer": 0.9889798488664987,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 4.55492834673936e-05
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.02321716937071709,
+    0.07316421822026005
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6384198965110469
+     ],
+     [
+      "narrative_B",
+      0.7090753004723573
+     ],
+     [
+      "jefferson_2",
+      0.7327960719623577
+     ],
+     [
+      "narrative_2000",
+      0.7799817364270712
+     ],
+     [
+      "narrative_A",
+      0.7848190304993524
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.6384198965110469
+     ],
+     [
+      "beale_letter1",
+      0.6810797881695108
+     ],
+     [
+      "beale_letters_2000",
+      0.70214016445164
+     ],
+     [
+      "jackson_3",
+      0.7324717716251894
+     ],
+     [
+      "pollock_3",
+      0.7357517453484372
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.8619890334140243
+     ],
+     [
+      "narrative_2000",
+      0.9127353789707676
+     ],
+     [
+      "narrative_A",
+      0.9152436985484546
+     ],
+     [
+      "narrative_B",
+      0.922021231936526
+     ],
+     [
+      "beale_letters",
+      0.9608380385759319
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6810797881695108
+     ],
+     [
+      "narrative_B",
+      0.7496854565862876
+     ],
+     [
+      "jefferson_2",
+      0.7550149660457472
+     ],
+     [
+      "gregg_1",
+      0.7782898733405451
+     ],
+     [
+      "narrative_2000",
+      0.7853810268444128
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "poe_goldbug_2",
+      0.7878396590514581
+     ],
+     [
+      "bagby_4",
+      0.7930890777928613
+     ],
+     [
+      "cable_4",
+      0.798948513098404
+     ],
+     [
+      "cable_1",
+      0.8130951319964037
+     ],
+     [
+      "bagby_2",
+      0.8226600883670959
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "narrative",
+      0.8348709685578041
+     ],
+     [
+      "pattie_4",
+      0.8756646984974809
+     ],
+     [
+      "jackson_3",
+      0.8793931329562839
+     ],
+     [
+      "narrative_B",
+      0.8834014317852756
+     ],
+     [
+      "jefferson_2",
+      0.8943250189746978
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.7469471654858548
+     ],
+     [
+      "jefferson",
+      0.8356717198447167
+     ],
+     [
+      "jackson",
+      0.841340293052506
+     ],
+     [
+      "davis",
+      0.8720270693869907
+     ],
+     [
+      "paulding",
+      0.8784155089059689
+     ],
+     [
+      "gregg",
+      0.8799120035596075
+     ],
+     [
+      "hall",
+      0.8884309726648496
+     ],
+     [
+      "shsp",
+      0.8908056013649277
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7880253064075905
+     ],
+     [
+      "jefferson",
+      0.8627331061630436
+     ],
+     [
+      "davis",
+      0.8859676967498684
+     ],
+     [
+      "gregg",
+      0.8877208456481728
+     ],
+     [
+      "shsp",
+      0.8956222537029361
+     ],
+     [
+      "hall",
+      0.8964959555248584
+     ],
+     [
+      "jackson",
+      0.9065841385915242
+     ],
+     [
+      "flint",
+      0.9089194425248857
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6384198965110469
+     ],
+     [
+      "jefferson",
+      0.7915589019918825
+     ],
+     [
+      "jackson",
+      0.7997236384801776
+     ],
+     [
+      "jqadams",
+      0.8003059062172567
+     ],
+     [
+      "paulding",
+      0.8153540598875388
+     ],
+     [
+      "cabell",
+      0.8184593440879884
+     ],
+     [
+      "hall",
+      0.8273363944947404
+     ],
+     [
+      "davis",
+      0.8280914301417458
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.9186324652424902
+     ],
+     [
+      "jackson",
+      1.0820909454255199
+     ],
+     [
+      "jqadams",
+      1.1137857201024217
+     ],
+     [
+      "flint",
+      1.1227691335896193
+     ],
+     [
+      "eggleston",
+      1.1357909169741776
+     ],
+     [
+      "paulding",
+      1.1473674312318836
+     ],
+     [
+      "jefferson",
+      1.1477849570525207
+     ],
+     [
+      "hall",
+      1.1486413717164397
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7685185185185185,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9191489902454139,
+     "mean_dist_late": 0.961372971814671
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9349204469274062,
+     "mean_dist_late": 0.9742010381714933
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9181307439601906,
+     "mean_dist_late": 0.9605040029175038
+    },
+    "narrative": {
+     "mean_dist_early": 0.8822495142118711,
+     "mean_dist_late": 0.8888702863759494
+    },
+    "morriss": {
+     "mean_dist_early": 1.1735654203354728,
+     "mean_dist_late": 1.188314871611384
+    }
+   }
+  },
+  "cosine_delta_300mfw": {
+   "loo_nn_accuracy": 0.6260869565217392,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.7924309895769849,
+   "same_sd": 0.14507868481412625,
+   "diff_mean": 1.0153844026736207,
+   "diff_sd": 0.10268347147392232,
+   "cross_genre_same_mean": 0.8432285705963523,
+   "cross_genre_diff_mean": 1.0279608977960417,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.5802349326759934,
+     "z_vs_diff": -4.237775211058566,
+     "pct_diff_pairs_closer": 0.00031486146095717883,
+     "pct_same_pairs_closer": 0.10344827586206896,
+     "LR_same_vs_diff": 73.33323712125987
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.7290804598387128,
+     "z_vs_diff": -2.7882183833998853,
+     "pct_diff_pairs_closer": 0.009918136020151134,
+     "pct_same_pairs_closer": 0.3103448275862069,
+     "LR_same_vs_diff": 10.547264596602899
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7283459716082481,
+     "z_vs_diff": -2.795371318725521,
+     "pct_diff_pairs_closer": 0.009603274559193955,
+     "pct_same_pairs_closer": 0.3054187192118227,
+     "LR_same_vs_diff": 10.668861411831218
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.7168703703145707,
+     "z_vs_diff": -2.90712836325232,
+     "pct_diff_pairs_closer": 0.007714105793450882,
+     "pct_same_pairs_closer": 0.29064039408866993,
+     "LR_same_vs_diff": 13.168560489878521
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.5901040025292489,
+     "z_vs_diff": -4.141663639141543,
+     "pct_diff_pairs_closer": 0.00047229219143576825,
+     "pct_same_pairs_closer": 0.11330049261083744,
+     "LR_same_vs_diff": 50.19468450366784
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.6512260392053533,
+     "z_vs_diff": -3.5464165580022273,
+     "pct_diff_pairs_closer": 0.002991183879093199,
+     "pct_same_pairs_closer": 0.15763546798029557,
+     "LR_same_vs_diff": 24.533729877266836
+    },
+    "morriss|narrative": {
+     "distance": 0.5846191025659984,
+     "z_vs_diff": -4.195079246196116,
+     "pct_diff_pairs_closer": 0.00031486146095717883,
+     "pct_same_pairs_closer": 0.10344827586206896,
+     "LR_same_vs_diff": 61.11346745886221
+    },
+    "morriss|beale_letters": {
+     "distance": 0.6903534954421067,
+     "z_vs_diff": -3.1653673426307907,
+     "pct_diff_pairs_closer": 0.00551007556675063,
+     "pct_same_pairs_closer": 0.24630541871921183,
+     "LR_same_vs_diff": 23.513213410869508
+    },
+    "beale_b2|narrative": {
+     "distance": 0.9467459088333858,
+     "z_vs_diff": -0.6684473445920307,
+     "pct_diff_pairs_closer": 0.22591309823677583,
+     "pct_same_pairs_closer": 0.8472906403940886,
+     "LR_same_vs_diff": 0.7162330739561322
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.9734066626994817,
+     "z_vs_diff": -0.4088071757955685,
+     "pct_diff_pairs_closer": 0.3025818639798489,
+     "pct_same_pairs_closer": 0.9113300492610837,
+     "LR_same_vs_diff": 0.4647679280387135
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.0044473769660874655,
+    0.018132208319534614
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.5802349326759934
+     ],
+     [
+      "narrative_B",
+      0.5901040025292489
+     ],
+     [
+      "morriss",
+      0.6903534954421067
+     ],
+     [
+      "narrative_2000",
+      0.7138070393645383
+     ],
+     [
+      "narrative_A",
+      0.7168703703145707
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.5802349326759934
+     ],
+     [
+      "morriss",
+      0.5846191025659984
+     ],
+     [
+      "beale_letter1",
+      0.6278574099256414
+     ],
+     [
+      "beale_letters_2000",
+      0.6465537823839218
+     ],
+     [
+      "poe_letters_1",
+      0.733668372844673
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.5846191025659984
+     ],
+     [
+      "narrative_2000",
+      0.6539041093835245
+     ],
+     [
+      "narrative_B",
+      0.6546616548292268
+     ],
+     [
+      "narrative_A",
+      0.6627627599700441
+     ],
+     [
+      "beale_letters",
+      0.6903534954421067
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6278574099256414
+     ],
+     [
+      "narrative_B",
+      0.6534499072519365
+     ],
+     [
+      "morriss",
+      0.6977821876476469
+     ],
+     [
+      "narrative_2000",
+      0.7283459716082481
+     ],
+     [
+      "narrative_A",
+      0.7330459240461293
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.6812507173724639
+     ],
+     [
+      "cable_4",
+      0.7383304344417412
+     ],
+     [
+      "cable_2",
+      0.7482016533901847
+     ],
+     [
+      "poe_letters_1",
+      0.7672969683778357
+     ],
+     [
+      "randolph_2",
+      0.7711268106905216
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "twain_letters_4",
+      0.6907988272057831
+     ],
+     [
+      "lee_1",
+      0.7099053713123983
+     ],
+     [
+      "narrative_B",
+      0.7305683551507083
+     ],
+     [
+      "narrative",
+      0.733668372844673
+     ],
+     [
+      "randolph_1",
+      0.7522859175686144
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.6534871864219098
+     ],
+     [
+      "jefferson",
+      0.8630419715111339
+     ],
+     [
+      "jackson",
+      0.8702706414856665
+     ],
+     [
+      "randolph",
+      0.9127358420308177
+     ],
+     [
+      "poe",
+      0.9179539315630659
+     ],
+     [
+      "gregg",
+      0.9185760680453647
+     ],
+     [
+      "pattie",
+      0.9532167100209799
+     ],
+     [
+      "davis",
+      0.9641924038138316
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7090009565593747
+     ],
+     [
+      "jefferson",
+      0.8938440976306482
+     ],
+     [
+      "gregg",
+      0.9151533480302806
+     ],
+     [
+      "pattie",
+      0.9273070806919163
+     ],
+     [
+      "poe",
+      0.9522879022404259
+     ],
+     [
+      "tjames",
+      0.9546051428246253
+     ],
+     [
+      "jackson",
+      0.9601658820604448
+     ],
+     [
+      "eggleston",
+      0.9646068854043007
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.5802349326759934
+     ],
+     [
+      "poe",
+      0.8634144141378899
+     ],
+     [
+      "lee",
+      0.8658361400825276
+     ],
+     [
+      "jackson",
+      0.8686633886198203
+     ],
+     [
+      "eggleston",
+      0.8870280777977364
+     ],
+     [
+      "cabell",
+      0.8894127796407041
+     ],
+     [
+      "jefferson",
+      0.9007884881641972
+     ],
+     [
+      "jqadams",
+      0.9258209215067222
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.6587122073996354
+     ],
+     [
+      "randolph",
+      0.9032993799637394
+     ],
+     [
+      "jackson",
+      0.9078475644163347
+     ],
+     [
+      "eggleston",
+      0.9187314230677965
+     ],
+     [
+      "poe",
+      0.9338909903973006
+     ],
+     [
+      "lee",
+      0.9458817444839771
+     ],
+     [
+      "page",
+      0.9521574246746736
+     ],
+     [
+      "tjames",
+      0.9603015896791898
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7777777777777778,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9709945354799661,
+     "mean_dist_late": 1.0287448999975752
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9733260634413513,
+     "mean_dist_late": 1.0240196289106258
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9713783977083807,
+     "mean_dist_late": 1.0264562347707389
+    },
+    "narrative": {
+     "mean_dist_early": 1.0060905964665745,
+     "mean_dist_late": 0.9943274536498025
+    },
+    "morriss": {
+     "mean_dist_early": 0.9942139831383773,
+     "mean_dist_late": 1.005502630773632
+    }
+   }
+  },
+  "burrows_delta_500mfw": {
+   "loo_nn_accuracy": 0.6521739130434783,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.7729340143120367,
+   "same_sd": 0.08469907374873414,
+   "diff_mean": 0.8888721204070166,
+   "diff_sd": 0.08635522692111817,
+   "cross_genre_same_mean": 0.8300435237236945,
+   "cross_genre_diff_mean": 0.8924772963612172,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6039781512582622,
+     "z_vs_diff": -3.299093515311968,
+     "pct_diff_pairs_closer": 0.0,
+     "pct_same_pairs_closer": 0.024630541871921183,
+     "LR_same_vs_diff": 342.74420824326245
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.7529074193132347,
+     "z_vs_diff": -1.5744814291088582,
+     "pct_diff_pairs_closer": 0.036838790931989926,
+     "pct_same_pairs_closer": 0.39901477832512317,
+     "LR_same_vs_diff": 3.5541039686077776
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7351967332319007,
+     "z_vs_diff": -1.7795725013321058,
+     "pct_diff_pairs_closer": 0.01873425692695214,
+     "pct_same_pairs_closer": 0.3054187192118227,
+     "LR_same_vs_diff": 5.117042741182414
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.7198024395515217,
+     "z_vs_diff": -1.9578395759405838,
+     "pct_diff_pairs_closer": 0.010232997481108312,
+     "pct_same_pairs_closer": 0.2660098522167488,
+     "LR_same_vs_diff": 7.433089298363505
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.6799704804526512,
+     "z_vs_diff": -2.419096647678179,
+     "pct_diff_pairs_closer": 0.002204030226700252,
+     "pct_same_pairs_closer": 0.1330049261083744,
+     "LR_same_vs_diff": 25.42129412434283
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.7050198262702231,
+     "z_vs_diff": -2.129023345682766,
+     "pct_diff_pairs_closer": 0.0051952141057934505,
+     "pct_same_pairs_closer": 0.20689655172413793,
+     "LR_same_vs_diff": 11.68565080386295
+    },
+    "morriss|narrative": {
+     "distance": 0.7987182769930187,
+     "z_vs_diff": -1.0439882636907387,
+     "pct_diff_pairs_closer": 0.13617758186397985,
+     "pct_same_pairs_closer": 0.645320197044335,
+     "LR_same_vs_diff": 1.3413307819780067
+    },
+    "morriss|beale_letters": {
+     "distance": 0.8285297362733702,
+     "z_vs_diff": -0.6987693308798383,
+     "pct_diff_pairs_closer": 0.24448992443324938,
+     "pct_same_pairs_closer": 0.7438423645320197,
+     "LR_same_vs_diff": 0.8524059054258062
+    },
+    "beale_b2|narrative": {
+     "distance": 1.1747346649798582,
+     "z_vs_diff": 3.3103096913168315,
+     "pct_diff_pairs_closer": 0.9937027707808564,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.012243022791777617
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.1849916769353321,
+     "z_vs_diff": 3.4290866585158555,
+     "pct_diff_pairs_closer": 0.9940176322418136,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 0.0047367993981583005
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.014059661356788372,
+    0.05803441599269543
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6039781512582622
+     ],
+     [
+      "narrative_B",
+      0.6799704804526512
+     ],
+     [
+      "narrative_2000",
+      0.7176387356597121
+     ],
+     [
+      "narrative_A",
+      0.7198024395515217
+     ],
+     [
+      "jefferson_2",
+      0.7493493538201397
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.6039781512582622
+     ],
+     [
+      "beale_letter1",
+      0.6526326853025055
+     ],
+     [
+      "beale_letters_2000",
+      0.6779619984729681
+     ],
+     [
+      "bagby_1",
+      0.722223468119897
+     ],
+     [
+      "jqadams_2",
+      0.7231873094065262
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.7987182769930187
+     ],
+     [
+      "beale_letters",
+      0.8285297362733702
+     ],
+     [
+      "beale_letter1",
+      0.8351481351457153
+     ],
+     [
+      "narrative_B",
+      0.8377841198228142
+     ],
+     [
+      "beale_letters_2000",
+      0.8389983070953605
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6526326853025055
+     ],
+     [
+      "narrative_B",
+      0.7166355061910831
+     ],
+     [
+      "narrative_2000",
+      0.7351967332319007
+     ],
+     [
+      "narrative_A",
+      0.7370977218686247
+     ],
+     [
+      "gregg_2",
+      0.7513082968163305
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_2",
+      0.7400401608416305
+     ],
+     [
+      "cable_4",
+      0.7501059306616794
+     ],
+     [
+      "bagby_4",
+      0.7592094999940826
+     ],
+     [
+      "twain_letters_1",
+      0.7670287919586213
+     ],
+     [
+      "twain_letters_4",
+      0.7708518652095347
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "narrative",
+      0.7947240766315796
+     ],
+     [
+      "bagby_1",
+      0.8172897076487375
+     ],
+     [
+      "jefferson_1",
+      0.8273557558008576
+     ],
+     [
+      "jefferson_2",
+      0.8291644246808455
+     ],
+     [
+      "twain_letters_4",
+      0.8302212399430253
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.6998864600020864
+     ],
+     [
+      "davis",
+      0.7975623866387477
+     ],
+     [
+      "jackson",
+      0.79878531011836
+     ],
+     [
+      "hall",
+      0.8067523639915656
+     ],
+     [
+      "jqadams",
+      0.8085216984500286
+     ],
+     [
+      "jefferson",
+      0.8099583887459746
+     ],
+     [
+      "gregg",
+      0.8104516522795444
+     ],
+     [
+      "paulding",
+      0.8156539267937211
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7452177547118046
+     ],
+     [
+      "davis",
+      0.799324703292918
+     ],
+     [
+      "gregg",
+      0.8089389444424414
+     ],
+     [
+      "hall",
+      0.8098251975826201
+     ],
+     [
+      "jqadams",
+      0.8103462459556695
+     ],
+     [
+      "tjames",
+      0.8148180672111434
+     ],
+     [
+      "pattie",
+      0.8157353401761069
+     ],
+     [
+      "jefferson",
+      0.8251983660295628
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6039781512582622
+     ],
+     [
+      "jqadams",
+      0.7671973362713713
+     ],
+     [
+      "davis",
+      0.778945740596605
+     ],
+     [
+      "hall",
+      0.7813502309358226
+     ],
+     [
+      "eggleston",
+      0.7834477166090335
+     ],
+     [
+      "jefferson",
+      0.7837037926497352
+     ],
+     [
+      "paulding",
+      0.7917380044653605
+     ],
+     [
+      "jackson",
+      0.7946350196910114
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.840522569559633
+     ],
+     [
+      "jqadams",
+      0.956392166262532
+     ],
+     [
+      "eggleston",
+      0.9648736095266027
+     ],
+     [
+      "jackson",
+      0.9707089419861921
+     ],
+     [
+      "hall",
+      0.979251670345485
+     ],
+     [
+      "bagby",
+      0.9830617963529545
+     ],
+     [
+      "gregg",
+      0.9843337738191373
+     ],
+     [
+      "davis",
+      0.9844006025335494
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7407407407407407,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.8419915576877299,
+     "mean_dist_late": 0.8756465206576826
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.8482665317921303,
+     "mean_dist_late": 0.8819312390450884
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.840728967447278,
+     "mean_dist_late": 0.8764092407596691
+    },
+    "narrative": {
+     "mean_dist_early": 0.8381057897636445,
+     "mean_dist_late": 0.846444479967557
+    },
+    "morriss": {
+     "mean_dist_early": 1.0086149848984338,
+     "mean_dist_late": 1.0175991883418345
+    }
+   }
+  },
+  "cosine_delta_500mfw": {
+   "loo_nn_accuracy": 0.6782608695652174,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8207223547943797,
+   "same_sd": 0.1285419874512309,
+   "diff_mean": 1.014503305859547,
+   "diff_sd": 0.08276906951074037,
+   "cross_genre_same_mean": 0.8806579362227328,
+   "cross_genre_diff_mean": 1.0239039825447405,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6224528952167647,
+     "z_vs_diff": -4.736677758494175,
+     "pct_diff_pairs_closer": 0.00047229219143576825,
+     "pct_same_pairs_closer": 0.07881773399014778,
+     "LR_same_vs_diff": 304.9384058027225
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.80476761406344,
+     "z_vs_diff": -2.533986343399584,
+     "pct_diff_pairs_closer": 0.019363979848866498,
+     "pct_same_pairs_closer": 0.37438423645320196,
+     "LR_same_vs_diff": 8.516432585176812
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7758815871822973,
+     "z_vs_diff": -2.8829817719079878,
+     "pct_diff_pairs_closer": 0.01086272040302267,
+     "pct_same_pairs_closer": 0.31527093596059114,
+     "LR_same_vs_diff": 10.986097493932107
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.7367223462763446,
+     "z_vs_diff": -3.356096199041559,
+     "pct_diff_pairs_closer": 0.005667506297229219,
+     "pct_same_pairs_closer": 0.2561576354679803,
+     "LR_same_vs_diff": 18.40616920921992
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.6507923674843823,
+     "z_vs_diff": -4.39428569784717,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.11822660098522167,
+     "LR_same_vs_diff": 56.02606554755407
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.6708687702330633,
+     "z_vs_diff": -4.151726456002898,
+     "pct_diff_pairs_closer": 0.0012594458438287153,
+     "pct_same_pairs_closer": 0.13793103448275862,
+     "LR_same_vs_diff": 37.714913254084756
+    },
+    "morriss|narrative": {
+     "distance": 0.7016341925600493,
+     "z_vs_diff": -3.7800245327017814,
+     "pct_diff_pairs_closer": 0.0026763224181360202,
+     "pct_same_pairs_closer": 0.18226600985221675,
+     "LR_same_vs_diff": 28.80022907299958
+    },
+    "morriss|beale_letters": {
+     "distance": 0.7303363791879312,
+     "z_vs_diff": -3.4332502268222482,
+     "pct_diff_pairs_closer": 0.004565491183879093,
+     "pct_same_pairs_closer": 0.23645320197044334,
+     "LR_same_vs_diff": 19.59402421272532
+    },
+    "beale_b2|narrative": {
+     "distance": 0.9347836725892044,
+     "z_vs_diff": -0.9631572970624966,
+     "pct_diff_pairs_closer": 0.1530226700251889,
+     "pct_same_pairs_closer": 0.8029556650246306,
+     "LR_same_vs_diff": 1.0667409413518452
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.9738333610191772,
+     "z_vs_diff": -0.49136646190147554,
+     "pct_diff_pairs_closer": 0.27030856423173805,
+     "pct_same_pairs_closer": 0.896551724137931,
+     "LR_same_vs_diff": 0.5173203788701897
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.010858783848894507,
+    0.030405072062084246
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6224528952167647
+     ],
+     [
+      "narrative_B",
+      0.6507923674843823
+     ],
+     [
+      "morriss",
+      0.7303363791879312
+     ],
+     [
+      "narrative_2000",
+      0.7327900477100633
+     ],
+     [
+      "narrative_A",
+      0.7367223462763446
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.6224528952167647
+     ],
+     [
+      "beale_letter1",
+      0.676449528304794
+     ],
+     [
+      "morriss",
+      0.7016341925600493
+     ],
+     [
+      "beale_letters_2000",
+      0.7151722105750915
+     ],
+     [
+      "jackson_3",
+      0.7862136066234471
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.7016341925600493
+     ],
+     [
+      "beale_letters_2000",
+      0.7225081064679085
+     ],
+     [
+      "beale_letters",
+      0.7303363791879312
+     ],
+     [
+      "beale_letter1",
+      0.7345730529724106
+     ],
+     [
+      "narrative_2000",
+      0.7461042737037159
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.676449528304794
+     ],
+     [
+      "narrative_B",
+      0.6953137835448535
+     ],
+     [
+      "morriss",
+      0.7345730529724106
+     ],
+     [
+      "narrative_2000",
+      0.7758815871822973
+     ],
+     [
+      "narrative_A",
+      0.7802319416308499
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "randolph_2",
+      0.7311061730421375
+     ],
+     [
+      "bagby_4",
+      0.7423194535217211
+     ],
+     [
+      "cable_4",
+      0.7604702918678063
+     ],
+     [
+      "cable_2",
+      0.7990514997338978
+     ],
+     [
+      "poe_letters_1",
+      0.8178049835832835
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "twain_letters_4",
+      0.7587667051954388
+     ],
+     [
+      "randolph_1",
+      0.7739600645618696
+     ],
+     [
+      "jackson_2",
+      0.7752353687412565
+     ],
+     [
+      "lee_1",
+      0.7877808621257096
+     ],
+     [
+      "lee_3",
+      0.7925904730922806
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.6937573568803634
+     ],
+     [
+      "jackson",
+      0.886051822188577
+     ],
+     [
+      "jefferson",
+      0.9210806457099986
+     ],
+     [
+      "randolph",
+      0.9300735221331933
+     ],
+     [
+      "gregg",
+      0.9416816566918028
+     ],
+     [
+      "davis",
+      0.9446164781784199
+     ],
+     [
+      "pattie",
+      0.9484307980448975
+     ],
+     [
+      "poe",
+      0.9525129325369436
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7692037645278944
+     ],
+     [
+      "pattie",
+      0.9177280435705037
+     ],
+     [
+      "gregg",
+      0.9321797344380001
+     ],
+     [
+      "jefferson",
+      0.9338516416189797
+     ],
+     [
+      "davis",
+      0.9393154161629946
+     ],
+     [
+      "jackson",
+      0.948747728747456
+     ],
+     [
+      "eggleston",
+      0.9560958238666523
+     ],
+     [
+      "jqadams",
+      0.9589114816815589
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6224528952167647
+     ],
+     [
+      "poe",
+      0.8674008496429123
+     ],
+     [
+      "jackson",
+      0.8901796098617766
+     ],
+     [
+      "eggleston",
+      0.8925675797715793
+     ],
+     [
+      "jefferson",
+      0.9150890393636728
+     ],
+     [
+      "davis",
+      0.9262767034740557
+     ],
+     [
+      "jqadams",
+      0.9298435454301378
+     ],
+     [
+      "randolph",
+      0.9383102810125722
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.7565512009972888
+     ],
+     [
+      "eggleston",
+      0.9160606459453033
+     ],
+     [
+      "jackson",
+      0.9434699249921178
+     ],
+     [
+      "page",
+      0.9482277412980853
+     ],
+     [
+      "randolph",
+      0.9501363277844284
+     ],
+     [
+      "lee",
+      0.9582390800578252
+     ],
+     [
+      "poe",
+      0.9591248907592506
+     ],
+     [
+      "tjames",
+      0.9637873981532987
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7962962962962963,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.97654438872883,
+     "mean_dist_late": 1.0216819401569754
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9750639241532918,
+     "mean_dist_late": 1.0202411882137201
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9747057566352652,
+     "mean_dist_late": 1.0214026084386645
+    },
+    "narrative": {
+     "mean_dist_early": 1.0051838290297614,
+     "mean_dist_late": 0.9969535498642841
+    },
+    "morriss": {
+     "mean_dist_early": 0.9996638547296346,
+     "mean_dist_late": 0.9987713721064575
+    }
+   }
+  },
+  "cosine_delta_200mfw_nopronouns": {
+   "loo_nn_accuracy": 0.5739130434782609,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.7830989847743033,
+   "same_sd": 0.15438511657346268,
+   "diff_mean": 1.0157156565349372,
+   "diff_sd": 0.1125717195722781,
+   "cross_genre_same_mean": 0.8390355534913572,
+   "cross_genre_diff_mean": 1.027335974581603,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.5457088649910113,
+     "z_vs_diff": -4.175176441558682,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.09852216748768473,
+     "LR_same_vs_diff": 201.7536399685618
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.6326029986015411,
+     "z_vs_diff": -3.4032762348221373,
+     "pct_diff_pairs_closer": 0.002991183879093199,
+     "pct_same_pairs_closer": 0.15270935960591134,
+     "LR_same_vs_diff": 24.375305338699356
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.6322955493412551,
+     "z_vs_diff": -3.4060073760133194,
+     "pct_diff_pairs_closer": 0.0028337531486146094,
+     "pct_same_pairs_closer": 0.15270935960591134,
+     "LR_same_vs_diff": 24.375738631947552
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.6198848045373282,
+     "z_vs_diff": -3.5162548240498435,
+     "pct_diff_pairs_closer": 0.002204030226700252,
+     "pct_same_pairs_closer": 0.14285714285714285,
+     "LR_same_vs_diff": 24.238716663491193
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.6175141097588076,
+     "z_vs_diff": -3.537314240993354,
+     "pct_diff_pairs_closer": 0.0020465994962216624,
+     "pct_same_pairs_closer": 0.13793103448275862,
+     "LR_same_vs_diff": 24.345440691605614
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.5914954221975035,
+     "z_vs_diff": -3.7684441167753304,
+     "pct_diff_pairs_closer": 0.0007871536523929471,
+     "pct_same_pairs_closer": 0.11822660098522167,
+     "LR_same_vs_diff": 38.95596902793105
+    },
+    "morriss|narrative": {
+     "distance": 0.5900773213911659,
+     "z_vs_diff": -3.781041426399149,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.11822660098522167,
+     "LR_same_vs_diff": 41.129462284701695
+    },
+    "morriss|beale_letters": {
+     "distance": 0.6514899189339458,
+     "z_vs_diff": -3.2354994574559703,
+     "pct_diff_pairs_closer": 0.0034634760705289673,
+     "pct_same_pairs_closer": 0.18719211822660098,
+     "LR_same_vs_diff": 22.15853618556278
+    },
+    "beale_b2|narrative": {
+     "distance": 1.0700017530779382,
+     "z_vs_diff": 0.48223565162958987,
+     "pct_diff_pairs_closer": 0.6649874055415617,
+     "pct_same_pairs_closer": 0.9852216748768473,
+     "LR_same_vs_diff": 0.1697536134942212
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.009368992763299,
+     "z_vs_diff": -0.05637884715408764,
+     "pct_diff_pairs_closer": 0.4434823677581864,
+     "pct_same_pairs_closer": 0.9211822660098522,
+     "LR_same_vs_diff": 0.30716804411500087
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.0005946021571021572,
+    0.006640684158715732
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.5457088649910113
+     ],
+     [
+      "narrative_2000",
+      0.6156205703862921
+     ],
+     [
+      "narrative_B",
+      0.6175141097588076
+     ],
+     [
+      "narrative_A",
+      0.6198848045373282
+     ],
+     [
+      "morriss",
+      0.6514899189339458
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.5457088649910113
+     ],
+     [
+      "morriss",
+      0.5900773213911659
+     ],
+     [
+      "beale_letter1",
+      0.6007910437728132
+     ],
+     [
+      "beale_letters_2000",
+      0.6128131263389217
+     ],
+     [
+      "poe_letters_1",
+      0.6938183529029047
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.5900773213911659
+     ],
+     [
+      "beale_letters_2000",
+      0.6171544067614037
+     ],
+     [
+      "beale_letter1",
+      0.6374818878120534
+     ],
+     [
+      "narrative_2000",
+      0.6410993953699632
+     ],
+     [
+      "beale_letters",
+      0.6514899189339458
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6007910437728132
+     ],
+     [
+      "narrative_2000",
+      0.6322955493412551
+     ],
+     [
+      "morriss",
+      0.6374818878120534
+     ],
+     [
+      "narrative_A",
+      0.6392841309838331
+     ],
+     [
+      "narrative_B",
+      0.6887292674573822
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.6657092962724998
+     ],
+     [
+      "cable_4",
+      0.7062346558253676
+     ],
+     [
+      "cable_2",
+      0.7326261600794807
+     ],
+     [
+      "twain_letters_1",
+      0.7335231808401694
+     ],
+     [
+      "randolph_2",
+      0.7529280841647169
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "twain_letters_4",
+      0.6852758665062951
+     ],
+     [
+      "narrative",
+      0.6938183529029047
+     ],
+     [
+      "lee_3",
+      0.7287608849175915
+     ],
+     [
+      "narrative_2000",
+      0.7324353122643192
+     ],
+     [
+      "narrative_A",
+      0.7425573911199114
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.618699457148068
+     ],
+     [
+      "jefferson",
+      0.8472526128581067
+     ],
+     [
+      "jackson",
+      0.8719468030230492
+     ],
+     [
+      "gregg",
+      0.882592048271795
+     ],
+     [
+      "tjames",
+      0.9207409950601101
+     ],
+     [
+      "pattie",
+      0.9353806294016938
+     ],
+     [
+      "poe",
+      0.9384447029642753
+     ],
+     [
+      "randolph",
+      0.9509835056416623
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.673789812441653
+     ],
+     [
+      "jefferson",
+      0.8833971218602853
+     ],
+     [
+      "gregg",
+      0.887503628160108
+     ],
+     [
+      "tjames",
+      0.8979882928695264
+     ],
+     [
+      "pattie",
+      0.9117016313972566
+     ],
+     [
+      "jackson",
+      0.9362003775783017
+     ],
+     [
+      "poe",
+      0.9392766262959474
+     ],
+     [
+      "ejames",
+      0.9615620352476124
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.5457088649910113
+     ],
+     [
+      "poe",
+      0.8552639479598553
+     ],
+     [
+      "cabell",
+      0.8684031594197762
+     ],
+     [
+      "lee",
+      0.8701866410995298
+     ],
+     [
+      "jackson",
+      0.8776581571828028
+     ],
+     [
+      "jefferson",
+      0.8873471082606846
+     ],
+     [
+      "eggleston",
+      0.8881024239447031
+     ],
+     [
+      "jqadams",
+      0.923982558419946
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.6558950709106187
+     ],
+     [
+      "randolph",
+      0.8929542255747929
+     ],
+     [
+      "eggleston",
+      0.9236822729496764
+     ],
+     [
+      "tjames",
+      0.935168946761775
+     ],
+     [
+      "jackson",
+      0.9373971887089643
+     ],
+     [
+      "pattie",
+      0.9438091318088602
+     ],
+     [
+      "page",
+      0.957015183029966
+     ],
+     [
+      "poe",
+      0.9617563058232991
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7870370370370371,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9597360444218845,
+     "mean_dist_late": 1.038007982439378
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9591389328309765,
+     "mean_dist_late": 1.038075526002389
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9585558708454485,
+     "mean_dist_late": 1.0381501724308762
+    },
+    "narrative": {
+     "mean_dist_early": 1.0022256114173977,
+     "mean_dist_late": 0.9983194646679772
+    },
+    "morriss": {
+     "mean_dist_early": 0.9874514508690877,
+     "mean_dist_late": 1.0099445255152293
+    }
+   }
+  },
+  "cosine_delta_300mfw_nopronouns": {
+   "loo_nn_accuracy": 0.6,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8058458580934014,
+   "same_sd": 0.13920338506559177,
+   "diff_mean": 1.0149575099345782,
+   "diff_sd": 0.09611371714882412,
+   "cross_genre_same_mean": 0.8511706682567164,
+   "cross_genre_diff_mean": 1.0254081615845807,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.5518350496341853,
+     "z_vs_diff": -4.818484541423845,
+     "pct_diff_pairs_closer": 0.00015743073047858942,
+     "pct_same_pairs_closer": 0.04926108374384237,
+     "LR_same_vs_diff": 645.5321457763403
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.6990256885983261,
+     "z_vs_diff": -3.287062770104478,
+     "pct_diff_pairs_closer": 0.004880352644836272,
+     "pct_same_pairs_closer": 0.22167487684729065,
+     "LR_same_vs_diff": 24.78480928045235
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.6907955798909854,
+     "z_vs_diff": -3.372691637153675,
+     "pct_diff_pairs_closer": 0.003778337531486146,
+     "pct_same_pairs_closer": 0.19704433497536947,
+     "LR_same_vs_diff": 25.322193179923257
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.6723932995167103,
+     "z_vs_diff": -3.564155258790331,
+     "pct_diff_pairs_closer": 0.0031486146095717885,
+     "pct_same_pairs_closer": 0.17733990147783252,
+     "LR_same_vs_diff": 24.482609663065475
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.5897792607764972,
+     "z_vs_diff": -4.4236999855049595,
+     "pct_diff_pairs_closer": 0.00031486146095717883,
+     "pct_same_pairs_closer": 0.10344827586206896,
+     "LR_same_vs_diff": 78.04354882295786
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.6480137128922594,
+     "z_vs_diff": -3.8178088198809,
+     "pct_diff_pairs_closer": 0.0014168765743073047,
+     "pct_same_pairs_closer": 0.12807881773399016,
+     "LR_same_vs_diff": 27.896123740797783
+    },
+    "morriss|narrative": {
+     "distance": 0.6103918332469846,
+     "z_vs_diff": -4.209239728613942,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.11822660098522167,
+     "LR_same_vs_diff": 50.104735328756696
+    },
+    "morriss|beale_letters": {
+     "distance": 0.653228951523936,
+     "z_vs_diff": -3.7635476926829865,
+     "pct_diff_pairs_closer": 0.0017317380352644836,
+     "pct_same_pairs_closer": 0.14285714285714285,
+     "LR_same_vs_diff": 26.07974210286012
+    },
+    "beale_b2|narrative": {
+     "distance": 0.9128216721583396,
+     "z_vs_diff": -1.0626562035686302,
+     "pct_diff_pairs_closer": 0.13775188916876574,
+     "pct_same_pairs_closer": 0.7586206896551724,
+     "LR_same_vs_diff": 1.3112161371431608
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.9663857758181464,
+     "z_vs_diff": -0.5053569413117431,
+     "pct_diff_pairs_closer": 0.27581863979848864,
+     "pct_same_pairs_closer": 0.8768472906403941,
+     "LR_same_vs_diff": 0.5571036823363728
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.0016071745922846114,
+    0.010043231978574737
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.5518350496341853
+     ],
+     [
+      "narrative_B",
+      0.5897792607764972
+     ],
+     [
+      "morriss",
+      0.653228951523936
+     ],
+     [
+      "narrative_2000",
+      0.6666857205678973
+     ],
+     [
+      "narrative_A",
+      0.6723932995167103
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.5518350496341853
+     ],
+     [
+      "beale_letter1",
+      0.5994708362727557
+     ],
+     [
+      "morriss",
+      0.6103918332469846
+     ],
+     [
+      "beale_letters_2000",
+      0.6219190912936632
+     ],
+     [
+      "jackson_3",
+      0.759152554118923
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.6103918332469846
+     ],
+     [
+      "beale_letters",
+      0.653228951523936
+     ],
+     [
+      "beale_letters_2000",
+      0.6559583513938236
+     ],
+     [
+      "narrative_B",
+      0.6580666530858976
+     ],
+     [
+      "beale_letter1",
+      0.6603723648815433
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.5994708362727557
+     ],
+     [
+      "narrative_B",
+      0.643612595234629
+     ],
+     [
+      "morriss",
+      0.6603723648815433
+     ],
+     [
+      "narrative_2000",
+      0.6907955798909854
+     ],
+     [
+      "narrative_A",
+      0.6971942072632309
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.7173455239279471
+     ],
+     [
+      "cable_2",
+      0.7656011447871751
+     ],
+     [
+      "randolph_2",
+      0.8034174481918981
+     ],
+     [
+      "page_3",
+      0.8095681549325149
+     ],
+     [
+      "poe_letters_1",
+      0.8127359521615444
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "twain_letters_4",
+      0.7209536498414424
+     ],
+     [
+      "narrative",
+      0.7751749583027181
+     ],
+     [
+      "lee_3",
+      0.7755806585469769
+     ],
+     [
+      "lee_1",
+      0.7853776657471714
+     ],
+     [
+      "narrative_2000",
+      0.8115116245310026
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.6310862801466037
+     ],
+     [
+      "jefferson",
+      0.872104761693049
+     ],
+     [
+      "jackson",
+      0.8744724540018053
+     ],
+     [
+      "gregg",
+      0.9034513751822775
+     ],
+     [
+      "poe",
+      0.950806629136688
+     ],
+     [
+      "paulding",
+      0.9564779895566649
+     ],
+     [
+      "randolph",
+      0.9598182956750029
+     ],
+     [
+      "davis",
+      0.9629736260295723
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.6889941450371431
+     ],
+     [
+      "jefferson",
+      0.9013687974906293
+     ],
+     [
+      "gregg",
+      0.9041481398859196
+     ],
+     [
+      "eggleston",
+      0.9528477537747915
+     ],
+     [
+      "jackson",
+      0.9569447221664905
+     ],
+     [
+      "tjames",
+      0.9598934493769429
+     ],
+     [
+      "christian",
+      0.9600213974948224
+     ],
+     [
+      "poe",
+      0.9619686311387419
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.5518350496341853
+     ],
+     [
+      "eggleston",
+      0.8526249164847275
+     ],
+     [
+      "cabell",
+      0.8898810164712183
+     ],
+     [
+      "jackson",
+      0.8930671521905156
+     ],
+     [
+      "lee",
+      0.8992051125906431
+     ],
+     [
+      "poe",
+      0.8999422476071665
+     ],
+     [
+      "jefferson",
+      0.919606128399272
+     ],
+     [
+      "jqadams",
+      0.9269346563423985
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.679438937637379
+     ],
+     [
+      "randolph",
+      0.9096556756051986
+     ],
+     [
+      "jackson",
+      0.9134790605346709
+     ],
+     [
+      "eggleston",
+      0.924449603735594
+     ],
+     [
+      "tjames",
+      0.940634457705994
+     ],
+     [
+      "page",
+      0.9510731793791124
+     ],
+     [
+      "pattie",
+      0.9587049802947432
+     ],
+     [
+      "poe",
+      0.9592673539883818
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7777777777777778,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9766443547027502,
+     "mean_dist_late": 1.0195409899793932
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9788656207219623,
+     "mean_dist_late": 1.0167858782633232
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.977296516966167,
+     "mean_dist_late": 1.0181209171413743
+    },
+    "narrative": {
+     "mean_dist_early": 1.0077074912234896,
+     "mean_dist_late": 0.9903741160792437
+    },
+    "morriss": {
+     "mean_dist_early": 0.9893582691949162,
+     "mean_dist_late": 1.008147880540218
+    }
+   }
+  },
+  "cosine_delta_function_words_150": {
+   "loo_nn_accuracy": 0.6086956521739131,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.7743690472907953,
+   "same_sd": 0.1545763510206194,
+   "diff_mean": 1.0159403590304215,
+   "diff_sd": 0.1288957837607023,
+   "cross_genre_same_mean": 0.7878043244073232,
+   "cross_genre_diff_mean": 1.0339967499751108,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6145853260383215,
+     "z_vs_diff": -3.1137948913614113,
+     "pct_diff_pairs_closer": 0.004093198992443325,
+     "pct_same_pairs_closer": 0.1724137931034483,
+     "LR_same_vs_diff": 21.598125260565865
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.7297760533102171,
+     "z_vs_diff": -2.2201215382768016,
+     "pct_diff_pairs_closer": 0.02125314861460957,
+     "pct_same_pairs_closer": 0.3793103448275862,
+     "LR_same_vs_diff": 6.600660969277359
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7222749009209612,
+     "z_vs_diff": -2.27831702125072,
+     "pct_diff_pairs_closer": 0.018891687657430732,
+     "pct_same_pairs_closer": 0.3645320197044335,
+     "LR_same_vs_diff": 7.077283782595851
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.728153146403005,
+     "z_vs_diff": -2.232712383841037,
+     "pct_diff_pairs_closer": 0.020308564231738036,
+     "pct_same_pairs_closer": 0.37438423645320196,
+     "LR_same_vs_diff": 6.695411339929581
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.638406277431582,
+     "z_vs_diff": -2.928987051273449,
+     "pct_diff_pairs_closer": 0.005667506297229219,
+     "pct_same_pairs_closer": 0.2019704433497537,
+     "LR_same_vs_diff": 17.45440568570008
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.654242360287972,
+     "z_vs_diff": -2.806127463516955,
+     "pct_diff_pairs_closer": 0.007871536523929471,
+     "pct_same_pairs_closer": 0.23645320197044334,
+     "LR_same_vs_diff": 15.435424984120036
+    },
+    "morriss|narrative": {
+     "distance": 0.5342752854718393,
+     "z_vs_diff": -3.7368567031859117,
+     "pct_diff_pairs_closer": 0.001102015113350126,
+     "pct_same_pairs_closer": 0.08374384236453201,
+     "LR_same_vs_diff": 102.40431854165251
+    },
+    "morriss|beale_letters": {
+     "distance": 0.7648278175966764,
+     "z_vs_diff": -1.9481827419579583,
+     "pct_diff_pairs_closer": 0.03290302267002519,
+     "pct_same_pairs_closer": 0.43842364532019706,
+     "LR_same_vs_diff": 4.770897479503295
+    },
+    "beale_b2|narrative": {
+     "distance": 0.9504621374714654,
+     "z_vs_diff": -0.5079935095512339,
+     "pct_diff_pairs_closer": 0.2890428211586902,
+     "pct_same_pairs_closer": 0.8571428571428571,
+     "LR_same_vs_diff": 0.6386199107089942
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.010946929261775,
+     "z_vs_diff": -0.03874005512792319,
+     "pct_diff_pairs_closer": 0.45654911838790935,
+     "pct_same_pairs_closer": 0.9408866995073891,
+     "LR_same_vs_diff": 0.35477739257718777
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.01115887001696556,
+    0.033562949962807495
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6145853260383215
+     ],
+     [
+      "narrative_B",
+      0.638406277431582
+     ],
+     [
+      "jefferson_2",
+      0.68047432737507
+     ],
+     [
+      "narrative_A",
+      0.728153146403005
+     ],
+     [
+      "narrative_2000",
+      0.7291570342317403
+     ]
+    ],
+    "narrative": [
+     [
+      "morriss",
+      0.5342752854718393
+     ],
+     [
+      "beale_letters",
+      0.6145853260383215
+     ],
+     [
+      "beale_letter1",
+      0.6480862539044459
+     ],
+     [
+      "poe_letters_1",
+      0.6482153314986133
+     ],
+     [
+      "beale_letters_2000",
+      0.6832945484053574
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.5342752854718393
+     ],
+     [
+      "narrative_B",
+      0.5999167186630473
+     ],
+     [
+      "narrative_A",
+      0.635552833063783
+     ],
+     [
+      "narrative_2000",
+      0.63707023197431
+     ],
+     [
+      "beale_letters_2000",
+      0.7152891474117222
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6480862539044459
+     ],
+     [
+      "narrative_B",
+      0.7010313352126484
+     ],
+     [
+      "jefferson_2",
+      0.7178586852357214
+     ],
+     [
+      "narrative_A",
+      0.721351372896273
+     ],
+     [
+      "narrative_2000",
+      0.7222749009209612
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "cable_4",
+      0.5657756098485559
+     ],
+     [
+      "bagby_4",
+      0.574144541619586
+     ],
+     [
+      "randolph_2",
+      0.598566957911688
+     ],
+     [
+      "poe_letters_1",
+      0.7152626520679906
+     ],
+     [
+      "cable_2",
+      0.7208949186840201
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "narrative",
+      0.6482153314986133
+     ],
+     [
+      "pattie_4",
+      0.6506677693975151
+     ],
+     [
+      "narrative_B",
+      0.652055599517829
+     ],
+     [
+      "twain_letters_4",
+      0.6562402428976251
+     ],
+     [
+      "randolph_1",
+      0.6697399421782082
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.6832797119172935
+     ],
+     [
+      "jackson",
+      0.8117549096959471
+     ],
+     [
+      "jefferson",
+      0.845865647304145
+     ],
+     [
+      "pattie",
+      0.8846999118133982
+     ],
+     [
+      "randolph",
+      0.902186396952849
+     ],
+     [
+      "poe",
+      0.9141728155297454
+     ],
+     [
+      "gregg",
+      0.914728846215321
+     ],
+     [
+      "davis",
+      0.9262785032617643
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7403333669187103
+     ],
+     [
+      "pattie",
+      0.8401969029910806
+     ],
+     [
+      "jefferson",
+      0.8851656215028865
+     ],
+     [
+      "gregg",
+      0.8986515629164683
+     ],
+     [
+      "jackson",
+      0.9090354006513426
+     ],
+     [
+      "poe",
+      0.9484130964464873
+     ],
+     [
+      "davis",
+      0.9510915349577086
+     ],
+     [
+      "paulding",
+      0.9616457282108803
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6145853260383215
+     ],
+     [
+      "poe",
+      0.8027244978230607
+     ],
+     [
+      "lee",
+      0.8349547617955695
+     ],
+     [
+      "eggleston",
+      0.858830869706138
+     ],
+     [
+      "paulding",
+      0.8846788049492247
+     ],
+     [
+      "jackson",
+      0.8860692837938136
+     ],
+     [
+      "bagby",
+      0.9059528037476965
+     ],
+     [
+      "jefferson",
+      0.9158087853344752
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.6177347758634151
+     ],
+     [
+      "jackson",
+      0.8865514849473897
+     ],
+     [
+      "lee",
+      0.9007410990858506
+     ],
+     [
+      "pattie",
+      0.9352811811043288
+     ],
+     [
+      "eggleston",
+      0.9395699684539948
+     ],
+     [
+      "shsp",
+      0.9499049901306607
+     ],
+     [
+      "page",
+      0.9569912337407932
+     ],
+     [
+      "jqadams",
+      0.9587339092222003
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7592592592592593,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.970545986494639,
+     "mean_dist_late": 1.0364303428999022
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9708046325611736,
+     "mean_dist_late": 1.0312688284608162
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9698575560408305,
+     "mean_dist_late": 1.0337362759930353
+    },
+    "narrative": {
+     "mean_dist_early": 1.0177759122250662,
+     "mean_dist_late": 0.9976296583271539
+    },
+    "morriss": {
+     "mean_dist_early": 1.0035959078678582,
+     "mean_dist_late": 0.9970597905728934
+    }
+   }
+  },
+  "burrows_delta_function_words_150": {
+   "loo_nn_accuracy": 0.5391304347826087,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8849899888745081,
+   "same_sd": 0.1304280160985195,
+   "diff_mean": 1.0408016708798016,
+   "diff_sd": 0.13047949723695387,
+   "cross_genre_same_mean": 1.006466261203136,
+   "cross_genre_diff_mean": 1.062342308937656,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.7711872373633127,
+     "z_vs_diff": -2.0663356253347804,
+     "pct_diff_pairs_closer": 0.009445843828715366,
+     "pct_same_pairs_closer": 0.18226600985221675,
+     "LR_same_vs_diff": 7.1958943838622185
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.9264830423219242,
+     "z_vs_diff": -0.8761424666610417,
+     "pct_diff_pairs_closer": 0.19505667506297228,
+     "pct_same_pairs_closer": 0.6600985221674877,
+     "LR_same_vs_diff": 1.2384683564008747
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.9114591005141989,
+     "z_vs_diff": -0.9912865477302807,
+     "pct_diff_pairs_closer": 0.15664357682619648,
+     "pct_same_pairs_closer": 0.6305418719211823,
+     "LR_same_vs_diff": 1.446150946543495
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.9174304772994937,
+     "z_vs_diff": -0.9455216811286671,
+     "pct_diff_pairs_closer": 0.17348866498740553,
+     "pct_same_pairs_closer": 0.6403940886699507,
+     "LR_same_vs_diff": 1.3587906248714121
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.8708046828972257,
+     "z_vs_diff": -1.3028636037266248,
+     "pct_diff_pairs_closer": 0.08249370277078086,
+     "pct_same_pairs_closer": 0.4630541871921182,
+     "LR_same_vs_diff": 2.265432305815702
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.8772990492957559,
+     "z_vs_diff": -1.2530905241543127,
+     "pct_diff_pairs_closer": 0.092411838790932,
+     "pct_same_pairs_closer": 0.4876847290640394,
+     "LR_same_vs_diff": 2.107109010399337
+    },
+    "morriss|narrative": {
+     "distance": 1.0064378260618718,
+     "z_vs_diff": -0.26336585858791434,
+     "pct_diff_pairs_closer": 0.41845088161209065,
+     "pct_same_pairs_closer": 0.8423645320197044,
+     "LR_same_vs_diff": 0.47303611892753755
+    },
+    "morriss|beale_letters": {
+     "distance": 1.1988197964478142,
+     "z_vs_diff": 1.2110571309226306,
+     "pct_diff_pairs_closer": 0.8823992443324937,
+     "pct_same_pairs_closer": 0.9950738916256158,
+     "LR_same_vs_diff": 0.30625682400896953
+    },
+    "beale_b2|narrative": {
+     "distance": 1.4823044166147754,
+     "z_vs_diff": 3.3836944124117396,
+     "pct_diff_pairs_closer": 0.9984256926952141,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 1.9317708538660513e-06
+    },
+    "beale_b2|beale_letters": {
+     "distance": 1.4903924096702894,
+     "z_vs_diff": 3.4456811093778232,
+     "pct_diff_pairs_closer": 0.9984256926952141,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 8.921371065039257e-07
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.11834904405142062,
+    0.28128536549046984
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.7711872373633127
+     ],
+     [
+      "jefferson_2",
+      0.8479097804214274
+     ],
+     [
+      "narrative_B",
+      0.8708046828972257
+     ],
+     [
+      "shsp_4",
+      0.8829696736692199
+     ],
+     [
+      "jackson_3",
+      0.885165825353853
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.7711872373633127
+     ],
+     [
+      "davis_1",
+      0.803468456146142
+     ],
+     [
+      "cooke_lee_1",
+      0.8065388242311269
+     ],
+     [
+      "beale_letter1",
+      0.8095248906780885
+     ],
+     [
+      "paulding_3",
+      0.825408181564371
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      1.0064378260618718
+     ],
+     [
+      "narrative_B",
+      1.0527231990331984
+     ],
+     [
+      "narrative_A",
+      1.0883199995822035
+     ],
+     [
+      "narrative_2000",
+      1.0893664581905702
+     ],
+     [
+      "jackson_3",
+      1.1309866414558494
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.8095248906780885
+     ],
+     [
+      "jefferson_2",
+      0.8623530311533625
+     ],
+     [
+      "shsp_4",
+      0.8862746420350288
+     ],
+     [
+      "narrative_B",
+      0.9056202830663324
+     ],
+     [
+      "narrative_A",
+      0.9109321593319377
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "cable_4",
+      0.8133973013619515
+     ],
+     [
+      "bagby_4",
+      0.861803541399125
+     ],
+     [
+      "randolph_2",
+      0.9001000458722124
+     ],
+     [
+      "cable_2",
+      0.925274812216039
+     ],
+     [
+      "poe_goldbug_2",
+      0.9314477095200892
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "narrative",
+      0.9907201378004493
+     ],
+     [
+      "pattie_4",
+      1.0369047358758026
+     ],
+     [
+      "bagby_1",
+      1.0439883608288325
+     ],
+     [
+      "jackson_3",
+      1.050523605500007
+     ],
+     [
+      "narrative_B",
+      1.061419644428888
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.8941175800983596
+     ],
+     [
+      "jackson",
+      0.9345725316880129
+     ],
+     [
+      "davis",
+      0.9621956145430834
+     ],
+     [
+      "tjames",
+      0.9764605220747953
+     ],
+     [
+      "paulding",
+      1.0071677444907299
+     ],
+     [
+      "shsp",
+      1.0125917776044213
+     ],
+     [
+      "jefferson",
+      1.0127343891621474
+     ],
+     [
+      "pattie",
+      1.03151446333922
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.9362126218392918
+     ],
+     [
+      "davis",
+      0.9676170317118293
+     ],
+     [
+      "tjames",
+      0.9914195536367977
+     ],
+     [
+      "jackson",
+      0.9981939624996894
+     ],
+     [
+      "shsp",
+      1.0052229549891278
+     ],
+     [
+      "pattie",
+      1.0086314129304657
+     ],
+     [
+      "christian",
+      1.030495236975741
+     ],
+     [
+      "jefferson",
+      1.0377506354192116
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.7711872373633127
+     ],
+     [
+      "paulding",
+      0.8891047453249874
+     ],
+     [
+      "jqadams",
+      0.9172382565629181
+     ],
+     [
+      "davis",
+      0.9214587744128099
+     ],
+     [
+      "jackson",
+      0.9273144313520193
+     ],
+     [
+      "cabell",
+      0.9388218625233217
+     ],
+     [
+      "flint",
+      0.9426897926480878
+     ],
+     [
+      "eggleston",
+      0.9444602462493505
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      1.070521599307701
+     ],
+     [
+      "jackson",
+      1.2079943210468964
+     ],
+     [
+      "jqadams",
+      1.2449814992790018
+     ],
+     [
+      "shsp",
+      1.2492857974075764
+     ],
+     [
+      "cooke",
+      1.2586659140557614
+     ],
+     [
+      "lee",
+      1.2857996197926043
+     ],
+     [
+      "flint",
+      1.290603652596623
+     ],
+     [
+      "paulding",
+      1.2966627864600606
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7222222222222222,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 1.056691056546787,
+     "mean_dist_late": 1.0962849785153828
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 1.0697887057439253,
+     "mean_dist_late": 1.0998695234958487
+    },
+    "beale_letter1": {
+     "mean_dist_early": 1.0575314414066594,
+     "mean_dist_late": 1.0922461718098952
+    },
+    "narrative": {
+     "mean_dist_early": 1.0019701697362082,
+     "mean_dist_late": 0.9917732465019368
+    },
+    "morriss": {
+     "mean_dist_early": 1.3284824937826205,
+     "mean_dist_late": 1.315979809907482
+    }
+   }
+  },
+  "cosine_delta_char4gram_2000": {
+   "loo_nn_accuracy": 0.6521739130434783,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.8450749352176067,
+   "same_sd": 0.11246326638599931,
+   "diff_mean": 1.0138744296082793,
+   "diff_sd": 0.07228114567293946,
+   "cross_genre_same_mean": 0.884576223556754,
+   "cross_genre_diff_mean": 1.0228393909684836,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.6550682776211365,
+     "z_vs_diff": -4.964035207890628,
+     "pct_diff_pairs_closer": 0.00031486146095717883,
+     "pct_same_pairs_closer": 0.07881773399014778,
+     "LR_same_vs_diff": 147.1246925360098
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.7424717687082507,
+     "z_vs_diff": -3.754819578096921,
+     "pct_diff_pairs_closer": 0.0017317380352644836,
+     "pct_same_pairs_closer": 0.17733990147783252,
+     "LR_same_vs_diff": 24.73781007009992
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.7367581326435302,
+     "z_vs_diff": -3.833866970214553,
+     "pct_diff_pairs_closer": 0.0014168765743073047,
+     "pct_same_pairs_closer": 0.16748768472906403,
+     "LR_same_vs_diff": 28.631280785767807
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.7359548125647815,
+     "z_vs_diff": -3.8449807962513405,
+     "pct_diff_pairs_closer": 0.0014168765743073047,
+     "pct_same_pairs_closer": 0.16748768472906403,
+     "LR_same_vs_diff": 29.268194393101055
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.710563751394166,
+     "z_vs_diff": -4.196262737540786,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.12807881773399016,
+     "LR_same_vs_diff": 84.94111109389618
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.7103791695263765,
+     "z_vs_diff": -4.1988164030377995,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.12807881773399016,
+     "LR_same_vs_diff": 85.86145486873951
+    },
+    "morriss|narrative": {
+     "distance": 0.7051547484707859,
+     "z_vs_diff": -4.271095570820091,
+     "pct_diff_pairs_closer": 0.0006297229219143577,
+     "pct_same_pairs_closer": 0.11822660098522167,
+     "LR_same_vs_diff": 114.87650392427216
+    },
+    "morriss|beale_letters": {
+     "distance": 0.773110266572939,
+     "z_vs_diff": -3.3309400507396405,
+     "pct_diff_pairs_closer": 0.005037783375314861,
+     "pct_same_pairs_closer": 0.2315270935960591,
+     "LR_same_vs_diff": 16.876699650983372
+    },
+    "beale_b2|narrative": {
+     "distance": 0.9940853647672767,
+     "z_vs_diff": -0.2737790700018087,
+     "pct_diff_pairs_closer": 0.35059823677581864,
+     "pct_same_pairs_closer": 0.9113300492610837,
+     "LR_same_vs_diff": 0.3413563453781418
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.9235464043775403,
+     "z_vs_diff": -1.2496761692109695,
+     "pct_diff_pairs_closer": 0.10248740554156172,
+     "pct_same_pairs_closer": 0.7339901477832512,
+     "LR_same_vs_diff": 1.625223299291462
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.0,
+    0.004215481472801085
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.6550682776211365
+     ],
+     [
+      "narrative_B",
+      0.710563751394166
+     ],
+     [
+      "narrative_2000",
+      0.7325706621088783
+     ],
+     [
+      "narrative_A",
+      0.7359548125647815
+     ],
+     [
+      "morriss",
+      0.773110266572939
+     ]
+    ],
+    "narrative": [
+     [
+      "beale_letters",
+      0.6550682776211365
+     ],
+     [
+      "beale_letter1",
+      0.6804419325098358
+     ],
+     [
+      "beale_letters_2000",
+      0.6918365394386901
+     ],
+     [
+      "morriss",
+      0.7051547484707859
+     ],
+     [
+      "cabell_2",
+      0.8343065169978738
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.7051547484707859
+     ],
+     [
+      "narrative_B",
+      0.7547084452233308
+     ],
+     [
+      "narrative_2000",
+      0.7701205329659087
+     ],
+     [
+      "narrative_A",
+      0.7720883907536265
+     ],
+     [
+      "beale_letters",
+      0.773110266572939
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.6804419325098358
+     ],
+     [
+      "narrative_2000",
+      0.7367581326435302
+     ],
+     [
+      "narrative_A",
+      0.7405404409892684
+     ],
+     [
+      "narrative_B",
+      0.7460698958395309
+     ],
+     [
+      "morriss",
+      0.7873921308014513
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "bagby_4",
+      0.7970995663291209
+     ],
+     [
+      "randolph_4",
+      0.7979111348914115
+     ],
+     [
+      "twain_letters_4",
+      0.8083627532355908
+     ],
+     [
+      "cable_2",
+      0.8325155275632736
+     ],
+     [
+      "poe_letters_1",
+      0.8325546382983031
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "randolph_2",
+      0.7934020135609423
+     ],
+     [
+      "randolph_1",
+      0.8047905608602527
+     ],
+     [
+      "twain_letters_4",
+      0.8245198319681408
+     ],
+     [
+      "jackson_3",
+      0.8276371410093443
+     ],
+     [
+      "lee_3",
+      0.828802810187111
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.7232592819794738
+     ],
+     [
+      "jefferson",
+      0.9109352557672209
+     ],
+     [
+      "pattie",
+      0.9244105331007372
+     ],
+     [
+      "davis",
+      0.9320131030704718
+     ],
+     [
+      "randolph",
+      0.9438314901394278
+     ],
+     [
+      "jackson",
+      0.947318158346374
+     ],
+     [
+      "gregg",
+      0.9522436036194057
+     ],
+     [
+      "flint",
+      0.9612700092303815
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.7523944244817222
+     ],
+     [
+      "pattie",
+      0.9074772061216652
+     ],
+     [
+      "jefferson",
+      0.9231568663614508
+     ],
+     [
+      "davis",
+      0.9235805119033125
+     ],
+     [
+      "gregg",
+      0.9530707749938677
+     ],
+     [
+      "flint",
+      0.9660946812131211
+     ],
+     [
+      "hall",
+      0.97867391793652
+     ],
+     [
+      "eggleston",
+      0.9790202871810496
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.6550682776211365
+     ],
+     [
+      "cabell",
+      0.888004376784411
+     ],
+     [
+      "jqadams",
+      0.8966714538065971
+     ],
+     [
+      "davis",
+      0.9195810636465942
+     ],
+     [
+      "poe",
+      0.9242667454703909
+     ],
+     [
+      "eggleston",
+      0.9308773254693214
+     ],
+     [
+      "lee",
+      0.9335762376424022
+     ],
+     [
+      "jackson",
+      0.9343967230324133
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.7633984179884786
+     ],
+     [
+      "jackson",
+      0.9305328016425808
+     ],
+     [
+      "lee",
+      0.9397208334200413
+     ],
+     [
+      "randolph",
+      0.9427275653013201
+     ],
+     [
+      "poe",
+      0.9542791204679295
+     ],
+     [
+      "cabell",
+      0.9571947687181139
+     ],
+     [
+      "eggleston",
+      0.9690395365649025
+     ],
+     [
+      "jqadams",
+      0.9702410908751371
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7777777777777778,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.9787936423388184,
+     "mean_dist_late": 1.0224159199364735
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.9801936914899336,
+     "mean_dist_late": 1.0191891736863556
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.9800878887313152,
+     "mean_dist_late": 1.0198723786128183
+    },
+    "narrative": {
+     "mean_dist_early": 1.0064643741031427,
+     "mean_dist_late": 0.9961595282189727
+    },
+    "morriss": {
+     "mean_dist_early": 1.0034968982598467,
+     "mean_dist_late": 0.9974245725672068
+    }
+   }
+  },
+  "cosine_raw_char4gram_2000": {
+   "loo_nn_accuracy": 0.5304347826086957,
+   "loo_n": 115,
+   "same_author_pairs": 203,
+   "diff_author_pairs": 6352,
+   "same_mean": 0.11075165308546309,
+   "same_sd": 0.04355402119575509,
+   "diff_mean": 0.15127447886269832,
+   "diff_sd": 0.054600970858915986,
+   "cross_genre_same_mean": 0.1509132992984989,
+   "cross_genre_diff_mean": 0.15979630916500345,
+   "pairs": {
+    "beale_letters|narrative": {
+     "distance": 0.08407436030001436,
+     "z_vs_diff": -1.230749517921999,
+     "pct_diff_pairs_closer": 0.04565491183879093,
+     "pct_same_pairs_closer": 0.33497536945812806,
+     "LR_same_vs_diff": 1.9159385367410426
+    },
+    "beale_letters_2000|narrative_2000": {
+     "distance": 0.11002980987640765,
+     "z_vs_diff": -0.7553834361821734,
+     "pct_diff_pairs_closer": 0.24622166246851385,
+     "pct_same_pairs_closer": 0.5369458128078818,
+     "LR_same_vs_diff": 1.0251618755710734
+    },
+    "beale_letter1|narrative_2000": {
+     "distance": 0.11212449908885325,
+     "z_vs_diff": -0.7170198470464034,
+     "pct_diff_pairs_closer": 0.2646410579345088,
+     "pct_same_pairs_closer": 0.5517241379310345,
+     "LR_same_vs_diff": 1.017619491058836
+    },
+    "beale_letters|narrative_A": {
+     "distance": 0.11789401904070274,
+     "z_vs_diff": -0.6113528623556475,
+     "pct_diff_pairs_closer": 0.31643576826196473,
+     "pct_same_pairs_closer": 0.6305418719211823,
+     "LR_same_vs_diff": 0.9922345225294287
+    },
+    "beale_letters|narrative_B": {
+     "distance": 0.09525365958549725,
+     "z_vs_diff": -1.0260040873989922,
+     "pct_diff_pairs_closer": 0.11523929471032746,
+     "pct_same_pairs_closer": 0.4236453201970443,
+     "LR_same_vs_diff": 1.2284200651042474
+    },
+    "narrative_A|narrative_B": {
+     "distance": 0.09591459456266582,
+     "z_vs_diff": -1.0138992664265527,
+     "pct_diff_pairs_closer": 0.12011964735516373,
+     "pct_same_pairs_closer": 0.42857142857142855,
+     "LR_same_vs_diff": 1.2078201483220703
+    },
+    "morriss|narrative": {
+     "distance": 0.10546575288628268,
+     "z_vs_diff": -0.8389727372207589,
+     "pct_diff_pairs_closer": 0.2084382871536524,
+     "pct_same_pairs_closer": 0.4975369458128079,
+     "LR_same_vs_diff": 1.048522437016021
+    },
+    "morriss|beale_letters": {
+     "distance": 0.15744890708898407,
+     "z_vs_diff": 0.11308275529092549,
+     "pct_diff_pairs_closer": 0.6270465994962217,
+     "pct_same_pairs_closer": 0.8472906403940886,
+     "LR_same_vs_diff": 0.5389932916818521
+    },
+    "beale_b2|narrative": {
+     "distance": 0.323095202938527,
+     "z_vs_diff": 3.1468437533793683,
+     "pct_diff_pairs_closer": 0.9889798488664987,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 6.325112201660466e-06
+    },
+    "beale_b2|beale_letters": {
+     "distance": 0.3173789606485775,
+     "z_vs_diff": 3.0421525326917407,
+     "pct_diff_pairs_closer": 0.9872481108312342,
+     "pct_same_pairs_closer": 1.0,
+     "LR_same_vs_diff": 3.241574088156539e-05
+    }
+   },
+   "bootstrap_pct_diff_pairs_closer_lengthmatched": [
+    0.16627607892747048,
+    0.3393621444800988
+   ],
+   "nearest": {
+    "beale_letters": [
+     [
+      "narrative",
+      0.08407436030001436
+     ],
+     [
+      "narrative_B",
+      0.09525365958549725
+     ],
+     [
+      "jefferson_2",
+      0.09853609071169256
+     ],
+     [
+      "jackson_3",
+      0.10257809973644538
+     ],
+     [
+      "flint_1",
+      0.10261797818344232
+     ]
+    ],
+    "narrative": [
+     [
+      "jefferson_1",
+      0.07830270948012275
+     ],
+     [
+      "cooke_lee_4",
+      0.07979766184448
+     ],
+     [
+      "lee_2",
+      0.0815768824472799
+     ],
+     [
+      "jqadams_2",
+      0.08266422927338513
+     ],
+     [
+      "cabell_1",
+      0.08326947893227887
+     ]
+    ],
+    "morriss": [
+     [
+      "narrative",
+      0.10546575288628268
+     ],
+     [
+      "narrative_2000",
+      0.11207104847388771
+     ],
+     [
+      "narrative_A",
+      0.11364985509967529
+     ],
+     [
+      "lee_4",
+      0.13264912489899794
+     ],
+     [
+      "narrative_B",
+      0.13997640246353082
+     ]
+    ],
+    "beale_letter1": [
+     [
+      "narrative",
+      0.08467599461130992
+     ],
+     [
+      "jefferson_2",
+      0.10008235325271087
+     ],
+     [
+      "narrative_B",
+      0.10025877287634888
+     ],
+     [
+      "hall_3",
+      0.10174209054614358
+     ],
+     [
+      "flint_1",
+      0.10504575825845042
+     ]
+    ],
+    "poe_goldbug_1": [
+     [
+      "randolph_4",
+      0.10661006296258402
+     ],
+     [
+      "bagby_4",
+      0.11298803550512027
+     ],
+     [
+      "twain_letters_2",
+      0.11881952586421485
+     ],
+     [
+      "narrative",
+      0.12021014856987677
+     ],
+     [
+      "twain_letters_1",
+      0.12197696183014117
+     ]
+    ],
+    "poe_letters_1": [
+     [
+      "randolph_4",
+      0.14854681235497813
+     ],
+     [
+      "twain_letters_1",
+      0.15696636218631588
+     ],
+     [
+      "lee_3",
+      0.15706477748696857
+     ],
+     [
+      "randolph_2",
+      0.1577028060082868
+     ],
+     [
+      "jackson_3",
+      0.15877717909045752
+     ]
+    ]
+   },
+   "nearest_authors": {
+    "beale_letters": [
+     [
+      "NARRATIVE(1885)",
+      0.1065738393131
+     ],
+     [
+      "jackson",
+      0.11907878287413423
+     ],
+     [
+      "flint",
+      0.12303991486656818
+     ],
+     [
+      "lee",
+      0.12609241815058758
+     ],
+     [
+      "jefferson",
+      0.12815731686092127
+     ],
+     [
+      "paulding",
+      0.12901923605539675
+     ],
+     [
+      "hall",
+      0.13002567114884794
+     ],
+     [
+      "tjames",
+      0.1350856876126289
+     ]
+    ],
+    "beale_letters_2000": [
+     [
+      "NARRATIVE(1885)",
+      0.10684628578351402
+     ],
+     [
+      "flint",
+      0.12238911197385652
+     ],
+     [
+      "hall",
+      0.12773303105730555
+     ],
+     [
+      "pattie",
+      0.13029594662326777
+     ],
+     [
+      "paulding",
+      0.13116026720773452
+     ],
+     [
+      "irving",
+      0.1318059609737771
+     ],
+     [
+      "jefferson",
+      0.13256340787414517
+     ],
+     [
+      "tjames",
+      0.1338133950065226
+     ]
+    ],
+    "narrative": [
+     [
+      "BEALE LETTERS",
+      0.08407436030001436
+     ],
+     [
+      "paulding",
+      0.09324994403398187
+     ],
+     [
+      "jqadams",
+      0.09407296770249707
+     ],
+     [
+      "hall",
+      0.0956832434107231
+     ],
+     [
+      "cabell",
+      0.09846539923071254
+     ],
+     [
+      "eggleston",
+      0.0998941324089122
+     ],
+     [
+      "jefferson",
+      0.1021387505435821
+     ],
+     [
+      "flint",
+      0.10441234034329294
+     ]
+    ],
+    "morriss": [
+     [
+      "NARRATIVE(1885)",
+      0.12681312878160306
+     ],
+     [
+      "lee",
+      0.16766465889136023
+     ],
+     [
+      "cabell",
+      0.17300211676812866
+     ],
+     [
+      "paulding",
+      0.17885331628159476
+     ],
+     [
+      "twain",
+      0.1836922667290877
+     ],
+     [
+      "jackson",
+      0.18381410817843247
+     ],
+     [
+      "eggleston",
+      0.18474051031774766
+     ],
+     [
+      "cable",
+      0.1870970736437682
+     ]
+    ]
+   },
+   "period_classification_accuracy_controls": 0.7222222222222222,
+   "period": {
+    "beale_letters": {
+     "mean_dist_early": 0.1452931883612299,
+     "mean_dist_late": 0.1590889369567219
+    },
+    "beale_letters_2000": {
+     "mean_dist_early": 0.14762630096434956,
+     "mean_dist_late": 0.1588354951353707
+    },
+    "beale_letter1": {
+     "mean_dist_early": 0.1466516653961158,
+     "mean_dist_late": 0.15875916459254283
+    },
+    "narrative": {
+     "mean_dist_early": 0.12305699826068335,
+     "mean_dist_late": 0.12542824902025934
+    },
+    "morriss": {
+     "mean_dist_early": 0.21159880923019828,
+     "mean_dist_late": 0.19816812244898774
+    }
+   }
+  }
+ },
+ "function_word_contributions_top": [
+  [
+   "until",
+   2.6569009325680972,
+   3.5694637506672793,
+   9.483711567915913
+  ],
+  [
+   "myself",
+   1.4496704652959822,
+   3.2299675368855856,
+   4.682388542087844
+  ],
+  [
+   "such",
+   2.6890977019591196,
+   1.4857327970293714,
+   3.9952806502169778
+  ],
+  [
+   "may",
+   1.684393345262783,
+   2.0003949643816514,
+   3.3694519659016358
+  ],
+  [
+   "each",
+   3.932362084212684,
+   0.830929327923229,
+   3.2675149837856337
+  ],
+  [
+   "will",
+   3.3581972301053202,
+   0.6008462689550078,
+   2.0177602761238234
+  ],
+  [
+   "be",
+   3.448477867085059,
+   0.543530476303528,
+   1.8743528176189164
+  ],
+  [
+   "might",
+   1.8583762896402367,
+   0.9814633291510155,
+   1.8239281800456186
+  ],
+  [
+   "this",
+   1.359610018224203,
+   1.3294229412804215,
+   1.8074967494219474
+  ],
+  [
+   "on",
+   -1.10735659531193,
+   -1.5535574577565536,
+   1.7203420970427548
+  ],
+  [
+   "to",
+   1.482585922087831,
+   1.0792853143798844,
+   1.6001332130157555
+  ],
+  [
+   "once",
+   2.615094014301249,
+   0.5884988708879996,
+   1.5389798746822514
+  ],
+  [
+   "can",
+   0.9168445288116789,
+   1.605134105944284,
+   1.4716584230440426
+  ],
+  [
+   "my",
+   1.0593744972614296,
+   1.3465572909421917,
+   1.426508453125597
+  ],
+  [
+   "as",
+   0.7360645945532939,
+   1.7454496514101412,
+   1.2847636899783936
+  ],
+  [
+   "all",
+   1.137103227832384,
+   0.9773252194837627,
+   1.1113196617169798
+  ],
+  [
+   "ever",
+   0.5532335529583292,
+   1.9938132052099882,
+   1.103044363453556
+  ],
+  [
+   "with",
+   0.7794257785663135,
+   1.1566821415688784,
+   0.9015478787460738
+  ],
+  [
+   "about",
+   -0.9809762630027308,
+   -0.8882829215679499,
+   0.8713844608888752
+  ],
+  [
+   "its",
+   0.9841642690797312,
+   0.8211501850263445,
+   0.8081466716511384
+  ],
+  [
+   "which",
+   0.8123923731036159,
+   0.983938540400925,
+   0.7993441658244155
+  ],
+  [
+   "very",
+   -0.9321453060253283,
+   -0.8206490403768241,
+   0.7649641508814466
+  ],
+  [
+   "both",
+   -0.8586819020942607,
+   -0.8586819020942607,
+   0.7373346089842174
+  ],
+  [
+   "yet",
+   -0.8540389730820791,
+   -0.8540389730820791,
+   0.7293825675430923
+  ],
+  [
+   "down",
+   -0.8539917747495281,
+   -0.8539917747495281,
+   0.7293019513398488
+  ]
+ ],
+ "genre_matched_period": {
+  "beale_letters": {
+   "early_letters": 0.9158600022176536,
+   "late_letters": 0.9622255188655353
+  },
+  "beale_letters_2000": {
+   "early_letters": 0.953850639382155,
+   "late_letters": 1.0118257352390831
+  },
+  "narrative": {
+   "early_letters": 0.9347168955398438,
+   "late_letters": 0.8766428450608843
+  },
+  "morriss": {
+   "early_letters": 0.9830449640423868,
+   "late_letters": 0.9507672741849488
+  },
+  "control_accuracy": 0.696969696969697
+ }
+}

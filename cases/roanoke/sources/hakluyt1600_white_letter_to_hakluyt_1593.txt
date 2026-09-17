@@ -1,0 +1,79 @@
+TEXT: John White, letter to Richard Hakluyt, 'from my house at Newtowne in Kylmore the 4 of February, 1593' (Hakluyt 1600, vol. III, p. 288)
+GOLDSMID SECTION: XXXII (Gutenberg #25645 file lines 13948-14022)
+SOURCE EDITION: Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid, vol. XIII 'America, Part II' (Edinburgh: E. & G. Goldsmid, 1889), text as transcribed by Project Gutenberg eBook #25645 (release 2008-05-29, updated 2020-06-20). Goldsmid reprints the text of the 1600 edition (vol. III) with original spelling (u/v, i/j as printed); Hakluyt's marginal notes are given as bracketed (Mnnn) references and Goldsmid's footnotes as (nnn) numbers.
+URL FETCHED: https://www.gutenberg.org/cache/epub/25645/pg25645.txt  (also https://www.gutenberg.org/files/25645/25645-8.txt)
+DATE FETCHED: 2026-09-14
+1600-EDITION PAGE NUMBERS: taken from the '[III. nnn.]' markers in the MacLehose edition (Glasgow 1904, vol. VIII), archive.org id principalnavigat08hakl, which reproduces the 1600 pagination; see maclehose1904_vol8_virginia_section.txt in this folder.
+==============================================================================
+
+XXXII. A letter from John White to M. Richard Hakluyt.
+
+
+To the Worshipful and my very friend Master Richard Hakluyt, much
+happinesse in the Lord.
+
+Sir, as well for the satisfying of your earnest request, as the
+performance of my promise made vnto you at my last being with you in
+England, I haue sent you (although in a homely stile, especially for the
+contestation of a delicate care) the true discourse of my last voyage into
+the West Indies, and partes of America called Virginia, taken in hand
+about the end of Februarie in the yeare of our redemption 1590. And what
+euents happened vnto vs in this our iourney, you shall plainely perceiue
+by the sequele of my discourse. There were at the time aforesaid three
+ships absolutely determined to goe for the West Indies, at the speciall
+charges of M. Iohn Wattes of London Marchant. But when they were fully
+furnished, and in readinesse to make their departure, a generall stay was
+commanded of all ships thorowout England. Which so soone as I heard, I
+presently (as I thought it most requisite) acquainted Sir Walter Ralegh
+therewith, desiring him that as I had sundry times afore bene chargeable
+and troublesome vnto him, for the supplies and reliefes of the planters in
+Virginia: so likewise, that by his endeuour it would please him at that
+instant to procure license for those three ships to proceede on with their
+determined voyage, that thereby the people in Virginia (if it were Gods
+pleasure) might speedily be comforted and relieued without further charges
+vnto him. Whereupon he by his good meanes obtained license of the Queenes
+Maiestie, and order to be taken, that the owner of the 3 ships should be
+bound vnto Sir Walter Ralegh or his assignes, in 3000 pounds, that those 3
+ships in consideration of their releasement should take in, and transport
+a conuenient number of passengers, with their furnitures and necessaries
+to be landed in Virginia. Neuerthelesse that order was not obserued,
+neither was the bond taken according to the intention aforesaid. But
+rather in contempt of the aforesaid order, I was by the owner and
+Commanders of the ships denied to haue any passengers, or any thing els
+transported in any of the said ships, sauing only my selfe and my chest;
+no not so much as a boy to attend vpon me, although I made great sute, and
+earnest intreatie aswell to the chiefe Commanders, as to the owner of the
+said ships. Which crosse and vnkind dealing, although it very much
+discontented me, notwithstanding the scarcity of time was such, that I
+could haue no opportunity to go vnto Sir Walter Ralegh with complaint: for
+the ships being then all in readinesse to goe to the Sea, would haue bene
+departed before I could haue made my returne. Thus both Gouernors,
+Masters, and sailers, regarding very smally the good of their countreymen
+in Virginia; determined nothing lesse then to touch at those places, but
+wholly disposed themselues to seeke after purchase and spoiles, spending
+so much time therein, that sommer was spent before we arriued at Virginia.
+And when we were come thither, the season was so vnfit, and weather so
+foule, that we were constrained of force to forsake that coast, hauing not
+seene any of our planters, with losse of one of our ship-boates, and 7 of
+our chiefest men: and also with losse of 3 of our ankers and cables, and
+most of our caskes with fresh water left on shore, not possible to be had
+aboard. Which euils and vnfortunate euents (as wel to their owne losse as
+to the hinderance of the planters in Virginia) had not chanced, if the
+order set downe by Sir Walter Ralegh had bene obserued, or if my dayly and
+continuall petitions for the performance of the same might haue taken any
+place. Thus may you plainely perceiue the successe of my fift and last
+voiage to Virginia, which was no lesse vnfortunately ended then frowardly
+begun, and as lucklesse to many, as sinister to my selfe. But I would to
+God it had bene as prosperous to all, as noysome to the planters; and as
+ioyfull to me, as discomfortable to them. Yet seeing it is not my first
+crossed voyage, I remaine contented. And wanting my wishes, I leaue off
+from prosecuting that whereunto I would to God my wealth were answerable
+to my will. Thus committing the reliefe of my discomfortable company the
+planters in Virginia, to the merciful help of the Almighty, whom I most
+humbly beseech to helpe and comfort them, according to his most holy will
+and their good desire, I take my leaue: from my house at Newtowne in
+Kylmore the 4 of February, 1593.
+
+Your most welwishing friend,
+
+IOHN WHITE.

@@ -1,0 +1,27 @@
+{
+ "stats": {
+  "noise": 663,
+  "pagenum": 100,
+  "sig": 40,
+  "override": 4,
+  "auto": 2,
+  "words_out": 1653,
+  "lines_out": 663
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   4
+  ],
+  [
+   "fift>fist",
+   1
+  ],
+  [
+   "defires>desires",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

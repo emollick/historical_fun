@@ -1,0 +1,29 @@
+title: God Save the Queen
+author: Winthrop Mackworth Praed
+date: c. 1823-1839
+source: https://www.gutenberg.org/ebooks/71008 (The Poems of Winthrop Mackworth Praed [selected], ed. Frederick Cooper, London: Walter Scott)
+form: iambic tetrameter
+lines: 20
+attribution: certain
+notes: light verse (vers de societe)
+
+That she may see, our bright and fair,
+How arduous is her path to fame,
+How much of solemn thought and care
+An empire’s interests fitly claim,--
+That she may know how poor ’twould seem
+In one who graces Britain’s throne
+To patronise a party’s scheme
+Or make a favourite’s cause her own,--
+That she may feel to whom belong
+Alike the contest and the prize,
+Whence springs the valour of the strong,
+Whence flows the counsel of the wise,--
+That she may keep in womanhood
+The heaven-born impulses of youth,
+The zeal for universal good,
+The reverence for eternal truth,--
+That she may seek the right and just,--
+That she may shun the false and mean,--
+That she may win all love and trust,
+Blessing and blest,--God save the Queen.

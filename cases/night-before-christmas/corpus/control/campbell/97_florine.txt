@@ -1,0 +1,23 @@
+title: Florine
+author: Thomas Campbell
+date: c. 1799-1840
+source: https://www.gutenberg.org/ebooks/59788 (The Poetical Works of Thomas Campbell, reprinted from the early editions, London: Griffith Farran, n.d. [c. 1890])
+form: ballad
+lines: 12
+attribution: certain
+notes: 
+
+Could I bring back lost youth again,
+And be what I have been,
+I’d court you in a gallant strain,
+My young and fair Florine.
+
+But mine’s the chilling age that chides
+Devoted rapture’s glow,
+And Love—that conquers all besides—
+Finds Time a conquering foe.
+
+Farewell! we’re severed by our fate,
+As far as night from noon;
+You came into the world too late,
+And I depart so soon.

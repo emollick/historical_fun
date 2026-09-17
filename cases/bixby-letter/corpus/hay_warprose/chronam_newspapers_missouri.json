@@ -1,0 +1,2948 @@
+<!DOCTYPE html>
+
+
+<html lang="en" class="no-js" prefix="lc: http://loc.gov/#">
+<head>
+
+
+<title>Service-Unavailable -- 503 -- Library of Congress</title>
+
+
+
+    
+
+
+
+
+<link href='https://www.loc.gov/static/stylesheets/base.css'
+    type='text/css'
+    rel='stylesheet' />
+<link href="https://www.loc.gov/static/fonts/OpenSans-Regular.woff2"
+    rel='preload'
+    as='font'
+    type='font/woff2'
+    crossorigin />
+<link href="https://www.loc.gov/static/fonts/OpenSans-Bold.woff2"
+    rel='preload'
+    as='font'
+    type='font/woff2'
+    crossorigin />
+<link href="https://www.loc.gov/static/css/fa/fonts/fontawesome-webfont.woff2?v=4.6.3"
+    rel='preload'
+    as='font'
+    type='font/woff2'
+    crossorigin />
+
+<link href="https://www.loc.gov/static/fonts/RobotoSlab-Bold.woff2"
+    rel='preload'
+    as='font'
+    type='font/woff2'
+    crossorigin />
+
+
+
+
+
+
+
+
+<style>
+[target="_blank"][aria-describedby="new-window"]::after {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    content: '\f08e' / "";
+    margin-left: 0.25rem;
+}
+
+/* Temporarily support dark mode in UI2 when embed is from UI */
+.featured_video_container {
+    background-color: #fff;
+}
+</style>
+
+
+
+
+<script src="https://assets.adobedtm.com/dac62e20b491e735c6b56e64c39134d8ee93f9cf/satelliteLib-6b47f831c184878d7338d4683ecf773a17973bb9.js"></script>
+
+
+
+<script type="text/javascript"
+    src='https://www.loc.gov/static/js/lib/jquery-1.8.2.js'></script>
+
+
+
+
+
+
+
+    
+
+<script type="text/javascript">
+/**
+ * Timing.js 1.0.4
+ * Copyright 2015 Addy Osmani
+ */
+(function(window) {
+    'use strict';
+
+    /**
+     * Navigation Timing API helpers
+     * timing.getTimes();
+     **/
+    window.timing = window.timing || {
+        /**
+         * Outputs extended measurements using Navigation Timing API
+         * @param  Object opts Options (simple (bool) - opts out of full data view)
+         * @return Object      measurements
+         */
+        getTimes: function(opts) {
+            var performance = window.performance || window.webkitPerformance || window.msPerformance || window.mozPerformance;
+
+            if (performance === undefined) {
+                return false;
+            }
+
+            var timing = performance.timing;
+            var api = {};
+            opts = opts || {};
+
+            if (timing) {
+                if(opts && !opts.simple) {
+                    for (var k in timing) {
+                        // hasOwnProperty does not work because properties are
+                        // added by modifying the object prototype
+                        if(isNumeric(timing[k])) {
+                            api[k] = parseFloat(timing[k]);
+                        }
+                    }
+                }
+
+
+                // Time to first paint
+                if (api.firstPaint === undefined) {
+                    // All times are relative times to the start time within the
+                    // same objects
+                    var firstPaint = 0;
+
+                    // Chrome
+                    if (window.chrome && window.chrome.loadTimes) {
+                        // Convert to ms
+                        firstPaint = window.chrome.loadTimes().firstPaintTime * 1000;
+                        api.firstPaintTime = firstPaint - (window.chrome.loadTimes().startLoadTime*1000);
+                    }
+                    // IE
+                    else if (typeof window.performance.timing.msFirstPaint === 'number') {
+                        firstPaint = window.performance.timing.msFirstPaint;
+                        api.firstPaintTime = firstPaint - window.performance.timing.navigationStart;
+                    }
+                    // Firefox
+                    // This will use the first times after MozAfterPaint fires
+                    //else if (window.performance.timing.navigationStart && typeof InstallTrigger !== 'undefined') {
+                    //    api.firstPaint = window.performance.timing.navigationStart;
+                    //    api.firstPaintTime = mozFirstPaintTime - window.performance.timing.navigationStart;
+                    //}
+                    if (opts && !opts.simple) {
+                        api.firstPaint = firstPaint;
+                    }
+                }
+
+                // Total time from start to load
+                api.loadTime = timing.loadEventEnd - timing.fetchStart;
+                // Time spent constructing the DOM tree
+                api.domReadyTime = timing.domComplete - timing.domInteractive;
+                // Time consumed preparing the new page
+                api.readyStart = timing.fetchStart - timing.navigationStart;
+                // Time spent during redirection
+                api.redirectTime = timing.redirectEnd - timing.redirectStart;
+                // AppCache
+                api.appcacheTime = timing.domainLookupStart - timing.fetchStart;
+                // Time spent unloading documents
+                api.unloadEventTime = timing.unloadEventEnd - timing.unloadEventStart;
+                // DNS query time
+                api.lookupDomainTime = timing.domainLookupEnd - timing.domainLookupStart;
+                // TCP connection time
+                api.connectTime = timing.connectEnd - timing.connectStart;
+                // Time spent during the request
+                api.requestTime = timing.responseEnd - timing.requestStart;
+                // Request to completion of the DOM loading
+                api.initDomTreeTime = timing.domInteractive - timing.responseEnd;
+                // Load event time
+                api.loadEventTime = timing.loadEventEnd - timing.loadEventStart;
+            }
+
+            return api;
+        },
+        /**
+         * Uses console.table() to print a complete table of timing information
+         * @param  Object opts Options (simple (bool) - opts out of full data view)
+         */
+        printTable: function(opts) {
+            var table = {};
+            var data  = this.getTimes(opts) || {};
+            Object.keys(data).sort().forEach(function(k) {
+                table[k] = {
+                    ms: data[k],
+                    s: +((data[k] / 1000).toFixed(2))
+                };
+            });
+            console.table(table);
+        },
+        /**
+         * Uses console.table() to print a summary table of timing information
+         */
+        printSimpleTable: function() {
+            this.printTable({simple: true});
+        }
+    };
+
+    function isNumeric(n) {
+        return !isNaN(parseFloat(n)) && isFinite(n);
+    }
+
+    // Expose as a commonjs module
+    if (typeof module !== 'undefined' && module.exports) {
+        module.exports = window.timing;
+    }
+
+})(typeof window !== 'undefined' ? window : {});
+;;
+</script>
+<script type="text/javascript">
+// Stub window.loc_ux_tracking so we dont have to riddle the pages
+// with if(window.loc_ux_tracking) everywhere.  Also create an alias
+// `UX`
+jQuery(function($){
+    if(!window.loc_ux_tracking){
+        window.loc_ux_tracking = {
+            trackFileDownloadEvent: function(){},
+            trackUserInteractionEvent: function(){},
+            trackUserInterfaceAction: function(){},
+        }
+    }
+    window.UX = window.loc_ux_tracking;
+    UX.download = UX.trackFileDownloadEvent;
+    UX.interaction = UX.trackUserInteractionEvent;
+    UX.interface = UX.trackUserInterfaceAction;
+
+    function getMediaPosition(player) {
+        /*
+         * To support the two media players (JW Player and mediaElement) a facade function
+         * wwas created in order to get the current position in a video.
+         *
+         * getMediaPosition() returns the current position in the video.
+         * @param {playerObject} player
+         * @return {currentPosition} number
+         */
+        switch(player.type) {
+            case 'jwPlayer': {
+                return player.getPosition();
+            }
+            case 'mediaElement': {
+                return player.getCurrentTime();
+            }
+        }
+        return null;
+    }
+
+
+    function getMediaDuration(player) {
+        /*
+         * To support the two media players (JW Player and mediaElement) a facade function
+         * wwas created in order to get the length of a video.
+         *
+         * getMediaPosition() returns the length of the video.
+         * @param {playerObject} player
+         * @return {currentPosition} number
+         */
+        switch(player.type) {
+            case 'jwPlayer': {
+                return player.getDuration();
+            }
+            case 'mediaElement': {
+                return player.duration;
+            }
+        }
+        return null;
+    }
+
+    /*
+    function mediaPlayerInterface(player, playerType) {
+        // given the media player type, this function will modify the objects such that the methods
+        // called in track_player are the same for both jwPlayer and mediaElement
+        switch(playerType) {
+            case 'jwPlayer': {
+                // Want to mimic the jwPlayers functions so if jwPlayer do nothing
+                break;
+            }
+            case 'mediaElement': {
+                player.getPosition = function() {
+                    return player.getCurrentTime();
+                }
+
+                player.getDuration = function() {
+                    return player.duration;
+                }
+                break;
+            }
+        }
+        return player;
+    }
+    */
+
+    // Register calls to Adobe for metrics tracking
+    $.omniture = UX.track_player = function(player, playerType, shortName, isVideo) {
+
+        player.type = playerType;
+        var eventData = {
+            player: player,
+            shortName: shortName
+        };
+        eventData.mediaType = isVideo ? 'video' : 'audio';
+
+
+        switch(playerType) {
+            case 'jwPlayer': {
+                player.on('pause', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('buffer', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('idle', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('complete', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('play', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('seeked', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.on('seeking', function(event) {handleMediaEvent(event, eventData)}, this);
+                break;
+            }
+            case 'mediaElement': {
+                player.addEventListener('pause', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('buffer', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('idle', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('ended', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('play', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('seeked', function(event) {handleMediaEvent(event, eventData)}, this);
+                player.addEventListener('seeking', function(event) {handleMediaEvent(event, eventData)}, this);
+                break;
+            }
+            default:
+                break;
+        }
+
+    };
+
+    //Handle various media events and send data to Adobe. This also sends data to the legacy locjukebox reporting suite
+    function handleMediaEvent(event, eventData) {
+        if (typeof s != "undefined") {
+            var player = eventData.player;
+            var mediaName = eventData.shortName;
+            var mediaType = eventData.mediaType;
+            var mediaPlayerName = "LOC JW Player";
+            var mediaOffset = 0;
+            var legacyTracking = s_gi('locjukebox');
+
+            legacyTracking.trackingServer = s.trackingServerSecure;
+            legacyTracking.prop4 = mediaName;
+
+            if (getMediaPosition(player) > 0) {
+                mediaOffset = Math.floor(getMediaPosition(player));
+            }
+
+            switch (event.type) {
+                case 'play':
+                    if (mediaOffset == 0) {
+                        setTimeout(function() {
+                            // s.Media.open(mediaName, getMediaDuration(player), mediaPlayerName);
+                            // s.Media.play(mediaName, mediaOffset);
+                            legacyTracking.prop8 = "[Button Click] - Start " + mediaType;
+                            legacyTracking.tl();
+                            // console.log('play event fired off');
+                        }, 500);
+                    }
+                    else {
+                        // s.Media.play(mediaName, mediaOffset);
+                        legacyTracking.prop8 = "[Button Click] - Resume " + mediaType;
+                        legacyTracking.tl();
+                    }
+                    break;
+
+                case 'seeked':
+                    // s.Media.stop(mediaName, mediaOffset);
+                    // s.Media.play(mediaName, mediaOffset);
+                    legacyTracking.prop8 = "[Scrub] - Specific Point in " + mediaType + " Clip";
+                    legacyTracking.tl();
+                    // console.log('seek event fired off');
+                    break;
+
+                case 'pause':
+                    // s.Media.stop(mediaName, mediaOffset);
+                    legacyTracking.prop8 = "[Button Click] - Pause " + mediaType;
+                    legacyTracking.tl();
+                    // console.log('pause event fired off');
+                    break;
+
+                case 'seeking':
+                    // s.Media.stop(mediaName, mediaOffset);
+                    // console.log('seeking event fired off');
+                    break;
+
+                case 'buffer':
+                case 'idle':
+                    break;
+
+                case 'ended':
+                case 'complete':
+                    // s.Media.stop(mediaName, mediaOffset);
+                    // s.Media.close(mediaName);
+                    mediaOffset = 0;
+                    legacyTracking.prop8 = "[End Clip] - " + mediaType;
+                    legacyTracking.tl();
+                    break;
+            }
+        }
+    }
+});
+
+// General analytics properties.  Adobe will inspect the global scope
+// and execute this function if it finds it.
+var doPageMetricsPlugin = function(s){
+
+    // window.UX = window.loc_ux_tracking;  // This resets the UX object removing track_player causing a bug for the video player
+    UX.download = UX.trackFileDownloadEvent;
+    UX.interaction = UX.trackUserInteractionEvent;
+    UX.interface = UX.trackUserInterfaceAction;
+
+    return s;
+};
+</script>
+
+
+    
+
+
+<script type="text/javascript">
+    var analytics = {};
+    jQuery(function($){
+        
+        analytics.item = null;
+        
+
+        
+        analytics.options = {
+  "access_group": [
+    ""
+  ],
+  "access_group_raw": "",
+  "all": null,
+  "api_version": "1",
+  "app_context": null,
+  "application_shim": null,
+  "application_version": "$Revision$",
+  "attribute": null,
+  "attribute!": null,
+  "attribute_map": null,
+  "cache_tags": [],
+  "callback": null,
+  "clip": null,
+  "clip_image_width": null,
+  "clip_rotation": null,
+  "content_filter": null,
+  "content_replacement": "",
+  "count": null,
+  "dates": null,
+  "default_count": 25,
+  "delimiter": null,
+  "digital_id": null,
+  "display_level": null,
+  "distance": null,
+  "downloadOption": null,
+  "duration": 0.001531839370727539,
+  "embed": [],
+  "embed!": [],
+  "error_response_status": "ok",
+  "excludeTerms": null,
+  "facetLimits": "",
+  "facetPrefix": null,
+  "facet_count": null,
+  "facet_style": null,
+  "field": null,
+  "format": null,
+  "host": "www.loc.gov",
+  "ical": false,
+  "id": null,
+  "iiif": false,
+  "index": null,
+  "inputEncoding": "UTF-8",
+  "item": null,
+  "items": null,
+  "keys": null,
+  "language": null,
+  "latlong": null,
+  "method": "GET",
+  "name": "service-unavailable",
+  "newSearch": null,
+  "new_clip_url": false,
+  "onsite": false,
+  "operator": null,
+  "outputEncoding": "UTF-8",
+  "page_campaigns": [],
+  "path_info": "/error/service-unavailable/",
+  "port": "443",
+  "proxypath": null,
+  "query_string": "ers=ok",
+  "redirect_proxy": false,
+  "redirect_to_item": null,
+  "referer": "",
+  "region": "",
+  "release_id": 123456789,
+  "request_host": "c2vlpnlbloc01.loc.gov",
+  "request_params": {
+    "ers": [
+      "ok"
+    ]
+  },
+  "request_url": "https://c2vlpnlbloc01.loc.gov/error/service-unavailable/?ers=ok",
+  "resource": "",
+  "resource_sequence": null,
+  "scheme": "https",
+  "searchIn": null,
+  "searchTerms": "",
+  "segments": null,
+  "site_id": null,
+  "site_type": null,
+  "solrQuery": "",
+  "sortBy": null,
+  "sortOrder": null,
+  "startPage": null,
+  "style": null,
+  "suggested": null,
+  "target": null,
+  "timestamp": 1789191645.6537485,
+  "tz_aware": null,
+  "unionFacets": "",
+  "webcast_permalink": null
+};
+        
+
+        
+
+        
+        analytics.status = "503";
+        
+
+        
+        analytics.title = null;
+        
+
+        
+        analytics.views= null;
+        
+    });
+</script>
+
+
+
+
+    
+<meta name="msapplication-TileColor"
+      content="#ffffff" />
+<meta name="msapplication-TileImage"
+      content='ms-icon-144x144.png' />
+
+
+
+<link title="Library of Congress Search"
+      href='https://www.loc.gov/search/opensearch.xml'
+        rel="search"
+        type="application/opensearchdescription+xml" />
+
+
+</head>
+<body><a href="https://www.loc.gov/cdn-cgi/content?id=g_JwabhTXA55oGx78FnPQG8XsN56Ma9TeANum6n7ZzY-1789369056.2863426-1.2.1.1-TuBsYf3fyj2Pd.b0f0hkqwHtQ00ZZlzAvaZRcfvmGFzbpENUm01rpZAvlWDDsP2W" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"></a>
+<p id="top" class="screen-readers-only" tabindex="-1" style="outline: none;">Top of page</p>
+<div id='body' class='
+    
+    '>
+
+
+
+
+
+
+<style>.header-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 998;
+  background-color: #000000;
+  /* fallback */
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.header {
+  background-color: #fff;
+  border-top: 4px solid #F05129;
+  border-bottom: 1px solid #808080;
+  position: relative;
+  z-index: 999;
+}
+.header-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .header-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.header-row {
+  display: flex;
+  align-items: center;
+  min-height: 70px;
+}
+@media (min-width: 993px) {
+  .header-row {
+    align-items: flex-end;
+  }
+}
+</style>
+
+
+<header class="header" role="banner">
+    <a class="skip-nav" href="#skip-to-content">Skip to main content</a>
+    <div class="header-container">
+        <div class="header-row">
+            
+            
+
+
+<style>.header-logo {
+  width: 161px;
+}
+@media (min-width: 993px) {
+  .header-logo {
+    width: 363px;
+    padding: 25px 0;
+  }
+}
+.header-logo > a {
+  display: block;
+  width: 363px;
+  height: 90px;
+}
+.header-logo > a > img {
+  width: 100%;
+  height: auto;
+}
+.header-logo > a > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 992px) {
+  .header-logo > a {
+    width: 161px;
+    height: 40px;
+  }
+}
+@media (max-width: 480px) {
+  .header-logo > a {
+    width: auto;
+    min-width: 100px;
+    height: auto;
+    display: flex;
+    align-items: center;
+  }
+}
+@media print {
+  .header-logo > a {
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  .header-logo {
+    padding: 0;
+  }
+}
+@media print {
+  .header-logo {
+    padding: 1rem 0;
+    height: 68px;
+    display: block;
+  }
+  .header-logo:after {
+    content: url("/static/images/logo-loc-new-branding.svg?$Revision$");
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}
+</style>
+<script>jQuery(function($) {
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-logo a').live('click', function() {
+        UX.interaction($(this), 'LC Logo', 'Click', '');
+    });
+
+});
+</script>
+
+
+<div class="header-logo">
+    <a href="/">
+        <img src="https://www.loc.gov/static/images/logo-loc-new-branding.svg" width="363" height="90" alt="" />
+        <span>Library of Congress</span>
+    </a>
+</div>
+
+            
+            
+            
+            
+
+
+<style>.header-search {
+  flex: 1 1 0%;
+  padding-left: 30px;
+}
+@media (min-width: 993px) {
+  .header-search {
+    padding: 25px 0 25px 210px;
+  }
+}
+.header-search > form {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #000;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -ms-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+@media (max-width: 768px) {
+  .header-search > form {
+    flex: 1 0 100%;
+  }
+}
+.header-search > form .header-search-formats {
+  position: relative;
+  color: #000;
+  border-bottom: 1px solid #000;
+  flex: 0 0 100%;
+  display: flex;
+}
+@media (min-width: 481px) {
+  .header-search > form .header-search-formats {
+    flex: none;
+    border: none;
+  }
+}
+.header-search > form .header-search-formats .header-search-format-select {
+  border: none;
+  width: 100%;
+  font-size: 12px;
+  /*
+                &:hover,
+                &:focus {
+                    box-shadow: inset 0 0 3px #000 !important;
+                }*/
+}
+@media (max-width: 480px) {
+}
+.header-search > form .header-search-formats .header-search-format-select::-ms-expand {
+  display: none;
+}
+.header-search > form .header-search-input-wrapper {
+  flex: 1 1 1%;
+  position: relative;
+}
+.header-search > form .header-search-input-wrapper .header-search-input {
+  box-sizing: border-box;
+  width: 100%;
+  border: none;
+  border-left: 1px solid #000;
+  /*
+                &:focus {
+                    box-shadow: inset 0 0 3px @gray-dark !important;
+                }*/
+}
+@media (max-width: 480px) {
+  .header-search > form .header-search-input-wrapper .header-search-input {
+    border: none;
+  }
+}
+.header-search > form .header-search-button {
+  font-size: 18px;
+  padding: 0 10px;
+  /*
+            .icon {
+                line-height: inherit;
+            }
+
+            &:hover,
+            &:focus {
+                color: #000;
+                background-color: @gray-light;
+                border-color: @gray-light;
+            }*/
+}
+.header-search > form .header-search-button > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 768px) {
+  .header-search > form {
+    display: none;
+  }
+  .header-search > form.header-search-form-active {
+    display: flex;
+  }
+}
+.header-search .header-search-toggle {
+  display: none;
+  height: 32px;
+  font-size: 1.25rem;
+  padding: 0 10px;
+  background-color: #000;
+  border-color: #000;
+}
+.header-search .header-search-toggle span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 768px) {
+  .header-search .header-search-toggle {
+    display: inline-block;
+    float: right;
+  }
+  .header-search .header-search-toggle.header-search-toggle-close {
+    background-color: transparent;
+    border-color: transparent;
+    color: #0076AD;
+    font-size: 36px;
+    color: #F05129;
+    height: auto;
+    flex: none;
+  }
+  .header-search .header-search-toggle.header-search-toggle-close:hover,
+  .header-search .header-search-toggle.header-search-toggle-close:focus {
+    background-color: transparent;
+    border-color: transparent;
+    color: #002347;
+  }
+}
+.header-search select:focus,
+.header-search input:focus,
+.header-search button:focus {
+  z-index: 2;
+  position: relative;
+}
+@media (max-width: 768px) {
+  .header-search {
+    min-height: 32px;
+    box-sizing: border-box;
+    margin: 0 !important;
+  }
+  .header-search.header-search-close {
+    padding: 0 55px 0 1rem !important;
+    z-index: 2;
+    background: #fff;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+}
+@media print {
+  .header-search {
+    display: none;
+  }
+}
+/* autocomplete */
+.autocomplete-w1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  margin: 0;
+  width: 100% !important;
+  box-sizing: border-box;
+}
+.autocomplete {
+  box-sizing: border-box;
+  border: 1px solid #808080;
+  border-top-color: transparent;
+  background-color: #fff;
+  cursor: default;
+  text-align: left;
+  max-height: 350px;
+  overflow: auto;
+  margin: 0;
+}
+.autocomplete .selected {
+  background: #F6F6F6;
+}
+.autocomplete div {
+  padding: 2px 5px;
+  white-space: nowrap;
+}
+.autocomplete strong {
+  font-weight: normal;
+  color: #0076AD;
+}
+.autocomplete-status {
+  font-weight: normal;
+  font-size: 10px;
+  float: right;
+  text-align: right;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+</style>
+<script>jQuery(function($) {
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-search-format-select').change(function() {
+        var label;
+        $('.header-search-format-select option:selected').each(function() {
+            label = $(this).text().trim();
+        });
+        UX.interaction($(this), 'Search', 'Select Format', label);
+    });
+    // search toggle
+    function searchActive() {
+        $('.header-search > form').addClass('header-search-form-active');
+        $('.header-search .header-search-format-select').focus();
+        $('.header-search-toggle i').switchClass('icon-search', 'icon-times', 50);
+        $('.header-search-toggle').addClass('header-search-toggle-close');
+        $('.header-search').addClass('header-search-close');
+    };
+    function searchInactive() {
+        $('.header-search > form').removeClass('header-search-form-active');
+        $('.header-search-toggle i').switchClass('icon-times', 'icon-search', 50);
+        $('.header-search-toggle').removeClass('header-search-toggle-close');
+        $('.header-search').removeClass('header-search-close');
+    };
+
+    $('.header-search-toggle').live('click', function() {
+        if ($('.header-search > form').hasClass('header-search-form-active')) {
+            searchInactive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Search', 'Hide', '');
+        } else {
+            searchActive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Search', 'Show', '');
+        }
+    });
+
+    $(window).on("load resize",function(e){
+        $('.autocomplete-w1').parent().css('width', '100%');
+    });
+
+});
+</script>
+
+
+<div class="header-search">
+    <label for="search" class="test screen-readers-only">Search</label>
+    
+    
+<form role="search" method="get" action="/search/" aria-label="Global">
+    <div class="header-search-formats">
+        <select name="in"
+                id="searchFormat"
+                aria-label="Filter search by"
+                class="header-search-format-select select"
+                style="max-width: 200px;">
+            <option value="">Everything</option>
+
+            
+            <option value="original-format:sound recording"
+                
+                    >Audio Recordings</option>
+            
+            <option value="original-format:book"
+                
+                    >Books/Printed Material</option>
+            
+            <option value="original-format:film, video"
+                
+                    >Films, Videos</option>
+            
+            <option value="original-format:legislation"
+                
+                    >Legislation</option>
+            
+            <option value="original-format:manuscript/mixed material"
+                
+                    >Manuscripts/Mixed Material</option>
+            
+            <option value="original-format:map"
+                
+                    >Maps</option>
+            
+            <option value="original-format:notated music"
+                
+                    >Notated Music</option>
+            
+            <option value="original-format:newspaper"
+                
+                    >Newspapers</option>
+            
+            <option value="original-format:periodical"
+                
+                    >Periodicals</option>
+            
+            <option value="original-format:personal narrative"
+                
+                    >Personal Narratives</option>
+            
+            <option value="original-format:photo, print, drawing"
+                
+                    >Photos, Prints, Drawings</option>
+            
+            <option value="original-format:software, e-resource"
+                
+                    >Software, E-Resources</option>
+            
+            <option value="original-format:web archive"
+                
+                    >Web Archives</option>
+            
+            <option value="original-format:web page"
+                
+                    >Web Pages</option>
+            
+            <option value="original-format:3d object"
+                
+                    >3D Objects</option>
+            
+            
+        </select>
+    </div>
+    <div class='header-search-input-wrapper'>
+        <input  type="search"
+                title="Search the Library of Congress"
+                name="q"
+                id="search"
+                class='locsuggest header-search-input'
+                maxlength="250"
+                value=''
+                onFocus="this.select();" />
+        <div class='searchtarget'>
+            <input id='search_within_default'
+                type="hidden"
+                name="new"
+                value="true" />
+        </div>
+    </div>
+    <button class="header-search-button button-accent"
+            type="submit"
+            value="submit"><span>Search</span><i
+            class="icon icon-search"></i></button>
+
+    
+    
+</form>
+
+    
+    <button class="header-search-toggle"><span>Search toggle</span><i class="icon icon-search"></i></button>
+</div>
+
+            
+            
+            
+            
+
+
+<style>.header-menu {
+  position: relative;
+}
+@media (min-width: 769px) {
+  .header-menu {
+    padding-left: 15px;
+  }
+}
+.header-menu .header-menu-button {
+  color: #000;
+  border: 0;
+  background: none;
+  font-size: 36px;
+  width: 31px;
+  height: 70px;
+  line-height: 1;
+  padding: 0 15px;
+  margin-right: -14px;
+  box-sizing: content-box;
+}
+.header-menu .header-menu-button > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (min-width: 993px) {
+  .header-menu .header-menu-button {
+    height: auto;
+    line-height: normal;
+    padding: 9px 15px 18px;
+  }
+}
+.header-menu.header-menu-active .header-menu-button {
+  background: #F6F6F6;
+}
+.header-menu .header-menu-container {
+  display: none;
+  background: #F6F6F6;
+  position: absolute;
+  top: auto;
+  right: -14px;
+  z-index: 999;
+}
+@media (min-width: 993px) {
+  .header-menu .header-menu-container {
+    top: auto;
+  }
+}
+.header-menu .header-menu-container.header-menu-container-active {
+  display: block;
+  height: auto;
+  overflow: auto;
+  opacity: 1;
+}
+.header-menu .header-menu-container > ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0 53px 0 2rem;
+}
+ul .header-menu .header-menu-container > ul {
+  padding-left: 40px;
+}
+@media (min-width: 481px) {
+  .header-menu .header-menu-container > ul {
+    padding: 0 153px 0 2rem;
+  }
+}
+.header-menu .header-menu-container > ul a {
+  color: #242424;
+}
+.header-menu .header-menu-container > ul > li {
+  padding: 0.5rem 50px 0.5rem 0;
+  white-space: nowrap;
+}
+.header-menu .header-menu-container > ul > li:first-child {
+  padding-top: 1rem;
+}
+.header-menu .header-menu-container > ul > li:last-child {
+  padding-bottom: 1rem;
+}
+.header-menu .header-menu-container > ul.header-menu-tertiary > li:first-child,
+.header-menu .header-menu-container > ul.header-menu-external > li:first-child {
+  border-top: 1px solid #808080;
+}
+@media print {
+  .header-menu {
+    display: none;
+  }
+}
+</style>
+<script>jQuery(function($) {
+    $('.header-menu-link a.menu-link').live('click', function () {
+        $('.header-submenu, .header-menu, .header-menu-link').toggleClass('on-off');
+    });
+    var delay = 800,
+        global_nav_header_timeout;
+    $('.header-menu li').live('hover', function(event) {
+        $('.header-dropdown img').each(function(index, image){
+            var data_source = $(image).attr('data-src');
+            if(data_source){
+                $(image).attr({src: data_source, 'data-src': null});
+            }
+        });
+
+        if( $(event.target).parents('.hover').length ){
+            return;
+        }
+
+        $('.header-menu li.hover').removeClass('hover');
+        $(event.target).closest('li').addClass('hover');
+        global_nav_header_timeout = setTimeout(function(){
+            $('.header-dropdown').hide();
+            $('.header-dropdown', $(event.target).closest('li')).show();
+        }, delay);
+    }, function(event){
+        clearTimeout( global_nav_header_timeout );
+        $(event.target).closest('li').removeClass('hover');
+        $('.header-dropdown', $(event.target).closest('li')).hide();
+    });
+
+    $('.header-menu').live('hover',  function(event) {/*
+        do nothing on hover over, only on hover out
+    */}, function(event){
+        $('.header-menu li.hover').removeClass('hover');
+        $(event.target).parents('.header-dropdown').hide();
+    });
+
+    //Metrics tracking how users are using the new header
+    $('.header-menu a, .intersite-navigation a, .locfoot a').live('click', function(event){
+        s.linkTrackVars = s.linkTrackVar + ",prop57";
+        var label = $(this).attr('name');
+        if ( !label ){
+            label = $(this).text().trim();
+        }
+        s.prop57 = label;
+        s.tl(this,'o',label);
+    });
+
+    function headerMenuActive() {
+        $('.header-menu-container').removeClass('header-menu-container-active').attr('aria-hidden', 'true');
+        $('.header-menu').removeClass('header-menu-active');
+        $('.header-menu-button').attr('aria-expanded', 'false');
+        $('.header-menu-button i').switchClass('icon-times', 'icon-bars', 50);
+        //$('.header-overlay').hide();
+    };
+    function headerMenuInactive() {
+        $('.header-menu-container').addClass('header-menu-container-active').attr('aria-hidden', 'false');
+        $('.header-menu').addClass('header-menu-active');
+        $('.header-menu-button').attr('aria-expanded', 'true');
+        $('.header-menu-button i').switchClass('icon-bars', 'icon-times', 50);
+        //$('.header-overlay').show();
+    };
+    $('.header-menu-button').live('click', function() {
+        if ($('.header-menu-container').hasClass('header-menu-container-active')) {
+            headerMenuActive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Hamburger Menu', 'Close', '');
+        } else {
+            headerMenuInactive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Hamburger Menu', 'Open', '');
+        }
+    });
+    $("html").live("click touchstart keydown",function(event) {
+        headerMenuActive();
+    });
+    $(".header-menu").live("click touchstart keydown",function(event) {
+        event.stopPropagation();
+        // allow escape key to close for accessibility
+        if (event.which == 27) {
+            headerMenuActive();
+        }
+    });
+    // menu position and height
+    $(window).live("load resize scroll",function(e){
+        var headerHeight = $('.header-menu').outerHeight();
+        $('.header-menu-container').css({"top": headerHeight});
+    });
+
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-menu-container ul li').live('click', function() {
+        var label = $(this).text().trim();
+        UX.interaction($(this), 'Hamburger Menu', 'Click', label);
+    });
+});
+</script>
+
+
+<nav class="header-menu" aria-labelledby="header-menu-button">
+    <button class="header-menu-button" id="header-menu-button" aria-controls="header-menu-container">
+        <span>menu </span><i class="icon icon-bars"></i>
+    </button>
+    <div class="header-menu-container" id="header-menu-container">
+        <ul class="">
+            <li class=""><a href="/discover/">Discover</a></li>
+            <li class=""><a href="/services-and-programs/">Services</a></li>
+            <li class=""><a href="/visit/">Visit</a></li>
+            <li class=""><a href="/education/">Education</a></li>
+            <li class=""><a href="/connect/">Connect</a></li>
+            <li class=""><a href="https://library-of-congress-shop.myshopify.com/" target="_blank">Shop <i class="icon icon-external-link"><span>external link</span></i></a></li>
+            <li class=""><a href="/programs/support-the-library-of-congress/about-this-program/">Donate</a></li>
+            <li class=""><a href="/about/">About</a></li>
+        </ul>
+        <ul class="header-menu-tertiary">
+            <li class=""><a href="https://ask.loc.gov/">Ask a Librarian</a></li>
+            <li class=""><a href="/help/">Help</a></li>
+            <li class=""><a href="/contact/">Contact</a></li>
+        </ul>
+        <ul class="header-menu-external">
+            <li class=""><a href="https://catalog.loc.gov/">Search Online Catalog</a></li>
+            <li class=""><a href="http://copyright.gov/">Copyright.gov</a></li>
+            <li class=""><a href="https://www.congress.gov/">Congress.gov</a></li>
+        </ul>
+    </div>
+</nav>
+
+            
+        </div>
+    </div>
+</header>
+
+
+
+
+
+
+
+
+
+
+<style>.breadcrumbs-wrapper {
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+}
+.breadcrumbs-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: transparent;
+  box-sizing: border-box;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-size: 12px;
+}
+@media (max-width: 768px) {
+  .breadcrumbs-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.breadcrumbs-row {
+  display: flex;
+  justify-content: flex-end;
+}
+.header-breadcrumbs {
+  flex: 1 1 0%;
+  margin-right: 2rem;
+}
+@media (max-width: 768px) {
+  .header-breadcrumbs > a::before {
+    content: "\000AB \0000a0";
+  }
+  .header-breadcrumbs > a:not(:last-of-type) {
+    display: none;
+  }
+}
+@media (min-width: 769px) {
+  .header-breadcrumbs > a::after {
+    content: "\0000a0 \000BB";
+    color: #242424;
+  }
+}
+@media (max-width: 768px) {
+  .header-breadcrumbs > .active {
+    display: none;
+  }
+}
+</style>
+<script>
+
+jQuery(function($) {
+    $(".header-breadcrumbs a:contains('at the Library of Congress'), .header-breadcrumbs span:contains('at the Library of Congress')").html(function(_, html) {
+        return html.split('at the Library of Congress').join("<span class='screen-readers-only'>at the Library of Congress</span>");
+    });
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-breadcrumbs a').live('click', function(event){
+        var label = $(this).attr('name');
+        if ( !label ){
+            label = $(this).text().trim();
+        }
+        UX.interaction($(this), 'Breadcrumbs', 'click', label);
+    });
+});
+</script>
+
+
+
+<div class="breadcrumbs-wrapper">
+    <div class="breadcrumbs-container">
+        <div class="breadcrumbs-row">
+            
+            
+            
+            
+                
+
+<style>.dropdown-right-aligned {
+  text-align: right;
+}
+.dropdown-wrapper {
+  display: inline-block;
+  position: relative;
+}
+.dropdown-button {
+  box-sizing: border-box;
+  border-radius: 0;
+  font-size: 1rem;
+  padding: 0.321rem 0.6rem;
+  line-height: 1.5;
+  border: 1px solid #0076AD;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #fff;
+  background-color: #0076AD;
+  border-color: #0076AD;
+  background-color: #fff;
+  color: #0076AD;
+  font-weight: normal;
+  font-size: 14px;
+  margin-bottom: -1px;
+}
+.dropdown-button:link,
+.dropdown-button:visited {
+  color: #fff;
+}
+.dropdown-button:hover,
+.dropdown-button:focus {
+  text-decoration: none;
+  background-color: #002347;
+  border-color: #002347;
+  color: #fff;
+}
+.dropdown-button:active {
+  border-style: inset;
+  border-color: #BFBFBF;
+  background-color: #000000;
+}
+.dropdown-button:focus {
+  z-index: 3;
+  outline: 4px solid #0076AD;
+}
+.dropdown-button:disabled,
+.dropdown-button.disabled {
+  opacity: 0.65;
+  pointer-events: none;
+}
+.dropdown-button:link,
+.dropdown-button:visited {
+  color: #0076AD;
+}
+.dropdown-button:hover,
+.dropdown-button:focus {
+  border-color: #002347;
+  background-color: #fff;
+  color: #002347;
+}
+.dropdown-button:active {
+  border-style: solid;
+  border-right-color: #BFBFBF;
+  border-bottom-color: #BFBFBF;
+}
+.dropdown-button::after {
+  content: "\f107";
+  font-family: FontAwesome;
+  margin-left: 2rem;
+}
+.dropdown-style-small .dropdown-button {
+  font-size: 12px;
+  height: 18px;
+  line-height: 16px;
+}
+.dropdown-button.dropdown-button-unstyled {
+  border: none;
+  padding: 0;
+  height: auto;
+  line-height: normal;
+  background-color: transparent;
+}
+.dropdown-button.dropdown-button-unstyled::after {
+  content: "";
+  margin: 0;
+}
+.dropdown-button.dropdown-button-custom {
+  border: none;
+  height: auto;
+  background-color: transparent;
+  font-size: 2.5rem;
+  color: #242424;
+}
+.dropdown-button.dropdown-button-custom::after {
+  content: "";
+  margin: 0;
+}
+.dropdown-button.dropdown-button-custom ~ .dropdown-list {
+  top: 62px;
+}
+.dropdown-list {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 31px;
+  z-index: 9999;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10px 20px;
+  border: 1px solid #0076AD;
+  background-color: #fff;
+}
+.dropdown-list.dropdown-x-repositioned,
+.dropdown-list.dropdown-forced-right {
+  left: auto;
+  right: 0;
+}
+.dropdown-list.dropdown-y-repositioned {
+  top: auto;
+  bottom: 31px;
+}
+.dropdown-style-small .dropdown-list {
+  top: 18px;
+}
+.dropdown-style-inline .dropdown-list {
+  white-space: nowrap;
+  border-radius: 3px;
+  padding: 10px 5px;
+}
+.dropdown-list > li {
+  padding: 5px 0;
+  text-align: left;
+  white-space: nowrap;
+}
+.dropdown-list > li.active {
+  font-weight: bold;
+}
+.dropdown-style-inline .dropdown-list > li {
+  padding: 0 5px;
+  margin: 0;
+}
+.dropdown-list.active {
+  display: inline-block;
+}
+.dropdown-style-inline .dropdown-list.active {
+  display: flex;
+}
+.dropdown-list li[data-title="Everyday Mysteries"] {
+  display: none;
+}
+.dropdown-arrow {
+  top: 40px !important;
+}
+.dropdown-style-small .dropdown-arrow {
+  top: 26px !important;
+}
+.dropdown-arrow:after,
+.dropdown-arrow:before {
+  bottom: 100%;
+  left: 20px;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.dropdown-arrow:after {
+  border-bottom-color: #fff;
+  border-width: 5px;
+  margin-left: -5px;
+}
+.dropdown-arrow:before {
+  border-bottom-color: #0076AD;
+  border-width: 6px;
+  margin-left: -6px;
+}
+.dropdown-arrow.dropdown-x-repositioned:after,
+.dropdown-arrow.dropdown-forced-right:after,
+.dropdown-arrow.dropdown-x-repositioned:before,
+.dropdown-arrow.dropdown-forced-right:before {
+  left: calc(100% - 20px);
+}
+.dropdown-arrow.dropdown-x-repositioned.offset-right:after,
+.dropdown-arrow.dropdown-forced-right.offset-right:after,
+.dropdown-arrow.dropdown-x-repositioned.offset-right:before,
+.dropdown-arrow.dropdown-forced-right.offset-right:before {
+  left: calc(100% - 15px);
+}
+</style>
+<script>jQuery(function($) {
+    function dropdownReset() {
+        $('.dropdown-list').removeClass('active').attr('aria-hidden', 'true');
+        $('.dropdown-button').attr('aria-expanded', 'false');
+    };
+    function dropdownActive(thisObject) {
+        $(thisObject).siblings('.dropdown-list').removeClass('active').attr('aria-hidden', 'true');
+        $(thisObject).attr('aria-expanded', 'false');
+    };
+    function dropdownInactive(thisObject) {
+        $(thisObject).siblings('.dropdown-list').addClass('active').attr('aria-hidden', 'false');
+        $(thisObject).attr('aria-expanded', 'true');
+    };
+    $('.dropdown-button').live('click', function() {
+        if ($(this).siblings('.dropdown-list').hasClass('active')) {
+            dropdownActive(this);
+        } else {
+            dropdownInactive(this);
+        }
+        // other dropdowns on the page
+        var notClicked =  $('.dropdown-button').not(this)
+        if (notClicked) {
+            notClicked.siblings('.dropdown-list').removeClass('active').attr('aria-hidden', 'true');
+            notClicked.attr('aria-expanded', 'false');
+        }
+
+        var buttonWidth = $(this).outerWidth();
+        var buttonHeight = $(this).outerHeight();
+        var offset = $(this).offset();
+        var outerWidth = $(this).siblings('.dropdown-list').outerWidth();
+        var windowWidth = $(window).width();
+
+        var documentHeight = $(document).height();
+        var outerHeight = $(this).siblings('.dropdown-list').outerHeight();
+
+        // horizontal repositioned
+        if(windowWidth < (offset.left + outerWidth) && (offset.left + buttonWidth) > outerWidth) {
+            $(this).siblings('.dropdown-list').addClass('dropdown-x-repositioned');
+        } else {
+            $(this).siblings('.dropdown-list').removeClass('dropdown-x-repositioned');
+        }
+        // vertical repositioned
+        if(documentHeight < (buttonHeight + offset.top + outerHeight) && offset.top > outerHeight) {
+            $(this).siblings('.dropdown-list').addClass('dropdown-y-repositioned');
+        } else {
+            $(this).siblings('.dropdown-list').removeClass('dropdown-y-repositioned');
+        }
+    });
+    $('html').on("click touchstart keydown keyup",function(e) {
+        if ($(e.target).parents('.dropdown-wrapper').length == 0 && !$(e.target).hasClass('dropdown-wrapper') || e.which == 27) {
+            dropdownReset();
+        }
+    });
+});
+</script>
+
+
+<style>.share .share-link {
+  width: 32px;
+  height: 32px;
+  display: block;
+  float: left;
+  overflow: hidden;
+  background-repeat: none;
+}
+.share .dropdown-list {
+  padding: 8px 5px;
+}
+.share .dropdown-list > li {
+  padding: 0 4px;
+}
+</style>
+<script>jQuery(function($){
+    $('.share ul li.facebook-link a').attr(
+        'href',
+        'http://www.facebook.com/sharer/sharer.php?u=' +
+        encodeURIComponent(location.href)
+    );
+    $('.share ul li.x-link a').attr(
+        'href',
+        'https://twitter.com/intent/tweet?text=' +
+        encodeURIComponent(
+            document.title + ' ' + location.href
+        )
+    );
+    function track_share(element){
+        var label = $(element).text().trim();
+        UX.interaction(
+            $(element),
+            "Share Tool",
+            "click",
+            "Link" == label ? label + " copy" : label + " Share"
+        );
+    }
+    $(".share ul li.facebook-link").on("click", function() {
+        track_share(this);
+    });
+
+    $(".share ul li.x-link").on("click", function() {
+        track_share(this);
+    });
+    $(".share ul li.copy-link").on("click", function() {
+        /* Get the text field */
+        var input = document.createElement("input"),
+            label = $(this).text().trim();
+        document.body.appendChild(input);
+        input.value = window.location.href;
+        /* Copyies the text inside the text field */
+        input.select();
+        document.execCommand("copy", false);
+        input.remove();
+        track_share(this);
+    });
+});
+</script>
+
+
+<nav class="dropdown-wrapper dropdown-style-small dropdown-style-inline share"
+  aria-labelledby="button-share">
+    <button class="dropdown-button dropdown-button-unstyled"
+            id="button-share"
+            aria-controls="dropdown-share"
+            aria-expanded="false"><i
+            class="icon icon-share-alt-square"></i> Share</button>
+    <ul class="dropdown-list dropdown-forced-right dropdown-arrow"
+        role="menu"
+        id="dropdown-share"
+        aria-labelledby="button-share"
+        aria-hidden="true">
+            <li class="facebook-link">
+                <a href="#"
+                    role="menuitem"
+                    class="share-link share-link-facebook"
+                    title="Facebook"
+                    target="_blank">
+                    <img src="https://www.loc.gov/static/images/social-media/facebook.svg" width="32" height="32" alt="Facebook" />
+                </a>
+            </li>
+            <li class="x-link">
+                <a href="#"
+                    role="menuitem"
+                    class="share-link share-link-x"
+                    title="X"
+                    target="_blank">
+                    <img src="https://www.loc.gov/static/images/social-media/x.svg" width="32" height="32" alt="X" />
+                </a>
+            </li>
+            <li class="copy-link">
+                <a href="#"
+                    role="menuitem"
+                    class="share-link share-link-copy-link"
+                    title="Copy Link">
+                    <img src="https://www.loc.gov/static/images/share/link.svg" width="32" height="32" alt="Copy Link" />
+                </a>
+            </li>
+    </ul>
+</nav>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="content
+    
+    ">
+    
+    <a name="skip-to-content"
+       id="skip-to-content"></a>
+    
+    
+
+    
+
+<style>.site-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .site-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.site-error h1 {
+  color: #D1332E;
+}
+.site-error p span {
+  color: #D1332E;
+}
+</style>
+
+<div class="site-container">
+<div class="site-error">
+    
+    <h1>We're swamped and our servers are down.</h1>
+    <p>But we're working on it and we should be back soon. <span>Please try again in a few minutes.</span></p>
+    
+    <figure class="image-align-center">
+        <img src='https://tile.loc.gov/storage-services/service/pnp/ggbain/26000/26024r.jpg'/>
+        <figcaption>
+            <strong>Auto repairs, Los Angeles </strong> <br/>
+            
+            Bain News Service, publisher<br/>
+            
+        </figcaption>
+    </figure>
+</div>
+</div>
+
+</div>
+
+
+    
+
+
+<style>.footer {
+  background-color: #F6F6F6;
+  border-top: 1px solid #808080;
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+.footer a {
+  color: #242424;
+}
+@media print {
+  .footer {
+    display: none;
+  }
+}
+.footer-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: transparent;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .footer-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.footer-social-links-wrapper {
+  border-bottom: 1px solid #808080;
+  padding-bottom: 21px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+@media (min-width: 993px) {
+  .footer-social-links-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.footer-social-title {
+  font-size: 18px;
+  font-weight: normal;
+  color: #242424;
+  margin: 0 25px 0 0;
+}
+@media (max-width: 992px) {
+  .footer-social-title {
+    display: block;
+    margin: 0 0 7px;
+  }
+}
+.footer-social-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.footer-social-links > li {
+  padding: 3px;
+}
+.footer-social-links > li i {
+  font-size: 17.5px;
+}
+.footer-social-links > li span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.footer-social-links > li a .icon-external-link {
+  font-size: inherit;
+}
+.footer-social-links > li.footer-social-link-rss a {
+  color: #F05129;
+}
+.footer-social-links > li.footer-social-link-e-mail a {
+  color: #0076AD;
+}
+.footer-social-links > li.footer-social-link-email a {
+  color: #0076AD;
+}
+.footer-social-links > li.footer-social-link-email i {
+  font-size: 36px;
+}
+.footer-social-links > li.footer-social-link-survey {
+  border-left: 1px solid #808080;
+  padding-left: 18px;
+  margin-left: 14px;
+}
+.footer-social-links > li.footer-social-link-survey a {
+  color: #0076AD;
+}
+@media (max-width: 992px) {
+  .footer-social-links > li.footer-social-link-survey {
+    flex-basis: 100%;
+    border: none;
+    padding: 0;
+    margin: 7px 0 0;
+  }
+}
+.footer-social-links > li:not(.footer-social-link-survey) a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-row {
+  align-items: center !important;
+}
+@media (min-width: 993px) {
+  .footer-row {
+    display: -webkit-box;
+    /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;
+    /* TWEENER - IE 10 */
+    display: -webkit-flex;
+    /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: -moz-box;
+    display: flex;
+    /* NEW, Spec - Firefox, Chrome, Opera */
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-flex-align: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+    margin: 0 -1rem;
+  }
+}
+.footer-links-wrapper .footer-links {
+  padding-left: 0;
+  list-style: none;
+  margin: 0 -8.75px;
+  margin-bottom: 0;
+  font-size: 12px;
+}
+ul .footer-links-wrapper .footer-links {
+  padding-left: 40px;
+}
+.footer-links-wrapper .footer-links > li {
+  display: inline-block;
+  margin: 0 8.75px;
+}
+.footer-links-wrapper .footer-links > li {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+@media (max-width: 992px) {
+  .footer-links-wrapper {
+    text-align: center;
+    margin-bottom: 21px;
+  }
+}
+@media (min-width: 993px) {
+  .footer-links-wrapper {
+    -webkit-box-flex: 1;
+    /* OLD - iOS 6-, Safari 3.1-6 */
+    -webkit-flex: 1;
+    /* Safari 6.1+. iOS 7.1+, BB10 */
+    -ms-flex: 1;
+    /* IE 10 */
+    -moz-box-flex: 1;
+    flex: 1;
+    /* NEW, Spec - Firefox, Chrome, Opera */
+    min-width: 0;
+    /* firefox fix */
+    margin: 0 1rem;
+    box-sizing: border-box;
+  }
+}
+.footer-links-new {
+  padding-left: 0;
+  list-style: none;
+  columns: 2;
+  column-gap: 1rem;
+  text-align: left;
+  margin-bottom: 3rem;
+}
+.footer-links-new > li {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+@media (min-width: 481px) {
+  .footer-links-new {
+    columns: 3;
+  }
+}
+@media (min-width: 993px) {
+  .footer-links-new {
+    margin-bottom: 0;
+  }
+}
+.intersites-links-wrapper {
+  margin: 0 14px;
+}
+@media (max-width: 992px) {
+  .intersites-links-wrapper {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 0 28px;
+  }
+}
+.intersites-links {
+  padding-left: 0;
+  list-style: none;
+  margin: 0 -1rem;
+}
+ul .intersites-links {
+  padding-left: 40px;
+}
+.intersites-links > li {
+  display: inline-block;
+  margin: 0 1rem;
+}
+.intersites-links > li > a {
+  display: block;
+}
+.intersites-links > li > a span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 992px) {
+  .intersites-links > li > a {
+    margin: 5px 0;
+  }
+}
+@media (max-width: 992px) {
+  .intersites-links {
+    text-align: center;
+  }
+}
+</style>
+<script>//UX Interaction Tracking
+jQuery(function($){
+    $('.footer-social-links li a').click(function(e){
+        var label = $(this).text().trim();
+        UX.interaction($(this), 'Follow', 'Click', label);
+    });
+    $('.footer-links li a').click(function(e){
+        var label = $(this).text().trim();
+        UX.interaction($(this), 'Footer', 'Click', label);
+    });
+});
+</script>
+
+
+<footer class="footer" role="contentinfo">
+    
+
+<style>.back-to-top a {
+  position: fixed;
+  z-index: 999;
+  bottom: 10px;
+  right: 10px;
+}
+</style>
+<script>jQuery(function ($) {
+    var scroll_timer,
+        displayed = false,
+        $message = $('.back-to-top a').hide(),
+        $window = $(window),
+        top = $(document.body).children(0).position().top;
+
+    $("#back-to-top").click(function(event){
+        $("#top").focus();
+        $window.scrollTop(0);
+        event.preventDefault();
+        return false;
+    });
+
+    $window.scroll(function () {
+        window.clearTimeout(scroll_timer);
+        scroll_timer = window.setTimeout(function () {
+            if($window.scrollTop() <= top){
+                displayed = false;
+                $message.fadeOut(800);
+            }else if(!displayed){
+                displayed = true;
+                $message.stop(true, true).show().click(function(){
+                    $message.fadeOut(800);
+                });
+            }
+        }, 100);
+    });
+
+    $("#back-to-top").click(function(e){
+        UX.interaction($(this), 'Footer', 'click', 'Back to top');
+    });
+});
+</script>
+
+
+<div class="back-to-top">
+    <a class="button button-small" id='back-to-top' href='#top' role="button"><i class="icon icon-arrow-up"></i> <span>Back to top</span></a>
+</div>
+
+    <div class="footer-container">
+        <div class="footer-social-links-wrapper">
+            <span class="footer-social-title"><a href="/connect/">Follow Us</a></span>
+            <ul class="footer-social-links">
+                <li class="footer-social-link-facebook">
+                    <a href="https://www.facebook.com/libraryofcongress/" title="Library of Congress Facebook">
+                        <img src="https://www.loc.gov/static/images/social-media/facebook.svg" width="32" height="32" alt="Library of Congress Facebook" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-x">
+                    <a href="https://x.com/librarycongress" title="Library of Congress X">
+                        <img src="https://www.loc.gov/static/images/social-media/x.svg" width="32" height="32" alt="Library of Congress X" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-youtube">
+                    <a href="https://www.youtube.com/libraryofcongress/" title="Library of Congress Youtube">
+                        <img src="https://www.loc.gov/static/images/social-media/youtube.svg" width="32" height="32" alt="Library of Congress Youtube" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-pinterest">
+                    <a href="https://www.pinterest.com/LibraryCongress/" title="Library of Congress Pinterest">
+                        <img src="https://www.loc.gov/static/images/social-media/pinterest.svg" width="32" height="32" alt="Library of Congress Pinterest" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-flickr">
+                    <a href="https://www.flickr.com/photos/library_of_congress/" title="Library of Congress Flickr">
+                        <img src="https://www.loc.gov/static/images/social-media/flickr.svg" width="32" height="32" alt="Library of Congress Flickr" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-instagram">
+                    <a href="https://instagram.com/librarycongress/" title="Library of Congress Instagram">
+                        <img src="https://www.loc.gov/static/images/social-media/instagram.svg" width="32" height="32" alt="Library of Congress Instagram" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-itunes">
+                    <a href="https://itunes.apple.com/us/artist/library-of-congress/id1280713133?mt=2" title="Library of Congress iTunesU">
+                        <img src="https://www.loc.gov/static/images/social-media/itunesU.svg" width="32" height="32" alt="Library of Congress iTunesU" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-linkedin">
+                    <a href="https://www.linkedin.com/company/library-of-congress" title="Library of Congress LinkedIn">
+                        <img src="https://www.loc.gov/static/images/social-media/linkedin.svg" width="32" height="32" alt="Library of Congress LinkedIn" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-email">
+                    <a href="https://loc.gov/subscribe/" title="Email">
+                        <img src="https://www.loc.gov/static/images/share/email.svg" width="32" height="32" alt="Email" loading="lazy" />
+                    </a>
+                </li>
+                <li class="footer-social-link-survey"><a
+                    
+                    href="https://www.research.net/r/libraryofcongress"
+                    
+                    title="Take our survey">Take our survey <i class="icon icon-external-link"><span>External</span></i></a></li>
+            </ul>
+        </div>
+        <div class="footer-row">
+            <div class="footer-links-wrapper">
+                
+                <ul class="footer-links">
+                    <li><a href="/accessibility/">Accessibility</a></li>
+                    <li><a href="/legal/">Legal</a></li>
+                    <li><a href="/about/office-of-the-inspector-general/">Inspector General</a></li>
+                    <li><a href="/legal/standard-disclaimer-for-external-links/">External Link Disclaimer</a></li>
+                    <li><a href="https:////www.usa.gov/">USA.gov</a></li>
+                    <li><a href="/careers/">Careers</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                    <li><a href="https://newsroom.loc.gov">Media</a></li>
+                    <li><a href="/programs/support-the-library-of-congress/">Donate</a></li>
+                    <li><a href="https://library-of-congress-shop.myshopify.com/">Shop</a></li>
+                </ul>
+                
+            </div>
+            <div class="intersites-links-wrapper">
+                <ul class="intersites-links">
+                    <li class="intersites-link-congress"><a href="https://www.congress.gov/"><img src="https://www.loc.gov/static/images/congress-gov.svg" alt="Congress.gov" width="121" height="24" loading="lazy" /></a></li>
+                    <li class="intersites-link-copyright"><a href="https://copyright.gov"><img src="https://www.loc.gov/static/images/copyright-gov.svg" alt="United States Copyright Office" width="176" height="24" loading="lazy" /></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+<div hidden>
+    <span id="new-window">Opens in new window</span>
+    <span id="download">Download</span>
+</div>
+
+
+    
+
+
+<script>(function(){
+
+var data_listeners = {};
+
+
+window.addDataListener = function(channel, callback){
+    if(!data_listeners[channel]){
+        data_listeners[channel] = [];
+    }
+    data_listeners[channel].push(callback);
+    load_data(channel, callback);
+};
+
+
+/* 
+Uses local storage for messaging. Set message in local storage and
+clear it right away. This is a safe way how to communicate with other
+tabs while not leaving any traces. */
+window.broadcastData = function(channel, data, replay){
+    message_broadcast(channel, data, replay);
+};
+
+
+function message_broadcast(channel, data, replay){
+    var message = {
+        channel: channel,
+        data: data
+    }
+    localStorage.setItem('message', JSON.stringify(message));
+    localStorage.removeItem('message');
+
+    if(replay){
+        save_data(channel, data);
+    }
+};
+
+
+function message_receive(event){
+    var i,
+        channel,
+        data,
+        listeners,
+        listener,
+        message;
+
+    if(!event || event.key != 'message' || !event.newValue){ return; }
+
+    message = JSON.parse(event.newValue);
+    if(!message){ return; }
+
+    channel = message.channel
+    if(!channel){ return; }
+
+    listeners = data_listeners[channel];
+    if(!listeners){ return; }
+
+    data = message.data;
+    for(i = 0; i < listeners.length; i++){
+        listener = listeners[i];
+        listener(data);
+    }
+};
+
+
+function save_data(channel, data){
+    var saved_data = localStorage.getItem(channel),
+        keys,
+        i;
+
+    if(saved_data){
+        try {
+            saved_data = JSON.parse(saved_data);
+        } catch (error) {
+            // We loose the stored state, but dont end up in a vicous cycle
+            // never being able to save it again.
+            saved_data = {};
+        }
+    } else {
+        saved_data = {};
+    }
+    keys = Object.keys(data);
+    for(i = 0; i < keys.length; i++){
+        saved_data[keys[i]] = data[keys[i]];
+    }
+    localStorage.setItem(channel, JSON.stringify(saved_data));
+};
+
+
+function load_data(channel, callback){
+    var data = localStorage.getItem(channel);
+    if(data){
+        data = JSON.parse(data);
+        callback(data);
+    }
+};
+
+window.addEventListener('storage', message_receive);
+
+})();</script>
+
+
+
+
+<script defer='defer'>
+LOCSuggest = {
+	serviceUrl: 'https://www.loc.gov/search/suggest/'
+};
+MEDIA_URL = 'https://media.loc.gov';
+</script>
+
+<script>
+function handle_redirects(){
+
+    let redirect,
+        new_location,
+        options = {
+            path_info: location.pathname,
+            query_string: location.search.replace('?', ''),
+            hash_string: location.hash.replace('#', '')
+        };
+
+    function get_redirect_url(options){
+        let path_info = options['path_info'],
+            query_string = options['query_string'],
+            new_url = path_info;
+
+        if (query_string){
+            // console.log("Redirect query string: %s", query_string)
+            new_url += '?' + query_string
+        }
+
+        return new_url;
+    };
+
+    function redirect_chronam_hash(options){
+        let hash_string = options['hash_string'],
+            path_info = options['path_info'],
+            hash_params,
+            hash_param;
+
+        /*  This should only occur on newspaper pages that look something like:
+
+            path_info:
+                /resource/sn83045462/1928-12-14/ed-1/
+            hash_string:
+                #date1=1920&index=4&rows=20&searchType=advanced&language=&sequence=0
+                &words=ins+Step+step+step-ins+Step-ins&proxdistance=5&date2=1929
+                &ortext=&proxtext=&phrasetext=step-ins&andtext=&dateFilterType=yearRange
+                &page=1&loclr=blogser
+        */
+        if (!hash_string) {
+            return;
+        } else if (!path_info.includes('/resource/')
+        || !path_info.includes('/ed-')) {
+            return;
+        }
+
+        hash_params = hash_string.split('&');
+        for (hash_param of hash_params) {
+            if (hash_param.includes('words=')) {
+                // words= mapped to q=
+                options['query_string'] += '&q=' + hash_param.replace('words=', '');
+            } else if (hash_param.includes('loclr=')) {
+                // loclr= is preserved as is
+                options['query_string'] += '&' + hash_param;
+            }
+        }
+
+        return get_redirect_url(options);
+    };
+
+    const redirects = [
+        redirect_chronam_hash
+    ];
+
+    for (redirect of redirects) {
+        new_location = redirect(options);
+        if (new_location) {
+            console.log('Redirecting to %s', new_location)
+            window.location = new_location;
+        }
+    }
+};
+
+handle_redirects();
+</script>
+
+<script defer='defer'
+    type="text/javascript"
+    src='https://www.loc.gov/static/javascript/base.js'></script>
+
+<!--[if lt IE 9]>
+    <script src='https://www.loc.gov/static/js/lib/html5shiv.js'></script>
+    <script src='https://www.loc.gov/static/js/lib/selectivizr.js'></script>
+<![endif]-->
+
+
+
+<script defer='defer'>
+PORTAL_FORM_KEY = 'a87dbb4fde596b303a4043e8ba4741d2';
+</script>
+
+
+
+
+
+
+    <script defer='defer'>
+
+jQuery(function($) {
+    /*
+        Grid layout
+     */
+
+    var isotope_options = {
+        itemSelector: '.item'
+    };
+    // If in the grid style then make sure the
+    // pages are in order and there are no blank spaces
+
+    
+
+    
+    $('.search-results.grid-view').isotope(isotope_options);
+    imagesLoaded( $('#results'), function() {
+        $('.search-results.grid-view').isotope(isotope_options);
+    });
+    
+
+    var $iconic = $(".iconic");
+    if ($iconic.length > 0) {
+        var loaded_count = 0;
+        $iconic.on("load", function() {
+            loaded_count++;
+            // trigger isotope every once in a while as the images are loading:
+            if (loaded_count % 5 === 0) {
+                $('.search-results.grid-view').isotope(isotope_options);
+            }
+        });
+    }
+
+    // escape key to close focus and hover text
+    $('.search-results.grid-view .description a').on('keyup',function(e) {
+        if(e.keyCode == 27){
+            $(this).blur();
+        }
+    });
+    $('.search-results.grid-view .description a').hover(
+       function(){ $(this).addClass('hovered') },
+       function(){ $(this).removeAttr('class') }
+    )
+    $(document).on('keyup',function(e) {
+       if (e.which == 27) {
+          $('.hovered').addClass('close');
+       }
+    });
+});
+
+jQuery(function($) {
+    /*
+    To get the snippets with text-services
+    */
+
+    function replaceTag(text, replacementTag){
+        /*
+        * Replace the [[tag]] in the text with the actually desired tag
+        */
+        if (!text || !replacementTag){
+            return text;
+        }
+        var tagSplit = replacementTag.split(" ");
+        var tagName = tagSplit[0];
+        var tagAttributes = "";
+        if (tagSplit.length > 1){
+            tagAttributes = " " + tagSplit[1];
+        }
+        var openTag = "<" + tagName + tagAttributes + ">";
+        var closeTag = "</" + tagName + ">";
+        if (text.indexOf("[[tag]]") > -1 && text.indexOf("[[/tag]]") > -1){
+            text = text.replace(/\[\[tag\]\]/g, openTag).replace(/\[\[\/tag\]\]/g, closeTag);
+        }
+        return text;
+    };
+
+    var Truncator = {
+        // Object used to truncate the result text
+        setup: function(text, truncate, originalFormat, viewStyle){
+            this.originalFormat = originalFormat;
+            this.viewStyle = viewStyle;
+            if (!truncate){
+                this.truncate = "...";
+            } else {
+                this.truncate = truncate;
+            }
+
+            if (!text){
+                this.text = "";
+            } else if ("newspaper" != this.originalFormat && this.viewStyle == "hits"){
+                this.text = text;
+            } else {
+                // Strip the html tags
+                var tempDoc = new DOMParser().parseFromString(text, 'text/html');
+                this.text = tempDoc.body.textContent || "";
+                tempDoc = null;
+            }
+        },
+
+        getNumberOfWords: function(){
+            // The number of words desired is based upon the style and
+            // the original format
+            if ("newspaper" == this.originalFormat){
+                if ("gallery" == this.viewStyle){
+                    return 16;
+                } else {
+                    return 64;
+                }
+            } else {
+                if("hits" == this.viewStyle){
+                    return "all";
+                } else if ("gallery" == this.viewStyle){
+                    return 32;
+                } else {
+                    return 64;
+                }
+            }
+        },
+
+        words: function(numberOfWords){
+            // If there is no text then return a blank string
+            if (!this.text){
+                return "";
+            }
+            // If you haven't specified the number of words you want
+            // then get the amount determined by the format and style
+            if (!numberOfWords){
+                numberOfWords = this.getNumberOfWords();
+            }
+            if ("all" == numberOfWords){
+                return this.text;
+            }
+            var textWords = this.text.split(" ");
+            if (textWords.length > numberOfWords){
+                textWords = textWords.slice(0, numberOfWords);
+                textWords.push(this.truncate);
+            }
+            return textWords.join(" ");
+        },
+    };
+
+    var slider;
+    function create_slideshow($selector) {
+        slider = $selector.royalSlider({
+            fullscreen: {
+                enabled: true,
+                nativeFS: true
+            },
+            controlNavigation: 'thumbnails',
+            imageScaleMode:'none',
+            imageAlignCenter: false,
+            autoScaleSlider: false,
+            //autoScaleSliderHeight: 800,
+            loop: false,
+            navigateByClick: false,
+            numImagesToPreload: 2,
+            arrowsNav: true,
+            arrowsNavAutoHide: true,
+            arrowsNavHideOnTouch: true,
+            keyboardNavEnabled: true,
+            fadeinLoadedSlide: true,
+            //globalCaption: false,
+            //globalCaptionInside: true,
+            thumbs: {
+                appendSpan: true,
+                firstMargin: true,
+                spacing: 10
+            },
+            deeplinking: {
+                // deep linking options go here
+                enabled: true,
+                change: true,
+                prefix: 'slide-'
+            }
+        }).data("royalSlider");
+
+        $('.royalSlider').royalSlider("updateSliderSize", true);
+
+        
+        
+        if(slider){
+            slider.ev.on('rsAfterContentSet', function (e, slideObject) {
+                var img = slideObject.holder.find('img').eq(0);
+                if (img && img.length && slideObject.caption) {
+                    img.attr('alt', slideObject.caption.text());
+                }
+            });
+        }
+        return slider;
+    }
+
+    function create_overlay(highlight_id, left, top, width, height) {
+        return $('<div id="' + highlight_id + '" class="hit-highlight image-highlight" />')
+        .css({
+            'left': left + '%',
+            'top': top + '%',
+            'width': width + '%',
+            'height': height + '%',
+            'position': 'absolute',
+            'z-index': 10
+        });
+    }
+
+    function position_overlays(page_id, page_width, page_height, coords_list,
+            $image, $container, fudge) {
+        if (!($container.length)) {
+            // no actual search result for this page -- exit this function
+            return true;
+        }
+        $container.find('div.image-highlight').remove();
+        if (!coords_list) {
+            // coords data doesn't exist -- exit this function
+            return true;
+        }
+        var container_width = $container.width();
+        var container_height = $container.height();
+        
+        var image_marginLeft = $image[0].offsetLeft;
+        var image_marginTop = $image[0].offsetTop;
+        var image_width = $image.width();
+        var image_height = $image.height();
+
+        // The overlays are positioned relative to their parent, the
+        // $container, but they need to show up in the right place relative
+        // to the image.
+        // The $container can be larger than the image,
+        // so we take the ratio of the sizes and use it to scale the
+        // positions, widths, and heights of the highlight overlays.
+        // We also make the overlays a little larger so they're more visible
+        // and we shift them a little using the "fudge" numbers.
+        var marginLeft = image_marginLeft / container_width;
+        var marginTop = image_marginTop / container_height;
+        var scaleWidth = image_width / container_width;
+        var scaleHeight = image_height / container_height;
+
+        $.each(coords_list, function (index, coords) {
+            // word coordinates: [left, top, width, height]
+            var highlight_id = "highlight-" + page_id + '-' + index;
+
+            var overlay_left = 100 * (marginLeft + scaleWidth * coords[0] / page_width) + fudge.left;
+            var overlay_top = 100 * (marginTop + scaleHeight * coords[1] / page_height) + fudge.top;
+            var overlay_width = 100 * coords[2] / page_width * scaleWidth + fudge.width;
+            var overlay_height = 100 * coords[3] / page_height * scaleHeight + fudge.height;
+
+            var $highlight_overlay = create_overlay(highlight_id,
+                overlay_left, overlay_top, overlay_width, overlay_height);
+
+            $container.append($highlight_overlay);
+        });
+    }
+
+    var word_coordinates_pages;
+    
+    word_coordinates_pages = {};
+    
+
+    var get_$container;
+    var get_$image;
+    var fudge_numbers;
+
+    
+    
+    get_$container = function(page_id) {
+        return $("#highlights-container-" + page_id);
+    };
+    get_$image = function(page_id) {
+        return $("#iconic-segment-image-" + page_id);
+    };
+    fudge_numbers = {
+        left: -1.3,
+        top: -0.5,
+        width: 2.5,
+        height: 1.3
+    };
+
+    $('li.item .item-description-title a').each(function(index, result){
+        var $li = $(this).closest('li');
+        var wordCorrdinatesUrl = $li.data("word_coordinates_url");
+        if (!wordCorrdinatesUrl){
+            // The continue of jquery
+            return true;
+        }
+        var pageId = $li.data("page_id");
+        var originalFormat = $li.data("original_format");
+        var xmlFileName = null;
+        var parserA = document.createElement("a");
+        parserA.href = decodeURIComponent(wordCorrdinatesUrl);
+        var search = parserA.search;
+        search = search.substring(1).split("&");
+        for (var iKey=0; iKey < search.length; iKey++){
+            var key = search[iKey].split("=")[0];
+            if ("segment" == key){
+                xmlFileName = search[iKey].split("=")[1];
+            }
+        }
+        parserA = null;
+        $.ajax({
+            traditional: true,
+            type: "GET",
+            url: wordCorrdinatesUrl,
+            success: function(response) {
+                if (xmlFileName && response.hasOwnProperty(xmlFileName)){
+                    var $image = get_$image(pageId);
+                    var $container = get_$container(pageId);
+                    var textData = response[xmlFileName];
+                    var truncator = Object.create(Truncator);
+                    if (originalFormat && "newspaper" == originalFormat){
+                        truncator.setup(
+                            textData['relevant_snippet'],
+                            "...",
+                            originalFormat,
+                            "None"
+                        );
+                    } else {
+                        
+                        truncator.setup(
+                            textData['relevant_snippet'],
+                            "...",
+                            originalFormat,
+                            "None"
+                        );
+                        
+                    }
+                    var truncatedText = truncator.words();
+                    $li.find(".item-description-abstract").html(
+                        replaceTag(
+                            truncatedText,
+                            "span class='hit-highlight'"
+                        )
+                    );
+                    var coordsList = [];
+                    for (searchTerm in textData['searchTerms']){
+                        coordsList = coordsList.concat(
+                            textData['searchTerms'][searchTerm]
+                        );
+                    }
+                    // Check an image was even found before trying to highlight
+                    // If the image isn't already present then wait for it
+                    // to load and kick off putting the highlights on
+                    // Otherwise just put the highlights on
+                    if ($image.length){
+                        if (!$image[0].complete){
+                            // Overlay the highlights after the image has loaded
+                            $image.one("load", function(){
+                                position_overlays(
+                                    pageId,
+                                    textData['width'],
+                                    textData['height'],
+                                    coordsList,
+                                    $image,
+                                    $container,
+                                    fudge_numbers
+                                )
+                            });
+                        } else {
+                            position_overlays(
+                                pageId,
+                                textData['width'],
+                                textData['height'],
+                                coordsList,
+                                $image,
+                                $container,
+                                fudge_numbers
+                            )
+                        }
+                    }
+                }
+            }
+        });
+    });
+     
+
+
+    
+    $(window).resize(function() {
+        setTimeout(function() {
+            $.each(word_coordinates_pages, function(page_id, page) {
+                var $container = get_$container(page_id);
+                var $image = get_$image(page_id, $container);
+                position_overlays(page_id, page.width, page.height, page.coords_list,
+                    $image, $container, fudge_numbers);
+            });
+        }, 300);
+    });
+});
+</script>
+
+<script>
+"use strict";
+//Object to hold Advanced Search Form
+var AdvancedSearchFormObj = {
+
+    // It seems strange to have this so many times rather than just once
+    // But I feel like it increase readability and describes why things are
+    // happening when they are called
+    setup: function(){
+        this.initializeData();
+        this.qs_ops_session_key = "advanced_search_form_qs_ops";
+    },
+
+    resetData: function(){
+        this.initializeData();
+    },
+
+    initializeData: function(){
+        this.qs_ops = {
+            "qs": [],
+            "ops": []
+        };
+    },
+
+    sessionStorageAllowed: function(){
+        if (typeof(Storage) !== "undefined"){
+            return true;
+        } else {
+            return false;
+        }
+    },
+
+    saveQsOps : (function($){
+        return  function(type){
+            //This is here because 'this' becomes something else through the next jQuery call
+            var _this = this;
+
+            this.resetData();
+
+            switch(type){
+            case "display-level":
+                //Save the queries and ops
+                $("#advanced-search-form")
+                .find("div.advanced-keyword-search:visible")
+                .each(function() {
+                    var q = $(this).find("input.advanced-query").val();
+                    if (q) {
+                        var op = $(this).find("select.advanced-operator").val();
+                        _this.qs_ops.ops.push(op);
+                        _this.qs_ops.qs.push(q);
+                    }
+                });
+                break;
+            case "no-results":
+                this.qs_ops.qs = [];
+                this.qs_ops.ops = [];
+                break;
+            }
+        };
+    })(jQuery),
+
+    retrieveQsOpsFromSession: function(){
+        var qs_ops = this.retrieveFromSession(this.qs_ops_session_key);
+        if (qs_ops){
+            this.qs_ops = qs_ops;
+        }
+    },
+
+    retrieveFromSession: function(sessionKey){
+        var sessionValue = null;
+        if (this.sessionStorageAllowed()){
+            if (sessionStorage.hasOwnProperty(sessionKey)){
+                sessionValue = sessionStorage.getItem(sessionKey);
+                // Remove the key from session storage
+                sessionStorage.removeItem(sessionKey);
+                sessionValue = JSON.parse(sessionValue);
+            }
+        }
+        return sessionValue;
+    },
+
+    populateQsOpsFields: (function($){
+        return function(){
+            var _this = this;
+            //Set queries
+            $("#advanced-search-form")
+                .find("div.advanced-keyword-search")
+                .each(function(index, el) {
+                    var saved_q = _this.qs_ops.qs[index];
+                    if (saved_q) {
+                        var $el = $(el);
+                        $el.find("input.advanced-query").val(saved_q);
+                        var saved_op = _this.qs_ops.ops[index];
+                        $el.find("select.advanced-operator").val(saved_op);
+                        $el.show();
+                    } else {
+                        return false;
+                    }
+                });
+        };
+
+    })(jQuery),
+
+    storeInSession : function(){
+        // Check session storage is support by the browser
+        if (this.sessionStorageAllowed()){
+            if (this.qs_ops.qs.length){
+                sessionStorage.setItem(
+                    this.qs_ops_session_key,
+                    JSON.stringify(this.qs_ops)
+                );
+            }
+        }
+    },
+};
+</script>
+
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript">
+if(window['_satellite']){
+    _satellite.pageBottom();
+}
+</script>
+</body>
+</html>

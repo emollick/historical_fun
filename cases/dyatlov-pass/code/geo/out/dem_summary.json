@@ -1,0 +1,92 @@
+{
+ "dem": "Copernicus DEM GLO-30 (COG tile N61_00_E059_00, AWS public bucket, md5 0c15753d8bd0c99d05fafaa78e819443)",
+ "dem_grid_m": {
+  "dx_east": 29.34,
+  "dy_north": 30.96
+ },
+ "tent_used": "tent_dyatlovpass_map (TL 18.10)",
+ "tent_elev_m": 898.9,
+ "cedar_elev_m": 643.4,
+ "tent_to_cedar_horizontal_m": 1550.8,
+ "tent_to_cedar_haversine_m": 1545.4,
+ "tent_to_cedar_bearing_deg": 62.3,
+ "tent_to_cedar_drop_m": 255.5,
+ "tent_to_cedar_mean_slope_deg": 9.4,
+ "profile_max_grad25_deg": 16.1,
+ "profile_max_grad100_deg": 14.4,
+ "profile_first_500m_mean_slope_deg": -12.1,
+ "profile_500_1000m_mean_slope_deg": -10.7,
+ "profile_1000m_to_cedar_mean_slope_deg": 5.6,
+ "bodies_along_line_m": {
+  "kolmogorova": {
+   "along_m": 897.0,
+   "offset_m": -13.1,
+   "from_cedar_m": 653.8,
+   "elev_m": 715.0
+  },
+  "slobodin": {
+   "along_m": 1048.0,
+   "offset_m": -31.0,
+   "from_cedar_m": 502.8,
+   "elev_m": 689.0
+  },
+  "dyatlov": {
+   "along_m": 1228.1,
+   "offset_m": -18.5,
+   "from_cedar_m": 322.7,
+   "elev_m": 665.2
+  },
+  "den_flooring": {
+   "along_m": 1483.1,
+   "offset_m": 41.2,
+   "from_cedar_m": 67.7,
+   "elev_m": 635.5
+  }
+ },
+ "tent_to_summit_dem_m": 766.0,
+ "tent_to_summit_bearing_deg": 233.4,
+ "upslope": {
+  "fall_line_up": {
+   "bearing_deg": 265.0,
+   "rise_0_100m_deg": -17.1,
+   "rise_100_200m_deg": -14.2,
+   "rise_0_200m_deg": -15.6,
+   "rise_200_300m_deg": -6.2,
+   "max_grad25_within_200m_deg": 19.6,
+   "max_grad50_within_200m_deg": 18.9,
+   "elev_at_200m": 954.9
+  },
+  "toward_summit": {
+   "bearing_deg": 233.4,
+   "rise_0_100m_deg": -13.9,
+   "rise_100_200m_deg": -14.9,
+   "rise_0_200m_deg": -14.4,
+   "rise_200_300m_deg": -17.3,
+   "max_grad25_within_200m_deg": 16.8,
+   "max_grad50_within_200m_deg": 16.3,
+   "elev_at_200m": 950.4
+  }
+ },
+ "noise_sigma_m": 1.5,
+ "max_horn_slope_within_300m_above_tent": {
+  "slope_deg": 22.7,
+  "x_y_z": [
+   -87.0,
+   -271.0,
+   940.5
+  ]
+ },
+ "descent_corridor_horn_slope": {
+  "max_deg": 21.1,
+  "at_along_m": 7.0,
+  "n_pixels": 330,
+  "mean_deg": 11.3
+ },
+ "terrarium_crosscheck": {
+  "tent_elev_m": 886.3,
+  "profile_mean_diff_terr_minus_cop_m": -11.7,
+  "profile_rms_diff_m": 11.7,
+  "n": 63,
+  "fall_line_slope_over_60m_deg": 14.5
+ }
+}

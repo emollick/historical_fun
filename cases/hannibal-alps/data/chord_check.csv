@@ -1,0 +1,148 @@
+route,from,to,n_samples_over_150m,max_excess_m
+Fourques/Arles -> Island (i) Isere,Pierrelatte,Montelimar,6,217.64893904505914
+Beaucaire-Tarascon -> Island (i) Isere,Pierrelatte,Montelimar,6,217.64893904505914
+Roquemaure -> Island (i) Isere,Pierrelatte,Montelimar,6,217.64893904505914
+Beaucaire-Tarascon -> Drome confluence (Loriol),Pierrelatte,Montelimar,6,217.64893904505914
+R1,Saint-Marcellin,Tullins,2,151.1916438129948
+R1,Tullins,Voreppe,5,386.6081678355653
+R1,Voreppe,Grenoble,17,655.5229122546726
+R1,Grenoble,Pontcharra,78,859.9825107794929
+R1,Montmelian,Aiguebelle,37,916.9144130163199
+R1,Aiguebelle,La Chambre,40,987.9766164630163
+R1,La Chambre,Saint-Jean-de-Maurienne,14,822.9623976754465
+R1,Saint-Jean-de-Maurienne,Saint-Michel-de-Maurienne,1,154.46669324232153
+R1,Saint-Michel-de-Maurienne,Modane,21,645.8468489185673
+R1,Termignon,Lanslebourg,6,251.41410156231632
+R2,Saint-Marcellin,Tullins,2,151.1916438129948
+R2,Tullins,Voreppe,5,386.6081678355653
+R2,Voreppe,Grenoble,17,655.5229122546726
+R2,Grenoble,Pontcharra,78,859.9825107794929
+R2,Montmelian,Aiguebelle,37,916.9144130163199
+R2,Aiguebelle,La Chambre,40,987.9766164630163
+R2,La Chambre,Saint-Jean-de-Maurienne,14,822.9623976754465
+R2,Saint-Jean-de-Maurienne,Saint-Michel-de-Maurienne,1,154.46669324232153
+R2,Saint-Michel-de-Maurienne,Modane,21,645.8468489185673
+R2,Bramans,Le Planay (Bramans),1,167.74741603771986
+R2,Le Planay (Bramans),Lac Savine,5,366.3221200012531
+R2,Val Clarea upper,Val Clarea lower,2,169.27639644433816
+R2b,Saint-Marcellin,Tullins,2,151.1916438129948
+R2b,Tullins,Voreppe,5,386.6081678355653
+R2b,Voreppe,Grenoble,17,655.5229122546726
+R2b,Grenoble,Pontcharra,78,859.9825107794929
+R2b,Montmelian,Aiguebelle,37,916.9144130163199
+R2b,Aiguebelle,La Chambre,40,987.9766164630163
+R2b,La Chambre,Saint-Jean-de-Maurienne,14,822.9623976754465
+R2b,Saint-Jean-de-Maurienne,Saint-Michel-de-Maurienne,1,154.46669324232153
+R2b,Saint-Michel-de-Maurienne,Modane,21,645.8468489185673
+R2b,Bramans,Le Planay (Bramans),1,167.74741603771986
+R2b,Col du Petit Mont-Cenis,Mont-Cenis plateau (lake),1,215.22768858938161
+R3,Saint-Marcellin,Tullins,2,151.1916438129948
+R3,Tullins,Voreppe,5,386.6081678355653
+R3,Voreppe,Grenoble,17,655.5229122546726
+R3,Grenoble,Pontcharra,78,859.9825107794929
+R3,Albertville,Moutiers,52,834.6632554772134
+R3,Moutiers,Aime,24,566.0801146188023
+R3,Aime,Bourg-Saint-Maurice,33,726.75297146799
+R3,Col du Petit-Saint-Bernard,La Thuile,1,155.75926701531262
+R3,La Thuile,Pre-Saint-Didier,3,235.82090710821603
+R3,Morgex,Aosta,67,1596.5494077405178
+R3,Chatillon (Aosta),Pont-Saint-Martin,61,992.8319842525508
+R3m,Saint-Marcellin,Tullins,2,151.1916438129948
+R3m,Tullins,Voreppe,5,386.6081678355653
+R3m,Voreppe,Grenoble,17,655.5229122546726
+R3m,Grenoble,Pontcharra,78,859.9825107794929
+R3m,Albertville,Moutiers,52,834.6632554772134
+R3m,Moutiers,Aime,24,566.0801146188023
+R3m,Aime,Bourg-Saint-Maurice,33,726.75297146799
+R3m,Col du Petit-Saint-Bernard,La Thuile,1,155.75926701531262
+R3m,La Thuile,Pre-Saint-Didier,3,235.82090710821603
+R3m,Morgex,Aosta,67,1596.5494077405178
+R3m,Chatillon (Aosta),Pont-Saint-Martin,61,992.8319842525508
+R4,Cavaillon,Pertuis,35,402.70717252200984
+R4,Pertuis,Manosque,2,178.44660523007525
+R4,Manosque,Sisteron,60,812.419411988589
+R4,Sisteron,Tallard,63,822.8383302630307
+R4,Tallard,Chorges,26,418.60289368938027
+R4,Chorges,Embrun,48,378.32067623745195
+R4,Embrun,Guillestre,31,1072.6641524995075
+R4,Guillestre,L'Argentiere-la-Bessee,25,435.93184104089744
+R4,L'Argentiere-la-Bessee,Briancon,15,406.7402713723154
+R4c,Pierrelatte,Montelimar,6,217.64893904505914
+R4c,Crest,Saillans,11,213.63150607961177
+R4c,Saillans,Die,21,526.948455950321
+R4c,La Beaume,Aspres-sur-Buech,3,201.89852560881764
+R4c,Veynes,Gap,45,607.8100260020584
+R4c,Gap,Tallard,2,190.5256712289397
+R4c,Tallard,Chorges,26,418.60289368938027
+R4c,Chorges,Embrun,48,378.32067623745195
+R4c,Embrun,Guillestre,31,1072.6641524995075
+R4c,Guillestre,L'Argentiere-la-Bessee,25,435.93184104089744
+R4c,L'Argentiere-la-Bessee,Briancon,15,406.7402713723154
+R5,Cavaillon,Pertuis,35,402.70717252200984
+R5,Pertuis,Manosque,2,178.44660523007525
+R5,Manosque,Sisteron,60,812.419411988589
+R5,Sisteron,Tallard,63,822.8383302630307
+R5,Tallard,Chorges,26,418.60289368938027
+R5,Chorges,Embrun,48,378.32067623745195
+R5,Embrun,Guillestre,31,1072.6641524995075
+R5,Guillestre,Chateau-Ville-Vieille,9,401.4961076597883
+R5,Ristolas,L'Echalp,4,174.05345241229952
+R5,L'Echalp,Refuge du Viso,2,155.5074279696596
+R5g,Pierrelatte,Montelimar,6,217.64893904505914
+R5g,Crest,Saillans,11,213.63150607961177
+R5g,Saillans,Die,21,526.948455950321
+R5g,Die,Col de Grimone,15,611.8131921923068
+R5g,Lus-la-Croix-Haute,Aspres-sur-Buech,20,408.67118266754164
+R5g,Veynes,Gap,45,607.8100260020584
+R5g,Gap,Tallard,2,190.5256712289397
+R5g,Tallard,Chorges,26,418.60289368938027
+R5g,Chorges,Embrun,48,378.32067623745195
+R5g,Embrun,Guillestre,31,1072.6641524995075
+R5g,Guillestre,Chateau-Ville-Vieille,9,401.4961076597883
+R5g,Ristolas,L'Echalp,4,174.05345241229952
+R5g,L'Echalp,Refuge du Viso,2,155.5074279696596
+R5c,Pierrelatte,Montelimar,6,217.64893904505914
+R5c,Crest,Saillans,11,213.63150607961177
+R5c,Saillans,Die,21,526.948455950321
+R5c,La Beaume,Aspres-sur-Buech,3,201.89852560881764
+R5c,Veynes,Gap,45,607.8100260020584
+R5c,Gap,Tallard,2,190.5256712289397
+R5c,Tallard,Chorges,26,418.60289368938027
+R5c,Chorges,Embrun,48,378.32067623745195
+R5c,Embrun,Guillestre,31,1072.6641524995075
+R5c,Guillestre,Chateau-Ville-Vieille,9,401.4961076597883
+R5c,Ristolas,L'Echalp,4,174.05345241229952
+R5c,L'Echalp,Refuge du Viso,2,155.5074279696596
+R6,Cavaillon,Pertuis,35,402.70717252200984
+R6,Pertuis,Manosque,2,178.44660523007525
+R6,Manosque,Sisteron,60,812.419411988589
+R6,Sisteron,Tallard,63,822.8383302630307
+R6,Tallard,Le Lauzet-Ubaye,58,621.7989032321381
+R6,Le Lauzet-Ubaye,Barcelonnette,37,1191.6600749187812
+R6,Jausiers,Larche,29,1071.6039262456925
+R6,Pietraporzio,Vinadio,20,1024.480776120545
+R6,Demonte,Borgo San Dalmazzo,18,501.76376527959815
+R6v,Cavaillon,Pertuis,35,402.70717252200984
+R6v,Pertuis,Manosque,2,178.44660523007525
+R6v,Manosque,Sisteron,60,812.419411988589
+R6v,Sisteron,Tallard,63,822.8383302630307
+R6v,Tallard,Chorges,26,418.60289368938027
+R6v,Chorges,Embrun,48,378.32067623745195
+R6v,Embrun,Guillestre,31,1072.6641524995075
+R6v,Col de Vars,Jausiers,11,510.4870977478349
+R6v,Jausiers,Larche,29,1071.6039262456925
+R6v,Pietraporzio,Vinadio,20,1024.480776120545
+R6v,Demonte,Borgo San Dalmazzo,18,501.76376527959815
+R7,Island (i): Isere-Rhone confluence,Vienne,38,208.57670212068217
+R7,Vienne,Lyon,2,181.55122827844184
+R7,Bourgoin-Jallieu,Les Echelles,54,457.0327165181197
+R7,Les Echelles,Chambery,41,678.3198505068528
+R7,Chambery,Annecy,121,1072.4181215764552
+R7,Annecy,Geneva,73,916.8696443590163
+R7,Geneva,Villeneuve (Vaud),168,1599.6584293410701
+R7,Villeneuve (Vaud),Saint-Maurice (Valais),17,594.4764603439764
+R7,Martigny,Orsieres,23,1361.078105827363
+R7,Orsieres,Bourg-Saint-Pierre,5,283.83144612446495
+R7,Col du Grand-Saint-Bernard,Saint-Rhemy-en-Bosses,2,221.6758975886305
+R7,Etroubles,Aosta,14,436.3524703305129
+R7,Chatillon (Aosta),Pont-Saint-Martin,61,992.8319842525508

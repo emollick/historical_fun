@@ -1,0 +1,140 @@
+{
+ "stats": {
+  "noise": 704,
+  "sig": 33,
+  "pagenum": 79,
+  "hyphen_join": 2,
+  "override": 31,
+  "auto": 24,
+  "words_out": 14422,
+  "lines_out": 3470
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   11
+  ],
+  [
+   "cefar>cesar",
+   6
+  ],
+  [
+   "fee>see",
+   4
+  ],
+  [
+   "faw>saw",
+   2
+  ],
+  [
+   "fay>say",
+   2
+  ],
+  [
+   "fave>save",
+   2
+  ],
+  [
+   "fays>says",
+   2
+  ],
+  [
+   "fuch>such",
+   1
+  ],
+  [
+   "diftance>distance",
+   1
+  ],
+  [
+   "fir>sir",
+   1
+  ],
+  [
+   "filent>silent",
+   1
+  ],
+  [
+   "treafon>treason",
+   1
+  ],
+  [
+   "lof>los",
+   1
+  ],
+  [
+   "honeft>honest",
+   1
+  ],
+  [
+   "fad>sad",
+   1
+  ],
+  [
+   "diforder>disorder",
+   1
+  ],
+  [
+   "fon>son",
+   1
+  ],
+  [
+   "vf>vs",
+   1
+  ],
+  [
+   "fleep>sleep",
+   1
+  ],
+  [
+   "ftrike>strike",
+   1
+  ],
+  [
+   "reft>rest",
+   1
+  ],
+  [
+   "fue>sue",
+   1
+  ],
+  [
+   "flept>slept",
+   1
+  ],
+  [
+   "defign>design",
+   1
+  ],
+  [
+   "fend>send",
+   1
+  ],
+  [
+   "fpare>spare",
+   1
+  ],
+  [
+   "fense>sense",
+   1
+  ],
+  [
+   "fpeak>speak",
+   1
+  ],
+  [
+   "lefs>less",
+   1
+  ],
+  [
+   "reafon>reason",
+   1
+  ],
+  [
+   "faid>said",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

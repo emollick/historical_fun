@@ -1,0 +1,593 @@
+# Legio IX Hispana: the literary and documentary sources for its fate
+
+Every entry gives the citation (with edition/page), the original text, a translation (translator named; 'own' where mine), the URL where the text was read, and a short note on what it does and does not show. `Verified online: yes` means the quotation was copied from the page fetched; `no` means the wording is recalled from memory and must be checked before publication. Working copies of the raw downloads are not included in this folder.
+
+Quick key to the argument: no ancient text records the end of the Ninth. The sources record (a) the legion's history to AD 82/83 (Tacitus), (b) heavy Roman losses in Britain under Hadrian (Fronto; HA Hadr. 5.2; RIB 1051, 3364; the expeditio Britannica inscriptions ILS 2726, 2735), (c) heavy losses in Judaea 132-136 (Dio 69.14; Fronto), (d) the annihilation of a Roman force at Elegeia in 161 (Dio 71.2; Lucian; Fronto; HA Verus 6.9), and (e) two lists of legions from the Severan period (Dio 55.23-24; CIL VI 3492) in which IX Hispana and XXII Deiotariana are missing. Sections 10-11 discuss how scholars have combined these.
+
+
+## 1. Tacitus on the Ninth
+
+### [T1] Tacitus, Annales 1.23.5-6 (AD 14, Pannonian mutiny). Latin: Latin Library text (= Fisher OCT/Teubner numbering). Translation: A. J. Church & W. J. Brodribb (1876).
+
+**Original**
+
+> quin ipsae inter se legiones octava et quinta decuma ferrum parabant, dum centurionem cognomento Sirpicum illa morti deposcit, quintadecumani tuentur, ni miles nonanus preces et adversum aspernantis minas interiecisset.
+
+**Translation**
+
+> Two legions, the eighth and the fifteenth, were actually drawing swords against each other, the former demanding the death of a centurion, whom they nicknamed Sirpicus, while the men of the fifteenth defended him, but the soldiers of the ninth interposed their entreaties, and when these were disregarded, their menaces. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.ann1.shtml ; https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_1
+
+**Verified online:** yes — Latin fetched from thelatinlibrary.com; English fetched from en.wikisource.org via API.
+
+**Bearing:** First securely dated narrative appearance of IX Hispana: in the summer camp of the three Pannonian legions (VIII Augusta, IX Hispana, XV Apollinaris) under Iunius Blaesus at Augustus' death. The 'nonanus miles' acts as peacemaker between VIII and XV. Fixes the legion's Pannonian station in AD 14; no bearing on its end.
+
+### [T2] Tacitus, Annales 1.30.4 (AD 14). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> primum octava, dein quinta decuma legio rediere: nonanus opperiendas Tiberii epistulas clamitaverat, mox desolatus aliorum discessione imminentem necessitatem sponte praevenit.
+
+**Translation**
+
+> First the eighth, then the fifteenth legion returned; the ninth cried again and again that they ought to wait for the letter from Tiberius, but soon finding themselves isolated by the departure of the rest, they voluntarily forestalled their inevitable fate. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.ann1.shtml ; https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_1
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource).
+
+**Bearing:** End of the mutiny: the Ninth is the last of the three Pannonian legions to return to winter quarters. Confirms the legion's identity and station (cf. Ann. 4.5 for the two-legion Pannonian garrison of AD 23 after the Ninth's departure for Africa). Nothing on its fate.
+
+### [T3] Tacitus, Annales 3.9.1 (AD 20). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> Piso Delmatico mari tramisso relictisque apud Anconam navibus per Picenum ac mox Flaminiam viam adsequitur legionem, quae e Pannonia in urbem, dein praesidio Africae ducebatur: eaque res agitata rumoribus ut in agmine atque itinere crebro se militibus ostentavisset.
+
+**Translation**
+
+> Piso, after crossing the Dalmatian sea and leaving his ships at Ancona, went through Picenum and along the Flaminian road, where he overtook a legion which was marching from Pannonia to Rome and was then to garrison Africa. It was a matter of common talk how he had repeatedly displayed himself to the soldiers on the road during the march. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.ann3.shtml ; https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_3
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource).
+
+**Bearing:** The legion is not named here, but Ann. 4.23.2 (the 'ninth legion' ordered home from Africa in AD 24) identifies it as IX Hispana, sent from Pannonia to reinforce III Augusta against Tacfarinas. Shows the legion being moved as a whole unit across the empire in an emergency, the pattern later invoked (without evidence) for a Hadrianic transfer east.
+
+### [T4] Tacitus, Annales 4.23.2 (AD 24). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> ipsaque e provincia ut quis fortunae inops, moribus turbidus, promptius ruebant, quia Caesar post res a Blaeso gestas quasi nullis iam in Africa hostibus reportari nonam legionem iusserat, nec pro consule eius anni P. Dolabella retinere ausus erat iussa principis magis quam incerta belli metuens.
+
+**Translation**
+
+> From the province itself every needy and restless adventurer hurried to join him, for the emperor, as if not an enemy remained in Africa after the achievements of Blaesus, had ordered the ninth legion home, and Publius Dolabella, proconsul that year, had not dared to retain it, because he feared the sovereign's orders more than the risks of war. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.ann4.shtml ; https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_4
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource).
+
+**Bearing:** Closes the African interlude (AD 20-24): Tiberius withdraws IX Hispana before Dolabella's final victory over Tacfarinas. Together with 3.9 this is the only ancient evidence for the legion's whereabouts between AD 14 and the invasion of Britain in 43 (in which Tacitus' lost books presumably described it).
+
+### [T5] Tacitus, Annales 14.32.3 (AD 60/61, revolt of Boudica). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> et cetera quidem impetu direpta aut incensa sunt: templum, in quo se miles conglobaverat, biduo obsessum expugnatumque. et victor Britannus, Petil[l]o Ceriali, legato legionis nonae, in subsidium adventanti obvius, fudit legionem, et quod peditum interfecit: Cerialis cum equitibus evasit in castra et munimentis defensus est. qua clade et odiis provinciae, quam avaritia e[ius] in bellum egerat, trepidus procurator Catus in Galliam transiit.
+
+**Translation**
+
+> All else was plundered or fired in the onslaught; the temple where the soldiers had assembled, was stormed after a two days' siege. The victorious enemy met Petilius Cerialis, commander of the ninth legion, as he was coming to the rescue, routed his troops, and destroyed all his infantry. Cerialis escaped with some cavalry into the camp, and was saved by its fortifications. Alarmed by this disaster and by the fury of the province which he had goaded into war by his rapacity, the procurator Catus crossed over into Gaul. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.ann14.shtml ; https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_14
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource).
+
+**Bearing:** The Ninth's worst recorded defeat: Cerialis' relief column is routed and 'all the infantry' with him killed. Tacitus gives no figure; the conventional 'c. 2,000' is an inference from 14.38.1 (2,000 legionaries sent to bring the nonani back to strength). 'fudit legionem' need not mean the whole legion marched (a detachment is likelier), and in 14.33.1 Tacitus calls it the 'temeritas' of Petilius. The point for the Ninth's later history: a legion that lost perhaps a third of its men was refilled, not disbanded.
+
+### [T6] Tacitus, Annales 14.38.1 (AD 61). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> Contractus deinde omnis exercitus sub pellibus habitus est ad reliqua belli perpetranda. auxitque copias Caesar missis ex Germania duobus legionariorum milibus, octo auxiliarium cohortibus ac mille equitibus quorum adventu nonani legionario milite suppleti sunt.
+
+**Translation**
+
+> The whole army was then brought together and kept under canvas to finish the remainder of the war. The emperor strengthened the forces by sending from Germany two thousand legionaries, eight cohorts of auxiliaries, and a thousand cavalry. On their arrival the men of the ninth had their number made up with legionary soldiers. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.ann14.shtml ; https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_14
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource).
+
+**Bearing:** Nero's reinforcement of Britain: 2,000 legionaries (source legions unnamed), 8 auxiliary cohorts, 1,000 horse; the 2,000 legionaries are used to fill the Ninth's gaps ('nonani legionario milite suppleti'). This is the closest literary parallel to the Hadrianic expeditio Britannica (ILS 2726: 3,000 legionaries from VII Gemina, VIII Augusta, XXII Primigenia), which Graafstal (Britannia 56, 2025, n. 41) explicitly compares.
+
+### [T7] Tacitus, Historiae 3.22.2 (AD 69, second battle of Bedriacum/Cremona). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> ordinem agminis disiecti per iram ac tenebras adseverare non ausim, quamquam alii tradiderint quartam Macedonicam dextrum suorum cornu, quintam et quintam decimam cum vexillis nonae secundaeque et vicensimae Britannicarum legionum mediam aciem, sextadecimanos duoetvicensimanosque et primanos laevum cornu complesse.
+
+**Translation**
+
+> Respecting the disposition of the Vitellianist army, disordered as it was by its fury and by the darkness, I would not venture to speak positively. Some, however, have related, that on the right wing was the 4th legion (the Macedonian); that the 5th and 15th, with the veterans of three British legions (the 9th, 2nd, and 20th), formed the centre, while the left wing was made up of the 1st, the 16th, and the 22nd. [Church & Brodribb; 'veterans' renders vexillis, i.e. vexillations/detachments]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.hist3.shtml ; https://en.wikisource.org/wiki/The_Histories_(Tacitus)/Book_3
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource).
+
+**Bearing:** Histories 3 mentions the Ninth only here (and only its vexillum): detachments of IX, II Augusta and XX served in Vitellius' army in Italy (cf. Hist. 2.57, 2.100 for the 8,000 men drawn from Britain). Shows that the British legions routinely sent vexillations to the Continent, which is the model most scholars now use for the Ninth's tile-stamps at Nijmegen (Haalebos 2000; Hodgson 2021).
+
+### [T8] Tacitus, Agricola 26 (Agricola's sixth campaign, AD 82 or 83). Latin Library text; Church & Brodribb translation.
+
+**Original**
+
+> Quod ubi cognitum hosti, mutato repente consilio universi nonam legionem ut maxime invalidam nocte adgressi, inter somnum ac trepidationem caesis vigilibus inrupere. Iamque in ipsis castris pugnabatur, cum Agricola iter hostium ab exploratoribus edoctus et vestigiis insecutus, velocissimos equitum peditumque adsultare tergis pugnantium iubet, mox ab universis adici clamorem; et propinqua luce fulsere signa. Ita ancipiti malo territi Britanni; et nonanis rediit animus, ac securi pro salute de gloria certabant. Ultro quin etiam erupere, et fuit atrox in ipsis portarum angustiis proelium, donec pulsi hostes, utroque exercitu certante, his, ut tulisse opem, illis, ne eguisse auxilio viderentur. Quod nisi paludes et silvae fugientis texissent, debellatum illa victoria foret.
+
+**Translation**
+
+> This becoming known to the enemy, they suddenly changed their plan, and with their whole force attacked by night the ninth Legion, as being the weakest, and cutting down the sentries, who were asleep or panic-stricken, they broke into the camp. And now the battle was raging within the camp itself, when Agricola, who had learnt from his scouts the enemy's line of march and had kept close on his track, ordered the most active soldiers of his cavalry and infantry to attack the rear of the assailants, while the entire army were shortly to raise a shout. Soon his standards glittered in the light of daybreak. A double peril thus alarmed the Britons, while the courage of the Romans revived; and feeling sure of safety, they now fought for glory. In their turn they rushed to the attack, and there was a furious conflict within the narrow passages of the gates till the enemy were routed. Both armies did their utmost, the one for the honour of having given aid, the other for that of not having needed support. Had not the flying enemy been sheltered by morasses and forests, this victory would have ended the war. [Church & Brodribb]
+
+**Read at:** https://www.thelatinlibrary.com/tacitus/tac.agri.shtml ; https://en.wikisource.org/wiki/Agricola
+
+**Verified online:** yes — Fetched (Latin Library; Wikisource). ILS 1025 reference recalled.
+
+**Bearing:** The last narrative mention of IX Hispana in any ancient author. 'ut maxime invalidam' ('as the weakest') is usually explained by the absence of a vexillation of the Ninth in Domitian's Chattan war of 83 (cf. ILS 1025, Roscius Aelianus, 'vexillariorum leg. VIIII Hispanae' — recalled, not re-checked here). The legion survives the night attack; after this the only evidence is epigraphic (York gate inscription of 108, RIB 665; Nijmegen stamps; officers' careers) until the lists (Dio 55.23-24; CIL VI 3492) that omit it.
+
+
+## 2. Fronto
+
+### [F1] M. Cornelius Fronto, De bello Parthico 2 (to Marcus Aurelius, 162/3). Latin and English: C. R. Haines, Loeb Fronto vol. II (1920), Latin p. 22 (§2 begins p. 20), English p. 21/23; Teubner: M. P. J. van den Hout, M. Cornelii Frontonis Epistulae (Leipzig 1988) p. 221 (page as cited by W. Eck, JRS 89 (1999) n. 27; not consulted directly).
+
+**Original**
+
+> Sed ne nimis vetera alte petam, vestrae familiae exemplis utar. Traiani proavi vestri ductu auspicioque nonne in Dacia captus vir consularis? Nonne a Parthis consularis aeque vir in Mesopotamia trucidatus? Quid? avo vestro Hadriano imperium optinente quantum militum ab Iudaeis, quantum ab Britannis caesum. Patre etiam vestro imperante, qui omnium principum <felicissimus erat> ! . . .   [Haines' text. Van den Hout's text, as quoted by Eck 1999 n. 27, reads: 'avo vestro obtinente quantum militum a Iudaeis, quantum ab Britannis caesum.' Haines n. 1 ad loc.: '<felicissimus erat>' is Niebuhr's supplement, 'but perhaps pacatissimus'; a lacuna of at least a page follows.]
+
+**Translation**
+
+> But not to hark back too far into ancient times, I will take instances from your own family. Was not a consular taken prisoner in Dacia under the leadership and auspices of your great grandfather Trajan? Was not a consular likewise slain by the Parthians in Mesopotamia? Again under the rule of your grandfather Hadrian what a number of soldiers were killed by the Jews, what a number by the Britons! Even in the principate of your Father, who was the most fortunate of princes . . . [Haines]
+
+**Read at:** https://archive.org/details/correspondenceof0002crha (text: https://archive.org/download/correspondenceof0002crha/correspondenceof0002crha_djvu.txt); Eck's citation: https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/bar-kokhba-revolt-the-roman-point-of-view/27E95F52A627562F93178F17A51D5FD4
+
+**Verified online:** yes — Haines Latin and English fetched from the archive.org OCR of the 1920 Loeb; van den Hout's reading taken from Eck 1999 n. 27 (fetched from Cambridge Core); van den Hout's edition itself not seen.
+
+**Bearing:** What it proves: writing c. 162/3 to console Marcus after the Armenian disaster (Haines n. 1: 'Severianus the legatus and his legion were destroyed at Elegeia'), Fronto lists earlier Roman disasters that the imperial family survived; under Hadrian a large number of soldiers ('quantum militum') were killed by the Britons, on a par rhetorically with the losses to the Jews in 132-136. This is the only literary statement of heavy Roman losses in Britain under Hadrian and it is independent of the HA. What it does not prove: it names no unit, gives no date within Hadrian's reign (117-138), does not say a legion (or an eagle) was lost, and the pairing with Judaea is a rhetorical crescendo, not a statement that the two wars had the same outcome. Its preceding sentence ('semper et ubique aerumnas ... triumphis commutavit') implies that the British losses were followed by a Roman success, matching HA Hadr. 5.2 + RIB 1051 ('diffusis barbaris et provincia reciperata') and the BRITANNIA coinage of c. 119. Hodgson 2021 and Graafstal 2025 use it as the literary anchor for a war in Britain c. 117-19 and/or c. 123.
+
+### [F2] Fronto, Principia Historiae 16 (c. 165). Haines, Loeb Fronto vol. II, Latin p. 214, English p. 215 (Naber p. 209, as cited in Magie's Loeb HA note on Marc. 8.6).
+
+**Original**
+
+> Bello Parthico utroque consulares viri duo exercitum utrique ducentes obtruncati: Severianus quidem Lucio ab urbe necdum etiam tum profecto; Appius vero quom praesens Traianus Euphrati et Tigridis portoria equorum et camelorum tribularet retro ab Arbace caesus est.
+
+**Translation**
+
+> In either Parthian war a man of consular rank, in either case commanding an army, was put to the sword: Severianus while Lucius had at the time not even left the city; Appius, however, while Trajan was present in the East making more stringent the ferry dues for camels and horses on the Euphrates and Tigris, was slain by Arbaces in rear of the Emperor. [Haines]
+
+**Read at:** https://archive.org/download/correspondenceof0002crha/correspondenceof0002crha_djvu.txt
+
+**Verified online:** yes — Fetched from archive.org OCR of Haines vol. II.
+
+**Bearing:** Second Frontonian notice of Elegeia: Severianus, 'a consular commanding an army' (exercitum, not legionem), was killed before Verus had even left Rome (so 161, not 162). No unit named. Confirms the chronology (disaster in 161, the year of Marcus' accession) but adds nothing on the identity of the force.
+
+
+## 3. Historia Augusta
+
+### [H1] Historia Augusta, Vita Hadriani 5.1-2. Latin and English (D. Magie, Loeb 1921) from LacusCurtius.
+
+**Original**
+
+> Adeptus imperium ad priscum se statim morem instituit et tenendae per orbem terrarum paci operam impendit. nam deficientibus iis nationibus quas Traianus subegerat, Mauri lacessebant, Sarmatae bellum inferebant, Britanni teneri sub Romana dicione non poterant, Aegyptus seditionibus urgebatur, Libya denique ac Palaestina rebelles animos efferebant.
+
+**Translation**
+
+> On taking possession of the imperial power Hadrian at once resumed the policy of the early emperors, and devoted his attention to maintaining peace throughout the world. For the nations which Trajan had conquered began to revolt; the Moors, moreover, began to make attacks, and the Sarmatians to wage war, the Britons could not be kept under Roman sway, Egypt was thrown into disorder by riots, and finally Libya and Palestine showed the spirit of rebellion. [Magie]
+
+**Read at:** https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Hadrian/1*.html ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Hadrian/1*.html
+
+**Verified online:** yes — Fetched from LacusCurtius (Latin and English pages).
+
+**Bearing:** The unrest of 117-119 in Britain. This was the traditional context for the Ninth's 'annihilation' (Sutcliff's novel; older scholarship) until Ritterling (RE XII, 1925, 1668-9) showed the legion still existed in the early 120s. The vita never mentions a lost legion anywhere. Graafstal 2025 n. 5: 'This was the generally accepted context, also for the loss of the Ninth Legion, until the groundbreaking paper Ritterling 1925.'
+
+### [H2] Historia Augusta, Vita Hadriani 11.2. LacusCurtius Latin; Magie translation.
+
+**Original**
+
+> Ergo conversis regio more militibus Britanniam petiit, in qua multa correxit murumque per octoginta milia passuum primus duxit, qui barbaros Romanosque divideret.
+
+**Translation**
+
+> And so, having reformed the army quite in the manner of a monarch, he set out for Britain, and there he corrected many abuses and was the first to construct a wall, eighty miles in length, which was to separate the barbarians from the Romans. [Magie]
+
+**Read at:** https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Hadrian/1*.html ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Hadrian/1*.html
+
+**Verified online:** yes — Fetched from LacusCurtius.
+
+**Bearing:** Hadrian's visit of 122 and the Wall. Notably silent about any fighting in the emperor's presence — an argument used against equating the expeditio Britannica with the visit itself (Graafstal 2025, quoting Breeze: 'if the fighting was so fierce, in the presence of the emperor, it would have been mentioned by the author of Hadrian's biography'). Compare RIB 1051 (Jarrow), which speaks of scattered barbarians and a recovered province before the frontier line was added.
+
+### [H3] Historia Augusta, Vita Hadriani 14.2. LacusCurtius Latin; Magie translation.
+
+**Original**
+
+> moverunt ea tempestate et Iudaei bellum, quod vetabantur mutilare genitalia.
+
+**Translation**
+
+> At this time also the Jews began war, because they were forbidden to practice circumcision. [Magie]
+
+**Read at:** https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Hadrian/1*.html
+
+**Verified online:** yes — Fetched from LacusCurtius.
+
+**Bearing:** The HA's only notice of the Bar Kokhba war: a one-line cause, no course of events, no losses, no units. The Latin biographical tradition therefore cannot be used either way on the question of a legion lost in Judaea.
+
+### [H4] Historia Augusta, Vita Antonini Pii 5.4. LacusCurtius Latin; Magie translation.
+
+**Original**
+
+> per legatos suos plurima bella gessit. nam et Britannos per Lollium Urbicum vicit legatum alio muro caespiticio summotis barbaris ducto, et Mauros ad pacem postulandam coegit, et Germanos et Dacos et multas gentes atque Iudaeos rebellantes contudit per praesides ac legatos.
+
+**Translation**
+
+> Through his legates he waged very many wars. For he defeated the Britons through his legate Lollius Urbicus, another wall, of turf, being built after the barbarians had been driven back; he compelled the Moors to sue for peace, and crushed the Germans and Dacians and many peoples, and the Jews too when they rebelled, through his governors and legates. [own translation; cf. Magie: 'For Lollius Urbicus, his legate, overcame the Britons and built a second wall, one of turf, after driving back the barbarians.']
+
+**Read at:** https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Antoninus_Pius*.html ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Antoninus_Pius*.html
+
+**Verified online:** yes — Fetched from LacusCurtius.
+
+**Bearing:** Antonine, not Hadrianic, but shows the same senior officers moving between the Judaean war and Britain: Urbicus had been 'legatus imp. Hadriani in expeditione Iudaica' (ILS 1065, entry D6). Nothing on the Ninth; included because the 'Britain-Judaea' personnel link is what generated E. Birley's hypothesis that Iulius Severus took the Ninth east.
+
+### [H5] Historia Augusta, Vita Marci 8.6-8. LacusCurtius Latin; Magie translation (with Magie's note 58).
+
+**Original**
+
+> fuit eo tempore etiam Parthicum bellum, quod Vologaesus paratum sub Pio Marci et Veri tempore indixit, fugato Attidio Corneliano, qui Syriam tunc administrabat. imminebat etiam Britannicum bellum, et Chatti in Germaniam ac Raetiam inruperant. et adversus Britannos quidem Calpurnius Agricola missus est, contra Chattos Aufidius Victorinus.
+
+**Translation**
+
+> At this time, moreover, came the Parthian war, which Vologaesus planned under Pius and declared under Marcus and Verus, after the rout of Attidius Cornelianus, then governor of Syria. And besides this, war was threatening in Britain, and the Chatti had burst into Germany and Raetia. Against the Britons Calpurnius Agricola was sent; against the Chatti, Aufidius Victorinus. [Magie]. Magie's note 58: 'After defeating Ælius Severianus, the governor of Cappadocia, at Elegeia, on the upper Euphrates, and annihilating his legion (Dio, LXXI.2; Fronto, Prin. Hist., p209), the Parthians established their candidate on the Armenian throne. Then followed the defeat of Cornelianus in 161.'
+
+**Read at:** https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html
+
+**Verified online:** yes — Fetched from LacusCurtius.
+
+**Bearing:** The HA's account of the outbreak of 161 omits Elegeia altogether and records only the rout of the Syrian governor Attidius Cornelianus (a second defeat). It also notes a threatened British war in 161, i.e. Britain was again unquiet at the very time some scholars would have the Ninth perishing in Armenia. Note that the Loeb editor's gloss 'his legion' rests on Dio, not on the HA.
+
+### [H6] Historia Augusta, Vita Veri 6.9 (with Magie's note 43). LacusCurtius Latin; Magie translation.
+
+**Original**
+
+> nam cum interfecto legato, caesis legionibus, Syris defectionem cogitantibus, oriens vastaretur, ille in Apulia venabatur et apud Corinthum et Athenas inter symphonias et cantica navigabat ...
+
+**Translation**
+
+> For while a legate was being slain, while legions were being slaughtered, while Syria meditated revolt, and the East was being devastated, Verus was hunting in Apulia, travelling about through Athens and Corinth accompanied by orchestras and singers ... [Magie]. Magie n. 43 on 'a legate': 'Ælius Severianus, governor of Cappadocia; see note to Marc. viii.6.'
+
+**Read at:** https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Historia_Augusta/Lucius_Verus*.html ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Lucius_Verus*.html
+
+**Verified online:** yes — Fetched from LacusCurtius.
+
+**Bearing:** The only HA allusion to the Elegeia disaster: 'interfecto legato, caesis legionibus' — the plural 'legions' is rhetorical (it also covers Cornelianus' defeat) and no unit is named. Cannot be pressed to show that a whole legion, let alone a named one, was destroyed.
+
+
+## 4. Cassius Dio
+
+### [D1] Cassius Dio 71(72).2.1 (Xiphilinus' epitome). Greek: remacle.org (Gros/Boissevain-based text) checked against the Loeb OCR (Cary, vol. IX p. 2); English: E. Cary, Loeb vol. IX (1927) p. 3, via LacusCurtius.
+
+**Original**
+
+> ὁ γὰρ Οὐολόγαισος πολέμου ἦρξε, καὶ στρατόπεδόν τε ὅλον Ῥωμαϊκὸν τὸ ὑπὸ Σεβηριανῷ τεταγμένον ἐν τῇ Ἐλεγείᾳ, χωρίῳ τινὶ τῆς Ἀρμενίας, περισχὼν πάντοθεν αὐτοῖς ἡγεμόσι κατετόξευσε καὶ διέφθειρε, καὶ τῆς Συρίας ταῖς πόλεσι πολὺς ἐπῄει καὶ φοβερός.
+
+**Translation**
+
+> Vologaesus, it seems, had begun the war by hemming in on all sides the Roman legion under Severianus that was stationed at Elegeia, a place in Armenia, and then shooting down and destroying the whole force, leaders and all; and he was now advancing, powerful and formidable, against the cities of Syria. [Cary]
+
+**Read at:** http://remacle.org/bloodwolf/historiens/Dion/livre71.htm ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/71*.html ; https://archive.org/download/diosromanhistory09cassuoft/diosromanhistory09cassuoft_djvu.txt
+
+**Verified online:** yes — Greek fetched from remacle.org and cross-checked with the archive.org OCR of the Loeb (which has minor OCR errors); English fetched from LacusCurtius.
+
+**Bearing:** The key text for Elegeia (161): 'a whole Roman στρατόπεδον' under Severianus, surrounded, shot down and destroyed 'commanders and all'. In Dio στρατόπεδον is his regular word for legio (he uses it throughout 55.23-24 for the legions), so Cary's 'legion' is a fair rendering — but Xiphilinus is abridging, and Dio/Xiphilinus never names the legion. Severianus was governor of Cappadocia (Lucian, Alex. 27; Hist. conscr. 21, 25-26), whose garrison was XII Fulminata (Melitene) and XV Apollinaris (Satala): both are alive in Dio's own list (55.23.5) and on CIL VI 3492, so if Dio means a complete legion was annihilated it was not one of these. See the discussion in section 10.
+
+### [D2] Cassius Dio 55.23.2-7 and 55.24.1-4 (written c. 207-229). Greek: remacle.org; English: Cary, Loeb vol. VI (1917) pp. 453-457, via LacusCurtius.
+
+**Original**
+
+> Τρία δὲ δὴ τότε καὶ εἴκοσι στρατόπεδα, ἢ ὥς γε ἕτεροι λέγουσι πέντε καὶ εἴκοσι, πολιτικὰ ἐτρέφετο. Νῦν μὲν γὰρ ἐννεακαίδεκα ἐξ αὐτῶν μόνα διαμένει, τό τε δεύτερον τὸ Αὐγούστειον τὸ ἐν Βρεττανίᾳ τῇ ἄνω χειμάζον, καὶ τὰ τρία τὰ τρίτα ... [list of the 19 Augustan legions] ... καὶ οἱ εἰκοστοὶ οἱ καὶ Οὐαλερίειοι καὶ νικήτορες ὠνομασμένοι καὶ ἐν Βρεττανίᾳ τῇ ἄνω ὄντες· οὕστινας ὁ Αὔγουστος, ἐμοὶ δοκεῖν, μετὰ τῶν τήν τε τοῦ δευτέρου καὶ εἰκοστοῦ ἐπωνυμίαν ἐχόντων καὶ ἐν τῇ Γερμανίᾳ τῇ ἄνω χειμαζόντων, εἰ καὶ τὰ μάλιστα μήθ᾽ ὑφ᾽ ἁπάντων Οὐαλερίειοι ἐπεκλήθησαν μήτε νῦν ἔτι τῇ προσηγορίᾳ ταύτῃ χρῶνται, παραλαβὼν ἐτήρησε. Ταῦτ᾽ ἐκ τῶν Αὐγουστείων στρατοπέδων σώζεται· τὰ γὰρ δὴ λοιπὰ τὰ μὲν παντελῶς διελύθη, τὰ δὲ καὶ ἑτέροις τισὶν ὑπό τε αὐτοῦ ἐκείνου καὶ ὑπ᾽ ἄλλων αὐτοκρατόρων ἀνεμίχθη, ἀφ᾽ οὗπερ καὶ δίδυμα ὠνομασμένα νενόμισται.
+
+**Translation**
+
+> Twenty-three, or, as others say, twenty-five, legions of citizen soldiers were being supported at this time. At present only nineteen of them still exist, as follows: the Second (Augusta), with its winter quarters in Upper Britain; the three Thirds — the Gallica in Phoenicia, the Cyrenaica in Arabia, and the Augusta in Numidia; the Fourth (Scythica) in Syria; the Fifth (Macedonica) in Dacia; the two Sixths, of which the one (Victrix) is stationed in Lower Britain, the other (Ferrata) in Judaea; the Seventh (generally called Claudia) in Upper Moesia; the Eighth (Augusta) in Upper Germany; the two Tenths in upper Pannonia (Gemina) and in Judaea; the Eleventh (Claudia) in Lower Moesia (for two legions were thus named after Claudius because they had not fought against him in the rebellion of Camillus); the Twelfth (Fulminata) in Cappadocia; the Thirteenth (Gemina) in Dacia; the Fourteenth (Gemina) in Upper Pannonia; the Fifteenth (Apollinaris) in Cappadocia; the Twentieth (called both Valeria and Victrix) in upper Britain. These latter, I believe, were the troops which Augustus took over and retained, along with those called the Twenty-second who are quartered in Germany, — and this in spite of the fact that they were by no means called Valerians by all and do not use that name any longer. These are the legions that still remain out of those of Augustus; of the rest, some were disbanded altogether, and others were merged with various legions by Augustus himself and by other emperors, in consequence of which such legions have come to bear the name Gemina. (24) Now that I have once been led into giving an account of the legions, I shall speak of the other legions also which exist to-day and tell of their enlistment by the emperors subsequent to Augustus ... Nero organized the First Legion, called the Italica ...; Galba the First (Adiutrix) ... and the Seventh (Gemina), in Spain; Vespasian the Second (Adiutrix) ..., the Fourth (Flavia) ..., and the Sixteenth (Flavia) ...; Domitian the First (Minervia) ...; Trajan the Second (Aegyptia) and the Thirtieth (Germanica) ...; Marcus Antoninus the Second, in Noricum, and the Third, in Rhaetia, both of which are called Italica; and Severus the Parthicae — the First and Third, quartered in Mesopotamia, and the Second, quartered in Italy. [Cary]
+
+**Read at:** http://remacle.org/bloodwolf/historiens/Dion/livre55.htm ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/55*.html
+
+**Verified online:** yes — Greek fetched from remacle.org (matches the archive.org Loeb OCR where legible); English fetched from LacusCurtius.
+
+**Bearing:** Dio's list of the 19 surviving Augustan legions plus 14 later foundations (33 in all, identical in content to CIL VI 3492) omits both IX Hispana and XXII Deiotariana; the 'Twenty-second in [Upper] Germany' is XXII Primigenia (a Caligulan/Claudian legion Dio wrongly treats as Augustan). The sentence 'of the rest, some were disbanded altogether (παντελῶς διελύθη), and others were merged' is the only ancient generalisation covering the vanished Augustan legions: it explicitly allows for disbandment as well as destruction, and names none. Terminus: by Dio's time of writing (Severan) the Ninth no longer existed.
+
+### [D3] Cassius Dio 69.13.1-14.3 (Xiphilinus). Greek: remacle.org; English: Cary, Loeb vol. VIII (1925) pp. 447-451, via LacusCurtius.
+
+**Original**
+
+> ἐπεὶ δ᾽ ἥ τε Ἰουδαία πᾶσα ἐκεκίνητο, καὶ οἱ ἁπανταχοῦ γῆς Ἰουδαῖοι συνεταράττοντο καὶ συνῄεσαν, ... καὶ πάσης ὡς εἰπεῖν κινουμένης ἐπὶ τούτῳ τῆς οἰκουμένης, τότε δὴ τότε τοὺς κρατίστους τῶν στρατηγῶν ὁ Ἁδριανὸς ἐπ᾽ αὐτοὺς ἔπεμψεν, ὧν πρῶτος Ἰούλιος Σεουῆρος ὑπῆρχεν, ἀπὸ Βρεττανίας ἧς ἦρχεν ἐπὶ τοὺς Ἰουδαίους σταλείς. ... (14) ὀλίγοι γοῦν κομιδῇ περιεγένοντο. Καὶ φρούρια μὲν αὐτῶν πεντήκοντα τά γε ἀξιολογώτατα, κῶμαι δὲ ἐνακόσιαι καὶ ὀγδοήκοντα καὶ πέντε ὀνομαστόταται κατεσκάφησαν, ἄνδρες δὲ ὀκτὼ καὶ πεντήκοντα μυριάδες ἐσφάγησαν ἔν τε ταῖς καταδρομαῖς καὶ ταῖς μάχαις ... Πολλοὶ μέντοι ἐν τῷ πολέμῳ τούτῳ καὶ τῶν Ῥωμαίων ἀπώλοντο· διὸ καὶ ὁ Ἁδριανὸς γράφων πρὸς τὴν βουλὴν οὐκ ἐχρήσατο τῷ προοιμίῳ τῷ συνήθει τοῖς αὐτοκράτορσιν, ὅτι «εἰ αὐτοί τε καὶ οἱ παῖδες ὑμῶν ὑγιαίνετε, εὖ ἂν ἔχοι· ἐγὼ καὶ τὰ στρατεύματα ὑγιαίνομεν».
+
+**Translation**
+
+> Soon, however, all Judaea had been stirred up, and the Jews everywhere were showing signs of disturbance, ... and the whole earth, one might almost say, was being stirred up over the matter. Then, indeed, Hadrian sent against them his best generals. First of these was Julius Severus, who was dispatched from Britain, where he was governor, against the Jews. Severus did not venture to attack his opponents in the open at any one point, in view of their numbers and their desperation, but by intercepting small groups, thanks to the number of his soldiers and his under-officers, and by depriving them of food and shutting them up, he was able, rather slowly, to be sure, but with comparatively little danger, to crush, exhaust and exterminate them. Very few of them in fact survived. Fifty of their most important outposts and nine hundred and eighty-five of their most famous villages were razed to the ground. Five hundred and eighty thousand men were slain in the various raids and battles, and the number of those that perished by famine, disease and fire was past finding out. Thus nearly the whole of Judaea was made desolate ... Many Romans, moreover, perished in this war. Therefore Hadrian in writing to the senate did not employ the opening phrase commonly affected by the emperors, "If you and our children are in health, it is well; I and the legions are in health." [Cary]
+
+**Read at:** http://remacle.org/bloodwolf/historiens/Dion/livre69.htm ; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html ; https://archive.org/download/diosromanhistory08cassuoft/diosromanhistory08cassuoft_djvu.txt
+
+**Verified online:** yes — Greek fetched from remacle.org and checked against the archive.org Loeb OCR; English fetched from LacusCurtius.
+
+**Bearing:** The literary basis for the 'Bar Kokhba' hypothesis: heavy Roman losses ('many Romans perished') and Hadrian's omission of 'I and the legions (στρατεύματα) are in health'. It does not say a legion was destroyed and names no unit. Iulius Severus was summoned from Britain in person (confirmed by ILS 1056, entry D5); Dio does not say he brought a British legion, and by the 130s the Ninth had in any case left York (VI Victrix there from the 120s). Severus' methodical, low-risk strategy (14.3 'with comparatively little danger') sits awkwardly with the annihilation of a legion during his command, which is Mor's argument (1986) against E. Birley's scenario.
+
+
+## 5. Lucian
+
+### [L1] Lucian, Alexander sive Pseudomantis 27. Greek: Greek Wikisource (Ἀλέξανδρος ἢ Ψευδόμαντις); English: A. M. Harmon, Loeb Lucian vol. IV (1925) p. 213; also H. W. & F. G. Fowler, The Works of Lucian of Samosata vol. II (Oxford 1905) via Project Gutenberg #6585.
+
+**Original**
+
+> ὁ γοῦν Σευηριανῷ δοθεὶς ὑπὲρ τῆς εἰς Ἀρμενίαν εἰσόδου τῶν αὐτοφώνων καὶ αὐτὸς ἦν. προτρέπων γὰρ αὐτὸν ἐπὶ τὴν εἰσβολὴν οὕτως ἔφη· Πάρθους Ἀρμενίους τε θοῷ ὑπὸ δουρὶ δαμάσσας / νοστήσεις Ρώμην καὶ Θύβριδος ἀγλαὸν ὕδωρ / στέμμα φέρων κροτάφοισι μεμιγμένον ἀκτίνεσσιν. εἶτ᾽ ἐπειδὴ πεισθεὶς ὁ ἠλίθιος ἐκεῖνος Κελτὸς εἰσέβαλε καὶ ἀπήλλαξεν αὐτῇ στρατιᾷ ὑπὸ τοῦ Ὀσρόου κατακοπείς, τοῦτον μὲν τὸν χρησμὸν ἐξαιρεῖ ἐκ τῶν ὑπομνημάτων, ἐντίθησιν δ᾽ ἄλλον ἀντ᾽ αὐτοῦ· Μὴ σύ γ᾽ ἐπ᾽ Ἀρμενίους ἐλάαν στρατόν, οὐ γὰρ ἄμεινον, / μή σοι θηλυχίτων τις ἀνὴρ τόξου ἄπο λυγρὸν / πότμον ἐπιπροϊεὶς παύσῃ βιότοιο φάους τε.
+
+**Translation**
+
+> For example, the oracle given to Severianus in regard to his invasion of Armenia was one of the autophones. Alexander encouraged him to the invasion by saying: 'Under your charging spear shall fall Armenians and Parthi; / Then you shall fare to Rome and the glorious waters of Tiber / Wearing upon your brow the chaplet studded with sunbeams.' Then when that silly Celt, being convinced, made the invasion and ended by getting himself and his army cut to bits by Osroes, Alexander expunged this oracle from his records and inserted another in its place: 'Better for you that your forces against Armenia march not, / Lest some man, like a woman bedight, despatch from his bowstring / Grim death, cutting you off from life and enjoyment of sunlight.' [Harmon]. Harmon's note: 'Severianus, Roman governor of Cappadocia, entered Armenia with a small force in 161, and was disastrously defeated at Elegeia by Chosroes. According to Dio Cassius (71, 2) the entire force was surrounded and wiped out.' Fowler (1905) renders the same passage with 'the foolish Gaul ... to the total destruction of himself and his army by Othryades' (the MSS' Ὀθρυάδου; Ὀσρόου is Kühn's emendation, printed by Harmon and on Wikisource).
+
+**Read at:** https://el.wikisource.org/wiki/Αλέξανδρος_ή_Ψευδομάντις ; https://archive.org/download/lucianhar04luciuoft/lucianhar04luciuoft_djvu.txt ; https://www.gutenberg.org/cache/epub/6585/pg6585.txt
+
+**Verified online:** yes — Greek fetched from el.wikisource.org (API); Harmon fetched from archive.org OCR; Fowler fetched from Gutenberg.
+
+**Bearing:** Independent contemporary witness (Lucian was in the East in the 160s): Severianus — the 'silly Celt', i.e. M. Sedatius Severianus from Gallic Lemonum/Poitiers, cos. suff. 153, governor of Cappadocia — invaded Armenia on the strength of Alexander's oracle and was cut to pieces 'with his army' (αὐτῇ στρατιᾷ) by Osroes. No unit is named; 'στρατιά' is generic. Harmon's 'small force' is an editorial inference, not Lucian's word.
+
+### [L2] Lucian, Quomodo historia conscribenda sit 21. Greek: Greek Wikisource (Πῶς δεῖ ἱστορίαν συγγράφειν); English: Fowler & Fowler (1905), 'The Way to Write History', via Gutenberg #6585.
+
+**Original**
+
+> ... ἔτι ὁ αὐτὸς οὗτος περὶ τῆς Σευηριανοῦ τελευτῆς ἔγραψεν ὡς οἱ μὲν ἄλλοι ἅπαντες ἐξηπάτηνται οἰόμενοι ξίφει τεθνάναι αὐτόν, ἀποθάνοι δὲ ὁ ἀνὴρ σιτίων ἀποσχόμενος· τοῦτον γὰρ αὐτῷ ἀλυπότατον δόξαι τὸν θάνατον· οὐκ εἰδὼς ὅτι τὸ μὲν πάθος ἐκεῖνο πᾶν τριῶν οἶμαι ἡμερῶν ἐγένετο, ἀπόσιτοι δὲ καὶ ἐς ἑβδόμην διαρκοῦσιν οἱ πολλοί, ἐκτὸς εἰ μὴ τοῦθ᾽ ὑπολάβοι τις, ὡς Ὀσρόης τις εἱστήκει περιμένων, ἔστ᾽ ἂν Σευηριανὸς λιμῷ ἀπόληται, καὶ διὰ τοῦτο οὐκ ἐπῆγε διὰ τῆς ἑβδόμης.
+
+**Translation**
+
+> Further, on the subject of Severian's death, he accuses all other writers of a blunder in putting him to the sword; he is really to have starved himself to death, as the most painless method; the fact, however, is that it was all over in three days, whereas seven days is the regular time for starvation; are we perhaps to conceive an Osroes waiting about for Severian to complete the process, and putting off his assault till after the seventh day? [Fowler]
+
+**Read at:** https://el.wikisource.org/wiki/Πώς_δει_ιστορίαν_συγγράφειν ; https://www.gutenberg.org/cache/epub/6585/pg6585.txt
+
+**Verified online:** yes — Greek fetched from el.wikisource.org; Fowler fetched from Gutenberg.
+
+**Bearing:** Adds the duration: 'that whole disaster (πάθος) took, I think, three days', and that 'all the other' historians had Severianus die by the sword. Consistent with Dio's picture of a force surrounded and shot down over a short time. Nothing on the identity or size of the unit.
+
+### [L3] Lucian, Quomodo historia conscribenda sit 25-26. Greek: Greek Wikisource; English: Fowler & Fowler (1905) via Gutenberg #6585.
+
+**Original**
+
+> (25) Νὴ Δία κἀκεῖνο κομιδῇ πιθανὸν περὶ τοῦ Σευηριανοῦ ὁ αὐτὸς οὗτος εἶπεν ἐπομοσάμενος, ἦ μὴν ἀκοῦσαί τινος τῶν ἐξ αὐτοῦ τοῦ ἔργου διαφυγόντων· οὔτε γὰρ ξίφει ἐθελῆσαι αὐτὸν ἀποθανεῖν οὔτε φαρμάκου πιεῖν οὔτε βρόχου ἅψασθαι, ἀλλά τινα θάνατον ἐπινοῆσαι τραγικὸν καὶ τῇ τόλμῃ ξενίζοντα· τυχεῖν μὲν γὰρ αὐτὸν ἔχοντα παμμεγέθη ἐκπώματα ὑάλινα τῆς καλλίστης ὑάλου· ἐπεὶ δὲ πάντως ἀποθανεῖν ἔγνωστο, κατάξαντα τὸν μέγιστον τῶν σκύφων ἑνὶ τῶν θραυσμάτων χρήσασθαι εἰς τὴν σφαγὴν ἐντεμόντα τῇ ὑάλῳ τὸν λαιμόν. ... (26) Εἶτ᾽ ἐπειδὴ Θουκυδίδης ἐπιτάφιόν τινα εἶπε τοῖς πρώτοις τοῦ πολέμου ἐκείνου νεκροῖς, καὶ αὐτὸς ἡγήσατο χρῆναι ἐπειπεῖν τῷ Σευηριανῷ· ἅπασι γὰρ αὐτοῖς πρὸς τὸν οὐδὲν αἴτιον τῶν ἐν Ἀρμενίᾳ κακῶν, τὸν Θουκυδίδην, ἡ ἅμιλλα. Θάψας οὖν τὸν Σευηριανὸν μεγαλοπρεπῶς ἀναβιβάζεται ἐπὶ τὸν τάφον Ἀφράνιόν τινα Σίλωνα ἑκατόνταρχον, ἀνταγωνιστὴν Περικλέους ... πάντων ὁρώντων ἀπέσφαξεν ἑαυτὸν ἐν τῷ τάφῳ ...
+
+**Translation**
+
+> By the way, he has also a very attractive tale of Severian, learnt, he assures us on oath, from one of the actual fugitives. According to this, he would not die by the sword, the rope, or poison, but contrived a death which should be tragic and impressive. He was the owner of some large goblets of the most precious glass; having made up his mind to die, he broke the largest of these, and used a splinter of it for the purpose, cutting his throat with the glass. A dagger or a lancet, good enough instruments for a manly and heroic death, he could not come at, forsooth! Then, as Thucydides composed a funeral oration over the first victims of that old war, our author feels it incumbent on him to do the same for Severian; they all challenge Thucydides, you see, little as he can be held responsible for the Armenian troubles. So he buries Severian, and then solemnly ushers up to the grave, as Pericles's rival, one Afranius Silo, a centurion; ... He draws his sword, gallantly as an Afranius should, and in sight of all cuts his throat over the grave ... [Fowler]
+
+**Read at:** https://el.wikisource.org/wiki/Πώς_δει_ιστορίαν_συγγράφειν ; https://www.gutenberg.org/cache/epub/6585/pg6585.txt
+
+**Verified online:** yes — Greek fetched from el.wikisource.org; Fowler fetched from Gutenberg.
+
+**Bearing:** Parody of bad contemporary historians of the Parthian war, but two details matter: (a) there were 'fugitives from the action itself' (τῶν ἐξ αὐτοῦ τοῦ ἔργου διαφυγόντων), so Dio's 'destroyed to the last man' is hyperbole; (b) Severianus died by suicide at Elegeia. The centurion Afranius Silo is the bad historian's invention and gives no unit. Nothing here identifies the legion.
+
+
+## 6. Documentary evidence: the expeditio Britannica and Hadrianic Britain
+
+### [B1] ILS 2726 = CIL X 5829 (Ferentinum; statue base, inscribed front and back). Text after EDR155466 (Epigraphic Database Roma), checked against Dessau ILS I p. 539-40.
+
+**Original**
+
+> (in fronte) T(ito) Pontio T(iti) f(ilio) Pal(atina) Sabino, p(rimo) p(ilo) II, proc(uratori) provinc(iae) Narb(onensis), IIIIvir(o) i(ure) d(icundo), quinq(uennali), flamin(i) et patron(o) municipi, Valeria L(uci) f(ilia) Procula uxor. L(ocus) d(atus) d(ecreto) d(ecurionum). (in postica) T(itus) Pontius T(iti) f(ilius) Pal(atina) Sabinus, praef(ectus) coh(ortis) I Pann(oniorum) et Dalmat(arum) eq(uitatae) c(ivium) R(omanorum), trib(unus) mil(itum) leg(ionis) VI Ferrat(ae), donis donatus expeditione Parthica a divo Traiano hasta pura, vexillo, corona murali, (centurio) leg(ionis) XXII Primig(eniae), (centurio) leg(ionis) XIII Gemin(ae), primus pilus leg(ionis) III Aug(ustae), praepositus vexillationibus milliaris(!) tribus expeditione Brittannica(!) leg(ionis) VII Gemin(ae), VIII Aug(ustae), XXII Primig(eniae), trib(unus) coh(ortis) III vig(ilum), coh(ortis) XIIII urb(anae), coh(ortis) II praet(oriae), p(rimus) p(ilus) II, proc(urator) provinc(iae) Narbonens(is), IIIIvir i(ure) d(icundo), quinq(uennalis), flamen, patron(us) municipi.
+
+**Translation**
+
+> (Front) To Titus Pontius Sabinus, son of Titus, of the Palatine tribe, twice primus pilus, procurator of the province of Narbonensis, quattuorvir with judicial power, quinquennalis, flamen and patron of the municipium; Valeria Procula, daughter of Lucius, his wife. Site given by decree of the decurions. (Back) Titus Pontius Sabinus ...: prefect of the First Cohort of Pannonians and Dalmatians, part-mounted, Roman citizens; military tribune of legion VI Ferrata; decorated in the Parthian expedition by the deified Trajan with the untipped spear, the banner and the mural crown; centurion of legion XXII Primigenia, centurion of legion XIII Gemina, primus pilus of legion III Augusta; commander (praepositus) of three thousand-strong detachments in the British expedition, from legions VII Gemina, VIII Augusta and XXII Primigenia; tribune of the third cohort of the vigiles, of the fourteenth urban cohort, of the second praetorian cohort; primus pilus for the second time; procurator of the province of Narbonensis; quattuorvir with judicial power, quinquennalis, flamen, patron of the municipium. [own translation]
+
+**Read at:** http://www.edr-edr.it/edr_programmi/res_complex_comune.php?lang=en&Bibliografia%5B%5D=CIL+10%2C+05829&boolBibliografia=AND (EDR155466) ; https://archive.org/download/inscriptioneslat01dessuoft/inscriptioneslat01dessuoft_djvu.txt
+
+**Verified online:** yes — Fetched from EDR (text) and from the archive.org OCR of Dessau ILS vol. I; RIB/roman-britain.co.uk translations consulted via search snippets.
+
+**Bearing:** The hard core of the expeditio Britannica: 3 x 1,000 legionaries from VII Gemina (León, Spain), VIII Augusta (Strasbourg) and XXII Primigenia (Mainz) brought to Britain under a primipilaris. Trajan's Parthian decorations (114-17) and the later Rome tribunates fix the expedition in the 120s (Pflaum no. 118; Dobson no. 117; Birley; Graafstal 2025 argues c. 123/4, Hodgson 2021 c. 122 or shortly after). It attests serious fighting and reinforcement of the British legions but does not name the Ninth or say what the reinforcements replaced; the fact that the emergency draft came from Spain and Upper Germany rather than Lower Germany is used by Graafstal to argue that VI Victrix was already earmarked to come from Lower Germany as a whole-legion replacement for IX Hispana.
+
+### [B2] ILS 2735 = CIL XI 5632 (Camerinum, Umbria; statue base, reign of Antoninus Pius). Text after EDR015676 (TM 287987), checked against Dessau ILS I p. 541.
+
+**Original**
+
+> M(arco) Maenio C(ai) f(ilio) Cor(nelia) Agrippae L(ucio) Tusidio Campestri, hospiti divi Hadriani, patri senatoris, praef(ecto) coh(ortis) II Fl(aviae) Britton(um) equitat(ae), electo a divo Hadriano et misso in expeditionem Brittannicam(!), trib(uno) coh(ortis) I Hispanor(um) equitat(ae), praef(ecto) alae I Gallor(um) et Pannonior(um) catafractatae, proc(uratori) Aug(usti), praef(ecto) classis Brittannicae(!), proc(uratori) provinciae Brittanniae(!), equo publico, patrono municipi, vicani Censorglacenses consecuti ab indulgentia optimi maximique Imp(eratoris) Antonini Aug(usti) Pii beneficio interpretationis eius privilegia quibus in perpetuum aucti confirmatique sunt. L(ocus) d(atus) d(ecurionum) d(ecreto).
+
+**Translation**
+
+> To Marcus Maenius Agrippa Lucius Tusidius Campester, son of Gaius, of the Cornelian tribe, host of the deified Hadrian, father of a senator; prefect of the Second Flavian Cohort of Britons, part-mounted; chosen by the deified Hadrian and sent on the British expedition; tribune of the First Cohort of Spaniards, part-mounted; prefect of the First Ala of Gauls and Pannonians, armoured cavalry; procurator of the emperor, prefect of the British fleet; procurator of the province of Britain; holder of the public horse; patron of the municipium: (set up by) the villagers of the vicus Censorglacensis, who through the indulgence of the best and greatest emperor Antoninus Augustus Pius, by the benefit of his interpretation, obtained the privileges by which they were enlarged and confirmed in perpetuity. Site given by decree of the decurions. [own translation]
+
+**Read at:** http://www.edr-edr.it/edr_programmi/res_complex_comune.php?lang=en&Bibliografia%5B%5D=CIL+11%2C+05632&boolBibliografia=AND (EDR015676) ; https://archive.org/download/inscriptioneslat01dessuoft/inscriptioneslat01dessuoft_djvu.txt
+
+**Verified online:** yes — Fetched from EDR and from Dessau ILS OCR (archive.org).
+
+**Bearing:** 'electo a divo Hadriano et misso in expeditionem Brittannicam': personally chosen by Hadrian and sent (misso) to the British expedition — the wording implies the emperor was not himself present, one of the arguments (Frere; Graafstal) against simply equating the expeditio with the visit of 122. Agrippa then commanded cohors I Hispanorum at Maryport (RIB 823-826), so the expedition belongs to the years when the Wall's garrison was being installed. Both inscriptions share the misspelling 'Brittannica', so refer to one event. Date debated: c. 117-19, 122, c. 124/5, later 120s, even 130s (survey in Graafstal 2025 pp. 25-6). No mention of the Ninth.
+
+### [B3] RIB 1051 (Jarrow, two fragments of a monumental Hadrianic inscription; CIL VII 498; EDH HD019553; Trismegistos 155544). Text, translation and commentary from RIB Online.
+
+**Original**
+
+> (a) [Divorum] omnium fil[ius] | [imp(erator) Caesar Traianus] Hadr[ianus] | [Augustus imposit]a necessitat[e imperii] | [intra fines conser]vati [div]ino pr[aecepto] | [... c]o(n)s(ul) II[I ...]   (b) diffusis [barbaris et] | provinc[ia reciperata] | Britannia ad[didit limitem inter] | utrumque O[ceani litus per m(ilia) p(assuum) LXXX] | exercitus pr[ovinciae opus valli fecit] | sub cur[a A(uli) Platori Nepotis leg(ati) Aug(usti) pr(o) pr(aetore)]
+
+**Translation**
+
+> Son of all the deified emperors, the Emperor Caesar Trajan Hadrian Augustus, after the necessity of keeping the empire within its limits had been laid upon him by divine precept ... thrice consul ...: after the barbarians had been dispersed and the province of Britain had been recovered, he added a frontier-line between either shore of the Ocean for 80 miles. The army of the province built this defence-work under the charge of Aulus Platorius Nepos, emperor's pro-praetorian legate. [RIB]
+
+**Read at:** https://romaninscriptionsofbritain.org/inscriptions/1051 ; https://edh.ub.uni-heidelberg.de/edh/inschrift/HD019553
+
+**Verified online:** yes — Fetched from romaninscriptionsofbritain.org (edition, translation, apparatus and commentary).
+
+**Bearing:** Documentary confirmation of a real war: 'diffusis [barbaris et] provinc[ia reciperata]' — the barbarians scattered, the province recovered — before the frontier line was 'added'. Dated by titulature a.d. 119-38 (cos. III from 119). RIB's commentary warns that Richmond & Wright's restoration of a single Hadrianic monument 'must be regarded as far from certain' (E. Birley suggested a Severan text referring back to Hadrian). Most Wall scholars (A. Birley 1997, 132-3; Graafstal 2012/2018/2025) read it as echoing an address of Hadrian in 122 and the troubles of c. 117-19. It says nothing about legions and, apart from the word 'diffusis', nothing about the scale of the fighting.
+
+### [B4] RIB 3364 (Vindolanda; tombstone of T. Annius, centurion of cohors I Tungrorum; c. a.d. 90-150). Text and translation from RIB Online.
+
+**Original**
+
+> D(is) [M(anibus)] | T(itus) Ann[ius ...] | centur[io cohortis I] | Tungr[orum stipen]|diorum [... annorum ...] | T in bell[o ... inter]|fectus [...] | fil(ius) et ARC[...] | h(eredes) e[x test(amento) f(aciundum) c(uraverunt) ...]
+
+**Translation**
+
+> To the shades of the dead. Titus Annius [...], centurion of the First Cohort of Tungrians, [with...] years of service, aged [...], [...] killed in war. [...] his son and [...], his heirs under his will, had this made. [RIB]
+
+**Read at:** https://romaninscriptionsofbritain.org/inscriptions/3364
+
+**Verified online:** yes — Fetched from romaninscriptionsofbritain.org.
+
+**Bearing:** A centurion of the Vindolanda garrison 'killed in the war' (in bello ... interfectus), from a context of the first half of the second century; A. Birley (1998) and Graafstal 2025 (n. 51-2) treat it as evidence that a bellum, not a local incident, was fought in the Wall zone under Hadrian. Nothing on the Ninth.
+
+
+## 7. The Rome legion list (the 'Colonnetta Maffei')
+
+### [C1] CIL VI 3492 (a and b) = CIL VI 32901 = ILS 2288 = AE 1994, 37; EDR174557 (the lost twin, 'a') and EDR174558 (the surviving column, 'b': Vatican Museums, Galleria Lapidaria 29,56, inv. 7460); Trismegistos 571349 / 942873. Found 1547 in the Forum, Basilica Aemilia. Text after EDR (columnar layout) and Dessau ILS I pp. 461-2.
+
+**Original**
+
+> Nomina leg(ionum) || (col. I) II Aug(usta) | VI Victr(ix) | XX Victr(ix) | VIII Aug(usta) | XXII Prim(igenia) | I Miner(via) | XXX Ulp(ia) | I Adiut(rix) | X Gem(ina) | XIIII Gem(ina) | I Parth(ica) || (col. II) II Adiut(rix) | IIII Flav(ia) | VII Claud(ia) | I Italic(a) | V Maced(onica) | XI Claud(ia) | XIII Gem(ina) | XII Fulm(inata) | XV Apol(linaris) | III Gallic(a) | II Parth(ica) || (col. III) IIII Scyth(ica) | XVI Flav(ia) | VI Ferrat(a) | X Frete(nsis) | III Cyren(aica) | II Traian(a) | III Aug(usta) | VII Gem(ina) | II Italic(a) | III Italic(a) | III Parth(ica).   Dessau's note (ILS 2288): 'Romae, columellae duo persimiles, quarum altera superest in museo Vaticano (VI 3492). — Enumerantur legiones, id quod vidit primus Borghesius ..., ordine geographico, id est ordine provinciarum, ubi castra habuerunt saec. p. Chr. II, principio facto a legionibus Britanniae; ita tamen, ut superiorum provinciarum legiones semper praemittantur legionibus inferiorum; solae secunda et tertia Italica, institutae a M. Aurelio, item tres Parthicae institutae a Severo, neglecto hoc ordine recensentur in fine. Id ipsum testimonio est, hunc elenchum, quamvis lapidi incisum non ante Severum, digestum esse aliquanto antea.'
+
+**Translation**
+
+> 'Names of the legions', followed by 33 legions read across the three columns in geographical order from Britain (II Augusta, VI Victrix, XX Victrix), Upper Germany (VIII Augusta, XXII Primigenia), Lower Germany (I Minervia, XXX Ulpia), Upper and Lower Pannonia, Upper and Lower Moesia, the Dacias, Cappadocia (XII Fulminata, XV Apollinaris), Syria, Judaea, Arabia, Egypt, Numidia, Spain, Noricum and Raetia (II and III Italica), with I, II and III Parthica at the foot of each column. Dessau: 'At Rome, two very similar small columns, one of which survives in the Vatican museum. The legions are listed, as Borghesi first saw, in geographical order, i.e. the order of the provinces where they were stationed in the second century, beginning with the legions of Britain, the legions of the Upper provinces always preceding those of the Lower; only II and III Italica, founded by Marcus Aurelius, and likewise the three Parthicae founded by Severus, are listed at the end without regard to this order. This itself shows that the list, although not cut on the stone before Severus, was compiled somewhat earlier.' [own translation]
+
+**Read at:** http://www.edr-edr.it/edr_programmi/res_complex_comune.php?lang=en&Bibliografia%5B%5D=CIL+06%2C+03492&boolBibliografia=AND (EDR174557 / EDR174558) ; https://www.livius.org/sources/content/the-antonine-legions-cil-06.3492/ ; https://archive.org/download/inscriptioneslat01dessuoft/inscriptioneslat01dessuoft_djvu.txt ; Vatican catalogue: https://catalogo.museivaticani.va/index.php/Detail/objects/MV.7460.0.0
+
+**Verified online:** yes — Text and bibliography fetched from EDR (two records); Dessau's note fetched from the archive.org OCR of ILS I; Livius page fetched. The 'later hand' characterisation is scholarly consensus recalled from Ritterling and not checked against a photograph.
+
+**Bearing:** Date arguments: the list as cut includes II and III Italica (raised by Marcus c. 165/6; Dio 55.24.4), so it cannot predate c. 166 (the Wikipedia date '145' is wrong); the three Parthicae (197) stand outside the geographical scheme at the foot of each column and are generally regarded as a later addition to a list compiled between c. 166 and 197 (Ritterling, RE XII 1362; Livius: 'The three Parthian legions were later added'), though Dessau himself thought the whole text was cut under Severus from an earlier list; EDR gives a nominal date of a.d. 200, and the most recent discussion is M. A. Speidel, in Studia ... in honorem Ioannis Pisonis (2024) 97-104. Either way the columns omit IX Hispana and XXII Deiotariana, exactly as Dio 55.23-24 does, and give 33 legions — the same 33. What the list shows: both legions had ceased to exist by c. 166 at the latest. What it cannot show: when between c. 120 and c. 166, or how. Database links: EDR as above; EDH has no entry (its coverage of Rome is not systematic); EDCS migrated from db.edcs.eu to edcs.hist.uzh.ch during this check and could not be queried (its record would be found by 'CIL 06, 03492').
+
+
+## 8. Judaea, 132-136: documentary evidence and XXII Deiotariana
+
+### [J1] ILS 1056 = CIL III 2830 (Burnum, Dalmatia): career of [Cn.] Minicius Faustinus Sex. Iulius Severus. Text after Dessau ILS I p. 234.
+
+**Original**
+
+> [Cn.] Minicio Faustino [Sex.] I[uli]o ... [f]il. Serg. Severo ... leg. pr. pr. imp. Traiani Hadria[n]i Aug. p[r]ovinciae Dacia[e], cos., leg. pr. p[r.] provinciae Moesia[e] inferioris, leg. pr. pr. provinciae Brittaniae, leg. pr. pr. [pr]ovinciae Iudeae, [l]eg. pr. pr. [provi]nciae Suriae. Huic [senatus a]uctore [imp. Tra]iano Hadrian[o Aug.] ornamenta triu[mph]alia decrevit ob res in [Iu]dea prospere ge[st]as.
+
+**Translation**
+
+> To Cn. Minicius Faustinus Sex. Iulius Severus ... propraetorian legate of the emperor Trajan Hadrian Augustus of the province of Dacia, consul, propraetorian legate of the province of Lower Moesia, propraetorian legate of the province of Britain, propraetorian legate of the province of Judaea, propraetorian legate of the province of Syria. To him the senate, on the motion of the emperor Trajan Hadrian Augustus, decreed the triumphal ornaments for his successes in Judaea. [own translation]
+
+**Read at:** https://archive.org/download/inscriptioneslat01dessuoft/inscriptioneslat01dessuoft_djvu.txt
+
+**Verified online:** yes — Fetched from the archive.org OCR of Dessau ILS I (OCR lightly cleaned; brackets as printed by Dessau).
+
+**Bearing:** Confirms Dio 69.13.2: the governor of Britain (c. 131-133) was moved straight to Judaea and won the ornamenta triumphalia there. The inscription records the transfer of a man, not of a legion; the idea that IX Hispana went east with him (E. Birley 1971) is a modern inference for which neither Dio nor this text offers support.
+
+### [J2] ILS 1065 = CIL VIII 6706 (Tiddis, Numidia): Q. Lollius Urbicus; ILS 1071 = CIL XIV 3610 (Tibur): C. Popilius Carus Pedo; ILS 1092 = CIL VI 1523 (Rome): M. Statius Priscus; ILS 1400 = CIL II 4156 (Tarraco): Sex. Cornelius Dexter. Texts after Dessau ILS I.
+
+**Original**
+
+> ILS 1065: 'Q. Lollio M. fil. Quir. Urbico cos., leg. Aug. provinc. Germ. inferioris, fetiali, legato imp. Hadriani in expedition. Iudaica, qua donatus est hasta pura corona aurea, leg. leg. X Geminae, ...'  ILS 1071: '... trib. laticlavio leg. III Cyreneicae, donato donis militaribus a divo Hadriano ob Iudaicam expeditionem, Xviro stlitibus iudicandis ...'  ILS 1092: '... praef. coh. IIII Lingonum, vexillo mil. donato a divo Hadriano in expeditione Iudaic[a] ...'  ILS 1400: '... donis militarib. donato a divo Hadriano ob bellum Iudaicum hasta pura et vexillo ...'
+
+**Translation**
+
+> ILS 1065: 'To Q. Lollius Urbicus, son of Marcus, of the Quirina tribe, consul, imperial legate of the province of Lower Germany, fetial, legate of the emperor Hadrian in the Jewish expedition, in which he was decorated with the untipped spear and the golden crown, legate of legion X Gemina ...' ILS 1071: '... senatorial tribune of legion III Cyrenaica, decorated with military decorations by the deified Hadrian for the Jewish expedition ...' ILS 1092: '... prefect of cohors IIII Lingonum, decorated with a military banner by the deified Hadrian in the Jewish expedition ...' ILS 1400: '... decorated with military decorations by the deified Hadrian for the Jewish war with the untipped spear and the banner ...' [own translations]
+
+**Read at:** https://archive.org/download/inscriptioneslat01dessuoft/inscriptioneslat01dessuoft_djvu.txt
+
+**Verified online:** yes — Texts fetched from the Dessau ILS I OCR on archive.org; CIL concordances recalled.
+
+**Bearing:** The war was officially an expeditio Iudaica / bellum Iudaicum and generated decorations across the army; III Cyrenaica (Arabia) is attested in it through Popilius Pedo's tribunate, and officers from the Danube, the Rhine and the fleets served. This is the material Eck 1999 assembled to show how large the Roman effort was (he lists X Fretensis, VI Ferrata, III Cyrenaica, III Gallica and vexillations of other legions, with XXII Deiotariana and — as a possibility only — IX Hispana). Not one of these texts names IX Hispana: as Mor 1986, Keppie 1989 and Graafstal 2025 (n. 18) note, 'nothing pointed to IX Hispana having been involved'.
+
+### [J3] BGU I 140 (= Sel. Pap. II 213 = FIRA I2 78; Nicopolis/Alexandria, 4 August 119): rescript of Hadrian to Q. Rammius Martialis on the inheritance rights of soldiers' children — the last certain attestation of legio XXII Deiotariana. NOTE: the reference 'CIL III 14147 = ILS 2483' is not this text: CIL III 14147 is the trilingual stele of C. Cornelius Gallus from Philae (29 BC).
+
+**Original**
+
+> [Docket, recalled and NOT verified online:] προετέθη ... ἐν τῇ χειμασίᾳ λεγιῶνος γ' Κυρηναικῆς καὶ κβ' Δηιοταριανῆς.
+
+**Translation**
+
+> 'Posted ... in the winter quarters of legion III Cyrenaica and XXII Deiotariana.' [own translation of the recalled docket]
+
+**Read at:** https://papyri.info/ddbdp/bgu;1;140 (blocked by a bot-check; not verified). Secondary: https://www.livius.org/articles/legion/legio-xxii-deiotariana/ ; https://en.wikipedia.org/wiki/Legio_XXII_Deiotariana
+
+**Verified online:** NO (recalled) — BGU 140 wording recalled from memory (papyri.info returned an Anubis bot-challenge page). The CIL III 14147 = Gallus identification is verified via judaism-and-rome.org search result; the Livius and Wikipedia summaries were fetched.
+
+**Bearing:** XXII Deiotariana is securely attested for the last time in August 119 at Nicopolis; Livius adds 'or perhaps 123', referring to the Vienna soldier list P. Vindob. L 2 (J. Kramer, ZPE 97 (1993) 147-58). It is absent from Dio's list and CIL VI 3492. Its disappearance is usually linked to Bar Kokhba (Keppie 2000, 228-9; Eck 1999, 80), but Schäfer (2003, 118) calls the link 'uncertain and not generally accepted as fact', and Mor (1986; 2016) suggests it may have been disbanded after the Alexandrian disturbances of 121/2. The erased legionary name on the Caesarea aqueduct inscription of c. 133/4 (Isaac & Roll, damnatio memoriae of XXII; contested — Negev: VI Ferrata or XXII) is the only possible Judaean trace. The relevance for the Ninth: XXII Deiotariana is the one legion that certainly vanished in the same window, and the only rival candidate for a 'lost legion' at either Bethar or Elegeia.
+
+
+## 9. Other ancient texts
+
+### [O1] Eusebius, Historia Ecclesiastica 4.6.1-4 (transl. A. C. McGiffert, NPNF2 vol. 1, via CCEL).
+
+**Original**
+
+> [Greek not re-checked; recalled key phrase 4.6.1: στρατιωτικῆς αὐτῷ συμμαχίας ὑπὸ βασιλέως πεμφθείσης]
+
+**Translation**
+
+> As the rebellion of the Jews at this time grew much more serious, Rufus, governor of Judea, after an auxiliary force had been sent him by the emperor, using their madness as a pretext, proceeded against them without mercy, and destroyed indiscriminately thousands of men and women and children, and in accordance with the laws of war reduced their country to a state of complete subjection. ... The war raged most fiercely in the eighteenth year of Adrian, at the city of Bithara, which was a very secure fortress, situated not far from Jerusalem. When the siege had lasted a long time, and the rebels had been driven to the last extremity by hunger and thirst, and the instigator of the rebellion had suffered his just punishment, the whole nation was prohibited from this time on by a decree, and by the commands of Adrian, from ever going up to the country about Jerusalem. [McGiffert]
+
+**Read at:** https://www.ccel.org/ccel/schaff/npnf201.iii.ix.vi.html
+
+**Verified online:** yes — English fetched from CCEL; the Greek phrase and Jerome's entries are recalled and not verified.
+
+**Bearing:** The Christian tradition (Eusebius; Jerome's Chronicle, which repeats it under Hadrian 16-18, not re-verified here) records the war, Tineius Rufus, reinforcements 'sent by the emperor' and the fall of Bethar in Hadrian's 18th year (134/5), but says nothing of Roman losses or of any legion. Neutral for the fate of the Ninth.
+
+### [O2] Texts consulted and found silent (no quotation needed): Suetonius (no mention of the Ninth after Tiberius' Pannonian mutiny); Pausanias 8.43.4 (Antoninus Pius deprives the Brigantes of territory for attacking the Genounian district — Antonine, recalled); Josephus (XXII Deiotariana's vexillation in 66-70, cf. Livius); Arrian, Ektaxis/Periplus (Cappadocian legions XII and XV in the 130s — recalled); Ptolemy, Geography and the Notitia Dignitatum (no legion history). Appian, Herodian, Aurelius Victor, Eutropius, Orosius: no reference to the Ninth.
+
+**Read at:** —
+
+**Verified online:** NO (recalled) — Statement of silence based on knowledge of the corpora; not every text was re-read for this dossier.
+
+**Bearing:** No ancient author anywhere states that IX Hispana was destroyed, disbanded, or where. The 'lost legion' is entirely a modern inference from silence (Dio 55.23-24; CIL VI 3492) combined with the disasters that the sources do record in Britain (Fronto; HA Hadr. 5.2; RIB 1051), Judaea (Dio 69.14; Fronto) and Armenia (Dio 71.2; Lucian; Fronto; HA Verus 6.9).
+
+
+## 10. Discussion: which disaster, and what scholars conclude
+
+### 10a. Elegeia, 161 (Dio 71.2.1; Lucian, Alex. 27, Hist. conscr. 21, 25-26; Fronto, Bell. Parth. 2, Princ. Hist. 16; HA Verus 6.9)
+
+What the texts give: a Roman force under M. Sedatius Severianus, governor of Cappadocia (the 'silly Celt' from Poitiers), invaded Armenia in 161 on the strength of Alexander's oracle, was surrounded at Elegeia (on the upper Euphrates/Armenian border), shot down over about three days and destroyed 'commanders and all'; Severianus killed himself; there were a few fugitives; Verus had not yet left Rome. Dio's word is στρατόπεδον ὅλον, normally 'a whole legion' in his usage; Lucian says αὐτῇ στρατιᾷ, 'with his army'; Fronto says exercitum ducens; the HA says caesis legionibus.
+
+Candidates:
+
+1. **XII Fulminata (Melitene) or XV Apollinaris (Satala), the two Cappadocian legions, or vexillations of them.** These are the units a governor of Cappadocia would actually have led. Both survive in Dio's own list (55.23.5) and on CIL VI 3492, so if Dio/Xiphilinus is precise ('a whole legion ... destroyed'), the destroyed unit cannot be either of them; if Dio is loose, Severianus' 'army' was most plausibly a task force built from Cappadocian vexillations plus auxiliaries (Harmon's 'a small force'). Most Parthian-war narratives (e.g. A. R. Birley, Marcus Aurelius, 1987/2000, ch. 6) take this view or leave the unit unnamed.
+2. **IX Hispana.** Proposed by E. Birley (1971, 76-7), who, taking the Nijmegen evidence to show the legion on the Rhine in the 120s, suggested Iulius Severus took it east c. 133 and that it perished in Judaea or at Elegeia; the Elegeia option was strengthened for a while by the 1972 diploma naming a tribune Numisius Iunior, consul in 161 (Eck 1972). Keppie 1989 ('The fate of the Ninth Legion: a problem for the eastern provinces?') reviewed all the eastern evidence and 'could find nothing conclusive' (Graafstal 2025, 26), noting that the consul of 161 may be the tribune's son; Mor 1986 (ZPE 62, 269) wrote that the legion's end 'may be linked to the military disaster at Elegeia in 161 CE, [but] there is currently no evidence to definitively confirm this theory' (Wikipedia's summary of Mor); Livius still lists 'Cappadocia in 161' as one of three possibilities. Hodgson 2021 concludes that 'there is no prosopographical or other evidence which proves that the legion existed after the early 120s', and Graafstal 2025 that its 'last attested officers [are] on record around 124, and no reliable traces [are] left on the Continent after that date' — which removes the only reason for placing the Ninth in the East in 161.
+3. **XXII Deiotariana.** Occasionally named on popular sites ('the only legion in the region'), but it was an Egyptian legion, last attested in 119 (or 123), and nothing places it in Cappadocia in 161; no scholar seriously defends this.
+
+Conclusion of the literature: the Elegeia texts prove a disaster and a dead governor, not the identity of the unit; the Ninth is a candidate only by elimination (it is one of two legions missing from the later lists), and that elimination has lost its force since Keppie 1989 and Hodgson 2021.
+
+### 10b. The Bar Kokhba war, 132-136 (Dio 69.12-14; Fronto, Bell. Parth. 2; HA Hadr. 14.2; ILS 1056, 1065, 1071, 1092, 1400; BGU 140)
+
+What the texts give: a war so serious that Hadrian sent his 'best generals', including the governor of Britain; 'many Romans perished'; the emperor dropped the formula 'I and the legions are in health'; Fronto ranked the losses to the Jews with those to the Britons; Hadrian took his second imperatorial acclamation and three governors received ornamenta triumphalia (Eck 1999).
+
+Scholars: **Eck 1999** (JRS 89, 76-89) argued for very heavy Roman losses, extraordinary levies (even in Italy) and the probable destruction of XXII Deiotariana ('One could fit in here the legio XXII Deiotariana', n. 85), while listing IX Hispana only as a possibility raised by others; he rejected Mor's 'disbanding' explanation of XXII ('There is no other example for disbanding a legion in this form in the history of the Roman legions. To make it credible, one must find some evidence in our sources', n. 29). **Mor 1986** ('Two legions — the same fate?', ZPE 62, 267-78) argued that neither legion can be shown to have died in Judaea: XXII may have been disbanded after the Alexandrian troubles of 121/2, and the Ninth survived the revolt (Numisius Iunior), the rebels being too weak by Severus' arrival in 134 to annihilate a legion. **Mor 2016** (The Second Jewish Revolt, ch. 3, pp. 289-363; Plekos 19 (2017) review) concludes that only three legions fought at full strength — X Fretensis, VI Ferrata and III Gallica — with all other legions represented by vexillations, rejects Eck's inference of legionary losses from fleet recruitment, and does not accept the loss of a legion. **Keppie 1989/2000** thought XXII Deiotariana probably suffered heavily in the revolt but found no evidence for IX Hispana in the East. **Schäfer 2003** (118): the disappearance of XXII in connection with the revolt 'is uncertain and not generally accepted as fact'. **Isaac & Roll** read the erased name on the Caesarea aqueduct as a damnatio of XXII (contested). On the Ninth specifically there is unanimity: it is not attested in Judaea by any inscription, diploma, tile or papyrus (Mor 1986; Keppie 1989; Eck 1999; Graafstal 2025 n. 18).
+
+### 10c. Britain in the 120s (Fronto; HA Hadr. 5.2, 11.2; RIB 1051, 3364; ILS 2726, 2735)
+
+**Hodgson 2021** (Britannia 52, 97-118), abstract verbatim: 'It is often stated that the Ninth Legion was transferred from Britain and continued to exist until the 130s or beyond. The evidence is reviewed, and it is concluded that: (1) no more than a detachment of the legion went abroad, and that only for the period c. 105 to c. 120; (2) there is no prosopographical or other evidence which proves that the legion existed after the early 120s. Given that war, heavy Roman losses and an interruption in the building of Hadrian's Wall are directly attested in Britain, probably occurring in 122 or shortly after, it is argued that it is most likely that the legion was defeated and disbanded in connection with those events.' **Graafstal 2025** (Britannia 56, 25-55) accepts this and narrows it: the careers of the legate L. Aninius Sextius Florentinus and the tribunes L. Aemilius Karus and L. Novius Crispinus put the 'disappearance or disbanding of the Ninth not much before 123/4'; VI Victrix arrived from Lower Germany 'broadly around 123' as a one-for-one replacement; the expeditio Britannica, a Spanish levy of 123, the EXPED AUG coinage, a coin-hoard horizon of c. 123-5, the cessation of work at several Wall forts and the Hadrianic fire of London converge on 'an undocumented trigger-event ... early in 123', 'quite possibly the disaster Fronto was referring to almost 40 years later'; the legion 'may have been lost, or dishonourably disbanded, somewhere in the early days of the Wall project'. **Campbell 2018** (The Fate of the Ninth) surveys the historiography without settling the question; **A. R. Birley 2005** (Roman Government of Britain, 228) held the loss to be 'extraneous to the fortunes of Hadrianic Britain', i.e. eastern. The older view (loss in the troubles of 117-19; Sutcliff) is excluded by the officers' careers.
+
+## 11. What the literary evidence supports and rules out
+
+Supports:
+- The Ninth's continuous existence AD 14-83 (Tacitus), including two near-disasters (60/61; 82/83) that were repaired, not punished — Rome refilled a mauled legion (Ann. 14.38.1).
+- A serious war with heavy Roman casualties in Britain under Hadrian (Fronto, Bell. Parth. 2; HA Hadr. 5.2; RIB 1051 'diffusis barbaris et provincia reciperata'; RIB 3364 'in bello interfectus'), followed by a Roman recovery, and a large legionary reinforcement of Britain in the 120s (ILS 2726, 2735).
+- Heavy Roman losses in Judaea 132-136 (Dio 69.14.3; Fronto) and the total loss of a Roman force with its governor in Armenia in 161 (Dio 71.2; Lucian; Fronto; HA Verus 6.9).
+- The non-existence of IX Hispana and XXII Deiotariana by the time the Rome list was compiled (after c. 166) and when Dio wrote (Severan); Dio's generalisation that vanished Augustan legions were either 'disbanded altogether' or 'merged'.
+
+Rules out or fails to support:
+- No ancient author names IX Hispana in connection with Hadrian's Britain, Judaea, or Elegeia; every attribution is modern.
+- If Dio's στρατόπεδον ὅλον at Elegeia is taken literally, the lost legion was not XII Fulminata or XV Apollinaris (both survive in the lists); but Dio's word may be loose and Lucian implies survivors, so the passage cannot bear the weight of identifying the Ninth.
+- Fronto proves losses in Britain 'under Hadrian', not the loss of a legion, not a date within 117-138, and not the legion's identity; his rhetoric implies the disaster was later avenged.
+- Dio 69.14.3 proves losses in Judaea, not a lost legion; Severus' cautious strategy and the absence of any trace of the Ninth in Judaea tell against E. Birley's scenario.
+- The lists (Dio; CIL VI 3492) date the disappearance only to 'before c. 166'; they cannot distinguish destruction from disbandment.
+
+Net: the literary sources are compatible with all three modern scenarios but positively support none; the balance of recent scholarship (Keppie 1989; Hodgson 2021; Graafstal 2025) has moved back to Britain in the early 120s, precisely because the eastern scenarios rest on nothing the ancient texts say.
+
+## 12. Modern works cited (with what was actually consulted)
+
+- Graafstal, E. P., 'What Happened Next? Hadrian's Wall, the expeditio Britannica and the Fate of the Ninth Legion', Britannia 56 (2025) 25-55 — full open-access PDF fetched: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2939F9DCC38AC465ED8D2D3B13A3A044/S0068113X2510038Xa.pdf/what-happened-next-hadrians-wall-the-expeditio-britannica-and-the-fate-of-the-ninth-legion.pdf
+- Hodgson, N., 'The End of the Ninth Legion, War in Britain and the Building of Hadrian's Wall', Britannia 52 (2021) 97-118 — abstract fetched: https://www.cambridge.org/core/journals/britannia/article/abs/end-of-the-ninth-legion-war-in-britain-and-the-building-of-hadrians-wall/63F63650070022B9E59DE06BF18D8729
+- Eck, W., 'The Bar Kokhba Revolt: the Roman Point of View', JRS 89 (1999) 76-89 — abstract page with footnotes fetched: https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/bar-kokhba-revolt-the-roman-point-of-view/27E95F52A627562F93178F17A51D5FD4
+- Mor, M., 'Two legions — the same fate? (The disappearance of the Legions IX Hispana and XXII Deiotariana)', ZPE 62 (1986) 267-78 — not accessible online; cited via Eck 1999 n. 28-9, Graafstal 2025 n. 18 and the Wikipedia summary.
+- Mor, M., The Second Jewish Revolt: The Bar Kokhba War, 132-136 CE (Leiden 2016) — via the Plekos 19 (2017) review: http://www.plekos.uni-muenchen.de/2017/r-mor.pdf
+- Keppie, L., 'The fate of the Ninth Legion: a problem for the eastern provinces?', in French & Lightfoot (eds), The Eastern Frontier of the Roman Empire (1989) 247-55 (= Legions and Veterans, 2000, 173-81); id., 'The history and disappearance of the Legion XXII Deiotariana', in Kasher et al. (eds), Greece and Rome in Eretz Israel (1989) 54-61 — via Graafstal, Eck, Livius.
+- Birley, E., 'The fate of the Ninth Legion', in R. M. Butler (ed.), Soldier and Civilian in Roman Yorkshire (1971) 71-80 — via Graafstal, Livius.
+- Birley, A. R., The Roman Government of Britain (2005) 228 — via Graafstal 2025.
+- Campbell, D. B., The Fate of the Ninth: The Curious Disappearance of One of Rome's Legions (2018) — via search snippets and Graafstal n. 10.
+- Ritterling, E., 'Legio', RE XII (1925) 1668-9 (IX Hispana), 1362 (CIL VI 3492) — recalled.
+- Schäfer, P., The Bar Kokhba War Reconsidered (2003) 118 — via Wikipedia.
+- Livius.org, 'Legio VIIII Hispana', 'Legio XXII Deiotariana', 'The Antonine Legions (CIL 06.3492)' — fetched.

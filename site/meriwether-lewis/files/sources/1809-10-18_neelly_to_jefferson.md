@@ -1,0 +1,53 @@
+# James Neelly to Thomas Jefferson, 18 October 1809
+
+CITATION: “James Neelly to Thomas Jefferson, 18 October 1809,” Founders Online, National Archives, https://founders.archives.gov/documents/Jefferson/03-01-02-0478. [Original source: The Papers of Thomas Jefferson , Retirement Series, vol. 1, 4 March 1809 to 15 November 1809 , ed. J. Jefferson Looney. Princeton: Princeton University Press, 2004, pp. 606–608.]
+URL (original): https://founders.archives.gov/documents/Jefferson/03-01-02-0478
+URL (fetched, Wayback Machine capture): https://web.archive.org/web/2024/https://founders.archives.gov/documents/Jefferson/03-01-02-0478
+DATE FETCHED: 2026-09-14
+TRANSCRIPTION: scholarly edition text (Princeton, Papers of Thomas Jefferson / Madison Papers, as published on Founders Online); text below is verbatim from the fetched page, including the editors' source note and footnotes. Superscripts are flattened by the HTML-to-text conversion (e.g. 'Oct r' = Oct^r, '11 th' = 11^th).
+
+---- VERBATIM TEXT (Founders Online page) ----
+
+James Neelly to Thomas Jefferson, 18 October 1809 
+ From James Neelly 
+ Nashville Tennessee 18 th Oct r 1809 
+ sir, 
+ It is with extreme pain that I have to inform you of the death of His Excellency Meriwether Lewis, Governor of upper Louisiana who died on the Morning of the 11 th Instant and I am Sorry to Say by Suicide; 
+I arrived at the Chickasaw Bluffs on or about the 18 th of September, where I found the Governor (who had reached there two days before me from S t Louis) in Very bad health—It appears that his first intention was to go around by Water to the City of Washington ; but his thinking a War with England probable, & that his Valuable papers might be in dainger of falling into the hands of the British, he was thereby induced to Change his route, and to come through the Chickasaw nation by land; I furnished him with a horse to pack his trunks & c 1 on, and a man to attend to them; having recovered his health in Some digree at the Chickasaw Bluffs, we Set out together. And on our arrival at the Chickasaw nation I discovered that he appeared at times deranged in mind, we rested there two days & came on. one days Journey after crossing Tennessee River & where we encamped we lost two of our horses, I remained behind to hunt them & the Governor proceeded on, with a promise to wait for me at the first houses 2 he Came to that was inhabited by White people; he reached the house of a M r Grinder about Sun Set, the man of the house being from home, and no person there but a woman who discovering the governor to be deranged gave him up the house & slept herself in one near it, his Servant and mine Slept in the Stable loft some distance from the other houses, 3 the woman reports that about three OClock She heard two pistols fire off in the Governors Room: the Servants being awakined by her, came in but too late to save him. he had shot himself in the head with one pistol & a little below the Breast with the other—when his 4 Servant came in he Says; I have done the business my good Servant give me Some water. he gave him water, he Survived but a short time, I came up Some time after, & had him as decently Buried as I could in that place—if there is any thing wished by his friends to be done to his grave I will attend to their Instructions, 
+I have got in my possession his two trunks of papers (amongst which is said to be his travels to the pacific Ocean) and probably some Vouchers for expenditures of Public Money for a Bill which he Said had been protested by the Sec y of war; and of which act to his death, he repeatedly complained. I have also in my Care his Rifle, Silver watch, Brace of Pistols, dirk & tomahawk: one of the Governors horses was lost in the wilderness which I will endeavour to regain, the other I have Sent on by his Servant who expressed 5 a desire to go to the governors mothers & to Monticello: 6 I have furnished him with fifteen Dollars to Defray his expences to Charlottsville; Some days preveous to the Governors death he requested of me in Case any 7 Accident happened to him, to Send his trunks with the papers therein to the President, but I think it Very probable he meant to You—I wish to be informed what arrangements may be considered best in Sending on his trunks &c—I have the honor to be 
+With Great respect Y r Ob Ser t 
+ James Neelly 
+ U.S. agent to the Chickasaw nation 
+the governor left two of his trunks at the Chickasaw Bluffs in the Care of Capt Gilbert C. Russell. Commanding officer, & was to write to him from Nashville what to do with them. 
+ RC ( DLC ); in John Brahan’s hand, signed by Neelly; at foot of text: “The Honble Thomas Jefferson late President of United States Monticello near Charlottsville V a ”; endorsed by TJ as received 21 Nov. 1809 and so recorded in SJL . Dupl ( ViW : TC-JP ); entirely in a clerk’s hand; endorsed by TJ as a “Duplicate.” Enclosed in TJ to James Madison, 26 Nov. 1809 , and Madison to TJ, 11 Dec. 1809 . 
+James Neelly served as United States agent to the Chickasaw Nation from 8 July 1809 until 4 June 1812. He apparently served in the military during the War of 1812, and in 1817 Chickasaw leader Tishomingo recommended that he be reinstalled as agent ( Madison, Papers description begins William T. Hutchinson, Robert A. Rutland, John C. A. Stagg, and others, eds., The Papers of James Madison , 1962– , 31 vols.: Congress. Ser. , 17 vols.; Pres. Ser. , 5 vols.; Sec. of State Ser. , 6 vols description ends , Pres. Ser. , 4:592n; Jackson, Papers description begins Sam B. Smith, Harold D. Moser, and others, eds., The Papers of Andrew Jackson , 1980– , 6 vols. description ends , 4:476). 
+This and John Brahan’s letter of the same date are evidently the earliest extant accounts of Meriwether Lewis’s death and burial at Grinder’s Inn, on the Natchez Trace in Tennessee. TJ subsequently received other accounts ( Gilbert C. Russell to TJ, 4 , 31 Jan. 1810 ) and was involved with and kept apprised of the recovery of Lewis’s effects ( TJ to C. & A. Conrad & Co., 23 Nov. , 11 Dec. 1809 ; TJ to Madison, 26 Nov. 1809 ; Isaac A. Coles to TJ, 5 Jan. 1810 ; William Dickson to TJ, 20 Feb. 1810 ; TJ to Dickson, 20 Apr. 1810 ; TJ to Benjamin Smith Barton, 6 Oct. 1810 ; Barton to TJ, 16 Oct. 1810 ). 
+Lewis’s term as territorial governor had been difficult and contentious. He was coming to washington to defend protested official financial instruments. Even if they were honored, unsuccessful land investments had put him on the brink of financial ruin. With him he carried the journals of the Lewis and Clark Expedition, which TJ counted on him to prepare for publication but on which Lewis had in fact done no significant work. Given this background and these accounts, those who knew Lewis best, including TJ and William Clark, seem to have accepted the death as a suicide without hesitation or subsequent doubt. The counterhypothesis that Lewis was murdered did not emerge in TJ’s lifetime but has since attracted its share of supporters (Nashville Democratic Clarion , 20 Oct. 1809; Saint Louis Missouri Gazette , 4 Oct. 1809, 2 Nov. 1809; TJ to Paul Allen, 18 Aug. 1813 ; James J. Holmberg, ed., Dear Brother: Letters of William Clark to Jonathan Clark [2002], 206–9, 216–23; Jackson, Letters of Lewis and Clark description begins Donald Jackson, ed., Letters of the Lewis and Clark Expedition with Related Documents, 1783–1854 , 2d ed., 1978, 2 vols. description ends , 2:470–4, 487–8, 573–5n; Peale, Papers description begins Lillian B. Miller and others, eds., The Selected Papers of Charles Willson Peale and His Family , New Haven, 1983–2000, 5 vols. in 6 description ends , vol. 2, pt. 2, p. 1238). 
+ Lewis’s servant was John Pernier. 
+ 1 . Abbreviation omitted in Dupl . 
+ 2 . Dupl : “house.” 
+ 3 . Dupl : “house.” 
+ 4 . Dupl : “my.” 
+ 5 . RC : “expessed.” Dupl : “expressed.” 
+ 6 . RC : “Monticllo.” Dupl : “Monticello.” 
+ 7 . In Dupl “thing” is canceled here. 
+Index Entries 
+Clark (Clarke), William; and journals of Lewis and Clark Expedition search 
+Eustis, William; as secretary of war search 
+Grinder, Mrs. Robert search 
+Grinder, Robert search 
+Lewis, Meriwether; death of search 
+Lewis, Meriwether; Lewis and Clark Expedition search 
+Lewis and Clark Expedition; journals of search 
+Neelly, James; and M. Lewis’s death search 
+Neelly, James; identified search 
+Neelly, James; letters from search 
+Pernier (Purney), John; and M. Lewis’s death search 
+Russell, Gilbert Christian; and M. Lewis’s belongings search 
+suicide; and M. Lewis search 
+ Permanent Link What’s this? 
+ https://founders.archives.gov/documents/Jefferson/03-01-02-0478 
+ Note: The annotations to this document, and any other
+ modern editorial content, are copyright © Princeton University Press. All rights reserved. Back to top 
+You Are Looking At Source Project Jefferson Papers Title James Neelly to Thomas Jefferson, 18 October 1809 Author Neelly, James Recipient Jefferson, Thomas Date 18 October 1809 
+Reference Cite as “James Neelly to Thomas Jefferson, 18 October 1809,” Founders Online, National Archives, https://founders.archives.gov/documents/Jefferson/03-01-02-0478. [Original source: The Papers of Thomas Jefferson , Retirement Series, vol. 1, 4 March 1809 to 15 November 1809 , ed. J. Jefferson Looney. Princeton: Princeton University Press, 2004, pp. 606–608.]

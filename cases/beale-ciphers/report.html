@@ -1,0 +1,778 @@
+<title>The Beale Ciphers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+  :root{
+    --paper:#EFEEE7; --paper-2:#E5E3D9; --ink:#1C1B18; --ink-2:#5A574E; --rule:#C9C6B9;
+    --accent:#7A5E12; --accent-soft:#E9DCA8;
+    --display:"Old Standard TT", "Times New Roman", Times, serif;
+    --body:"Newsreader", Georgia, "Times New Roman", serif;
+    --mono:"IBM Plex Mono", "Courier New", monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#1A1916; --paper-2:#242320; --ink:#E9E6DB; --ink-2:#A9A597; --rule:#3D3B34;
+      --accent:#D9B54A; --accent-soft:#3F3618;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#1A1916; --paper-2:#242320; --ink:#E9E6DB; --ink-2:#A9A597; --rule:#3D3B34;
+    --accent:#D9B54A; --accent-soft:#3F3618;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55;
+       padding-inline:clamp(16px,4vw,48px);padding-block:32px 96px;font-optical-sizing:auto}
+  .page{max-width:72ch;margin-inline:auto}
+  .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);margin:0 0 18px}
+  h1{font-family:var(--display);font-weight:700;font-size:clamp(38px,6vw,56px);line-height:1.05;margin:0 0 14px;text-wrap:balance;letter-spacing:-.01em}
+  .dek{font-size:20px;line-height:1.45;color:var(--ink-2);margin:0 0 36px;text-wrap:pretty}
+  h2{font-family:var(--display);font-weight:700;font-size:28px;line-height:1.2;margin:56px 0 14px;text-wrap:balance}
+  h3{font-family:var(--display);font-weight:400;font-style:italic;font-size:21px;margin:30px 0 8px}
+  p{margin:0 0 16px;text-wrap:pretty}
+  a{color:inherit;text-decoration-color:var(--accent);text-underline-offset:2px}
+  a:hover{color:var(--accent)}
+  a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  small,.small{font-size:14px;color:var(--ink-2)}
+  code,.num{font-family:var(--mono);font-size:.88em}
+  .num{font-variant-numeric:tabular-nums}
+  /* verdict panel: a ruled ledger box */
+  .verdict{border-top:3px double var(--ink);border-bottom:1px solid var(--ink);padding:22px 0 18px;margin:0 0 8px}
+  .verdict .line{display:flex;flex-wrap:wrap;gap:8px 28px;align-items:baseline;margin-bottom:10px}
+  .verdict .word{font-family:var(--display);font-weight:700;font-size:44px;line-height:1;letter-spacing:.01em}
+  .verdict .conf{font-family:var(--mono);font-size:14px;color:var(--ink-2)}
+  .verdict ul{margin:8px 0 0;padding-left:1.1em}
+  .verdict li{margin:0 0 8px}
+  .verdict .sub{margin:10px 0 0;font-size:16px}
+  .verdict table{margin-top:14px;font-size:15px}
+  .verdict td:first-child{font-weight:600;width:38%}
+  .verdict th{font-size:12px}
+  .fig{margin:26px 0 30px;padding:14px 12px 10px;background:var(--paper-2);border-radius:4px;overflow-x:auto}
+  .fig svg{display:block;min-width:600px}
+  .fig figcaption{font-size:14px;color:var(--ink-2);margin-top:8px;line-height:1.45}
+  .tablewrap{overflow-x:auto;margin:18px 0 22px}
+  table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.4}
+  th,td{text-align:left;vertical-align:top;padding:8px 10px 8px 0;border-bottom:1px solid var(--rule)}
+  th{font-family:var(--mono);font-weight:600;font-size:12.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-2);border-bottom:1px solid var(--ink)}
+  td.n,th.n{text-align:right;font-family:var(--mono);font-size:14px;white-space:nowrap;font-variant-numeric:tabular-nums}
+  tr.total td{border-bottom:1px solid var(--ink)}
+  .weight{font-family:var(--mono);font-size:13px;white-space:nowrap}
+  .weight b{color:var(--accent);letter-spacing:.06em}
+  .quote{font-family:var(--display);font-style:italic;font-size:19px;line-height:1.45;margin:18px 0 18px 0;padding-left:16px;border-left:2px solid var(--accent)}
+  .quote cite{display:block;font-style:normal;font-family:var(--mono);font-size:12.5px;color:var(--ink-2);margin-top:6px}
+  .strip{font-family:var(--mono);font-size:15px;letter-spacing:.14em;background:var(--accent-soft);padding:2px 6px;border-radius:3px;white-space:nowrap}
+  .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px 28px;margin:14px 0 20px}
+  .cols ul{margin:0;padding-left:1.1em}
+  .cols li{margin-bottom:8px}
+  ul.plain{padding-left:1.1em;margin:0 0 16px}
+  ul.plain li{margin-bottom:8px}
+  ol{padding-left:1.3em;margin:0 0 16px}
+  ol li{margin-bottom:8px}
+  .src{font-size:14.5px;line-height:1.5}
+  .src li{margin-bottom:7px}
+  .src code{font-size:.9em}
+  .note{background:var(--paper-2);padding:12px 16px;border-radius:4px;font-size:15px;margin:0 0 20px}
+  hr{border:0;border-top:1px solid var(--rule);margin:40px 0}
+  @media (prefers-reduced-motion: no-preference){ a{transition:color .15s} }
+  @media (max-width:520px){ .verdict .word{font-size:36px} body{font-size:16px} }
+</style>
+
+<div class="page">
+<header>
+  <p class="eyebrow">Lynchburg, Virginia · a pamphlet of 1885</p>
+  <h1>The Beale Ciphers</h1>
+  <p class="dek">An 1885 Lynchburg pamphlet says three pages of numbers written by Thomas J. Beale in 1822 point to gold and silver buried in Bedford County, Virginia. Only one page has ever been read. Cryptanalysts built the case that all three pages are a hoax between 1979 and 2013. Here that case is re-run from the pamphlet's own text, with statistical, stylistic and archival checks added.</p>
+</header>
+
+<section id="story">
+  <h2>The story the pamphlet tells</h2>
+  <p>In 1885 a printer in Lynchburg, a town in central Virginia, issued a pamphlet called <i>The Beale Papers</i>, price fifty cents, with the copyright in the name of J. B. Ward. Its author, who gives no name and is called the narrator below, tells this story. In January 1820 a stranger named Thomas J. Beale came to Lynchburg and took rooms at the Washington Hotel, kept by Robert Morriss, a merchant of the town. Morriss remembered him as "about six feet in height, with jet black eyes and hair of the same color", a popular guest. He stayed until spring, and came back for the winter of 1822. Before leaving that spring he handed Morriss a locked iron box and asked him to keep it. A letter from St. Louis dated 9 May 1822 told Morriss to open it if no one called for it within ten years, and said that a key to the papers inside, left with a friend in St. Louis, would be delivered to him in June 1832. Morriss heard nothing more from Beale, and the key was never delivered. Morriss opened the box in 1845 and found three pages of numbers and letters signed T. J. B. The letters tell of thirty Virginians who went west in 1817 to hunt buffalo, found gold and silver in a ravine some 250 or 300 miles north of Santa Fe, then a Spanish town, mined it for years, carried it home and buried it in Bedford County, Virginia, the next county west of Lynchburg. Paper 1 gave the location of the vault, paper 2 its contents, paper 3 the names of the party and of their heirs. The pamphlet calls the three pages papers 1, 2 and 3; later writers call them ciphers 1, 2 and 3, and this page does the same.</p>
+  <p>In 1862 Morriss, by then in his eighties, handed the papers to a friend, and that friend says he read cipher 2 by accident. Each page is a list of numbers, and he found that if the words of the Declaration of Independence are numbered from 1 upwards, each number in cipher 2 stands for the first letter of the word with that number (a book cipher, in the language of code-breaking; the text whose words are numbered is its key). Read that way, cipher 2 becomes a message describing 2,921 pounds of gold, 5,100 pounds of silver and jewels in a vault four miles from Buford's, a tavern in Bedford County, six feet down. He could not read ciphers 1 and 3. After more than twenty years he published everything and invited the public to try.</p>
+</section>
+
+<section id="sides">
+  <h2>Why it is still argued</h2>
+  <p>Ciphers 1 and 3 have never been read. No record of a Thomas J. Beale, of his party or of the box has ever been produced. Nobody knows who wrote the pamphlet: the narrator gives no name, and Ward, who held the copyright, called himself the author's agent. The question stays open because of the page that does read. Cipher 2 is a working cipher: it has a key, and the key produces a coherent message. So either Beale's party existed or someone wrote a treasure story and enciphered part of it.</p>
+  <p>Those who take the story as true point to that message and to the numbers themselves. Carl Hammer, a computer scientist with the Univac company, ran the ciphers through a computer in 1971 and found that the unread pages were not random numbers; he and the Beale Cypher Association, a society of enthusiasts formed to work on the ciphers, concluded that they encoded something. By January 1893 the <i>Roanoke Times</i>, a newspaper in the next city west, could report that "the inhabitants of Bedford county have hunted for this treasure but so far in vain"; in 1972 a group of believers calling itself the Beale Cypher Study Committee was still paying for searches of the archives.</p>
+  <p>The sceptics' case was made between 1980 and 1993. Jim Gillogly, a cryptanalyst, tried the Declaration key on cipher 1 in 1980 and found that, although the result was not English, one stretch of it spelled the alphabet in order, which he took to show that a hoaxer had written that part of the cipher from the numbered key. Joe Nickell, an investigator of hoaxes and forgeries, showed in 1982 that Morriss did not keep the Washington Hotel before 1823 and that the "Beale" letters and the narrator's own account read like one hand. John C. King, a cryptanalyst, worked out in 1993 exactly how the Declaration had to be numbered for cipher 2 to decode cleanly, and reported longer alphabetical runs in cipher 1 under that numbering. That work appeared in <i>Cryptologia</i>, a specialist journal of code-breaking, and in the enthusiasts' newsletter, and the popular accounts barely mention it, so the ciphers are still presented as an unsolved treasure puzzle.</p>
+</section>
+
+<section id="judged">
+  <h2>How the case was judged</h2>
+  <p>The evidence used here is the pamphlet's own text, transcribed from the Library of Congress copy: its three ciphers, the Declaration exactly as it prints and numbers it, its printed translation of cipher 2, the three letters and the narrator's account. To that are added the Lynchburg newspapers of the 1820s, the records of Spanish New Mexico as searched in 1972, the files on the ciphers that the National Security Agency, the United States code-breaking agency, released from its archives, and 115 samples of writing by 27 American authors of the period, used for comparison. The methods are these: decode cipher 2 with the pamphlet's own numbering and see where that numbering goes wrong; calculate how likely an alphabet in cipher 1 is by chance; compare the three ciphers as sequences of numbers; measure the letters and the narrative against the comparison authors; date the letters' vocabulary against the printed record of the time; and check the story's dates and places against the newspapers and archives.</p>
+  <p>What came out is a verdict that the pamphlet is a hoax: about 95 percent, as a judgement that combines several lines of evidence. The case has two halves. The first is about the ciphers. The pamphlet prints the Declaration with a number after every tenth word, and that count is wrong in five places; each error is one that the person who turned the message into numbers (the encoder, from here on) made, so the simpler reading is that whoever prepared the pamphlet had the encoder's own working key, although the story says that no key ever arrived (section 1). Cipher 1, decoded with that same miscounted key, contains three stretches of alphabet in order, seventeen letters at the longest, and the chance of that arising by accident in a book cipher keyed to the Declaration is about one in twenty million by exact calculation under the most generous model of chance tested (section 2). Cipher 3's numbers drift and climb in a way that enciphering a list letter by letter does not produce, and its 618 numbers cannot hold the thirty names with heirs and residences it is said to contain (section 3).</p>
+  <p>The second half is about the story and its author. The three "Beale" letters and the narrator's own prose share the involuntary habits of one writer: on the measures used, the closeness between them is 3 to 25 times more likely if one person wrote both than if two did, depending on the measure (section 4). The letters use words that came into use decades after 1822 (section 4). The story's one checkable date is also wrong: Morriss's own newspaper notices show that he rented the Washington Hotel in September 1823, more than three years after the January 1820 of the story, and every documented American party that reached Spanish New Mexico between 1812 and 1819 was arrested (section 5).</p>
+  <p>In outline, none of this is new: Gillogly, Nickell and King made the case between 1980 and 1993. This page re-runs it from the pamphlet's own text, puts numbers on the parts that had none, adds Morriss's newspaper notices and the 1972 archive search, and states how much weight each line of evidence can carry.</p>
+  <p>The page goes through the evidence in that order. Section 1 shows that the printed key carries the encoder's miscounts. Section 2 examines the alphabet in cipher 1 and computes how unlikely it is by chance. Section 3 compares how the three ciphers behave as sequences of numbers and tests whether cipher 3 could hold what it is said to hold. Section 4 asks whether the letters and the narrative were written by one hand, and which of the letters' words belong to 1885. Section 5 checks the story against the Lynchburg newspapers, the records of Spanish New Mexico and the pamphlet's own copyright line. Section 6 puts the strongest objections and answers them. Section 7 says what evidence would overturn the verdict. Section 8 separates what earlier writers established from what is added here. Section 9 lists the sources and the code. Before those sections come the verdict, claim by claim, and a table of the six lines of evidence.</p>
+</section>
+
+<section class="verdict" aria-label="Verdict">
+  <div class="line"><span class="word">Verdict: a hoax.</span><span class="conf">strong evidence · about 95 percent, as a composite judgement</span></div>
+  <p>The evidence for a hoax is strong: it leaves little room for another answer. The verdict is still a reading of the documents, and a new document could change it (section 7 says which). Each claim in the table carries its own confidence. The percentages are judgements rather than measurements, except where a probability was computed and is labelled as one.</p>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Claim</th><th>Confidence and what it rests on</th></tr></thead>
+    <tbody>
+      <tr><td>The three alphabetical strings in cipher 1 were put there deliberately rather than arising by chance.</td><td>Beyond reasonable doubt under every model of chance tested: a probability of 4.9 × 10⁻⁸, about one in twenty million, by exact calculation under the most generous of them, and no such run in a million random reorderings of the cipher's own numbers. Gillogly (1980) found the passage; King (1993) reported the longer strings under the reconstructed key, and J. A. Hill, in an unpublished paper of 1989, had found them independently. The probabilities are computed here.</td></tr>
+      <tr><td>Cipher 1, as printed, is not an ordinary book-cipher encipherment of a message.</td><td>About 99 percent, as a judgement. King left one alternative open: that the Declaration is the true key and a further layer of encoding hides the text. Statistics cannot exclude it, and nothing supports it.</td></tr>
+      <tr><td>The pamphlet's printed key and instructions cannot produce its printed translation, and its word-numbering matches the cipher-2 encoder's count at each of his five miscounts.</td><td>Established by counting, and anyone can repeat it from the pamphlet's text (section 1). Whether the narrator had the encoder's working key (the simpler reading) or reconstructed the miscounts himself (possible in principle, section 6) is a judgement, and it feeds the line below.</td></tr>
+      <tr><td>The story is a fiction: no Beale party, no vault.</td><td>About 95 percent, a composite judgement. It combines the two claims above and the simpler reading of the printed key with the Morriss hotel dates, the Santa Fe record and the language of the letters. Each line has an alternative explanation; for the story to be true, every one of them would have to hold at once.</td></tr>
+      <tr><td>The anonymous narrator wrote the "Beale" letters.</td><td>About 90 percent, as a judgement. Stylometry, the statistical comparison of writing habits, calibrated here on 27 authors with the texts cut to equal length, gives likelihood ratios of 3 to 25 depending on the measure (25 for cosine Delta without pronouns and for character 4-grams, 6.6 for function words, 2.7 for Burrows Delta; section 4 explains the measures), which with even prior odds is 73 to 96 percent; the reflexive-pronoun habit adds to that. The alternative is a narrator imitating letters he says he memorised.</td></tr>
+      <tr><td>The narrator was James B. Ward.</td><td>This is not established. Ward held the copyright and called himself the author's "agent"; no record names the author.</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="sub">The statistics do not show that no further encoding exists in cipher 1, who wrote the pamphlet, or that every part of the story is invented. Those conclusions rest on the other lines of evidence and on judgement, and the table says which.</p>
+</section>
+
+<section id="scoreboard">
+  <h2>The evidence at a glance</h2>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Line of inquiry</th><th>Finding</th><th>Weight</th><th>Status</th></tr></thead>
+    <tbody>
+      <tr><td>The printed key</td><td>The pamphlet's word-numbering reproduces the encoder's five miscounts and decodes cipher 2 correctly at 740 of its 762 numbers; a plain count of the same text gets 161 wrong. The numbers appear to have been transferred from a copy other than the one the printer set. Decisive if the narrator had the encoder's key, which is the simpler reading; not on its own (section 6).</td><td class="weight"><b>●●●○</b> strong</td><td>Repeats what Matyas (1979), Hammer (1979), Holst (1987), King (1993) and Love found (all five are introduced in section 1); new here: the offsets fitted from the cipher alone and matched to the printed numbers, and the typesetting argument</td></tr>
+      <tr><td>Alphabet in cipher 1</td><td>17-letter run A to O under the encoder's key, plus two 11-letter runs; probability below 5 × 10⁻⁸ for the run by calculation, and none in a million reorderings. Six of its twenty numbers are the first word in the Declaration with that initial.</td><td class="weight"><b>●●●●</b> decisive</td><td>Gillogly (1980) found the passage and drew the inference; King (1993) reported the three longer strings under the reconstructed key, and Hill (1989) had found them independently; reproduced here, with exact probabilities and a test of which of the available words the writer chose for each letter added</td></tr>
+      <tr><td>Behaviour of ciphers 1 and 3</td><td>Neither decodes to English-like letters with the Declaration. Cipher 3 has drift and rising runs no letter-by-letter encoder produces, and 618 signs cannot hold the promised list of thirty names, heirs and residences (minimum 792 ± 19 letters).</td><td class="weight"><b>●●●○</b> strong</td><td>The objection that 618 numbers cannot hold the list, made in 1927 (Crossen) and by the cryptologic historian Louis Kruh in 1982, is quantified here; the tests of how cipher 3's numbers run in sequence appear in none of the accounts that could be read</td></tr>
+      <tr><td>Authorship of the letters</td><td>Letters and narrative closer to each other than 95 to 100 percent of pairs of texts by different authors, depending on the measure; reflexive pronouns with nothing to refer back to ("like myself") at six to ten times the rate in other writers. Edgar Allan Poe, sometimes proposed as the author, excluded.</td><td class="weight"><b>●●●○</b> strong</td><td>Puts a number on the common-authorship claim of Nickell and the linguist Jean Pival (1982) and of Kruh (1988)</td></tr>
+      <tr><td>Language dating</td><td>Words that came into use after 1822 make up 0.85 percent of the distinct content words in the letters, against 0.19 percent in genuine texts of 1805 to 1843 (a gap of 4.1 standard deviations). "Stampede" is not the anachronism Nickell thought; "objective point" and "grizzlies" are the strong items.</td><td class="weight"><b>●●○○</b> moderate</td><td>Corrects Nickell's dates; two new candidates</td></tr>
+      <tr><td>The historical record</td><td>Morriss's own newspaper notices show he rented the Washington Hotel in September 1823 and left it at the end of 1825; the pamphlet has him keeping it in January 1820 and January 1822. No record that could be read names a Thomas J. Beale; thirty Americans wintering openly in Spanish Santa Fe in 1817 to 1818 contradicts every documented party of those years.</td><td class="weight"><b>●●●○</b> strong</td><td>Nickell (1982) confirmed from the primary notices, with exact dates; the Santa Fe objection and the declassified 1972 archive search appear in none of the accounts that could be read</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="small">Weight is a judgement of how much each line moves the genuine-or-hoax question on its own. The first two lines carry the verdict on the ciphers; earlier cryptanalysts established both, and they are reproduced here. The other four bear on who wrote the pamphlet and when.</p>
+</section>
+
+<section id="key">
+  <h2>1. The printed key carries the encoder's own miscounts</h2>
+  <p>The pamphlet prints the Declaration of Independence "by the assistance of which its hidden meaning was made plain", with a number in parentheses after every tenth word, and tells the reader to compare cipher 2 "with the corresponding numbers of the initial letters of the consecutive words". The key used here is rebuilt from the pamphlet's own text and numbering (the Library of Congress copy, as transcribed on Wikisource, the volunteer transcription site, pages 17 to 20), and cipher 2 is decoded with it.</p>
+  <p>The printed count is wrong in five places, and each error matches a miscount made by whoever enciphered cipher 2.</p>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Printed labels</th><th>Words between them</th><th>What happened</th><th>Offset the encoder used from here</th></tr></thead>
+    <tbody>
+      <tr><td class="num">(240) … (250)</td><td class="n">11</td><td>one word of "invariably the same object evinces a design" counted as nothing</td><td class="n">+1</td></tr>
+      <tr><td class="num">(480) … (480)</td><td class="n">10</td><td>the label printed twice: the whole line "he has refused for a long time after such dissolutions" numbered as if absent</td><td class="n">+11</td></tr>
+      <tr><td class="num">(500) … (510)</td><td class="n">9</td><td>"mean time" counted as two words although the pamphlet prints "meantime"</td><td class="n">+10</td></tr>
+      <tr><td class="num">(630) … (640)</td><td class="n">11</td><td>one word skipped in "of peace standing armies without the consent of our legislature"</td><td class="n">+11</td></tr>
+      <tr><td class="num">(670) … (680)</td><td class="n">11</td><td>one word skipped in "unacknowledged by our laws giving his assent to their acts of"</td><td class="n">+12</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>Decoded with the printed numbering, cipher 2 gives the printed message at 740 of its 762 numbers. The 22 misses are all of one kind: nine uses of 811 where the message needs a <em>y</em>, four of 1005 where it needs an <em>x</em>, three of 95 where it needs a <em>u</em>, and six adjacent-number slips (84 for 85 twice, 53 for 54, 108 for "10, 8", 440 for 40, 96 for 95). No word in the Declaration begins with <em>x</em> or <em>y</em>; the encoder used the last letter of "fundamentally" (811) for <em>y</em>, a number beyond the printed numbering (1005) for <em>x</em>, and "unalienable" for <em>u</em>, which the pamphlet prints as "inalienable". Decoded instead with a plain count of the same printed text, 161 numbers come out wrong, one in five. A plain count of the standard text, as transcribed by the National Archives, gets 139 wrong, and Gillogly's 1980 numbering 140.</p>
+  <p>A second check leaves the printed labels out of it. A computer search (a dynamic programme) finds the best division of cipher 2 into stretches, each with its own constant offset from a plain word count, and it is told nothing about where the labels fall. It returns offsets 0, +1, +11, +10, +11, +12, with the changes falling between cipher numbers 241 and 246, 466 and 485, 505 and 511, 620 and 643, and 666 and 807. Those five change points coincide with the five places where the printed count goes wrong (Figure 1).</p>
+  <figure class="fig">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="100%" role="img" aria-labelledby="f2t" font-family="var(--mono)" font-size="11">
+<title id="f2t">Offset between the cipher-2 encoder's word numbers and a plain word count, by cipher number, with the pamphlet's printed numbering anomalies</title>
+<line x1="54" x2="696" y1="176.14285714285714" y2="176.14285714285714" stroke="var(--rule)" stroke-width="1"/>
+<text x="48" y="180.14285714285714" text-anchor="end" fill="var(--ink-2)">+0</text>
+<line x1="54" x2="696" y1="128.71428571428572" y2="128.71428571428572" stroke="var(--rule)" stroke-width="1"/>
+<text x="48" y="132.71428571428572" text-anchor="end" fill="var(--ink-2)">+4</text>
+<line x1="54" x2="696" y1="81.28571428571428" y2="81.28571428571428" stroke="var(--rule)" stroke-width="1"/>
+<text x="48" y="85.28571428571428" text-anchor="end" fill="var(--ink-2)">+8</text>
+<line x1="54" x2="696" y1="33.85714285714286" y2="33.85714285714286" stroke="var(--rule)" stroke-width="1"/>
+<text x="48" y="37.85714285714286" text-anchor="end" fill="var(--ink-2)">+12</text>
+<text x="54.0" y="204" text-anchor="middle" fill="var(--ink-2)">0</text>
+<text x="212.9108910891089" y="204" text-anchor="middle" fill="var(--ink-2)">250</text>
+<text x="371.8217821782178" y="204" text-anchor="middle" fill="var(--ink-2)">500</text>
+<text x="530.7326732673267" y="204" text-anchor="middle" fill="var(--ink-2)">750</text>
+<text x="689.6435643564356" y="204" text-anchor="middle" fill="var(--ink-2)">1000</text>
+<text x="375.0" y="232" text-anchor="middle" fill="var(--ink-2)" font-family="var(--body)" font-size="12">cipher-2 number (word number in the encoder's Declaration)</text>
+<line x1="212.9108910891089" x2="212.9108910891089" y1="22" y2="188" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="359.1089108910891" x2="359.1089108910891" y1="22" y2="188" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="378.1782178217822" x2="378.1782178217822" y1="22" y2="188" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="460.81188118811883" x2="460.81188118811883" y1="22" y2="188" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="486.23762376237624" x2="486.23762376237624" y1="22" y2="188" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text x="216.9108910891089" y="32" fill="var(--accent)" font-size="10">(250)</text>
+<text x="363.1089108910891" y="32" fill="var(--accent)" font-size="10">(480) twice</text>
+<text x="382.1782178217822" y="46" fill="var(--accent)" font-size="10">(510)</text>
+<text x="464.81188118811883" y="32" fill="var(--accent)" font-size="10">(640)</text>
+<text x="490.23762376237624" y="46" fill="var(--accent)" font-size="10">(680)</text>
+<circle cx="54.635643564356435" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>1 = When (offset +0)</title></circle>
+<circle cx="55.27128712871287" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>2 = in (offset +0)</title></circle>
+<circle cx="55.906930693069306" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>3 = the (offset +0)</title></circle>
+<circle cx="56.54257425742574" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>4 = course (offset +0)</title></circle>
+<circle cx="57.17821782178218" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>5 = of (offset +0)</title></circle>
+<circle cx="57.81386138613861" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>6 = human (offset +0)</title></circle>
+<circle cx="58.44950495049505" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>7 = events (offset +0)</title></circle>
+<circle cx="59.08514851485148" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>8 = it (offset +0)</title></circle>
+<circle cx="59.72079207920792" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>9 = becomes (offset +0)</title></circle>
+<circle cx="60.35643564356435" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>10 = necessary (offset +0)</title></circle>
+<circle cx="60.992079207920796" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>11 = for (offset +0)</title></circle>
+<circle cx="61.627722772277224" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>12 = one (offset +0)</title></circle>
+<circle cx="62.8990099009901" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>14 = to (offset +0)</title></circle>
+<circle cx="63.53465346534654" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>15 = dissolve (offset +0)</title></circle>
+<circle cx="64.17029702970297" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>16 = the (offset +0)</title></circle>
+<circle cx="64.80594059405941" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>17 = political (offset +0)</title></circle>
+<circle cx="65.44158415841584" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>18 = bands (offset +0)</title></circle>
+<circle cx="66.07722772277228" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>19 = which (offset +0)</title></circle>
+<circle cx="66.7128712871287" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>20 = have (offset +0)</title></circle>
+<circle cx="67.34851485148515" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>21 = connected (offset +0)</title></circle>
+<circle cx="67.98415841584159" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>22 = them (offset +0)</title></circle>
+<circle cx="69.25544554455445" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>24 = another (offset +0)</title></circle>
+<circle cx="69.89108910891089" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>25 = and (offset +0)</title></circle>
+<circle cx="70.52673267326733" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>26 = to (offset +0)</title></circle>
+<circle cx="71.16237623762376" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>27 = assume (offset +0)</title></circle>
+<circle cx="71.7980198019802" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>28 = among (offset +0)</title></circle>
+<circle cx="72.43366336633663" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>29 = the (offset +0)</title></circle>
+<circle cx="73.06930693069307" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>30 = powers (offset +0)</title></circle>
+<circle cx="73.7049504950495" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>31 = of (offset +0)</title></circle>
+<circle cx="74.34059405940594" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>32 = the (offset +0)</title></circle>
+<circle cx="74.97623762376237" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>33 = earth (offset +0)</title></circle>
+<circle cx="75.61188118811882" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>34 = the (offset +0)</title></circle>
+<circle cx="76.24752475247524" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>35 = separate (offset +0)</title></circle>
+<circle cx="76.88316831683169" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>36 = and (offset +0)</title></circle>
+<circle cx="77.51881188118811" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>37 = equal (offset +0)</title></circle>
+<circle cx="78.15445544554456" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>38 = station (offset +0)</title></circle>
+<circle cx="78.79009900990098" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>39 = to (offset +0)</title></circle>
+<circle cx="79.42574257425743" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>40 = which (offset +0)</title></circle>
+<circle cx="80.06138613861387" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>41 = the (offset +0)</title></circle>
+<circle cx="80.6970297029703" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>42 = laws (offset +0)</title></circle>
+<circle cx="81.33267326732673" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>43 = of (offset +0)</title></circle>
+<circle cx="81.96831683168317" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>44 = nature (offset +0)</title></circle>
+<circle cx="82.60396039603961" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>45 = and (offset +0)</title></circle>
+<circle cx="83.23960396039604" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>46 = of (offset +0)</title></circle>
+<circle cx="83.87524752475247" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>47 = nature's (offset +0)</title></circle>
+<circle cx="84.51089108910891" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>48 = God (offset +0)</title></circle>
+<circle cx="85.14653465346535" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>49 = entitle (offset +0)</title></circle>
+<circle cx="85.78217821782178" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>50 = them (offset +0)</title></circle>
+<circle cx="86.41782178217821" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>51 = a (offset +0)</title></circle>
+<circle cx="87.05346534653465" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>52 = decent (offset +0)</title></circle>
+<circle cx="87.6891089108911" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>53 = respect (offset +0)</title></circle>
+<circle cx="89.5960396039604" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>56 = opinions (offset +0)</title></circle>
+<circle cx="90.23168316831683" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>57 = of (offset +0)</title></circle>
+<circle cx="90.86732673267326" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>58 = mankind (offset +0)</title></circle>
+<circle cx="91.5029702970297" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>59 = requires (offset +0)</title></circle>
+<circle cx="92.13861386138615" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>60 = that (offset +0)</title></circle>
+<circle cx="92.77425742574258" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>61 = they (offset +0)</title></circle>
+<circle cx="93.409900990099" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>62 = should (offset +0)</title></circle>
+<circle cx="94.04554455445545" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>63 = declare (offset +0)</title></circle>
+<circle cx="94.68118811881189" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>64 = the (offset +0)</title></circle>
+<circle cx="95.31683168316832" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>65 = causes (offset +0)</title></circle>
+<circle cx="95.95247524752475" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>66 = which (offset +0)</title></circle>
+<circle cx="96.58811881188119" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>67 = impel (offset +0)</title></circle>
+<circle cx="99.13069306930693" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>71 = separation (offset +0)</title></circle>
+<circle cx="99.76633663366337" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>72 = We (offset +0)</title></circle>
+<circle cx="100.4019801980198" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>73 = hold (offset +0)</title></circle>
+<circle cx="102.94455445544554" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>77 = be (offset +0)</title></circle>
+<circle cx="103.58019801980198" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>78 = self (offset +0)</title></circle>
+<circle cx="104.21584158415843" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>79 = evident (offset +0)</title></circle>
+<circle cx="105.48712871287128" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>81 = all (offset +0)</title></circle>
+<circle cx="106.12277227722772" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>82 = men (offset +0)</title></circle>
+<circle cx="106.75841584158417" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>83 = are (offset +0)</title></circle>
+<circle cx="107.3940594059406" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>84 = created (offset +0)</title></circle>
+<circle cx="108.02970297029702" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>85 = equal (offset +0)</title></circle>
+<circle cx="112.47920792079208" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>92 = Creator (offset +0)</title></circle>
+<circle cx="113.75049504950495" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>94 = certain (offset +0)</title></circle>
+<circle cx="115.02178217821782" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>96 = rights (offset +0)</title></circle>
+<circle cx="116.29306930693069" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>98 = among (offset +0)</title></circle>
+<circle cx="118.2" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>101 = life (offset +0)</title></circle>
+<circle cx="118.83564356435643" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>102 = liberty (offset +0)</title></circle>
+<circle cx="120.74257425742574" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>105 = pursuit (offset +0)</title></circle>
+<circle cx="121.37821782178217" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>106 = of (offset +0)</title></circle>
+<circle cx="122.01386138613861" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>107 = happiness (offset +0)</title></circle>
+<circle cx="122.64950495049504" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>108 = that (offset +0)</title></circle>
+<circle cx="123.92079207920793" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>110 = secure (offset +0)</title></circle>
+<circle cx="125.1920792079208" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>112 = rights (offset +0)</title></circle>
+<circle cx="125.82772277227723" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>113 = governments (offset +0)</title></circle>
+<circle cx="127.0990099009901" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>115 = instituted (offset +0)</title></circle>
+<circle cx="128.37029702970295" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>117 = men (offset +0)</title></circle>
+<circle cx="129.0059405940594" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>118 = deriving (offset +0)</title></circle>
+<circle cx="130.2772277227723" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>120 = just (offset +0)</title></circle>
+<circle cx="130.91287128712872" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>121 = powers (offset +0)</title></circle>
+<circle cx="131.54851485148515" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>122 = from (offset +0)</title></circle>
+<circle cx="133.45544554455444" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>125 = of (offset +0)</title></circle>
+<circle cx="137.26930693069306" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>131 = form (offset +0)</title></circle>
+<circle cx="138.54059405940595" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>133 = government (offset +0)</title></circle>
+<circle cx="139.17623762376238" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>134 = becomes (offset +0)</title></circle>
+<circle cx="139.81188118811883" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>135 = destructive (offset +0)</title></circle>
+<circle cx="140.44752475247526" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>136 = of (offset +0)</title></circle>
+<circle cx="141.71881188118812" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>138 = ends (offset +0)</title></circle>
+<circle cx="142.99009900990097" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>140 = is (offset +0)</title></circle>
+<circle cx="144.89702970297031" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>143 = of (offset +0)</title></circle>
+<circle cx="147.43960396039603" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>147 = alter (offset +0)</title></circle>
+<circle cx="149.34653465346534" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>150 = abolish (offset +0)</title></circle>
+<circle cx="150.61782178217823" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>152 = and (offset +0)</title></circle>
+<circle cx="151.88910891089108" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>154 = institute (offset +0)</title></circle>
+<circle cx="154.43168316831685" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>158 = laying (offset +0)</title></circle>
+<circle cx="155.06732673267328" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>159 = its (offset +0)</title></circle>
+<circle cx="155.7029702970297" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>160 = foundation (offset +0)</title></circle>
+<circle cx="166.5089108910891" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>177 = likely (offset +0)</title></circle>
+<circle cx="171.59405940594058" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>185 = indeed (offset +0)</title></circle>
+<circle cx="175.4079207920792" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>191 = established (offset +0)</title></circle>
+<circle cx="177.3148514851485" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>194 = be (offset +0)</title></circle>
+<circle cx="178.58613861386138" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>196 = for (offset +0)</title></circle>
+<circle cx="179.22178217821784" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>197 = light (offset +0)</title></circle>
+<circle cx="181.12871287128712" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>200 = causes (offset +0)</title></circle>
+<circle cx="184.30693069306932" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>205 = hath (offset +0)</title></circle>
+<circle cx="186.2138613861386" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>208 = mankind (offset +0)</title></circle>
+<circle cx="188.12079207920792" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>211 = disposed (offset +0)</title></circle>
+<circle cx="191.93465346534654" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>217 = sufferable (offset +0)</title></circle>
+<circle cx="193.84158415841586" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>220 = right (offset +0)</title></circle>
+<circle cx="200.1980198019802" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>230 = accustomed (offset +0)</title></circle>
+<circle cx="202.74059405940594" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>234 = long (offset +0)</title></circle>
+<circle cx="205.9188118811881" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>239 = usurpations (offset +0)</title></circle>
+<circle cx="207.190099009901" cy="176.14285714285714" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>241 = invariably (offset +0)</title></circle>
+<circle cx="210.36831683168316" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>246 = design (offset +1)</title></circle>
+<circle cx="211.63960396039604" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>248 = reduce (offset +1)</title></circle>
+<circle cx="212.9108910891089" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>250 = under (offset +1)</title></circle>
+<circle cx="214.1821782178218" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>252 = despotism (offset +1)</title></circle>
+<circle cx="225.62376237623764" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>270 = guards (offset +1)</title></circle>
+<circle cx="227.53069306930692" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>273 = future (offset +1)</title></circle>
+<circle cx="228.8019801980198" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>275 = Such (offset +1)</title></circle>
+<circle cx="234.52277227722772" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>284 = and (offset +1)</title></circle>
+<circle cx="235.15841584158414" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>285 = such (offset +1)</title></circle>
+<circle cx="236.42970297029703" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>287 = now (offset +1)</title></circle>
+<circle cx="237.06534653465346" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>288 = the (offset +1)</title></circle>
+<circle cx="238.33663366336634" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>290 = which (offset +1)</title></circle>
+<circle cx="242.7861386138614" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>297 = systems (offset +1)</title></circle>
+<circle cx="245.32871287128714" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>301 = history (offset +1)</title></circle>
+<circle cx="245.96435643564357" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>302 = of (offset +1)</title></circle>
+<circle cx="247.87128712871288" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>305 = King (offset +1)</title></circle>
+<circle cx="249.7782178217822" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>308 = Britain (offset +1)</title></circle>
+<circle cx="253.5920792079208" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>314 = injuries (offset +1)</title></circle>
+<circle cx="254.86336633663367" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>316 = usurpations (offset +1)</title></circle>
+<circle cx="257.4059405940594" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>320 = direct (offset +1)</title></circle>
+<circle cx="272.66138613861386" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>344 = refused (offset +1)</title></circle>
+<circle cx="278.3821782178218" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>353 = necessary (offset +1)</title></circle>
+<circle cx="282.83168316831683" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>360 = forbidden (offset +1)</title></circle>
+<circle cx="289.18811881188117" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>370 = importance (offset +1)</title></circle>
+<circle cx="289.8237623762376" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>371 = unless (offset +1)</title></circle>
+<circle cx="300.629702970297" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>388 = utterly (offset +1)</title></circle>
+<circle cx="304.4435643564357" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>394 = He (offset +1)</title></circle>
+<circle cx="308.25742574257424" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>400 = laws (offset +1)</title></circle>
+<circle cx="311.43564356435644" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>405 = large (offset +1)</title></circle>
+<circle cx="312.07128712871287" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>406 = districts (offset +1)</title></circle>
+<circle cx="313.97821782178215" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>409 = unless (offset +1)</title></circle>
+<circle cx="320.970297029703" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>420 = legislature (offset +1)</title></circle>
+<circle cx="333.6831683168317" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>440 = uncomfortable (offset +1)</title></circle>
+<circle cx="350.209900990099" cy="164.28571428571428" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>466 = houses (offset +1)</title></circle>
+<circle cx="362.28712871287127" cy="45.714285714285715" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>485 = be (offset +11)</title></circle>
+<circle cx="362.92277227722775" cy="45.714285714285715" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>486 = elected (offset +11)</title></circle>
+<circle cx="375.0" cy="45.714285714285715" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>505 = State (offset +11)</title></circle>
+<circle cx="378.8138613861386" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>511 = exposed (offset +10)</title></circle>
+<circle cx="397.2475247524753" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>540 = naturalization (offset +10)</title></circle>
+<circle cx="402.33267326732675" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>548 = encourage (offset +10)</title></circle>
+<circle cx="406.1465346534653" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>554 = the (offset +10)</title></circle>
+<circle cx="408.05346534653467" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>557 = new (offset +10)</title></circle>
+<circle cx="419.4950495049505" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>575 = establishing (offset +10)</title></circle>
+<circle cx="423.3089108910891" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>581 = judges (offset +10)</title></circle>
+<circle cx="423.94455445544554" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>582 = dependent (offset +10)</title></circle>
+<circle cx="435.38613861386136" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>600 = salaries (offset +10)</title></circle>
+<circle cx="437.2930693069307" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>603 = erected (offset +10)</title></circle>
+<circle cx="439.8356435643564" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>607 = new (offset +10)</title></circle>
+<circle cx="448.0990099009901" cy="57.57142857142857" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>620 = eat (offset +10)</title></circle>
+<circle cx="462.7188118811881" cy="45.714285714285715" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>643 = to (offset +11)</title></circle>
+<circle cx="465.2613861386139" cy="45.714285714285715" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>647 = independent (offset +11)</title></circle>
+<circle cx="477.33861386138614" cy="45.714285714285715" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>666 = foreign (offset +11)</title></circle>
+<circle cx="566.9643564356436" cy="33.85714285714286" r="3.2" fill="var(--ink)" stroke="var(--paper)" stroke-width="1.5"><title>807 = valuable (offset +12)</title></circle>
+<circle cx="569.5069306930693" cy="33.85714285714286" r="4" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.5"/>
+<text x="569.5069306930693" y="49.85714285714286" text-anchor="middle" fill="var(--ink)" font-size="10">811 = y</text>
+<circle cx="692.8217821782179" cy="33.85714285714286" r="4" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.5"/>
+<text x="692.8217821782179" y="49.85714285714286" text-anchor="middle" fill="var(--ink)" font-size="10">1005 = x</text>
+</svg>
+    <figcaption><b>Figure 1.</b> The encoder's offset from a plain count of the Declaration, along cipher 2. Cipher 2 has 762 numbers, 181 of them distinct. Three of the distinct numbers, 95, 811 and 1005, stand for the single letters described above rather than for words of the count; 811 and 1005 are marked with hollow rings and 95 is left out. Each of the other 178 distinct numbers is one point, plotted once however often the cipher repeats it. A point's height is the difference between the word number the encoder used and a plain count of the Declaration as printed. The dashed lines mark the five places where the pamphlet's printed count misnumbers the text, and every step in the offset falls at one of them. Made for this report from the numbers of cipher 2 and the Declaration as the pamphlet prints and numbers it.</figcaption>
+  </figure>
+  <p>Two details show that the numbers were transferred from a copy other than the one the printer set. The numbering counts "mean time" as two words and needs "unalienable" at 95; the print has "meantime" and "inalienable". And the pamphlet numbers six words individually, "fundamentally, (811) the (812) powers (813) of (814) our (815) governments; (816)", then stops numbering altogether. 811 is the number the encoder used nine times for <em>y</em>; it is the largest number the cipher needs apart from the <em>x</em>. The numbering was carried exactly as far as cipher 2 needed it and no further, which is what one would expect if it was copied from the encoder's key.</p>
+  <p>The pamphlet does not mention any of this. A reader who follows its instruction obtains "foir miles", "ehcavation", "sih feet", "countf", "jointlf" and "thirtf"; the printed "translation" supplies, without comment, the letters that the printed key cannot produce.</p>
+  <blockquote class="quote">"It would be difficult to portray the delight he experienced when accident revealed to him the explanation of the paper marked '2.'"<cite>The Beale Papers (1885), p. 4</cite></blockquote>
+  <p>Two readings are possible. Either the anonymous author solved cipher 2 without a key, worked out the encoder's five slips from the redundancy of the message, and then printed the slips as if they were a plain count, typesetting a text that his own numbers contradict, without explaining the discrepancy. The other possibility is that he had the encoder's working key. The second is the simpler reading. It means the person who prepared the pamphlet is the person who enciphered cipher 2, and that the narrative's central claim, that "the promised explanation has never been received", is false. In either case the procedure the pamphlet prints does not produce the translation it prints.</p>
+  <p class="small">Others reached these results first. Carl Hammer analysed the encoder's errors in 1979; Stephen Matyas, a cryptographer, worked out in the same year how the Declaration must be renumbered for cipher 2 to decode cleanly, once a copy of the pamphlet came to light; Peter Holst, writing in the Beale Cypher Association's newsletter in 1987, reached the same by seven changes to the text; John C. King published the reconstructed key in <i>Cryptologia</i> in 1993, with the positions that cannot be settled marked and the seven errors listed; George Love, an enthusiast who published his analysis on the web in the 2000s, observed that cipher 2 works only with the pamphlet's counts; Todd Mateer, writing in <i>Cryptologia</i> in 2013, concluded from the encoding process that the ciphers are likely a hoax. King's paper is behind a paywall and could be read only in the fragments that the full-text search of the Internet Archive, the digital library, returns; the papers by Matyas, Holst and J. A. Hill (an unpublished study of 1989) could not be read at all. As far as those fragments show, three points are new here: the offsets fitted from the cipher alone and matched segment by segment to the pamphlet's printed parenthetical numbers, the "meantime / inalienable" typesetting argument, and the observation that the printed numbering stops at 816.</p>
+</section>
+
+<section id="alphabet">
+  <h2>2. The alphabet inside cipher 1</h2>
+  <p>In 1980 Jim Gillogly decoded cipher 1 with a standard text of the Declaration (that is, he replaced each number with the first letter of the word it points to), found the string ABFDEFGHIIJKLMMNOHPP at positions 188 to 207, computed how unlikely such a run is by chance, and said his inclination was that cipher 1 was a hoax, adding that his observations "do not constitute an unequivocal proof". He read the string as fourteen letters in order with an F and an H out of place, both attributable to the encoder's habit of choosing an adjacent number. King (1993) then decoded cipher 1 with the key reconstructed from cipher 2 and reported longer strings, which Hill (1989) had found independently; Holst (1987), who reconstructed the key, read Gillogly's string as evidence of a hoax but reported no decryption of cipher 1. King's Table 5 lists AAABBCDEFF at position 44, ABBBCCCCDDE at 84, BCDDE at 113 and ABCDEFGHIIJKLMMNOHPP at 188. Those readings come out the same from the pamphlet's own printed numbering (Table 1).</p>
+  <figure class="fig">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1048 150" width="1048" height="150" role="img" aria-labelledby="f1t" font-family="var(--mono)" font-size="12">
+<title id="f1t">Cipher 1, positions 184 to 210, decoded with a plain count of the Declaration and with the encoder's miscounted numbering</title>
+<rect x="254" y="80" width="578" height="40" rx="3" fill="var(--accent-soft)"/>
+<rect x="866" y="80" width="68" height="40" rx="3" fill="var(--accent-soft)" opacity="0.55"/>
+<text x="110" y="30" text-anchor="end" fill="var(--ink-2)" font-size="11">position</text>
+<text x="110" y="54" text-anchor="end" fill="var(--ink-2)" font-size="11">number</text>
+<text x="110" y="78" text-anchor="end" fill="var(--ink-2)" font-size="11">plain count</text>
+<text x="110" y="106" text-anchor="end" fill="var(--ink)" font-size="11" font-weight="700">encoder's key</text>
+<text x="135.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">184</text>
+<text x="135.0" y="54" text-anchor="middle" fill="var(--ink)">30</text>
+<text x="135.0" y="78" text-anchor="middle" fill="var(--ink-2)">P</text>
+<text x="135.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">P</text>
+<text x="169.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">185</text>
+<text x="169.0" y="54" text-anchor="middle" fill="var(--ink)">44</text>
+<text x="169.0" y="78" text-anchor="middle" fill="var(--ink-2)">N</text>
+<text x="169.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">N</text>
+<text x="203.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">186</text>
+<text x="203.0" y="54" text-anchor="middle" fill="var(--ink)">112</text>
+<text x="203.0" y="78" text-anchor="middle" fill="var(--ink-2)">R</text>
+<text x="203.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">R</text>
+<text x="237.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">187</text>
+<text x="237.0" y="54" text-anchor="middle" fill="var(--ink)">18</text>
+<text x="237.0" y="78" text-anchor="middle" fill="var(--ink-2)">B</text>
+<text x="237.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">B</text>
+<text x="271.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">188</text>
+<text x="271.0" y="54" text-anchor="middle" fill="var(--ink)">147</text>
+<text x="271.0" y="78" text-anchor="middle" fill="var(--ink-2)">A</text>
+<text x="271.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">A</text>
+<text x="305.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">189</text>
+<text x="305.0" y="54" text-anchor="middle" fill="var(--ink)">436</text>
+<text x="305.0" y="78" text-anchor="middle" fill="var(--ink-2)">L</text>
+<text x="305.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">B</text>
+<text x="339.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">190</text>
+<text x="339.0" y="54" text-anchor="middle" fill="var(--ink)">195</text>
+<text x="339.0" y="78" text-anchor="middle" fill="var(--ink-2)">C</text>
+<text x="339.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">C</text>
+<text x="373.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">191</text>
+<text x="373.0" y="54" text-anchor="middle" fill="var(--ink)">320</text>
+<text x="373.0" y="78" text-anchor="middle" fill="var(--ink-2)">I</text>
+<text x="373.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">D</text>
+<text x="407.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">192</text>
+<text x="407.0" y="54" text-anchor="middle" fill="var(--ink)">37</text>
+<text x="407.0" y="78" text-anchor="middle" fill="var(--ink-2)">E</text>
+<text x="407.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">E</text>
+<text x="441.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">193</text>
+<text x="441.0" y="54" text-anchor="middle" fill="var(--ink)">122</text>
+<text x="441.0" y="78" text-anchor="middle" fill="var(--ink-2)">F</text>
+<text x="441.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">F</text>
+<text x="475.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">194</text>
+<text x="475.0" y="54" text-anchor="middle" fill="var(--ink)">113</text>
+<text x="475.0" y="78" text-anchor="middle" fill="var(--ink-2)">G</text>
+<text x="475.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">G</text>
+<text x="509.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">195</text>
+<text x="509.0" y="54" text-anchor="middle" fill="var(--ink)">6</text>
+<text x="509.0" y="78" text-anchor="middle" fill="var(--ink-2)">H</text>
+<text x="509.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">H</text>
+<text x="543.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">196</text>
+<text x="543.0" y="54" text-anchor="middle" fill="var(--ink)">140</text>
+<text x="543.0" y="78" text-anchor="middle" fill="var(--ink-2)">I</text>
+<text x="543.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">I</text>
+<text x="577.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">197</text>
+<text x="577.0" y="54" text-anchor="middle" fill="var(--ink)">8</text>
+<text x="577.0" y="78" text-anchor="middle" fill="var(--ink-2)">I</text>
+<text x="577.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">I</text>
+<text x="611.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">198</text>
+<text x="611.0" y="54" text-anchor="middle" fill="var(--ink)">120</text>
+<text x="611.0" y="78" text-anchor="middle" fill="var(--ink-2)">J</text>
+<text x="611.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">J</text>
+<text x="645.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">199</text>
+<text x="645.0" y="54" text-anchor="middle" fill="var(--ink)">305</text>
+<text x="645.0" y="78" text-anchor="middle" fill="var(--ink-2)">P</text>
+<text x="645.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">K</text>
+<text x="679.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">200</text>
+<text x="679.0" y="54" text-anchor="middle" fill="var(--ink)">42</text>
+<text x="679.0" y="78" text-anchor="middle" fill="var(--ink-2)">L</text>
+<text x="679.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">L</text>
+<text x="713.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">201</text>
+<text x="713.0" y="54" text-anchor="middle" fill="var(--ink)">58</text>
+<text x="713.0" y="78" text-anchor="middle" fill="var(--ink-2)">M</text>
+<text x="713.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">M</text>
+<text x="747.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">202</text>
+<text x="747.0" y="54" text-anchor="middle" fill="var(--ink)">461</text>
+<text x="747.0" y="78" text-anchor="middle" fill="var(--ink-2)">H</text>
+<text x="747.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">M</text>
+<text x="781.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">203</text>
+<text x="781.0" y="54" text-anchor="middle" fill="var(--ink)">44</text>
+<text x="781.0" y="78" text-anchor="middle" fill="var(--ink-2)">N</text>
+<text x="781.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">N</text>
+<text x="815.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">204</text>
+<text x="815.0" y="54" text-anchor="middle" fill="var(--ink)">106</text>
+<text x="815.0" y="78" text-anchor="middle" fill="var(--ink-2)">O</text>
+<text x="815.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">O</text>
+<text x="849.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">205</text>
+<text x="849.0" y="54" text-anchor="middle" fill="var(--ink)">301</text>
+<text x="849.0" y="78" text-anchor="middle" fill="var(--ink-2)">T</text>
+<text x="849.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">H</text>
+<text x="883.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">206</text>
+<text x="883.0" y="54" text-anchor="middle" fill="var(--ink)">13</text>
+<text x="883.0" y="78" text-anchor="middle" fill="var(--ink-2)">P</text>
+<text x="883.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">P</text>
+<text x="917.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">207</text>
+<text x="917.0" y="54" text-anchor="middle" fill="var(--ink)">408</text>
+<text x="917.0" y="78" text-anchor="middle" fill="var(--ink-2)">O</text>
+<text x="917.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="700">P</text>
+<text x="951.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">208</text>
+<text x="951.0" y="54" text-anchor="middle" fill="var(--ink)">680</text>
+<text x="951.0" y="78" text-anchor="middle" fill="var(--ink-2)">C</text>
+<text x="951.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">O</text>
+<text x="985.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">209</text>
+<text x="985.0" y="54" text-anchor="middle" fill="var(--ink)">93</text>
+<text x="985.0" y="78" text-anchor="middle" fill="var(--ink-2)">W</text>
+<text x="985.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">W</text>
+<text x="1019.0" y="30" text-anchor="middle" fill="var(--ink-2)" font-size="10">210</text>
+<text x="1019.0" y="54" text-anchor="middle" fill="var(--ink)">86</text>
+<text x="1019.0" y="78" text-anchor="middle" fill="var(--ink-2)">T</text>
+<text x="1019.0" y="108" text-anchor="middle" fill="var(--ink)" font-size="15" font-weight="400">T</text>
+<text x="254" y="140" fill="var(--ink-2)" font-size="11" font-family="var(--body)">Seventeen letters in alphabetical order (A to O, position 188 to 204), then H for 301 where 302 would give O, then P, P.</text>
+</svg>
+    <figcaption><b>Table 1.</b> The alphabet inside cipher 1. Positions 184 to 210 of cipher 1, decoded with a plain count of the printed Declaration (grey row) and with the encoder's miscounted numbering (bold row). The shaded stretch reads <span class="strip">ABCDEFGHIIJKLMMNO</span>: seventeen letters in alphabetical order, followed by H (301, where 302 would give O) and P, P. Made for this report from the numbers of cipher 1 and the Declaration as the pamphlet prints and numbers it, decoded with the numbering worked out in section 1.</figcaption>
+  </figure>
+  <p>Gillogly's F was an artefact of counting a standard text: the pamphlet's extra "a" at word 155 makes 195 "changed", a C, where a standard text gives "for". Only the H remains as a slip. Two further alphabetical runs of eleven letters, the strings King reported, sit at positions 44 to 54 (<span class="strip">AAABBCDEFFI</span>) and 84 to 94 (<span class="strip">ABBBCCCCDDE</span>). They are invisible with a standard text because they depend on numbers such as 200, 211, 225, 251, 284, 485 and 486, which mean different words under the miscounted numbering. Under a plain count of the printed text the main string collapses to eight letters. Whoever wrote these stretches of cipher 1 was reading from the same numbered, miscounted Declaration that produced cipher 2.</p>
+  <p>The table gives the probability of such a run under several models of what chance would produce (null models, in statistical terms): letters drawn at random with the frequencies that the Declaration's initial letters actually have, cipher 1's own numbers shuffled, and numbers drawn at random from the whole key. Two rows are exact calculations, one reproduces Gillogly's arithmetic, and the rest are simulations.</p>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Null model (520 letters)</th><th class="n">Probability of a run ≥ 14</th><th class="n">Probability of a run ≥ 17</th><th>Method</th></tr></thead>
+    <tbody>
+      <tr><td>Letters drawn with the Declaration's initial-letter frequencies, non-decreasing run</td><td class="n">7.2 × 10⁻⁶</td><td class="n">4.9 × 10⁻⁸</td><td>exact Markov chain</td></tr>
+      <tr><td>Same, Gillogly's stricter rule (each letter equal to or the successor of the last)</td><td class="n">6.3 × 10⁻⁸</td><td class="n">4.0 × 10⁻¹⁰</td><td>exact Markov chain</td></tr>
+      <tr><td>Gillogly's own arithmetic (26 equiprobable letters)</td><td class="n">1.2 × 10⁻¹²</td><td class="n">—</td><td>reproduced</td></tr>
+      <tr><td>Cipher 1's own numbers shuffled, decoded with the encoder's key</td><td class="n">4 to 7 per 10⁶</td><td class="n">0 in 10⁶</td><td>permutation</td></tr>
+      <tr><td>Numbers drawn uniformly from 1 to 1322</td><td class="n">≈ 5 per 10⁶</td><td class="n">0 in 10⁶</td><td>Monte Carlo</td></tr>
+      <tr class="total"><td>Three runs of ten or more in one sequence (as observed)</td><td class="n" colspan="2">never in 2 × 10⁵ shuffles</td><td>permutation</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>Gillogly's rough figure of one in 10¹² assumed that all letters were equally likely, which they are not (T alone begins 19 percent of the Declaration's words), so the true probabilities are larger; they remain small enough for his conclusion to stand. Cipher 3 shows nothing of the kind; its longest alphabetical run is seven letters, which is what a random sequence of that length typically has.</p>
+  <h3>Which of the available words the writer chose</h3>
+  <p>Of the twenty numbers in the string, six are the <em>first</em> word in the Declaration beginning with that letter (human, just, King, laws, mankind, people). The Declaration offers many words for each letter (homophones, in cipher terms), and a writer choosing among them at random would hit the first word 0.76 times in twenty on average, against the six observed (the probability of six or more is 2.7 × 10⁻⁵); measured instead against cipher 1's own numbers, of which nine percent are first occurrences, the probability of drawing six such numbers by chance (a hypergeometric test) is 0.006. On average the string's numbers sit a tenth of the way down the list of words available for each letter (a normalised rank of 0.10), the same habit as the cipher-2 encoder (0.12) and far from random choice (0.5). The writer of the run took each successive letter from the front of the numbered Declaration, as Gillogly imagined: an encipherer "occasionally growing bored and picking entries from the numbered Declaration of Independence in front of him".</p>
+  <p>The probabilities settle only that the strings were put there deliberately; they do not say why. King, who found the same strings, listed three explanations: a hoax, which is how Gillogly and Holst read them; alterations by the pamphlet's author "to flush out the keytext without giving away the entire solution"; or the Declaration being the true key with a further layer of encoding that no one has stripped. He added that "one would hope that such an elaborate hoax would be revealed by something more interesting". The second and third explanations still require whoever wrote cipher 1 to have worked from the encoder's numbered Declaration, which is the finding of section 1, and cipher 2 has no second layer. The first explanation is the best supported, at about 99 percent, as the table at the top says.</p>
+</section>
+
+<section id="behaviour">
+  <h2>3. How ciphers 1 and 3 behave</h2>
+  <p>Cipher 2 is the reference: a genuine book cipher, carelessly made, with many numbers available for each letter (a homophonic cipher). It uses 181 distinct numbers for 762 letters, prefers the front of the key (54 percent of its numbers are 100 or below, though only 8 percent of the key's words are), never reuses a number on a doubled letter, and always writes <em>v</em> as 807. Its encoder also has a mild serial habit, taking the next suitable word in the key about one time in ten, which gives cipher 2 a small correlation between each number and the next (a lag-one autocorrelation). Tests of the unsolved ciphers are read against cipher 2's behaviour. Figure 2 sets the three ciphers' numbers side by side.</p>
+  <figure class="fig">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" width="100%" role="img" aria-labelledby="f3t" font-family="var(--mono)" font-size="11">
+<title id="f3t">Histograms of the numbers in the three ciphers, bins of fifty</title>
+<text x="54" y="20" fill="var(--ink)" font-family="var(--body)" font-size="13" font-weight="600">Cipher 1 (520 numbers, largest 2906)</text>
+<text x="714" y="20" text-anchor="end" fill="var(--ink-2)" font-family="var(--body)" font-size="12">44% at or below 100</text>
+<line x1="54" x2="681.0909090909091" y1="112" y2="112" stroke="var(--rule)"/>
+<rect x="55.0" y="72.62271062271063" width="25.09090909090909" height="39.37728937728938" fill="var(--accent)" rx="1"><title>1-50: 125 numbers</title></rect>
+<rect x="82.0909090909091" y="79.86813186813187" width="25.09090909090909" height="32.13186813186813" fill="var(--accent)" rx="1"><title>51-100: 102 numbers</title></rect>
+<rect x="109.18181818181819" y="92.78388278388279" width="25.09090909090909" height="19.216117216117215" fill="var(--accent)" rx="1"><title>101-150: 61 numbers</title></rect>
+<rect x="136.27272727272725" y="106.01465201465201" width="25.09090909090909" height="5.985347985347985" fill="var(--accent)" rx="1"><title>151-200: 19 numbers</title></rect>
+<rect x="163.36363636363637" y="97.1941391941392" width="25.09090909090909" height="14.805860805860807" fill="var(--accent)" rx="1"><title>201-250: 47 numbers</title></rect>
+<rect x="190.45454545454544" y="107.27472527472527" width="25.09090909090909" height="4.725274725274725" fill="var(--accent)" rx="1"><title>251-300: 15 numbers</title></rect>
+<rect x="217.54545454545453" y="105.06959706959707" width="25.09090909090909" height="6.930402930402931" fill="var(--accent)" rx="1"><title>301-350: 22 numbers</title></rect>
+<rect x="244.63636363636363" y="109.47985347985347" width="25.09090909090909" height="2.52014652014652" fill="var(--accent)" rx="1"><title>351-400: 8 numbers</title></rect>
+<rect x="271.72727272727275" y="106.01465201465201" width="25.09090909090909" height="5.985347985347985" fill="var(--accent)" rx="1"><title>401-450: 19 numbers</title></rect>
+<rect x="298.8181818181818" y="107.9047619047619" width="25.09090909090909" height="4.095238095238095" fill="var(--accent)" rx="1"><title>451-500: 13 numbers</title></rect>
+<rect x="325.9090909090909" y="109.47985347985347" width="25.09090909090909" height="2.52014652014652" fill="var(--accent)" rx="1"><title>501-550: 8 numbers</title></rect>
+<rect x="353.0" y="110.73992673992674" width="25.09090909090909" height="1.26007326007326" fill="var(--accent)" rx="1"><title>551-600: 4 numbers</title></rect>
+<rect x="380.09090909090907" y="108.53479853479854" width="25.09090909090909" height="3.4652014652014653" fill="var(--accent)" rx="1"><title>601-650: 11 numbers</title></rect>
+<rect x="407.1818181818182" y="110.10989010989012" width="25.09090909090909" height="1.89010989010989" fill="var(--accent)" rx="1"><title>651-700: 6 numbers</title></rect>
+<rect x="434.27272727272725" y="111.05494505494505" width="25.09090909090909" height="0.945054945054945" fill="var(--accent)" rx="1"><title>701-750: 3 numbers</title></rect>
+<rect x="461.3636363636364" y="111.05494505494505" width="25.09090909090909" height="0.945054945054945" fill="var(--accent)" rx="1"><title>751-800: 3 numbers</title></rect>
+<rect x="488.45454545454544" y="108.21978021978022" width="25.09090909090909" height="3.78021978021978" fill="var(--accent)" rx="1"><title>801-850: 12 numbers</title></rect>
+<rect x="515.5454545454545" y="109.16483516483517" width="25.09090909090909" height="2.8351648351648353" fill="var(--accent)" rx="1"><title>851-900: 9 numbers</title></rect>
+<rect x="542.6363636363636" y="110.10989010989012" width="25.09090909090909" height="1.89010989010989" fill="var(--accent)" rx="1"><title>901-950: 6 numbers</title></rect>
+<rect x="569.7272727272727" y="109.16483516483517" width="25.09090909090909" height="2.8351648351648353" fill="var(--accent)" rx="1"><title>951-1000: 9 numbers</title></rect>
+<rect x="596.8181818181818" y="112.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>1001-1050: 0 numbers</title></rect>
+<rect x="623.9090909090909" y="106.32967032967034" width="25.09090909090909" height="5.670329670329671" fill="var(--ink-2)" rx="1"><title>above 1050: 18 numbers</title></rect>
+<text x="48" y="36" text-anchor="end" fill="var(--ink-2)">273</text>
+<text x="48" y="112" text-anchor="end" fill="var(--ink-2)">0</text>
+<text x="54" y="140" fill="var(--ink)" font-family="var(--body)" font-size="13" font-weight="600">Cipher 2 (762 numbers, largest 1005)</text>
+<text x="714" y="140" text-anchor="end" fill="var(--ink-2)" font-family="var(--body)" font-size="12">53% at or below 100</text>
+<line x1="54" x2="681.0909090909091" y1="232" y2="232" stroke="var(--rule)"/>
+<rect x="55.0" y="146.0" width="25.09090909090909" height="86.0" fill="var(--accent)" rx="1"><title>1-50: 273 numbers</title></rect>
+<rect x="82.0909090909091" y="190.41758241758242" width="25.09090909090909" height="41.582417582417584" fill="var(--accent)" rx="1"><title>51-100: 132 numbers</title></rect>
+<rect x="109.18181818181819" y="188.52747252747253" width="25.09090909090909" height="43.472527472527474" fill="var(--accent)" rx="1"><title>101-150: 138 numbers</title></rect>
+<rect x="136.27272727272725" y="222.54945054945054" width="25.09090909090909" height="9.45054945054945" fill="var(--accent)" rx="1"><title>151-200: 30 numbers</title></rect>
+<rect x="163.36363636363637" y="218.45421245421247" width="25.09090909090909" height="13.545787545787546" fill="var(--accent)" rx="1"><title>201-250: 43 numbers</title></rect>
+<rect x="190.45454545454544" y="225.6996336996337" width="25.09090909090909" height="6.3003663003663" fill="var(--accent)" rx="1"><title>251-300: 20 numbers</title></rect>
+<rect x="217.54545454545453" y="225.6996336996337" width="25.09090909090909" height="6.3003663003663" fill="var(--accent)" rx="1"><title>301-350: 20 numbers</title></rect>
+<rect x="244.63636363636363" y="225.6996336996337" width="25.09090909090909" height="6.3003663003663" fill="var(--accent)" rx="1"><title>351-400: 20 numbers</title></rect>
+<rect x="271.72727272727275" y="229.4798534798535" width="25.09090909090909" height="2.52014652014652" fill="var(--accent)" rx="1"><title>401-450: 8 numbers</title></rect>
+<rect x="298.8181818181818" y="230.42490842490844" width="25.09090909090909" height="1.575091575091575" fill="var(--accent)" rx="1"><title>451-500: 5 numbers</title></rect>
+<rect x="325.9090909090909" y="225.3846153846154" width="25.09090909090909" height="6.615384615384615" fill="var(--accent)" rx="1"><title>501-550: 21 numbers</title></rect>
+<rect x="353.0" y="229.16483516483515" width="25.09090909090909" height="2.8351648351648353" fill="var(--accent)" rx="1"><title>551-600: 9 numbers</title></rect>
+<rect x="380.09090909090907" y="228.53479853479854" width="25.09090909090909" height="3.4652014652014653" fill="var(--accent)" rx="1"><title>601-650: 11 numbers</title></rect>
+<rect x="407.1818181818182" y="231.6849816849817" width="25.09090909090909" height="0.315018315018315" fill="var(--accent)" rx="1"><title>651-700: 1 numbers</title></rect>
+<rect x="434.27272727272725" y="232.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>701-750: 0 numbers</title></rect>
+<rect x="461.3636363636364" y="232.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>751-800: 0 numbers</title></rect>
+<rect x="488.45454545454544" y="223.4945054945055" width="25.09090909090909" height="8.505494505494505" fill="var(--accent)" rx="1"><title>801-850: 27 numbers</title></rect>
+<rect x="515.5454545454545" y="232.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>851-900: 0 numbers</title></rect>
+<rect x="542.6363636363636" y="232.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>901-950: 0 numbers</title></rect>
+<rect x="569.7272727272727" y="232.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>951-1000: 0 numbers</title></rect>
+<rect x="596.8181818181818" y="230.73992673992674" width="25.09090909090909" height="1.26007326007326" fill="var(--accent)" rx="1"><title>1001-1050: 4 numbers</title></rect>
+<rect x="623.9090909090909" y="232.0" width="25.09090909090909" height="0.0" fill="var(--ink-2)" rx="1"><title>above 1050: 0 numbers</title></rect>
+<text x="48" y="156" text-anchor="end" fill="var(--ink-2)">273</text>
+<text x="48" y="232" text-anchor="end" fill="var(--ink-2)">0</text>
+<text x="54" y="260" fill="var(--ink)" font-family="var(--body)" font-size="13" font-weight="600">Cipher 3 (618 numbers, largest 975)</text>
+<text x="714" y="260" text-anchor="end" fill="var(--ink-2)" font-family="var(--body)" font-size="12">54% at or below 100</text>
+<line x1="54" x2="681.0909090909091" y1="352" y2="352" stroke="var(--rule)"/>
+<rect x="55.0" y="301.5970695970696" width="25.09090909090909" height="50.4029304029304" fill="var(--accent)" rx="1"><title>1-50: 160 numbers</title></rect>
+<rect x="82.0909090909091" y="297.5018315018315" width="25.09090909090909" height="54.498168498168496" fill="var(--accent)" rx="1"><title>51-100: 173 numbers</title></rect>
+<rect x="109.18181818181819" y="323.3333333333333" width="25.09090909090909" height="28.666666666666668" fill="var(--accent)" rx="1"><title>101-150: 91 numbers</title></rect>
+<rect x="136.27272727272725" y="341.6043956043956" width="25.09090909090909" height="10.395604395604396" fill="var(--accent)" rx="1"><title>151-200: 33 numbers</title></rect>
+<rect x="163.36363636363637" y="333.72893772893775" width="25.09090909090909" height="18.27106227106227" fill="var(--accent)" rx="1"><title>201-250: 58 numbers</title></rect>
+<rect x="190.45454545454544" y="346.01465201465203" width="25.09090909090909" height="5.985347985347985" fill="var(--accent)" rx="1"><title>251-300: 19 numbers</title></rect>
+<rect x="217.54545454545453" y="340.97435897435895" width="25.09090909090909" height="11.025641025641026" fill="var(--accent)" rx="1"><title>301-350: 35 numbers</title></rect>
+<rect x="244.63636363636363" y="348.8498168498169" width="25.09090909090909" height="3.15018315018315" fill="var(--accent)" rx="1"><title>351-400: 10 numbers</title></rect>
+<rect x="271.72727272727275" y="349.79487179487177" width="25.09090909090909" height="2.2051282051282053" fill="var(--accent)" rx="1"><title>401-450: 7 numbers</title></rect>
+<rect x="298.8181818181818" y="351.05494505494505" width="25.09090909090909" height="0.945054945054945" fill="var(--accent)" rx="1"><title>451-500: 3 numbers</title></rect>
+<rect x="325.9090909090909" y="352.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>501-550: 0 numbers</title></rect>
+<rect x="353.0" y="352.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>551-600: 0 numbers</title></rect>
+<rect x="380.09090909090907" y="350.42490842490844" width="25.09090909090909" height="1.575091575091575" fill="var(--accent)" rx="1"><title>601-650: 5 numbers</title></rect>
+<rect x="407.1818181818182" y="351.05494505494505" width="25.09090909090909" height="0.945054945054945" fill="var(--accent)" rx="1"><title>651-700: 3 numbers</title></rect>
+<rect x="434.27272727272725" y="351.68498168498166" width="25.09090909090909" height="0.315018315018315" fill="var(--accent)" rx="1"><title>701-750: 1 numbers</title></rect>
+<rect x="461.3636363636364" y="352.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>751-800: 0 numbers</title></rect>
+<rect x="488.45454545454544" y="350.1098901098901" width="25.09090909090909" height="1.89010989010989" fill="var(--accent)" rx="1"><title>801-850: 6 numbers</title></rect>
+<rect x="515.5454545454545" y="350.7399267399267" width="25.09090909090909" height="1.26007326007326" fill="var(--accent)" rx="1"><title>851-900: 4 numbers</title></rect>
+<rect x="542.6363636363636" y="350.1098901098901" width="25.09090909090909" height="1.89010989010989" fill="var(--accent)" rx="1"><title>901-950: 6 numbers</title></rect>
+<rect x="569.7272727272727" y="350.7399267399267" width="25.09090909090909" height="1.26007326007326" fill="var(--accent)" rx="1"><title>951-1000: 4 numbers</title></rect>
+<rect x="596.8181818181818" y="352.0" width="25.09090909090909" height="0.0" fill="var(--accent)" rx="1"><title>1001-1050: 0 numbers</title></rect>
+<rect x="623.9090909090909" y="352.0" width="25.09090909090909" height="0.0" fill="var(--ink-2)" rx="1"><title>above 1050: 0 numbers</title></rect>
+<text x="48" y="276" text-anchor="end" fill="var(--ink-2)">273</text>
+<text x="48" y="352" text-anchor="end" fill="var(--ink-2)">0</text>
+<text x="54.0" y="366" text-anchor="middle" fill="var(--ink-2)">0</text>
+<text x="189.45454545454544" y="366" text-anchor="middle" fill="var(--ink-2)">250</text>
+<text x="324.9090909090909" y="366" text-anchor="middle" fill="var(--ink-2)">500</text>
+<text x="460.3636363636364" y="366" text-anchor="middle" fill="var(--ink-2)">750</text>
+<text x="595.8181818181818" y="366" text-anchor="middle" fill="var(--ink-2)">1000</text>
+<text x="636.4545454545454" y="366" text-anchor="middle" fill="var(--ink-2)">&gt;1050</text>
+<line x1="622.9090909090909" x2="622.9090909090909" y1="8" y2="360" stroke="var(--ink-2)" stroke-dasharray="2 3"/>
+</svg>
+    <figcaption><b>Figure 2.</b> The numbers in the three ciphers, counted in ranges of fifty. Each bar counts how many of a cipher's numbers fall in one range of fifty (1 to 50, 51 to 100, and so on). The ranges stop at 1,050, the first multiple of fifty above 1005, the largest number in cipher 2; the dashed line marks that point, and the single grey bar to its right holds every number above it. Cipher 1 has eighteen numbers above 1,050, ten of them beyond the Declaration's 1,322 words and the largest of them 2,906; ciphers 2 and 3 have none. Cipher 1 and cipher 3 share cipher 2's preference for small numbers but reuse them far less. Made for this report from the three ciphers as the pamphlet prints them.</figcaption>
+  </figure>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Statistic</th><th class="n">Cipher 1</th><th class="n">Cipher 2</th><th class="n">Cipher 3</th></tr></thead>
+    <tbody>
+      <tr><td>Numbers</td><td class="n">520</td><td class="n">762</td><td class="n">618</td></tr>
+      <tr><td>Distinct values</td><td class="n">298</td><td class="n">181</td><td class="n">263</td></tr>
+      <tr><td>Median, largest</td><td class="n">123, 2906</td><td class="n">85, 1005</td><td class="n">94, 975</td></tr>
+      <tr><td>Share of values used once</td><td class="n">59 %</td><td class="n">24 %</td><td class="n">47 %</td></tr>
+      <tr><td>Decoded with the Declaration: distance of the letter frequencies from English (KL divergence; 0.27 ± 0.03 for numbers unrelated to the key)</td><td class="n">0.25 (p = 0.27)</td><td class="n">0.04 (p &lt; 0.0003)</td><td class="n">0.25 (p = 0.20)</td></tr>
+      <tr><td>Correlation between each number and the next (lag-one rank autocorrelation; p from shuffling)</td><td class="n">0.20 (&lt; 10⁻⁴)</td><td class="n">0.21 (&lt; 10⁻⁴)</td><td class="n">0.49 (&lt; 10⁻⁴)</td></tr>
+      <tr><td>Strictly rising runs of six or more numbers (expected)</td><td class="n">3 (0.7)</td><td class="n">2 (0.8)</td><td class="n">17 (0.7)</td></tr>
+      <tr><td>Second half minus first half, mean (p)</td><td class="n">+34 (0.29)</td><td class="n">+13 (0.35)</td><td class="n">+81 (&lt; 10⁻⁴)</td></tr>
+      <tr><td>Distinct values expected if made with cipher 2's habits (any key)</td><td class="n">164 ± 6</td><td class="n">—</td><td class="n">179 ± 7</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p><b>Neither cipher decodes with the Declaration.</b> Decoded with the key, the letter frequencies of ciphers 1 and 3 are what the Declaration's initials give for numbers unrelated to the key; cipher 2 decoded the same way has English letter frequencies (p &lt; 0.0003 in the table). Cipher 1 also has ten numbers larger than the key.</p>
+  <p><b>Reuse cannot separate "another key" from "invented".</b> Made with cipher 2's habits and any key, cipher 1 would have about 164 distinct numbers and cipher 3 about 179; they have 298 and 263. A homophonic encoder with a lighter reuse habit reproduces both frequency profiles, so the digit and reuse statistics on their own do not show that they are invented. Earlier claims that the unsolved ciphers are "non-random and therefore real" (Hammer, 1970s) or that the distribution of their digits shows invention (Viktor Wase in 2020 and Leonardo Campanelli in 2022, both analysing the digits statistically) both fail against cipher 2, which is non-random in the same directions, and whose token-level digit anomalies are largely an artefact of homophone reuse.</p>
+  <p><b>Cipher 3's numbers are ordered in a way that enciphering does not produce.</b> Its numbers are strongly correlated from one to the next (rank autocorrelation 0.49, and still significant six steps apart), it contains seventeen strictly rising runs of six or more numbers where 0.7 are expected, its second half runs 81 higher on average than its first, and a standard test of whether a sequence rises and falls the way random numbers do (the runs-up-and-down test) gives z = −7.6, far outside chance. Cipher 2's encoder shows none of this beyond the mild lag-one effect, and no strength of the "scan forward through the key" habit fits both cipher 3's autocorrelation and its rising runs. Drift and rising runs are what one expects from a hand writing numbers meant to look like a cipher, and enciphering a list letter by letter does not produce them.</p>
+  <p><b>Cipher 3 is too short for the list it is said to contain.</b> The letter of 5 January 1822 says paper 3 names "all my associates" and, opposite each, "the names and residences of the relatives and others" who inherit; the party numbered "not less than thirty". With real Virginia name lengths (1810 and 1850 census transcriptions: first names 6.1 letters, surnames 6.4) and the 78 Virginia counties and cities of 1822 (8.5 letters), the barest list, each man's name, one heir's first name and a county, needs 792 ± 19 letters. In 20,000 random draws it never fitted in 618. Only a list stripped to surnames and county names (631 ± 17 letters) comes within reach, and fits one time in four. Cipher 2, by contrast, spells everything out in full, including the phrase "in the county of bedford".</p>
+</section>
+
+<section id="language">
+  <h2>4. The language of "Beale"</h2>
+  <p>The pamphlet prints three letters signed T. J. B., dated Lynchburg, 4 and 5 January 1822, and St. Louis, 9 May 1822 (2,716 words together), and 3,954 words of the narrator's own account. Joe Nickell argued in 1982, with a tabulation by the linguist Jean Pival, that the two were written by one hand, and that "stampede" and "improvise" were words no one used in 1822. Both claims were tested here against a comparison set (the controls, from here on) of 27 American authors and 115 samples of their writing: letters and journals of 1805 to 1846 (Thomas Jefferson, John Randolph of Roanoke, Andrew Jackson, John Quincy Adams, the explorer Zebulon Pike, Edwin James of the 1820 Long expedition, the frontier writer Timothy Flint, the Santa Fe trader Josiah Gregg, Washington Irving and others), Virginian and Southern prose of 1858 to 1904 (the Virginia essayist George Bagby, the novelists John Esten Cooke, Thomas Nelson Page, George Washington Cable and George Cary Eggleston, Mark Twain, Robert E. Lee's letters, and three Lynchburg local historians), and Edgar Allan Poe, whom some have proposed as the author because of "The Gold-Bug", his 1843 story of a cipher and buried treasure.</p>
+  <p>Each measure in the table scores how alike two texts are in their use of common words or letter groups; "Delta" is the family of measures that authorship studies use, introduced by John Burrows in 2002, and function words are the grammatical words such as "the", "of" and "until". The first column of figures says how often the measure picks the right author when tested on the controls. The last is the likelihood ratio: how many times more likely the observed closeness is if the two texts share an author than if they do not.</p>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Measure</th><th class="n">Attribution accuracy on controls</th><th class="n">Different-author pairs as close as letters vs narrative</th><th class="n">Same-author pairs as close</th><th class="n">Likelihood ratio, same : different</th></tr></thead>
+    <tbody>
+      <tr><td>Cosine Delta, 300 most frequent words, pronouns removed, full texts</td><td class="n">60 %</td><td class="n">0.0 %</td><td class="n">5 %</td><td class="n">645</td></tr>
+      <tr><td>Same, both texts cut to 2,000 words</td><td class="n">60 %</td><td class="n">0.5 %</td><td class="n">22 %</td><td class="n">25</td></tr>
+      <tr><td>Cosine Delta, 150 function words only, 2,000 words</td><td class="n">61 %</td><td class="n">2.1 %</td><td class="n">38 %</td><td class="n">6.6</td></tr>
+      <tr><td>Character 4-grams, 2,000 words</td><td class="n">65 %</td><td class="n">0.2 %</td><td class="n">18 %</td><td class="n">25</td></tr>
+      <tr><td>Burrows Delta, 300 most frequent words, 2,000 words</td><td class="n">69 %</td><td class="n">4.9 %</td><td class="n">43 %</td><td class="n">2.7</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>On the cosine Delta and character 4-gram measures, the letters and the narrative are closer than 99 to 100 percent of the 6,352 pairs of samples by different authors; on the function-word measure they are closer than 98 percent, and on Burrows Delta at 2,000 words, the measure with the best control accuracy, closer than 95 percent. On all of them they are as close as ordinary pairs by the same author. The narrative is the nearest "author" to the letters by a wide margin (a distance of 0.69 against 0.90 for the runner-up, Jefferson), and the letters are the nearest text to the narrative. Nine pairs of different authors writing on the same subject, such as Gregg and Thomas James, both on the Santa Fe trade, or the three Lynchburg historians, all come out farther apart on average (0.85 to 0.99 against 0.70), though one individual pair of samples, from the Lynchburg historians Christian (1900) and Pollock (1887), comes closer (0.63). With even prior odds (a 50:50 view before the texts are compared) the length-matched results give a probability of common authorship between 0.73 (Burrows Delta) and 0.96 (cosine Delta without pronouns, character 4-grams); the full-length results give more. The prior odds are a judgement.</p>
+  <p>Pival's observation about "misuse of reflexive pronouns" turns out to be the most specific evidence. Reflexive pronouns with nothing in the sentence to refer back to ("like myself", "not so reliable as yourself", "for myself and family", "as sanguine as himself", "more fortunate than myself") occur 3.7 and 2.3 times per thousand words in the letters and the narrative; the control mean is 0.4, and one of 115 control samples reaches the lower of the two rates. The construction "not to be delivered", "never to be realized", "not to be resisted" runs at 0.4 to 0.5 per thousand in both against 0.03 in the controls. By contrast the punctuation and syntax rates that summaries of Nickell's article emphasise (semicolons, relative clauses, infinitives, sentence length) barely discriminate authors at all, and the two texts differ on semicolons (1.5 against 7.1 per thousand words).</p>
+  <p>Two controls inside the pamphlet behave as expected. Robert Morriss's quoted statement, which the author admits he "reduced to writing", is as close to the narrative as the narrative's two halves are to each other. Poe is excluded: "The Gold-Bug" and his letters sit at ordinary different-author distances from both Beale texts, as the writer William Poundstone found in 1993, when he had a stylometric comparison made for his book <i>Biggest Secrets</i>.</p>
+  <p class="note">The narrator says he "read over and over again the letters ... endeavoring to impress each syllable they contained on my memory". A hoaxer imitating letters he had memorised cannot be excluded by stylometry alone. But the shared traits are the involuntary kind (rates of "until", "myself", "such", "may", "each", the reflexives, the negative infinitives), which one writer carries from text to text and an imitator is unlikely to reproduce.</p>
+  <h3>Which words belong to 1885</h3>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>In the letters</th><th>Earliest use that could be verified</th><th>Verdict</th></tr></thead>
+    <tbody>
+      <tr><td>"securing many and <b>stampeding</b> the rest"</td><td>"the Cavellada Stampeded" in a Texas deposition of about October 1823 concerning events of August 1822 (printed in <i>The Austin Papers</i>, the collected papers of the Texas colonist Stephen F. Austin, in the American Historical Association's Annual Report for 1919, vol. II, p. 699; verified in four scanned copies). "Stompado", marked as Spanish, in Timothy Flint's novel of 1826; a soldier's piece titled "A Stampedo" in the <i>Military and Naval Magazine</i> of December 1834 still explains the word as "a North American attempt to adopt a Spanish word into our language"; Gregg italicises "stampeded" in 1844. In newspapers "stampede" first appears in 1836 and "stampeded" and "stampeding" in 1842. Wikipedia's "1834" citation is a book of 1884 to 1887, misdated.</td><td>This is not a hard anachronism. A man back from Santa Fe could have carried "estampida" home in 1822, twenty months before the earliest surviving English use; but the word is at the extreme early edge of its history, and Nickell's dates (1844; "stampeding" not before 1883) were too late.</td></tr>
+      <tr><td>"such tools and appliances as they had <b>improvised</b>"</td><td>The verb is recorded from 1788 (by the Merriam-Webster dictionary) and 1808 (by Etymonline, an online etymological dictionary), in the sense of composing or performing extempore; the concrete sense "contrive from what is at hand" is later and could not be dated without the Oxford English Dictionary.</td><td>The case is suggestive but unproven.</td></tr>
+      <tr><td>"encounter the savage <b>grizzlies</b>"</td><td>"Grizzly bear" from 1806 (Lewis and Clark); the clipped plural noun is at noise level in the Google Books record of printed usage until the 1850s (its frequency before 1822 is 2.6 percent of its 1850 to 1900 level).</td><td>This is a probable anachronism, a mid-century Western colloquialism.</td></tr>
+      <tr><td>"our <b>objective point</b> being Santa Fé"</td><td>Military term from the French "point objectif"; Etymonline dates it 1852. No verified newspaper use exists before 1847; the earliest are Mexican-War strategy commentary in the <i>Richmond Daily Whig</i> of 5 January 1847 and Washington and Virginia papers the same month. Pre-1822 Google Books frequency is 2.9 percent of its later level, with the take-off in the Civil War years.</td><td>A strong candidate that Nickell did not consider. The phrase belongs to military writing of the Mexican War and Civil War years.</td></tr>
+      <tr><td>"<b>reliable</b>" (twice)</td><td>Etymonline: "not common before 1850, and often execrated thereafter in Britain as an Americanism".</td><td>The evidence is weak to moderate.</td></tr>
+      <tr><td>"everything", "in the meantime", "pretense", "honor", "favorably"</td><td>Before 1822 American books print "every thing" six to one, "in the mean time" eight to one, "pretence" twenty-one to one; the letters use the later form every time.</td><td>These are weak on their own, since an 1885 typesetter could have modernised them.</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>Put on a common footing: 0.85 percent of the distinct content words in the letters are "late" (their frequency in Google Books before 1822 is below a tenth of their 1850 to 1900 frequency), against a mean of 0.19 percent (standard deviation 0.16, maximum 0.47) in twelve same-length samples of genuine American writing of 1805 to 1843. That is 4.1 standard deviations above the genuine texts; none reaches the letters' figure. The letters also carry deliberate period colour ("&amp;c.", "enquiring", "such an one", "punctillio", "exhilerating", "the States"), and by function-word style alone they classify as 1820s letters, nearer to Jefferson and Randolph than to Twain or Lee. A writer of 1885 could imitate the manner of 1822, but the letters contain words that were not in use in 1822, and that is the evidence for the later date.</p>
+</section>
+
+<section id="record">
+  <h2>5. The historical record</h2>
+  <p>The pamphlet makes few claims that can be checked against records, and those that can be checked are contradicted by the records. The sources read for this section were the surviving Lynchburg newspapers of the 1820s, page by page in the Library of Congress's digitised newspaper collection, the two nineteenth-century histories of Lynchburg, the standard histories of the Santa Fe trade, and the Beale files that the National Security Agency released under the Freedom of Information Act (the agency had collected material on the ciphers over the years), including a 1972 archival search made on behalf of the believers.</p>
+  <h3>Robert Morriss and the Washington Hotel</h3>
+  <p>Morriss's statement in the pamphlet begins: "It was in the month of January, 1820, while keeping the Washington Hotel, that I first saw and became acquainted with Beale", and has Beale return to the same house in January 1822. Morriss's own newspaper advertisements give different dates. In a notice dated 20 September 1823 and printed in <i>The Virginian</i>, a Lynchburg newspaper, on 30 September, he announces that he "has rented the house known by the above name", the Washington, on Third Street "lately occupied by" a Mr. Moorman, and "will be prepared by the first of October, to accommodate boarders, and transient customers". A notice dated 30 December 1825 and printed from March 1826 says he "has removed from the Washington, which he has occupied for more than two years past, to the Franklin Hotel". Margaret Cabell's <i>Sketches and Recollections of Lynchburg</i>, a local history of 1858, agrees: "In the year 1824, Mr. Morriss took possession of the Washington House", and in 1820 he was still "a man of wealth" living in his own large dwelling. Morriss kept the Washington for twenty-seven months, from October 1823 to December 1825, and not in 1820 or 1822. Nickell reported the contradiction in 1982; Wikipedia, citing Poundstone's <i>Biggest Secrets</i> (1993), gives his finding as "not until at least 1823", and the notices fix the dates exactly.</p>
+  <p>One detail qualifies this. By September 1823 Morriss was already taking lodgers in his own house ("at the tavern-house of Robert Morriss"), after the business reverse that Cabell dates loosely to about 1820. A guest could have stayed "at Mr. Morriss's" before October 1823. The pamphlet's error is specific to the Washington Hotel and to the years 1820 to 1822, for which no boarding-house activity is recorded either. The rest of the Morriss portrait (wealth, reverse, hospitality, death in January 1863 in his eighty-sixth year) is accurate in outline and could have been written by anyone who knew Lynchburg. The pamphlet's date for his wife's death (1861) conflicts with Wikipedia, which gives 1863 and cites an obituary of 21 May 1865; the obituary itself could not be reached.</p>
+  <h3>Thomas J. Beale</h3>
+  <p>No contemporary record of a Thomas J. Beale has been produced in anything that could be read. The 1810 and 1820 censuses name only heads of household, so absence there proves little. The one documentary "Thomas Beall" that believers cite, a letter waiting at a Missouri post office in April 1820, is from Franklin rather than St. Louis, and is a common surname three hundred miles from Lynchburg. Charles Nelson, a researcher working for the Beale Cypher Study Committee in 1972, read the Richmond <i>Enquirer</i> for 1817 and 1820, the Missouri and Illinois papers, and rolls 18 to 22 of the microfilmed Spanish Archives of New Mexico (the records of the Spanish government there, 1815 to 1821), and reported "no Beale party references". There was a real Thomas Beale of Botetourt County, west of Lynchburg, who fought a duel around 1806, fled to New Orleans and died there; a Lynchburg author of 1885 could have known the name.</p>
+  <h3>Thirty Virginians in Santa Fe, 1817 to 1818</h3>
+  <p>The letter of 4 January 1822 has about thirty armed Americans reach Santa Fe in December 1817, winter there, buy "everything necessary" for two years of mining, hire Indian labour, and twice carry gold and silver east. The Spanish authorities in New Mexico did not treat American arrivals that way. Robert McKnight's trading party of 1812 was seized on arrival and held at Chihuahua for nine years; the trappers of the fur traders Auguste Chouteau and Jules de Mun were arrested on 24 May 1817, six months before Beale's party is supposed to have arrived, imprisoned for forty-eight days and stripped of their goods; David Meriwether, a young trader from Kentucky, was taken prisoner and confined at Santa Fe in 1819. The summary of the period by Hiram Chittenden, the historian of the fur trade, is "total failure on the part of American traders to gain any foothold" before Mexican independence in 1821, and the Spanish records of these years contain travel regulations for visitors and instructions on passports. Wheeled vehicles first crossed the plains route in 1822. The cargo, 2,921 pounds of gold and 5,100 pounds of silver, would have needed twenty to thirty pack mules a trip, across the same frontier on which Meriwether was arrested. The story is not impossible, but it contradicts every documented case, and the archives that have been searched contain no trace of it.</p>
+  <h3>James B. Ward and the pamphlet</h3>
+  <p>The title page and the copyright line are the only primary evidence of Ward: "Entered according to act of Congress, in the year 1885, by J. B. Ward". The pamphlet says its author is a friend of Morriss who received the papers in 1862 and hands them to Ward as "agent". No statement by Ward on authorship survives in anything that could be read. The nearest is a 1964 memoir by George Hart, one of two Roanoke brothers who searched for the treasure from the 1890s, released by the National Security Agency: about 1903 Ward "confirmed all that is contained in the pamphlet" to Hart's brother Clayton, his son "added his own confirmation", and Hart himself wondered "if Ward might have written his manuscript based upon some figures he found, or made up". The story that most copies burned in a printing-house fire rests on Ward's word to the Harts alone. A full-text search of the Library of Congress newspaper collection, which lacks the Lynchburg papers of those years, found no mention of the pamphlet between 1885 and 1892; the earliest press retelling found is the <i>Roanoke Times</i> of 20 January 1893, by which time "the inhabitants of Bedford county have hunted for this treasure but so far in vain". A genealogical claim on a treasure-hunting forum makes Ward's mother a Risqué, of the family that duelled with the Botetourt Thomas Beale; it is unverified and carries no weight here, but it is the kind of lead a records search could settle.</p>
+  <p class="small">The following could not be consulted: Nickell's 1982 article (on JSTOR, the journal archive), Poundstone's chapter (known through Wikipedia's summary and the Internet Archive's full-text index), the Lynchburg papers of 1819 to 1821, 1862 to 1865 and 1885 to 1892 (the Library of Congress collection holds Lynchburg papers only from 1822 to the 1850s), the 1885 copyright record book, the census indexes on Ancestry, and the publisher's texts (Taylor and Francis) of the <i>Cryptologia</i> papers by Hammer, Kruh, King, Chan (2008), Mateer, Wase ("Benford's law in the Beale ciphers", 2021; his 2020 conference paper was read) and Campanelli. Everything relied on is captured under <code>sources/records/</code> with a manifest.</p>
+</section>
+
+<section id="counter">
+  <h2>6. The strongest case for the other side</h2>
+  <p><b>"Hammer's computers showed the ciphers are not random, so they encode something."</b> This is true but does not decide the question. Ciphers 1 and 3 are not independent random numbers, but neither is the genuine cipher 2, and it departs from randomness in the same directions. Cipher 3's non-randomness is of a kind (drift, rising runs) that enciphering text does not produce.</p>
+  <p><b>"Cipher 1 has a second layer, or a different key that happens to produce the alphabet."</b> King (1993) left this possibility open, and statistics cannot exclude it. Three things can be said. Cipher 2 has no second layer; the pamphlet says all three papers work the same way; and the alphabetical runs exist specifically in the miscounted numbering of the Declaration and use the front of its homophone lists, so whoever wrote them was working from the Declaration numbered as for cipher 2. A different key would have to reproduce three alphabetical runs by coincidence; a hidden layer would have to be one that no one has found in the 140 years since the pamphlet appeared.</p>
+  <p><b>"The author solved cipher 2 himself and reconstructed the encoder's slips."</b> This is possible in principle. It requires him to have printed the reconstructed slips silently as a plain count, typeset a Declaration his numbers do not fit, and stopped numbering at the last number his cipher needed. It explains neither the alphabet in cipher 1 nor the authorship of the letters.</p>
+  <p><b>"Stampede is no anachronism, so the linguistic case collapses."</b> On that word the objection is right: "stampede" was Nickell's strongest example, and it is not relied on here. The linguistic case now rests on the calibrated density of late vocabulary and on "objective point" and "grizzlies". It is the weakest of the lines, which is why the verdict does not depend on it.</p>
+  <p><b>"Stylometry on 2,700 words is unreliable."</b> The calibration against 27 known authors answers this. On these texts and this corpus, different authors come out this close between one time in twenty (Burrows Delta) and fewer than one in five hundred (cosine Delta without pronouns), depending on the measure. The likelihood ratio for the length-matched pair is 3 to 25, a modest figure; the reflexive-pronoun habit is the most specific trait, and one control sample in 115 reaches the letters' lower rate.</p>
+  <p><b>"Absence from the record proves nothing about 1822."</b> This is right for Beale himself, whose absence from a census that names only heads of household proves little. The Morriss date, however, is a contradiction rather than an absence: the pamphlet's one checkable date for the Beale visits is wrong by more than three years, and the error cannot be Morriss's own, since he kept the Washington for only twenty-seven months and never in 1820 to 1822.</p>
+  <p><b>"A hoaxer would not have gone to this much trouble."</b> The labour was small: numbering a Declaration, enciphering one real message of 762 numbers, and writing 1,138 further numbers that needed only to resemble a cipher. The pamphlet sold for fifty cents. The alphabet in cipher 1 is consistent with a writer who shortened that labour by taking successive letters from the front of the numbered key.</p>
+</section>
+
+<section id="overturn">
+  <h2>7. What would overturn the verdict</h2>
+  <p>Four kinds of document would. The first is any document earlier than 1885, independent of the pamphlet's author, that mentions the ciphers, the letters or Beale's box: a Morriss paper, a will, a Lynchburg newspaper item of 1845 or 1862. The second is a reading of cipher 1 or cipher 3 as English, with any key, that survives the tests in section 3 and explains the three alphabetical runs as a property of the real key rather than of the Declaration. The third is a record placing Robert Morriss at the Washington Hotel in January 1820, and a Thomas J. Beale in Lynchburg in 1820 to 1822 or in Santa Fe in 1817 to 1821. The fourth is a manuscript worksheet showing that the pamphlet's numbering was reconstructed by a solver rather than copied from the encoder, together with an account of how the printed "translation" acquired its <em>x</em>, <em>y</em> and <em>u</em>.</p>
+  <p>Each of these would move one line of evidence. The verdict on the ciphers rests on two lines (sections 1 and 2, the second visible even with a standard text), and the verdict on the letters on two more (sections 4 and 5), so a single new document would lower the confidence without reversing the conclusion.</p>
+</section>
+
+<section id="new">
+  <h2>8. What was already in print, and what is added</h2>
+  <p>The cryptanalytic core of this case was worked out between 1979 and 1993, in <i>Cryptologia</i> and in the Beale Cypher Association's publications, and the popular accounts (Wikipedia, Poundstone's <i>Biggest Secrets</i>) barely mention it, so a reader who knows only those accounts may take it for new work. The left column gives the safe attribution. The right column lists what is added, as far as the sources that could be reached show; King's paper was read only in fragments, and Matyas, Holst and Hill not at all.</p>
+  <div class="cols">
+    <div>
+      <h3>Already in print</h3>
+      <ul>
+        <li><b>Gillogly (1980):</b> the alphabetical passage in cipher 1, its improbability, the hoax inference, and the caution that it is strong evidence rather than proof.</li>
+        <li><b>Matyas (1979), Hammer (1979), Holst (1987), King (1993):</b> the renumbering of the Declaration that decodes cipher 2, with its undeterminable positions, and the encoder's errors; King, and Hill (1989) independently: the three longer strings in cipher 1 under the reconstructed key; Holst reported no decryption of cipher 1. King also noted that the 1885 pamphlet's versions of the ciphers differ from later ones.</li>
+        <li><b>Love, Mateer (2013):</b> cipher 2 works only with the pamphlet's counts; the encoding process points to a hoax.</li>
+        <li><b>Crossen (1927), Kruh (1982):</b> 618 signs cannot hold thirty names with heirs and residences.</li>
+        <li><b>Nickell and Pival (1982), Kruh (1988), Poundstone (1993):</b> common authorship of letters and narrative; Poe excluded; Morriss not at the Washington Hotel before 1823.</li>
+        <li><b>Wase (2020), Campanelli (2022):</b> digit anomalies in ciphers 1 and 3.</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Added here</h3>
+      <p class="small">The first four items are new analysis of evidence already in print; the fifth brings in documents that the accounts that could be read do not use; the sixth corrects transcriptions.</p>
+      <ul>
+        <li>The encoder's offsets fitted from the cipher alone and matched to the five printed anomalies; the "meantime / inalienable" typesetting argument; the numbering that stops at 816.</li>
+        <li>Exact Markov-chain probabilities with the real letter frequencies, permutation tests on cipher 1's own numbers, a count-of-runs test, and the homophone-rank test (which of the available words the writer chose).</li>
+        <li>A fitted model of the cipher-2 encoder, used to show that ciphers 1 and 3 were not made with his habits and that cipher 3's serial structure fits no letter-by-letter encoder; the capacity bound with real Virginia names.</li>
+        <li>Calibrated stylometry with 27 authors and 115 samples, likelihood ratios in place of impressions; the reflexive-pronoun habit quantified; corrected dates for "stampede" and "improvise"; "objective point" and "grizzlies" as anachronism candidates; the calibrated late-vocabulary density.</li>
+        <li>Morriss's own notices in <i>The Virginian</i> fixing his tenure of the Washington Hotel to October 1823 through December 1825 (Wikipedia, citing Poundstone's <i>Biggest Secrets</i>, had only "not until at least 1823"); the Santa Fe story set against the documented arrests of 1812 to 1819 and against Charles Nelson's negative 1972 search of the Spanish Archives of New Mexico, released by the National Security Agency; the earliest press retelling located, the <i>Roanoke Times</i> of 20 January 1893; corrections to the Wikipedia account (the 1820 "Thomas Beall" letter list is from Franklin, Missouri, rather than St. Louis).</li>
+        <li>Transcription notes: cipher 2 as printed has 762 numbers rather than 763; Gillogly's "495 numbers" for cipher 1 should be 520; the message says "iron pots" rather than "clay pots".</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="sources">
+  <h2>9. Sources and reproducibility</h2>
+  <h3>Primary sources</h3>
+  <ul class="plain src">
+    <li><i>The Beale Papers, containing authentic statements regarding the treasure buried in 1819 and 1821 near Bufords, in Bedford County, Virginia</i> (Lynchburg: Virginian Book and Job Print, 1885; copyright J. B. Ward). Library of Congress copy, transcribed and validated on Wikisource: <a href="https://en.wikisource.org/wiki/The_Beale_Papers">en.wikisource.org/wiki/The_Beale_Papers</a>; the Declaration and ciphers are on <a href="https://en.wikisource.org/wiki/Page:Beale_Papers.djvu/17">pages 17</a> to <a href="https://en.wikisource.org/wiki/Page:Beale_Papers.djvu/22">22</a>; scan on <a href="https://commons.wikimedia.org/wiki/File:Beale_Papers.djvu">Wikimedia Commons</a>. The transcription of the ciphers used here agrees number for number with the independent unmuseum.org transcription (ciphers 1 and 3) and with E. E. Remington's copy via George Love (cipher 2, except one typo Love himself flags); five readings differ from Gillogly's 1980 table and the scan supports this transcription at all five.</li>
+    <li>Declaration of Independence, National Archives transcription: <a href="https://www.archives.gov/founding-docs/declaration-transcript">archives.gov/founding-docs/declaration-transcript</a> (used only for comparison; the key is the pamphlet's own text).</li>
+    <li>"Deposition concerning loss of horses", in <i>The Austin Papers</i>, ed. E. C. Barker, Annual Report of the American Historical Association for 1919, vol. II, part 1 (Washington, 1924), p. 699: <a href="https://archive.org/details/sim_american-historical-association-annual-report_1919_2">archive.org</a> ("the Cavellada Stampeded").</li>
+    <li>Timothy Flint, <i>Francis Berrian</i> (1826), the "stompado" passage as reprinted in the <i>Oxford Observer</i>, 2 November 1826 (<a href="https://archive.org/details/SERIAL_8.1826.11.02">archive.org</a>) and the <i>Saturday Evening Post</i>, 25 November 1826.</li>
+    <li>USGenWeb census transcriptions used for name lengths: Amherst County, Virginia, 1810 (<a href="https://www.us-census.org/pub/usgenweb/census/va/amherst/1810/index.txt">us-census.org</a>); Bedford and Botetourt Counties, 1850.</li>
+    <li><i>The Virginian</i> (Lynchburg), 30 September 1823, p. 4 (Morriss's notice, dated 20 September, that he has rented the Washington: <a href="https://www.loc.gov/resource/sn85027015/1823-09-30/ed-1/?sp=4">loc.gov</a>); 10 October to 9 December 1823, p. 4 (revised notice); 23 June 1825, p. 4 ("Washington Hotel ... Rob. Morriss"); 23 March to 27 April 1826, p. 4 (removal to the Franklin Hotel: <a href="https://www.loc.gov/resource/sn85027015/1826-03-23/ed-1/?sp=4">loc.gov</a>). <i>Lynchburg Virginian</i>, 5 October 1829, p. 4 (the Washington kept by Jas. C. Moorman). Page OCR captured under <code>sources/records/chronicling_america/ocr/</code>.</li>
+    <li><i>The Roanoke Times</i>, 20 January 1893, p. 1, "Where is this gold and silver": <a href="https://www.loc.gov/resource/sn86071868/1893-01-20/ed-1/?sp=1">loc.gov</a>.</li>
+    <li>Charles Nelson, Jr., report to the Beale Cypher Study Committee, 15 April 1972, and George L. Hart, Sr., "The Beale Papers" (1964), both released by the National Security Agency under the Freedom of Information Act: <a href="https://media.defense.gov/2021/Jul/15/2002763571/-1/-1/0/DOC656726.PDF">DOCID 656726</a>, <a href="https://documents.theblackvault.com/documents/nsa/bealepapers/doc656779.pdf">DOCID 656779</a>. William F. Friedman, letters of 1949, NSA REF ID A69983.</li>
+  </ul>
+  <h3>Scholarship</h3>
+  <ul class="plain src">
+    <li>Carl Hammer, "Signature simulation and certain cryptographic codes", <i>Communications of the ACM</i> 14 (1971) 3–14, <a href="https://doi.org/10.1145/362452.362461">doi:10.1145/362452.362461</a>; "How did TJB encode B2?", <i>Cryptologia</i> 3 (1979) 9–15, <a href="https://doi.org/10.1080/0161-117991853747">doi:10.1080/0161-117991853747</a>. Neither full text was accessible; cited through Gillogly and later authors.</li>
+    <li>James J. Gillogly, "The Beale Cipher: A Dissenting Opinion", <i>Cryptologia</i> 4 (1980) 116–119, <a href="https://doi.org/10.1080/0161-118091854979">doi:10.1080/0161-118091854979</a>; text used: <a href="https://web.archive.org/web/20060126085231/http://members.fortunecity.com/jpeschel/gillog3.htm">Peschel's 2000 HTML copy</a> (Wayback Machine).</li>
+    <li>Joe Nickell, "Discovered: The Secret of Beale's Treasure", <i>Virginia Magazine of History and Biography</i> 90 (July 1982) 310–324, <a href="https://www.jstor.org/stable/4248566">JSTOR 4248566</a> (paywalled; used through the quotations and summaries cited in the notes, including Nickell's own later summary at the <a href="https://centerforinquiry.org/blog/is-the-beale-treasure-haunted/">Center for Inquiry</a>).</li>
+    <li>Louis Kruh, "A Basic Probe of the Beale Cipher as a Bamboozlement", <i>Cryptologia</i> 6 (1982) 378–382; "The Beale Cipher as a Bamboozlement, Part II", <i>Cryptologia</i> 12 (1988) 241–246, <a href="https://doi.org/10.1080/0161-118891863007">doi:10.1080/0161-118891863007</a>.</li>
+    <li>John C. King, "A Reconstruction of the Key to Beale Cipher Number Two", <i>Cryptologia</i> 17:3 (July 1993) 305–317, <a href="https://doi.org/10.1080/0161-119391867971">doi:10.1080/0161-119391867971</a>. The publisher's copy is paywalled; the issue is held by the Internet Archive as an access-restricted item (<a href="https://archive.org/details/sim_cryptologia_1993-07_17_3">sim_cryptologia_1993-07_17_3</a>), and the paper was read in the fragments its full-text search returns: the abstract, King's Table 1 (word renumberings), Table 4 (the seven errors), Table 5 (the strings at positions 44, 84, 113 and 188 under the reconstructed key), the three explanations, and the references. Not read in full; the search responses are saved under <code>sources/papers/king_1993_fragments/</code>.</li>
+    <li>As cited by King: S. Matyas, "How the Message in Paper No. 2 Was [Encoded]" (1979); P. Holst, "Seven Simple Changes in the DOI Give [a Clean Decryption]", <i>BCA Newsletter</i> (1987); J. A. Hill, "The Beale Ciphers", unpublished (1989). Not accessible; titles as they appear in King's reference list.</li>
+    <li>Todd D. Mateer, "Cryptanalysis of Beale Cipher Number Two", <i>Cryptologia</i> 37 (2013) 215–232, <a href="https://doi.org/10.1080/01611194.2013.798517">doi:10.1080/01611194.2013.798517</a> (abstract).</li>
+    <li>Viktor Wase, "The Role of Base 10 in the Beale Papers", <i>Proceedings of HistoCrypt 2020</i>, <a href="https://ep.liu.se/ecp/171/019/ecp2020_171_019.pdf">ep.liu.se</a>; Leonardo Campanelli, "A statistical cryptanalysis of the Beale ciphers", <i>Cryptologia</i> 47 (published online 2022; volume dated 2023), <a href="https://doi.org/10.1080/01611194.2022.2116614">doi:10.1080/01611194.2022.2116614</a>.</li>
+    <li>George Love, "The Beale Ciphers" (2000s), <a href="https://web.archive.org/web/20060420134206/http://www.myoutbox.net/blove.htm">Wayback Machine</a>; William Poundstone, <i>Biggest Secrets</i> (1993), "The Beale Cipher", pp. 116–134 (not consulted directly; known through Wikipedia's summary, which cites pp. 126–128, and the Internet Archive's full-text index, whose responses are saved under <code>sources/papers/poundstone_fragments/</code>).</li>
+    <li>Etymonline and Merriam-Webster entries for <a href="https://www.etymonline.com/word/stampede">stampede</a>, <a href="https://www.etymonline.com/word/objective">objective</a>, <a href="https://www.etymonline.com/word/reliable">reliable</a>, <a href="https://www.etymonline.com/word/grizzly">grizzly</a>, <a href="https://www.merriam-webster.com/dictionary/improvise">improvise</a>; Google Books Ngram Viewer, corpus en-US-2019.</li>
+    <li>Margaret Cabell, <i>Sketches and Recollections of Lynchburg, by the Oldest Inhabitant</i> (Richmond, 1858), pp. 239–241, 297: <a href="https://archive.org/details/sketchesrecollec00cabe">archive.org</a>; W. Asbury Christian, <i>Lynchburg and Its People</i> (1900): <a href="https://archive.org/details/lynchburgitspeop00chri">archive.org</a>.</li>
+    <li>Josiah Gregg, <i>Commerce of the Prairies</i> (1844), vol. 1, pp. 17–22: <a href="https://archive.org/details/commerceofprair01greg">archive.org</a>; Hiram M. Chittenden, <i>The American Fur Trade of the Far West</i> (1902), vol. 2, pp. 496–501: <a href="https://archive.org/details/americanfurtrade00chit_0">archive.org</a>.</li>
+    <li><i>Genealogy of the Beale Family, 1399–1956</i>, pp. 93–94: <a href="https://archive.org/details/genealogyofbeale00hodg">archive.org</a>; Nick Pelling, "The two Thomas Beales", Cipher Mysteries, 23 May 2015.</li>
+  </ul>
+  <h3>Code, data and notes</h3>
+  <p class="src">The code, data and notes are published alongside this page: <code>data/primary/</code> (the parsed pamphlet: ciphers, the Declaration as printed and numbered, letters, narrative), <code>sources/</code> (raw captures, the parser, scans, the records manifest, the King fragments), <code>code/</code> (Python 3, numpy and scipy, fixed seeds: <code>b2_key.py</code>, <code>b2_decode.py</code>, <code>gillogly_strings.py</code>, <code>stats_*.py</code> with <code>stats_run_all.sh</code>, <code>stylo_*.py</code>, <code>lang_*.py</code>), <code>results/</code> (every table and figure as CSV, JSON or SVG, including the two figures and the table on this page, drawn by <code>code/make_report_figures.py</code>), and <code>notes/</code> (four working notes with full tables and sources: <code>cryptanalysis_b2_gillogly.md</code>, <code>statistics_b1_b3.md</code>, <code>stylometry_and_language.md</code>, <code>historical_records.md</code>). The Monte Carlo runs take about forty minutes at full size; each script accepts smaller sizes for a quick check.</p>
+  <p class="small">Written from the sources above.</p>
+</section>
+</div>

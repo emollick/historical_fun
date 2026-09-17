@@ -1,0 +1,24 @@
+title: Verses in an Album
+author: Thomas Hood
+date: c. 1821-1827
+source: https://www.gutenberg.org/ebooks/15652 (The Poetical Works of Thomas Hood, ed. W. M. Rossetti, New York: A. L. Burt)
+form: trochaic mixed
+lines: 14
+attribution: certain
+notes: 
+
+Far above the hollow
+Tempest, and its moan,
+Singeth bright Apollo
+In his golden zone,--
+Cloud doth never shade him,
+Nor a storm invade him,
+On his joyous throne.
+
+So when I behold me
+In an orb as bright,
+How thy soul doth fold me
+In its throne of light!
+Sorrow never paineth,
+Nor a care attaineth
+To that blessed height.

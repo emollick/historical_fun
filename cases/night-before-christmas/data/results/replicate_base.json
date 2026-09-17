@@ -1,0 +1,3368 @@
+{
+ "jackson_words": {
+  "samples": [
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#1"
+    ],
+    "pct": 32.25806451612903,
+    "n": 93
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#2"
+    ],
+    "pct": 29.885057471264368,
+    "n": 87
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#3"
+    ],
+    "pct": 27.536231884057973,
+    "n": 69
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#4"
+    ],
+    "pct": 37.878787878787875,
+    "n": 66
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#5"
+    ],
+    "pct": 33.87096774193548,
+    "n": 62
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#6"
+    ],
+    "pct": 39.0,
+    "n": 100
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#7"
+    ],
+    "pct": 31.16883116883117,
+    "n": 77
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#8"
+    ],
+    "pct": 33.333333333333336,
+    "n": 84
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#9"
+    ],
+    "pct": 25.37313432835821,
+    "n": 67
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#10"
+    ],
+    "pct": 39.189189189189186,
+    "n": 74
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#11"
+    ],
+    "pct": 27.160493827160494,
+    "n": 81
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#12"
+    ],
+    "pct": 28.205128205128204,
+    "n": 78
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#13"
+    ],
+    "pct": 23.61111111111111,
+    "n": 72
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#14"
+    ],
+    "pct": 30.851063829787233,
+    "n": 94
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#15"
+    ],
+    "pct": 25.806451612903224,
+    "n": 93
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "01_a_trip_to_saratoga#16"
+    ],
+    "pct": 30.434782608695652,
+    "n": 92
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "02_to_my_children_with_my_portrait#1"
+    ],
+    "pct": 20.58823529411765,
+    "n": 68
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "03_to_the_fashionable_part_of_my_young_countrywomen#1"
+    ],
+    "pct": 18.6046511627907,
+    "n": 86
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "04_the_mischievous_muse#1"
+    ],
+    "pct": 45.945945945945944,
+    "n": 37
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "04_the_mischievous_muse#2"
+    ],
+    "pct": 37.5,
+    "n": 32
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "06_to_young_ladies_who_attended_philosophical_lectures#1"
+    ],
+    "pct": 28.72340425531915,
+    "n": 94
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "10_translation_of_an_ode_of_metastasio#1"
+    ],
+    "pct": 65.71428571428571,
+    "n": 70
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "10_translation_of_an_ode_of_metastasio#2"
+    ],
+    "pct": 48.484848484848484,
+    "n": 66
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "13_apology_for_not_accepting_an_invitation_to_a_ball#1"
+    ],
+    "pct": 42.74193548387097,
+    "n": 124
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "16_lines_accompanying_some_balls_sent_to_a_fragment_fair#1"
+    ],
+    "pct": 23.80952380952381,
+    "n": 63
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "17_to_a_lady#1"
+    ],
+    "pct": 51.61290322580645,
+    "n": 62
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "17_to_a_lady#2"
+    ],
+    "pct": 31.372549019607842,
+    "n": 51
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "19_from_a_husband_to_his_wife#1"
+    ],
+    "pct": 25.806451612903224,
+    "n": 93
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "23_lines_written_after_a_season_of_yellow_fever#1"
+    ],
+    "pct": 7.142857142857143,
+    "n": 70
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "23_lines_written_after_a_season_of_yellow_fever#2"
+    ],
+    "pct": 20.3125,
+    "n": 64
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "23_lines_written_after_a_season_of_yellow_fever#3"
+    ],
+    "pct": 17.647058823529413,
+    "n": 51
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "24_to_the_nymphs_of_mount_harmony#1"
+    ],
+    "pct": 47.5,
+    "n": 40
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "24_to_the_nymphs_of_mount_harmony#2"
+    ],
+    "pct": 44.73684210526316,
+    "n": 38
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "27_the_organist#1"
+    ],
+    "pct": 43.85964912280702,
+    "n": 57
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "27_the_organist#2"
+    ],
+    "pct": 26.31578947368421,
+    "n": 76
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "anapestic",
+    "ids": [
+     "28_the_pig_and_the_rooster#1"
+    ],
+    "pct": 34.24657534246575,
+    "n": 73
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "anapestic",
+    "ids": [
+     "28_the_pig_and_the_rooster#2"
+    ],
+    "pct": 45.88235294117647,
+    "n": 85
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "29_lines_for_valentines_day#1"
+    ],
+    "pct": 34.04255319148936,
+    "n": 47
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "30_the_wine_drinker#1"
+    ],
+    "pct": 43.47826086956522,
+    "n": 69
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "30_the_wine_drinker#2"
+    ],
+    "pct": 29.310344827586206,
+    "n": 58
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "30_the_wine_drinker#3"
+    ],
+    "pct": 17.647058823529413,
+    "n": 51
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "31_the_water_drinker#1"
+    ],
+    "pct": 19.672131147540984,
+    "n": 61
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "31_the_water_drinker#2"
+    ],
+    "pct": 16.666666666666668,
+    "n": 66
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "31_the_water_drinker#3"
+    ],
+    "pct": 36.111111111111114,
+    "n": 72
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "33_farewell#1"
+    ],
+    "pct": 56.86274509803921,
+    "n": 51
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "34_lines_on_the_sisters_of_charity#1"
+    ],
+    "pct": 29.807692307692307,
+    "n": 104
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "35_to_my_daughter_on_her_marriage#1"
+    ],
+    "pct": 28.688524590163933,
+    "n": 122
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "37_to_southey#1"
+    ],
+    "pct": 40.69767441860465,
+    "n": 86
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "37_to_southey#2"
+    ],
+    "pct": 52.38095238095238,
+    "n": 84
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "05_lines_written_after_a_snow_storm",
+     "07_on_seeing_my_name_written_in_the_sand"
+    ],
+    "pct": 21.21212121212121,
+    "n": 33
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "08_on_cowper_the_poet",
+     "09_to_petrosa"
+    ],
+    "pct": 37.07865168539326,
+    "n": 89
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "11_a_song",
+     "12_old_dobbin"
+    ],
+    "pct": 38.888888888888886,
+    "n": 54
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "15_translation_of_a_chorus_in_aeschylus",
+     "21_lines_accompanying_a_bunch_of_flowers"
+    ],
+    "pct": 40.24390243902439,
+    "n": 82
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "25_to_a_young_lady_on_her_birth_day",
+     "26_on_receiving_a_caricature_cast_of_paganini"
+    ],
+    "pct": 28.8135593220339,
+    "n": 59
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "ids": [
+     "32_lines_sent_to_a_young_lady_with_a_pair_of_gloves"
+    ],
+    "pct": 21.73913043478261,
+    "n": 23
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "007_invitation_to_the_country#1"
+    ],
+    "pct": 44.89795918367347,
+    "n": 49
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "020_to_a_gentleman_on_his_leaving_pakepsy#1"
+    ],
+    "pct": 46.666666666666664,
+    "n": 45
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "022_letter_to_my_brother_beekman#1"
+    ],
+    "pct": 32.95454545454545,
+    "n": 88
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "023_the_vine_and_oak#1"
+    ],
+    "pct": 48.648648648648646,
+    "n": 74
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "028_new_years_address_of_richard_and_george_1787#1"
+    ],
+    "pct": 37.096774193548384,
+    "n": 62
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "065_carriers_address_political_barometer_1803#1"
+    ],
+    "pct": 28.37837837837838,
+    "n": 148
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "072_news_boys_address_poughkeepsie_journal_1809#1"
+    ],
+    "pct": 37.142857142857146,
+    "n": 70
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "072_news_boys_address_poughkeepsie_journal_1809#2"
+    ],
+    "pct": 39.705882352941174,
+    "n": 68
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "079_carriers_address_poughkeepsie_journal_1819#1"
+    ],
+    "pct": 64.1025641025641,
+    "n": 39
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "079_carriers_address_poughkeepsie_journal_1819#2"
+    ],
+    "pct": 61.64383561643836,
+    "n": 73
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "080_adventures_of_an_american_eagle#1"
+    ],
+    "pct": 61.53846153846154,
+    "n": 104
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "086_the_crane_and_fox#1"
+    ],
+    "pct": 49.29577464788732,
+    "n": 71
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "001_on_my_little_catherine_sleeping",
+     "002_job"
+    ],
+    "pct": 59.25925925925926,
+    "n": 54
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "003_memory_of_henry_welles_livingston",
+     "004_memory_of_sarah_livingston",
+     "005_easter"
+    ],
+    "pct": 54.3859649122807,
+    "n": 57
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "006_elegy_on_montgomery_tappen",
+     "009_habakkuk"
+    ],
+    "pct": 45.45454545454545,
+    "n": 33
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "010_isaiah",
+     "011_lo_from_the_east"
+    ],
+    "pct": 36.111111111111114,
+    "n": 36
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "012_queen_of_love_rebus",
+     "015_timmy"
+    ],
+    "pct": 63.265306122448976,
+    "n": 49
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "016_to_my_little_niece_sally_livingston",
+     "017_frontier_settlement_invitation"
+    ],
+    "pct": 58.18181818181818,
+    "n": 55
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "018_a_valentine",
+     "024_to_spadille"
+    ],
+    "pct": 62.31884057971015,
+    "n": 69
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "027_on_my_sister_joannas_33rd_year",
+     "030_on_the_late_mr_gilbert_cortlandt",
+     "031_to_my_little_niece_anne_duyckinck"
+    ],
+    "pct": 65.15151515151516,
+    "n": 66
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "036_the_fly",
+     "040_the_writing_of_hezekiah"
+    ],
+    "pct": 61.904761904761905,
+    "n": 63
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "043_a_procession",
+     "044_to_miss_sweet_as_opning_roses"
+    ],
+    "pct": 41.666666666666664,
+    "n": 48
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "047_frontier_song",
+     "048_song_tune_german_spa"
+    ],
+    "pct": 61.702127659574465,
+    "n": 47
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "051_to_arabella",
+     "053_apostrophe_of_rispah",
+     "054_past_is_the_hour"
+    ],
+    "pct": 56.310679611650485,
+    "n": 103
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "055_acrostic_on_maria_martin",
+     "060_acrostic_on_eliza_hughes",
+     "071_on_catharine_livingston_breese",
+     "073_dialogue_between_madame_j_l_and_her_children"
+    ],
+    "pct": 63.23529411764706,
+    "n": 68
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "075_on_catharine_breese_livingston_tombstone",
+     "084_the_frog_king"
+    ],
+    "pct": 34.146341463414636,
+    "n": 41
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "085_original_poems_fragment",
+     "087_a_fable_bats"
+    ],
+    "pct": 45.09803921568628,
+    "n": 51
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "088_scots_wha_hae",
+     "089_midas"
+    ],
+    "pct": 52.0,
+    "n": 50
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "ids": [
+     "090_god_is_love",
+     "091_without_distinction"
+    ],
+    "pct": 50.87719298245614,
+    "n": 57
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "008_nine_sisters_rebus",
+     "013_deity_rebus"
+    ],
+    "pct": 52.72727272727273,
+    "n": 55
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "014_apollo_rebus",
+     "019_the_dance_rebus"
+    ],
+    "pct": 42.71844660194175,
+    "n": 103
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "021_hero_rebus",
+     "025_war_rebus"
+    ],
+    "pct": 51.260504201680675,
+    "n": 119
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "026_sages_rebus",
+     "032_letter_from_a_tenant_of_mrs_van_kleeck"
+    ],
+    "pct": 52.475247524752476,
+    "n": 101
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "033_the_acknowledgment",
+     "034_marriage_tax"
+    ],
+    "pct": 30.76923076923077,
+    "n": 78
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "035_parody_on_the_death_of_general_wolfe",
+     "037_careless_philosophers_soliloquy",
+     "038_belle"
+    ],
+    "pct": 56.578947368421055,
+    "n": 76
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "042_to_miss_on_the_commencement_of_1789",
+     "045_epithalamium"
+    ],
+    "pct": 34.48275862068966,
+    "n": 58
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "ids": [
+     "046_monarchs_rebus",
+     "052_alcmena_rebus"
+    ],
+    "pct": 46.666666666666664,
+    "n": 75
+   }
+  ],
+  "poem_1823": {
+   "pct": 51.63934426229508,
+   "n": 122
+  },
+  "poem_1844": {
+   "pct": 51.239669421487605
+  }
+ },
+ "jackson_words_summary": {
+  "moore_all": {
+   "n": 55,
+   "mean": 33.04459921968475,
+   "sd": 11.155242326287791,
+   "min": 7.142857142857143,
+   "max": 65.71428571428571
+  },
+  "moore_anap": {
+   "n": 2,
+   "mean": 40.06446414182111,
+   "sd": 5.817888799355359,
+   "min": 34.24657534246575,
+   "max": 45.88235294117647
+  },
+  "liv_all": {
+   "n": 37,
+   "mean": 49.48164558923819,
+   "sd": 10.669625811265156,
+   "min": 28.37837837837838,
+   "max": 65.15151515151516
+  },
+  "liv_anap": {
+   "n": 16,
+   "mean": 45.19823521117003,
+   "sd": 10.503525412670317,
+   "min": 28.37837837837838,
+   "max": 64.1025641025641
+  },
+  "liv_other": {
+   "n": 21,
+   "mean": 52.745196353480594,
+   "sd": 9.58595552245451,
+   "min": 34.146341463414636,
+   "max": 65.15151515151516
+  }
+ },
+ "phoneme_pairs_discriminating": {
+  "livingston_favoured": [
+   "DH DH",
+   "N AH",
+   "AH N",
+   "AY L",
+   "AH F",
+   "AH P",
+   "ER AH",
+   "AH L",
+   "AH S",
+   "D AH"
+  ],
+  "moore_favoured": [
+   "T S",
+   "IY T",
+   "T F",
+   "S W",
+   "T IH",
+   "ER T",
+   "S S",
+   "S M",
+   "S DH",
+   "Z W"
+  ]
+ },
+ "phoneme_pairs": {
+  "poems": [
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "01_a_trip_to_saratoga",
+    "share": 51.890756302521005,
+    "n": 476,
+    "words": 6870
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "02_to_my_children_with_my_portrait",
+    "share": 53.57142857142857,
+    "n": 28,
+    "words": 363
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "03_to_the_fashionable_part_of_my_young_countrywomen",
+    "share": 42.5,
+    "n": 40,
+    "words": 589
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "04_the_mischievous_muse",
+    "share": 61.29032258064516,
+    "n": 31,
+    "words": 462
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "05_lines_written_after_a_snow_storm",
+    "share": 57.142857142857146,
+    "n": 14,
+    "words": 186
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "06_to_young_ladies_who_attended_philosophical_lectures",
+    "share": 44.44444444444444,
+    "n": 54,
+    "words": 591
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "07_on_seeing_my_name_written_in_the_sand",
+    "share": NaN,
+    "n": 0,
+    "words": 43
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "08_on_cowper_the_poet",
+    "share": 50.0,
+    "n": 18,
+    "words": 274
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "09_to_petrosa",
+    "share": 43.75,
+    "n": 16,
+    "words": 201
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "10_translation_of_an_ode_of_metastasio",
+    "share": 41.37931034482759,
+    "n": 29,
+    "words": 627
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "11_a_song",
+    "share": 50.0,
+    "n": 6,
+    "words": 120
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "12_old_dobbin",
+    "share": 44.44444444444444,
+    "n": 9,
+    "words": 152
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "13_apology_for_not_accepting_an_invitation_to_a_ball",
+    "share": 50.0,
+    "n": 32,
+    "words": 545
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "15_translation_of_a_chorus_in_aeschylus",
+    "share": 40.0,
+    "n": 15,
+    "words": 216
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "16_lines_accompanying_some_balls_sent_to_a_fragment_fair",
+    "share": 52.38095238095238,
+    "n": 21,
+    "words": 335
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "17_to_a_lady",
+    "share": 32.25806451612903,
+    "n": 31,
+    "words": 541
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "19_from_a_husband_to_his_wife",
+    "share": 46.42857142857143,
+    "n": 28,
+    "words": 462
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "21_lines_accompanying_a_bunch_of_flowers",
+    "share": 33.333333333333336,
+    "n": 9,
+    "words": 151
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "23_lines_written_after_a_season_of_yellow_fever",
+    "share": 40.67796610169491,
+    "n": 59,
+    "words": 1154
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "24_to_the_nymphs_of_mount_harmony",
+    "share": 58.490566037735846,
+    "n": 53,
+    "words": 598
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "25_to_a_young_lady_on_her_birth_day",
+    "share": 38.46153846153846,
+    "n": 13,
+    "words": 176
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "26_on_receiving_a_caricature_cast_of_paganini",
+    "share": 40.90909090909091,
+    "n": 22,
+    "words": 212
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "27_the_organist",
+    "share": 50.0,
+    "n": 48,
+    "words": 587
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "anapestic",
+    "id": "28_the_pig_and_the_rooster",
+    "share": 59.01639344262295,
+    "n": 61,
+    "words": 788
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "29_lines_for_valentines_day",
+    "share": 57.89473684210526,
+    "n": 19,
+    "words": 289
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "30_the_wine_drinker",
+    "share": 38.75,
+    "n": 80,
+    "words": 1074
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "31_the_water_drinker",
+    "share": 56.79012345679013,
+    "n": 81,
+    "words": 1137
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "32_lines_sent_to_a_young_lady_with_a_pair_of_gloves",
+    "share": 62.5,
+    "n": 8,
+    "words": 143
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "33_farewell",
+    "share": 40.0,
+    "n": 20,
+    "words": 323
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "34_lines_on_the_sisters_of_charity",
+    "share": 50.0,
+    "n": 54,
+    "words": 620
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "35_to_my_daughter_on_her_marriage",
+    "share": 36.666666666666664,
+    "n": 30,
+    "words": 576
+   },
+   {
+    "author": "Clement Clarke Moore",
+    "form": "other",
+    "id": "37_to_southey",
+    "share": 56.666666666666664,
+    "n": 60,
+    "words": 754
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "001_on_my_little_catherine_sleeping",
+    "share": 45.45454545454545,
+    "n": 11,
+    "words": 148
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "002_job",
+    "share": 57.142857142857146,
+    "n": 7,
+    "words": 142
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "003_memory_of_henry_welles_livingston",
+    "share": 50.0,
+    "n": 4,
+    "words": 94
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "004_memory_of_sarah_livingston",
+    "share": 57.142857142857146,
+    "n": 7,
+    "words": 121
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "005_easter",
+    "share": 88.23529411764706,
+    "n": 17,
+    "words": 210
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "006_elegy_on_montgomery_tappen",
+    "share": 72.72727272727273,
+    "n": 11,
+    "words": 150
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "007_invitation_to_the_country",
+    "share": 67.6470588235294,
+    "n": 34,
+    "words": 333
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "008_nine_sisters_rebus",
+    "share": 83.33333333333333,
+    "n": 18,
+    "words": 171
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "009_habakkuk",
+    "share": 62.5,
+    "n": 8,
+    "words": 121
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "010_isaiah",
+    "share": 56.25,
+    "n": 16,
+    "words": 211
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "011_lo_from_the_east",
+    "share": 84.61538461538461,
+    "n": 13,
+    "words": 169
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "012_queen_of_love_rebus",
+    "share": 62.5,
+    "n": 8,
+    "words": 129
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "013_deity_rebus",
+    "share": 72.72727272727273,
+    "n": 11,
+    "words": 173
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "014_apollo_rebus",
+    "share": 77.77777777777777,
+    "n": 27,
+    "words": 260
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "015_timmy",
+    "share": 60.0,
+    "n": 10,
+    "words": 174
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "016_to_my_little_niece_sally_livingston",
+    "share": 75.0,
+    "n": 8,
+    "words": 110
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "017_frontier_settlement_invitation",
+    "share": 82.3529411764706,
+    "n": 17,
+    "words": 210
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "018_a_valentine",
+    "share": 37.5,
+    "n": 8,
+    "words": 120
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "019_the_dance_rebus",
+    "share": 81.81818181818181,
+    "n": 33,
+    "words": 286
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "020_to_a_gentleman_on_his_leaving_pakepsy",
+    "share": 75.0,
+    "n": 20,
+    "words": 286
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "021_hero_rebus",
+    "share": 54.83870967741935,
+    "n": 31,
+    "words": 327
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "022_letter_to_my_brother_beekman",
+    "share": 54.166666666666664,
+    "n": 24,
+    "words": 408
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "023_the_vine_and_oak",
+    "share": 68.0,
+    "n": 25,
+    "words": 429
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "024_to_spadille",
+    "share": 35.294117647058826,
+    "n": 17,
+    "words": 172
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "025_war_rebus",
+    "share": 66.66666666666667,
+    "n": 27,
+    "words": 324
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "026_sages_rebus",
+    "share": 72.0,
+    "n": 25,
+    "words": 275
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "027_on_my_sister_joannas_33rd_year",
+    "share": 87.5,
+    "n": 16,
+    "words": 188
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "028_new_years_address_of_richard_and_george_1787",
+    "share": 75.0,
+    "n": 28,
+    "words": 385
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "030_on_the_late_mr_gilbert_cortlandt",
+    "share": 33.333333333333336,
+    "n": 6,
+    "words": 108
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "031_to_my_little_niece_anne_duyckinck",
+    "share": 100.0,
+    "n": 1,
+    "words": 63
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "032_letter_from_a_tenant_of_mrs_van_kleeck",
+    "share": 64.70588235294117,
+    "n": 17,
+    "words": 236
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "033_the_acknowledgment",
+    "share": 76.0,
+    "n": 25,
+    "words": 222
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "034_marriage_tax",
+    "share": 52.38095238095238,
+    "n": 21,
+    "words": 206
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "035_parody_on_the_death_of_general_wolfe",
+    "share": 58.333333333333336,
+    "n": 12,
+    "words": 115
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "036_the_fly",
+    "share": 54.54545454545455,
+    "n": 11,
+    "words": 155
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "037_careless_philosophers_soliloquy",
+    "share": 71.42857142857143,
+    "n": 7,
+    "words": 128
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "038_belle",
+    "share": 60.0,
+    "n": 10,
+    "words": 141
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "040_the_writing_of_hezekiah",
+    "share": 62.5,
+    "n": 8,
+    "words": 161
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "042_to_miss_on_the_commencement_of_1789",
+    "share": 85.71428571428571,
+    "n": 7,
+    "words": 105
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "043_a_procession",
+    "share": 62.5,
+    "n": 8,
+    "words": 205
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "044_to_miss_sweet_as_opning_roses",
+    "share": 60.0,
+    "n": 5,
+    "words": 74
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "045_epithalamium",
+    "share": 50.0,
+    "n": 10,
+    "words": 199
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "046_monarchs_rebus",
+    "share": 83.33333333333333,
+    "n": 18,
+    "words": 157
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "047_frontier_song",
+    "share": 50.0,
+    "n": 4,
+    "words": 86
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "048_song_tune_german_spa",
+    "share": 57.142857142857146,
+    "n": 7,
+    "words": 125
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "051_to_arabella",
+    "share": 75.0,
+    "n": 4,
+    "words": 89
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "052_alcmena_rebus",
+    "share": 63.63636363636363,
+    "n": 22,
+    "words": 263
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "053_apostrophe_of_rispah",
+    "share": 42.857142857142854,
+    "n": 7,
+    "words": 160
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "054_past_is_the_hour",
+    "share": 50.0,
+    "n": 12,
+    "words": 202
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "055_acrostic_on_maria_martin",
+    "share": 71.42857142857143,
+    "n": 7,
+    "words": 98
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "060_acrostic_on_eliza_hughes",
+    "share": 25.0,
+    "n": 4,
+    "words": 67
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "065_carriers_address_political_barometer_1803",
+    "share": 51.16279069767442,
+    "n": 43,
+    "words": 741
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "071_on_catharine_livingston_breese",
+    "share": 50.0,
+    "n": 4,
+    "words": 85
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "072_news_boys_address_poughkeepsie_journal_1809",
+    "share": 63.23529411764706,
+    "n": 68,
+    "words": 786
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "073_dialogue_between_madame_j_l_and_her_children",
+    "share": 44.44444444444444,
+    "n": 9,
+    "words": 129
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "075_on_catharine_breese_livingston_tombstone",
+    "share": NaN,
+    "n": 0,
+    "words": 24
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "anapestic",
+    "id": "079_carriers_address_poughkeepsie_journal_1819",
+    "share": 59.61538461538461,
+    "n": 52,
+    "words": 684
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "080_adventures_of_an_american_eagle",
+    "share": 60.97560975609756,
+    "n": 41,
+    "words": 530
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "084_the_frog_king",
+    "share": 80.0,
+    "n": 20,
+    "words": 227
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "085_original_poems_fragment",
+    "share": 57.142857142857146,
+    "n": 7,
+    "words": 75
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "086_the_crane_and_fox",
+    "share": 62.96296296296296,
+    "n": 27,
+    "words": 463
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "087_a_fable_bats",
+    "share": 57.142857142857146,
+    "n": 14,
+    "words": 237
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "088_scots_wha_hae",
+    "share": 66.66666666666667,
+    "n": 12,
+    "words": 124
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "089_midas",
+    "share": 50.0,
+    "n": 20,
+    "words": 192
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "090_god_is_love",
+    "share": 53.333333333333336,
+    "n": 15,
+    "words": 200
+   },
+   {
+    "author": "Henry Livingston Jr.",
+    "form": "other",
+    "id": "091_without_distinction",
+    "share": 100.0,
+    "n": 1,
+    "words": 37
+   }
+  ],
+  "poem_1823": {
+   "share": 74.57627118644068,
+   "n": 59
+  }
+ },
+ "phoneme_pairs_summary": {
+  "moore_all": {
+   "n": 27,
+   "mean": 47.82816504804773,
+   "sd": 7.968556752465704,
+   "min": 32.25806451612903,
+   "max": 61.29032258064516
+  },
+  "moore_anap": {
+   "n": 1,
+   "mean": 59.01639344262295,
+   "sd": 0.0,
+   "min": 59.01639344262295,
+   "max": 59.01639344262295
+  },
+  "liv_all": {
+   "n": 34,
+   "mean": 66.58767343087305,
+   "sd": 12.900334752828023,
+   "min": 35.294117647058826,
+   "max": 88.23529411764706
+  },
+  "liv_anap": {
+   "n": 18,
+   "mean": 66.98065162395582,
+   "sd": 10.48103178048,
+   "min": 51.16279069767442,
+   "max": 83.33333333333333
+  },
+  "liv_other": {
+   "n": 16,
+   "mean": 66.14557296365493,
+   "sd": 15.155424237370562,
+   "min": 35.294117647058826,
+   "max": 88.23529411764706
+  }
+ },
+ "expressions": {
+  "some": {
+   "observed": 0,
+   "moore": {
+    "count": 73,
+    "words": 21159,
+    "per1000": 3.4500685287584476,
+    "expected": 1.880287348173354,
+    "p_tail": 0.15060774165192103
+   },
+   "moore_anap": {
+    "count": 2,
+    "words": 788,
+    "per1000": 2.5380710659898473,
+    "expected": 1.383248730964467,
+    "p_tail": 0.17784027642045852
+   },
+   "livingston": {
+    "count": 3,
+    "words": 14025,
+    "per1000": 0.21390374331550802,
+    "expected": 0.11657754010695187,
+    "p_tail": 0.8728448727835357
+   },
+   "liv_anap": {
+    "count": 2,
+    "words": 6826,
+    "per1000": 0.2929973630237328,
+    "expected": 0.15968356284793436,
+    "p_tail": 0.819078610634987
+   },
+   "controls_anap": {
+    "count": 393,
+    "words": 203521,
+    "per1000": 1.9310046629094786,
+    "expected": 1.0523975412856659,
+    "p_tail": 0.34863446218940936
+   },
+   "controls": {
+    "count": 2193,
+    "words": 1258413,
+    "per1000": 1.7426711262518744,
+    "expected": 0.9497557638072714,
+    "p_tail": 0.38675202581587115
+   }
+  },
+  "oft": {
+   "observed": 0,
+   "moore": {
+    "count": 30,
+    "words": 21159,
+    "per1000": 1.417836381681554,
+    "expected": 0.7727208280164469,
+    "p_tail": 0.45586326045849673
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.7079556057472033
+   },
+   "livingston": {
+    "count": 1,
+    "words": 14025,
+    "per1000": 0.07130124777183601,
+    "expected": 0.03885918003565062,
+    "p_tail": 0.9433814093958166
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.8871465152640843
+   },
+   "controls_anap": {
+    "count": 43,
+    "words": 203521,
+    "per1000": 0.21128040840994297,
+    "expected": 0.11514782258341891,
+    "p_tail": 0.8900423987031009
+   },
+   "controls": {
+    "count": 486,
+    "words": 1258413,
+    "per1000": 0.38620071470971773,
+    "expected": 0.21047938951679618,
+    "p_tail": 0.8100204662424568
+   }
+  },
+  "many a": {
+   "observed": 0,
+   "moore": {
+    "count": 18,
+    "words": 21159,
+    "per1000": 0.8507018290089324,
+    "expected": 0.4636324968098682,
+    "p_tail": 0.6209599711356377
+   },
+   "moore_anap": {
+    "count": 1,
+    "words": 788,
+    "per1000": 1.2690355329949237,
+    "expected": 0.6916243654822335,
+    "p_tail": 0.35482815646379556
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9807593065082962
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9608710682056114
+   },
+   "controls_anap": {
+    "count": 43,
+    "words": 203521,
+    "per1000": 0.21128040840994297,
+    "expected": 0.11514782258341891,
+    "p_tail": 0.8900423987031009
+   },
+   "controls": {
+    "count": 723,
+    "words": 1258413,
+    "per1000": 0.5745331620064319,
+    "expected": 0.3131205732935054,
+    "p_tail": 0.7310036201773349
+   }
+  },
+  "in vain": {
+   "observed": 0,
+   "moore": {
+    "count": 16,
+    "words": 21159,
+    "per1000": 0.7561794035634954,
+    "expected": 0.412117774942105,
+    "p_tail": 0.6537852335587063
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.7079556057472033
+   },
+   "livingston": {
+    "count": 3,
+    "words": 14025,
+    "per1000": 0.21390374331550802,
+    "expected": 0.11657754010695187,
+    "p_tail": 0.8728448727835357
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.8871465152640843
+   },
+   "controls_anap": {
+    "count": 72,
+    "words": 203521,
+    "per1000": 0.35377184663990446,
+    "expected": 0.19280565641874794,
+    "p_tail": 0.8235396102324011
+   },
+   "controls": {
+    "count": 519,
+    "words": 1258413,
+    "per1000": 0.4124242200295134,
+    "expected": 0.2247711999160848,
+    "p_tail": 0.798526149399477
+   }
+  },
+  "at length": {
+   "observed": 0,
+   "moore": {
+    "count": 12,
+    "words": 21159,
+    "per1000": 0.5671345526726216,
+    "expected": 0.30908833120657875,
+    "p_tail": 0.7247331246385272
+   },
+   "moore_anap": {
+    "count": 2,
+    "words": 788,
+    "per1000": 2.5380710659898473,
+    "expected": 1.383248730964467,
+    "p_tail": 0.17784027642045852
+   },
+   "livingston": {
+    "count": 3,
+    "words": 14025,
+    "per1000": 0.21390374331550802,
+    "expected": 0.11657754010695187,
+    "p_tail": 0.8728448727835357
+   },
+   "liv_anap": {
+    "count": 2,
+    "words": 6826,
+    "per1000": 0.2929973630237328,
+    "expected": 0.15968356284793436,
+    "p_tail": 0.819078610634987
+   },
+   "controls_anap": {
+    "count": 30,
+    "words": 203521,
+    "per1000": 0.1474049360999602,
+    "expected": 0.08033569017447831,
+    "p_tail": 0.9215721422985923
+   },
+   "controls": {
+    "count": 197,
+    "words": 1258413,
+    "per1000": 0.15654638024241643,
+    "expected": 0.08531777723211696,
+    "p_tail": 0.9180216985796492
+   }
+  },
+  "that's": {
+   "observed": 0,
+   "moore": {
+    "count": 10,
+    "words": 21159,
+    "per1000": 0.47261212722718465,
+    "expected": 0.2575736093388156,
+    "p_tail": 0.7630440562746563
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.7079556057472033
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9807593065082962
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9608710682056114
+   },
+   "controls_anap": {
+    "count": 50,
+    "words": 203521,
+    "per1000": 0.24567489349993368,
+    "expected": 0.13389281695746386,
+    "p_tail": 0.8735140361559508
+   },
+   "controls": {
+    "count": 219,
+    "words": 1258413,
+    "per1000": 0.1740287171222802,
+    "expected": 0.09484565083164272,
+    "p_tail": 0.9093164479109558
+   }
+  },
+  "should": {
+   "observed": 1,
+   "moore": {
+    "count": 41,
+    "words": 21159,
+    "per1000": 1.937709721631457,
+    "expected": 1.056051798289144,
+    "p_tail": 0.656607084843784
+   },
+   "moore_anap": {
+    "count": 2,
+    "words": 788,
+    "per1000": 2.5380710659898473,
+    "expected": 1.383248730964467,
+    "p_tail": 0.8221597235795415
+   },
+   "livingston": {
+    "count": 3,
+    "words": 14025,
+    "per1000": 0.21390374331550802,
+    "expected": 0.11657754010695187,
+    "p_tail": 0.12715512721646427
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 301,
+    "words": 203521,
+    "per1000": 1.4789628588696009,
+    "expected": 0.8060347580839324,
+    "p_tail": 0.553970291968408
+   },
+   "controls": {
+    "count": 1277,
+    "words": 1258413,
+    "per1000": 1.0147701907084559,
+    "expected": 0.5530497539361084,
+    "p_tail": 0.4249313516431217
+   }
+  },
+  "would": {
+   "observed": 1,
+   "moore": {
+    "count": 63,
+    "words": 21159,
+    "per1000": 2.9774564015312635,
+    "expected": 1.6227137388345385,
+    "p_tail": 0.8051480272654681
+   },
+   "moore_anap": {
+    "count": 2,
+    "words": 788,
+    "per1000": 2.5380710659898473,
+    "expected": 1.383248730964467,
+    "p_tail": 0.8221597235795415
+   },
+   "livingston": {
+    "count": 19,
+    "words": 14025,
+    "per1000": 1.3547237076648841,
+    "expected": 0.7383244206773618,
+    "p_tail": 0.5312566955974536
+   },
+   "liv_anap": {
+    "count": 6,
+    "words": 6826,
+    "per1000": 0.8789920890711983,
+    "expected": 0.47905068854380306,
+    "p_tail": 0.40482247806354854
+   },
+   "controls_anap": {
+    "count": 442,
+    "words": 203521,
+    "per1000": 2.1717660585394136,
+    "expected": 1.1836125019039805,
+    "p_tail": 0.6942371898556734
+   },
+   "controls": {
+    "count": 2093,
+    "words": 1258413,
+    "per1000": 1.6632059586161299,
+    "expected": 0.9064472474457907,
+    "p_tail": 0.5961303370552509
+   }
+  },
+  "like": {
+   "observed": 8,
+   "moore": {
+    "count": 67,
+    "words": 21159,
+    "per1000": 3.1665012524221368,
+    "expected": 1.7257431825700646,
+    "p_tail": 0.00044860405770796863
+   },
+   "moore_anap": {
+    "count": 7,
+    "words": 788,
+    "per1000": 8.883248730964468,
+    "expected": 4.841370558375635,
+    "p_tail": 0.15290364591105332
+   },
+   "livingston": {
+    "count": 16,
+    "words": 14025,
+    "per1000": 1.1408199643493762,
+    "expected": 0.6217468805704099,
+    "p_tail": 4.0129102352182144e-07
+   },
+   "liv_anap": {
+    "count": 8,
+    "words": 6826,
+    "per1000": 1.1719894520949312,
+    "expected": 0.6387342513917375,
+    "p_tail": 6.112716772754823e-07
+   },
+   "controls_anap": {
+    "count": 782,
+    "words": 203521,
+    "per1000": 3.8423553343389627,
+    "expected": 2.0940836572147346,
+    "p_tail": 0.001466060079047038
+   },
+   "controls": {
+    "count": 4183,
+    "words": 1258413,
+    "per1000": 3.3240279622031874,
+    "expected": 1.8115952394007373,
+    "p_tail": 0.0005856494165356052
+   }
+  },
+  "hope": {
+   "observed": 1,
+   "moore": {
+    "count": 22,
+    "words": 21159,
+    "per1000": 1.0397466798998063,
+    "expected": 0.5666619405453944,
+    "p_tail": 0.4398290267717416
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 3,
+    "words": 14025,
+    "per1000": 0.21390374331550802,
+    "expected": 0.11657754010695187,
+    "p_tail": 0.12715512721646427
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 137,
+    "words": 203521,
+    "per1000": 0.6731492081898182,
+    "expected": 0.3668663184634509,
+    "p_tail": 0.3080236065557521
+   },
+   "controls": {
+    "count": 1028,
+    "words": 1258413,
+    "per1000": 0.8169019232954523,
+    "expected": 0.44521154819602154,
+    "p_tail": 0.3594497694905061
+   }
+  },
+  "ere": {
+   "observed": 1,
+   "moore": {
+    "count": 17,
+    "words": 21159,
+    "per1000": 0.8034406162862139,
+    "expected": 0.4378751358759866,
+    "p_tail": 0.36283874901284174
+   },
+   "moore_anap": {
+    "count": 1,
+    "words": 788,
+    "per1000": 1.2690355329949237,
+    "expected": 0.6916243654822335,
+    "p_tail": 0.6451718435362044
+   },
+   "livingston": {
+    "count": 4,
+    "words": 14025,
+    "per1000": 0.28520499108734404,
+    "expected": 0.15543672014260249,
+    "p_tail": 0.16042027762957678
+   },
+   "liv_anap": {
+    "count": 4,
+    "words": 6826,
+    "per1000": 0.5859947260474656,
+    "expected": 0.3193671256958687,
+    "p_tail": 0.30179001887048107
+   },
+   "controls_anap": {
+    "count": 81,
+    "words": 203521,
+    "per1000": 0.3979933274698925,
+    "expected": 0.21690636347109143,
+    "p_tail": 0.19607091730613502
+   },
+   "controls": {
+    "count": 584,
+    "words": 1258413,
+    "per1000": 0.4640765789927472,
+    "expected": 0.25292173555104724,
+    "p_tail": 0.22363932311210832
+   }
+  },
+  "dread": {
+   "observed": 1,
+   "moore": {
+    "count": 16,
+    "words": 21159,
+    "per1000": 0.7561794035634954,
+    "expected": 0.412117774942105,
+    "p_tail": 0.3462147664412937
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 2,
+    "words": 14025,
+    "per1000": 0.14260249554367202,
+    "expected": 0.07771836007130124,
+    "p_tail": 0.09257197185096588
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.11285348473591572
+   },
+   "controls_anap": {
+    "count": 34,
+    "words": 203521,
+    "per1000": 0.16705892757995489,
+    "expected": 0.09104711553107542,
+    "p_tail": 0.08824648106755606
+   },
+   "controls": {
+    "count": 433,
+    "words": 1258413,
+    "per1000": 0.34408417586277323,
+    "expected": 0.1875258758452114,
+    "p_tail": 0.17117170574405705
+   }
+  },
+  "vision(s)": {
+   "observed": 1,
+   "moore": {
+    "count": 11,
+    "words": 21159,
+    "per1000": 0.5198733399499031,
+    "expected": 0.2833309702726972,
+    "p_tail": 0.25635808137196314
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 2,
+    "words": 14025,
+    "per1000": 0.14260249554367202,
+    "expected": 0.07771836007130124,
+    "p_tail": 0.09257197185096588
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.11285348473591572
+   },
+   "controls_anap": {
+    "count": 34,
+    "words": 203521,
+    "per1000": 0.16705892757995489,
+    "expected": 0.09104711553107542,
+    "p_tail": 0.08824648106755606
+   },
+   "controls": {
+    "count": 201,
+    "words": 1258413,
+    "per1000": 0.1597249869478462,
+    "expected": 0.08705011788657618,
+    "p_tail": 0.08356724977053342
+   }
+  },
+  "brain(s)": {
+   "observed": 1,
+   "moore": {
+    "count": 12,
+    "words": 21159,
+    "per1000": 0.5671345526726216,
+    "expected": 0.30908833120657875,
+    "p_tail": 0.27526687536147276
+   },
+   "moore_anap": {
+    "count": 1,
+    "words": 788,
+    "per1000": 1.2690355329949237,
+    "expected": 0.6916243654822335,
+    "p_tail": 0.6451718435362044
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.019240693491703764
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 30,
+    "words": 203521,
+    "per1000": 0.1474049360999602,
+    "expected": 0.08033569017447831,
+    "p_tail": 0.0784278577014077
+   },
+   "controls": {
+    "count": 240,
+    "words": 1258413,
+    "per1000": 0.19071640232578652,
+    "expected": 0.10394043926755366,
+    "p_tail": 0.09891609290735404
+   }
+  },
+  "all": {
+   "observed": 9,
+   "moore": {
+    "count": 157,
+    "words": 21159,
+    "per1000": 7.4200103974667995,
+    "expected": 4.0439056666194055,
+    "p_tail": 0.02309632654335181
+   },
+   "moore_anap": {
+    "count": 5,
+    "words": 788,
+    "per1000": 6.345177664974619,
+    "expected": 3.4581218274111674,
+    "p_tail": 0.015963102945128926
+   },
+   "livingston": {
+    "count": 99,
+    "words": 14025,
+    "per1000": 7.058823529411765,
+    "expected": 3.847058823529412,
+    "p_tail": 0.017640956965217836
+   },
+   "liv_anap": {
+    "count": 36,
+    "words": 6826,
+    "per1000": 5.27395253442719,
+    "expected": 2.874304131262819,
+    "p_tail": 0.003153175007460818
+   },
+   "controls_anap": {
+    "count": 1165,
+    "words": 203521,
+    "per1000": 5.724225018548455,
+    "expected": 3.119702635108908,
+    "p_tail": 0.004886950665096146
+   },
+   "controls": {
+    "count": 7281,
+    "words": 1258413,
+    "per1000": 5.785858855558549,
+    "expected": 3.153293076279409,
+    "p_tail": 0.0052150849100887076
+   }
+  },
+  "twas": {
+   "observed": 1,
+   "moore": {
+    "count": 11,
+    "words": 21159,
+    "per1000": 0.5198733399499031,
+    "expected": 0.2833309702726972,
+    "p_tail": 0.25635808137196314
+   },
+   "moore_anap": {
+    "count": 1,
+    "words": 788,
+    "per1000": 1.2690355329949237,
+    "expected": 0.6916243654822335,
+    "p_tail": 0.6451718435362044
+   },
+   "livingston": {
+    "count": 9,
+    "words": 14025,
+    "per1000": 0.6417112299465241,
+    "expected": 0.3497326203208556,
+    "p_tail": 0.30866854130316856
+   },
+   "liv_anap": {
+    "count": 2,
+    "words": 6826,
+    "per1000": 0.2929973630237328,
+    "expected": 0.15968356284793436,
+    "p_tail": 0.180921389365013
+   },
+   "controls_anap": {
+    "count": 130,
+    "words": 203521,
+    "per1000": 0.6387547230998276,
+    "expected": 0.34812132408940605,
+    "p_tail": 0.29493024316201966
+   },
+   "controls": {
+    "count": 621,
+    "words": 1258413,
+    "per1000": 0.49347869101797265,
+    "expected": 0.26894588660479507,
+    "p_tail": 0.23598069002329203
+   }
+  },
+  "oh": {
+   "observed": 0,
+   "moore": {
+    "count": 22,
+    "words": 21159,
+    "per1000": 1.0397466798998063,
+    "expected": 0.5666619405453944,
+    "p_tail": 0.5601709732282584
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.7079556057472033
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9807593065082962
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9608710682056114
+   },
+   "controls_anap": {
+    "count": 274,
+    "words": 203521,
+    "per1000": 1.3462984163796363,
+    "expected": 0.7337326369269018,
+    "p_tail": 0.4794728760836864
+   },
+   "controls": {
+    "count": 1236,
+    "words": 1258413,
+    "per1000": 0.9821894719778007,
+    "expected": 0.5352932622279014,
+    "p_tail": 0.5853710383195924
+   }
+  },
+  "ah": {
+   "observed": 0,
+   "moore": {
+    "count": 8,
+    "words": 21159,
+    "per1000": 0.3780897017817477,
+    "expected": 0.2060588874710525,
+    "p_tail": 0.8033801850943143
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.7079556057472033
+   },
+   "livingston": {
+    "count": 2,
+    "words": 14025,
+    "per1000": 0.14260249554367202,
+    "expected": 0.07771836007130124,
+    "p_tail": 0.9074280281490341
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9608710682056114
+   },
+   "controls_anap": {
+    "count": 73,
+    "words": 203521,
+    "per1000": 0.35868534450990314,
+    "expected": 0.19548351275789722,
+    "p_tail": 0.8213372504055729
+   },
+   "controls": {
+    "count": 461,
+    "words": 1258413,
+    "per1000": 0.36633442280078166,
+    "expected": 0.199652260426426,
+    "p_tail": 0.8188383051891879
+   }
+  },
+  "little": {
+   "observed": 4,
+   "moore": {
+    "count": 11,
+    "words": 21159,
+    "per1000": 0.5198733399499031,
+    "expected": 0.2833309702726972,
+    "p_tail": 0.0002533443660863721
+   },
+   "moore_anap": {
+    "count": 1,
+    "words": 788,
+    "per1000": 1.2690355329949237,
+    "expected": 0.6916243654822335,
+    "p_tail": 0.021283357947563752
+   },
+   "livingston": {
+    "count": 21,
+    "words": 14025,
+    "per1000": 1.4973262032085561,
+    "expected": 0.8160427807486631,
+    "p_tail": 0.010504598070956606
+   },
+   "liv_anap": {
+    "count": 11,
+    "words": 6826,
+    "per1000": 1.6114854966305303,
+    "expected": 0.878259595663639,
+    "p_tail": 0.014369011704394974
+   },
+   "controls_anap": {
+    "count": 185,
+    "words": 203521,
+    "per1000": 0.9089971059497546,
+    "expected": 0.49540342274261623,
+    "p_tail": 0.001710762677525457
+   },
+   "controls": {
+    "count": 1083,
+    "words": 1258413,
+    "per1000": 0.8606077654951118,
+    "expected": 0.4690312321948359,
+    "p_tail": 0.0013921071847808886
+   }
+  },
+  "happy": {
+   "observed": 1,
+   "moore": {
+    "count": 3,
+    "words": 21159,
+    "per1000": 0.1417836381681554,
+    "expected": 0.07727208280164469,
+    "p_tail": 0.08620269843149087
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 12,
+    "words": 14025,
+    "per1000": 0.8556149732620321,
+    "expected": 0.4663101604278075,
+    "p_tail": 0.38473679004300365
+   },
+   "liv_anap": {
+    "count": 9,
+    "words": 6826,
+    "per1000": 1.3184881336067975,
+    "expected": 0.7185760328157047,
+    "p_tail": 0.5315780660692098
+   },
+   "controls_anap": {
+    "count": 63,
+    "words": 203521,
+    "per1000": 0.30955036580991646,
+    "expected": 0.16870494936640446,
+    "p_tail": 0.15637149566835684
+   },
+   "controls": {
+    "count": 374,
+    "words": 1258413,
+    "per1000": 0.297199726957684,
+    "expected": 0.16197385119193777,
+    "p_tail": 0.14972058916881315
+   }
+  },
+  "merry": {
+   "observed": 1,
+   "moore": {
+    "count": 3,
+    "words": 21159,
+    "per1000": 0.1417836381681554,
+    "expected": 0.07727208280164469,
+    "p_tail": 0.08620269843149087
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 1,
+    "words": 14025,
+    "per1000": 0.07130124777183601,
+    "expected": 0.03885918003565062,
+    "p_tail": 0.056618590604183394
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.11285348473591572
+   },
+   "controls_anap": {
+    "count": 20,
+    "words": 203521,
+    "per1000": 0.09826995739997348,
+    "expected": 0.05355712678298554,
+    "p_tail": 0.053416209167232
+   },
+   "controls": {
+    "count": 130,
+    "words": 1258413,
+    "per1000": 0.1033047179264677,
+    "expected": 0.056301071269924896,
+    "p_tail": 0.05495011917531456
+   }
+  },
+  "snug": {
+   "observed": 1,
+   "moore": {
+    "count": 1,
+    "words": 21159,
+    "per1000": 0.047261212722718465,
+    "expected": 0.025757360933881562,
+    "p_tail": 0.03789743300412207
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 1,
+    "words": 14025,
+    "per1000": 0.07130124777183601,
+    "expected": 0.03885918003565062,
+    "p_tail": 0.056618590604183394
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 26,
+    "words": 203521,
+    "per1000": 0.12775094461996553,
+    "expected": 0.06962426481788121,
+    "p_tail": 0.06850349812168355
+   },
+   "controls": {
+    "count": 55,
+    "words": 1258413,
+    "per1000": 0.043705842199659416,
+    "expected": 0.02381968399881438,
+    "p_tail": 0.023749638447666643
+   }
+  },
+  "jolly": {
+   "observed": 1,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.01279550428356424
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 5,
+    "words": 14025,
+    "per1000": 0.35650623885918004,
+    "expected": 0.1942959001782531,
+    "p_tail": 0.1924176538178397
+   },
+   "liv_anap": {
+    "count": 4,
+    "words": 6826,
+    "per1000": 0.5859947260474656,
+    "expected": 0.3193671256958687,
+    "p_tail": 0.30179001887048107
+   },
+   "controls_anap": {
+    "count": 2,
+    "words": 203521,
+    "per1000": 0.009826995739997346,
+    "expected": 0.005355712678298554,
+    "p_tail": 0.006672248988761287
+   },
+   "controls": {
+    "count": 19,
+    "words": 1258413,
+    "per1000": 0.015098381850791433,
+    "expected": 0.008228618108681331,
+    "p_tail": 0.008409593840689511
+   }
+  },
+  "chin": {
+   "observed": 1,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.01279550428356424
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 2,
+    "words": 14025,
+    "per1000": 0.14260249554367202,
+    "expected": 0.07771836007130124,
+    "p_tail": 0.09257197185096588
+   },
+   "liv_anap": {
+    "count": 2,
+    "words": 6826,
+    "per1000": 0.2929973630237328,
+    "expected": 0.15968356284793436,
+    "p_tail": 0.180921389365013
+   },
+   "controls_anap": {
+    "count": 9,
+    "words": 203521,
+    "per1000": 0.04422148082998806,
+    "expected": 0.024100707052343493,
+    "p_tail": 0.025118652464350855
+   },
+   "controls": {
+    "count": 31,
+    "words": 1258413,
+    "per1000": 0.02463420196708076,
+    "expected": 0.013425640072059014,
+    "p_tail": 0.013549539102765795
+   }
+  },
+  "broad": {
+   "observed": 1,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.01279550428356424
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 3,
+    "words": 14025,
+    "per1000": 0.21390374331550802,
+    "expected": 0.11657754010695187,
+    "p_tail": 0.12715512721646427
+   },
+   "liv_anap": {
+    "count": 2,
+    "words": 6826,
+    "per1000": 0.2929973630237328,
+    "expected": 0.15968356284793436,
+    "p_tail": 0.180921389365013
+   },
+   "controls_anap": {
+    "count": 15,
+    "words": 203521,
+    "per1000": 0.0737024680499801,
+    "expected": 0.040167845087239154,
+    "p_tail": 0.04065696690520515
+   },
+   "controls": {
+    "count": 204,
+    "words": 1258413,
+    "per1000": 0.16210894197691855,
+    "expected": 0.08834937337742062,
+    "p_tail": 0.08475715594424638
+   }
+  },
+  "opening": {
+   "observed": 1,
+   "moore": {
+    "count": 5,
+    "words": 21159,
+    "per1000": 0.23630606361359233,
+    "expected": 0.1287868046694078,
+    "p_tail": 0.13208265210099313
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.019240693491703764
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 6,
+    "words": 203521,
+    "per1000": 0.02948098721999204,
+    "expected": 0.01606713803489566,
+    "p_tail": 0.01725537169687219
+   },
+   "controls": {
+    "count": 92,
+    "words": 1258413,
+    "per1000": 0.07310795422488484,
+    "expected": 0.03984383505256223,
+    "p_tail": 0.039268538705971245
+   }
+  },
+  "lustre": {
+   "observed": 1,
+   "moore": {
+    "count": 1,
+    "words": 21159,
+    "per1000": 0.047261212722718465,
+    "expected": 0.025757360933881562,
+    "p_tail": 0.03789743300412207
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.019240693491703764
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 17,
+    "words": 203521,
+    "per1000": 0.08352946378997744,
+    "expected": 0.04552355776553771,
+    "p_tail": 0.04578117323585662
+   },
+   "controls": {
+    "count": 111,
+    "words": 1258413,
+    "per1000": 0.08820633607567627,
+    "expected": 0.04807245316124357,
+    "p_tail": 0.04714158816724101
+   }
+  },
+  "objects": {
+   "observed": 1,
+   "moore": {
+    "count": 4,
+    "words": 21159,
+    "per1000": 0.18904485089087386,
+    "expected": 0.10302944373552625,
+    "p_tail": 0.10943808160543411
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 1,
+    "words": 14025,
+    "per1000": 0.07130124777183601,
+    "expected": 0.03885918003565062,
+    "p_tail": 0.056618590604183394
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.11285348473591572
+   },
+   "controls_anap": {
+    "count": 25,
+    "words": 203521,
+    "per1000": 0.12283744674996684,
+    "expected": 0.06694640847873193,
+    "p_tail": 0.0660057537742127
+   },
+   "controls": {
+    "count": 100,
+    "words": 1258413,
+    "per1000": 0.07946516763574438,
+    "expected": 0.04330851636148069,
+    "p_tail": 0.04259140474238643
+   }
+  },
+  "soon": {
+   "observed": 2,
+   "moore": {
+    "count": 33,
+    "words": 21159,
+    "per1000": 1.5596200198497094,
+    "expected": 0.8499929108180916,
+    "p_tail": 0.21394895012767312
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.04753501203972588
+   },
+   "livingston": {
+    "count": 8,
+    "words": 14025,
+    "per1000": 0.5704099821746881,
+    "expected": 0.31087344028520497,
+    "p_tail": 0.04389775875738822
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.006622010262737343
+   },
+   "controls_anap": {
+    "count": 139,
+    "words": 203521,
+    "per1000": 0.6829762039298156,
+    "expected": 0.3722220311417495,
+    "p_tail": 0.054606326096094504
+   },
+   "controls": {
+    "count": 792,
+    "words": 1258413,
+    "per1000": 0.6293641276750955,
+    "expected": 0.34300344958292706,
+    "p_tail": 0.047009374132359394
+   }
+  },
+  "could": {
+   "observed": 0,
+   "moore": {
+    "count": 24,
+    "words": 21159,
+    "per1000": 1.1342691053452432,
+    "expected": 0.6181766624131575,
+    "p_tail": 0.5320458975089516
+   },
+   "moore_anap": {
+    "count": 2,
+    "words": 788,
+    "per1000": 2.5380710659898473,
+    "expected": 1.383248730964467,
+    "p_tail": 0.17784027642045852
+   },
+   "livingston": {
+    "count": 18,
+    "words": 14025,
+    "per1000": 1.2834224598930482,
+    "expected": 0.6994652406417112,
+    "p_tail": 0.48731547344215376
+   },
+   "liv_anap": {
+    "count": 3,
+    "words": 6826,
+    "per1000": 0.43949604453559915,
+    "expected": 0.23952534427190153,
+    "p_tail": 0.7562333378495336
+   },
+   "controls_anap": {
+    "count": 277,
+    "words": 203521,
+    "per1000": 1.3610389099896325,
+    "expected": 0.7417662059443497,
+    "p_tail": 0.4756364472328398
+   },
+   "controls": {
+    "count": 1395,
+    "words": 1258413,
+    "per1000": 1.1085390885186341,
+    "expected": 0.6041538032426557,
+    "p_tail": 0.5464186353797282
+   }
+  },
+  "twinkl": {
+   "observed": 2,
+   "moore": {
+    "count": 2,
+    "words": 21159,
+    "per1000": 0.09452242544543693,
+    "expected": 0.051514721867763125,
+    "p_tail": 0.0019861815406557737
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.04753501203972588
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.00018630086205095875
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.0007757215869725886
+   },
+   "controls_anap": {
+    "count": 9,
+    "words": 203521,
+    "per1000": 0.04422148082998806,
+    "expected": 0.024100707052343493,
+    "p_tail": 0.0003181484556156189
+   },
+   "controls": {
+    "count": 61,
+    "words": 1258413,
+    "per1000": 0.04847375225780408,
+    "expected": 0.026418194980503223,
+    "p_tail": 0.00034846822724698967
+   }
+  },
+  "nap": {
+   "observed": 1,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.01279550428356424
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 1,
+    "words": 14025,
+    "per1000": 0.07130124777183601,
+    "expected": 0.03885918003565062,
+    "p_tail": 0.056618590604183394
+   },
+   "liv_anap": {
+    "count": 1,
+    "words": 6826,
+    "per1000": 0.1464986815118664,
+    "expected": 0.07984178142396718,
+    "p_tail": 0.11285348473591572
+   },
+   "controls_anap": {
+    "count": 6,
+    "words": 203521,
+    "per1000": 0.02948098721999204,
+    "expected": 0.01606713803489566,
+    "p_tail": 0.01725537169687219
+   },
+   "controls": {
+    "count": 17,
+    "words": 1258413,
+    "per1000": 0.013509078498076546,
+    "expected": 0.007362447781451718,
+    "p_tail": 0.0075503362589303125
+   }
+  },
+  "st nick": {
+   "observed": 1,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.01279550428356424
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.2920443942527967
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.019240693491703764
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.03912893179438859
+   },
+   "controls_anap": {
+    "count": 0,
+    "words": 203521,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.001338025635189144
+   },
+   "controls": {
+    "count": 0,
+    "words": 1258413,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.00021651896611618593
+   }
+  },
+  "nicholas": {
+   "observed": 3,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 3.52539654246975e-07
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.005311433679103694
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 1.2045412332017946e-06
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 1.0286565621964172e-05
+   },
+   "controls_anap": {
+    "count": 4,
+    "words": 203521,
+    "per1000": 0.019653991479994692,
+    "expected": 0.010711425356597108,
+    "p_tail": 2.890133229405123e-07
+   },
+   "controls": {
+    "count": 10,
+    "words": 1258413,
+    "per1000": 0.007946516763574439,
+    "expected": 0.004330851636148069,
+    "p_tail": 1.5619046500603417e-08
+   }
+  },
+  "santa": {
+   "observed": 0,
+   "moore": {
+    "count": 0,
+    "words": 21159,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9872044957164358
+   },
+   "moore_anap": {
+    "count": 0,
+    "words": 788,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.7079556057472033
+   },
+   "livingston": {
+    "count": 0,
+    "words": 14025,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9807593065082962
+   },
+   "liv_anap": {
+    "count": 0,
+    "words": 6826,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9608710682056114
+   },
+   "controls_anap": {
+    "count": 0,
+    "words": 203521,
+    "per1000": 0.0,
+    "expected": 0.0,
+    "p_tail": 0.9986619743648109
+   },
+   "controls": {
+    "count": 8,
+    "words": 1258413,
+    "per1000": 0.006357213410859552,
+    "expected": 0.0034646813089184553,
+    "p_tail": 0.9963255464218314
+   }
+  }
+ },
+ "expressions_llr": {
+  "norsworthy8_log_lr_moore_vs_liv": 14.14965874098675,
+  "norsworthy8_detail": {
+   "should": 1.128848073011174,
+   "would": -0.10838955367901382,
+   "like": 6.883129940395287,
+   "hope": 1.0060366846635347,
+   "ere": 0.6710449559633744,
+   "dread": 1.148034445459522,
+   "vision(s)": 0.9158018182586751,
+   "brain(s)": 2.505152376914195
+  },
+  "jackson6_log_lr_moore_vs_liv": -3.667361950274901,
+  "jackson6_detail": {
+   "some": -1.7570791262082273,
+   "oft": -0.7272777675648006,
+   "many a": -0.4570604530824068,
+   "in vain": -0.2889789371723106,
+   "at length": -0.1859543625031234,
+   "that's": -0.25101130374403247
+  }
+ }
+}

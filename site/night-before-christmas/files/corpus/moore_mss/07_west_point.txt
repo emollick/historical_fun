@@ -1,0 +1,92 @@
+title: West-Point
+author: Clement Clarke Moore
+date: 1844 (5 Oct.)
+source: Museum of the City of New York, Poetry Manuscript Book of Clement C. Moore, accession 54.331.1 (7662), notebook pp. 102-106; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/moorewestpoint.htm
+form: iambic tetrameter/pentameter sestets (aabccb: tetrameter couplet + pentameter, twice)
+lines: 72
+attribution: certain
+notes: MS heading: 'Addressed to Miss Catharine Livingston.' Dated at the end 'Oct. 5, 1844.' (date line removed from body). Descriptive-reflective verse on West Point (cadets, Kosciusko monument), with a warning to maidens against gay cadets. Serious with light touches. Site line count 72 agrees. Not listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/), consistent with Jackson (2016) reportedly treating the MCNY notebook poems as held-back Moore texts; not independently verified against Jackson's book.
+
+Fair maid, I'd quarrel with my Muse,
+Could she, when thou dost ask, refuse
+To sing that lovely mountain-girt retreat
+Where gen'rous youth to arms are train'd,
+And warlike Science is attain'd,
+And where high Art and wildest Nature meet.
+
+In Fancy's dream I love to stray
+Where, late, you sylph-like, led the way,
+With tread elastic as a mountain deer,
+Thro' winding path or rocky nook,
+While oft we paus'd, with eager look
+At distant prospect or at objects near.
+
+Hark! 'Tis the early cannon's sound
+Gives voice to ev'ry hill around,
+And warns th' encampment of the op'ning day.
+At this loud call, in haste I rise,
+Ere yet the sun lights up the skies,
+Or ling'ring vapours melt before his ray.
+
+The rock-built mountains I behold,
+Uprising, silent, grand, and bold,
+From out the glassy stream that noiseless glides,
+While not a zephyr o'er it breathes
+Or checks the mist that lightly wreathes
+Its scarf around the mountain's shaggy sides.
+
+The dusk of morn that shades each hill,
+The scene all solemn, grave and still,
+The aspect, phantom-like, that marks the whole,
+With dreamy thoughts o'ershade the mind
+And call up visions, undefin'd,
+And lift to awe-touch'd extasy the soul.
+
+But soon the sun, with golden beam,
+Awakes me from this morning dream,
+And bids me hasten to the stirring camp,
+Where troops in even ranks appear,
+And martial music fills the ear,
+And prancing steeds their foaming bridles champ.
+
+But I would warn each maiden fair,
+With timely caution, to beware,
+While she delighted views this brilliant show,
+Lest from some gallant gay cadet
+A heart-wound she unconscious get;
+The source whence many a bitter tear may flow.
+
+Thence as, in musing mood, I stray,
+And wear the vacant hours away,
+Mid Nature's wildness or fair works of Art,
+An object, sudden, meets my eye,
+Which fails not to enkindle high
+A flame within each patriot soldier's heart.
+
+It is the monumental stone
+With Kosciusko's name alone
+Within a simple wreath of laurel trac'd.
+A single word that utters more
+Than choicest lines of pompous lore,
+Or sculptur'd bust with high-wrought trophies grac'd.
+
+While yet the day affords me time,
+The neighboring heights I slowly climb,
+And gaze on all the varied scene below.
+I hear the martial band again
+Pour out its bold inspiring strain,
+While distance gives the tones a softer flow.
+
+The clouds that deck the welkin blue,
+And glow with ev'ry loveliest hue;
+The temperate air that gently breathes around;
+The full content of ev'ry sense;
+All give a feeling so intense,
+That still on earth some glimpse of Heav'n is found.
+
+Sweet maid, if e'er by any chance
+Thou weary of the rout and dance,
+Or aught, in Fashion's round, like surfeit find,
+Then hie thee to such scenes as these;
+For Nature's charms ne'er cease to please,
+And though they fill, can never cloy the mind.

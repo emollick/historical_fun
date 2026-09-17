@@ -1,0 +1,18 @@
+title: Cowper's Reply
+author: William Cowper
+date: c. 1780-1793
+source: https://www.gutenberg.org/ebooks/47790 (The Works of William Cowper, ed. T. S. Grimshawe, London, 1849; shorter poems)
+form: ballad
+lines: 8
+attribution: certain
+notes: 
+
+To be remember'd thus is fame,
+And in the first degree;
+And did the few, like her, the same,
+The press might rest for me.
+
+So Homer, in the mem'ry stor'd
+Of many a Grecian belle,
+Was once preserved--a richer hoard,
+But never lodged so well.

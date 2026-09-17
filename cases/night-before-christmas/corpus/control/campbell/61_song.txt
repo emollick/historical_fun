@@ -1,0 +1,28 @@
+title: Song
+author: Thomas Campbell
+date: c. 1799-1840
+source: https://www.gutenberg.org/ebooks/59788 (The Poetical Works of Thomas Campbell, reprinted from the early editions, London: Griffith Farran, n.d. [c. 1890])
+form: ballad
+lines: 16
+attribution: certain
+notes: 
+
+Earl March looked on his dying child,
+And smit with grief to view her—
+“The youth,” he cried, “whom I exiled,
+Shall be restored to woo her.”
+
+She’s at the window many an hour
+His coming to discover;
+And her love looked up to Ellen’s bower,
+And she looked on her lover—
+
+But ah! so pale, he knew her not,
+Though her smile on him was dwelling.
+“And am I then forgot—forgot?”—
+It broke the heart of Ellen.
+
+In vain he weeps, in vain he sighs,
+Her cheek is cold as ashes;
+Nor love’s own kiss shall wake those eyes
+To lift their silken lashes.

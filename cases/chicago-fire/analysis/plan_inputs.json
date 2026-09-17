@@ -1,0 +1,370 @@
+{
+ "_coordinates": "x = feet east of the 1871 east line of Jefferson Street; y = feet north of the north building line of DeKoven Street; z = feet above lot grade. Sources: maps plan_coordinates.csv (Greeley-Carlson 1891 atlas plate 28, Cook County parcel 17-16-324-029, 1855 alley ordinance), Andreas 1885 vol. 2 pp. 708-717 (Dalton, Lee, McDermott, plat p. 717), Musham 1940 pp. 94-95 and plan p. 98, Abbott 1871 stereograph of the O'Leary cottage (CHM ICHi-02741), inquiry testimony as reported in the Chicago Tribune 25-26 Nov 1871.",
+ "street": {
+  "dekoven_width_ft": 60.0,
+  "source": "Greeley-Carlson 1891 plate 28 ('60'); Musham 1940 plan ('60 feet wide'); Sanborn 1906 sheet 110"
+ },
+ "alley": {
+  "width_ft": 15.0,
+  "south_line_y": 100.75,
+  "source": "1855 ordinance and 1891 plate (15 ft); Andreas plat draws 16 ft; Sullivan said 'about twelve feet'"
+ },
+ "lots": {
+  "oleary_137": {
+   "x0": 133.4,
+   "x1": 158.4,
+   "source": "E 1/2 of Lot 12, Block 38 (McDermott affidavit, Tribune 20 Oct 1871); lot lines from 1891 plate + parcel vertices, +-1.5 ft"
+  },
+  "dalton_135": {
+   "x0": 158.4,
+   "x1": 183.4,
+   "source": "W 1/2 of Lot 11; 1891 house number 135 at this half-lot"
+  },
+  "forbes_lee_133": {
+   "x0": 183.4,
+   "x1": 208.4,
+   "source": "E 1/2 of Lot 11"
+  },
+  "sullivan_134_south": {
+   "x0": 183.5,
+   "x1": 208.5,
+   "source": "E 1/2 of Lot 18 south of DeKoven; 1891 number 134; Bales: Catherine Sullivan's 75-ft tract, house on its east half-lot, vacant middle half-lot (Andreas: vacant lot west of Sullivan's)"
+  },
+  "white_west_132_south": {
+   "x0": 208.5,
+   "x1": 233.5,
+   "source": "Bales 2002 pp. 113, 195-199: William White's 'west parcel', 25 ft; Sullivan sat 'by a fence at the head of White's house or head of his lot'"
+  },
+  "white_east_130_south": {
+   "x0": 233.5,
+   "x1": 258.5,
+   "source": "Bales: White's 'east parcel' = E 1/2 of Lot 19; 1869-70 directory 'White William, lab. r. 130 DeKoven'"
+  }
+ },
+ "buildings": {
+  "oleary_cottages": {
+   "x0": [
+    133.4,
+    136.9
+   ],
+   "width": [
+    15,
+    17
+   ],
+   "y0": [
+    1,
+    3
+   ],
+   "depth": [
+    36,
+    40
+   ],
+   "floor": [
+    1.5,
+    2.5
+   ],
+   "eaves_above_floor": [
+    8.5,
+    9.5
+   ],
+   "ridge_above_floor": [
+    12,
+    15
+   ],
+   "ridge_axis": "N-S",
+   "source": "Andreas p. 714 (two cottages, 36 ft N-S, front nearly on the building line); Musham 16 ft wide; stereograph: one storey, gable to the street, on posts; east passage 'a large passage ... enough to roll' (Mrs McLaughlin, transcript p. 238 via Bales p. 231), so the cottage stands 0-3.5 ft from the west line"
+  },
+  "dalton_house": {
+   "x0": [
+    158.4,
+    159.4
+   ],
+   "width": [
+    16,
+    22
+   ],
+   "y0": [
+    33,
+    39
+   ],
+   "depth": [
+    38,
+    42
+   ],
+   "floor": [
+    3.5,
+    4.5
+   ],
+   "eaves_above_floor": [
+    8.5,
+    10.5
+   ],
+   "ridge_above_floor": [
+    12,
+    15
+   ],
+   "ridge_axis": "N-S",
+   "source": "Andreas p. 714: on the west line of the lot, front 2 ft south of the north end of the O'Leary cottages, 40 ft deep, 4 ft above ground on cedar posts, one storey; width not recorded",
+   "y0_rule": "oleary_cottages.y1 minus U(1,3) (Andreas: front 2 ft south of the north line of O'Leary's cottages)"
+  },
+  "forbes_cottages_133": {
+   "x0": [
+    183.4,
+    189.4
+   ],
+   "width": [
+    16,
+    20
+   ],
+   "y0": [
+    0,
+    4
+   ],
+   "depth": [
+    60,
+    80
+   ],
+   "floor": [
+    0.5,
+    2.5
+   ],
+   "eaves_above_floor": [
+    10,
+    12
+   ],
+   "ridge_above_floor": [
+    16,
+    20
+   ],
+   "ridge_axis": "N-S",
+   "source": "Andreas plat: '1 1/2 Story Cottage occupied by Walter Forbes (front), William Lee (middle), Morris Connovan (rear)'; footprint not drawn; Musham draws three cottages in a row"
+  },
+  "barn_133": {
+   "x0": [
+    183.4,
+    183.4
+   ],
+   "width": [
+    25,
+    25
+   ],
+   "y0": [
+    80.75,
+    80.75
+   ],
+   "depth": [
+    20,
+    20
+   ],
+   "floor": [
+    0,
+    0
+   ],
+   "eaves_above_floor": [
+    16,
+    20
+   ],
+   "ridge_above_floor": [
+    18,
+    24
+   ],
+   "ridge_axis": "N-S",
+   "source": "Andreas plat: '2 Story Barn 20 x 25' at the alley end of 133"
+  },
+  "dalton_shed": {
+   "x0": [
+    158.4,
+    158.4
+   ],
+   "width": [
+    18,
+    22
+   ],
+   "y0": [
+    88.75,
+    88.75
+   ],
+   "depth": [
+    12,
+    12
+   ],
+   "floor": [
+    0,
+    0
+   ],
+   "eaves_above_floor": [
+    7,
+    10
+   ],
+   "ridge_above_floor": [
+    8,
+    12
+   ],
+   "ridge_axis": "E-W",
+   "source": "Andreas p. 714: shed 12 x 20 at the rear of the lot on the west side"
+  },
+  "oleary_barn": {
+   "x0": [
+    133.4,
+    134.4
+   ],
+   "y1": 100.75,
+   "variants": [
+    {
+     "p": 0.5,
+     "width": 16,
+     "depth": 20,
+     "source": "Andreas plat 1885 (drawn 16 E-W by 20 N-S, 9-ft passage on the east)"
+    },
+    {
+     "p": 0.5,
+     "width": 20,
+     "depth": 16,
+     "source": "Musham 1940 plan (20 E-W by 16 N-S, 5-ft passage)"
+    }
+   ],
+   "ridge": [
+    14,
+    20
+   ],
+   "eaves_below_ridge": [
+    3,
+    5
+   ],
+   "ridge_axis_p_NS": 0.6,
+   "source": "Sullivan: 16 x 20, 14 ft high; Musham: about 16 ft high, peaked roof; Rau: about 20 ft high; Board: 'two-story barn'; Andreas plat: '1 1/2 Story Barn'"
+  }
+ },
+ "fences": {
+  "dalton_west_fence_house_to_shed": {
+   "x": 158.4,
+   "height": 8,
+   "source": "Andreas p. 714: 'a fence, eight feet high, ran from his house to his shed'"
+  },
+  "oleary_dalton_front_fence": {
+   "x": 158.4,
+   "y0": 0,
+   "height": [
+    0,
+    7
+   ],
+   "p": 0.7,
+   "source": "Musham 1940: 'high wooden fences separated the lots'; Bales p. 233: Mrs McLaughlin's testimony suggests another fence ran from the front of Dalton's house; existence and height not recorded"
+  },
+  "dalton_133_fence": {
+   "x": 183.4,
+   "y0": 0,
+   "y1": 80.75,
+   "height": [
+    4,
+    7
+   ],
+   "p": 0.7,
+   "source": "as above"
+  },
+  "street_pickets": {
+   "y": 0,
+   "height": [
+    3,
+    4.5
+   ],
+   "source": "stereograph shows a picket fence in front of the O'Leary cottage"
+  },
+  "oleary_shed": {
+   "p": 0.4,
+   "x0": 149.4,
+   "x1": 158.4,
+   "y0": 88,
+   "y1": 100.75,
+   "height": [
+    7,
+    10
+   ],
+   "source": "Patrick O'Leary: 'in a shed outside were some coal and more wood'; Sullivan: 'the shed adjoining the barn'; position not recorded; placed in the east passage in 40% of samples"
+  }
+ },
+ "observer": {
+  "positions": {
+   "P1_white_west_fence_Bales": {
+    "x": [
+     208.5,
+     233.5
+    ],
+    "y": [
+     -61,
+     -56
+    ],
+    "note": "Bales's placement: against White's fence at the building line, in front of White's west parcel"
+   },
+   "P2_white_east_130": {
+    "x": [
+     233.5,
+     258.5
+    ],
+    "y": [
+     -61,
+     -50
+    ],
+    "note": "in front of White's east parcel (No. 130)"
+   },
+   "P3_own_house_134": {
+    "x": [
+     183.5,
+     208.5
+    ],
+    "y": [
+     -61,
+     -50
+    ],
+    "note": "Andreas 1885: 'sitting in front of his own house, nearly opposite'"
+   },
+   "P4_vacant_lot_136": {
+    "x": [
+     158.5,
+     183.5
+    ],
+    "y": [
+     -61,
+     -50
+    ],
+    "note": "the vacant half-lot west of Sullivan's house"
+   },
+   "P5_opposite_oleary": {
+    "x": [
+     133.4,
+     158.4
+    ],
+    "y": [
+     -61,
+     -50
+    ],
+    "note": "Board of Police report: 'on the sidewalk on the south side of DeKoven street, and nearly opposite Leary's premises'"
+   },
+   "P1b_white_west_midpoint_Bales": {
+    "x": [
+     218,
+     224
+    ],
+    "y": [
+     -60.5,
+     -57.5
+    ],
+    "note": "Bales Appendix B: distance measured from the midpoint of White's west parcel; seated against the fence at the building line"
+   }
+  },
+  "eye_heights": {
+   "seated_at_grade": [
+    2.5,
+    3.8
+   ],
+   "seated_on_raised_walk": [
+    3.8,
+    5.0
+   ],
+   "standing": [
+    5.0,
+    5.8
+   ]
+  }
+ }
+}

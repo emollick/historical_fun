@@ -1,0 +1,22 @@
+Site lat/lon: 35.5215 -87.4569 ; LMT offset (h): -5.83
+
+New moon before: 1809/10/9 07:30:04 UTC -> 1809-10-09 01:40 LMT
+First quarter:   1809/10/16 00:58:25 UTC -> 1809-10-15 19:08 LMT
+Full moon:       1809/10/23 09:08:50 UTC -> 1809-10-23 03:19 LMT
+Last quarter:    1809/10/1 18:00:01 UTC -> 1809-10-01 12:10 LMT
+
+Sunset 10 Oct: 1809/10/10 23:21:29 UTC -> 1809-10-10 17:31 LMT
+Sunrise 11 Oct: 1809/10/11 11:52:35 UTC -> 1809-10-11 06:02 LMT
+End of civil twilight 10 Oct: 1809-10-10 17:57 LMT; start of civil twilight 11 Oct: 1809-10-11 05:37 LMT
+Moonrise (next after 06 LMT 10 Oct): 1809-10-10 07:25 LMT
+Moonset  (next after 06 LMT 10 Oct): 1809-10-10 18:35 LMT
+Following moonrise: 1809-10-11 08:32 LMT
+1809/10/11 01:00 UTC = 1809-10-10 19:10 LMT: moon alt   -7.5 deg, az  258.0, illuminated   4.0% ; sun alt  -20.8
+1809/10/11 03:00 UTC = 1809-10-10 21:10 LMT: moon alt  -30.9 deg, az  274.3, illuminated   4.4% ; sun alt  -44.1
+1809/10/11 05:00 UTC = 1809-10-10 23:10 LMT: moon alt  -53.4 deg, az  296.6, illuminated   4.8% ; sun alt  -60.1
+1809/10/11 07:00 UTC = 1809-10-11 01:10 LMT: moon alt  -68.7 deg, az  346.8, illuminated   5.2% ; sun alt  -55.6
+1809/10/11 08:50 UTC = 1809-10-11 03:00 LMT: moon alt  -62.0 deg, az   48.0, illuminated   5.7% ; sun alt  -37.4
+1809/10/11 11:00 UTC = 1809-10-11 05:10 LMT: moon alt  -39.5 deg, az   80.2, illuminated   6.2% ; sun alt  -11.5
+
+CHECK: lunations between candidate new moon 1809-10-09 07:30 UTC and 2000-01-06 18:14 UTC = 2352.999
+(an integer to within a few hundredths confirms a new moon near 9 Oct 1809; the mean lunation drifts by up to ~0.5 day, so agreement to 0.02 is strong)

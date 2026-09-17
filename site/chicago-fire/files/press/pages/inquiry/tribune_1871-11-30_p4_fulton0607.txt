@@ -1,0 +1,424 @@
+SOURCE: fultonhistory.com scan 'Chicago IL Tribune 1871 - 0607.pdf' = Chicago Tribune, Thursday 30 November 1871, probably p.4 (masthead on the scan: 'THE CHICAGO TRIBUNE. THURSDAY, NOVEMBER 30, 1871'; scans 0604/0605 match LoC 30 Nov p1/p2, so 0606-0609 = pp.3-6). This page is NOT in the LoC copy of the issue (LoC has only pp.1-2 of 30 Nov 1871).
+URL: https://fultonhistory.com/Newspapers%2023/Chicago%20IL%20Tribune/Chicago%20IL%20Tribune%201871/Chicago%20IL%20Tribune%201871%20-%200607.pdf
+Text = PyMuPDF extraction of Fulton's OCR layer; columns interleave and the article headline was not recovered. Segments: [A] main report (chars 49040-60920 of the extracted text); [B] stray headline/summary fragment (chars 66843-67000); [C] displaced continuation of Hildreth's testimony (chars 69150-71340).
+
+[A]
+Board of Police and Fire Commissioners 
+resumed their investigation yesterday morning. 
+The first witness called was Mr. Thomas B. 
+Burtis, brother of the witness examined on 
+Tuesday, and day Supemtcndent of the Gas 
+Works. He was examined with a view to ascer-
+taining the condition of the gas-holder at the 
+time of the fire. He said he felt alarmed for the 
+first time when the tar factory, adjoining the 
+building, took fire. The largest'holder was below 
+the coupling point and the smaller one was 
+very much lower. 
+He examined the valves to 
+the dark, and felt that they were all right The 
+gas that was to the meters was sent over to the 
+North Side. The gas was shut oft from the dis-
+tributing main early in the morning. The South 
+Side supply was left on, because when the build-
+ing was on fire, he could not turn it off. The gas 
+leaked out from the joints as fast as it was 
+made, from the effects of 
+the fire. They 
+were 
+manufacturing, 
+at the time, at the 
+rate of about 800,000 feet in U hoars. 
+This 
+gas escaping made toe building very much hot-
+ter ; the flames could be seen issuing from the 
+joints. They were manufacturing gas on the 
+North Side, too, but at that time of night the heavy 
+consumption of toe street lamps had consider-
+ably exhausted the supply. They always kept 
+the North Side holder in such a condition as to re-
+ceive what they were making. They manufac-
+tured meet in the South Side works, and the 
+North Sid* works were established to relieve the 
+South Side, the latter holder not having sufficient 
+S>wer to supply the whole South Side. T*he North 
+de holder had the greater capacity, and on the 
+night of the fire held most gas; the South Side 
+holders were fortunately very tow at the time. 
+If he received an order to letoff the gas, he would 
+let ft out of the man-helee. It was not feasible to 
+tot the gas out with the sparks flying; the east 
+end of the works was in a blaze, ana he would 
+not therefore, raise toe "lids." There were 
+times when such a course would have been right, 
+but that was not suoh a time. With the wind In 
+that direction, the gas would not have risen, but 
+have been carried to the blazing east end and 
+caused aa expiation. With the largest amount of 
+ga* on to* North Side, the effect of opening the 
+valves would be to equalise the pressure on each. 
+IX tne other two holders were filled, the gas could 
+not be sent from the South Side. Heoou Id not tell 
+to which of the North Side holders the gas was 
+sent The water to toe holders was never stag-
+nant ; toe ga* generally purified it .There was 
+never any occasion for cleaning the tank. There 
+was ao chance for the gas to escape except 
+through the man-holes, and that was not done. 
+If there was a smell of gas after the order had 
+been given to tot off toe gas, he would say there 
+was a leak. The gas was not shut off from the 
+consumers. No eas escaped into the air from the 
+holders or the sewers. The effects of sending gas 
+through the sewers, should it encounter the fire, 
+would be very dangerous. 
+CHABLES ANDERSON, 
+foreman of the America hose cart, was the first 
+man to have a stream on the blazing barn. A 
+still alarm bad been given at the house, and he 
+bad fixed the hose to a hydrant and thus threw a 
+" plug-stream." The wind was blowing heavily, 
+but not sufficiently so to prevent his thro wing a 
+good stream on the barn 20 feet away. Ia five 
+minutes twenty or thirty buildings were on fire. 
+JOHN C. SMITH, 
+foreman of the Lincoln Hose Company, situated 
+at Webster avenue, was called. As he did not 
+reach the fire until nearly an hour after the third 
+alarm was given, and as beyond stating that 
+when he did reach It he began to took for hose, 
+his testimony was valueless, except to give Mr. 
+Sheridan an opportunity to remark that, though 
+all the carts took a fall supply of hose, they all 
+appeared to have devoted the greater part of their 
+time to looking for hose. 
+EX-ALDKKJIAN HILDBBTH. 
+It was stated that this gentleman was to the 
+sergeants' room, and a messenger was despatch-
+ed to find him. He had considerable objection to 
+be interviewed by the city authorities and report-
+ers. 
+The Commissioners told him that thay were 
+accused of hearing only the Fire Department, and 
+would like to hear his statement He said if there 
+ws* any liability be would speak out. 
+Hews* 
+tnen sworn, and male the following statement: 
+It was somewhere about 9 o'clock when be heard 
+of the fire. Seeing the light, he dressed and went 
+to the place. Itwas then in four or five buildings. 
+Ho stood aad raw the firemen work. 
+He had an 
+Idea at the time that the fire was going north 
+faster than the firemen were cheeking i t Ha 
+remarkea to Mr. McClelland that he would 
+like to see the Marshal or Commissioners. He 
+found Williams and told him he must resort to 
+some other measure or there was no knowing 
+where the matter would stop. Williams replied 
+that he was doing his best. Mr. Htldreth sug-
+gested moving the engines to the north of the Are. 
+The Marshal then went about his business. HI] 
+dreth then met Mr. Locke, Assistant City Engt-
+nt er, and said he believed there was going to he 
+the biggest fire the city ever saw, and suggested 
+tearing down or blowing up buildings. Mr.Looke 
+had some conversation with Williams about blow-
+ing up the buildings, but the Marshal said he did 
+not understand bow to doit, neither had he the 
+wwer or the means. Bfldretb said he would 
+fuinlsh toe powder, and IT he (Williams) would 
+£ve him authority, he would tear down the 
+hidings. He then started for the powder, 
+the 
+fire 
+act 
+yet 
+having 
+reached 
+Bateham's mill, and secured the insurance ex-
+S
+rese wagon. The Gund (he believed) was caught 
+1 some plank* on Canal street He asked Bul-
+wbikle, Captain of the Insurance Brigade, to let 
+him eo for powder, and broke to the powder 
+magazines on both sides of State and Water 
+streets. The man in o£»rge refused to give them 
+a fuse, and delayed them 6onadCr*Plf. When he 
+got back the fire was on the South Side, and he 
+went to the Court Hones, and put the powder in 
+the trial-room of the Police Department. 
+He 
+looked round everywhere for the Commissioners 
+or * Marshal. He had seen Commissioners Sheri-
+dan and Brown. He went completely round the 
+fire, and crossed on Indiana street bridge. There 
+was a rumor started that the gas works were 
+about to blow up, which created a general 
+stampede 
+from 
+the locality, in which he 
+joined. 
+He returned to the Court House, but 
+failed to find any of the Commissioners or the 
+Mayor. On going out, however, he encountered 
+the totter. He then told him something must be 
+done to check the fire, the engines being useless. 
+He asked the Mayor to give him authority to 
+blow up toe buildings, sad the order was written. 
+Judge Miller happening in, the Mayor asked 
+him if the order would do. Judge Miller thought 
+it ought to give authority to the Fire Marshal. 
+His amendment was to add " under the orders of 
+the Fire Marshal, adopting such measures a* he 
+might direct" The Mayor then wrote toe amend-
+ment, and then copied the document Finally he 
+took paasosston of it and ran out to find the Fire 
+Marshal (Williams). 
+He found him on La-
+Salle 
+street between 
+Madison and Wash-
+ington, 
+and 
+read 
+the 
+order 
+to him. 
+The Marshal said 
+something 
+about looking 
+after his 
+engines, and 
+remained 
+where 
+he was. He had endeavored to hasten the Mayor 
+while the latter was writing the orders, so as to 
+begin the work of blowing up buildings before 
+the fire spread beyond the south side of Madison 
+street The Mayor wrote three orders and copied 
+the third. He returned to the Court House and 
+found the Mayor. 
+Mr. Williams inquired if at this time the Ori-
+ent al Building was not on fire. 
+Mr. Hildreto did not know. He went back to 
+the Mayer and said the Marshal was attending 
+bis engine* aad something; must immediately be 
+done. Judge Miller said, " For God'a sake do 
+something." The Mayor reiterated the request. 
+He suggested beginning at the Union National 
+Building. The difficulty was to obtain men to 
+carry the powder. He met Sergeant Loll, who 
+ordered a squad of policemen to carry the powder 
+- to the building. Having taken the powder there. 
+he kicked toe kegs open with bis boot, laid it, and 
+touched it off. It blew through toe building 
+without doing any good. Powder was then placed 
+in the basement of Smith <b Nixon's Building, to 
+what aeemed to be a bakery. That used up all 
+toe powder. The Mayor sent for more powder. 
+Tn the morning toe Mayor's sou came-to him, on 
+n abash avenue, and told him that the powder 
+would arrive hi a few minutes, and was put en-
+tirely under his control. He put powder on the 
+northwest corner of Washington street and Wa-
+bash avenue, also next door to Lord A Smith's. 
+Tl e wagon then went away south with toe pow-
+der. 
+He 
+followed 
+it 
+and met D. 
+A 
+Gsge on 
+Michigan 
+avenue, 
+and 
+asked 
+bis advice as to what to Wow up. That was near 
+Terrace Row. He totd Mm to "go on and be 
+weuld retoto him when be found M* wife." He 
+made np hia mind to blow up oa State aad Harri-
+etrecta. 
+He received 
+assistance 
+from 
+Munn A Scott's 
+hia own brothers, 
+eridftn, whom he 
+met, gave him every encouragement He blew 
+up on Harrison, from State street to the church ; 
+on Wabash avenue, from Harrison to Congress; 
+on Congress to Michigan avenue. Meenwhue the 
+tu at had fired the cornice oi a building on the 
+smith* ast corner of Harrison street and Wabash 
+avtaae. 
+While he was blowing up, General 
+8heridanhad gone to work, after the fire was 
+checked on that 
+line, 
+and 
+was tearing 
+down 
+Colonel 
+Hough's 
+house, 
+a 
+block 
+south. Three men brought a message to him 
+£?JB.ib* .**/•*> GbamraT Logan, and General 
+Sbnidan. to brtog his powder to Harrison street 
+He replied (not very respectfully, as be should 
+buildiBM. Thepastet'e bafftftegto the rmr ot 
+the Methodist Church came down beaotrtoUy. 
+There were al* kfg* there. Two kegs la » Ctofet 
+were asnseful as five to a room. He could not 
+•ay how many buildings were bfown up-thirty 
+or forty. 
+There were no buildings blown up 
+south of the line be bad acted on. 
+There was no 
+one else blowing np buildings In the South Di-
+vision. 
+Genera) Sheridan wanted to get some 
+powder to blow np the buildings a block in the 
+rear oi where he wa». but could not g»t any. 
+Commhwioner Sheridan said there was • talk 
+of suing the city. 
+Mr. Hildieth remembered that he (Sheridan) 
+bad told him not to blow up any building whioh 
+was not necessary. 
+Mr. David Gage, aad Cum-
+mifcetoner Bheridun were the only persons who 
+gave him eneonjragciueBt 
+Contniksioner Sheridan 
+said 
+the 
+utmost 
+care 
+was 
+taken 
+not 
+to blow 
+down 
+a 
+building unless it waa abuolutely necessary. 
+The i*re»T difficulty was to restrain the crowd 
+iron, blowing up the chuich. Theyaaid: "Let 
+her rip," " blew ber up," »G-d it, don't burn the 
+town down." The order was imperative to take 
+the powder out of the chnrch. and It was more 
+reluctantly obeyed by the orowd. 
+Mr. Hlldrefh said Mr. Hough would testify that 
+be (Hildreth) had prevented his destroying hi* 
+own house. He saw Hough oa his own roof. 
+General Sheridan and Mr. St arns went to M*-
+boncy. who had charge of the powder, aad asked 
+for some. He said the General could not have 
+it They tried to take it by forc*>. and Mahoney 
+drew a revolver and said he woald have to wait 
+until the pistol was emptied before he got it. Gen-
+eral Sheridan asked if he knew who he was, and 
+Mahoney said " he didn't care * d—n, but he 
+couldn't have the powder." Afterward he told 
+him he could eirry the powder If he wanted to 
+have anything to do with it, and, on the General's 
+refusing, he abused him roundly. 
+The board then adjourned until 10 o'clock to-
+morrow morning 
+^ 
+BUILDING MATERIAL 
+One ef the Impertaft* Elements re the 
+atre
+
+[B]
+Mahoney, a man employed in 
+elevator, Driscoil. • policemaa. 
+and other* Commissioner fib 
+of probabilities, many of the totter expressing toe 
+opinion that 
+
+[C]
+yed 
+L D*1.^? 05*^* t o^ t oJ ,»^ t t'. M , f l ft aBTeedto 
+let it stand for awhile. It get on fire, but with 
+Commissioner 
+Sheridan's 
+advice it was al-
+lowed 
+to 
+stand, 
+aad 
+«as 
+net 
+rutoed. 
+That 
+ended 
+the 
+blowing 
+up 
+on the South Side. He then went to North avenue, 
+en Clark street* and made an effort to blow up 
+buildings there, but ae one could be prevailed on 
+to stop, and be was wearied out The word 
+"powder''put them to flight The explosion in 
+the first frame buildings had no effect to stop the 
+flre. There was not system enough to blow them 
+up effectually. It would take an hour to lay 
+powder to blow np a house. Even when he car-
+ried i t red hot coals fell upon him. He wrapped 
+his coat around the kegs. At Harrison street 
+they could blow up a building every five min-
+utes, and men became careless 
+about the 
+ganger. 
+If 
+they 
+had 
+been 
+as 
+slow 
+in 
+blowing 
+up on 
+Harrison 
+street 
+as 
+on Washington the fire would have overtaken 
+them. In the building on the northwest corner 
+ef Wabash avenue and Washington street he 
+made a fuse of paper sprinkled with powder. 
+It was dangerous work. If the Harrison street 
+buildings had not been blown down 1M had no 
+doubt that the fire would have continued. It 
+could not be stopped on Congress street by the 
+levelling of the buildings. He didn't see ho w the 
+Michigan Avenue Hotel could have been saved 
+without it. There were? no persons bk>\ m up in 
+the buildings—the word "powder" au&t them 
+away quick enough. When powder wa« put in 
+the Basajment it did not hare a good effect 
+After three or four explosion* he put it on the 
+flcxr above the basement, and in that case the 
+building would fall right In together. There w *s 
+very little brick even oft toe sidewalk. 
+He 
+did not know what the effect would be on wooden 
+w herever convenient, their material coming 
+-jipaliy by rail, and dockage not be-
+fog, 
+therefore, 
+essential 
+to 
+their 
+exist-
+ence. The two branches 
+of 
+the 
+lumber 
+trade are never connected. 
+The principal 
+kinds of wood utilized for building and mechani-
+cal purposes are white wood, a species of poplar, 
+bass wood, oak, ash, maple, cherry, black walnut, 
+and white waln

@@ -1,0 +1,15 @@
+title: Addressed by Lord Byron to Mr. Hobhouse
+author: George Gordon, Lord Byron
+date: c. 1806-1824
+source: https://www.gutenberg.org/ebooks/27577 (The Works of Lord Byron, Poetry vol. VII, ed. E. H. Coleridge, London: John Murray, 1904)
+form: anapestic trimeter
+lines: 5
+attribution: certain
+notes: jeu d'esprit / minor poem (vol. VII, 1798-1824)
+
+WOULD you go to the house by the true gate,
+Much faster than ever Whig Charley went;
+Let Parliament send you to Newgate,
+And Newgate will send you to Parliament.
+
+April 9, 1820.

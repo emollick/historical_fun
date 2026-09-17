@@ -1,0 +1,146 @@
+TEXT: 'The names of all the men, women and children, which safely arriued in Virginia, and remained to inhabite there. 1587. Anno regni Reginae Elizabethae. 29.' (Hakluyt 1600, vol. III, pp. 287-288)
+GOLDSMID SECTION: XXXI (Gutenberg #25645 file lines 13806-13947)
+SOURCE EDITION: Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid, vol. XIII 'America, Part II' (Edinburgh: E. & G. Goldsmid, 1889), text as transcribed by Project Gutenberg eBook #25645 (release 2008-05-29, updated 2020-06-20). Goldsmid reprints the text of the 1600 edition (vol. III) with original spelling (u/v, i/j as printed); Hakluyt's marginal notes are given as bracketed (Mnnn) references and Goldsmid's footnotes as (nnn) numbers.
+URL FETCHED: https://www.gutenberg.org/cache/epub/25645/pg25645.txt  (also https://www.gutenberg.org/files/25645/25645-8.txt)
+DATE FETCHED: 2026-09-14
+1600-EDITION PAGE NUMBERS: taken from the '[III. nnn.]' markers in the MacLehose edition (Glasgow 1904, vol. VIII), archive.org id principalnavigat08hakl, which reproduces the 1600 pagination; see maclehose1904_vol8_virginia_section.txt in this folder.
+==============================================================================
+
+XXXI. The names of all the men, women and children, which safely arriued
+in Virginia, and remained to inhabite there. 1587. Anno regni Reginæ
+Elizabethæ. 29.
+
+
+      Iohn White.
+      Roger Baily.
+      Ananias Dare.
+      Christopher Cooper.
+      Thomas Steuens.
+      Iohn Sampson.
+      Dyonis Haruie.
+      Roger Prat.
+      George How.
+      Simon Fernando.
+      Nicholas Iohnson.
+      Thomas Warner.
+      Anthony Cage.
+      Iohn Iones.
+      William Willes.
+      Iohn Brooke.
+      Cutbert White.
+      Iohn Bright.
+      Clement Tayler.
+      William Sole.
+      Iohn Cotsmur.
+      Humfrey Newton.
+      Thomas Colman.
+      Thomas Gramme.
+      Marke Bennet.
+      Iohn Gibbes.
+      Iohn Stilman.
+      Robert Wilkinson.
+      Iohn Tydway.
+      Ambrose Viccars.
+      Edmond English.
+      Thomas Topan.
+      Henry Berry.
+      Richard Berry.
+      Iohn Spendloue.
+      Iohn Hemmington.
+      Thomas Butler.
+      Edward Powell.
+      Iohn Burden.
+      Iames Hynde.
+      Thomas Ellis.
+      William Browne.
+      Michael Myllet.
+      Thomas Smith.
+      Richard Kemme.
+      Thomas Harris.
+      Richard Tauerner.
+      Iohn Earnest.
+      Henry Iohnson.
+      Iohn Starte.
+      Richard Darige.
+      William Lucas.
+      Arnold Archard.
+      Iohn Wright.
+      William Dutton.
+      Mauris Allen.
+      William Waters.
+      Richard Arthur.
+      Iohn Chapman.
+      William Clement.
+      Robert Little.
+      Hugh Tayler.
+      Richard Wildye.
+      Lewes Wotton.
+      Michael Bishop.
+      Henry Browne.
+      Henry Rufoote
+      Richard Tomkins.
+      Henry Dorrell.
+      Charles Florrie.
+      Henry Mylton.
+      Henry Paine.
+      Thomas Harris.
+      William Nichols.
+      Thomas Pheuens.
+      Iohn Borden.
+      Thomas Scot.
+      Peter Little.
+      Iohn Wyles.
+      Brian Wyles.
+      George Martyn.
+      Hugh Pattenson.
+      Martin Sutton.
+      Iohn Farre.
+      Iohn Bridger.
+      Griffen Iones.
+      Richard Shabedge.
+      Iames Lasie.
+      Iohn Cheuen.
+      Thomas Hewet.
+      William Berde.
+
+Women.
+
+      Elyoner Dare.
+      Margery Haruie.
+      Agnes Wood.
+      Wenefrid Powell.
+      Ioyce Archard.
+      Iane Jones.
+      Elizabeth Glane.
+      Iane Pierce.
+      Audry Tappan.
+      Alis Chapman.
+      Emme Merrimoth.
+      Colman.
+      Margaret Lawrence.
+      Ioan Warren.
+      Iane Mannering.
+      Rose Payne.
+      Elizabeth Viccars.
+
+Boyes and children.
+
+      Iohn Sampson.
+      Robert Ellis.
+      Ambrose Viccars.
+      Thomas Archard.
+      Thomas Humfrey.
+      Thomas Smart.
+      George How.
+      Iohn Prat.
+      William Wythers.
+
+Children borne in Virginia.
+
+      Virginia Dare.
+      Haruie.
+
+Sauages that were in England and returned home into Virginia with them.
+
+      Manteo.
+      Towaye.

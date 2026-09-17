@@ -1,0 +1,101 @@
+{
+ "hypotheses": [
+  "Babylon",
+  "Nineveh",
+  "No single structure"
+ ],
+ "base_posterior": [
+  0.5679471971650447,
+  0.050866651328586476,
+  0.3811861515063688
+ ],
+ "clusters": [
+  {
+   "id": "C1",
+   "name": "Location testimony of the Greek tradition",
+   "items": [
+    "Every Greek and Latin source that names a city puts the garden in Babylon: the Clitarchus-derived accounts (Diodorus 2.10, Curtius 5.1.31-35), Strabo 16.1.5, Berossus/Abydenus; Philo names no city, and Antipater of Sidon names Babylon only for the wall beside the gardens",
+    "Greek writers from Herodotus 1.178 on distinguish Babylon from the dead city of Ninus; Xenophon saw Nineveh deserted in 401 BC (Anab. 3.4.10-12); the descriptions present a working garden in Alexander's Babylon",
+    "No Neo-Assyrian text calls Nineveh 'Babylon'; the 'old Babylon' latitude datum is an 11th-century Arabic tract (Bichler-Rollinger 2005, 179-181); Sennacherib's cult transfers concern Assur, not Nineveh"
+   ],
+   "P_B": 0.9,
+   "P_N": 0.12,
+   "P_0": 0.75
+  },
+  {
+   "id": "C2",
+   "name": "Berossus",
+   "items": [
+    "Berossus (c. 290 BC), a Babylonian priest demonstrably using Nebuchadnezzar's inscriptions (the 'fifteen days'), places the 'hanging paradeisos' of high stone terraces in Nebuchadnezzar's new palace (Josephus, Ap. 1.141 = Ant. 10.226; Abydenus in Eusebius, PE 9.41)",
+    "Nebuchadnezzar's own text on that palace describes a 'kummu of large gigunu-terraces' raised 'as high as a mountain' (RINBE 1/1 Nbk. 21 ii 33-35; Nbk. 2 viii 27-ix 2), which CAD G 70 already said 'could well have been interpreted as a hanging garden'"
+   ],
+   "P_B": 0.8,
+   "P_N": 0.2,
+   "P_0": 0.35
+  },
+  {
+   "id": "C3",
+   "name": "The Babylonian blank",
+   "items": [
+    "No Neo-Babylonian royal inscription mentions a garden at Babylon (RINBE 1/1, 2024: 'nor in any other extant text of Nebuchadnezzar'; the corpus's two occurrences of kiru are Nabonidus' orchards at Ur and a funerary offering)",
+    "Nothing identifiable has been excavated at Babylon; Koldewey's vaulted building is a storeroom; the North Palace slopes and riverside are denuded and largely unexcavated",
+    "Herodotus, Xenophon's Cyropaedia and the eyewitness Alexander stratum (Arrian; the Ephemerides in Plutarch, Alex. 76) are silent; only Clitarchus and Berossus/Abydenus carry the garden"
+   ],
+   "P_B": 0.3,
+   "P_N": 0.95,
+   "P_0": 0.9
+  },
+  {
+   "id": "C4",
+   "name": "The Nineveh match, net of what is missing",
+   "items": [
+    "Sennacherib documents a palace garden 'a replica of Mount Amanus', water raised from wells by a novel cast-copper installation, canals and aqueducts (RINAP 3/1 no. 17 vii 45-57; Jerwan); reliefs show an aqueduct on arches into a planted hillside (BM 124939) and a pillared walkway roofed with trees (Or. Dr. IV 77)",
+    "But his detailed accounts never describe terraces, vaults or a raised substructure; the 'wonder for all peoples' is the palace (no. 17 vii 50-52); the Amanus formula is reused by Esarhaddon (RINAP 4 no. 1 vi 30-34); the relief shows a hillside and an aqueduct, not tiered vaults (Reade 2000; Bichler-Rollinger 2005)"
+   ],
+   "P_B": 0.5,
+   "P_N": 0.7,
+   "P_0": 0.45
+  },
+  {
+   "id": "C5",
+   "name": "Builder and wife",
+   "items": [
+    "Nebuchadnezzar for his Median wife (Berossus); 'a later Syrian king reigning at Babylon' for a Persian concubine (Clitarchus): Nebuchadnezzar's Median marriage is credible, Sennacherib's queens (Tashmetu-sharrat, Naqia) are not Median",
+    "but 'Syrian' means Assyrian (Strabo 16.1.2) and fits any Sargonid who held Babylon, so the attribution itself is only mildly discriminating. Building materials (the baked brick and bitumen of Strabo and Diodorus) are not counted, because they do not discriminate: Sennacherib's own palace account has the terrace foundation bonded with bitumen under a bed of reeds (RINAP 3/1 no. 17 v 86-vi 1; no. 16 vi 19b-21a) and culverts of baked brick under the city wall (no. 16 vii 81-84), and baked brick with bitumen is attested archaeologically at Nineveh (Viggiano)."
+   ],
+   "P_B": 0.55,
+   "P_N": 0.4,
+   "P_0": 0.5
+  },
+  {
+   "id": "C6",
+   "name": "The screws",
+   "items": [
+    "Strabo's and Philo's kochliai versus Sennacherib's copper 'tree trunks and date palms' set over wells for bucket-drawn water (dilutu): the screw reading is conjectural (CAD A/1 and M/1; RINAP 3/1 note 49; Bagg 2000), and the Greek screw is probably Hellenistic technology (Oleson in Dalley-Oleson 2003, 14)"
+   ],
+   "P_B": 0.45,
+   "P_N": 0.5,
+   "P_0": 0.45
+  },
+  {
+   "id": "C7",
+   "name": "A watered garden at the North Palace in Persian times",
+   "items": [
+    "A Persian-period Babylon text lists gardeners (nukaribbu) and water-drawers (dalu) for the 'new palace' (Abraham 2004 no. 18, via Pedersen 2021, 121)"
+   ],
+   "P_B": 0.8,
+   "P_N": 0.6,
+   "P_0": 0.6
+  }
+ ],
+ "dalley_favourable": [
+  0.2725149569249165,
+  0.5445826039457894,
+  0.1829024391292941
+ ],
+ "nineveh_ahead_scenario": [
+  0.18290359456369873,
+  0.6820621110123205,
+  0.1350342944239807
+ ]
+}

@@ -1,0 +1,19 @@
+title: Lines to a Lady Weeping
+author: George Gordon, Lord Byron
+date: c. 1809-1813
+source: https://www.gutenberg.org/ebooks/21811 (The Works of Lord Byron, Poetry vol. III, ed. E. H. Coleridge, London: John Murray, 1900)
+form: iambic tetrameter
+lines: 9
+attribution: certain
+notes: occasional piece (Poems 1809-1813)
+
+Weep, daughter of a royal line,
+A Sire's disgrace, a realm's decay;
+Ah! happy if each tear of thine
+Could wash a Father's fault away!
+Weep--for thy tears are Virtue's tears--
+Auspicious to these suffering Isles;
+And be each drop in future years
+Repaid thee by thy People's smiles!
+
+March, 1812.

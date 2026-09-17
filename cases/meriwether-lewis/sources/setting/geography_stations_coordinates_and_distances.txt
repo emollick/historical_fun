@@ -1,0 +1,33 @@
+# Geography note: coordinates and computed distances between the stations of Lewis's last journey (Fort Pickering - Chickasaw Agency - Colbert's Ferry - Grinder's Stand - Nashville), with Natchez Trace Parkway mileposts and the Wikidata record for the monument.
+
+CITATION: Geography note: coordinates and computed distances between the stations of Lewis's last journey (Fort Pickering - Chickasaw Agency - Colbert's Ferry - Grinder's Stand - Nashville), with Natchez Trace Parkway mileposts and the Wikidata record for the monument.
+URL fetched: https://www.wikidata.org/wiki/Special:EntityData/Q49525440.json ; https://nominatim.openstreetmap.org/ ; nps.gov milepost pages
+DATE FETCHED: 2026-09-14
+TRANSCRIPTION/NOTE: Computed for this case; distances are inferences from coordinates, not measured road mileages.
+
+---- TEXT ----
+
+COORDINATES USED (decimal degrees, WGS84; sources: Nominatim lookups, NPS milepost descriptions, Wikipedia/Wikidata):
+  Fort Pickering (Chickasaw Bluffs; Chickasaw Heritage Park, Memphis): 35.1225, -90.0740
+  Chickasaw Agency marker, NTP milepost 241.4 (agency site 'west of here'; NPS: c. 6 mi N of Houston, MS): 34.0146, -88.8960
+  Colbert Ferry, NTP milepost 327.3 (Tennessee River crossing): 34.8379, -87.9420
+  Grinder's Stand / Meriwether Lewis site, NTP milepost 385.9 (Wikipedia 35.5094,-87.4599): 35.5094, -87.4599
+  Lewis monument (Wikidata Q49525440): 35.5117, -87.4611
+  Hohenwald, TN: 35.5479, -87.5520
+  Nashville, TN (Public Square): 36.1627, -86.7816
+  Site coordinates used in data/astronomy_1809.txt: 35.5215, -87.4569
+
+GREAT-CIRCLE (straight-line) DISTANCES, statute miles (haversine, R=3958.8 mi) - road distances along the Trace are longer:
+  Fort Pickering  ->  Chickasaw Agency marker, NTP milepost 241.4: 101.7 mi
+  Chickasaw Agency marker, NTP milepost 241.4  ->  Colbert Ferry, NTP milepost 327.3: 78.7 mi
+  Colbert Ferry, NTP milepost 327.3  ->  Grinder's Stand / Meriwether Lewis site, NTP milepost 385.9: 53.8 mi
+  Grinder's Stand / Meriwether Lewis site, NTP milepost 385.9  ->  Nashville, TN: 59.0 mi
+  Fort Pickering -> Grinder's Stand (direct): 149.8 mi
+  Grinder's Stand -> Nashville (direct): 59.0 mi (Wilson 1811: 'seventy-two miles from Nashville'; Nashville letter of 18 Oct 1809: 'about seventy-five miles'; Russell 1811: 'only Seventy miles from Nashville'; Park 1891: 'about sixty miles in an air-line southwest of Nashville')
+  Grinder's Stand -> Hohenwald: 5.8 mi
+  Wikipedia stand point -> Wikidata monument point: 902 ft; -> astronomy-file point: 4503 ft
+
+NATCHEZ TRACE PARKWAY MILEPOSTS (NPS): Chickasaw Agency 241.4; Colbert Ferry 327.3; Meriwether Lewis 385.9; parkway northern terminus c. 444 (Nashville area). Agency->Colbert Ferry = 85.9 parkway miles; Colbert Ferry->Meriwether Lewis = 58.6 parkway miles; Meriwether Lewis->Nashville c. 58 parkway miles + c. 15 city miles. The parkway approximates but does not follow the Old Trace exactly.
+
+WIKIDATA Q49525440 (Meriwether Lewis National Monument) raw JSON excerpt:
+{"labels": {"ceb": {"language": "ceb", "value": "Meriwether Lewis National Monument"}, "en": {"language": "en", "value": "Meriwether Lewis National Monument"}}, "claims": {"P1566": [{"mainsnak": {"snaktype": "value", "property": "P1566", "hash": "eb2a34b1be922c071cbb7fa199d9119cb8b613a5", "datavalue": {"value": "4641320", "type": "string"}, "datatype": "external-id"}, "type": "statement", "id": "Q49525440$ECA34634-4E35-43F6-B5E9-B08C20A9F3A3", "rank": "normal", "references": [{"hash": "43a0088c51fd85e5a85d1b46412c3a635e6d4edc", "snaks": {"P143": [{"snaktype": "value", "property": "P143", "hash": "d8fbf8671e3c630db61bfac691068cfb6857f243", "datavalue": {"value": {"entity-type": "item", "numeric-id": 837615, "id": "Q837615"}, "type": "wikibase-entityid"}, "datatype": "wikibase-item"}]}, "snaks-order": ["P143"]}]}], "P590": [{"mainsnak": {"snaktype": "value", "property": "P590", "hash": "b406719f830261d8238ef7d6addda3e71f1095b8", "datavalue": {"value": "1293624", "type": "string"}, "datatype": "external-id"}, "type": "statement", "id": "Q49525440$BADF5C6D-DA99-4BE6-B488-34F7B10F325B", "rank": "normal"}], "P17": [{"mainsnak": {"snaktype": "value", "property": "P17", "hash": "be4c6eafa2984964f04be85667263f5642ba1a72", "datavalue": {"value": {"entity-type": "item", "numeric-id": 30, "id": "Q30"}, "type": "wikibase-entityid"}, "datatype": "wikibase-item"}, "type": "statement", "id": "Q49525440$74B240CF-D83B-4C1A-807F-98E502B60641", "rank": "normal", "references": [{"hash": "197d3b62a34c35b703612d157f8bd81217c92d73", "snaks": {"P248": [{"snaktype": "value", "property": "P248", "hash": "c3ed7e4ccdd333ff9aec7f951cdf2ee06987b3ba", "datavalue": {"value": {"entity-type": "item", "numeric-id": 136736, "id": "Q136736"}, "type": "wikibase-entityid"}, "datatype": "wikibase-item"}], "P577": [{"snaktype": "value", "property": "P577", "hash": "52797dbdb205fdadf98b9f5e61be9a0f437033a7", "datavalue": {"value": {"time": "+2018-06-01T00:00:00Z", "timezone": 0, "before": 0, "after": 0, "precision": 11, "calendarmodel": "http://www.wikidata.org/entity/Q1985727"}, "type": "time"}, "datatype": "time"}], "P590": [{"snaktype": "value", "property": "P590", "hash": "b406719f830261d8238ef7d6addda3e71f1095b8", "datavalue": {"value": "1293624", "type": "string"}, "datatype": "external-id"}]}, "snaks-order": ["P248", "P577", "P590"]}]}], "P625": [{"mainsnak": {"snaktype": "value", "property": "P625", "hash": "cb2f36afaf7f4f5f789f2c0272036523b14689f5", "datavalue": {"value": {"latitude": 35.511666666667, "longitude": -87.461111111111, "altitude": null, "precision": 0.00027777777777778, "globe": "http://www.wikidata.org/entity/Q2"}, "type": "globecoordinate"}, "datatype": "globe-coordinate"}, "type": "statement", "id": "Q49525440$52F57549-256A-48F7-9DD4-7EA2FC9CF934", "rank": "normal", "references": [{"hash": "197d3b62a34c35b703612d157f8bd81217c92d73", "snaks": {"P248": [{"snaktype": "value", "property": "P248", "hash": "c3ed7e4ccdd333ff9aec7f951cdf2ee06987b3ba", "datavalue": {"value

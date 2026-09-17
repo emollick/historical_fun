@@ -1,0 +1,814 @@
+{
+ "source_file": "loc_ca_beale_morriss_1885_1915.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=page&end_date=1915-12-31&fo=json&ops=AND&qs=beale+morriss&searchType=advanced&start_date=1885-01-01",
+ "total_hits": 227,
+ "results_in_capture": 100,
+ "results": [
+  {
+   "date": "1909-02-11",
+   "title": "springfield weekly republican (springfield, mass.) 1851-1946",
+   "state": [
+    "massachusetts"
+   ],
+   "url": "http://www.loc.gov/resource/sn83020847/1909-02-11/ed-1/?sp=5"
+  },
+  {
+   "date": "1893-01-20",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-01-20/ed-1/?sp=1"
+  },
+  {
+   "date": "1899-06-13",
+   "title": "the silver state (unionville, nev.) 1870-1903",
+   "state": [
+    "nevada"
+   ],
+   "url": "http://www.loc.gov/resource/sn84022060/1899-06-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1907-11-24",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1907-11-24/ed-1/?sp=13"
+  },
+  {
+   "date": "1904-10-21",
+   "title": "the prince george's enquirer and southern maryland advertiser (upper marlborough, md.) 1882-1925",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/resource/sn89060124/1904-10-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1912-12-20",
+   "title": "the keota news (keota, weld county, colo.) 1911-1922",
+   "state": [
+    "colorado"
+   ],
+   "url": "http://www.loc.gov/resource/sn89052038/1912-12-20/ed-1/?sp=3"
+  },
+  {
+   "date": "1896-06-21",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1896-06-21/ed-1/?sp=1"
+  },
+  {
+   "date": "1886-03-17",
+   "title": "the memphis appeal (memphis, tenn.) 1886-1890",
+   "state": [
+    "tennessee"
+   ],
+   "url": "http://www.loc.gov/resource/sn84024448/1886-03-17/ed-1/?sp=5"
+  },
+  {
+   "date": "1891-05-07",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1891-05-07/ed-1/?sp=6"
+  },
+  {
+   "date": "1897-05-16",
+   "title": "new york journal and advertiser (new york [n.y.]) 1897-1901",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030180/1897-05-16/ed-1/?sp=53"
+  },
+  {
+   "date": "1909-08-28",
+   "title": "bryan daily eagle and pilot (bryan, tex.) 1909-1918",
+   "state": [
+    "texas"
+   ],
+   "url": "http://www.loc.gov/resource/sn86088651/1909-08-28/ed-1/?sp=3"
+  },
+  {
+   "date": "1902-08-01",
+   "title": "hopkinsville kentuckian (hopkinsville, ky.) 1889-1918",
+   "state": [
+    "kentucky"
+   ],
+   "url": "http://www.loc.gov/resource/sn86069395/1902-08-01/ed-1/?sp=5"
+  },
+  {
+   "date": "1885-04-22",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1885-04-22/ed-1/?sp=1"
+  },
+  {
+   "date": "1904-01-12",
+   "title": "spirit of jefferson (charles town, va. [w. va.]) 1844-1948",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026788/1904-01-12/ed-1/?sp=2"
+  },
+  {
+   "date": "1908-12-04",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1908-12-04/ed-1/?sp=5"
+  },
+  {
+   "date": "1910-10-12",
+   "title": "the point pleasant register (point pleasant, w. va.) 1909-1939",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86092106/1910-10-12/ed-1/?sp=8"
+  },
+  {
+   "date": "1910-10-19",
+   "title": "the point pleasant register (point pleasant, w. va.) 1909-1939",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86092106/1910-10-19/ed-1/?sp=8"
+  },
+  {
+   "date": "1913-05-15",
+   "title": "the richmond virginian (richmond, va.) 1910-1920",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn90052005/1913-05-15/ed-1/?sp=5"
+  },
+  {
+   "date": "1904-01-26",
+   "title": "spirit of jefferson (charles town, va. [w. va.]) 1844-1948",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026788/1904-01-26/ed-1/?sp=2"
+  },
+  {
+   "date": "1912-05-23",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1912-05-23/ed-1/?sp=7"
+  },
+  {
+   "date": "1910-03-19",
+   "title": "st. landry clarion (opelousas, la.) 1890-1921",
+   "state": [
+    "louisiana"
+   ],
+   "url": "http://www.loc.gov/resource/sn88064250/1910-03-19/ed-1/?sp=10"
+  },
+  {
+   "date": "1910-10-26",
+   "title": "evening capital and maryland gazette (annapolis, md.) 1910-1922",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/resource/sn88065726/1910-10-26/ed-1/?sp=2"
+  },
+  {
+   "date": "1915-10-26",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1915-10-26/ed-1/?sp=6"
+  },
+  {
+   "date": "1915-12-30",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1915-12-30/ed-1/?sp=5"
+  },
+  {
+   "date": "1910-10-27",
+   "title": "evening capital and maryland gazette (annapolis, md.) 1910-1922",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/resource/sn88065726/1910-10-27/ed-1/?sp=2"
+  },
+  {
+   "date": "1912-09-29",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1912-09-29/ed-1/?sp=25"
+  },
+  {
+   "date": "1915-08-08",
+   "title": "richmond times-dispatch (richmond, va.) 1914-current",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045389/1915-08-08/ed-1/?sp=30"
+  },
+  {
+   "date": "1901-11-15",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1901-11-15/ed-1/?sp=6"
+  },
+  {
+   "date": "1915-12-31",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1915-12-31/ed-1/?sp=5"
+  },
+  {
+   "date": "1913-06-03",
+   "title": "el paso herald (el paso, tex.) 1901-1931",
+   "state": [
+    "texas"
+   ],
+   "url": "http://www.loc.gov/resource/sn88084272/1913-06-03/ed-1/?sp=12"
+  },
+  {
+   "date": "1899-11-19",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1899-11-19/ed-1/?sp=14"
+  },
+  {
+   "date": "1913-04-03",
+   "title": "the richmond palladium and sun-telegram (richmond, ind.) 1907-1939",
+   "state": [
+    "indiana"
+   ],
+   "url": "http://www.loc.gov/resource/sn86058226/1913-04-03/ed-1/?sp=3"
+  },
+  {
+   "date": "1911-02-16",
+   "title": "virginia gazette (williamsburg, va.) 1893-192?",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071985/1911-02-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1906-11-25",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1906-11-25/ed-1/?sp=43"
+  },
+  {
+   "date": "1905-10-18",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1905-10-18/ed-1/?sp=3"
+  },
+  {
+   "date": "1911-01-31",
+   "title": "spirit of jefferson (charles town, va. [w. va.]) 1844-1948",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026788/1911-01-31/ed-1/?sp=3"
+  },
+  {
+   "date": "1906-08-25",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1906-08-25/ed-1/?sp=2"
+  },
+  {
+   "date": "1892-09-15",
+   "title": "the evening herald (shenandoah, pa.) 1891-1966",
+   "state": [
+    "pennsylvania"
+   ],
+   "url": "http://www.loc.gov/resource/sn87078000/1892-09-15/ed-1/?sp=3"
+  },
+  {
+   "date": "1910-10-25",
+   "title": "evening capital and maryland gazette (annapolis, md.) 1910-1922",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/resource/sn88065726/1910-10-25/ed-1/?sp=2"
+  },
+  {
+   "date": "1904-06-17",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1904-06-17/ed-1/?sp=10"
+  },
+  {
+   "date": "1893-08-12",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-08-12/ed-1/?sp=2"
+  },
+  {
+   "date": "1890-11-13",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1890-11-13/ed-1/?sp=3"
+  },
+  {
+   "date": "1901-01-23",
+   "title": "santa fe new mexican (santa fe, n.m.) 1898-1951",
+   "state": [
+    "new mexico"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020630/1901-01-23/ed-1/?sp=3"
+  },
+  {
+   "date": "1911-09-09",
+   "title": "the new haven union (new haven, conn.) 1895-192?",
+   "state": [
+    "connecticut"
+   ],
+   "url": "http://www.loc.gov/resource/sn92051126/1911-09-09/ed-1/?sp=3"
+  },
+  {
+   "date": "1893-12-29",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1893-12-29/ed-1/?sp=4"
+  },
+  {
+   "date": "1906-06-20",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1906-06-20/ed-1/?sp=8"
+  },
+  {
+   "date": "1895-08-18",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1895-08-18/ed-1/?sp=3"
+  },
+  {
+   "date": "1901-04-12",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1901-04-12/ed-1/?sp=3"
+  },
+  {
+   "date": "1901-05-23",
+   "title": "the providence news (providence [r.i.]) 1891-1906",
+   "state": [
+    "rhode island"
+   ],
+   "url": "http://www.loc.gov/resource/sn91070630/1901-05-23/ed-1/?sp=2"
+  },
+  {
+   "date": "1892-08-28",
+   "title": "los angeles herald (los angeles [calif.]) 1890-1893",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn84025968/1892-08-28/ed-1/?sp=4"
+  },
+  {
+   "date": "1912-03-24",
+   "title": "the caucasian (shreveport, la.) 1900-192?",
+   "state": [
+    "louisiana"
+   ],
+   "url": "http://www.loc.gov/resource/sn88064469/1912-03-24/ed-1/?sp=8"
+  },
+  {
+   "date": "1902-03-15",
+   "title": "the grenada sentinel (grenada, miss.) 1868-1955",
+   "state": [
+    "mississippi"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034375/1902-03-15/ed-1/?sp=8"
+  },
+  {
+   "date": "1895-10-30",
+   "title": "daily kennebec journal (augusta, me.) 1870-1975 [microfilm reel]",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn82014248/1895-10-30/ed-1/?sp=6"
+  },
+  {
+   "date": "1907-03-31",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1907-03-31/ed-1/?sp=23"
+  },
+  {
+   "date": "1910-01-02",
+   "title": "the birmingham age-herald (birmingham, ala.) 1902-1950",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038485/1910-01-02/ed-1/?sp=14"
+  },
+  {
+   "date": "1904-12-31",
+   "title": "the sun (new york [n.y.]) 1833-1916",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030272/1904-12-31/ed-1/?sp=7"
+  },
+  {
+   "date": "1893-11-14",
+   "title": "the roanoke times (roanoke, va.) 1890-1895",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86071868/1893-11-14/ed-1/?sp=1"
+  },
+  {
+   "date": "1907-07-21",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1907-07-21/ed-1/?sp=28"
+  },
+  {
+   "date": "1909-01-05",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1909-01-05/ed-1/?sp=7"
+  },
+  {
+   "date": "1915-09-15",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1915-09-15/ed-1/?sp=8"
+  },
+  {
+   "date": "1901-06-21",
+   "title": "the newtown bee (newtown, conn.) 1877-current",
+   "state": [
+    "connecticut"
+   ],
+   "url": "http://www.loc.gov/resource/sn92051487/1901-06-21/ed-1/?sp=3"
+  },
+  {
+   "date": "1902-08-26",
+   "title": "spirit of jefferson (charles town, va. [w. va.]) 1844-1948",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026788/1902-08-26/ed-1/?sp=3"
+  },
+  {
+   "date": "1885-02-01",
+   "title": "memphis daily appeal (memphis, tenn.) 1847-1886",
+   "state": [
+    "tennessee",
+    "mississippi",
+    "georgia",
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045160/1885-02-01/ed-1/?sp=4"
+  },
+  {
+   "date": "1903-05-17",
+   "title": "the montgomery advertiser (montgomery, ala.) 1885-1982",
+   "state": [
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn84020645/1903-05-17/ed-1/?sp=11"
+  },
+  {
+   "date": "1908-09-10",
+   "title": "the republican journal (belfast, me.) 1829-current",
+   "state": [
+    "maine"
+   ],
+   "url": "http://www.loc.gov/resource/sn78000873/1908-09-10/ed-1/?sp=7"
+  },
+  {
+   "date": "1889-05-25",
+   "title": "the new dominion (morgantown, w. va.) 1876-1904",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn86092182/1889-05-25/ed-1/?sp=2"
+  },
+  {
+   "date": "1901-05-08",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1901-05-08/ed-1/?sp=3"
+  },
+  {
+   "date": "1907-09-15",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1907-09-15/ed-1/?sp=23"
+  },
+  {
+   "date": "1900-05-17",
+   "title": "the free lance (fredericksburg, va.) 1885-1926",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn87060165/1900-05-17/ed-1/?sp=1"
+  },
+  {
+   "date": "1896-06-21",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1896-06-21/ed-1/?sp=7"
+  },
+  {
+   "date": "1913-04-06",
+   "title": "the times dispatch (richmond, va.) 1903-1914",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038615/1913-04-06/ed-1/?sp=41"
+  },
+  {
+   "date": "1894-09-29",
+   "title": "evening journal (wilmington, del.) 1888-1932",
+   "state": [
+    "delaware"
+   ],
+   "url": "http://www.loc.gov/resource/sn85042354/1894-09-29/ed-1/?sp=1"
+  },
+  {
+   "date": "1909-09-05",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1909-09-05/ed-1/?sp=18"
+  },
+  {
+   "date": "1894-05-01",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1894-05-01/ed-1/?sp=1"
+  },
+  {
+   "date": "1893-04-18",
+   "title": "the providence news (providence [r.i.]) 1891-1906",
+   "state": [
+    "rhode island"
+   ],
+   "url": "http://www.loc.gov/resource/sn91070630/1893-04-18/ed-1/?sp=5"
+  },
+  {
+   "date": "1907-10-29",
+   "title": "spirit of jefferson (charles town, va. [w. va.]) 1844-1948",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026788/1907-10-29/ed-1/?sp=2"
+  },
+  {
+   "date": "1894-03-21",
+   "title": "virginia free press (charlestown, va. [w. va.]) 1832-1916",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026784/1894-03-21/ed-1/?sp=2"
+  },
+  {
+   "date": "1886-08-05",
+   "title": "virginia free press (charlestown, va. [w. va.]) 1832-1916",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026784/1886-08-05/ed-1/?sp=3"
+  },
+  {
+   "date": "1901-08-14",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1901-08-14/ed-1/?sp=4"
+  },
+  {
+   "date": "1885-09-16",
+   "title": "memphis daily appeal (memphis, tenn.) 1847-1886",
+   "state": [
+    "tennessee",
+    "mississippi",
+    "georgia",
+    "alabama"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045160/1885-09-16/ed-1/?sp=1"
+  },
+  {
+   "date": "1902-09-24",
+   "title": "yorkville enquirer (yorkville, s.c.) 1855-2006",
+   "state": [
+    "south carolina"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026925/1902-09-24/ed-1/?sp=2"
+  },
+  {
+   "date": "1902-09-16",
+   "title": "the times (richmond, va.) 1890-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85034438/1902-09-16/ed-1/?sp=8"
+  },
+  {
+   "date": "1915-10-29",
+   "title": "the richmond virginian (richmond, va.) 1910-1920",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn90052005/1915-10-29/ed-1/?sp=6"
+  },
+  {
+   "date": "1905-12-16",
+   "title": "the free lance (fredericksburg, va.) 1885-1926",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn87060165/1905-12-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1909-06-06",
+   "title": "evening star (washington, d.c.) 1854-1972",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn83045462/1909-06-06/ed-1/?sp=69"
+  },
+  {
+   "date": "1887-07-25",
+   "title": "los angeles daily herald (los angeles [calif.]) 1884-1890 [microfilm reel]",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn85042460/1887-07-25/ed-1/?sp=8"
+  },
+  {
+   "date": "1887-08-06",
+   "title": "los angeles daily herald (los angeles [calif.]) 1884-1890 [microfilm reel]",
+   "state": [
+    "california"
+   ],
+   "url": "http://www.loc.gov/resource/sn85042460/1887-08-06/ed-1/?sp=13"
+  },
+  {
+   "date": "1907-10-22",
+   "title": "spirit of jefferson (charles town, va. [w. va.]) 1844-1948",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84026788/1907-10-22/ed-1/?sp=2"
+  },
+  {
+   "date": "1888-08-11",
+   "title": "the sun (new york [n.y.]) 1833-1916",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030272/1888-08-11/ed-1/?sp=3"
+  },
+  {
+   "date": "1897-05-16",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1897-05-16/ed-1/?sp=5"
+  },
+  {
+   "date": "1891-11-15",
+   "title": "richmond dispatch (richmond, va.) 1884-1903",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn85038614/1891-11-15/ed-1/?sp=9"
+  },
+  {
+   "date": "1890-03-28",
+   "title": "the aegis & intelligencer (bel air, md.) 1864-1923",
+   "state": [
+    "maryland"
+   ],
+   "url": "http://www.loc.gov/resource/sn83016107/1890-03-28/ed-1/?sp=2"
+  },
+  {
+   "date": "1914-12-12",
+   "title": "the richmond virginian (richmond, va.) 1910-1920",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn90052005/1914-12-12/ed-1/?sp=2"
+  },
+  {
+   "date": "1909-06-12",
+   "title": "the free lance (fredericksburg, va.) 1885-1926",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn87060165/1909-06-12/ed-1/?sp=3"
+  },
+  {
+   "date": "1907-04-16",
+   "title": "the free lance (fredericksburg, va.) 1885-1926",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn87060165/1907-04-16/ed-1/?sp=3"
+  },
+  {
+   "date": "1911-08-09",
+   "title": "the richmond virginian (richmond, va.) 1910-1920",
+   "state": [
+    "virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn90052005/1911-08-09/ed-1/?sp=6"
+  },
+  {
+   "date": "1897-05-06",
+   "title": "new york journal and advertiser (new york [n.y.]) 1897-1901",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030180/1897-05-06/ed-1/?sp=11"
+  },
+  {
+   "date": "1895-10-10",
+   "title": "greenbrier independent (lewisburg, va. [w. va.]) 1859-1980",
+   "state": [
+    "west virginia"
+   ],
+   "url": "http://www.loc.gov/resource/sn84037217/1895-10-10/ed-1/?sp=3"
+  },
+  {
+   "date": "1886-08-26",
+   "title": "the national tribune (washington, d.c.) 1877-1917",
+   "state": [
+    "district of columbia"
+   ],
+   "url": "http://www.loc.gov/resource/sn82016187/1886-08-26/ed-1/?sp=1"
+  },
+  {
+   "date": "1908-09-14",
+   "title": "new-york tribune (new york [n.y.]) 1866-1924",
+   "state": [
+    "new york"
+   ],
+   "url": "http://www.loc.gov/resource/sn83030214/1908-09-14/ed-1/?sp=5"
+  }
+ ]
+}

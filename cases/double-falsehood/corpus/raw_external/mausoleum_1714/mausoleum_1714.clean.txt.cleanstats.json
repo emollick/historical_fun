@@ -1,0 +1,39 @@
+{
+ "stats": {
+  "noise": 373,
+  "pagenum": 50,
+  "sig": 24,
+  "override": 5,
+  "auto": 1,
+  "words_out": 1680,
+  "lines_out": 445
+ },
+ "top_replacements": [
+  [
+   "fad>sad",
+   1
+  ],
+  [
+   "fir>sir",
+   1
+  ],
+  [
+   "fow>sow",
+   1
+  ],
+  [
+   "fend>send",
+   1
+  ],
+  [
+   "fo>so",
+   1
+  ],
+  [
+   "fon>son",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

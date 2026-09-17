@@ -1,0 +1,209 @@
+# Route model output (routes.py)
+
+Rhone legs (crossing -> Island), along the valley floor (least-cost path on the DEM):
+
+| leg | km along valley | km straight | km chain | stades (177.6) | stades (185) | km/day over 4 days |
+|---|---|---|---|---|---|---|
+| Fourques/Arles -> Island (ii) Aygues | 57 | 50 | 55 | 321 | 308 | 14.2 |
+| Beaucaire-Tarascon -> Island (ii) Aygues | 42 | 35 | 40 | 239 | 229 | 10.6 |
+| Roquemaure -> Island (ii) Aygues | 9 | 9 | 9 | 49 | 47 | 2.2 |
+| Fourques/Arles -> Island (i) Isere | 159 | 147 | 154 | 894 | 858 | 39.7 |
+| Beaucaire-Tarascon -> Island (i) Isere | 144 | 132 | 140 | 812 | 780 | 36.1 |
+| Roquemaure -> Island (i) Isere | 111 | 105 | 108 | 623 | 598 | 27.6 |
+| Beaucaire-Tarascon -> Drome confluence (Loriol) | 117 | 106 | 112 | 657 | 631 | 29.2 |
+
+Routes (all distances along the valley-floor path unless marked straight):
+
+| route | name | ascent_start_def | col | col_z_dem_m | b_island_to_ascent_km | b_straight_km | b_stades_177.6 | b_stades_185 | b_km_per_day_10d | c_ascent_to_col_km | c_straight_km | c_climb_m | c_km_per_day_9d | c_climb_m_per_day | d_col_to_plain_km | d_straight_km | d_descent_m | d_km_per_day_4d | d_km_per_day_3d | e_alps_km | e_straight_km | e_stades_177.6 | e_stades_185 | e_km_per_day_13d | max_1km_ascent_grade_pct | max_1km_descent_grade_pct | steepest_500m_descent_pct | descent_bearing_deg | chord_fail_count | c_zigzag25_km | d_zigzag25_km |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| R1 | Isere - Arc (Maurienne) - Col du Mont-Cenis | gate:Aiguebelle | Col du Mont-Cenis | 2088 | 157.8 | 129.3 | 888 | 853 | 15.8 | 87.0 | 56.0 | 1825 | 9.7 | 203 | 32.0 | 29.1 | 1675 | 8.0 | 10.7 | 119.0 | 85.0 | 670 | 643 | 9.2 | 39.2 | 49.1 | 53.4 | 141 | 10 | 87.7 | 34.0 |
+| R1 | Isere - Arc (Maurienne) - Col du Mont-Cenis | flat10 | Col du Mont-Cenis | 2088 | 235.5 | 157.0 | 1326 | 1273 | 23.6 | 9.2 | 6.8 | 773 | 1.0 | 86 | 32.0 | 29.1 | 1675 | 8.0 | 10.7 | 41.2 | 35.5 | 232 | 223 | 3.2 | 39.2 | 49.1 | 53.4 | 141 | 10 | 9.9 | 34.0 |
+| R1 | Isere - Arc (Maurienne) - Col du Mont-Cenis | z500 | Col du Mont-Cenis | 2088 | 186.8 | 122.1 | 1052 | 1009 | 18.7 | 58.0 | 43.9 | 1628 | 6.4 | 181 | 32.0 | 29.1 | 1675 | 8.0 | 10.7 | 90.0 | 71.4 | 507 | 486 | 6.9 | 39.2 | 49.1 | 53.4 | 141 | 10 | 58.7 | 34.0 |
+| R2 | Isere - Arc - Ambin/Savine - Col Clapier - Val Clarea | gate:Aiguebelle | Col Clapier | 2478 | 157.8 | 129.3 | 888 | 853 | 15.8 | 85.5 | 63.7 | 2209 | 9.5 | 245 | 25.0 | 23.8 | 2015 | 6.2 | 8.3 | 110.5 | 85.1 | 622 | 597 | 8.5 | 26.2 | 39.1 | 50.2 | 106 | 12 | 85.9 | 26.9 |
+| R2 | Isere - Arc - Ambin/Savine - Col Clapier - Val Clarea | flat10 | Col Clapier | 2478 | 182.5 | 120.8 | 1028 | 986 | 18.2 | 60.8 | 51.3 | 2054 | 6.8 | 228 | 25.0 | 23.8 | 2015 | 6.2 | 8.3 | 85.8 | 74.8 | 483 | 464 | 6.6 | 26.2 | 39.1 | 50.2 | 106 | 12 | 61.1 | 26.9 |
+| R2 | Isere - Arc - Ambin/Savine - Col Clapier - Val Clarea | z500 | Col Clapier | 2478 | 186.8 | 122.1 | 1052 | 1009 | 18.7 | 56.5 | 47.9 | 2012 | 6.3 | 224 | 25.0 | 23.8 | 2015 | 6.2 | 8.3 | 81.5 | 71.5 | 459 | 441 | 6.3 | 26.2 | 39.1 | 50.2 | 106 | 12 | 56.9 | 26.9 |
+| R2b | Isere - Arc - Ambin - Col du Petit Mont-Cenis - Mont-Cenis plateau | gate:Aiguebelle | Col du Petit Mont-Cenis | 2180 | 157.8 | 129.3 | 888 | 853 | 15.8 | 79.5 | 57.2 | 1842 | 8.8 | 205 | 34.5 | 29.4 | 1768 | 8.6 | 11.5 | 114.0 | 85.2 | 642 | 616 | 8.8 | 37.4 | 52.0 | 53.5 | 51 | 11 | 80.3 | 36.1 |
+| R2b | Isere - Arc - Ambin - Col du Petit Mont-Cenis - Mont-Cenis plateau | flat10 | Col du Petit Mont-Cenis | 2180 | 182.5 | 120.8 | 1028 | 986 | 18.2 | 54.8 | 45.5 | 1687 | 6.1 | 187 | 34.5 | 29.4 | 1768 | 8.6 | 11.5 | 89.2 | 74.9 | 503 | 482 | 6.9 | 37.4 | 52.0 | 53.5 | 51 | 11 | 55.5 | 36.1 |
+| R2b | Isere - Arc - Ambin - Col du Petit Mont-Cenis - Mont-Cenis plateau | z500 | Col du Petit Mont-Cenis | 2180 | 186.8 | 122.1 | 1052 | 1009 | 18.7 | 50.5 | 42.2 | 1645 | 5.6 | 183 | 34.5 | 29.4 | 1768 | 8.6 | 11.5 | 85.0 | 71.6 | 479 | 459 | 6.5 | 37.4 | 52.0 | 53.5 | 51 | 11 | 51.3 | 36.1 |
+| R3 | Isere - Tarentaise - Col du Petit-Saint-Bernard - Aosta - Ivrea | gate:Albertville | Col du Petit-Saint-Bernard | 2190 | 168.8 | 142.6 | 950 | 912 | 16.9 | 63.5 | 38.2 | 1937 | 7.1 | 215 | 71.8 | 61.0 | 1885 | 17.9 | 23.9 | 135.2 | 99.1 | 762 | 731 | 10.4 | 27.0 | 26.7 | 28.8 | 37 | 11 | 64.0 | 72.0 |
+| R3 | Isere - Tarentaise - Col du Petit-Saint-Bernard - Aosta - Ivrea | flat10 | Col du Petit-Saint-Bernard | 2190 | 210.0 | 156.6 | 1182 | 1135 | 21.0 | 22.2 | 20.6 | 1486 | 2.5 | 165 | 71.8 | 61.0 | 1885 | 17.9 | 23.9 | 94.0 | 78.7 | 529 | 508 | 7.2 | 27.0 | 26.7 | 28.8 | 37 | 11 | 22.8 | 72.0 |
+| R3 | Isere - Tarentaise - Col du Petit-Saint-Bernard - Aosta - Ivrea | z500 | Col du Petit-Saint-Bernard | 2190 | 193.2 | 141.9 | 1088 | 1045 | 19.3 | 39.0 | 35.5 | 1777 | 4.3 | 197 | 71.8 | 61.0 | 1885 | 17.9 | 23.9 | 110.8 | 92.8 | 624 | 599 | 8.5 | 27.0 | 26.7 | 28.8 | 37 | 11 | 39.5 | 72.0 |
+| R3m | R3 but to the Insubrian plain: Ivrea - Vercelli - Novara - Milan | gate:Albertville | Col du Petit-Saint-Bernard | 2190 | 168.8 | 142.6 | 950 | 912 | 16.9 | 63.5 | 38.2 | 1937 | 7.1 | 215 | 71.8 | 61.0 | 1885 | 17.9 | 23.9 | 135.2 | 99.1 | 762 | 731 | 10.4 | 27.0 | 26.7 | 28.8 | 37 | 11 | 64.0 | 72.0 |
+| R3m | R3 but to the Insubrian plain: Ivrea - Vercelli - Novara - Milan | flat10 | Col du Petit-Saint-Bernard | 2190 | 210.0 | 156.6 | 1182 | 1135 | 21.0 | 22.2 | 20.6 | 1486 | 2.5 | 165 | 71.8 | 61.0 | 1885 | 17.9 | 23.9 | 94.0 | 78.7 | 529 | 508 | 7.2 | 27.0 | 26.7 | 28.8 | 37 | 11 | 22.8 | 72.0 |
+| R3m | R3 but to the Insubrian plain: Ivrea - Vercelli - Novara - Milan | z500 | Col du Petit-Saint-Bernard | 2190 | 193.2 | 141.9 | 1088 | 1045 | 19.3 | 39.0 | 35.5 | 1777 | 4.3 | 197 | 71.8 | 61.0 | 1885 | 17.9 | 23.9 | 110.8 | 92.8 | 624 | 599 | 8.5 | 27.0 | 26.7 | 28.8 | 37 | 11 | 39.5 | 72.0 |
+| R4 | Durance (direct from Avignon) - Briancon - Col de Montgenevre - Susa | gate:Sisteron | Col de Montgenevre | 1851 | 161.2 | 97.2 | 908 | 872 | 16.1 | 132.2 | 102.3 | 1722 | 14.7 | 191 | 51.2 | 44.7 | 1496 | 12.8 | 17.1 | 183.5 | 144.5 | 1033 | 992 | 14.1 | 24.1 | 16.6 | 23.4 | 69 | 9 | 132.5 | 51.4 |
+| R4 | Durance (direct from Avignon) - Briancon - Col de Montgenevre - Susa | flat10 | Col de Montgenevre | 1851 | 267.2 | 162.4 | 1505 | 1445 | 26.7 | 26.2 | 23.0 | 896 | 2.9 | 100 | 51.2 | 44.7 | 1496 | 12.8 | 17.1 | 77.5 | 65.7 | 436 | 419 | 6.0 | 24.1 | 16.6 | 23.4 | 69 | 9 | 26.5 | 51.4 |
+| R4 | Durance (direct from Avignon) - Briancon - Col de Montgenevre - Susa | z500 | Col de Montgenevre | 1851 | 145.5 | 97.3 | 819 | 786 | 14.6 | 148.0 | 114.9 | 1815 | 16.4 | 202 | 51.2 | 44.7 | 1496 | 12.8 | 17.1 | 199.2 | 155.8 | 1122 | 1077 | 15.3 | 24.1 | 16.6 | 23.4 | 69 | 9 | 148.3 | 51.4 |
+| R4c | Rhone - Drome - Col de Cabre - Gap - Durance - Col de Montgenevre (Livy/de Beer approach) | gate:Crest | Col de Montgenevre | 1852 | 91.0 | 71.5 | 512 | 492 | 9.1 | 222.2 | 136.1 | 2894 | 24.7 | 322 | 51.2 | 44.7 | 1487 | 12.8 | 17.1 | 273.5 | 178.7 | 1540 | 1478 | 21.0 | 22.8 | 16.1 | 24.7 | 69 | 11 | 222.6 | 51.3 |
+| R4c | Rhone - Drome - Col de Cabre - Gap - Durance - Col de Montgenevre (Livy/de Beer approach) | flat10 | Col de Montgenevre | 1852 | 287.0 | 162.4 | 1616 | 1551 | 28.7 | 26.2 | 23.0 | 899 | 2.9 | 100 | 51.2 | 44.7 | 1487 | 12.8 | 17.1 | 77.5 | 65.7 | 436 | 419 | 6.0 | 22.8 | 16.1 | 24.7 | 69 | 11 | 26.5 | 51.3 |
+| R4c | Rhone - Drome - Col de Cabre - Gap - Durance - Col de Montgenevre (Livy/de Beer approach) | z500 | Col de Montgenevre | 1852 | 140.2 | 80.4 | 790 | 758 | 14.0 | 173.0 | 107.5 | 2563 | 19.2 | 285 | 51.2 | 44.7 | 1487 | 12.8 | 17.1 | 224.2 | 151.4 | 1263 | 1212 | 17.2 | 22.8 | 16.1 | 24.7 | 69 | 11 | 173.4 | 51.3 |
+| R5 | Durance (direct) - Guil - Col de la Traversette - Po (Saluzzo) | gate:Sisteron | Col de la Traversette | 2913 | 161.2 | 97.2 | 908 | 872 | 16.1 | 138.8 | 105.8 | 2687 | 15.4 | 299 | 28.0 | 25.0 | 2381 | 7.0 | 9.3 | 166.8 | 123.3 | 939 | 901 | 12.8 | 33.6 | 50.7 | 51.0 | 114 | 10 | 139.3 | 29.5 |
+| R5 | Durance (direct) - Guil - Col de la Traversette - Po (Saluzzo) | flat10 | Col de la Traversette | 2913 | 247.5 | 157.6 | 1394 | 1338 | 24.8 | 52.5 | 39.7 | 2043 | 5.8 | 227 | 28.0 | 25.0 | 2381 | 7.0 | 9.3 | 80.5 | 62.7 | 453 | 435 | 6.2 | 33.6 | 50.7 | 51.0 | 114 | 10 | 53.1 | 29.5 |
+| R5 | Durance (direct) - Guil - Col de la Traversette - Po (Saluzzo) | z500 | Col de la Traversette | 2913 | 145.5 | 97.3 | 819 | 786 | 14.6 | 154.5 | 114.8 | 2780 | 17.2 | 309 | 28.0 | 25.0 | 2381 | 7.0 | 9.3 | 182.5 | 130.3 | 1028 | 986 | 14.0 | 33.6 | 50.7 | 51.0 | 114 | 10 | 155.1 | 29.5 |
+| R5g | Rhone - Drome - Col de Grimone - Gap - Durance - Guil - Traversette (de Beer 1955) | gate:Crest | Col de la Traversette | 2924 | 91.0 | 71.5 | 512 | 492 | 9.1 | 237.2 | 161.5 | 3980 | 26.4 | 442 | 28.2 | 25.2 | 2404 | 7.1 | 9.4 | 265.5 | 185.8 | 1495 | 1435 | 20.4 | 34.6 | 49.1 | 50.8 | 114 | 13 | 238.3 | 29.8 |
+| R5g | Rhone - Drome - Col de Grimone - Gap - Durance - Guil - Traversette (de Beer 1955) | flat10 | Col de la Traversette | 2924 | 276.8 | 158.4 | 1558 | 1496 | 27.7 | 51.5 | 39.0 | 2022 | 5.7 | 225 | 28.2 | 25.2 | 2404 | 7.1 | 9.4 | 79.8 | 62.4 | 449 | 431 | 6.1 | 34.6 | 49.1 | 50.8 | 114 | 13 | 52.1 | 29.8 |
+| R5g | Rhone - Drome - Col de Grimone - Gap - Durance - Guil - Traversette (de Beer 1955) | z500 | Col de la Traversette | 2924 | 135.0 | 84.5 | 760 | 730 | 13.5 | 193.2 | 130.0 | 3635 | 21.5 | 404 | 28.2 | 25.2 | 2404 | 7.1 | 9.4 | 221.5 | 154.2 | 1247 | 1197 | 17.0 | 34.6 | 49.1 | 50.8 | 114 | 13 | 194.3 | 29.8 |
+| R5c | Rhone - Drome - Col de Cabre - Gap - Durance - Guil - Traversette | gate:Crest | Col de la Traversette | 2883 | 91.0 | 71.5 | 512 | 492 | 9.1 | 228.5 | 161.4 | 3823 | 25.4 | 425 | 28.2 | 25.2 | 2416 | 7.1 | 9.4 | 256.8 | 185.7 | 1446 | 1388 | 19.8 | 36.1 | 43.6 | 49.8 | 114 | 12 | 229.3 | 29.5 |
+| R5c | Rhone - Drome - Col de Cabre - Gap - Durance - Guil - Traversette | flat10 | Col de la Traversette | 2883 | 268.0 | 158.3 | 1509 | 1449 | 26.8 | 51.5 | 39.0 | 2003 | 5.7 | 223 | 28.2 | 25.2 | 2416 | 7.1 | 9.4 | 79.8 | 62.3 | 449 | 431 | 6.1 | 36.1 | 43.6 | 49.8 | 114 | 12 | 52.2 | 29.5 |
+| R5c | Rhone - Drome - Col de Cabre - Gap - Durance - Guil - Traversette | z500 | Col de la Traversette | 2883 | 140.2 | 80.4 | 790 | 758 | 14.0 | 179.2 | 130.0 | 3492 | 19.9 | 388 | 28.2 | 25.2 | 2416 | 7.1 | 9.4 | 207.5 | 153.9 | 1168 | 1122 | 16.0 | 36.1 | 43.6 | 49.8 | 114 | 12 | 180.1 | 29.5 |
+| R6 | Durance (direct) - Ubaye - Col de Larche - Stura - Cuneo | gate:Sisteron | Col de Larche | 2002 | 161.2 | 97.2 | 908 | 872 | 16.1 | 113.5 | 79.8 | 1601 | 12.6 | 178 | 79.0 | 57.2 | 1750 | 19.8 | 26.3 | 192.5 | 136.8 | 1084 | 1041 | 14.8 | 12.1 | 16.5 | 22.6 | 134 | 9 | 113.5 | 79.2 |
+| R6 | Durance (direct) - Ubaye - Col de Larche - Stura - Cuneo | flat10 | Col de Larche | 2002 | 225.0 | 138.4 | 1267 | 1216 | 22.5 | 49.8 | 39.0 | 1131 | 5.5 | 126 | 79.0 | 57.2 | 1750 | 19.8 | 26.3 | 128.8 | 95.3 | 725 | 696 | 9.9 | 12.1 | 16.5 | 22.6 | 134 | 9 | 49.8 | 79.2 |
+| R6 | Durance (direct) - Ubaye - Col de Larche - Stura - Cuneo | z500 | Col de Larche | 2002 | 145.5 | 97.3 | 819 | 786 | 14.6 | 129.2 | 85.9 | 1694 | 14.4 | 188 | 79.0 | 57.2 | 1750 | 19.8 | 26.3 | 208.2 | 141.7 | 1173 | 1126 | 16.0 | 12.1 | 16.5 | 22.6 | 134 | 9 | 129.3 | 79.2 |
+| R6v | Durance (direct) - Guillestre - Col de Vars - Ubaye - Col de Larche - Cuneo | gate:Sisteron | Col de Larche | 2002 | 161.2 | 97.2 | 908 | 872 | 16.1 | 143.2 | 79.8 | 2603 | 15.9 | 289 | 79.0 | 57.2 | 1751 | 19.8 | 26.3 | 222.2 | 136.8 | 1251 | 1201 | 17.1 | 13.8 | 16.5 | 22.6 | 134 | 11 | 143.4 | 79.2 |
+| R6v | Durance (direct) - Guillestre - Col de Vars - Ubaye - Col de Larche - Cuneo | flat10 | Col de Larche | 2002 | 291.8 | 166.5 | 1643 | 1577 | 29.2 | 12.8 | 11.9 | 617 | 1.4 | 69 | 79.0 | 57.2 | 1751 | 19.8 | 26.3 | 91.8 | 66.9 | 517 | 496 | 7.1 | 13.8 | 16.5 | 22.6 | 134 | 11 | 12.8 | 79.2 |
+| R6v | Durance (direct) - Guillestre - Col de Vars - Ubaye - Col de Larche - Cuneo | z500 | Col de Larche | 2002 | 145.5 | 97.3 | 819 | 786 | 14.6 | 159.0 | 85.9 | 2696 | 17.7 | 300 | 79.0 | 57.2 | 1751 | 19.8 | 26.3 | 238.0 | 141.7 | 1340 | 1286 | 18.3 | 13.8 | 16.5 | 22.6 | 134 | 11 | 159.1 | 79.2 |
+| R7 | Rhone - Lyon - Geneva - Valais - Col du Grand-Saint-Bernard - Aosta - Ivrea | gate:Martigny | Col du Grand-Saint-Bernard | 2495 | 379.2 | 212.7 | 2135 | 2050 | 37.9 | 36.8 | 27.0 | 1954 | 4.1 | 217 | 51.8 | 42.0 | 2148 | 12.9 | 17.2 | 88.5 | 63.0 | 498 | 478 | 6.8 | 24.1 | 50.3 | 53.5 | 189 | 13 | 37.1 | 53.0 |
+| R7 | Rhone - Lyon - Geneva - Valais - Col du Grand-Saint-Bernard - Aosta - Ivrea | flat10 | Col du Grand-Saint-Bernard | 2495 | 381.0 | 211.1 | 2145 | 2059 | 38.1 | 35.0 | 25.9 | 1917 | 3.9 | 213 | 51.8 | 42.0 | 2148 | 12.9 | 17.2 | 86.8 | 62.7 | 488 | 469 | 6.7 | 24.1 | 50.3 | 53.5 | 189 | 13 | 35.4 | 53.0 |
+| R7 | Rhone - Lyon - Geneva - Valais - Col du Grand-Saint-Bernard - Aosta - Ivrea | z500 | Col du Grand-Saint-Bernard | 2495 | 180.0 | 89.5 | 1014 | 973 | 18.0 | 236.0 | 117.3 | 3089 | 26.2 | 343 | 51.8 | 42.0 | 2148 | 12.9 | 17.2 | 287.8 | 149.3 | 1620 | 1555 | 22.1 | 24.1 | 50.3 | 53.5 | 189 | 13 | 236.4 | 53.0 |
+
+Chord check (straight segments between named waypoints that climb >150 m above both endpoints; these are the segments the least-cost path re-routes):
+
+| route | from | to | samples over | max excess m |
+|---|---|---|---|---|
+| Fourques/Arles -> Island (i) Isere | Pierrelatte | Montelimar | 6 | 218 |
+| Beaucaire-Tarascon -> Island (i) Isere | Pierrelatte | Montelimar | 6 | 218 |
+| Roquemaure -> Island (i) Isere | Pierrelatte | Montelimar | 6 | 218 |
+| Beaucaire-Tarascon -> Drome confluence (Loriol) | Pierrelatte | Montelimar | 6 | 218 |
+| R1 | Saint-Marcellin | Tullins | 2 | 151 |
+| R1 | Tullins | Voreppe | 5 | 387 |
+| R1 | Voreppe | Grenoble | 17 | 656 |
+| R1 | Grenoble | Pontcharra | 78 | 860 |
+| R1 | Montmelian | Aiguebelle | 37 | 917 |
+| R1 | Aiguebelle | La Chambre | 40 | 988 |
+| R1 | La Chambre | Saint-Jean-de-Maurienne | 14 | 823 |
+| R1 | Saint-Jean-de-Maurienne | Saint-Michel-de-Maurienne | 1 | 154 |
+| R1 | Saint-Michel-de-Maurienne | Modane | 21 | 646 |
+| R1 | Termignon | Lanslebourg | 6 | 251 |
+| R2 | Saint-Marcellin | Tullins | 2 | 151 |
+| R2 | Tullins | Voreppe | 5 | 387 |
+| R2 | Voreppe | Grenoble | 17 | 656 |
+| R2 | Grenoble | Pontcharra | 78 | 860 |
+| R2 | Montmelian | Aiguebelle | 37 | 917 |
+| R2 | Aiguebelle | La Chambre | 40 | 988 |
+| R2 | La Chambre | Saint-Jean-de-Maurienne | 14 | 823 |
+| R2 | Saint-Jean-de-Maurienne | Saint-Michel-de-Maurienne | 1 | 154 |
+| R2 | Saint-Michel-de-Maurienne | Modane | 21 | 646 |
+| R2 | Bramans | Le Planay (Bramans) | 1 | 168 |
+| R2 | Le Planay (Bramans) | Lac Savine | 5 | 366 |
+| R2 | Val Clarea upper | Val Clarea lower | 2 | 169 |
+| R2b | Saint-Marcellin | Tullins | 2 | 151 |
+| R2b | Tullins | Voreppe | 5 | 387 |
+| R2b | Voreppe | Grenoble | 17 | 656 |
+| R2b | Grenoble | Pontcharra | 78 | 860 |
+| R2b | Montmelian | Aiguebelle | 37 | 917 |
+| R2b | Aiguebelle | La Chambre | 40 | 988 |
+| R2b | La Chambre | Saint-Jean-de-Maurienne | 14 | 823 |
+| R2b | Saint-Jean-de-Maurienne | Saint-Michel-de-Maurienne | 1 | 154 |
+| R2b | Saint-Michel-de-Maurienne | Modane | 21 | 646 |
+| R2b | Bramans | Le Planay (Bramans) | 1 | 168 |
+| R2b | Col du Petit Mont-Cenis | Mont-Cenis plateau (lake) | 1 | 215 |
+| R3 | Saint-Marcellin | Tullins | 2 | 151 |
+| R3 | Tullins | Voreppe | 5 | 387 |
+| R3 | Voreppe | Grenoble | 17 | 656 |
+| R3 | Grenoble | Pontcharra | 78 | 860 |
+| R3 | Albertville | Moutiers | 52 | 835 |
+| R3 | Moutiers | Aime | 24 | 566 |
+| R3 | Aime | Bourg-Saint-Maurice | 33 | 727 |
+| R3 | Col du Petit-Saint-Bernard | La Thuile | 1 | 156 |
+| R3 | La Thuile | Pre-Saint-Didier | 3 | 236 |
+| R3 | Morgex | Aosta | 67 | 1597 |
+| R3 | Chatillon (Aosta) | Pont-Saint-Martin | 61 | 993 |
+| R3m | Saint-Marcellin | Tullins | 2 | 151 |
+| R3m | Tullins | Voreppe | 5 | 387 |
+| R3m | Voreppe | Grenoble | 17 | 656 |
+| R3m | Grenoble | Pontcharra | 78 | 860 |
+| R3m | Albertville | Moutiers | 52 | 835 |
+| R3m | Moutiers | Aime | 24 | 566 |
+| R3m | Aime | Bourg-Saint-Maurice | 33 | 727 |
+| R3m | Col du Petit-Saint-Bernard | La Thuile | 1 | 156 |
+| R3m | La Thuile | Pre-Saint-Didier | 3 | 236 |
+| R3m | Morgex | Aosta | 67 | 1597 |
+| R3m | Chatillon (Aosta) | Pont-Saint-Martin | 61 | 993 |
+| R4 | Cavaillon | Pertuis | 35 | 403 |
+| R4 | Pertuis | Manosque | 2 | 178 |
+| R4 | Manosque | Sisteron | 60 | 812 |
+| R4 | Sisteron | Tallard | 63 | 823 |
+| R4 | Tallard | Chorges | 26 | 419 |
+| R4 | Chorges | Embrun | 48 | 378 |
+| R4 | Embrun | Guillestre | 31 | 1073 |
+| R4 | Guillestre | L'Argentiere-la-Bessee | 25 | 436 |
+| R4 | L'Argentiere-la-Bessee | Briancon | 15 | 407 |
+| R4c | Pierrelatte | Montelimar | 6 | 218 |
+| R4c | Crest | Saillans | 11 | 214 |
+| R4c | Saillans | Die | 21 | 527 |
+| R4c | La Beaume | Aspres-sur-Buech | 3 | 202 |
+| R4c | Veynes | Gap | 45 | 608 |
+| R4c | Gap | Tallard | 2 | 191 |
+| R4c | Tallard | Chorges | 26 | 419 |
+| R4c | Chorges | Embrun | 48 | 378 |
+| R4c | Embrun | Guillestre | 31 | 1073 |
+| R4c | Guillestre | L'Argentiere-la-Bessee | 25 | 436 |
+| R4c | L'Argentiere-la-Bessee | Briancon | 15 | 407 |
+| R5 | Cavaillon | Pertuis | 35 | 403 |
+| R5 | Pertuis | Manosque | 2 | 178 |
+| R5 | Manosque | Sisteron | 60 | 812 |
+| R5 | Sisteron | Tallard | 63 | 823 |
+| R5 | Tallard | Chorges | 26 | 419 |
+| R5 | Chorges | Embrun | 48 | 378 |
+| R5 | Embrun | Guillestre | 31 | 1073 |
+| R5 | Guillestre | Chateau-Ville-Vieille | 9 | 401 |
+| R5 | Ristolas | L'Echalp | 4 | 174 |
+| R5 | L'Echalp | Refuge du Viso | 2 | 156 |
+| R5g | Pierrelatte | Montelimar | 6 | 218 |
+| R5g | Crest | Saillans | 11 | 214 |
+| R5g | Saillans | Die | 21 | 527 |
+| R5g | Die | Col de Grimone | 15 | 612 |
+| R5g | Lus-la-Croix-Haute | Aspres-sur-Buech | 20 | 409 |
+| R5g | Veynes | Gap | 45 | 608 |
+| R5g | Gap | Tallard | 2 | 191 |
+| R5g | Tallard | Chorges | 26 | 419 |
+| R5g | Chorges | Embrun | 48 | 378 |
+| R5g | Embrun | Guillestre | 31 | 1073 |
+| R5g | Guillestre | Chateau-Ville-Vieille | 9 | 401 |
+| R5g | Ristolas | L'Echalp | 4 | 174 |
+| R5g | L'Echalp | Refuge du Viso | 2 | 156 |
+| R5c | Pierrelatte | Montelimar | 6 | 218 |
+| R5c | Crest | Saillans | 11 | 214 |
+| R5c | Saillans | Die | 21 | 527 |
+| R5c | La Beaume | Aspres-sur-Buech | 3 | 202 |
+| R5c | Veynes | Gap | 45 | 608 |
+| R5c | Gap | Tallard | 2 | 191 |
+| R5c | Tallard | Chorges | 26 | 419 |
+| R5c | Chorges | Embrun | 48 | 378 |
+| R5c | Embrun | Guillestre | 31 | 1073 |
+| R5c | Guillestre | Chateau-Ville-Vieille | 9 | 401 |
+| R5c | Ristolas | L'Echalp | 4 | 174 |
+| R5c | L'Echalp | Refuge du Viso | 2 | 156 |
+| R6 | Cavaillon | Pertuis | 35 | 403 |
+| R6 | Pertuis | Manosque | 2 | 178 |
+| R6 | Manosque | Sisteron | 60 | 812 |
+| R6 | Sisteron | Tallard | 63 | 823 |
+| R6 | Tallard | Le Lauzet-Ubaye | 58 | 622 |
+| R6 | Le Lauzet-Ubaye | Barcelonnette | 37 | 1192 |
+| R6 | Jausiers | Larche | 29 | 1072 |
+| R6 | Pietraporzio | Vinadio | 20 | 1024 |
+| R6 | Demonte | Borgo San Dalmazzo | 18 | 502 |
+| R6v | Cavaillon | Pertuis | 35 | 403 |
+| R6v | Pertuis | Manosque | 2 | 178 |
+| R6v | Manosque | Sisteron | 60 | 812 |
+| R6v | Sisteron | Tallard | 63 | 823 |
+| R6v | Tallard | Chorges | 26 | 419 |
+| R6v | Chorges | Embrun | 48 | 378 |
+| R6v | Embrun | Guillestre | 31 | 1073 |
+| R6v | Col de Vars | Jausiers | 11 | 510 |
+| R6v | Jausiers | Larche | 29 | 1072 |
+| R6v | Pietraporzio | Vinadio | 20 | 1024 |
+| R6v | Demonte | Borgo San Dalmazzo | 18 | 502 |
+| R7 | Island (i): Isere-Rhone confluence | Vienne | 38 | 209 |
+| R7 | Vienne | Lyon | 2 | 182 |
+| R7 | Bourgoin-Jallieu | Les Echelles | 54 | 457 |
+| R7 | Les Echelles | Chambery | 41 | 678 |
+| R7 | Chambery | Annecy | 121 | 1072 |
+| R7 | Annecy | Geneva | 73 | 917 |
+| R7 | Geneva | Villeneuve (Vaud) | 168 | 1600 |
+| R7 | Villeneuve (Vaud) | Saint-Maurice (Valais) | 17 | 594 |
+| R7 | Martigny | Orsieres | 23 | 1361 |
+| R7 | Orsieres | Bourg-Saint-Pierre | 5 | 284 |
+| R7 | Col du Grand-Saint-Bernard | Saint-Rhemy-en-Bosses | 2 | 222 |
+| R7 | Etroubles | Aosta | 14 | 436 |
+| R7 | Chatillon (Aosta) | Pont-Saint-Martin | 61 | 993 |

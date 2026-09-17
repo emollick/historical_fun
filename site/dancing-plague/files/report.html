@@ -1,0 +1,590 @@
+<title>Strasbourg, July 1518</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,600&family=Spectral:ital,wght@0,400;0,600;0,700;1,400;1,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --ground:#ECEBE6; --paper:#F8F7F3; --ink:#1D1B18; --ink-2:#443F39; --mute:#6B665E;
+  --line:#CFCAC1; --line-strong:#948D82;
+  --red:#9A3B2E; --red-soft:#F1DBD5; --green:#2F6B5E; --green-soft:#D8E8E2; --ochre:#8A6410; --ochre-soft:#F1E5C6; --slate:#3D5A80; --slate-soft:#DCE4EF;
+  --lead:#241F1B; --track:#DEDBD3;
+  --display:"Fraunces","Cormorant Garamond",Garamond,"Times New Roman",serif;
+  --body:"Spectral",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",Menlo,Consolas,monospace;
+  --measure:70ch; --wide:1040px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#15161A; --paper:#1D1F24; --ink:#ECE8DF; --ink-2:#C9C3B7; --mute:#9B958A;
+    --line:#34373E; --line-strong:#5C6069;
+    --red:#E58A79; --red-soft:#3E2620; --green:#7FBFAE; --green-soft:#1E3630; --ochre:#E0B44A; --ochre-soft:#3B3014; --slate:#93B0DA; --slate-soft:#243247;
+    --lead:#0D0E11; --track:#2A2D34; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#15161A; --paper:#1D1F24; --ink:#ECE8DF; --ink-2:#C9C3B7; --mute:#9B958A;
+  --line:#34373E; --line-strong:#5C6069;
+  --red:#E58A79; --red-soft:#3E2620; --green:#7FBFAE; --green-soft:#1E3630; --ochre:#E0B44A; --ochre-soft:#3B3014; --slate:#93B0DA; --slate-soft:#243247;
+  --lead:#0D0E11; --track:#2A2D34; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.62;padding-inline:clamp(16px,4vw,48px);padding-block:36px 96px;-webkit-font-smoothing:antialiased}
+a{color:var(--slate);text-decoration-thickness:1px;text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--slate);outline-offset:2px}
+.page{max-width:var(--wide);margin:0 auto}
+.prose{max-width:var(--measure)}
+h1,h2,h3{font-family:var(--display);font-weight:600;line-height:1.1;text-wrap:balance;margin:0;font-variation-settings:"SOFT" 40}
+h1{font-size:clamp(40px,6vw,66px);letter-spacing:-0.012em;font-variation-settings:"opsz" 144,"SOFT" 60}
+h2{font-size:clamp(27px,3.3vw,35px);margin-block:58px 18px;padding-top:22px;border-top:1px solid var(--line-strong)}
+h3{font-size:21px;margin-block:30px 10px;font-weight:700}
+p{margin:0 0 1em}
+ul,ol{padding-left:1.3em}
+li{margin-bottom:.35em}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--red);margin-bottom:14px}
+.dek{font-family:var(--display);font-size:clamp(20px,2.4vw,26px);font-style:italic;font-weight:400;color:var(--ink-2);max-width:var(--measure);margin-top:14px;line-height:1.35}
+.meta{font-family:var(--mono);font-size:12.5px;color:var(--mute);margin-top:18px;display:flex;flex-wrap:wrap;gap:6px 22px}
+header{padding-bottom:28px}
+.verdict{border:2px solid var(--lead);padding:6px;margin-block:26px 10px;background:var(--paper)}
+.verdict-inner{border:1px solid var(--red);padding:clamp(18px,3vw,32px)}
+.verdict .label{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--red);margin-bottom:12px}
+.verdict .lede{font-family:var(--display);font-size:clamp(24px,3vw,32px);font-weight:600;line-height:1.22;margin:0 0 14px;text-wrap:balance}
+.verdict p{max-width:var(--measure)}
+.conf{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px 28px;margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
+.conf div{font-size:15px;color:var(--ink-2)}
+.conf b{display:block;font-family:var(--mono);font-size:22px;font-weight:600;color:var(--ink);letter-spacing:-.01em}
+.bars{margin-top:26px;display:grid;gap:10px}
+.bar{display:grid;grid-template-columns:minmax(150px,260px) 1fr 52px;gap:12px;align-items:center;font-size:15px}
+.bar .name{color:var(--ink-2);line-height:1.3}
+.bar .track{height:14px;background:var(--track);position:relative;overflow:hidden}
+.bar .fill{position:absolute;inset:0 auto 0 0;background:var(--slate)}
+.bar.lead .fill{background:var(--red)}
+.bar.ochre .fill{background:var(--ochre)}
+.bar.green .fill{background:var(--green)}
+.bar.null .fill{background:var(--line-strong)}
+.bar .pct{font-family:var(--mono);font-size:14px;text-align:right;font-variant-numeric:tabular-nums}
+@media (max-width:520px){.bar{grid-template-columns:1fr 44px}.bar .name{grid-column:1/-1}}
+.caption{font-size:14px;color:var(--mute);line-height:1.5;margin-top:14px}
+.src{margin:22px 0;padding:18px 22px;border-left:3px solid var(--slate);background:var(--paper)}
+.src .orig{font-family:var(--display);font-size:19.5px;line-height:1.42;font-style:italic;color:var(--ink);margin:0 0 10px;font-variation-settings:"SOFT" 60}
+.src .orig b{font-style:normal;font-weight:700}
+.src .trans{font-size:15.5px;color:var(--ink-2);margin:0}
+.src .cite{font-family:var(--mono);font-size:12px;color:var(--mute);margin-top:10px;line-height:1.5}
+.src.red{border-left-color:var(--red)}
+.src.ochre{border-left-color:var(--ochre)}
+.src.green{border-left-color:var(--green)}
+.tablewrap{overflow-x:auto;margin:18px 0 8px;border-top:1px solid var(--line-strong);border-bottom:1px solid var(--line-strong)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;line-height:1.4;min-width:640px}
+th{font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;text-align:left;color:var(--mute);padding:10px 12px 8px;border-bottom:1px solid var(--line-strong);vertical-align:bottom;font-weight:500}
+td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:none}
+td.c,th.c{text-align:center}
+td.m{font-family:var(--mono);font-size:13px;white-space:nowrap;font-variant-numeric:tabular-nums}
+td.num{font-family:var(--mono);font-size:13px;text-align:right;font-variant-numeric:tabular-nums}
+.tag{display:inline-block;font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border:1px solid var(--line-strong);color:var(--ink-2);white-space:nowrap}
+.tag.red{border-color:var(--red);color:var(--red)}
+.tag.green{border-color:var(--green);color:var(--green)}
+.tag.ochre{border-color:var(--ochre);color:var(--ochre)}
+.tag.slate{border-color:var(--slate);color:var(--slate)}
+.callout{padding:16px 20px;background:var(--paper);border:1px solid var(--line);margin:20px 0}
+.callout.red{border-color:var(--red);background:var(--red-soft)}
+.callout.green{border-color:var(--green);background:var(--green-soft)}
+.callout.ochre{border-color:var(--ochre);background:var(--ochre-soft)}
+.callout p:last-child{margin-bottom:0}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px 28px}
+figure{margin:24px 0}
+figure svg{max-width:100%;height:auto;display:block}
+figcaption{font-size:14px;color:var(--mute);margin-top:10px;line-height:1.5}
+.small{font-size:14.5px;color:var(--ink-2)}
+code,.code{font-family:var(--mono);font-size:13.5px}
+pre{font-family:var(--mono);font-size:13px;line-height:1.55;background:var(--paper);border:1px solid var(--line);padding:14px 16px;overflow-x:auto;margin:14px 0}
+.sources li{margin-bottom:.55em;font-size:15px}
+.sources .m{font-family:var(--mono);font-size:12.5px;color:var(--mute)}
+hr{border:0;border-top:1px solid var(--line);margin:28px 0}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="page">
+<header>
+<div class="eyebrow">Historical mysteries · Strasbourg, 1518</div>
+<h1>The dancing plague of 1518</h1>
+<p class="dek">From the middle of July 1518 the poor of Strasbourg danced in the streets. The city's physicians called it a natural illness; the council sent the sick to a shrine of St Vitus, the saint believed to send the dance and to cure it. This is what the documents of that summer say, and how the story later acquired four hundred dancers and a daily death toll.</p>
+<div class="meta"><span>The council's papers and the chronicles read in the printed editions and page images</span><span>Climate and grain prices computed from published datasets</span></div>
+</header>
+
+<h2 id="mystery">What happened</h2>
+<div class="prose">
+<p>On Wednesday 14 or Thursday 15 July 1518, in Strasbourg, then a free city of the Holy Roman Empire on the Rhine, a woman began to dance in the street. She kept it up for days. The city council had her taken to a shrine of St Vitus, the saint who was believed both to send this sickness and to cure it, at the Hohlenstein, a hollow rock in the hills above Saverne, a small town to the north-west. There, a chronicle says, she became quiet. While she was still on the road, other people began to dance near the city stables, and within four days there were about thirty-four of them, women and men. The council forbade drums and pipes, lodged the dancers in two guild halls under guard, and on Friday 23 July ordered three wagons to carry them to the shrine in three groups, with priests engaged to sing mass over them. That morning three councillors questioned the dancers' families. A schoolmaster said that his son had watched the dancers and begun to dance himself; a wheelwright said that his wife, who had had fits before, had run after a band of poor people passing with a bagpipe. Two days later the council wrote to its bishop that the physicians called the trouble a natural illness of the heat and the stars, and that it was coming to an end.</p>
+<p>In early August the sickness "arose again", in the council's words. On 2 August the council banned all public dancing until Michaelmas, 29 September; its decree speaks of up to fifty people dancing day and night at once. On 11 August it made every household and brotherhood responsible for its own sick. On 31 August it voted a hundredweight candle for the saint. By then, a Strasbourg family's chronicle records, more than two hundred people had danced in the space of four weeks.</p>
+</div>
+
+<h2 id="sides">Why it is a mystery</h2>
+<div class="prose">
+<p>The cause was not diagnosed in 1518 and is still disputed. The physicians of the city called it a natural illness. The chroniclers who wrote the story up over the following century saw a curse of St Vitus, a punishment from God, and a good deal of fraud. In 1952 E. Louis Backman, a Swedish physician who wrote a history of religious dance, proposed that the dancers had been poisoned by ergot, a fungus that grows on rye and whose poison causes convulsions and gangrene; that explanation became the popular one. In 2008 John Waller, a historian of medicine, argued in a book on the outbreak that the dancers were in a trance brought on by hunger, fear and belief in the saint's curse, and that the trance spread from person to person by sight. Gregor Rohmann, a German historian of the Middle Ages, and Robert Bartholomew, a sociologist who studies outbreaks of mass hysteria, read the dancing as a religious rite rather than an illness.</p>
+<p>The facts are disputed as well as the cause. The popular account has four hundred dancers, fifteen deaths a day, a first dancer named Frau Troffea, and a council that built a stage and hired musicians so that the afflicted could dance the sickness out. The texts that survive give fifty, a hundred, two hundred, several hundred and four hundred dancers. The council's own minutes burned with the city library in 1870, when Strasbourg was besieged in the Franco-Prussian War, and are known only from extracts made in the eighteenth century. The modern retellings rest on a few chronicles written sixty to a hundred years after the event and on one reading of one lost manuscript.</p>
+</div>
+
+<h2 id="method">How the case was judged</h2>
+<div class="prose">
+<p>We read every text that describes the dancing, in the order in which they were written, from the council's own papers of July and August 1518 to the chronicles of the following century, in the printed editions and, where they exist online, the page images. We asked of each text when it was written and what it says about numbers and deaths, and we traced each element of the modern story, the four hundred, the daily deaths, the stage, the name Troffea, to the text in which it first appears. We then tested the four explanations against that record and against three kinds of evidence the earlier writers did not have: reconstructions of the weather of the growing seasons of 1515 to 1518 from tree rings and written weather records, the grain prices of the same years, and the modern medical case series of outbreaks of dancing, fainting and convulsions that spread through schools and villages by suggestion.</p>
+<p>The texts written in 1518 describe poor people set off by watching others dance or by the sound of a bagpipe, a verdict of natural illness from the physicians, up to fifty afflicted at once, and no death. Every element of the familiar story enters later, at a date that can be fixed: the name Troffea within fifteen years of the event, the deaths and the stage about sixty years after it, the four hundred in 1879, the daily death toll in the present century. Ergot fails on eight counts, the weather of the crop year among them. What remains is a behavioural epidemic among the poor of a city at the end of two years of dearth. We put the odds of that at about 85 percent, which makes a behavioural epidemic the probable cause: the evidence clearly favours it but does not prove it. The alternatives, and the assumptions that would move the figure, are set out in the panel below. The percentages record our judgment of the evidence; no measurement produced them.</p>
+</div>
+
+<section class="verdict">
+<div class="verdict-inner">
+<div class="label">Verdict</div>
+<p class="lede">The dancing was a behavioural epidemic among the poor of a city at the end of two years of dearth. It spread by watching and by music, and it took its shape from the belief that St Vitus sends the dance and cures it. It was not ergot poisoning. The council counted up to fifty dancing at a time; a chronicle written at the time counted more than two hundred over four weeks. No text written between 1518 and about 1580 that we read records a death.</p>
+<p>We put the odds at about 85 percent that the cause was behavioural rather than a poison or an infection, and at about 65 percent that it was, more exactly, a psychogenic epidemic, one in which the symptoms pass from person to person by suggestion rather than by any germ or poison; the rest of the behavioural share goes to the reading of the dancing as a religious rite. These percentages record our judgment of the evidence; no measurement produced them. They depend on the five explanations we weighed and on how much weight we gave each piece of evidence, and the table below shows how they move when one assumption changes. The size of the outbreak, in the texts written at the time: one woman on 14 or 15 July 1518; about thirty-four dancers within four days; "up to fifty" afflicted at once in the council's decree of late July; "more than two hundred" over four weeks in the chronicle of the Imlin family of Strasbourg, which is a running total and the only one from the period. The four hundred is a variant reading of that chronicle first printed in 1879. No text written before about 1580 mentions a death. That is an absence in the extracts from the council's minutes, the council's letter to the bishop, the chronicles and the chronicle of Wilhelm Rem, a merchant of Augsburg who recorded the outbreak in 1518; it is not proof that nobody died, and we searched no parish or hospital register. "Fifteen a day" is Rem's count of new cases on one day; that the modern death rate descends from it is our inference from the wording; we have not traced a chain of citation.</p>
+<p><span class="tag green">Confirms</span>&nbsp; what the Strasbourg historians Élisabeth Clementz and Georges Bischoff (2018) and the American historian Erik Midelfort (1999) concluded, and John Waller's account of how the dancing spread &nbsp;·&nbsp; <span class="tag red">Shifts</span>&nbsp; the popular account of the outbreak's size and deaths (Waller 2008 and 2009; Wikipedia) &nbsp;·&nbsp; <span class="tag ochre">Rejects</span>&nbsp; ergot poisoning (Backman 1952) on eight counts</p>
+<p><b>Strength of the evidence: probable.</b> A behavioural epidemic is the probable cause. The evidence clearly favours it over the other explanations but does not prove it, and the percentage moves when the same evidence is weighed differently, from about 85 in the base case to 55 in the most sceptical row of the table below.</p>
+<p>The Strasbourg museums' exhibition of 2018, with the historians Élisabeth Clementz and Georges Bischoff, had already questioned how much contemporary testimony lies behind the familiar story, and treated Frau Troffea as a later invention. This report builds on their correction.</p>
+<div class="conf">
+<div><b>85%</b>behavioural rather than toxic or infectious</div>
+<div><b>65%</b>a psychogenic epidemic in particular</div>
+<div><b>5%</b>ergot poisoning</div>
+<div><b>0</b>deaths in the sources read, 1518 to about 1580</div>
+</div>
+<div class="bars">
+<div class="bar lead"><span class="name">A psychogenic epidemic: a natural illness in the physicians' words, spread by sight and sound among the destitute, shaped by the St Vitus belief</span><span class="track"><span class="fill" style="width:65%"></span></span><span class="pct">65%</span></div>
+<div class="bar green"><span class="name">The same behaviour as a culturally scripted rite: people dancing because cursed and to be cured, a performance rather than an illness</span><span class="track"><span class="fill" style="width:20%"></span></span><span class="pct">20%</span></div>
+<div class="bar ochre"><span class="name">Ergot poisoning</span><span class="track"><span class="fill" style="width:5%"></span></span><span class="pct">5%</span></div>
+<div class="bar null"><span class="name">Another organic disease: a cluster of epilepsy, chorea (a disorder of involuntary movement), encephalitis (inflammation of the brain), heat</span><span class="track"><span class="fill" style="width:5%"></span></span><span class="pct">5%</span></div>
+<div class="bar null"><span class="name">A few sick people and a crowd of beggars and impostors</span><span class="track"><span class="fill" style="width:5%"></span></span><span class="pct">5%</span></div>
+</div>
+<p class="caption">Figure 1. The five explanations and the weight given to each. Made for this report; the percentages are judgments, explained in section 7. The first two rows are both behavioural readings, and the line between them is partly a choice of vocabulary. Together they give the headline figure of about 85 percent in the base case. In that case neither ergot nor another organic disease reaches ten percent; in the most sceptical row of the table each approaches twenty, and the behavioural readings together fall to 55.</p>
+<div class="prose">
+<p>What moves the numbers: each row of the table changes one assumption that a critic might reasonably reject, and the last row changes all of them at once. Section 7 explains the rows.</p>
+</div>
+<div class="tablewrap">
+<table>
+<thead><tr><th>Assumption</th><th class="num">Behavioural (both readings)</th><th class="num">Ergot</th><th class="num">Other organic</th><th class="num">Mostly fraud</th></tr></thead>
+<tbody>
+<tr><td>Base case: the record as reconstructed in sections 1 to 4</td><td class="num">85</td><td class="num">5</td><td class="num">5</td><td class="num">5</td></tr>
+<tr><td>The deaths reported by the chroniclers Daniel Specklin (about 1580) and Michael Kleinlawel (1625) accepted as fact, though sixty and a hundred years late</td><td class="num">70</td><td class="num">12</td><td class="num">13</td><td class="num">5</td></tr>
+<tr><td>Rem's "fifteen in one day" read as deaths, as Waller reads it</td><td class="num">70</td><td class="num">12</td><td class="num">13</td><td class="num">5</td></tr>
+<tr><td>Ergot allowed a route through old rye from the wet harvest of 1515 kept in the city granary, and given full weight for the cold June of 1518</td><td class="num">78</td><td class="num">12</td><td class="num">5</td><td class="num">5</td></tr>
+<tr><td>The physicians' "natural illness of heat and the stars" read as a real epidemic disease</td><td class="num">75</td><td class="num">5</td><td class="num">15</td><td class="num">5</td></tr>
+<tr><td>The chronicler Johann Wencker's 1637 "ran there themselves" and Specklin's red shoes taken as evidence of a voluntary rite</td><td class="num">85 (rite 35, illness 50)</td><td class="num">5</td><td class="num">5</td><td class="num">5</td></tr>
+<tr><td>Sceptical case: deaths accepted, ergot route allowed, physicians read as describing an infection</td><td class="num">55</td><td class="num">18</td><td class="num">20</td><td class="num">7</td></tr>
+</tbody>
+</table>
+</div>
+<p class="caption">Table 1. How the percentages move when one assumption changes. Compiled for this report. The figures are percentages for the primary cause. In the sceptical case the behavioural reading still leads, because the contagion by sight, the small size, the timing before the harvest and the drought of 1517 survive every assumption in the table.</p>
+</div>
+</section>
+
+<div class="prose">
+<p>What follows. Section 1 lists every text that describes the dancing, by date of writing, and shows how they reach us. Section 2 quotes the texts written in 1518 and the first texts to mention deaths, in the original and in translation. Section 3 traces how two hundred dancers became four hundred and fifteen new cases a day became fifteen deaths. Section 4 dates the council's measures. Section 5 tests the four explanations, ergot, a psychogenic epidemic, a religious rite, and other disease or fraud, against the record and against the reconstructed weather and grain prices of 1514 to 1519. Section 6 dates each element of the modern story. Section 7 explains the probabilities. Sections 8 to 10 say what is new here, what would overturn the verdict and where this report fell short, and section 11 lists the sources.</p>
+</div>
+
+<h2 id="survives">1. What survives, and from when</h2>
+<div class="prose">
+<p>Strasbourg's own papers on the dancing exist in two forms. A few originals survive in the city and departmental archives. The rest is known through extracts that the city archivist Jacob Wencker made in the eighteenth century from the council protocols of 1518, which then burned with the municipal library in the siege of 1870. Those extracts were printed by the Strasbourg priest and historian Léon Dacheux in 1892 and 1899 under the misleading title "Annales de Sébastien Brant"; Brant, the author of <i>The Ship of Fools</i>, was the city's chancellor in 1518, but the compilation is Wencker's. Everything else is chronicle, and the chronicles were written between a few years and 180 years after the event.</p>
+<p>The table lists every text that describes the dancing, in the order they were written, with what each says about numbers and deaths. Every text written within a generation of 1518 gives at most a few hundred dancers, and none of them mentions a death.</p>
+</div>
+<div class="tablewrap">
+<table>
+<thead><tr><th>Text</th><th>Written</th><th>Survives as</th><th>Dancers</th><th>Deaths</th></tr></thead>
+<tbody>
+<tr><td>Council commission, minutes of Friday 23 July 1518, with the <i>Instruction</i> for the transport to St Vitus</td><td class="m">23 Jul 1518</td><td>Original, AVES III 200/15; printed in full by the medical historian Alfred Martin in 1914, pp. 121–124</td><td>Five families named; three wagon-loads in three "huffen"</td><td class="c">none</td></tr>
+<tr><td>Letter of the magistrate to Bishop Wilhelm of Honstein</td><td class="m">25 Jul 1518</td><td>Original, ADBR 12 J 1495; French translation in the 2018 teachers' dossier only</td><td>"one woman, then other persons"</td><td class="c">none</td></tr>
+<tr><td>Mandate banning public dancing, signed by Sebastian Brant</td><td class="m">2 Aug 1518</td><td>Original, AVES 1 MR 3, f. 72r (text not printed anywhere we could reach)</td><td>—</td><td class="c">—</td></tr>
+<tr><td>Six identical notices to the brotherhoods; a later mandate "as the sickness will not end"</td><td class="m">Aug 1518</td><td>Originals, AVES III 200/15; Martin 1914, pp. 121–122</td><td>"wider erhept": a relapse</td><td class="c">none</td></tr>
+<tr><td>Council of XXI (one of the city's inner councils), decisions of 22 July, 11 August and 31 August 1518</td><td class="m">1518</td><td>Wencker's <i>Extractus</i> (18th c., burned 1870); Dacheux 1892 no. 3443, 1899 no. 4398</td><td>"uff fünfzig personen"</td><td class="c">none</td></tr>
+<tr><td>Wilhelm Rem, Augsburg merchant, <i>Cronica newer geschichten</i></td><td class="m">1518</td><td>Chroniken der deutschen Städte 25 (1896), p. 88</td><td>"a good 15 people in one day"</td><td class="c">none</td></tr>
+<tr><td>Imlin family chronicle, Strasbourg</td><td class="m">1516–43</td><td>Edited by the Strasbourg librarian Rodolphe Reuss, 1875, p. 26 (from the manuscript)</td><td>1 → about 34 in four days → more than 200 in four weeks</td><td class="c">none</td></tr>
+<tr><td>Hieronymus Gebwiler, cathedral schoolmaster, chronicle</td><td class="m">early 1520s</td><td>Karl Stenzel's edition, 1926, pp. 74–75 (not retrieved; quoted by Midelfort 1999 and the 2018 exhibition's teachers' dossier)</td><td>one woman, six days; others "from looking on"</td><td class="c">none in the passages quoted</td></tr>
+<tr><td>Paracelsus, the Swiss physician, <i>De causis morborum invisibilium</i> (on invisible diseases) and <i>De morbis amentium</i> (on the diseases that rob people of reason)</td><td class="m">c. 1526–32</td><td>Huser's edition 1589–91; Sudhoff's edition, vols 2 and 9</td><td>"Frau Troffea" and those who followed her</td><td class="c">see §6</td></tr>
+<tr><td>Anonymous Basel chronicle in the compilation of the Basel painter Konrad Schnitt</td><td class="m">before 1537</td><td>Basler Chroniken VI (1902), pp. 226–227; manuscript dated 1518, editor moved it to 1418</td><td>"etliche hundert"</td><td class="c">none</td></tr>
+<tr><td>Daniel Specklin, city architect, <i>Collectanea</i></td><td class="m">c. 1580</td><td>Burned 1870; Reuss 1889 no. 2216, reconstructed from a note written into a printed copy of Schilter and from the papers of the historian Timotheus Wilhelm Rœhrich</td><td>"over 100 at one time"</td><td class="c"><span class="tag red">first</span> "Viel tantzten sich zu tode"</td></tr>
+<tr><td>Anonymous <i>Kleine Strassburger Chronik</i> (close to the lost chronicle of the pastor Oseas Schad); Duntzenheim family chronicle as summarised by the librarian Andreas Jung in 1830</td><td class="m">c. 1600–33</td><td>Reuss 1889, p. 5; Dacheux 1897 no. 3981</td><td>1 → 34 → over 200</td><td class="c">"biss etliche starben, erlagen oder miedt wurden"</td></tr>
+<tr><td>Michael Kleinlawel, rhymed <i>Straßburgische Chronick</i></td><td class="m">1625</td><td>Printed 1625, pp. 130–131</td><td>"viel Leut"</td><td class="c">"Viel sind Todt drüber blieben"</td></tr>
+<tr><td>Johann Wencker, Strasbourg magistrate, chronicle (copying Specklin)</td><td class="m">1637</td><td>Burned 1870; Dacheux 1892 no. 3007</td><td>"viel"</td><td class="c">"Etliche stürben dran"</td></tr>
+<tr><td>Six verses from an unidentified Strasbourg manuscript chronicle, printed under the year 1418 by Johann Schilter, the jurist who edited the city's medieval chronicle in 1698</td><td class="m">before 1698</td><td>Schilter 1698, pp. 1089–1090</td><td>"Viel hundert"</td><td class="c">none</td></tr>
+</tbody>
+</table>
+</div>
+<p class="caption">Table 2. Every text that describes the dancing, by date of writing. Compiled for this report from the editions listed in section 11. AVES: Archives de la Ville et de l'Eurométropole de Strasbourg. ADBR: Archives départementales du Bas-Rhin. Shelfmarks are those given in the lenders' list of the 2018 exhibition "1518, la fièvre de la danse". Page images of the printed editions used for every quotation are kept with this report.</p>
+
+<figure>
+<div class="tablewrap" style="border:0">
+<svg viewBox="0 0 1000 560" width="1000" height="560" role="img" aria-label="Transmission of the sources on the 1518 dancing" style="min-width:820px;font-family:var(--mono);font-size:12px">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="var(--line-strong)"/></marker>
+  </defs>
+  <!-- column headers -->
+  <g fill="var(--mute)" font-size="11" letter-spacing=".12em">
+    <text x="20" y="22">1518</text>
+    <text x="250" y="22">1520s–1640s</text>
+    <text x="520" y="22">1698–1914</text>
+    <text x="780" y="22">1999–2008</text>
+  </g>
+  <line x1="10" y1="30" x2="990" y2="30" stroke="var(--line)"/>
+  <!-- row labels -->
+  <g fill="var(--mute)" font-size="11">
+    <text x="20" y="60">Council papers</text>
+    <text x="20" y="250">Private chronicles</text>
+    <text x="20" y="420">Later chronicles</text>
+  </g>
+  <!-- ADMIN LINE -->
+  <g font-size="12" fill="var(--ink)">
+    <rect x="20" y="70" width="180" height="58" fill="var(--paper)" stroke="var(--red)" stroke-width="1.5"/>
+    <text x="30" y="88">Commission minutes and</text><text x="30" y="103">Instruction, 23 Jul 1518</text><text x="30" y="119" fill="var(--mute)">AVES III 200/15, survives</text>
+    <rect x="20" y="140" width="180" height="44" fill="var(--paper)" stroke="var(--red)" stroke-width="1.5"/>
+    <text x="30" y="158">XXI protocols 1518</text><text x="30" y="174" fill="var(--mute)">burned 1870</text>
+    <rect x="250" y="140" width="200" height="44" fill="var(--paper)" stroke="var(--line-strong)"/>
+    <text x="260" y="158">Wencker, Extractus (18th c.)</text><text x="260" y="174" fill="var(--mute)">"Annales de Brant", burned 1870</text>
+    <rect x="520" y="140" width="200" height="44" fill="var(--paper)" stroke="var(--line-strong)"/>
+    <text x="530" y="158">Dacheux 1892, 1899</text><text x="530" y="174" fill="var(--mute)">"uff fünfzig personen"</text>
+    <rect x="520" y="70" width="200" height="58" fill="var(--paper)" stroke="var(--line-strong)"/>
+    <text x="530" y="88">Schilter 1698, dated "1418"</text><text x="530" y="103">Hecker 1832, Babington 1844</text><text x="530" y="119" fill="var(--mute)">Martin 1914 restores 1518</text>
+  </g>
+  <line x1="200" y1="99" x2="520" y2="99" stroke="var(--line-strong)" marker-end="url(#arr)"/>
+  <line x1="200" y1="162" x2="250" y2="162" stroke="var(--line-strong)" marker-end="url(#arr)"/>
+  <line x1="450" y1="162" x2="520" y2="162" stroke="var(--line-strong)" marker-end="url(#arr)"/>
+  <!-- PRIVATE CHRONICLES -->
+  <g font-size="12" fill="var(--ink)">
+    <rect x="20" y="265" width="180" height="44" fill="var(--paper)" stroke="var(--red)" stroke-width="1.5"/>
+    <text x="30" y="283">Rem, Augsburg, 1518</text><text x="30" y="299" fill="var(--mute)">"15 in one day"</text>
+    <rect x="250" y="205" width="200" height="44" fill="var(--paper)" stroke="var(--red)" stroke-width="1.5"/>
+    <text x="260" y="223">Imlin chronicle (1516–43)</text><text x="260" y="239" fill="var(--mute)">1 → 34 → "mehr dan 200"</text>
+    <rect x="520" y="205" width="200" height="58" fill="var(--paper)" stroke="var(--line-strong)"/>
+    <text x="530" y="223">Reuss 1875: 200</text><text x="530" y="239">Witkowski 1879 → Martin 1914: 400</text><text x="530" y="255" fill="var(--mute)">two readings of one manuscript</text>
+    <rect x="780" y="205" width="200" height="58" fill="var(--paper)" stroke="var(--line-strong)"/>
+    <text x="790" y="223">Midelfort 1999: "over 400"</text><text x="790" y="239">Waller 2008: "as many as 400"</text><text x="790" y="255" fill="var(--mute)">from Martin's 400</text>
+    <rect x="250" y="265" width="200" height="44" fill="var(--paper)" stroke="var(--red)" stroke-width="1.5"/>
+    <text x="260" y="283">Gebwiler (early 1520s)</text><text x="260" y="299" fill="var(--mute)">one woman six days; no numbers</text>
+    <rect x="250" y="325" width="200" height="58" fill="var(--paper)" stroke="var(--red)" stroke-width="1.5"/>
+    <text x="260" y="343">Basel anonymus (before 1537)</text><text x="260" y="359">"etliche hundert"</text><text x="260" y="375" fill="var(--mute)">ms. dated 1518; ed. 1902 says 1418</text>
+    <rect x="520" y="325" width="200" height="44" fill="var(--paper)" stroke="var(--line-strong)"/>
+    <text x="530" y="343">Schilter's verses "Viel hundert"</text><text x="530" y="359" fill="var(--mute)">same wording, headed "An. 1418"</text>
+  </g>
+  <line x1="450" y1="227" x2="520" y2="227" stroke="var(--line-strong)" marker-end="url(#arr)"/>
+  <line x1="720" y1="227" x2="780" y2="227" stroke="var(--line-strong)" marker-end="url(#arr)"/>
+  <line x1="450" y1="347" x2="520" y2="347" stroke="var(--line-strong)" stroke-dasharray="4 4" marker-end="url(#arr)"/>
+  <!-- LATER -->
+  <g font-size="12" fill="var(--ink)">
+    <rect x="250" y="440" width="200" height="58" fill="var(--paper)" stroke="var(--ochre)" stroke-width="1.5"/>
+    <text x="260" y="458">Specklin, c. 1580</text><text x="260" y="474">"over 100"; first mention of deaths</text><text x="260" y="490" fill="var(--mute)">burned 1870; Reuss 1889</text>
+    <rect x="520" y="440" width="200" height="58" fill="var(--paper)" stroke="var(--ochre)" stroke-width="1.5"/>
+    <text x="530" y="458">Wencker 1637 "some died"</text><text x="530" y="474">Kleinlawel 1625 "many died"</text><text x="530" y="490" fill="var(--mute)">Kleine Chronik: "over 200"</text>
+    <rect x="780" y="440" width="200" height="58" fill="var(--paper)" stroke="var(--ochre)" stroke-width="1.5"/>
+    <text x="790" y="458">Waller 2008–09:</text><text x="790" y="474">"fifteen a day were dying"</text><text x="790" y="490" fill="var(--mute)">no 16th-c. text says so</text>
+    <rect x="20" y="440" width="180" height="58" fill="var(--paper)" stroke="var(--green)" stroke-width="1.5"/>
+    <text x="30" y="458">Paracelsus, c. 1526–32</text><text x="30" y="474">"Frau Troffea"</text><text x="30" y="490" fill="var(--mute)">the only text to name her</text>
+  </g>
+  <line x1="450" y1="469" x2="520" y2="469" stroke="var(--line-strong)" marker-end="url(#arr)"/>
+  <line x1="720" y1="469" x2="780" y2="469" stroke="var(--line-strong)" stroke-dasharray="4 4" marker-end="url(#arr)"/>
+  <!-- legend -->
+  <g font-size="11" fill="var(--mute)">
+    <rect x="20" y="525" width="14" height="10" fill="none" stroke="var(--red)" stroke-width="1.5"/><text x="40" y="534">written within a generation of 1518</text>
+    <rect x="290" y="525" width="14" height="10" fill="none" stroke="var(--ochre)" stroke-width="1.5"/><text x="310" y="534">first appearance of deaths</text>
+    <line x1="500" y1="530" x2="540" y2="530" stroke="var(--line-strong)" stroke-dasharray="4 4"/><text x="550" y="534">relation inferred, not documented</text>
+  </g>
+</svg>
+</div>
+<figcaption>Figure 2. How the sources have come down. Made for this report from the editions listed in section 11. Red boxes are texts written within a generation of the event; ochre boxes are the texts in which deaths first appear; dashed arrows mark a relationship inferred from shared wording rather than from a documented copy.</figcaption>
+</figure>
+
+<h2 id="record">2. The record, read from the page</h2>
+<div class="prose">
+<p>The passages below are quoted from the editions named, checked against the page images, with our translations. They are arranged in the order they were written. The Imlin chronicle comes first because its hand belongs to a Strasbourg burgher writing between 1516 and 1543, and because it is the only early text that gives day-precise dates.</p>
+</div>
+
+<div class="src red">
+<p class="orig">Anno 1518 iar, acht tag vor S. Maria Magdalena tag hub ein frauw an zu dantzen, das nennt man den Vit dantz. Der dantz weret woll 6 tag, da leiß sey meine herren nach S. Vit gehn Zabern füren, da war sey still und die weil sey noch uff dem weg war, da fingen noch mehr an zu dantzen, bey dem Herrenstall also daß in 4 tagen bey <b>34</b> frauwen und man waren. Da verbotten meine herren die drummeln und pfiffer, und fürt ein theil uff die gerwerstub, das ander uff die zimmerleut stub und an dem andern tag da leiß man sey alle nach S. Vitt füren und da dantzen und in 4 wuchen wurden ir <b>mehr dan 200</b> dantzet.</p>
+<p class="trans">In the year 1518, eight days before St Mary Magdalene's day [14 July], a woman began to dance; that is what people call the Vitus dance. The dance lasted a good six days; then my lords had her taken to St Vitus at Saverne, where she became quiet. While she was still on the way, more people began to dance, by the city stables, so that within four days there were about 34 women and men. Then my lords forbade the drums and pipers, and took one part to the tanners' hall and the other to the carpenters' hall, and on the next day they had them all taken to St Vitus and [they] danced there; and within four weeks more than 200 had danced.</p>
+<p class="cite">Imlin family chronicle, ed. Rodolphe Reuss, <i>Strassburg im sechzehnten Jahrhundert (1500–1591). Auszug aus der Imlin'schen Familienchronik</i> (Colmar 1875), p. 26, "nach der Originalhandschrift". Page image: Bayerische Staatsbibliothek, bsb11312752, scan 34. Alfred Martin (1914, p. 119) printed the same passage from the psychiatrist Georg Witkowski's 1879 transcription with "mehr denn 400 Dantzer"; see §3.</p>
+</div>
+
+<div class="src red">
+<p class="orig">Als diss jars um Margarethen ein schwäre erschreckliche krankheit mit St. Vitstanz erhub, also dass <b>uff fünfzig personen</b> damit behafft tag und nacht tantzeten dass jämmerlich zu sehen war, wurden dieselben alle in der Stattcosten verwahrt und zu dem lieben heil. St. Vit im Hohenstein bei Zabern geführt und fast erledigt. Da setzten unsere herren uff und lissen ein gebot üssgon, dass niemand tantzen soll bis Michaelis in der ganzen Statt und burgbann, bei 30 sch. pf. und kein brucken schlagen; wol möchte man bey brautläuften und ersten messen mit saitenspiel tantzen nach eines jeden conscienz.</p>
+<p class="trans">As this year around St Margaret's day [15 July in the Strasbourg calendar] a grave and terrifying sickness with St Vitus's dance arose, so that up to fifty persons afflicted with it danced day and night, which was pitiful to see, they were all kept at the city's cost and taken to the dear holy St Vitus in the Hohlenstein near Saverne, and nearly all relieved. Then our lords resolved and issued a decree that nobody shall dance until Michaelmas [29 September] in the whole city and its jurisdiction, on pain of 30 shillings, and no drums be beaten; but at weddings and first masses one may dance to stringed instruments, according to each one's conscience.</p>
+<p class="cite">Council of XXI, 1518, in Jacob Wencker's <i>Extractus ex prothocollis D.D. XXI</i> (the "Annales de Brant"), printed by L. Dacheux, "Extraits des Annales de Sébastien Brant", <i>Bulletin de la Société pour la conservation des monuments historiques d'Alsace</i>, 2e sér. XV (1892), no. 3443, pp. 239–240 (archive.org pourlaconser2v15soci). The same entry records decisions of Thursday 22 July, Wednesday 11 August and Tuesday 31 August 1518, and a note "von disem tantz findt man in miner Cronicken ad longum", pointing to a fuller account in Brant's lost chronicle.</p>
+</div>
+
+<div class="src red">
+<p class="orig">Balthasar Burgawer der Lermeister hinder den Barfußen beschickt vnd jm solchs ouch fürgehalten, Sagt, sin Son Bernhart hab zugesehen und hüt morgen angefangen dantzen, do er jm die kindt solt helffen vnderwisen; hab er jn gedutzset bitz nachmittag, nach den zweyen hab er zu dem dantz gewelt, hab jn dohin müssen füren. [&hellip;] Antheng Silinger der Wagener Apolonigen Hußwürt so dantzt, uff der Zimerlut stuben befragt, Er sy <b>uß der Erne kommen</b>, sy sin frauw in der stuben gestanden vnd uffgehüpfft, hat sy dryer gefragt, wie jr sy, vnd geachtet, sy wer abermals, als sy dan vormals ouch gewesen, von Sanct Martzolff beladen, vnd nider gedutscht vnd nach die armen lüte mit einer Sackpfiffen kommen, sy sy uffgewust vnd jn nachgelouffen, wol gern sin frauw do hinfüren, sy sonst ein arme mensch.</p>
+<p class="trans">Balthasar Burgawer, the schoolmaster behind the Franciscans, was summoned and confronted with the same; he says his son Bernhart had watched [the dancers] and this morning began to dance, when he was supposed to be helping him teach the children; he calmed him down until the afternoon, but after two o'clock he wanted to go to the dance and he had to lead him there. [&hellip;] Anthony Silinger the wheelwright, husband of Apolonia, who is dancing, questioned on the carpenters' hall: he had come in from the harvest; his wife was standing in the room and hopped up; he asked her three times what was the matter and thought she was again, as she had been before, burdened by St Marcolf [Martin: epilepsy], and he calmed her down; and when the poor people came past with a bagpipe she got up and ran after them. He would gladly take his wife there; she is otherwise a poor creature.</p>
+<p class="cite">Minutes of the council commission (Claus Böcklin, Caspar Hoffmeister, Martin Herlin), "Vff Fritag post Marie Magdalene" [23 July 1518], AVES III 200/15, printed by Alfred Martin, "Geschichte der Tanzkrankheit in Deutschland", <i>Zeitschrift des Vereins für Volkskunde</i> 24 (1914), pp. 122–123 (archive.org zeitschriftfrv24verbuoft); first printed, with errors and under the year 1418, by Schilter 1698, pp. 1088–1089. The same document orders three wagons from the Hospital and the cathedral works to be ready "uff die subent ure", divides the poor dancers into three groups with named riders and attendants, and settles what each sung mass at Saverne will cost.</p>
+</div>
+
+<div class="src red">
+<p class="orig">Vnd wann je ein Ambt einer rotten gesungen, sollen dieselbigen armen lüt in derselbigen rotten umb den Altar gefürt werden, vnd <b>ein iedes kranckes mensch</b> ein pfennig pfrymen, desglichen dornach ouch opfern, vnd so ein person nit so geschickt wer, das es solchs thun mecht, sol der jhin so es umb den altar fürt, für jn darlegen.</p>
+<p class="trans">And whenever a service has been sung for a troop, the poor people of that troop shall be led round the altar, and every sick person shall "pfrymen" one pfennig and likewise afterwards make an offering; and if a person were not fit to do this, the one who leads him round the altar shall lay it down for him.</p>
+<p class="cite"><i>Instruction der armen dantzenden Personen so zu Sant Vit geschickt. Veneris post Magdalene etc. XVIII</i> [23 July 1518], AVES III 200/15; Martin 1914, pp. 123–124; dorsal note "Dantzende arme personen so zu Sanct Vit zum Holenstein geschickt". The year is written only "etc. XVIII", which is how Schilter's "1418" arose. The word "pfrymen" is unexplained (Martin: "Bedeutung unklar").</p>
+</div>
+
+<div class="src red">
+<p class="orig">Vous nous avez écrit au sujet de l'inhabituelle maladie qui vient de se déclarer, pour que nous fassions un rapport. Ça a commencé avec une femme, puis avec d'autres personnes qui se sont mises à danser. Nous avons gardé ces personnes quelques jours et interrogé les médecins, qui nous ont dit qu'il s'agissait d'une <b>maladie naturelle</b> due à une conjonction astrale et à la chaleur du moment. Elle touche néanmoins à sa fin. [&hellip;] Les médecins nous ont aussi conseillé de ne pas leur donner de vin, mais de l'eau d'orge et du pain ou de la bouillie d'orge et d'avoine [&hellip;] et de leur faire de la musique, mais pas avec des timbales et des fifres, mais uniquement avec des cithares, violons, luths ou orgues positifs.</p>
+<p class="trans">You wrote to us about the unusual illness that has just broken out, asking for a report. It began with one woman, then with other persons who started to dance. We kept these persons for some days and questioned the physicians, who told us it was a natural illness caused by an astral conjunction and the heat of the season. It is nevertheless coming to an end. [&hellip;] The physicians also advised us not to give them wine but barley water, and bread or porridge of barley and oats, and to make music for them, but not with kettledrums and fifes, only with citherns, fiddles, lutes or positive organs.</p>
+<p class="cite">The magistrate of Strasbourg to Bishop Wilhelm, 25 July 1518, ADBR 12 J 1495. We could not obtain the German text; this is the French translation by Élisabeth Clementz printed in the teachers' dossier of the 2018 exhibition (Musées de Strasbourg), p. 11. Andreas Jung's nineteenth-century résumé of the lost protocol gives the physicians' verdict as "eine natürliche krankheit, die von hitzigem geblüt herkomme" (Dacheux 1899, no. 4398, p. 42); the phrase "hot blood" is therefore third-hand, while "natural illness" is confirmed by the bishop's vicar, his deputy, in his own words: "diwyl die Artz anzeigen, daß es eine natürlich krankheit sy, daß man auch natürlich mittel mit in versuche".</p>
+</div>
+
+<div class="src red">
+<p class="orig">Wie zů Straspurg vil leut sant Veitz tantz ankam. Anno dni. 1518 im sumer da kam es zů Straspurg fast vil leutt sant Veitz tantz an, daß <b>ain tag wol bei 15 menschen ankam</b>. es weret fast lang, also verbott man das tantzen und pfeiffen und paugkenschlagen.</p>
+<p class="trans">How St Vitus's dance came upon many people at Strasbourg. In the year of the Lord 1518, in summer, St Vitus's dance came upon very many people at Strasbourg, so that in one day it came upon a good fifteen people. It lasted very long; so dancing and piping and drum-beating were forbidden.</p>
+<p class="cite">Wilhelm Rem, <i>Cronica newer geschichten</i> (Augsburg, entries of 1518), ed. F. Roth, <i>Die Chroniken der deutschen Städte</i> 25 (Leipzig 1896), p. 88 (archive.org bub_gb_RICIqSRvM78C). Rem wrote his chronicle year by year; the imperial diet sat at Augsburg from June 1518 and brought news from every part of the Empire. Fifteen is the number of people newly seized in one day; it is not a number of deaths.</p>
+</div>
+
+<div class="src red">
+<p class="orig">Anno [1518] fiengent <b>etliche hundert</b> menschen, frouwen und man, zů Straszburg an tantzen und springen an offnem marckt und gassen, tag und nacht. Etliche assent nut, bisz innen das wütten vergieng. Und ward die plag sant Vietz tantz genempt.</p>
+<p class="trans">In the year 1518 several hundred people, women and men, began at Strasbourg to dance and leap in the open market and the streets, day and night. Some ate nothing until the raving passed off them. And the plague was named St Vitus's dance.</p>
+<p class="cite">Anonymous Basel chronicle preserved in the painter Konrad Schnitt's compilation (written before 1537), <i>Basler Chroniken</i> VI, ed. the Basel historian August Bernoulli (Leipzig 1902), Beilage I, pp. 226–227, apparatus: "Hs.: Anno XVCXVIII (statt XIVCXVIII)". The manuscript reads 1518. Bernoulli printed it under 1418 and explained on p. 189 that the notice "in Wirklichkeit ins Jahr 1418 gehört", citing only Schilter's misdated council orders. The verses that Schilter printed in 1698 have the same wording in rhyme.</p>
+</div>
+
+<div class="src ochre">
+<p class="orig">Da erhub sich ein dantz von iungen und alten leutten, die tantzten tag und nacht, dass sie nider fielen, also dass über 100 zu Strassburg auff einmal tantzten. Da gab man in etliche zunftstuben ein, auch auff dem Ross- und Kornmarckt macht man gerüst und bestellte eigene leutt umb lohn, die mussten stets mit ihnen, tantzten mit trummen und pfeiffen; es half alles nichts. <b>Viel tantzten sich zu tode.</b> Do schickte man sie hinder Zabern zu St. Veit, zum holen stein, auff waegen; da gab man ihnen creutzle und rothe schuh, und macht mess über sie. An den schuhen war unten und oben creutz mit dem chrisam gemacht und mit weyhwasser besprengt in St. Veits nahmen, dass halff ihn vast allen. Und kam solches viel leuth an, denen man St. Veits tantz fluchte, lieff auch viel schelmenwerk mit unter.</p>
+<p class="trans">Then a dance arose of young and old people, who danced day and night until they fell down, so that over 100 danced at Strasbourg at one time. They were given some guild-halls; also on the horse-market and the corn-market platforms were built and special people hired for pay, who had to keep dancing with them, to drums and pipes; none of it helped. Many danced themselves to death. Then they were sent behind Saverne to St Vitus at the hollow rock, on wagons; there they were given little crosses and red shoes, and mass was said over them. On the shoes, below and above, a cross was made with chrism and sprinkled with holy water in St Vitus's name, and that helped nearly all of them. And it came upon many people on whom St Vitus's dance had been wished as a curse; much roguery also ran in with it.</p>
+<p class="cite">Daniel Specklin (1536–1589), <i>Collectanea</i>, no. 2216, in R. Reuss, "Les Collectanées de Daniel Specklin", <i>Bulletin de la Société pour la conservation des monuments historiques d'Alsace</i>, 2e sér. XIV (1889), pp. 307–308 (archive.org pourlaconser2v14soci). Specklin was born eighteen years after the event; his manuscript burned in 1870, and Reuss reconstructed this entry from a gloss written into a printed Schilter and from Rœhrich's papers. This is the earliest text of any kind that says anyone died.</p>
+</div>
+
+<div class="src ochre">
+<p class="orig">EIn Seltzam sucht ist zu der zeit / Vnder dem Volck vmb gangen / Dan viel Leut auß Vnsinnigkeit / Zu Dantzen angefangen / Welches sie allzeit Tag vnd Nacht / Ohn vnter laß getrieben / Biß das sie fielen in ohnmacht / <b>Viel sind Todt drüber blieben.</b></p>
+<p class="trans">A strange sickness at that time went about among the people, for many people out of madness began to dance, which they kept up all the time, day and night, without pause, until they fell in a faint; many died of it.</p>
+<p class="cite">Michael Kleinlawel, <i>Straßburgische Chronick</i> (Strasbourg 1625), pp. 130–131, marginal heading "Vits Dantz" under the year 1518 (Bayerische Staatsbibliothek, bsb10057089, scans 140–141). The stanzas immediately before, under 1517, describe a great dearth and a mortality for which the clergy went in procession with crosses. The often-quoted verses "Viel hundert fiengen zu Straßburg an" are not in Kleinlawel; they come from an unidentified manuscript printed by Schilter in 1698 (pp. 1089–1090) under the wrong year 1418, which J. F. C. Hecker, the Berlin medical historian, copied in 1832.</p>
+</div>
+
+<h2 id="numbers">3. How two hundred became four hundred, and how fifteen cases became fifteen deaths</h2>
+<div class="prose">
+<p>Read in the order they were written, the texts give numbers that grow with the distance from the event, and deaths appear only when that distance has reached sixty years. The council's own extract says "uff fünfzig personen" were dancing day and night. The Imlin chronicle, the one private record from within a generation that gives figures, counts 34 within four days and "more than 200" within four weeks. The Augsburg chronicler Wilhelm Rem, writing in 1518, heard that "in one day a good fifteen people" were seized. No text written before about 1580 mentions a death.</p>
+</div>
+<div class="tablewrap">
+<table>
+<thead><tr><th>Written</th><th>Text</th><th>Dancers</th><th>Deaths</th><th>Where the figure comes from</th></tr></thead>
+<tbody>
+<tr><td class="m">1518</td><td>Council of XXI (Extractus no. 3443)</td><td>"uff fünfzig personen"</td><td>none</td><td>Probably the preamble of the mandate of 2 August</td></tr>
+<tr><td class="m">1518</td><td>Wilhelm Rem, Augsburg</td><td>"a good fifteen in one day"; "very many"</td><td>none</td><td>News reaching the imperial diet; an incidence, not a total</td></tr>
+<tr><td class="m">1516–43</td><td>Imlin family chronicle</td><td>1, then 34 in four days, then "mehr dan 200" in four weeks</td><td>none</td><td>Manuscript read by Reuss 1875; Witkowski 1879 read "400" in the same passage</td></tr>
+<tr><td class="m">early 1520s</td><td>Gebwiler</td><td>one woman for six days; others "from looking on"</td><td>none quoted</td><td>Stenzel 1926, pp. 74–75, via Midelfort 1999 and the 2018 dossier</td></tr>
+<tr><td class="m">before 1537</td><td>Basel anonymus</td><td>"etliche hundert"</td><td>none</td><td>A Basel writer's foreign notice, dated 1518 in the manuscript</td></tr>
+<tr><td class="m">c. 1580</td><td>Specklin</td><td>"über 100 auff einmal"</td><td><span class="tag red">first</span> "Viel tantzten sich zu tode"</td><td>Reconstructed from an 18th-century gloss and 19th-century papers</td></tr>
+<tr><td class="m">c. 1600–33</td><td>Kleine Strassburger Chronik; Duntzenheim via Jung; Oseas Schad via Boersch</td><td>1, 34, "uber 200"</td><td>"biss etliche starben, erlagen oder miedt wurden"</td><td>The same tradition as Imlin, with a death clause added</td></tr>
+<tr><td class="m">1625</td><td>Kleinlawel</td><td>"viel Leut"</td><td>"Viel sind Todt drüber blieben"</td><td>Rhymed summary; no numbers</td></tr>
+<tr><td class="m">1637</td><td>Wencker</td><td>"viel"</td><td>"Etliche stürben dran"</td><td>Copying Specklin</td></tr>
+<tr><td class="m">before 1698</td><td>Verses in Schilter</td><td>"Viel hundert"</td><td>none</td><td>Rhymed version of the Basel formula, headed "An. 1418"</td></tr>
+<tr><td class="m">1832</td><td>Hecker</td><td>"many hundreds" (1418)</td><td>none for Strasbourg</td><td>From Schilter</td></tr>
+<tr><td class="m">1914</td><td>Martin</td><td>Imlin "mehr denn 400"</td><td>quotes Specklin and Kleinlawel</td><td>From Witkowski 1879</td></tr>
+<tr><td class="m">1999</td><td>Midelfort</td><td>"more than four hundred"</td><td>—</td><td>From Martin</td></tr>
+<tr><td class="m">2008–09</td><td>Waller</td><td>"as many as 400"</td><td>"fifteen a day" (see §6)</td><td>From Martin and Midelfort; the death rate has no 16th-century source</td></tr>
+</tbody>
+</table>
+</div>
+<p class="caption">Table 3. The dancers and the deaths, text by text, from 1518 to 2009. Compiled for this report from the editions listed in section 11.</p>
+
+<h3>200 or 400</h3>
+<div class="prose">
+<p>The figure of 400 that runs through Midelfort, Waller and every popular account is a reading of one word in one manuscript. Rodolphe Reuss edited the Imlin chronicle from the original in 1873 and again in 1875 and printed "mehr dan 200" both times. Georg Witkowski, a psychiatrist writing in 1879, transcribed the same passage with "mehr denn 400", and Alfred Martin took Witkowski's text into his 1914 article, from which Midelfort and Waller took theirs. The manuscript burned in 1870 with the rest of the Strasbourg municipal library, so the two readings cannot be arbitrated on the page. Two things favour Reuss. He was editing the manuscript as a text, with the stated aim of printing it "nach der Originalhandschrift"; Witkowski was quoting it inside a psychiatric essay. And the independent line of the same tradition, the Duntzenheim chronicle as summarised by Jung in 1830 and the anonymous Kleine Strassburger Chronik of the early seventeenth century, both have "more than two hundred". We therefore treat 200 as the chronicle's figure and 400 as a nineteenth-century variant.</p>
+<p>Even 200 is not a count of people dancing at once. Imlin's phrase is "in 4 wuchen wurden ir mehr dan 200 dantzet": over four weeks more than 200 had danced. The council's fifty and Specklin's "over 100 at one time" are figures for a single moment. The three numbers are compatible with an outbreak that peaked at several dozen and touched a couple of hundred people over six weeks, most of them briefly.</p>
+</div>
+
+<h3>The 1418 error</h3>
+<div class="prose">
+<p>Half the modern literature lists a Strasbourg dancing plague of 1418 alongside the one of 1518. There was none. The council's <i>Instruction</i> of 23 July is dated "Veneris post Magdalene etc. XVIII", with the century left to be understood. Johann Schilter, printing it in his 1698 edition of the medieval Strasbourg chronicle of Jakob Twinger von Königshofen, read the abbreviation as 1418 and headed the whole section "Vom Veitz-Tantz An. 1418". Hecker copied the year in 1832; B. G. Babington's English translation of Hecker carried it into the medical literature; Boersch, writing in 1836, first printed 1518 and then recanted; the medical historian Heinrich Häser inserted "14.." into the German text; and in 1902 August Bernoulli, editing the Basel chronicle, found a notice that his manuscript dated to 1518 and moved it to 1418 because Schilter's council orders said so. Alfred Martin exposed the error in 1914 from the original, whose hand, magistrates' names and correspondence with the council extract all give 1518. Rem's dated Augsburg notice and the bishop's letter of 25 July 1518 put it beyond doubt. The consequence for the Basel notice is the reverse of what its editor intended. Restored to 1518, it becomes a witness written within twenty years of the event, in another city, using the same words as the anonymous verses Schilter printed. The phrase "many hundreds" is therefore early, and because it appears in the same words in two texts it is a stock expression rather than a tally.</p>
+</div>
+
+<h3>Fifteen a day</h3>
+<div class="prose">
+<p>The only contemporary text with the number fifteen in it is Rem's: "daß ain tag wol bei 15 menschen ankam", that on one day it came upon a good fifteen people. It is a rate of new cases on a bad day, reported in Augsburg from hearsay, and it says nothing about anyone dying. No text of the sixteenth or seventeenth century gives any daily figure for deaths, and the earliest text that mentions deaths at all, Specklin's, was written about sixty years after the event by a man born in 1536. Section 6 follows the modern texts in which this became "fifteen deaths a day", and says how much of that descent is traced and how much inferred.</p>
+</div>
+
+<h2 id="measures">4. What the council did, in order</h2>
+<div class="prose">
+<p>The council's measures can be dated from the surviving papers and the extract, once the feast-day dates are converted with the Strasbourg calendar (St Margaret 15 July, St Adelphus 29 August, according to Grotefend's handbook of medieval dating). The weekdays check: 22 July 1518 was a Thursday, 23 July a Friday, 11 August a Wednesday, 31 August a Tuesday. The sequence is not the one in the modern retelling. The council never prescribed more dancing. Its first recorded decision restricts music; its commission of 23 July organises transport to the shrine and a diet; its mandate of 2 August bans dancing outright.</p>
+</div>
+<div class="tablewrap">
+<table>
+<thead><tr><th>Date (1518)</th><th>Measure</th><th>Source</th></tr></thead>
+<tbody>
+<tr><td class="m">Wed 14 or Thu 15 Jul</td><td>One woman begins to dance; she dances four to six days and is taken to St Vitus at Saverne, where she "became quiet". While she is on the road, others begin near the city stables; 34 within four days.</td><td>Imlin; Gebwiler; Kleine Chronik; Extractus "um Margarethen"</td></tr>
+<tr><td class="m">Thu 22 Jul</td><td>Council of XXI: "as some women and boys are dancing the evil dance", stop the drums (the extract's word is uncertain) and have string music in private.</td><td>Extractus no. 3443, "5a Mariae Magdalenae"</td></tr>
+<tr><td class="m">Fri 23 Jul</td><td>Commission of three councillors interrogates the families of the poor dancers, who are lodged on the carpenters' hall. Parents to keep their children at home or pay. The poor to be sent in three groups to St Vitus with sung masses; three wagons from the city hospital and the cathedral's building works to stand ready at seven o'clock; riders and attendants named. <i>Instruction</i> for the transport: priests engaged on the advice of the Dean of Saverne, each group led round the altar, a pfennig offering per sick person paid from the alms money.</td><td>AVES III 200/15 (Martin 1914, Anlage I–II)</td></tr>
+<tr><td class="m">Sun 25 Jul</td><td>Report to Bishop Wilhelm: it began with one woman; the physicians call it a natural illness from an astral conjunction and the heat; it is coming to an end; the sick have been watched and sent to St Vitus. Physicians' regimen: no wine, barley water, barley and oat food, string music only.</td><td>ADBR 12 J 1495 (French translation, 2018)</td></tr>
+<tr><td class="m">Mon 2 Aug</td><td>Mandate signed by Sebastian Brant: no dancing in the city and its jurisdiction until Michaelmas on pain of 30 shillings; no drumming (or no platforms; the readings differ); weddings and first masses with string music excepted.</td><td>AVES 1 MR 3, f. 72r; Extractus no. 3443</td></tr>
+<tr><td class="m">early Aug</td><td>Six notices to the brotherhoods: "as the sickness of dancing has now arisen again", the box-masters, the brotherhoods' treasurers, are to provide for afflicted members, calm them or take them to St Vitus, allow no music, jewels or fine clothes, and not let them run in the streets.</td><td>AVES III 200/15 (Martin 1914, p. 121)</td></tr>
+<tr><td class="m">Wed 11 Aug</td><td>Notes to the guilds: every burgher to keep and calm his afflicted children and servants at home; brotherhoods to keep their journeymen at their own cost or send them "to the saints, wherever they please". In the original mandate "the holy St Vitus" is struck out and replaced by that phrase.</td><td>Extractus no. 3443; AVES III 200/15 (Martin 1914, p. 122)</td></tr>
+<tr><td class="m">Aug (undated)</td><td>A solemn mass in Our Lady's chapel; the dancers now in the Hospital to be sent to the saint; an offering on behalf of the whole city; "the frivolous" banished for a time. In several sessions the physicians' verdict is discussed; the poor ask for masses; the bishop's vicar replies that natural remedies should be tried and orders public prayers from the pulpits.</td><td>Extractus nos. 3443 and 4398</td></tr>
+<tr><td class="m">Tue 31 Aug</td><td>A wax image of one hundredweight is proposed for St Vitus, or an altar in the cathedral's new chapel; resolved to make the wax into a candle and send it to the shrine with the treasurer, with a sung mass and three side-masses on behalf of the council and the city.</td><td>Extractus no. 3443, "Dienstag post Adolphi"</td></tr>
+<tr><td class="m">Wed 29 Sep</td><td>The dance ban expires at Michaelmas.</td><td>Extractus no. 3443</td></tr>
+</tbody>
+</table>
+</div>
+<p class="caption">Table 4. The council's measures of 1518 in order, with feast days converted by the Strasbourg calendar. Compiled for this report from the council's papers, Wencker's extracts and the chronicles named in the right-hand column.</p>
+<div class="prose">
+<p>Three details in the 23 July minutes matter for what follows. Anthony Silinger, the wheelwright whose wife Apolonia was dancing, "had come in from the harvest": the grain harvest was under way in the last week of July. He thought at first that his wife was having one of her old attacks "von Sanct Martzolff", which Martin glosses as epilepsy, and she only got up and followed the dancers when "the poor people came past with a bagpipe". And the schoolmaster Burgawer's son Bernhart "had watched and this morning began to dance", which is the same mechanism Gebwiler describes when he says the disease attacked many "just from looking on". The documents of 1518 therefore describe cases that began by watching or by hearing music, among people whom the council calls "the poor people who are now dancing". Those are the features of a behavioural epidemic among the destitute; a poison in bread does not spread by sight or sound.</p>
+<p>The stage on the horse-market with hired musicians and paid dancers, the detail on which the modern story of a council that made things worse depends, is Specklin's, written about 1580. The 1518 papers show the opposite policy: guild halls with guards, families and brotherhoods made responsible for their own, a cooling diet without wine, quiet music only, and a ban. The council did pay musicians in some form, since the letter of 25 July says the physicians allowed string music and the notices later forbid all music; but nothing in 1518 speaks of platforms built to keep the dancers going.</p>
+</div>
+
+<h2 id="causes">5. The explanations, tested against the record</h2>
+<div class="prose">
+<p>Four kinds of explanation have been offered since 1518. The physicians of 1518 called it a natural illness of heat and the stars. Chroniclers from Specklin onward saw a curse, a punishment and a good deal of fraud. Backman in 1952 proposed poisoning by ergot, and that reading became the popular one. Waller in 2008 argued for a trance state induced by hunger and fear, spread by belief in the curse of St Vitus; Rohmann in 2013 and Bartholomew in 2000 read the dancing as a religious rite rather than an illness. Each is tested here against the record as sections 1 to 4 reconstruct it, and against three bodies of evidence the earlier writers did not have: the climate of the growing seasons of 1515 to 1518, the grain prices of the same years, and the modern case series on outbreaks of this kind.</p>
+
+<h3>Ergot</h3>
+<p>Ergot is the hard black body, the sclerotium, that the fungus <i>Claviceps purpurea</i> forms in place of a grain when it infects rye at flowering; it is milled into the flour with the grain. Its alkaloids cause two diseases. The gangrenous form, St Anthony's fire, produces burning pain, dry gangrene and loss of limbs. The convulsive form produces formication (a feeling of insects crawling under the skin), cramps of the hands and feet, painful spasms and convulsions, and in the great German epidemics of 1581 to 1597 a case fatality of ten to twenty percent (George Barger, whose 1931 monograph is still the standard history of ergot, p. 39). The hypothesis that the dancers of 1518 were poisoned by ergot fails on eight counts. The argument most often made against it, that the poison would have decayed in storage, is not among them, for the reason given at the end of this section.</p>
+<p>The season is wrong. Ergotism follows the new harvest, because the sclerotia go into the flour with the freshly threshed grain; the German epidemics in Barger's collection begin in late summer and autumn, after the new grain is milled. The dancing began on 14 or 15 July, when the 1518 rye was still standing. Anthony Silinger had "come in from the harvest" on 23 July, so the cutting had just begun; the bread of the first week of the outbreak was baked from the crop of 1517, or from older stock in the granary.</p>
+<p>The weather of the crop year is wrong. Ergot needs a wet spring for the sclerotia to germinate and a cool, wet flowering in late May and June so that the florets stay open (Miedaner and Geiger 2015, section 3; Barger 1931, pp. 98–99). The Old World Drought Atlas, a reconstruction of summer soil moisture across Europe from tree rings, gives the summer of 1517 at Strasbourg an index of −6.8, the third driest summer of the sixteenth century, with every cell of the Upper Rhine below −3 and drought across ninety-six percent of France (Cook and others 2015; the values are our extraction from the atlas, kept with this report). The spring of 1517 was the tenth driest of the century in the published reconstruction of past rainfall, and May and June 1517 were 2.1 and 1.2 degrees above the 1961 to 1990 mean in the reconstruction of past temperatures from written weather records. The price record shows that the harvest of 1517 was small, as a drought harvest is; but a drought does not produce ergot.</p>
+</div>
+<div class="tablewrap">
+<table>
+<thead><tr><th>Harvest year</th><th class="num">Summer drought index, Strasbourg cell (rank of 101 years)</th><th class="num">Spring rain, mm against the century mean (rank, 1 = wettest)</th><th class="num">June temperature, °C against 1961–90</th><th class="num">Strasbourg rye, pfennig per Viertel</th><th>Reading</th></tr></thead>
+<tbody>
+<tr><td class="m">1514</td><td class="num">−0.1 (54)</td><td class="num">+17 (28)</td><td class="num">−2.6</td><td class="num">50</td><td>normal year</td></tr>
+<tr><td class="m">1515</td><td class="num">+2.6 (97)</td><td class="num">+47 (2)</td><td class="num">−1.7</td><td class="num">no data</td><td>cold, the wettest summer of the century: the one ergot season in the window</td></tr>
+<tr><td class="m">1516</td><td class="num">−0.5 (45)</td><td class="num">−1 (57)</td><td class="num">+1.9</td><td class="num">160</td><td>hot dry summer; harvest fails; highest rye price in the series since 1437</td></tr>
+<tr><td class="m">1517</td><td class="num">−6.8 (3)</td><td class="num">−32 (92)</td><td class="num">+1.2 (May +2.1)</td><td class="num">72</td><td>dry spring, warm flowering, extreme drought: the bread of July 1518</td></tr>
+<tr><td class="m">1518</td><td class="num">−4.6 (4)</td><td class="num">−7 (62)</td><td class="num">−2.2</td><td class="num">54</td><td>cold June at flowering, soil still dry; crop not yet eaten when the dancing began</td></tr>
+<tr><td class="m">1519</td><td class="num">−1.3 (31)</td><td class="num">+13 (31)</td><td class="num">+1.5</td><td class="num">41</td><td>prices back to normal; plague on the Rhine</td></tr>
+</tbody>
+</table>
+</div>
+<p class="caption">Table 5. Weather and rye prices of the crop years 1514 to 1519 at Strasbourg. Compiled for this report from the datasets named here. Drought index: Old World Drought Atlas, June to August soil-moisture index (scPDSI), nearest half-degree cell to Strasbourg (Cook and others 2015). Spring rain: Pauling and others 2006, same cell. June temperature: Dobrovolný and others 2010, Central Europe. Rye: the price series compiled by the Alsatian economic historian Charles-Auguste Hanauer in 1878, vol. II, p. 94, as tabulated by Holzwart-Schäfer 2000, table VI. The extraction scripts and the extracted values are kept with this report.</p>
+<div class="prose">
+<p>The regional form is wrong. Barger found that the recorded epidemics west of a line running through Lorraine were gangrenous and those east of it convulsive, and that "west of the border-line typical convulsive ergotism was never recorded" (Barger 1931, p. 28). Strasbourg lies on that line, and the Alsatian ergotism that the hospitals of the Order of St Anthony treated, and that the Isenheim altarpiece, painted for one of those hospitals, depicts, was St Anthony's fire. Nothing in 1518 mentions burning limbs or gangrene, and nothing mentions the formication and cramps of the convulsive form either.</p>
+<p>The course in the individual is wrong. Convulsive ergotism keeps its victims in bed with spasms for weeks. The dancers of 1518 were on their feet in the streets for days, and one of them followed a bagpipe. Neither Barger's German and Russian case descriptions nor the 1951 outbreak of mass poisoning at Pont-Saint-Esprit in southern France, which is the case usually cited for florid behaviour and which the European Food Safety Authority now attributes to organic mercury rather than ergot (EFSA 2012, p. 95), contains sustained dancing.</p>
+<p>The spread is wrong. A poison spreads through a household's bread. The record of 1518 shows a boy who "watched and this morning began to dance", a woman set off by "the poor people who came past with a bagpipe", and Gebwiler's statement that the disease seized many "just from looking on". The commission's minutes record no common household, bakery or meal among the sick.</p>
+<p>The fatality is wrong, so far as the record goes. No text written before about 1580 records a death, and the council's own words for the first group sent to Saverne are "fast erledigt", almost all relieved. A case fatality of ten to twenty percent among fifty to two hundred people would be five to forty deaths. The council, which recorded its payments for the wagons, the priests and the candle, records none. The silence is in the council's own papers, which are the sources most likely to have recorded a death. The burial registers that could settle the question were not searched.</p>
+<p>The physicians did not see it. Strasbourg's physicians examined the sick for some days and told the council in writing that this was a natural illness due to a conjunction of the stars and the heat of the season, to be treated with a cooling diet without wine. They and the St Anthony hospitals of the region knew ergotism; they did not name it.</p>
+<p>The end is wrong. The outbreak peaked in the last ten days of July, relapsed in early August, and was over by the end of that month, when the council voted its thank-offering. Grain from a poisoned store would have been eaten, and would have produced cases, for months.</p>
+<p>The one argument in the popular literature against ergot that does not hold is chemistry. It is often said that any ergot in the 1517 crop would have lost its potency by July 1518. Barger reports that whole sclerotia kept dry lose their alkaloids only slowly, a fourteen-year-old sample still meeting the pharmacopoeia (Barger 1931, pp. 211–212), and modern storage studies agree. We do not use the argument. The rye harvest of 1515, which had classic ergot weather, could in principle have reached the poor through the granary distributions of 1517 to 1518. Nothing in the record describes such stock, the dearth of 1516 to 1517 would have drawn old grain down first, and the eight counts above stand whatever the chemistry. Ergot keeps a few percent because one poisoned person inside a larger behavioural outbreak cannot be excluded. The outbreak as a whole does not look like a poisoning.</p>
+
+<h3>A behavioural epidemic: the psychogenic reading</h3>
+<p>Waller's argument has two parts. The first is that the people of Strasbourg in 1518 were hungry, frightened and primed by belief in the curse of St Vitus. The second is that under such conditions people enter dissociative trance, and that trance spreads by sight. The climate and price record bears out the first part in substance and corrects it in detail. Three harvests and vintages failed in a row, 1515 from cold and wet, 1516 from heat, 1517 from drought (Johann Wencker's chronicle, Dacheux 1892 no. 3008). The rye price at Strasbourg reached 160 pfennig a Viertel in 1516, the highest in Hanauer's price series since 1437, and the winter of 1516 to 1517 was 2.4 degrees below the century's mean in the European reconstruction, more than two standard deviations. The hospital was "so full of starved and sick" that it needed thirty Viertel of grain a week; the city sold subsidised rye at seven shillings against a market of seventeen or eighteen and fed 450 destitute strangers through the winter of 1517 to 1518 (Jacob Wencker's extracts, Dacheux 1892 no. 3237d; Otto Winckelmann's history of the city's poor relief, 1922, pp. 43 and 73). The council's papers of July 1518 speak throughout of "die armen leute", the poor people who were dancing. The prices of 1518 were back to normal after the harvest, so the dancing began in the last month of the pre-harvest gap of a two-year dearth. Waller's premise, a city in dearth, is therefore borne out. Several of the specifics he adds do not: the English sweating sickness, an epidemic fever of the period, did not reach Strasbourg in 1517 (Specklin's notice is a misdating of 1529, when the city's printers issued their regimens against it), the "smallpox hospital" is the Blatterhaus, the house for syphilis, the leper-house accounts of 1518 to 1519 show eight inmates and two deaths rather than a surge, and the Bundschuh "rebellions" of 1517 (the Bundschuh were the peasant conspiracies of the Upper Rhine, named after the peasant's laced shoe) were a conspiracy scare whose substance recent work doubts (Sheik 2021/22).</p>
+<p>The second part is a claim about mechanism, and the record supports it directly. The commission minutes of 23 July are the only eyewitness testimony of the outbreak, and every case in them is a case of contagion by sight and sound: a schoolmaster's son who watched and then began, a wheelwright's wife with a history of fits who followed the bagpipe, a beggar's daughter, a labourer's wife. Gebwiler, who taught at the cathedral school that summer, wrote that the disease seized people "just from looking on". The modern name for an outbreak with those features is mass psychogenic illness of the motor type, which the psychiatrist Simon Wessely distinguished in 1987 from the anxiety type: it arises against chronic strain, comes on and goes off gradually, produces abnormal movement and trance imagery, and lasts weeks to months. The 1518 outbreak lasted about six weeks with a relapse. Its size, up to fifty at once in the council's mandate and more than two hundred over four weeks in the Imlin chronicle, is an ordinary size in the modern series (nineteen at Le Roy, New York, in 2011 to 2012; 194 cases in the Nepal school study; over 1,600 in Afghan schools between 2009 and 2012). And across more than nine thousand modern cases of this kind the recorded death toll is zero, which is also what the record of 1518 shows. The deaths and the hundreds, which were the two objections to the psychogenic reading, are later additions to the story (sections 3 and 6); without them the reading fits the record.</p>
+<p>The reading has one weakness. The texts of 1518 describe the group dancing "day and night" but give no individual durations; the only one reported is the first woman's, six days in the Imlin chronicle and four in the later Kleine Strassburger Chronik, both at second hand. Whether anyone danced for days without pause, as the modern retelling insists, the record of 1518 does not say. The physicians' regimen, guards to stop the sick from hurting themselves, and a hospital that kept dancers for days all suggest exhausted people in fits rather than people dancing continuously for days.</p>
+
+<h3>A rite rather than an illness</h3>
+<p>Martin argued in 1914 that the dance at the shrine was itself the cure, Bartholomew in 2000 that the medieval dancers were pilgrims and sectaries rather than patients, and Rohmann in 2013 that the dancing mania was an illness constructed by religion, in which a divinely sent frenzy is discharged by a rite at the saint's altar. The evidence for this reading is real and older than 1518: a curse "sant Vitstantz" fined in the town law of Rottweil, in Swabia, in 1485; a poor man dancing at the Wasserkirche, a church in Zurich, "on St Vitus's day" in 1452; sick dancers from the priory of Saint-Jean-de-Bassel given a shilling at Obernai in 1463; and the annual dancing pilgrimages from the Breisgau, across the Rhine, to St John at Biesheim and St Vitus at Wasenweiler that the physician Johann Schenck von Grafenberg described later in the century. Specklin says the disease struck those "denen man St. Veitstantz fluchte", on whom the dance had been wished. The belief existed before 1518, and it determined both the form the behaviour took and the remedy sought for it.</p>
+<p>What the 1518 papers do not show is dancers who chose the rite. The pilgrimage was organised, paid for and policed by the council: wagons from the hospital and the cathedral works, priests engaged in advance, one pfennig per sick person taken from the alms, named individuals sent in three groups. The physicians called it an illness, the episcopal vicar accepted their diagnosis and added public prayers, and the council's first measures were secular. The red shoes with chrism crosses, the most ritual detail in the whole story, appear only in Specklin, sixty years later. Wencker in 1637 says that some ran to the shrine themselves and "fell down dancing before the image", which is the one sign of voluntary pilgrimage, and it was written 119 years after the event. The ritual reading explains why the dancing looked as it did and why St Vitus was the cure. It does not explain why the poor people of Strasbourg began in the third week of July 1518, and Rohmann himself says of that question, "we do not yet know what actually happened".</p>
+
+<h3>Other organic causes, and fraud</h3>
+<p>Apolonia Silinger had a history of attacks "von Sanct Martzolff", which Martin glosses as epilepsy, before she joined the dancers. Individual epilepsy, Sydenham's chorea (the jerking disorder that can follow a streptococcal infection) or fever will have been present among dozens of destitute people in July, and the physicians' own diagnosis named heat. None of these spreads by watching, and none produces a six-week outbreak that ends with a pilgrimage. An encephalitis would have killed. Fraud was the chroniclers' favourite: the chronicler of Limburg on the Lahn called the dancers of 1374 "duisserie unde ketzerie", devilry and heresy, Specklin says "much roguery went with it", and Paracelsus made the first dancer a wife feigning illness to annoy her husband. Beggars will have joined a crowd that the city was feeding, and the council's instruction that each sick person's pfennig be paid from the alms shows that the dancers were on relief. Imitation and opportunism belong inside any behavioural outbreak of this kind; they are not a rival explanation of it.</p>
+</div>
+
+<h2 id="retelling">6. How the story grew</h2>
+<div class="prose">
+<p>The popular account of the dancing plague has a named first dancer, four hundred victims, fifteen deaths a day, and a council that built a stage and hired musicians to keep the sick dancing. None of those four elements is in the record of 1518. The Strasbourg museums' exhibition of 2018, with Élisabeth Clementz and Georges Bischoff, had already challenged the abundance of contemporary testimony behind the familiar story and treated Frau Troffea as a later construction rather than a documented participant. This section builds on their correction and extends it to the numbers and the daily toll, dating each element's entry into the story where the texts allow and saying where they do not.</p>
+<p><b>Frau Troffea</b> is Paracelsus's. He treats St Vitus's dance in two writings, and in the book on invisible diseases, written about 1531 to 1532 and first printed in 1565, he tells its origin as a fable. He names no city and no year.</p>
+</div>
+<div class="src ochre">
+<p class="orig">Von der krankheit, die man nennet die Veitstanz. … die frau <b>Troffea</b> ist die erste gsein in der krankheit, dieselbige nam sich seltsamer laun und weise an … nun nam sie sich der weise an zum tanzen und gab für sie könte nicht on getanzet sein; dan den man verdruss nichts mer dan das tanzen … solchs zeiget sie für eine krankheit an und verschwieg, das sie den man also nerret. hierauf begab sich, das auch ander weiber dergleichen solcher weise pflegten und unterweiset ie eine die ander … aber es blib nicht lang, do ward sant Veit der glaubengeist und musst also die zu eim abgot werden und empfieng den namen darauf sant Veits tanz.</p>
+<p class="trans">Of the sickness that is called St Vitus's dance. … Frau Troffea was the first to have the sickness. She took on a strange mood and manner … then she took up the manner of dancing and gave out that she could not be without dancing, for nothing vexed her husband more than dancing … This she passed off as a sickness and concealed that she was fooling her husband by it. Thereupon other women too took up the same manner, and each taught the other … But it was not long before St Vitus became the spirit of that belief and so had to become an idol, and from that it received the name St Vitus's dance.</p>
+<p class="cite">Paracelsus, <i>De causis morborum invisibilium</i>, book I; ed. Karl Sudhoff, Sämtliche Werke I/9 (1925), pp. 277–278 (spelling as Sudhoff prints it); Johann Huser's edition (Basel 1589), vol. I, p. 263. Paracelsus lived in Strasbourg at the end of 1526. Bischoff (2018) takes the name as a pedantic coinage from Greek and finds no proof that the passage refers to Strasbourg at all.</p>
+</div>
+<div class="prose">
+<p>Paracelsus's Troffea is a moral tale about imagination and belief, and it is the tale of a fraud. His earlier book on the diseases that rob people of reason, of about 1525 to 1526, had already sorted St Vitus's dance into three kinds, one from the imagination, one from lust and one from the body, with cures that include burning a wax image of the sufferer and confinement in the dark on bread and water; it too names no city. The identification of his unnamed wife with the unnamed woman of Strasbourg is at least as old as Backman's 1952 book, Midelfort supplied the date 14 July by counting back from the Imlin chronicle, and Waller's book fused the two into a person with a husband and a street. No Strasbourg source of any century names the first dancer. Lynneth Miller's 2017 statement in the journal Dance Research that four of six chronicles call her Lady Troffea, now repeated in Wikipedia, is untrue of every chronicle we read. The modern retelling uses Paracelsus's name for the first dancer and leaves out his statement that she was feigning illness.</p>
+<p><b>Fourteen eighteen</b> is Schilter's. In 1698 he printed the council's Instruction and six verses from an unidentified manuscript chronicle under the heading "St. Veits Tantz An. 1418", reading the "etc. XVIII" of the Instruction's date as 1418. Hecker took the date from Schilter in 1832, Babington carried it into English in 1844, and it is still in Bartholomew's 2000 essay. Martin disposed of it in 1914; there was no dancing at Strasbourg in 1418.</p>
+<p><b>Four hundred</b> is a reading of the Imlin chronicle. The manuscript, as Reuss printed it in 1875, says that "in four weeks more than 200 had danced". Witkowski in 1879 read the same passage as 400, Martin printed Witkowski's figure in 1914, Midelfort followed Martin in 1999, and Waller, citing Backman, Midelfort and Martin, wrote "as many as 400" in his 2008 article and "about 400 men, women and children" in 2009. His book knew the other reading, "Duntzenheim says only two hundred were involved", and preferred 400. A press interview about the book put 400 into the first version of the Wikipedia article on 8 August 2008. The council's own figure, for one moment in late July, was up to fifty; the chronicle's two hundred is a count over four weeks. Section 3 gives the whole chain.</p>
+<p><b>Dozens of deaths, fifteen a day</b> is the most recent element, and the one whose descent we can only partly trace. No text before Specklin, about 1580, mentions a death; Specklin says "many danced themselves to death", Kleinlawel in 1625 "many stayed dead of it", Wencker in 1637 "several died of it". Those three late statements are the whole basis for Waller's "the chronicles agree, dozens were dying from exhaustion". The daily figure has one candidate source in the sixteenth century, the Augsburg merchant Wilhelm Rem: "on one day a good fifteen people were struck by it". Rem's verb is <i>ankam</i>, came upon; he is counting new cases on the worst day, and he mentions no death. Martin quoted the sentence in 1914 to prove that the outbreak belonged to 1518 and not 1418, and used it for nothing else. The earliest text we found in which fifteen cases have become fifteen deaths is Waller's essay in the medical journal The Lancet of February 2009: "One chronicle states that it claimed, for a brief period at least, about 15 lives a day". The essay names no chronicle, and its further-reading list gives only Backman and Midelfort; Midelfort has no fifteen. Waller's book has "one chronicle suggests that (at least for a time) fifteen were dying each day". We could not see the endnote to that sentence. The snippets of the book's endnotes that a library full-text search returns show Waller citing Rem's <i>Chronica newer geschichten</i> twice, so he knew the chronicle directly, but which sentences those notes serve the snippets do not show. Backman's book, which translates the chronicles into English, was not available to us, and a search of its text for the figure found nothing. So the descent from Rem's count of the sick to Waller's count of the dead is an inference from the wording and from the absence of any other source with the figure; it is not a chain of citation traced page by page. If Backman's translation of Rem already reads "died", the conversion is his; if Waller's note cites Martin, it is Waller's. What is established is narrower and still matters: the only sixteenth-century text with fifteen and a day counts the sick, and says nothing of the dead. Wikipedia added the death rate on 8 April 2016, citing the Lancet; Miller repeated it in 2017 without a source, and the online magazine The Public Domain Review in 2018 reasoned from it to a toll "into the hundreds".</p>
+<p><b>The stage and the musicians</b> are Specklin's. Writing around 1580 he says the council set the dancers on a platform at the horse market and in the guild halls, "and hired people to dance with them and drums and pipes". The papers of 1518 show the council forbidding drums on 22 July, sending the sick to the shrine on 23 July, prescribing string music only on the physicians' advice on 25 July, and banning dancing altogether on 2 August. Whether Specklin preserves a memory of the first days that the extracts leave out cannot be settled. The papers of 1518 show that the council's policy was to contain the dancing rather than to encourage it. Two smaller points belong here. Waller writes that the physicians declared the disease natural "having excluded astrological and supernatural causes"; the magistrate's letter of 25 July says they attributed it to a conjunction of the stars and the heat. And the first version of the Wikipedia article, written from a press interview in August 2008, turned Waller's "dozens were dying" into "most of them died", which stood for two years.</p>
+<p>The scholarly literature never held these four elements together. Martin's 1914 source study, Midelfort's 1999 chapter and the Strasbourg historians of the 2018 exhibition, Clementz and Bischoff, all give a small outbreak, no contemporary death, an invented Troffea and a council that sent the sick away. The popular account descends from Hecker through Backman to Waller and Wikipedia; this report corrects that account.</p>
+</div>
+
+<h2 id="weighing">7. Weighing it</h2>
+<div class="prose">
+<p>The probabilities at the head of this report are a judgment on the record as reconstructed here. They are given for the primary cause of the outbreak; imitation, begging and individual illness sat inside whichever cause was primary. The rows of the table beside them are the concessions a critic might ask for. Accept Specklin's and Kleinlawel's deaths, written sixty and a hundred years after the event, and the organic causes gain, because a behavioural epidemic does not kill. Read Rem's fifteen as deaths, as Waller does, and the same happens. Allow ergot a route through granary stock from the wet harvest of 1515, and give the cold June of 1518 full weight, and ergot rises to about twelve. Read the physicians' "natural illness of heat and the stars" as a real epidemic disease, and the other organic causes rise to fifteen. Take Wencker's "ran there themselves" and Specklin's red shoes as evidence that the dancers chose the rite, and weight moves from illness to rite without leaving the behavioural share. Grant all of these at once and the behavioural reading still leads at about 55, because the contagion by sight, the small size, the timing before the harvest and the drought of 1517 survive every assumption in the table.</p>
+</div>
+<div class="prose">
+<p>The account that the texts written in 1518 support is this. On Wednesday 14 or Thursday 15 July 1518 one unnamed woman began to dance in the street. Within four days about thirty-four people were dancing; on the worst day about fifteen new cases appeared; the council's mandate of late July speaks of up to fifty afflicted at once, and the Imlin family chronicle, written within the generation, counted more than two hundred over four weeks. The first is a figure for one moment, the second the only contemporary cumulative count, and nothing in the record contradicts either. They were poor: a schoolmaster's son, a wheelwright's wife with a history of fits, a beggar's daughter, a labourer's wife, a journeyman's son. The council restricted drums on 22 July, sent the sick to St Vitus at the Hohlenstein in three wagon-loads on 23 July, told the bishop on 25 July that the physicians called it a natural illness and that it was coming to an end, banned public dancing until Michaelmas on 2 August, ordered the brotherhoods to keep their sick indoors when the sickness "arose again" in early August, made families and brotherhoods responsible for their own on 11 August, and voted a hundredweight candle for the saint on 31 August. Nobody is recorded as having died in any of these texts.</p>
+</div>
+
+<h2 id="new">8. What is new, and what only confirms</h2>
+<div class="prose">
+<p>Nothing here overturns what historians already think about the outbreak. Alfred Martin's source study of 1914 dated the outbreak to 1518, printed the council's papers and disposed of Schilter's 1418. Erik Midelfort in 1999 gave the sober English account: one woman about 14 July, thirty-four within four days, the sick sent to Saverne, deaths only in Kleinlawel. The Strasbourg historians who mounted the 2018 exhibition, Élisabeth Clementz and Georges Bischoff, reduced the outbreak to "quelque cinquante personnes", found no death in any contemporary document, exposed Troffea as Paracelsus's invention and dismissed ergot. John Waller's premise, a city in dearth and fear, is confirmed by the climate and price record, and his mechanism, contagion of a trance-like state by sight, is the one the commission minutes describe. This report agrees with all of them and builds on them.</p>
+<p>What it adds, so far as the literature we could reach shows, is listed below. Almost all of it is a new reading of evidence that was already in print. The climate and price datasets are the one body of evidence not brought to the question before, and they are new only in their application here. Each item carries a tag saying which kind it is.</p>
+<ul>
+<li><b>The daily death toll has one candidate source, and it counts the sick.</b> <span class="tag slate">new analysis of a printed text</span> The only sixteenth-century sentence with fifteen and a day is Wilhelm Rem's "daß ain tag wol bei 15 menschen ankam", on one day it came upon a good fifteen people. Martin quoted it in 1914 only to fix the year. Waller's Lancet essay of 2009 and his book give fifteen dying a day, and Wikipedia took the figure from the Lancet in 2016. That the death rate descends from Rem is our inference from the wording and from the absence of any other source with the figure. Fragments of Waller's endnotes show that he cites Rem's chronicle, but not which sentence the citation serves; Backman's translation was not available to us. The chain is therefore supported by the wording of the texts; we have not traced it through citations. Clementz said in 2016 that no contemporary author mentions a death; we have not seen anyone identify the sentence behind the fifteen.</li>
+<li><b>Four hundred is a reading of 1879.</b> <span class="tag slate">new analysis of printed editions</span> Reuss's edition of the Imlin chronicle from the manuscript (1875) reads "mehr dan 200"; the independent Kleine Chronik reads "über 200"; the 400 enters with Witkowski in 1879 and reaches Waller through Martin and Midelfort. Whether the manuscript can settle it we could not check.</li>
+<li><b>An early witness belongs to 1518 rather than 1418.</b> <span class="tag slate">new analysis of a printed edition</span> An anonymous Basel chronicle written before 1537 records "several hundred people, women and men, at Strasbourg" dancing "day and night", and names the plague "sant Vietz tantz". Its manuscript dates the entry 1518; the editor Bernoulli moved it to 1418 in 1902 on the strength of Schilter's misdated council orders, and it has been invisible since. It is the earliest narrative written outside Strasbourg and the earliest source for "hundreds", and its wording matches the verses Schilter printed.</li>
+<li><b>The weather of the crop year rules out ergot on its own terms.</b> <span class="tag green">evidence not previously brought to the question</span> The bread of July 1518 came from the harvest of 1517. The Old World Drought Atlas makes the summer of 1517 the third driest of the century at Strasbourg and the spring of 1517 among the driest; May and June were warm. That is the opposite of the wet, cool flowering the fungus needs. The one favourable sign in the window, the cold June of 1518, belongs to a crop that had not been cut when the dancing began. We know of no previous test of the ergot hypothesis for 1518 against reconstructed weather. The extraction from the atlas was run a second time from scratch and gives the same value; the reconstruction itself is the published work of the climate scientists cited.</li>
+<li><b>The outbreak ended in August rather than October.</b> <span class="tag slate">a calendar correction</span> Martin read the council's "Dienstag post Adolphi" as late September and concluded the epidemic ran at least to 29 September; St Adelphus falls on 29 August, and the candle was voted on Tuesday 31 August, as Clementz's chronology also has it. The magistrate told the bishop on 25 July that the sickness was "coming to an end". The outbreak lasted about six weeks, with one relapse.</li>
+<li><b>The council contained the dancing; it did not stage it.</b> <span class="tag slate">new reading of documents Martin printed</span> Drums restricted on 22 July, wagons to the shrine on 23 July, a cooling diet and string music only on the physicians' advice on 25 July, a general ban on 2 August, families and brotherhoods made responsible on 11 August. The platform on the horse market with hired dancers is Specklin's, written about 1580, and it is the detail on which the modern story of a council that made things worse depends.</li>
+<li><b>The pilgrimage was imposed, which weakens the ritual reading.</b> <span class="tag slate">new reading of the Instruction of 23 July</span> The Instruction of 23 July shows the council hiring wagons and priests and paying each sick person's pfennig from the alms. Dancers who chose the rite appear only in Wencker (1637).</li>
+<li><b>Several of Waller's supporting details do not hold.</b> <span class="tag slate">new analysis of published work</span> The English sweat did not reach Strasbourg in 1517; Specklin's notice is a misdating of 1529. The "smallpox hospital" is the Blatterhaus, the house for syphilis. The leper house had eight inmates and two deaths in 1518 to 1519. The Bundschuh of 1517 was a conspiracy scare rather than a series of rebellions.</li>
+<li><b>Two arguments against ergot made in the literature do not hold, and this report does not use them.</b> <span class="tag slate">published literature applied</span> The claim that ergot alkaloids would have decayed by July is unsound (Barger 1931, pp. 211–212), and Pont-Saint-Esprit, the modern case usually cited for ergot-induced mass behaviour, is now attributed to organic mercury (EFSA 2012, p. 95). The case against ergot rests on season, weather, form, course, spread, fatality, diagnosis and end; chemistry plays no part in it.</li>
+<li><b>The earlier outbreaks on the Upper Rhine are listed and dated.</b> <span class="tag slate">new analysis of printed editions</span> Strasbourg has no record of dancers in 1374; Königshofen's chronicle has only the floods. The fifteenth-century Upper-Rhine records are Zurich 1418 or 1428, Zurich 1452 on St Vitus's day, and the cluster of 1463 at Metz, Obernai and Eberhardsklausen under St John. The curse "sant Vitstantz" is fined in the Rottweil town law of 1485. "Strasbourg 1418" is Schilter's error.</li>
+</ul>
+</div>
+
+<h2 id="overturn">9. What would overturn this</h2>
+<div class="prose">
+<ul>
+<li>A document of 1518 that records deaths among the dancers: a hospital or parish register, or the full narrative that the council's own register says existed "in my chronicle", Sebastian Brant's lost account. Deaths would cut the behavioural share to about 70 percent and reopen the organic causes.</li>
+<li>The German original of the magistrate's letter of 25 July 1518 (ADBR 12 J 1495), if it describes burning limbs, gangrene, or cramps of the hands and feet. We have it only in a 2018 French translation.</li>
+<li>A chronicle notice of a wet May and June 1517 at Strasbourg. The tree-ring drought value for 1517 is regional and robust, but the seasonal rainfall reconstructions for the sixteenth century are weak, and one wet fortnight at flowering would not show in them.</li>
+<li>An ergotism epidemic recorded in Alsace or Baden in 1518, for instance in the accounts of the St Anthony hospital at Isenheim. None is known to Barger or to the later literature.</li>
+<li>Evidence that the sick went to St Vitus of their own motion before the council organised the transport of 23 July. That would move weight from illness to rite without touching the verdict against ergot.</li>
+<li>The Imlin manuscript reading 400. It would restore Witkowski without changing the council's fifty or the absence of deaths.</li>
+</ul>
+</div>
+
+<h2 id="short">10. Where this report fell short</h2>
+<div class="prose">
+<ul>
+<li>Hieronymus Gebwiler's contemporary account (ed. Stenzel 1926, pp. 74–75) was not read; it is known here through Midelfort and the 2018 exhibition dossier. The council register's reference to a full account "in my chronicle" points to a lost narrative by Brant.</li>
+<li>The letter of 25 July 1518 was read only in the French translation published for the 2018 exhibition. The mandate of 2 August 1518 (AVES 1 MR 3, f. 72r) is not transcribed anywhere we could reach.</li>
+<li>Witkowski's 1879 paper (Allgemeine Zeitschrift für Psychiatrie 35) could not be found online, so the 200 or 400 variant rests on Reuss's edition against Martin's report of Witkowski.</li>
+<li>Backman's 1952 book was not obtained and is used through Bartholomew, Midelfort, Waller and about sixty snippets from a library full-text search. Waller's articles of 2008 and 2009 were read in full, but his book only in about a hundred and twenty such snippets, so the endnote behind "fifteen were dying each day" was not seen; the derivation from Rem rests on the wording and on the absence of any other source with the figure. Midelfort's chapter was read in the text of a scan on archive.org whose provenance we could not confirm.</li>
+<li>Rohmann's 2013 monograph was not read; his argument is taken from his 2020 article, from reviews and from an interview. Clementz's transcriptions of the 1518 documents in the 2018 catalogue (pp. 136–152) were not obtained; the originals are read here in Martin's 1914 edition.</li>
+<li>Hanauer's price volume of 1878 could not be opened; the prices come from two later transcriptions that agree on the ranking of years but not on the 1516 rye figure.</li>
+<li>The gridded climate reconstructions have low skill before 1659. The drought atlas value for 1517 is safe because it is extreme and regional; the seasonal rainfall figures are not. Wencker's one dated weather notice can belong to 1517 or to 1518, and the report uses both readings.</li>
+<li>Three words in the council's papers remain unexplained: "pfrymen" in the Instruction, "termen" in the decision of 22 July, and "brucken", which Martin reads as "beucken", kettledrums.</li>
+<li>No Strasbourg parish or hospital register was searched. The absence of deaths is an absence in the council extracts, the letter, Rem, Imlin and Gebwiler as reported, which is the whole contemporary layer, but it is still an argument from silence, and silence is not proof that nobody died.</li>
+</ul>
+</div>
+
+<h2 id="sources">11. Sources</h2>
+<div class="prose sources">
+<p><b>Originals of 1518 and their editions.</b></p>
+<ul>
+<li>Council commission, minutes of Friday 23 July 1518, with the Instruction for the persons sent to St Vitus; six notices to the brotherhoods; a later mandate. Archives de la Ville et de l'Eurométropole de Strasbourg, III 200/15 (formerly GUP 200). Printed in Alfred Martin, "Geschichte der Tanzkrankheit in Deutschland", Zeitschrift des Vereins für Volkskunde 24 (1914), pp. 113–134 and 225–239, Anlagen I–II at pp. 121–124. <span class="m">archive.org/details/zeitschriftfrv24verbuoft</span></li>
+<li>Letter of the magistrate to Bishop Wilhelm of Honstein, 25 July 1518. Archives départementales du Bas-Rhin, 12 J 1495. French translation in the teachers' dossier of the exhibition "1518, la fièvre de la danse", Musées de Strasbourg 2018.</li>
+<li>Mandate banning dancing until Michaelmas, 2 August 1518, in Sebastian Brant's hand. AVES 1 MR 3, f. 72r. Reproduced in Rue89 Strasbourg, 18 October 2018.</li>
+<li>Extracts by Jacob Wencker from the lost council protocols of 1518 ("Annales de Sébastien Brant"): Léon Dacheux, "Fragments des anciennes chroniques d'Alsace III", Bulletin de la Société pour la conservation des monuments historiques d'Alsace, 2nd ser. XV (1892), no. 3443 (p. 239), no. 3237d (pp. 202–203), Trausch nos. 3005–3009 (pp. 148–149); and XIX (1899), no. 4398 (p. 42, Jung's résumé). <span class="m">archive.org/details/pourlaconser2v15soci · pourlaconser2v19soci</span></li>
+<li>Wilhelm Rem, Cronica newer geschichten, in Die Chroniken der deutschen Städte 25 (1896), p. 88.</li>
+<li>Imlin family chronicle, ed. Rodolphe Reuss, Colmar 1875, p. 26 (from the manuscript). Page image: <span class="m">api.digitale-sammlungen.de/iiif/image/v2/bsb11312752_00034</span></li>
+<li>Kleine Strassburger Chronik, ed. Reuss 1889. <span class="m">archive.org/details/bub_gb_9FQoAAAAYAAJ</span></li>
+<li>Anonymous Basel chronicle (manuscript before 1537), in Basler Chroniken VI (1902), Beilage I, pp. 226–227, with Bernoulli's introduction p. 189. <span class="m">archive.org/details/baslerchroniken04basegoog</span></li>
+<li>Hieronymus Gebwiler, chronicle, ed. Karl Stenzel (1926), pp. 74–75, as quoted by Midelfort 1999, p. 34. Not read.</li>
+<li>Daniel Specklin, Collectanea (about 1580), ed. Reuss, Bulletin SCMHA 2nd ser. XIV (1889), nos. 2208–2218, pp. 305–309; no. 2216 at p. 308. <span class="m">archive.org/details/pourlaconser2v14soci</span></li>
+<li>Michael Kleinlawel, Straßburgische Chronick (1625), pp. 130–131. Page images: <span class="m">api.digitale-sammlungen.de/iiif/image/v2/bsb10057089_00140</span> and 00141.</li>
+<li>Johann Schilter's edition of Königshofen's chronicle (Strasbourg 1698), Anmerkung XXI, pp. 1085–1090. Page images: <span class="m">api.digitale-sammlungen.de/iiif/image/v2/bsb11214681_01111</span> to 01116.</li>
+<li>Paracelsus, De causis morborum invisibilium, in Sämtliche Werke I/9, ed. Karl Sudhoff (1925), pp. 277–278; Huser's edition (Basel 1589) I, p. 263. De morbis amentium (about 1525 to 1526), Sämtliche Werke I/2, pp. 407–412 and 439–442; Huser IV, pp. 51–55 and 79–82. <span class="m">archive.org/details/b31365152_0009 · b31365152_0002</span></li>
+</ul>
+<p><b>Scholarship on the outbreak.</b></p>
+<ul>
+<li>J. F. C. Hecker, Die Tanzwuth, eine Volkskrankheit im Mittelalter (1832); English by B. G. Babington, The Epidemics of the Middle Ages (1844, 3rd ed. 1859).</li>
+<li>Alfred Martin, "Geschichte der Tanzkrankheit in Deutschland", Zeitschrift des Vereins für Volkskunde 24 (1914), pp. 113–134, 225–239.</li>
+<li>E. Louis Backman, Religious Dances in the Christian Church and in Popular Medicine (1952). Not obtained.</li>
+<li>H. C. Erik Midelfort, A History of Madness in Sixteenth-Century Germany (1999), pp. 32–37.</li>
+<li>Robert E. Bartholomew, "Rethinking the dancing mania", Skeptical Inquirer 24/4 (2000), pp. 42–47.</li>
+<li>John Waller, A Time to Dance, a Time to Die (2008; US ed. The Dancing Plague, 2009); "In a spin: the mysterious dancing epidemic of 1518", Endeavour 32 (2008), pp. 117–121; "A forgotten plague: making sense of dancing mania", The Lancet 373 (21 February 2009), pp. 624–625; "Dancing plagues and mass hysteria", The Psychologist 22 (2009). Jennifer Viegas's interview with Waller, Discovery News, 1 August 2008; Ned Pennant-Rea, "The dancing plague of 1518", The Public Domain Review, 10 July 2018; the Wikipedia article "Dancing plague of 1518", twenty-five revisions from 8 August 2008 to 2026 (revision 714168375 of 8 April 2016 adds the daily death toll).</li>
+<li>Gregor Rohmann, Tanzwut. Kosmos, Kirche und Mensch in der Bedeutungsgeschichte eines mittelalterlichen Krankheitskonzepts (2013); "Exorbitantzien … die vor Gott nicht zu verantwohrten: Tanzwallfahrten am Oberrhein", Zeitschrift für die Geschichte des Oberrheins 168 (2020), pp. 215–241.</li>
+<li>Élisabeth Clementz, review of Waller, Revue d'Alsace 142 (2016); 1518. La fièvre de la danse, exhibition catalogue, ed. Cécile Dupeux (Musées de Strasbourg 2018), with essays by Clementz, Georges Bischoff, Roberto Poma and Kélina Gotman, and Clementz's transcriptions pp. 136–152; the exhibition's press kit and teachers' dossier; Pierre Ruhlmann's interview with Clementz, Rue89 Strasbourg, 18 October 2018.</li>
+<li>Lynneth J. Miller, "Divine punishment or disease?", Dance Research 35/2 (2017), pp. 149–164; Kélina Gotman, Choreomania (2018), not obtained.</li>
+<li>Douglas J. Lanska, "The dancing manias: psychogenic illness as a social phenomenon", Frontiers of Neurology and Neuroscience 42 (2018), pp. 132–141.</li>
+</ul>
+<p><b>Medicine.</b></p>
+<ul>
+<li>George Barger, Ergot and Ergotism (1931), pp. 28 (border line), 39 (case fatality), 98–99 (weather), 211–212 (storage). <span class="m">archive.org/details/BIUSante_pharma_042461</span></li>
+<li>Thomas Miedaner and Hartwig H. Geiger, "Biology, genetics, and management of ergot (Claviceps spp.) in rye, sorghum, and pearl millet", Toxins 7 (2015), pp. 659–678.</li>
+<li>European Food Safety Authority, "Scientific opinion on ergot alkaloids in food and feed", EFSA Journal 10 (2012), 2798, p. 95 on Pont-Saint-Esprit; Gabbai, Lisbonne and Pourquier, "Ergot poisoning at Pont St. Esprit", BMJ 1951, ii, pp. 650–651.</li>
+<li>Simon Wessely, "Mass hysteria: two syndromes?", Psychological Medicine 17 (1987), pp. 109–120; Robert Bartholomew and Simon Wessely, "Protean nature of mass sociogenic illness", British Journal of Psychiatry 180 (2002), pp. 300–306.</li>
+<li>Modern case series cited in section 5: Le Roy, New York (Frontiers in Pediatrics 10, 2022, 863919); Nepal (Frontiers in Psychiatry 11, 2020, 493094); Afghanistan (WHO EMRO Weekly Epidemiological Monitor 5/22, 2012); Ethiopia (Psychiatry Journal 2020, 2693830); Tanganyika (Hempelmann, Humor 20, 2007, pp. 49–71).</li>
+</ul>
+<p><b>Climate and prices.</b></p>
+<ul>
+<li>Edward R. Cook and others, "Old World megadroughts and pluvials during the Common Era", Science Advances 1 (2015), e1500561; the Old World Drought Atlas netCDF from NOAA paleoclimatology study 19419.</li>
+<li>Andreas Pauling and others, "Five hundred years of gridded high-resolution precipitation reconstructions over Europe", Climate Dynamics 26 (2006), pp. 387–405.</li>
+<li>Jürg Luterbacher and others, Science 303 (2004), pp. 1499–1503; Elena Xoplaki and others, Geophysical Research Letters 32 (2005), L15713.</li>
+<li>Petr Dobrovolný and others, "Monthly, seasonal and annual temperature reconstructions for Central Europe derived from documentary evidence and instrumental records since AD 1500", Climatic Change 101 (2010), pp. 69–107; Rüdiger Glaser and Dirk Riemann, Journal of Quaternary Science 24 (2009), pp. 437–449.</li>
+<li>Valérie Daux and others, Climate of the Past 8 (2012), pp. 1403–1418; Isabelle Chuine and others, Nature 432 (2004), pp. 289–290 (grape harvest dates).</li>
+<li>Charles-Auguste Hanauer, Études économiques sur l'Alsace ancienne et moderne, II (1878), p. 94, through Robert Allen's transcription (Global Price and Income History Group) and Iris Holzwart-Schäfer, Getreideanbau im Elsaß (Tübingen 2000), tables VI, VIII, IX. <span class="m">publikationen.uni-tuebingen.de/xmlui/handle/10900/47146</span></li>
+<li>Horst Buszello, "Mangeljahre am Oberrhein", Alemannisches Jahrbuch 59/60 (2011/12), pp. 113–145; Ali Sheik, "Aufstandsprävention am Oberrhein", Alemannisches Jahrbuch 69/70 (2021/22), pp. 161–199; Otto Winckelmann, Das Fürsorgewesen der Stadt Straßburg (1922); Heinz Flamm, "Anno 1529 – der ‚Englische Schweiß‘ in Wien, die Türken um Wien", Wiener Medizinische Wochenschrift 170 (2020), pp. 59–70.</li>
+</ul>
+<p><b>The cult and the earlier outbreaks.</b></p>
+<ul>
+<li>Die Limburger Chronik des Tilemann Elhen von Wolfhagen, ed. Arthur Wyss, MGH Deutsche Chroniken 4/1 (1883), § 97, p. 64; Radulphus de Rivo in Chapeaville, Gesta pontificum Leodiensium III (1616), cap. IX; Petrus de Herentals in Baluze, Vitae paparum Avenionensium, ed. Mollat, I (1914), pp. 465–467; Trithemius, Chronicon Sponheimense, in Opera historica (1601), p. 332; Jakob Twinger von Königshofen in Die Chroniken der deutschen Städte 9 (1871), pp. 866–867; Chronique de Metz de Jacomin Husson, ed. Michelant (1870), p. 97.</li>
+<li>Hermann Grotefend, Zeitrechnung des deutschen Mittelalters und der Neuzeit, for the Strasbourg calendar (St Margaret 15 July; St Adelphus 29 August). <span class="m">bilder.manuscripta-mediaevalia.de/gaeste/grotefend/</span></li>
+</ul>
+<p><b>Notes, data and code.</b> Everything used here is kept with this report: the research notes and the verification log (<span class="m">notes/</span>), downloads and page images (<span class="m">sources/</span>), the extracted climate and price tables (<span class="m">data/</span>), and the extraction and calendar scripts (<span class="m">code/</span>).</p>
+</div>
+</div>

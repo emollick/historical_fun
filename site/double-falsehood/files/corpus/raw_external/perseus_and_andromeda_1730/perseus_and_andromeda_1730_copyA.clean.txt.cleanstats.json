@@ -1,0 +1,44 @@
+{
+ "stats": {
+  "sig": 36,
+  "noise": 424,
+  "pagenum": 106,
+  "hyphen_join": 13,
+  "auto": 4,
+  "override": 4,
+  "words_out": 2911,
+  "lines_out": 815
+ },
+ "top_replacements": [
+  [
+   "fo>so",
+   2
+  ],
+  [
+   "monf>mons",
+   1
+  ],
+  [
+   "fubdue>subdue",
+   1
+  ],
+  [
+   "darknefs>darkness",
+   1
+  ],
+  [
+   "fee>see",
+   1
+  ],
+  [
+   "flow>slow",
+   1
+  ],
+  [
+   "cafs>cass",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

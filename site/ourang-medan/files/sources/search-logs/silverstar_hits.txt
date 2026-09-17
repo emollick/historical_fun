@@ -1,0 +1,92 @@
+===== LR_1938-39_Steamers__HECROS1939ST
+91189:2302 City of Baltimore (P) 8378 tae %. 1919 Bethlehem |BaltimoreMail [486°5|56°0|35"2|Baitimore |DR geared SteamTurbines38 1 0) 
+190422:Hoegh Silverstar 
+===== LR_1939_SailingVessels__HECROS1939SV
+222987:63816'Semnos K [ese 1914|J.Duthie  |silverStar Fishing]1 15°3|22°6|12°3laberdeen |T.80y.114",20"%84"-23" 
+233709:64345Star of the North E' Abn 1903|Hall, Rus- |SilverStarFishing|112°2|21°6|11°9|Aberdeen |T.30y.12}”,20'33"-22" [12 7 
+356638:Héegh Silverstar | 5414 cies aboot Wy Stbdfwg. 8,38 |skibsa/SNoruega | 2 | +4 | Ammonia [A/S ThomasSabroe | 1937] Air 16 2 | 86,009 
+376851:s. City of Baltimore(7urbs)’'19 ., 8424 
+399457:(Silver Star Fishing Co., Ld.) 
+427747:m. Hoegh Silverstar ........°38 .. 5415 
+489033:Silver Star Fishing Oo., 
+===== LR_1940_SailingVessels__HECROS1940SV
+255699:1914.J.Duthie |SilverStar Fishin 
+267105:Star of the North K Abn 1903|Hall,Rus- |SilverStarFishing]L12°2|21°6|11:9|Aberdeen |T.8Cy.12}’,20'«33’-22" {12 "7 
+408079:Héegh Silverstar | 5415] sfbtevebiekMGbets [Stbd.Fwd.| 8,38 SkibsA/SAbaco 2 | 4 | Ammonin |A/S ThomasSabroe | 1937 | Air 15 2 | 86,600 
+435720:. City of Baltimore(7wurbs)'19 ., 8378 
+459214:(Silver Star Fishing Co., Ld.) 
+488138:m. Hoegh Silverstar ,.......’38 ., 5415 
+550704:Silver Star Fishing Co., 
+===== LR_1941_SailingVessels__ros-1941-sv
+1288:,, 159.—Silver Star Fishing Co., Ld. 
+111761:Semnos bq 1914).J.Duthie |SilverStar Fishing]115°3|22°6|12*3)Aberdeen |T.3Cy.114",20’«34’-28" 13 w J 
+190475:s, City of Baltimore(7'urbs)'19 .. 8378 
+209533:(Silver Star Fishing Co., Ld.) 
+283300:Silver Star Fishing Co., 
+===== LR_1941_Steamers__HECROS1941ST
+211644:76953 Hoegh Silverstar 5415) = Opn bt| cp |193 38) Akt.Bur- |SkibsA/S Abaco, [442° 12-0) 58° 4)25" 44Onlo Oil Engines 28.0.DA 29 7 O| N 
+===== LR_1942_Steamers__1942-st-combined
+97537:25284 Hoegh Silverstar 541 ae Cpn bt} cr [1938 Akt.Bur- |Skibsa/S Abaco, il Engines 28.C.DA 
+===== LR_1946_SailingVessels__HECROS1946SV
+410753:s. Santa Cecilia (2 7urbs.) ‘42. 
+418403:m. Hoegh Silverstar ....... 3B... 5416 
+459239:s. Silver Star Park, « 7243 
+475939:Silver Star Fishing Co.,Ld., 
+===== LR_1947_SailingVessels__HECROS1947SV
+395097:Santa Cecilia ... .| 4900] s John L. Clem. Saustan ..| 5586] s Campanario. Sea Hound .. 1072} 8 Alisa, 
+395644:Silver Star Park......... 
+395699:7243) s Santa Cecilia. 
+409872:do. Marine ....... | Amr Stm Sherwood, Katharine B..| AmrStm | Silverstar, do. ... Nrw M do. Oscar Fy avis Amr Stm 
+459236:. Santa Cecilia (2 Turbs.) ’46 .. 8297 
+466196:“hui hits 198 12 Kristiansund, Norway. m. Hoegh Silverstar "88... 5415 Turd.).246 .. 1500 Hojem, af A., 
+494857:. Santa Cecilia..... oy 743 .. 7243 
+520845:Silver Star Fishing Co.,Ld., 
+552694:s. Santa Cecilia (2 Turbs.) 42 .. 6507 
+===== LR_1947_Steamers__HECROS1947ST
+239577:75195, Hoegh Silverstar 5415eE ... §=©= Cpn [bt 1938 Akt.Bur- |Skibsa/S Abaco, [442°0|58°4|25-4jos10 Oil Engines 28.0.DA [29 
+443061:82018|\Santa Cecilia 8297 1946 Nth.Caro- |GraceLine,Inc. [441°1|63°1|38°3\NewYork [2 steam turbinesDRgeared R 
+443070:(exSilverStarPark-45) © - 6750\with freeboard 2e6 12mo, ‘Shipblars, Ld. 430-3(0.L.) razilian 628MNis10"64 
+590991:88972 Silver Star (ccs 
+591587:89171 Santa Juana (exSilverStar-t7, 6507 1942 Federal  GraceLineIno.  439°0|68°1|27°5 NewYork 2steam turbines DRgeared Ri 
+===== LR_1948_SailingVessels__HECROS1948SV
+430791:Salmon.......... ...| 159| fSérfold. San Bernardino .. 5751| s Hokumei Maru. Santa Cecilia ... .| 6507) s Silver Star. 
+430793:Salmonpool.... .| 4928) s Irene K. San Camilo..... 2450 s Susana. Santa Cecilia . .| 4900) s John L. Clem. 
+432320:Silver Star Park.. -| 7243) s Santa Cecilia. Skanderborg . 1902] s Wanda. Snorri Godi. 373) f Videy. 
+433667:Steadfast . .| 8378) s City of Baltimore. Stormfigeln .. 299] f Ramoon (.). Suholeo ... .| 3275] s Meo Hwa. 
+446288:do. Streator... Amr Stm |Serpent, Flying ......... Br Stm |Sherwin, John ............) Amr Stim |Silverstar, do. ........... Nrw M 
+499393:& Santa Cecilia (2 Zurbs.) 46 .. 8827 
+499399:s-Santa Juana (2 Furbs.)..42 .. 6507 
+507570:m. Hoegh Silverstar .. "88 .. SALS 
+535644:s, Santa Cecilia..... 
+564008:Silver Star Fishing Co.,Ld., 
+===== LR_1948_Steamers__HECROS1948ST
+111474:21630\City of Baltimore 8378] . 1919|Bethlehem |UnitedStates 495°4|56°0|35-3[Baltimore,? steam turbines DRgeared R 
+224987:25676, Hoegh Silverstar Fr ot 1938/Akt.Bur-  |Skibsa/S Abaco, 25°4loslo Oil Engines 28.0.DA —29 "0 N 
+442461:; 32779Santa Cecilia 832 | 1946|Nth.Caro- {GraceLine,Ine. ee 2|63°2|36- 7iNew York steam turbinesD Rgeared R 
+442786:32795/Santa Juana (exSilyver Star-47, 6507| 1942|Federal raceLineInc, 39 °0|63°1|27-5|NewYork |2steamturbinesD Rgeared 
+613407:City of Baltimore 
+===== LR_1949_A-L__HECROS1949AL
+146162:68City of Baltimore 
+317925:62147|Héegh Silverstar 
+===== LR_1949_M-Z__HECROS1949MZ
+209531:74229 Santa Cecilia p | 1946|/Nth.Caro- 441°2|63:2|36-7|Now¥ork [2 steam turbinesD Rgeared R} 
+209536:74230 Santa Cecilia 7243P-h" yoaet) [Rio let} on |1943|WestCoast etonom424°6|57:2|34-Yiato de BOy.24}",87% &70"~48" 
+209537:(erSilverStarPark-45) sRio.-10,47] 6750 withfreeboard 2a] 10,47 | 12mo |Shipblars, La. BragilianGovern 439-3(0.L.) Janeiro 628M Ni 
+209958:74256\Santa Juana (ezSilver Star-47, 6507 1942)\Federal raceLineInc. 439° 0|63° 1|27°5\NewYork |2steamturbinesDRgeared 
+398782:City of Baltimore 
+465565:. Santa Cecilia (2 Turbs.) 46 .. 8327 
+465572:. Santa Juana (2 Turbs.)..’42 .. 6507 
+473348:m. Hoegh Silverstar . 5415 
+504248:s. Santa Cecilia.... 743 ., 
+558417:s. City of Baltimore 
+===== LR_1950_A-L__HECROS1950AL
+168459:05584.City of Baltimore 
+357829:12550, Hoegh Silverstar 5415p... 1938)Akt.Bur- |Skibsa/S Abaco, [442°0|58"4|25-4losio Oil Engines 28.0.DA 
+===== LR_1950_M-Z__HECROS1950MZ
+226606:24980\Santa Cecilia 1946) IN th.Caro- |GraceLins,Inc. 2 steam turbinesD Rgeared 
+226655:-24981\Santa Cecilia 
+226681:| exSilverStarPark—45) asRio.-10,47 10,48 12mo Shipblars, Ld.jment(Ministerio | 439-3(0.L.) 628MN 
+227458:25008 Santa Juana (exSilver Star-47, | 650 
+494174:s. Santa Cecilia 
+532681:s. Santa Cecilia (2 Turbs.) '46 ., 8327 
+532688:s. Santa Juana (2 Zurbs.).,'42 .. 6507 

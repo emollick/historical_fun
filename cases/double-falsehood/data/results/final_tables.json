@@ -1,0 +1,3870 @@
+{
+ "scenes": {
+  "1.1": {
+   "n_words": 372,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.003,
+     "SH": 0.997
+    },
+    "delta": {
+     "FL": 1.225,
+     "SH": 0.775
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.0,
+     "R18": 0.645,
+     "SH": 0.355
+    },
+    "delta": {
+     "FL": 1.278,
+     "R18": 0.777,
+     "SH": 0.97
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.0,
+     "SH": 0.571,
+     "THEO": 0.428
+    },
+    "delta": {
+     "FL": 1.251,
+     "SH": 0.805,
+     "THEO": 0.673
+    }
+   },
+   "c4": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.0,
+     "R18": 0.601,
+     "SH": 0.38,
+     "THEO": 0.018
+    },
+    "delta": {
+     "FL": 1.279,
+     "R18": 0.789,
+     "SH": 0.986,
+     "THEO": 0.732
+    }
+   },
+   "c10": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.0,
+     "JAC_Ford": 0.001,
+     "JAC_Jonson": 0.171,
+     "JAC_Middleton": 0.177,
+     "JAC_Shirley": 0.004,
+     "JAC_Webster": 0.187,
+     "MA": 0.007,
+     "R18": 0.261,
+     "SH": 0.059,
+     "THEO": 0.134
+    },
+    "delta": {
+     "FL": 1.251,
+     "JAC_Ford": 1.001,
+     "JAC_Jonson": 1.033,
+     "JAC_Middleton": 1.003,
+     "JAC_Shirley": 1.034,
+     "JAC_Webster": 0.964,
+     "MA": 1.01,
+     "R18": 0.826,
+     "SH": 0.934,
+     "THEO": 0.729
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.0,
+     "R18": 0.487,
+     "SH": 0.513
+    },
+    "delta": {
+     "FL": 1.188,
+     "R18": 0.883,
+     "SH": 0.94
+    }
+   },
+   "gi2": {
+    "SH": 0.305,
+    "FL": 0.015
+   },
+   "gi3": {
+    "SH": 0.265,
+    "FL": 0.0,
+    "THEO": 0.51
+   },
+   "links3": {
+    "Shakespeare": 10.75,
+    "Fletcher": 2.69,
+    "R18": 8.06,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 5.38,
+    "Fletcher": 0.0,
+    "R18": 0.0,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 5.38,
+    "has": 0.0,
+    "doth": 2.69,
+    "does": 0.0,
+    "tis": 0.0,
+    "sir": 2.69,
+    "thou": 18.82,
+    "fem_proxy": 0.35,
+    "n_verse": 43
+   }
+  },
+  "1.2": {
+   "n_words": 1868,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.011,
+     "SH": 0.989
+    },
+    "delta": {
+     "FL": 1.08,
+     "SH": 0.92
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.002,
+     "R18": 0.439,
+     "SH": 0.56
+    },
+    "delta": {
+     "FL": 1.08,
+     "R18": 0.942,
+     "SH": 0.985
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.008,
+     "SH": 0.961,
+     "THEO": 0.031
+    },
+    "delta": {
+     "FL": 1.077,
+     "SH": 0.934,
+     "THEO": 0.933
+    }
+   },
+   "c4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.002,
+     "R18": 0.348,
+     "SH": 0.64,
+     "THEO": 0.01
+    },
+    "delta": {
+     "FL": 1.076,
+     "R18": 0.949,
+     "SH": 0.976,
+     "THEO": 1.023
+    }
+   },
+   "c10": {
+    "delta_pred": "JAC_Shirley",
+    "svm": {
+     "FL": 0.004,
+     "JAC_Ford": 0.125,
+     "JAC_Jonson": 0.203,
+     "JAC_Middleton": 0.041,
+     "JAC_Shirley": 0.071,
+     "JAC_Webster": 0.021,
+     "MA": 0.02,
+     "R18": 0.277,
+     "SH": 0.229,
+     "THEO": 0.008
+    },
+    "delta": {
+     "FL": 1.092,
+     "JAC_Ford": 0.975,
+     "JAC_Jonson": 0.965,
+     "JAC_Middleton": 1.086,
+     "JAC_Shirley": 0.89,
+     "JAC_Webster": 1.053,
+     "MA": 0.939,
+     "R18": 0.972,
+     "SH": 1.017,
+     "THEO": 1.046
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.642,
+     "SH": 0.358
+    },
+    "delta": {
+     "FL": 1.082,
+     "R18": 0.939,
+     "SH": 0.984
+    }
+   },
+   "gi2": {
+    "SH": 0.48,
+    "FL": 0.085
+   },
+   "gi3": {
+    "SH": 0.525,
+    "FL": 0.12,
+    "THEO": 0.02
+   },
+   "links3": {
+    "Shakespeare": 13.38,
+    "Fletcher": 5.35,
+    "R18": 8.03,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 3.21,
+    "Fletcher": 4.28,
+    "R18": 4.82,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.54,
+    "hath": 1.07,
+    "has": 2.68,
+    "doth": 0.54,
+    "does": 0.0,
+    "tis": 1.61,
+    "sir": 4.82,
+    "thou": 7.49,
+    "fem_proxy": 0.39,
+    "n_verse": 118
+   }
+  },
+  "1.3": {
+   "n_words": 635,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.005,
+     "SH": 0.995
+    },
+    "delta": {
+     "FL": 1.082,
+     "SH": 0.918
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.004,
+     "R18": 0.079,
+     "SH": 0.917
+    },
+    "delta": {
+     "FL": 1.071,
+     "R18": 0.952,
+     "SH": 0.983
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.002,
+     "SH": 0.955,
+     "THEO": 0.043
+    },
+    "delta": {
+     "FL": 1.096,
+     "SH": 0.941,
+     "THEO": 0.792
+    }
+   },
+   "c4": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.004,
+     "R18": 0.132,
+     "SH": 0.848,
+     "THEO": 0.016
+    },
+    "delta": {
+     "FL": 1.069,
+     "R18": 0.961,
+     "SH": 0.995,
+     "THEO": 0.848
+    }
+   },
+   "c10": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.016,
+     "JAC_Ford": 0.023,
+     "JAC_Jonson": 0.226,
+     "JAC_Middleton": 0.008,
+     "JAC_Shirley": 0.001,
+     "JAC_Webster": 0.166,
+     "MA": 0.014,
+     "R18": 0.358,
+     "SH": 0.181,
+     "THEO": 0.007
+    },
+    "delta": {
+     "FL": 1.033,
+     "JAC_Ford": 0.973,
+     "JAC_Jonson": 1.033,
+     "JAC_Middleton": 1.128,
+     "JAC_Shirley": 1.131,
+     "JAC_Webster": 0.972,
+     "MA": 0.972,
+     "R18": 0.914,
+     "SH": 0.894,
+     "THEO": 0.839
+    }
+   },
+   "c3char4": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.004,
+     "R18": 0.005,
+     "SH": 0.991
+    },
+    "delta": {
+     "FL": 1.043,
+     "R18": 0.997,
+     "SH": 0.962
+    }
+   },
+   "gi2": {
+    "SH": 0.415,
+    "FL": 0.27
+   },
+   "gi3": {
+    "SH": 0.48,
+    "FL": 0.255,
+    "THEO": 0.34
+   },
+   "links3": {
+    "Shakespeare": 9.48,
+    "Fletcher": 9.48,
+    "R18": 7.9,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 1.58,
+    "Fletcher": 0.0,
+    "R18": 1.58,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 1.58,
+    "hath": 0.0,
+    "has": 0.0,
+    "doth": 1.58,
+    "does": 1.58,
+    "tis": 3.16,
+    "sir": 1.58,
+    "thou": 0.0,
+    "fem_proxy": 0.45,
+    "n_verse": 64
+   }
+  },
+  "2.1": {
+   "n_words": 477,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.009,
+     "SH": 0.991
+    },
+    "delta": {
+     "FL": 1.06,
+     "SH": 0.94
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.5,
+     "SH": 0.499
+    },
+    "delta": {
+     "FL": 1.131,
+     "R18": 0.821,
+     "SH": 1.06
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.001,
+     "SH": 0.735,
+     "THEO": 0.264
+    },
+    "delta": {
+     "FL": 1.07,
+     "SH": 0.965,
+     "THEO": 0.803
+    }
+   },
+   "c4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.338,
+     "SH": 0.606,
+     "THEO": 0.055
+    },
+    "delta": {
+     "FL": 1.13,
+     "R18": 0.829,
+     "SH": 1.069,
+     "THEO": 0.838
+    }
+   },
+   "c10": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.007,
+     "JAC_Ford": 0.006,
+     "JAC_Jonson": 0.219,
+     "JAC_Middleton": 0.586,
+     "JAC_Shirley": 0.0,
+     "JAC_Webster": 0.001,
+     "MA": 0.0,
+     "R18": 0.079,
+     "SH": 0.021,
+     "THEO": 0.081
+    },
+    "delta": {
+     "FL": 1.116,
+     "JAC_Ford": 0.93,
+     "JAC_Jonson": 0.99,
+     "JAC_Middleton": 0.996,
+     "JAC_Shirley": 1.085,
+     "JAC_Webster": 1.066,
+     "MA": 1.061,
+     "R18": 0.832,
+     "SH": 0.981,
+     "THEO": 0.843
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.991,
+     "SH": 0.008
+    },
+    "delta": {
+     "FL": 1.109,
+     "R18": 0.842,
+     "SH": 1.059
+    }
+   },
+   "gi2": {
+    "SH": 0.41,
+    "FL": 0.255
+   },
+   "gi3": {
+    "SH": 0.325,
+    "FL": 0.255,
+    "THEO": 0.4
+   },
+   "links3": {
+    "Shakespeare": 14.68,
+    "Fletcher": 4.19,
+    "R18": 27.25,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 2.1,
+    "Fletcher": 0.0,
+    "R18": 4.19,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 0.0,
+    "has": 0.0,
+    "doth": 0.0,
+    "does": 2.1,
+    "tis": 4.19,
+    "sir": 0.0,
+    "thou": 4.19,
+    "fem_proxy": 0.22,
+    "n_verse": 9
+   }
+  },
+  "2.2": {
+   "n_words": 355,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.028,
+     "SH": 0.972
+    },
+    "delta": {
+     "FL": 1.027,
+     "SH": 0.973
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.003,
+     "R18": 0.91,
+     "SH": 0.087
+    },
+    "delta": {
+     "FL": 1.028,
+     "R18": 0.929,
+     "SH": 1.046
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.08,
+     "SH": 0.867,
+     "THEO": 0.052
+    },
+    "delta": {
+     "FL": 1.028,
+     "SH": 0.981,
+     "THEO": 0.947
+    }
+   },
+   "c4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.006,
+     "R18": 0.707,
+     "SH": 0.228,
+     "THEO": 0.059
+    },
+    "delta": {
+     "FL": 1.033,
+     "R18": 0.933,
+     "SH": 1.034,
+     "THEO": 1.008
+    }
+   },
+   "c10": {
+    "delta_pred": "JAC_Shirley",
+    "svm": {
+     "FL": 0.001,
+     "JAC_Ford": 0.036,
+     "JAC_Jonson": 0.164,
+     "JAC_Middleton": 0.187,
+     "JAC_Shirley": 0.282,
+     "JAC_Webster": 0.009,
+     "MA": 0.058,
+     "R18": 0.238,
+     "SH": 0.02,
+     "THEO": 0.005
+    },
+    "delta": {
+     "FL": 1.07,
+     "JAC_Ford": 0.957,
+     "JAC_Jonson": 1.034,
+     "JAC_Middleton": 1.037,
+     "JAC_Shirley": 0.835,
+     "JAC_Webster": 1.048,
+     "MA": 0.98,
+     "R18": 0.984,
+     "SH": 1.062,
+     "THEO": 1.013
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.002,
+     "R18": 0.502,
+     "SH": 0.496
+    },
+    "delta": {
+     "FL": 1.016,
+     "R18": 0.97,
+     "SH": 1.015
+    }
+   },
+   "gi2": {
+    "SH": 0.37,
+    "FL": 0.235
+   },
+   "gi3": {
+    "SH": 0.315,
+    "FL": 0.175,
+    "THEO": 0.16
+   },
+   "links3": {
+    "Shakespeare": 5.63,
+    "Fletcher": 8.45,
+    "R18": 22.54,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 8.45,
+    "Fletcher": 2.82,
+    "R18": 2.82,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 0.0,
+    "has": 2.82,
+    "doth": 0.0,
+    "does": 0.0,
+    "tis": 0.0,
+    "sir": 2.82,
+    "thou": 8.45,
+    "fem_proxy": 0.4,
+    "n_verse": 35
+   }
+  },
+  "2.3": {
+   "n_words": 1785,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.004,
+     "SH": 0.996
+    },
+    "delta": {
+     "FL": 1.124,
+     "SH": 0.876
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.616,
+     "SH": 0.384
+    },
+    "delta": {
+     "FL": 1.156,
+     "R18": 0.841,
+     "SH": 1.017
+    }
+   },
+   "c3t": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.002,
+     "SH": 0.97,
+     "THEO": 0.028
+    },
+    "delta": {
+     "FL": 1.119,
+     "SH": 0.888,
+     "THEO": 0.948
+    }
+   },
+   "c4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.627,
+     "SH": 0.367,
+     "THEO": 0.005
+    },
+    "delta": {
+     "FL": 1.151,
+     "R18": 0.842,
+     "SH": 1.011,
+     "THEO": 1.03
+    }
+   },
+   "c10": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.003,
+     "JAC_Ford": 0.181,
+     "JAC_Jonson": 0.104,
+     "JAC_Middleton": 0.185,
+     "JAC_Shirley": 0.018,
+     "JAC_Webster": 0.005,
+     "MA": 0.002,
+     "R18": 0.39,
+     "SH": 0.104,
+     "THEO": 0.008
+    },
+    "delta": {
+     "FL": 1.156,
+     "JAC_Ford": 0.893,
+     "JAC_Jonson": 0.95,
+     "JAC_Middleton": 0.952,
+     "JAC_Shirley": 0.974,
+     "JAC_Webster": 1.081,
+     "MA": 1.105,
+     "R18": 0.859,
+     "SH": 0.986,
+     "THEO": 1.032
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.001,
+     "R18": 0.848,
+     "SH": 0.152
+    },
+    "delta": {
+     "FL": 1.091,
+     "R18": 0.893,
+     "SH": 1.024
+    }
+   },
+   "gi2": {
+    "SH": 0.53,
+    "FL": 0.18
+   },
+   "gi3": {
+    "SH": 0.62,
+    "FL": 0.23,
+    "THEO": 0.05
+   },
+   "links3": {
+    "Shakespeare": 15.13,
+    "Fletcher": 5.6,
+    "R18": 27.45,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 4.48,
+    "Fletcher": 2.8,
+    "R18": 14.01,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 0.0,
+    "has": 2.24,
+    "doth": 0.0,
+    "does": 0.56,
+    "tis": 3.36,
+    "sir": 5.6,
+    "thou": 7.28,
+    "fem_proxy": 0.4,
+    "n_verse": 117
+   }
+  },
+  "2.4": {
+   "n_words": 312,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.513,
+     "SH": 0.487
+    },
+    "delta": {
+     "FL": 0.992,
+     "SH": 1.008
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.016,
+     "R18": 0.924,
+     "SH": 0.06
+    },
+    "delta": {
+     "FL": 0.993,
+     "R18": 0.955,
+     "SH": 1.051
+    }
+   },
+   "c3t": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.396,
+     "SH": 0.583,
+     "THEO": 0.021
+    },
+    "delta": {
+     "FL": 0.991,
+     "SH": 1.009,
+     "THEO": 1.005
+    }
+   },
+   "c4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.006,
+     "R18": 0.752,
+     "SH": 0.095,
+     "THEO": 0.147
+    },
+    "delta": {
+     "FL": 0.989,
+     "R18": 0.954,
+     "SH": 1.047,
+     "THEO": 1.059
+    }
+   },
+   "c10": {
+    "delta_pred": "JAC_Shirley",
+    "svm": {
+     "FL": 0.014,
+     "JAC_Ford": 0.035,
+     "JAC_Jonson": 0.004,
+     "JAC_Middleton": 0.139,
+     "JAC_Shirley": 0.028,
+     "JAC_Webster": 0.023,
+     "MA": 0.007,
+     "R18": 0.532,
+     "SH": 0.084,
+     "THEO": 0.135
+    },
+    "delta": {
+     "FL": 0.975,
+     "JAC_Ford": 1.006,
+     "JAC_Jonson": 1.053,
+     "JAC_Middleton": 0.992,
+     "JAC_Shirley": 0.91,
+     "JAC_Webster": 1.063,
+     "MA": 0.995,
+     "R18": 0.967,
+     "SH": 1.049,
+     "THEO": 1.06
+    }
+   },
+   "c3char4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.165,
+     "R18": 0.817,
+     "SH": 0.018
+    },
+    "delta": {
+     "FL": 0.908,
+     "R18": 0.991,
+     "SH": 1.098
+    }
+   },
+   "gi2": {
+    "SH": 0.385,
+    "FL": 0.395
+   },
+   "gi3": {
+    "SH": 0.37,
+    "FL": 0.39,
+    "THEO": 0.02
+   },
+   "links3": {
+    "Shakespeare": 19.23,
+    "Fletcher": 25.64,
+    "R18": 19.23,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 9.62,
+    "Fletcher": 6.41,
+    "R18": 0.0,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 6.41,
+    "hath": 0.0,
+    "has": 3.21,
+    "doth": 0.0,
+    "does": 0.0,
+    "tis": 0.0,
+    "sir": 12.82,
+    "thou": 3.21,
+    "fem_proxy": 0.34,
+    "n_verse": 35
+   }
+  },
+  "3.1": {
+   "n_words": 338,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.326,
+     "SH": 0.674
+    },
+    "delta": {
+     "FL": 0.949,
+     "SH": 1.051
+    }
+   },
+   "c3": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.055,
+     "R18": 0.321,
+     "SH": 0.624
+    },
+    "delta": {
+     "FL": 0.951,
+     "R18": 1.016,
+     "SH": 1.029
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.237,
+     "SH": 0.687,
+     "THEO": 0.075
+    },
+    "delta": {
+     "FL": 0.957,
+     "SH": 1.053,
+     "THEO": 0.949
+    }
+   },
+   "c4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.143,
+     "R18": 0.323,
+     "SH": 0.505,
+     "THEO": 0.03
+    },
+    "delta": {
+     "FL": 0.948,
+     "R18": 1.02,
+     "SH": 1.029,
+     "THEO": 0.992
+    }
+   },
+   "c10": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.314,
+     "JAC_Ford": 0.007,
+     "JAC_Jonson": 0.007,
+     "JAC_Middleton": 0.219,
+     "JAC_Shirley": 0.257,
+     "JAC_Webster": 0.027,
+     "MA": 0.001,
+     "R18": 0.056,
+     "SH": 0.11,
+     "THEO": 0.002
+    },
+    "delta": {
+     "FL": 0.942,
+     "JAC_Ford": 1.035,
+     "JAC_Jonson": 1.012,
+     "JAC_Middleton": 1.03,
+     "JAC_Shirley": 0.972,
+     "JAC_Webster": 1.015,
+     "MA": 1.01,
+     "R18": 0.998,
+     "SH": 1.013,
+     "THEO": 0.985
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.023,
+     "R18": 0.808,
+     "SH": 0.169
+    },
+    "delta": {
+     "FL": 1.008,
+     "R18": 0.961,
+     "SH": 1.033
+    }
+   },
+   "gi2": {
+    "SH": 0.39,
+    "FL": 0.59
+   },
+   "gi3": {
+    "SH": 0.44,
+    "FL": 0.535,
+    "THEO": 0.18
+   },
+   "links3": {
+    "Shakespeare": 14.79,
+    "Fletcher": 11.83,
+    "R18": 11.83,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 2.96,
+    "Fletcher": 0.0,
+    "R18": 5.92,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 2.96,
+    "hath": 0.0,
+    "has": 0.0,
+    "doth": 0.0,
+    "does": 0.0,
+    "tis": 2.96,
+    "sir": 5.92,
+    "thou": 5.92,
+    "fem_proxy": 0.57,
+    "n_verse": 37
+   }
+  },
+  "3.2": {
+   "n_words": 1392,
+   "c2": {
+    "delta_pred": "SH",
+    "svm": {
+     "FL": 0.105,
+     "SH": 0.895
+    },
+    "delta": {
+     "FL": 1.019,
+     "SH": 0.981
+    }
+   },
+   "c3": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.04,
+     "R18": 0.183,
+     "SH": 0.777
+    },
+    "delta": {
+     "FL": 1.012,
+     "R18": 0.969,
+     "SH": 1.02
+    }
+   },
+   "c3t": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.043,
+     "SH": 0.921,
+     "THEO": 0.036
+    },
+    "delta": {
+     "FL": 1.021,
+     "SH": 1.008,
+     "THEO": 0.843
+    }
+   },
+   "c4": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.037,
+     "R18": 0.105,
+     "SH": 0.846,
+     "THEO": 0.012
+    },
+    "delta": {
+     "FL": 1.015,
+     "R18": 0.982,
+     "SH": 1.014,
+     "THEO": 0.922
+    }
+   },
+   "c10": {
+    "delta_pred": "THEO",
+    "svm": {
+     "FL": 0.059,
+     "JAC_Ford": 0.03,
+     "JAC_Jonson": 0.052,
+     "JAC_Middleton": 0.01,
+     "JAC_Shirley": 0.054,
+     "JAC_Webster": 0.038,
+     "MA": 0.013,
+     "R18": 0.064,
+     "SH": 0.659,
+     "THEO": 0.022
+    },
+    "delta": {
+     "FL": 0.976,
+     "JAC_Ford": 0.928,
+     "JAC_Jonson": 1.039,
+     "JAC_Middleton": 1.204,
+     "JAC_Shirley": 0.975,
+     "JAC_Webster": 1.109,
+     "MA": 0.999,
+     "R18": 0.946,
+     "SH": 0.905,
+     "THEO": 0.887
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.002,
+     "R18": 0.899,
+     "SH": 0.099
+    },
+    "delta": {
+     "FL": 1.079,
+     "R18": 0.897,
+     "SH": 1.031
+    }
+   },
+   "gi2": {
+    "SH": 0.37,
+    "FL": 0.325
+   },
+   "gi3": {
+    "SH": 0.425,
+    "FL": 0.34,
+    "THEO": 0.34
+   },
+   "links3": {
+    "Shakespeare": 20.11,
+    "Fletcher": 5.03,
+    "R18": 10.78,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 5.03,
+    "Fletcher": 0.72,
+    "R18": 0.72,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.72,
+    "hath": 2.87,
+    "has": 1.44,
+    "doth": 0.0,
+    "does": 0.72,
+    "tis": 2.16,
+    "sir": 2.16,
+    "thou": 10.78,
+    "fem_proxy": 0.4,
+    "n_verse": 147
+   }
+  },
+  "3.3": {
+   "n_words": 1323,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.981,
+     "SH": 0.019
+    },
+    "delta": {
+     "FL": 0.751,
+     "SH": 1.249
+    }
+   },
+   "c3": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.884,
+     "R18": 0.108,
+     "SH": 0.008
+    },
+    "delta": {
+     "FL": 0.773,
+     "R18": 1.011,
+     "SH": 1.196
+    }
+   },
+   "c3t": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.965,
+     "SH": 0.035,
+     "THEO": 0.001
+    },
+    "delta": {
+     "FL": 0.746,
+     "SH": 1.237,
+     "THEO": 1.121
+    }
+   },
+   "c4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.78,
+     "R18": 0.21,
+     "SH": 0.009,
+     "THEO": 0.001
+    },
+    "delta": {
+     "FL": 0.764,
+     "R18": 1.005,
+     "SH": 1.181,
+     "THEO": 1.22
+    }
+   },
+   "c10": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.775,
+     "JAC_Ford": 0.009,
+     "JAC_Jonson": 0.006,
+     "JAC_Middleton": 0.054,
+     "JAC_Shirley": 0.007,
+     "JAC_Webster": 0.019,
+     "MA": 0.001,
+     "R18": 0.066,
+     "SH": 0.061,
+     "THEO": 0.002
+    },
+    "delta": {
+     "FL": 0.721,
+     "JAC_Ford": 1.101,
+     "JAC_Jonson": 1.076,
+     "JAC_Middleton": 0.973,
+     "JAC_Shirley": 0.939,
+     "JAC_Webster": 1.058,
+     "MA": 1.133,
+     "R18": 0.943,
+     "SH": 1.046,
+     "THEO": 1.177
+    }
+   },
+   "c3char4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.422,
+     "R18": 0.573,
+     "SH": 0.005
+    },
+    "delta": {
+     "FL": 0.875,
+     "R18": 0.998,
+     "SH": 1.123
+    }
+   },
+   "gi2": {
+    "SH": 0.315,
+    "FL": 0.83
+   },
+   "gi3": {
+    "SH": 0.3,
+    "FL": 0.825,
+    "THEO": 0.0
+   },
+   "links3": {
+    "Shakespeare": 17.38,
+    "Fletcher": 8.31,
+    "R18": 9.83,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 4.54,
+    "Fletcher": 6.05,
+    "R18": 5.29,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 0.0,
+    "has": 4.54,
+    "doth": 0.0,
+    "does": 0.76,
+    "tis": 1.51,
+    "sir": 6.8,
+    "thou": 19.65,
+    "fem_proxy": 0.48,
+    "n_verse": 121
+   }
+  },
+  "4.1": {
+   "n_words": 2082,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.425,
+     "SH": 0.575
+    },
+    "delta": {
+     "FL": 0.88,
+     "SH": 1.12
+    }
+   },
+   "c3": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.251,
+     "R18": 0.578,
+     "SH": 0.17
+    },
+    "delta": {
+     "FL": 0.857,
+     "R18": 1.084,
+     "SH": 1.046
+    }
+   },
+   "c3t": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.456,
+     "SH": 0.529,
+     "THEO": 0.015
+    },
+    "delta": {
+     "FL": 0.876,
+     "SH": 1.131,
+     "THEO": 0.978
+    }
+   },
+   "c4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.234,
+     "R18": 0.522,
+     "SH": 0.232,
+     "THEO": 0.012
+    },
+    "delta": {
+     "FL": 0.857,
+     "R18": 1.085,
+     "SH": 1.038,
+     "THEO": 1.076
+    }
+   },
+   "c10": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.41,
+     "JAC_Ford": 0.011,
+     "JAC_Jonson": 0.025,
+     "JAC_Middleton": 0.048,
+     "JAC_Shirley": 0.245,
+     "JAC_Webster": 0.054,
+     "MA": 0.0,
+     "R18": 0.082,
+     "SH": 0.11,
+     "THEO": 0.014
+    },
+    "delta": {
+     "FL": 0.816,
+     "JAC_Ford": 1.146,
+     "JAC_Jonson": 1.011,
+     "JAC_Middleton": 0.991,
+     "JAC_Shirley": 0.883,
+     "JAC_Webster": 0.994,
+     "MA": 1.232,
+     "R18": 0.961,
+     "SH": 0.953,
+     "THEO": 1.026
+    }
+   },
+   "c3char4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.617,
+     "R18": 0.286,
+     "SH": 0.097
+    },
+    "delta": {
+     "FL": 0.868,
+     "R18": 1.083,
+     "SH": 1.041
+    }
+   },
+   "gi2": {
+    "SH": 0.44,
+    "FL": 0.81
+   },
+   "gi3": {
+    "SH": 0.49,
+    "FL": 0.845,
+    "THEO": 0.0
+   },
+   "links3": {
+    "Shakespeare": 12.01,
+    "Fletcher": 14.41,
+    "R18": 14.41,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 5.76,
+    "Fletcher": 6.24,
+    "R18": 5.28,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.48,
+    "hath": 0.96,
+    "has": 3.84,
+    "doth": 0.0,
+    "does": 1.44,
+    "tis": 5.28,
+    "sir": 8.65,
+    "thou": 8.17,
+    "fem_proxy": 0.38,
+    "n_verse": 156
+   }
+  },
+  "4.2": {
+   "n_words": 943,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.91,
+     "SH": 0.09
+    },
+    "delta": {
+     "FL": 0.867,
+     "SH": 1.133
+    }
+   },
+   "c3": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.372,
+     "R18": 0.608,
+     "SH": 0.02
+    },
+    "delta": {
+     "FL": 0.902,
+     "R18": 0.968,
+     "SH": 1.122
+    }
+   },
+   "c3t": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.955,
+     "SH": 0.034,
+     "THEO": 0.011
+    },
+    "delta": {
+     "FL": 0.867,
+     "SH": 1.15,
+     "THEO": 0.932
+    }
+   },
+   "c4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.578,
+     "R18": 0.391,
+     "SH": 0.017,
+     "THEO": 0.014
+    },
+    "delta": {
+     "FL": 0.894,
+     "R18": 0.969,
+     "SH": 1.124,
+     "THEO": 1.026
+    }
+   },
+   "c10": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.316,
+     "JAC_Ford": 0.015,
+     "JAC_Jonson": 0.027,
+     "JAC_Middleton": 0.167,
+     "JAC_Shirley": 0.012,
+     "JAC_Webster": 0.005,
+     "MA": 0.003,
+     "R18": 0.401,
+     "SH": 0.046,
+     "THEO": 0.009
+    },
+    "delta": {
+     "FL": 0.839,
+     "JAC_Ford": 1.125,
+     "JAC_Jonson": 1.066,
+     "JAC_Middleton": 1.043,
+     "JAC_Shirley": 1.046,
+     "JAC_Webster": 1.017,
+     "MA": 1.052,
+     "R18": 0.879,
+     "SH": 0.977,
+     "THEO": 0.992
+    }
+   },
+   "c3char4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.497,
+     "R18": 0.384,
+     "SH": 0.119
+    },
+    "delta": {
+     "FL": 0.935,
+     "R18": 0.997,
+     "SH": 1.065
+    }
+   },
+   "gi2": {
+    "SH": 0.39,
+    "FL": 0.48
+   },
+   "gi3": {
+    "SH": 0.42,
+    "FL": 0.495,
+    "THEO": 0.055
+   },
+   "links3": {
+    "Shakespeare": 12.73,
+    "Fletcher": 11.66,
+    "R18": 8.48,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 3.18,
+    "Fletcher": 3.18,
+    "R18": 1.06,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 0.0,
+    "has": 3.18,
+    "doth": 0.0,
+    "does": 0.0,
+    "tis": 4.24,
+    "sir": 5.3,
+    "thou": 7.42,
+    "fem_proxy": 0.46,
+    "n_verse": 99
+   }
+  },
+  "5.1": {
+   "n_words": 675,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.964,
+     "SH": 0.036
+    },
+    "delta": {
+     "FL": 0.908,
+     "SH": 1.092
+    }
+   },
+   "c3": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.725,
+     "R18": 0.264,
+     "SH": 0.011
+    },
+    "delta": {
+     "FL": 0.927,
+     "R18": 0.984,
+     "SH": 1.082
+    }
+   },
+   "c3t": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.946,
+     "SH": 0.048,
+     "THEO": 0.006
+    },
+    "delta": {
+     "FL": 0.91,
+     "SH": 1.103,
+     "THEO": 0.946
+    }
+   },
+   "c4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.757,
+     "R18": 0.209,
+     "SH": 0.021,
+     "THEO": 0.012
+    },
+    "delta": {
+     "FL": 0.922,
+     "R18": 0.987,
+     "SH": 1.08,
+     "THEO": 1.021
+    }
+   },
+   "c10": {
+    "delta_pred": "JAC_Shirley",
+    "svm": {
+     "FL": 0.21,
+     "JAC_Ford": 0.01,
+     "JAC_Jonson": 0.007,
+     "JAC_Middleton": 0.033,
+     "JAC_Shirley": 0.252,
+     "JAC_Webster": 0.056,
+     "MA": 0.011,
+     "R18": 0.343,
+     "SH": 0.01,
+     "THEO": 0.068
+    },
+    "delta": {
+     "FL": 0.934,
+     "JAC_Ford": 1.025,
+     "JAC_Jonson": 1.138,
+     "JAC_Middleton": 1.059,
+     "JAC_Shirley": 0.919,
+     "JAC_Webster": 1.032,
+     "MA": 0.954,
+     "R18": 0.945,
+     "SH": 1.048,
+     "THEO": 0.989
+    }
+   },
+   "c3char4": {
+    "delta_pred": "R18",
+    "svm": {
+     "FL": 0.074,
+     "R18": 0.924,
+     "SH": 0.001
+    },
+    "delta": {
+     "FL": 0.995,
+     "R18": 0.921,
+     "SH": 1.087
+    }
+   },
+   "gi2": {
+    "SH": 0.405,
+    "FL": 0.35
+   },
+   "gi3": {
+    "SH": 0.295,
+    "FL": 0.355,
+    "THEO": 0.05
+   },
+   "links3": {
+    "Shakespeare": 11.85,
+    "Fletcher": 11.85,
+    "R18": 17.78,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 1.48,
+    "Fletcher": 4.44,
+    "R18": 4.44,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 0.0,
+    "hath": 0.0,
+    "has": 7.41,
+    "doth": 0.0,
+    "does": 0.0,
+    "tis": 0.0,
+    "sir": 7.41,
+    "thou": 8.89,
+    "fem_proxy": 0.43,
+    "n_verse": 74
+   }
+  },
+  "5.2": {
+   "n_words": 2323,
+   "c2": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.651,
+     "SH": 0.349
+    },
+    "delta": {
+     "FL": 0.865,
+     "SH": 1.135
+    }
+   },
+   "c3": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.491,
+     "R18": 0.268,
+     "SH": 0.241
+    },
+    "delta": {
+     "FL": 0.871,
+     "R18": 1.049,
+     "SH": 1.068
+    }
+   },
+   "c3t": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.48,
+     "SH": 0.515,
+     "THEO": 0.005
+    },
+    "delta": {
+     "FL": 0.867,
+     "SH": 1.126,
+     "THEO": 1.052
+    }
+   },
+   "c4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.363,
+     "R18": 0.388,
+     "SH": 0.245,
+     "THEO": 0.005
+    },
+    "delta": {
+     "FL": 0.871,
+     "R18": 1.048,
+     "SH": 1.053,
+     "THEO": 1.138
+    }
+   },
+   "c10": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.309,
+     "JAC_Ford": 0.026,
+     "JAC_Jonson": 0.224,
+     "JAC_Middleton": 0.102,
+     "JAC_Shirley": 0.041,
+     "JAC_Webster": 0.021,
+     "MA": 0.003,
+     "R18": 0.101,
+     "SH": 0.17,
+     "THEO": 0.003
+    },
+    "delta": {
+     "FL": 0.861,
+     "JAC_Ford": 1.072,
+     "JAC_Jonson": 0.96,
+     "JAC_Middleton": 0.975,
+     "JAC_Shirley": 0.956,
+     "JAC_Webster": 1.078,
+     "MA": 1.102,
+     "R18": 0.993,
+     "SH": 0.984,
+     "THEO": 1.123
+    }
+   },
+   "c3char4": {
+    "delta_pred": "FL",
+    "svm": {
+     "FL": 0.193,
+     "R18": 0.79,
+     "SH": 0.017
+    },
+    "delta": {
+     "FL": 0.906,
+     "R18": 0.986,
+     "SH": 1.105
+    }
+   },
+   "gi2": {
+    "SH": 0.59,
+    "FL": 0.845
+   },
+   "gi3": {
+    "SH": 0.525,
+    "FL": 0.79,
+    "THEO": 0.03
+   },
+   "links3": {
+    "Shakespeare": 9.09,
+    "Fletcher": 14.28,
+    "R18": 14.71,
+    "Theobald": 0.0
+   },
+   "links4": {
+    "Shakespeare": 5.19,
+    "Fletcher": 2.6,
+    "R18": 3.89,
+    "Theobald": 0.0
+   },
+   "markers": {
+    "ye": 0.0,
+    "em": 1.3,
+    "hath": 0.0,
+    "has": 6.06,
+    "doth": 0.0,
+    "does": 0.0,
+    "tis": 4.76,
+    "sir": 6.06,
+    "thou": 14.71,
+    "fem_proxy": 0.46,
+    "n_verse": 209
+   }
+  }
+ },
+ "marker_groups": {
+  "SH": {
+   "ye": 0.29,
+   "em": 0.12,
+   "hath": 2.36,
+   "doth": 1.14,
+   "sir": 3.4,
+   "fem_proxy": 0.28
+  },
+  "FL": {
+   "ye": 13.35,
+   "em": 2.16,
+   "hath": 0.28,
+   "doth": 0.13,
+   "sir": 7.18,
+   "fem_proxy": 0.68
+  },
+  "MA": {
+   "ye": 0.03,
+   "em": 0.85,
+   "hath": 1.29,
+   "doth": 0.01,
+   "sir": 3.72,
+   "fem_proxy": 0.5
+  },
+  "JAC": {
+   "ye": 0.59,
+   "em": 0.52,
+   "hath": 1.36,
+   "doth": 0.5,
+   "sir": 5.12,
+   "fem_proxy": 0.36
+  },
+  "ADAPT": {
+   "ye": 2.61,
+   "em": 1.78,
+   "hath": 0.31,
+   "doth": 0.14,
+   "sir": 4.8,
+   "fem_proxy": 0.43
+  },
+  "R18": {
+   "ye": 0.7,
+   "em": 0.79,
+   "hath": 0.05,
+   "doth": 0.03,
+   "sir": 2.7,
+   "fem_proxy": 0.34
+  },
+  "THEO": {
+   "ye": 0.4,
+   "em": 0.54,
+   "hath": 0.03,
+   "doth": 0.02,
+   "sir": 0.64,
+   "fem_proxy": 0.35
+  }
+ },
+ "survival_svm3": [
+  {
+   "bin": [
+    0,
+    0.05
+   ],
+   "n": 129,
+   "mean": 0.143
+  },
+  {
+   "bin": [
+    0.05,
+    0.15
+   ],
+   "n": 86,
+   "mean": 0.201
+  },
+  {
+   "bin": [
+    0.15,
+    0.3
+   ],
+   "n": 62,
+   "mean": 0.475
+  },
+  {
+   "bin": [
+    0.3,
+    0.5
+   ],
+   "n": 29,
+   "mean": 0.621
+  },
+  {
+   "bin": [
+    0.5,
+    0.7
+   ],
+   "n": 21,
+   "mean": 0.801
+  },
+  {
+   "bin": [
+    0.7,
+    1.01
+   ],
+   "n": 88,
+   "mean": 0.9
+  }
+ ],
+ "survival_gi": [
+  {
+   "bin": [
+    0,
+    0.05
+   ],
+   "n": 129,
+   "mean": 0.374
+  },
+  {
+   "bin": [
+    0.05,
+    0.15
+   ],
+   "n": 86,
+   "mean": 0.458
+  },
+  {
+   "bin": [
+    0.15,
+    0.3
+   ],
+   "n": 62,
+   "mean": 0.611
+  },
+  {
+   "bin": [
+    0.3,
+    0.5
+   ],
+   "n": 29,
+   "mean": 0.612
+  },
+  {
+   "bin": [
+    0.5,
+    0.7
+   ],
+   "n": 21,
+   "mean": 0.773
+  },
+  {
+   "bin": [
+    0.7,
+    1.01
+   ],
+   "n": 88,
+   "mean": 0.787
+  }
+ ],
+ "survival_gi_other": [
+  {
+   "bin": [
+    0,
+    0.05
+   ],
+   "n": 129,
+   "mean": 0.283
+  },
+  {
+   "bin": [
+    0.05,
+    0.15
+   ],
+   "n": 86,
+   "mean": 0.313
+  },
+  {
+   "bin": [
+    0.15,
+    0.3
+   ],
+   "n": 62,
+   "mean": 0.309
+  },
+  {
+   "bin": [
+    0.3,
+    0.5
+   ],
+   "n": 29,
+   "mean": 0.343
+  },
+  {
+   "bin": [
+    0.5,
+    0.7
+   ],
+   "n": 21,
+   "mean": 0.294
+  },
+  {
+   "bin": [
+    0.7,
+    1.01
+   ],
+   "n": 88,
+   "mean": 0.329
+  }
+ ],
+ "h8tnk_c2": {
+  "scenes": {
+   "henry8|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.996,
+    "n_words": 1856
+   },
+   "henry8|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.999,
+    "n_words": 1727
+   },
+   "henry8|1.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.979,
+    "n_words": 577
+   },
+   "henry8|1.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.727,
+    "n_words": 929
+   },
+   "henry8|2.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.656,
+    "n_words": 1423
+   },
+   "henry8|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.863,
+    "n_words": 1205
+   },
+   "henry8|2.3": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.454,
+    "n_words": 892
+   },
+   "henry8|2.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.998,
+    "n_words": 1916
+   },
+   "henry8|3.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.936,
+    "n_words": 1520
+   },
+   "henry8|3.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.702,
+    "n_words": 3823
+   },
+   "henry8|4.0": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.164,
+    "n_words": 881
+   },
+   "henry8|4.1": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.008,
+    "n_words": 293
+   },
+   "henry8|4.2": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.452,
+    "n_words": 1429
+   },
+   "henry8|5.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.987,
+    "n_words": 1486
+   },
+   "henry8|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.918,
+    "n_words": 1845
+   },
+   "henry8|5.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "SH",
+    "p_truth": 0.208,
+    "n_words": 802
+   },
+   "henry8|5.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 1.0,
+    "n_words": 657
+   },
+   "tnk|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.991,
+    "n_words": 1814
+   },
+   "tnk|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.999,
+    "n_words": 940
+   },
+   "tnk|1.3": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.608,
+    "n_words": 805
+   },
+   "tnk|1.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.973,
+    "n_words": 406
+   },
+   "tnk|1.5": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.0,
+    "n_words": 103
+   },
+   "tnk|2.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.998,
+    "n_words": 494
+   },
+   "tnk|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.963,
+    "n_words": 2386
+   },
+   "tnk|2.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.978,
+    "n_words": 716
+   },
+   "tnk|2.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.996,
+    "n_words": 287
+   },
+   "tnk|2.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.998,
+    "n_words": 566
+   },
+   "tnk|2.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.992,
+    "n_words": 352
+   },
+   "tnk|3.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.969,
+    "n_words": 1036
+   },
+   "tnk|3.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.999,
+    "n_words": 336
+   },
+   "tnk|3.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.87,
+    "n_words": 483
+   },
+   "tnk|3.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.899,
+    "n_words": 232
+   },
+   "tnk|3.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.899,
+    "n_words": 1203
+   },
+   "tnk|3.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.961,
+    "n_words": 2678
+   },
+   "tnk|4.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.843,
+    "n_words": 1301
+   },
+   "tnk|4.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.998,
+    "n_words": 1326
+   },
+   "tnk|4.3": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.045,
+    "n_words": 860
+   },
+   "tnk|5.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.984,
+    "n_words": 1383
+   },
+   "tnk|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.969,
+    "n_words": 998
+   },
+   "tnk|5.3": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.908,
+    "n_words": 1205
+   },
+   "tnk|5.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.966,
+    "n_words": 1127
+   }
+  },
+  "svm_correct": 34,
+  "delta_correct": 35,
+  "n": 41
+ },
+ "h8tnk_c3": {
+  "scenes": {
+   "henry8|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.991,
+    "n_words": 1856
+   },
+   "henry8|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.988,
+    "n_words": 1727
+   },
+   "henry8|1.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.904,
+    "n_words": 577
+   },
+   "henry8|1.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.611,
+    "n_words": 929
+   },
+   "henry8|2.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.907,
+    "n_words": 1423
+   },
+   "henry8|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.732,
+    "n_words": 1205
+   },
+   "henry8|2.3": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "SH",
+    "p_truth": 0.477,
+    "n_words": 892
+   },
+   "henry8|2.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.951,
+    "n_words": 1916
+   },
+   "henry8|3.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.909,
+    "n_words": 1520
+   },
+   "henry8|3.2": {
+    "truth": "SH",
+    "delta": "R18",
+    "svm": "R18",
+    "p_truth": 0.367,
+    "n_words": 3823
+   },
+   "henry8|4.0": {
+    "truth": "FL",
+    "delta": "R18",
+    "svm": "R18",
+    "p_truth": 0.018,
+    "n_words": 881
+   },
+   "henry8|4.1": {
+    "truth": "FL",
+    "delta": "R18",
+    "svm": "R18",
+    "p_truth": 0.002,
+    "n_words": 293
+   },
+   "henry8|4.2": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.316,
+    "n_words": 1429
+   },
+   "henry8|5.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.987,
+    "n_words": 1486
+   },
+   "henry8|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.813,
+    "n_words": 1845
+   },
+   "henry8|5.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.59,
+    "n_words": 802
+   },
+   "henry8|5.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.955,
+    "n_words": 657
+   },
+   "tnk|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.975,
+    "n_words": 1814
+   },
+   "tnk|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.978,
+    "n_words": 940
+   },
+   "tnk|1.3": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.637,
+    "n_words": 805
+   },
+   "tnk|1.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.973,
+    "n_words": 406
+   },
+   "tnk|1.5": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.001,
+    "n_words": 103
+   },
+   "tnk|2.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.991,
+    "n_words": 494
+   },
+   "tnk|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.923,
+    "n_words": 2386
+   },
+   "tnk|2.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.956,
+    "n_words": 716
+   },
+   "tnk|2.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.57,
+    "n_words": 287
+   },
+   "tnk|2.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.922,
+    "n_words": 566
+   },
+   "tnk|2.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.817,
+    "n_words": 352
+   },
+   "tnk|3.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.662,
+    "n_words": 1036
+   },
+   "tnk|3.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.971,
+    "n_words": 336
+   },
+   "tnk|3.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.523,
+    "n_words": 483
+   },
+   "tnk|3.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.919,
+    "n_words": 232
+   },
+   "tnk|3.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.925,
+    "n_words": 1203
+   },
+   "tnk|3.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.97,
+    "n_words": 2678
+   },
+   "tnk|4.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.908,
+    "n_words": 1301
+   },
+   "tnk|4.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.639,
+    "n_words": 1326
+   },
+   "tnk|4.3": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.019,
+    "n_words": 860
+   },
+   "tnk|5.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.959,
+    "n_words": 1383
+   },
+   "tnk|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.909,
+    "n_words": 998
+   },
+   "tnk|5.3": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.932,
+    "n_words": 1205
+   },
+   "tnk|5.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.829,
+    "n_words": 1127
+   }
+  },
+  "svm_correct": 35,
+  "delta_correct": 34,
+  "n": 41
+ },
+ "h8tnk_c4": {
+  "scenes": {
+   "henry8|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.963,
+    "n_words": 1856
+   },
+   "henry8|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.974,
+    "n_words": 1727
+   },
+   "henry8|1.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.881,
+    "n_words": 577
+   },
+   "henry8|1.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.623,
+    "n_words": 929
+   },
+   "henry8|2.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.811,
+    "n_words": 1423
+   },
+   "henry8|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.718,
+    "n_words": 1205
+   },
+   "henry8|2.3": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "SH",
+    "p_truth": 0.463,
+    "n_words": 892
+   },
+   "henry8|2.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.873,
+    "n_words": 1916
+   },
+   "henry8|3.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.874,
+    "n_words": 1520
+   },
+   "henry8|3.2": {
+    "truth": "SH",
+    "delta": "R18",
+    "svm": "R18",
+    "p_truth": 0.334,
+    "n_words": 3823
+   },
+   "henry8|4.0": {
+    "truth": "FL",
+    "delta": "THEO",
+    "svm": "R18",
+    "p_truth": 0.031,
+    "n_words": 881
+   },
+   "henry8|4.1": {
+    "truth": "FL",
+    "delta": "THEO",
+    "svm": "R18",
+    "p_truth": 0.004,
+    "n_words": 293
+   },
+   "henry8|4.2": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.289,
+    "n_words": 1429
+   },
+   "henry8|5.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.971,
+    "n_words": 1486
+   },
+   "henry8|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.799,
+    "n_words": 1845
+   },
+   "henry8|5.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.66,
+    "n_words": 802
+   },
+   "henry8|5.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.782,
+    "n_words": 657
+   },
+   "tnk|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.952,
+    "n_words": 1814
+   },
+   "tnk|1.2": {
+    "truth": "SH",
+    "delta": "THEO",
+    "svm": "SH",
+    "p_truth": 0.943,
+    "n_words": 940
+   },
+   "tnk|1.3": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.554,
+    "n_words": 805
+   },
+   "tnk|1.4": {
+    "truth": "SH",
+    "delta": "THEO",
+    "svm": "SH",
+    "p_truth": 0.751,
+    "n_words": 406
+   },
+   "tnk|1.5": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.001,
+    "n_words": 103
+   },
+   "tnk|2.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.9,
+    "n_words": 494
+   },
+   "tnk|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.924,
+    "n_words": 2386
+   },
+   "tnk|2.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.946,
+    "n_words": 716
+   },
+   "tnk|2.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.51,
+    "n_words": 287
+   },
+   "tnk|2.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.911,
+    "n_words": 566
+   },
+   "tnk|2.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.742,
+    "n_words": 352
+   },
+   "tnk|3.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.69,
+    "n_words": 1036
+   },
+   "tnk|3.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.962,
+    "n_words": 336
+   },
+   "tnk|3.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.498,
+    "n_words": 483
+   },
+   "tnk|3.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.781,
+    "n_words": 232
+   },
+   "tnk|3.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.915,
+    "n_words": 1203
+   },
+   "tnk|3.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.922,
+    "n_words": 2678
+   },
+   "tnk|4.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.816,
+    "n_words": 1301
+   },
+   "tnk|4.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.618,
+    "n_words": 1326
+   },
+   "tnk|4.3": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.029,
+    "n_words": 860
+   },
+   "tnk|5.1": {
+    "truth": "SH",
+    "delta": "THEO",
+    "svm": "SH",
+    "p_truth": 0.957,
+    "n_words": 1383
+   },
+   "tnk|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.886,
+    "n_words": 998
+   },
+   "tnk|5.3": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.917,
+    "n_words": 1205
+   },
+   "tnk|5.4": {
+    "truth": "SH",
+    "delta": "THEO",
+    "svm": "SH",
+    "p_truth": 0.887,
+    "n_words": 1127
+   }
+  },
+  "svm_correct": 35,
+  "delta_correct": 30,
+  "n": 41
+ },
+ "h8tnk_c10": {
+  "scenes": {
+   "henry8|1.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.583,
+    "n_words": 1856
+   },
+   "henry8|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.696,
+    "n_words": 1727
+   },
+   "henry8|1.3": {
+    "truth": "FL",
+    "delta": "JAC_Webster",
+    "svm": "FL",
+    "p_truth": 0.526,
+    "n_words": 577
+   },
+   "henry8|1.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.628,
+    "n_words": 929
+   },
+   "henry8|2.1": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "FL",
+    "p_truth": 0.509,
+    "n_words": 1423
+   },
+   "henry8|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.455,
+    "n_words": 1205
+   },
+   "henry8|2.3": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.104,
+    "n_words": 892
+   },
+   "henry8|2.4": {
+    "truth": "SH",
+    "delta": "MA",
+    "svm": "SH",
+    "p_truth": 0.339,
+    "n_words": 1916
+   },
+   "henry8|3.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.649,
+    "n_words": 1520
+   },
+   "henry8|3.2": {
+    "truth": "SH",
+    "delta": "JAC_Ford",
+    "svm": "SH",
+    "p_truth": 0.316,
+    "n_words": 3823
+   },
+   "henry8|4.0": {
+    "truth": "FL",
+    "delta": "THEO",
+    "svm": "SH",
+    "p_truth": 0.01,
+    "n_words": 881
+   },
+   "henry8|4.1": {
+    "truth": "FL",
+    "delta": "THEO",
+    "svm": "MA",
+    "p_truth": 0.002,
+    "n_words": 293
+   },
+   "henry8|4.2": {
+    "truth": "FL",
+    "delta": "SH",
+    "svm": "FL",
+    "p_truth": 0.336,
+    "n_words": 1429
+   },
+   "henry8|5.1": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.545,
+    "n_words": 1486
+   },
+   "henry8|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.656,
+    "n_words": 1845
+   },
+   "henry8|5.3": {
+    "truth": "FL",
+    "delta": "JAC_Webster",
+    "svm": "MA",
+    "p_truth": 0.249,
+    "n_words": 802
+   },
+   "henry8|5.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.765,
+    "n_words": 657
+   },
+   "tnk|1.1": {
+    "truth": "SH",
+    "delta": "MA",
+    "svm": "SH",
+    "p_truth": 0.409,
+    "n_words": 1814
+   },
+   "tnk|1.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.362,
+    "n_words": 940
+   },
+   "tnk|1.3": {
+    "truth": "SH",
+    "delta": "MA",
+    "svm": "JAC_Ford",
+    "p_truth": 0.232,
+    "n_words": 805
+   },
+   "tnk|1.4": {
+    "truth": "SH",
+    "delta": "JAC_Webster",
+    "svm": "JAC_Webster",
+    "p_truth": 0.213,
+    "n_words": 406
+   },
+   "tnk|1.5": {
+    "truth": "SH",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.017,
+    "n_words": 103
+   },
+   "tnk|2.1": {
+    "truth": "SH",
+    "delta": "JAC_Webster",
+    "svm": "JAC_Shirley",
+    "p_truth": 0.121,
+    "n_words": 494
+   },
+   "tnk|2.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.828,
+    "n_words": 2386
+   },
+   "tnk|2.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.828,
+    "n_words": 716
+   },
+   "tnk|2.4": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "JAC_Jonson",
+    "p_truth": 0.4,
+    "n_words": 287
+   },
+   "tnk|2.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "JAC_Webster",
+    "p_truth": 0.165,
+    "n_words": 566
+   },
+   "tnk|2.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.533,
+    "n_words": 352
+   },
+   "tnk|3.1": {
+    "truth": "SH",
+    "delta": "MA",
+    "svm": "JAC_Jonson",
+    "p_truth": 0.142,
+    "n_words": 1036
+   },
+   "tnk|3.2": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.439,
+    "n_words": 336
+   },
+   "tnk|3.3": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.349,
+    "n_words": 483
+   },
+   "tnk|3.4": {
+    "truth": "FL",
+    "delta": "JAC_Middleton",
+    "svm": "JAC_Middleton",
+    "p_truth": 0.195,
+    "n_words": 232
+   },
+   "tnk|3.5": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.42,
+    "n_words": 1203
+   },
+   "tnk|3.6": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.792,
+    "n_words": 2678
+   },
+   "tnk|4.1": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.681,
+    "n_words": 1301
+   },
+   "tnk|4.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.832,
+    "n_words": 1326
+   },
+   "tnk|4.3": {
+    "truth": "FL",
+    "delta": "JAC_Jonson",
+    "svm": "JAC_Jonson",
+    "p_truth": 0.042,
+    "n_words": 860
+   },
+   "tnk|5.1": {
+    "truth": "SH",
+    "delta": "THEO",
+    "svm": "SH",
+    "p_truth": 0.647,
+    "n_words": 1383
+   },
+   "tnk|5.2": {
+    "truth": "FL",
+    "delta": "FL",
+    "svm": "FL",
+    "p_truth": 0.595,
+    "n_words": 998
+   },
+   "tnk|5.3": {
+    "truth": "SH",
+    "delta": "JAC_Jonson",
+    "svm": "SH",
+    "p_truth": 0.245,
+    "n_words": 1205
+   },
+   "tnk|5.4": {
+    "truth": "SH",
+    "delta": "SH",
+    "svm": "SH",
+    "p_truth": 0.632,
+    "n_words": 1127
+   }
+  },
+  "svm_correct": 28,
+  "delta_correct": 22,
+  "n": 41
+ },
+ "validate_many_800": {
+  "cosine": {
+   "acc": 0.5810245687401986,
+   "per_class": {
+    "FL": 0.8256658595641646,
+    "JAC_Brome": 0.5376344086021505,
+    "JAC_Chapman": 0.5162790697674419,
+    "JAC_Davenant": 0.6388888888888888,
+    "JAC_Dekker": 0.5748031496062992,
+    "JAC_Ford": 0.6571428571428571,
+    "JAC_Heywood": 0.49019607843137253,
+    "JAC_Jonson": 0.36363636363636365,
+    "JAC_Marston": 0.5851063829787234,
+    "JAC_Middleton": 0.4702702702702703,
+    "JAC_Rowley": 0.15789473684210525,
+    "JAC_Shirley": 0.7581120943952803,
+    "JAC_Webster": 0.7011494252873564,
+    "MA": 0.9022556390977443,
+    "R18": 0.43044189852700493,
+    "SH": 0.4946949602122016,
+    "THEO": 0.8205128205128205
+   },
+   "false_SH_rate": {
+    "FL": 0.002421307506053269,
+    "JAC_Brome": 0.0,
+    "JAC_Chapman": 0.013953488372093023,
+    "JAC_Davenant": 0.0,
+    "JAC_Dekker": 0.0,
+    "JAC_Ford": 0.0,
+    "JAC_Heywood": 0.006535947712418301,
+    "JAC_Jonson": 0.02097902097902098,
+    "JAC_Marston": 0.010638297872340425,
+    "JAC_Middleton": 0.016216216216216217,
+    "JAC_Rowley": 0.0,
+    "JAC_Shirley": 0.0058997050147492625,
+    "JAC_Webster": 0.011494252873563218,
+    "MA": 0.0,
+    "R18": 0.006546644844517185,
+    "THEO": 0.0
+   }
+  },
+  "svm": {
+   "acc": 0.6751176163094615,
+   "per_class": {
+    "FL": 0.847457627118644,
+    "JAC_Brome": 0.1827956989247312,
+    "JAC_Chapman": 0.5023255813953489,
+    "JAC_Davenant": 0.4444444444444444,
+    "JAC_Dekker": 0.5275590551181102,
+    "JAC_Ford": 0.6642857142857143,
+    "JAC_Heywood": 0.4444444444444444,
+    "JAC_Jonson": 0.3356643356643357,
+    "JAC_Marston": 0.3191489361702128,
+    "JAC_Middleton": 0.4810810810810811,
+    "JAC_Rowley": 0.09473684210526316,
+    "JAC_Shirley": 0.7433628318584071,
+    "JAC_Webster": 0.42528735632183906,
+    "MA": 0.8947368421052632,
+    "R18": 0.8134206219312602,
+    "SH": 0.8368700265251989,
+    "THEO": 0.4358974358974359
+   },
+   "false_SH_rate": {
+    "FL": 0.014527845036319613,
+    "JAC_Brome": 0.021505376344086023,
+    "JAC_Chapman": 0.08837209302325581,
+    "JAC_Davenant": 0.0,
+    "JAC_Dekker": 0.031496062992125984,
+    "JAC_Ford": 0.05714285714285714,
+    "JAC_Heywood": 0.10457516339869281,
+    "JAC_Jonson": 0.1958041958041958,
+    "JAC_Marston": 0.1702127659574468,
+    "JAC_Middleton": 0.032432432432432434,
+    "JAC_Rowley": 0.09473684210526316,
+    "JAC_Shirley": 0.04424778761061947,
+    "JAC_Webster": 0.12643678160919541,
+    "MA": 0.011278195488721804,
+    "R18": 0.03600654664484452,
+    "THEO": 0.0
+   }
+  }
+ },
+ "theo_validate": {
+  "SH,FL,THEO,R18|theo_happy_captive": {
+   "n": 6,
+   "svm_pred": {
+    "THEO": 2,
+    "R18": 4
+   },
+   "mean_svm_prob": {
+    "SH": 0.099,
+    "FL": 0.017,
+    "THEO": 0.376,
+    "R18": 0.508
+   }
+  },
+  "SH,FL,THEO,R18|theo_orestes": {
+   "n": 18,
+   "svm_pred": {
+    "SH": 3,
+    "R18": 14,
+    "THEO": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.204,
+    "FL": 0.025,
+    "THEO": 0.157,
+    "R18": 0.614
+   }
+  },
+  "SH,FL,THEO,R18|theo_perfidious_brother": {
+   "n": 12,
+   "svm_pred": {
+    "R18": 12
+   },
+   "mean_svm_prob": {
+    "SH": 0.02,
+    "FL": 0.051,
+    "THEO": 0.074,
+    "R18": 0.855
+   }
+  },
+  "SH,FL,THEO,R18|theo_persian_princess": {
+   "n": 11,
+   "svm_pred": {
+    "R18": 5,
+    "THEO": 6
+   },
+   "mean_svm_prob": {
+    "SH": 0.089,
+    "FL": 0.049,
+    "THEO": 0.458,
+    "R18": 0.404
+   }
+  },
+  "SH,FL,THEO,R18|r18_rowe_fair_penitent": {
+   "n": 6,
+   "svm_pred": {
+    "R18": 6
+   },
+   "mean_svm_prob": {
+    "SH": 0.017,
+    "FL": 0.015,
+    "THEO": 0.018,
+    "R18": 0.95
+   }
+  },
+  "SH,FL,THEO,R18|r18_rowe_lady_jane_gray": {
+   "n": 5,
+   "svm_pred": {
+    "R18": 5
+   },
+   "mean_svm_prob": {
+    "SH": 0.018,
+    "FL": 0.004,
+    "THEO": 0.006,
+    "R18": 0.973
+   }
+  },
+  "SH,FL,THEO,R18|r18_hill_athelwold": {
+   "n": 7,
+   "svm_pred": {
+    "THEO": 1,
+    "R18": 6
+   },
+   "mean_svm_prob": {
+    "SH": 0.064,
+    "FL": 0.007,
+    "THEO": 0.06,
+    "R18": 0.869
+   }
+  },
+  "SH,FL,THEO,R18|r18_thomson_sophonisba": {
+   "n": 18,
+   "svm_pred": {
+    "R18": 18
+   },
+   "mean_svm_prob": {
+    "SH": 0.004,
+    "FL": 0.033,
+    "THEO": 0.031,
+    "R18": 0.932
+   }
+  },
+  "SH,FL,THEO,R18|r18_savage_overbury": {
+   "n": 5,
+   "svm_pred": {
+    "R18": 5
+   },
+   "mean_svm_prob": {
+    "SH": 0.004,
+    "FL": 0.007,
+    "THEO": 0.018,
+    "R18": 0.97
+   }
+  },
+  "SH,FL,THEO,R18|r18_dennis_liberty_asserted": {
+   "n": 19,
+   "svm_pred": {
+    "R18": 17,
+    "SH": 1,
+    "FL": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.07,
+    "FL": 0.067,
+    "THEO": 0.031,
+    "R18": 0.832
+   }
+  },
+  "SH,FL,THEO,R18|r18_manley_lucius": {
+   "n": 5,
+   "svm_pred": {
+    "R18": 5
+   },
+   "mean_svm_prob": {
+    "SH": 0.007,
+    "FL": 0.001,
+    "THEO": 0.008,
+    "R18": 0.985
+   }
+  },
+  "SH,FL,THEO,R18|r18_philips_briton": {
+   "n": 17,
+   "svm_pred": {
+    "R18": 13,
+    "SH": 4
+   },
+   "mean_svm_prob": {
+    "SH": 0.192,
+    "FL": 0.009,
+    "THEO": 0.058,
+    "R18": 0.741
+   }
+  },
+  "SH,FL,THEO,R18|mestayer_perfidious_brother": {
+   "n": 16,
+   "svm_pred": {
+    "R18": 14,
+    "FL": 2
+   },
+   "mean_svm_prob": {
+    "SH": 0.009,
+    "FL": 0.156,
+    "THEO": 0.073,
+    "R18": 0.761
+   }
+  },
+  "SH,FL,THEO,R18|dfocr_double_falsehood": {
+   "n": 18,
+   "svm_pred": {
+    "SH": 7,
+    "R18": 7,
+    "FL": 4
+   },
+   "mean_svm_prob": {
+    "SH": 0.305,
+    "FL": 0.222,
+    "THEO": 0.048,
+    "R18": 0.424
+   }
+  },
+  "SH,FL,THEO,R18|df_double_falsehood": {
+   "n": 14,
+   "svm_pred": {
+    "R18": 6,
+    "SH": 5,
+    "FL": 3
+   },
+   "mean_svm_prob": {
+    "SH": 0.36,
+    "FL": 0.208,
+    "THEO": 0.028,
+    "R18": 0.404
+   }
+  },
+  "SH,FL,THEO|theo_happy_captive": {
+   "n": 6,
+   "svm_pred": {
+    "THEO": 5,
+    "SH": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.216,
+    "FL": 0.07,
+    "THEO": 0.714
+   }
+  },
+  "SH,FL,THEO|theo_orestes": {
+   "n": 18,
+   "svm_pred": {
+    "SH": 7,
+    "THEO": 11
+   },
+   "mean_svm_prob": {
+    "SH": 0.478,
+    "FL": 0.026,
+    "THEO": 0.496
+   }
+  },
+  "SH,FL,THEO|theo_perfidious_brother": {
+   "n": 12,
+   "svm_pred": {
+    "THEO": 9,
+    "FL": 2,
+    "SH": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.148,
+    "FL": 0.391,
+    "THEO": 0.461
+   }
+  },
+  "SH,FL,THEO|theo_persian_princess": {
+   "n": 11,
+   "svm_pred": {
+    "THEO": 10,
+    "SH": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.192,
+    "FL": 0.059,
+    "THEO": 0.749
+   }
+  },
+  "SH,FL,THEO|r18_rowe_fair_penitent": {
+   "n": 6,
+   "svm_pred": {
+    "SH": 4,
+    "FL": 1,
+    "THEO": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.514,
+    "FL": 0.179,
+    "THEO": 0.306
+   }
+  },
+  "SH,FL,THEO|r18_rowe_lady_jane_gray": {
+   "n": 5,
+   "svm_pred": {
+    "FL": 1,
+    "SH": 3,
+    "THEO": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.649,
+    "FL": 0.142,
+    "THEO": 0.21
+   }
+  },
+  "SH,FL,THEO|r18_hill_athelwold": {
+   "n": 7,
+   "svm_pred": {
+    "THEO": 6,
+    "SH": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.259,
+    "FL": 0.153,
+    "THEO": 0.588
+   }
+  },
+  "SH,FL,THEO|r18_thomson_sophonisba": {
+   "n": 18,
+   "svm_pred": {
+    "THEO": 14,
+    "SH": 3,
+    "FL": 1
+   },
+   "mean_svm_prob": {
+    "SH": 0.264,
+    "FL": 0.17,
+    "THEO": 0.566
+   }
+  },
+  "SH,FL,THEO|r18_savage_overbury": {
+   "n": 5,
+   "svm_pred": {
+    "THEO": 5
+   },
+   "mean_svm_prob": {
+    "SH": 0.173,
+    "FL": 0.154,
+    "THEO": 0.673
+   }
+  },
+  "SH,FL,THEO|r18_dennis_liberty_asserted": {
+   "n": 19,
+   "svm_pred": {
+    "SH": 12,
+    "THEO": 1,
+    "FL": 6
+   },
+   "mean_svm_prob": {
+    "SH": 0.555,
+    "FL": 0.29,
+    "THEO": 0.155
+   }
+  },
+  "SH,FL,THEO|r18_manley_lucius": {
+   "n": 5,
+   "svm_pred": {
+    "THEO": 2,
+    "SH": 3
+   },
+   "mean_svm_prob": {
+    "SH": 0.419,
+    "FL": 0.031,
+    "THEO": 0.55
+   }
+  },
+  "SH,FL,THEO|r18_philips_briton": {
+   "n": 17,
+   "svm_pred": {
+    "THEO": 8,
+    "SH": 7,
+    "FL": 2
+   },
+   "mean_svm_prob": {
+    "SH": 0.438,
+    "FL": 0.151,
+    "THEO": 0.41
+   }
+  },
+  "SH,FL,THEO|mestayer_perfidious_brother": {
+   "n": 16,
+   "svm_pred": {
+    "THEO": 12,
+    "FL": 4
+   },
+   "mean_svm_prob": {
+    "SH": 0.098,
+    "FL": 0.374,
+    "THEO": 0.528
+   }
+  },
+  "SH,FL,THEO|dfocr_double_falsehood": {
+   "n": 18,
+   "svm_pred": {
+    "SH": 11,
+    "FL": 7
+   },
+   "mean_svm_prob": {
+    "SH": 0.546,
+    "FL": 0.361,
+    "THEO": 0.093
+   }
+  },
+  "SH,FL,THEO|df_double_falsehood": {
+   "n": 14,
+   "svm_pred": {
+    "SH": 11,
+    "FL": 3
+   },
+   "mean_svm_prob": {
+    "SH": 0.601,
+    "FL": 0.326,
+    "THEO": 0.073
+   }
+  }
+ },
+ "gi_null_rowe": {
+  "max_SH": 0.26,
+  "max_FL": 0.54,
+  "mean_SH": 0.095,
+  "n": 6
+ },
+ "gi_null_orestes": {
+  "max_SH": 0.53,
+  "max_FL": 0.38,
+  "mean_SH": 0.307,
+  "n": 18
+ },
+ "links3_groups": {
+  "ad_chances_1682": {
+   "n": 23,
+   "SH_mean": 12.12,
+   "SH_median": 10.13,
+   "SH_p90": 20.7,
+   "FL_mean": 16.05,
+   "FL_median": 14.93,
+   "FL_p90": 25.27,
+   "R18_mean": 14.74
+  },
+  "ad_julius_caesar_1723": {
+   "n": 14,
+   "SH_mean": 9.9,
+   "SH_median": 10.21,
+   "SH_p90": 14.69,
+   "FL_mean": 4.4,
+   "FL_median": 4.06,
+   "FL_p90": 7.43,
+   "R18_mean": 11.56
+  },
+  "ad_lear_1681": {
+   "n": 5,
+   "SH_mean": 12.43,
+   "SH_median": 12.11,
+   "SH_p90": 14.18,
+   "FL_mean": 6.08,
+   "FL_median": 6.99,
+   "FL_p90": 7.63,
+   "R18_mean": 13.96
+  },
+  "ad_macbeth_1674": {
+   "n": 8,
+   "SH_mean": 13.03,
+   "SH_median": 10.72,
+   "SH_p90": 19.04,
+   "FL_mean": 8.02,
+   "FL_median": 7.88,
+   "FL_p90": 10.62,
+   "R18_mean": 16.33
+  },
+  "ad_richard2_1681": {
+   "n": 17,
+   "SH_mean": 13.85,
+   "SH_median": 12.0,
+   "SH_p90": 20.15,
+   "FL_mean": 5.64,
+   "FL_median": 6.28,
+   "FL_p90": 8.71,
+   "R18_mean": 13.37
+  },
+  "ad_richard3_1700": {
+   "n": 21,
+   "SH_mean": 19.79,
+   "SH_median": 13.85,
+   "SH_p90": 35.33,
+   "FL_mean": 3.83,
+   "FL_median": 3.78,
+   "FL_p90": 8.3,
+   "R18_mean": 14.93
+  },
+  "ad_valentinian_1685": {
+   "n": 14,
+   "SH_mean": 10.36,
+   "SH_median": 9.06,
+   "SH_p90": 15.26,
+   "FL_mean": 9.32,
+   "FL_median": 8.67,
+   "FL_p90": 13.33,
+   "R18_mean": 15.63
+  },
+  "SH scenes H8/TNK": {
+   "n": 16,
+   "SH_mean": 13.46,
+   "SH_median": 12.45,
+   "SH_p90": 19.93,
+   "FL_mean": 5.56,
+   "FL_median": 4.77,
+   "FL_p90": 10.07,
+   "R18_mean": 6.52
+  },
+  "FL scenes H8/TNK": {
+   "n": 23,
+   "SH_mean": 12.43,
+   "SH_median": 12.57,
+   "SH_p90": 18.1,
+   "FL_mean": 12.4,
+   "FL_median": 13.28,
+   "FL_p90": 18.22,
+   "R18_mean": 9.13
+  },
+  "DF": {
+   "n": 14,
+   "SH_mean": 13.3,
+   "SH_median": 13.05,
+   "SH_p90": 18.68,
+   "FL_mean": 9.91,
+   "FL_median": 8.96,
+   "FL_p90": 14.37,
+   "R18_mean": 14.88
+  },
+  "DF OCR copy": {
+   "n": 18,
+   "SH_mean": 11.28,
+   "SH_median": 10.8,
+   "SH_p90": 15.56,
+   "FL_mean": 6.08,
+   "FL_median": 5.81,
+   "FL_p90": 9.78,
+   "R18_mean": 11.37
+  },
+  "Mestayer": {
+   "n": 16,
+   "SH_mean": 7.39,
+   "SH_median": 7.92,
+   "SH_p90": 10.83,
+   "FL_mean": 3.8,
+   "FL_median": 3.6,
+   "FL_p90": 6.49,
+   "R18_mean": 24.97
+  },
+  "18C plays": {
+   "n": 60,
+   "SH_mean": 9.2,
+   "SH_median": 8.9,
+   "SH_p90": 13.2,
+   "FL_mean": 5.91,
+   "FL_median": 5.47,
+   "FL_p90": 9.93,
+   "R18_mean": 26.85
+  },
+  "Theobald plays and poem": {
+   "n": 55,
+   "SH_mean": 7.0,
+   "SH_median": 6.68,
+   "SH_p90": 11.83,
+   "FL_mean": 3.14,
+   "FL_median": 2.7,
+   "FL_p90": 5.94,
+   "R18_mean": 13.56
+  },
+  "Other Jacobean (Massinger, Shirley, Ford, Webster, Middleton)": {
+   "n": 84,
+   "SH_mean": 11.82,
+   "SH_median": 11.39,
+   "SH_p90": 15.8,
+   "FL_mean": 6.55,
+   "FL_median": 6.66,
+   "FL_p90": 8.92,
+   "R18_mean": 10.75
+  }
+ },
+ "retention_plays": {
+  "ad_chances_1682": 0.426,
+  "ad_pilgrim_1700": 0.205,
+  "ad_valentinian_1685": 0.339,
+  "ad_prophetess_1690": 0.486,
+  "ad_bonduca_1696": 0.249,
+  "ad_philaster_1695": 0.354,
+  "ad_trick_for_trick_1678": 0.088,
+  "ad_commonwealth_women_1686": 0.151,
+  "ad_island_princess_1687": 0.375,
+  "ad_island_princess_1699": 0.073,
+  "ad_sham_lawyer_1697": 0.003,
+  "ad_unhappy_kindness_1697": 0.274,
+  "ad_humorous_lieutenant_1697": 0.833,
+  "ad_rule_a_wife_1697": 0.799,
+  "ad_loyal_subject_1700": 0.855,
+  "ad_night_walker_1661": 0.874,
+  "ad_island_princess_1669": 0.689,
+  "ad_macbeth_1674": 0.233,
+  "ad_tempest_1670": 0.093,
+  "ad_timon_1678": 0.071,
+  "ad_lear_1681": 0.195,
+  "ad_richard2_1681": 0.177,
+  "ad_caius_marius_1680": 0.069,
+  "ad_injured_princess_1682": 0.109,
+  "ad_titus_1687": 0.277,
+  "ad_troilus_1679": 0.133,
+  "ad_coriolanus_1682": 0.21,
+  "ad_misery_civil_war_1680": 0.009,
+  "ad_henry6_1681": 0.078,
+  "ad_sauny_scot_1698": 0.062,
+  "ad_measure_1700": 0.087,
+  "ad_henry4_1700": 0.82,
+  "ad_hamlet_1676": 0.602,
+  "ad_julius_caesar_1684": 0.863,
+  "ad_tempest_opera_1756": 0.248,
+  "ad_timon_1772": 0.354,
+  "ad_richard3_1700": 0.086,
+  "ad_love_makes_a_man_1701": 0.038,
+  "ad_inconstant_1702": 0.006,
+  "ad_jew_of_venice_1701": 0.073,
+  "ad_henry5_1723": 0.054,
+  "ad_julius_caesar_1723": 0.074,
+  "ad_marcus_brutus_1723": 0.002,
+  "ad_love_betrayd_1703": 0.008
+ },
+ "ocr_retention_of_df": {
+  "n2": 0.801,
+  "n4": 0.616
+ }
+}

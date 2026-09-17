@@ -1,0 +1,64 @@
+{
+ "stats": {
+  "noise": 62,
+  "pagenum": 7,
+  "sig": 2,
+  "hyphen_join": 11,
+  "auto": 9,
+  "override": 4,
+  "words_out": 2576,
+  "lines_out": 701
+ },
+ "top_replacements": [
+  [
+   "mufician>musician",
+   1
+  ],
+  [
+   "juft>just",
+   1
+  ],
+  [
+   "fo>so",
+   1
+  ],
+  [
+   "lofs>loss",
+   1
+  ],
+  [
+   "ftolen>stolen",
+   1
+  ],
+  [
+   "flow>slow",
+   1
+  ],
+  [
+   "fhe>she",
+   1
+  ],
+  [
+   "fhou>shou",
+   1
+  ],
+  [
+   "foothing>soothing",
+   1
+  ],
+  [
+   "tafks>tasks",
+   1
+  ],
+  [
+   "blifs>bliss",
+   1
+  ],
+  [
+   "reftore>restore",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

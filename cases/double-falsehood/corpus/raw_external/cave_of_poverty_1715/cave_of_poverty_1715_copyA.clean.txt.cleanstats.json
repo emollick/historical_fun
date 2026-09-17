@@ -1,0 +1,85 @@
+{
+ "stats": {
+  "noise": 284,
+  "runhead": 17,
+  "pagenum": 26,
+  "sig": 9,
+  "hyphen_join": 13,
+  "override": 7,
+  "auto": 18,
+  "words_out": 6639,
+  "lines_out": 1570
+ },
+ "top_replacements": [
+  [
+   "flow>slow",
+   4
+  ],
+  [
+   "fo>so",
+   2
+  ],
+  [
+   "ruffians>russians",
+   1
+  ],
+  [
+   "pleafing>pleasing",
+   1
+  ],
+  [
+   "peafant>peasant",
+   1
+  ],
+  [
+   "wafted>wasted",
+   1
+  ],
+  [
+   "brafs>brass",
+   1
+  ],
+  [
+   "fway>sway",
+   1
+  ],
+  [
+   "furrounds>surrounds",
+   1
+  ],
+  [
+   "fwell>swell",
+   1
+  ],
+  [
+   "fighs>sighs",
+   1
+  ],
+  [
+   "felf>self",
+   1
+  ],
+  [
+   "treafure>treasure",
+   1
+  ],
+  [
+   "caft>cast",
+   1
+  ],
+  [
+   "reft>rest",
+   1
+  ],
+  [
+   "ruffian>russian",
+   1
+  ],
+  [
+   "eaftern>eastern",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

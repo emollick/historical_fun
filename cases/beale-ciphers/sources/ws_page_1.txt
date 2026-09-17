@@ -1,0 +1,34 @@
+<noinclude><pagequality level="4" user="Jasonanaggie" />{{c|3. <br>''The Beale Papers''}}{{dhr}}</noinclude>{{border|maxwidth=30em|{{c|
+THE
+
+{{xxxx-larger|{{sc|Beale Papers,}}}}
+
+{{x-smaller|CONTAINING}}
+
+AUTHENTIC STATEMENTS
+
+{{x-smaller|REGARDING THE}}
+
+{{xx-larger|{{sc|Treasure Buried}}}}
+
+{{x-smaller|IN}}
+
+{{larger|{{sc|1819 and 1821}}}}
+
+{{x-smaller|NEAR}}
+
+BUFORDS, IN BEDFORD COUNTY, VIRGINIA,
+
+{{x-smaller|AND}}
+
+{{smaller|{{sc|Which Has Never Been Recovered.}}}}
+
+{{custom rule|w|40}}
+PRICE FIFTY CENTS.
+{{custom rule|w|40}}
+
+{{x-smaller block|LYNCHBURG: <br>
+{{sc|Virginian Book and Job Print}}, <br>
+1885.}}
+}}}}
+{{nop}}<noinclude></noinclude>

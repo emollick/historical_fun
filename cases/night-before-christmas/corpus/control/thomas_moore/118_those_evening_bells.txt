@@ -1,0 +1,23 @@
+title: Those Evening Bells
+author: Thomas Moore
+date: c. 1818-1827
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 12
+attribution: certain
+notes: song (National Airs, 1818-1827)
+
+Those evening bells! those evening bells!
+How many a tale their music tells,
+Of youth and home and that sweet time
+When last I heard their soothing chime.
+
+Those joyous hours are past away:
+And many a heart, that then was gay.
+Within the tomb now darkly dwells,
+And hears no more those evening bells.
+
+And so 'twill be when I am gone:
+That tuneful peal will still ring on,
+While other bards shall walk these dells,
+And sing your praise, sweet evening bells!

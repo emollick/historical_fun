@@ -1,0 +1,796 @@
+{
+ "source_file": "loc_ca_titles_missouri_1820.json",
+ "query_url": "https://www.loc.gov/collections/chronicling-america/?c=100&dl=title&fa=location_state:missouri&fo=json",
+ "total_hits": 98,
+ "results_in_capture": 98,
+ "results": [
+  {
+   "date": "1867",
+   "title": "iron county register (ironton, iron county, mo.) 1867-1965",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84024283/"
+  },
+  {
+   "date": "1894",
+   "title": "the american eagle (st. louis, mo.) 1894-19??",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84020143/"
+  },
+  {
+   "date": "18??",
+   "title": "the palladium (st. louis, mo.) 18??-1903",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84020234/"
+  },
+  {
+   "date": "1903",
+   "title": "st. louis palladium (st. louis, mo.) 1903-19??",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84020235/"
+  },
+  {
+   "date": "1888",
+   "title": "the st. louis republic (st. louis, mo.) 1888-1919",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84020274/"
+  },
+  {
+   "date": "1894",
+   "title": "the sedalia times (sedalia, mo.) 1894-1905",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84020293/"
+  },
+  {
+   "date": "1890",
+   "title": "the american negro (springfield, mo.) 1890-1890",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83025434/"
+  },
+  {
+   "date": "1896",
+   "title": "the rising son (kansas city, mo.) 1896-19??",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83025494/"
+  },
+  {
+   "date": "1841",
+   "title": "the radical (bowling green [mo.]) 1841-1845",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83016922/"
+  },
+  {
+   "date": "1833",
+   "title": "salt river journal (bowling green, mo.) 1833-1841",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83016924/"
+  },
+  {
+   "date": "1840",
+   "title": "boon's lick times (fayette, mo.) 1840-1848",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83016957/"
+  },
+  {
+   "date": "1864",
+   "title": "soldier's letter (kansas city, mo.) 1864-1865",
+   "state": [
+    "kansas",
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn84030143/"
+  },
+  {
+   "date": "1845",
+   "title": "democratic banner (bowling green, pike county, mo.) 1845-1852",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066057/"
+  },
+  {
+   "date": "1880",
+   "title": "weekly graphic (kirksville, adair co., mo.) 1880-1949",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066097/"
+  },
+  {
+   "date": "1890",
+   "title": "the laclede blade (laclede, mo.) 1890-1945",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066129/"
+  },
+  {
+   "date": "1865",
+   "title": "the howard union (glasgow, mo.) 1865-1866",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066162/"
+  },
+  {
+   "date": "1866",
+   "title": "glasgow weekly times (glasgow, howard county, mo.) 1866-1869",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066163/"
+  },
+  {
+   "date": "1911",
+   "title": "the menace (aurora, mo.) 1911-1920",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066178/"
+  },
+  {
+   "date": "1901",
+   "title": "scott county kicker (benton, mo.) 1901-1917",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066234/"
+  },
+  {
+   "date": "1888",
+   "title": "the news boy (benton, scott county, mo.) 1888-1901",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066235/"
+  },
+  {
+   "date": "1892",
+   "title": "the saline republican (marshall, mo.) 1892-1899",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066239/"
+  },
+  {
+   "date": "1899",
+   "title": "the marshall republican (marshall, saline county, mo.) 1899-1914",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066240/"
+  },
+  {
+   "date": "1916",
+   "title": "the daily missourian (columbia, mo.) 1916-1917",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066314/"
+  },
+  {
+   "date": "1917",
+   "title": "the evening missourian (columbia, mo.) 1917-1920",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066315/"
+  },
+  {
+   "date": "1920",
+   "title": "the columbia evening missourian (columbia, mo.) 1920-1923",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066316/"
+  },
+  {
+   "date": "1901",
+   "title": "the professional world (columbia, mo.) 1901-192?",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066321/"
+  },
+  {
+   "date": "1877",
+   "title": "the crisis (chillicothe, livingston co., mo.) 1877-1878",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066349/"
+  },
+  {
+   "date": "1878",
+   "title": "weekly chillicothe crisis (chillicothe, livingston co., mo.) 1878-19??",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066350/"
+  },
+  {
+   "date": "1881",
+   "title": "the butler weekly times (butler, mo.) 1881-1918",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066489/"
+  },
+  {
+   "date": "1914",
+   "title": "the cape weekly tribune (cape girardeau, mo.) 1914-1914",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066594/"
+  },
+  {
+   "date": "1914",
+   "title": "the weekly tribune and the cape county herald (cape girardeau, mo.) 1914-1918",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066617/"
+  },
+  {
+   "date": "1918",
+   "title": "the weekly tribune (cape girardeau, mo.) 1918-1919",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066618/"
+  },
+  {
+   "date": "1911",
+   "title": "the cape county herald (cape girardeau, mo.) 1911-1914",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066619/"
+  },
+  {
+   "date": "1897",
+   "title": "the jackson herald (jackson, mo.) 1897-1911",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066620/"
+  },
+  {
+   "date": "1908",
+   "title": "the hayti herald (hayti, mo.) 1908-1922",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066651/"
+  },
+  {
+   "date": "1922",
+   "title": "the missouri herald (hayti, mo.) 1922-1990",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066652/"
+  },
+  {
+   "date": "1881",
+   "title": "marble hill press (marbel [sic] hill, mo.) 1881-1923",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066695/"
+  },
+  {
+   "date": "1896",
+   "title": "osage county volksblatt (westphalia, mo.) 1896-1917",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066801/"
+  },
+  {
+   "date": "1876",
+   "title": "the cape girardeau democrat (cape girardeau, mo.) 1876-1909",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066818/"
+  },
+  {
+   "date": "1908",
+   "title": "mansfield mirror (mansfield, wright county, mo.) 1908-1957",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066901/"
+  },
+  {
+   "date": "1908",
+   "title": "the mansfield press (mansfield, wright county, mo.) 1908-1912",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066919/"
+  },
+  {
+   "date": "1902",
+   "title": "the farmington times and herald (farmington, st. francois co., mo.) 1902-1905",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066995/"
+  },
+  {
+   "date": "1905",
+   "title": "the farmington times (farmington, st. francois county, mo.) 1905-1926",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066996/"
+  },
+  {
+   "date": "1905",
+   "title": "ripley county democrat (doniphan, mo.) 1905-1920",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067083/"
+  },
+  {
+   "date": "1899",
+   "title": "mexico missouri message (mexico, audrain county, mo.) 1899-1918",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067273/"
+  },
+  {
+   "date": "1855",
+   "title": "mexico weekly ledger (mexico, mo.) 1855-1956",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067274/"
+  },
+  {
+   "date": "1895",
+   "title": "the taney county republican (forsyth, mo.) 1895-1992",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067390/"
+  },
+  {
+   "date": "1891",
+   "title": "the farmers' union (memphis, mo.) 1891-1895",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067453/"
+  },
+  {
+   "date": "1853",
+   "title": "hannibal journal (hannibal, mo.) 1853-1853",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067494/"
+  },
+  {
+   "date": "1903",
+   "title": "sedalia weekly conservator (sedalia, mo.) 1903-1909",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89067598/"
+  },
+  {
+   "date": "1874",
+   "title": "the farmington times (farmington, mo.) 1874-1902",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86054033/"
+  },
+  {
+   "date": "1856",
+   "title": "hermanner volksblatt (hermann, mo.) 1856-187?",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86054053/"
+  },
+  {
+   "date": "1918",
+   "title": "the butler weekly times and the bates county record (butler, mo.) 1918-1950",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063289/"
+  },
+  {
+   "date": "1848",
+   "title": "glasgow weekly times (glasgow, mo.) 1848-1861",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063325/"
+  },
+  {
+   "date": "1897",
+   "title": "kansas city journal (kansas city, mo.) 1897-1928",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063615/"
+  },
+  {
+   "date": "1901",
+   "title": "the lexington intelligencer (lexington, mo.) 1901-1949",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063623/"
+  },
+  {
+   "date": "1892",
+   "title": "kansas city daily journal (kansas city, mo.) 1892-1897",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063624/"
+  },
+  {
+   "date": "1873",
+   "title": "richmond democrat (richmond, ray county, mo.) 1873-1906",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063662/"
+  },
+  {
+   "date": "1873",
+   "title": "the troy herald (troy, mo.) 1873-1890",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn86063984/"
+  },
+  {
+   "date": "1891",
+   "title": "the times-observer (topeka, kan.) 1891-1892",
+   "state": [
+    "missouri",
+    "kansas"
+   ],
+   "url": "http://www.loc.gov/item/sn85067184/"
+  },
+  {
+   "date": "1872",
+   "title": "the state journal (jefferson city, mo.) 1872-1886",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87052128/"
+  },
+  {
+   "date": "1871",
+   "title": "lexington weekly intelligencer (lexington, mo.) 1871-1887",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87052143/"
+  },
+  {
+   "date": "1872",
+   "title": "fair play (ste. genevieve [mo.]) 1872-1961",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87052181/"
+  },
+  {
+   "date": "1866",
+   "title": "the weekly caucasian (lexington, lafayette county, mo.) 1866-1875",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn85033995/"
+  },
+  {
+   "date": "1865",
+   "title": "the holt county sentinel (oregon, missouri.) 1865-1880",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn85034039/"
+  },
+  {
+   "date": "1871",
+   "title": "the andrew county republican (savannah, mo.) 1871-1876",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn85034076/"
+  },
+  {
+   "date": "1872",
+   "title": "hermanner volksblatt u. gasconade zeitung (hermann, mo.) 1872-1873",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn85034180/"
+  },
+  {
+   "date": "1873",
+   "title": "die gasconade zeitung (hermann, mo.) 1873-187?",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87067037/"
+  },
+  {
+   "date": "1878",
+   "title": "chariton courier (keytesville, chariton county, mo.) 1878-current",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn88068010/"
+  },
+  {
+   "date": "1850",
+   "title": "western union (city of hannibal, mo.) 1850-1851",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87091068/"
+  },
+  {
+   "date": "1852",
+   "title": "hannibal journal (hannibal, mo.) 1852-1853",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87091069/"
+  },
+  {
+   "date": "1851",
+   "title": "hannibal journal and western union (hannibal, mo.) 1851-1852",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn87091070/"
+  },
+  {
+   "date": "1898",
+   "title": "the jasper news (jasper, mo.) 1898-1924",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061052/"
+  },
+  {
+   "date": "1892",
+   "title": "the montgomery tribune (montgomery city, mo.) 1892-1910",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061056/"
+  },
+  {
+   "date": "187?",
+   "title": "the sedalia weekly bazoo (sedalia, mo.) 187?-1904",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061066/"
+  },
+  {
+   "date": "1899",
+   "title": "the monett times (monett, mo.) 1899-1939",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061308/"
+  },
+  {
+   "date": "1888",
+   "title": "monroe city democrat (monroe city, mo.) 1888-1919",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061309/"
+  },
+  {
+   "date": "1894",
+   "title": "potosi journal (potosi, mo.) 1894-1929",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061371/"
+  },
+  {
+   "date": "1881",
+   "title": "the county paper (oregon, mo.) 1881-1883",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061416/"
+  },
+  {
+   "date": "1883",
+   "title": "the holt county sentinel (oregon, mo.) 1883-1980",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061417/"
+  },
+  {
+   "date": "1906",
+   "title": "the st. joseph observer (st. joseph, mo.) 1906-1932",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061457/"
+  },
+  {
+   "date": "1908",
+   "title": "the kansas city sun (kansas city, mo.) 1908-1924",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061556/"
+  },
+  {
+   "date": "1871",
+   "title": "the state republican (jefferson city, mo.) 1871-1896",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061576/"
+  },
+  {
+   "date": "1900",
+   "title": "the tribune (rich hill, mo.) 1900-1902",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061662/"
+  },
+  {
+   "date": "1903",
+   "title": "the rich hill tribune (rich hill, mo.) 1903-1911",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061663/"
+  },
+  {
+   "date": "1879",
+   "title": "osage valley banner (tuscumbia, miller county, mo.) 1879-1881",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061739/"
+  },
+  {
+   "date": "1865",
+   "title": "the lincoln county herald (troy, lincoln county, mo.) 1865-1873",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061771/"
+  },
+  {
+   "date": "1900",
+   "title": "morgan county democrat (versailles, mo.) 1900-1906",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061782/"
+  },
+  {
+   "date": "1906",
+   "title": "morgan county republican (versailles, mo.) 1906-1914",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn90061783/"
+  },
+  {
+   "date": "1845",
+   "title": "saturday morning visitor (city of warsaw, mo.) 1845-1849",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn92058841/"
+  },
+  {
+   "date": "1891",
+   "title": "world's cresset (jah-ville [colony], fowler, mo.) 1891-19??",
+   "state": [
+    "arkansas",
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn93060090/"
+  },
+  {
+   "date": "1875",
+   "title": "hermanner volksblatt (hermann, mo.) 1875-1928",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn93060116/"
+  },
+  {
+   "date": "1906",
+   "title": "auttaja (ironwood, mich.) 1906-19??",
+   "state": [
+    "missouri",
+    "michigan"
+   ],
+   "url": "http://www.loc.gov/item/sn93060356/"
+  },
+  {
+   "date": "1887",
+   "title": "the intelligencer (lexington, mo.) 1887-1891",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn93060412/"
+  },
+  {
+   "date": "1891",
+   "title": "the weekly intelligencer (lexington, mo.) 1891-1901",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn93060416/"
+  },
+  {
+   "date": "1894",
+   "title": "the missouri messenger (macon ; kansas city, mo.) 1894-1900",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83025493/"
+  },
+  {
+   "date": "1896",
+   "title": "kansas city observer (kansas city, mo.) 1896-19??",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn83025495/"
+  },
+  {
+   "date": "1908",
+   "title": "university missourian (columbia, mo.) 1908-1916",
+   "state": [
+    "missouri"
+   ],
+   "url": "http://www.loc.gov/item/sn89066313/"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+title: Song
+author: Joseph Rodman Drake
+date: ed. 1835
+source: https://www.gutenberg.org/ebooks/317 (The Culprit Fay, and Other Poems, New York: George Dearborn, 1835)
+form: iambic tetrameter
+lines: 16
+attribution: certain
+notes: 
+
+Oh! go to sleep, my baby dear,
+And I will hold thee on my knee;
+Thy mother's in her winding sheet,
+And thou art all that's left to me.
+My hairs are white with grief and age,
+I've borne the weight of every ill,
+And I would lay me with my child,
+But thou art left to love me still.
+
+Should thy false father see thy face,
+The tears would fill his cruel e'e,
+But he has scorned thy mother's wo,
+And he shall never look on thee:
+But I will rear thee up alone,
+And with me thou shalt aye remain;
+For thou wilt have thy mother's smile,
+And I shall see my child again.

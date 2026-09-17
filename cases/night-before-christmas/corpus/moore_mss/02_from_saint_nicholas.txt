@@ -1,0 +1,32 @@
+title: From Saint Nicholas
+author: Clement Clarke Moore
+date: c. 1821-1822
+source: Original manuscript, Museum of the City of New York, doc. 54.331.4; transcribed by Mary S. Van Deusen, henrylivingston.com, fetched via the Wayback Machine: https://web.archive.org/web/2024/https://www.henrylivingston.com/xmas/livingstonmoore/moorefromstnicholas.htm
+form: anapestic tetrameter couplets (with a triplet; some iambic substitutions)
+lines: 23
+attribution: certain
+notes: Verse letter 'from St. Nicholas' to Moore's daughter Charity Elizabeth ('little Sis', b. 1816), left with her Christmas stocking; site dates it 1822 (allmoorepoetry.htm), i.e. the same season as the Visit. Comic-affectionate, admonitory. Closest metrical analogue to the Visit in Moore's known verse. Listed in the site's Jackson phoneme data set (data/favoredphonemes/moore/moorefromstnicholas.txt), so apparently part of Jackson's main Moore corpus rather than a held-back text; unverified against Jackson 2016 itself. Site line count 23 agrees.
+
+What! My sweet little Sis, in bed all alone;
+No light in your room! And your nursy too gone!
+And you, like a good child, are quietly lying,
+While some naughty ones would be fretting or crying?
+Well, for this you must have something pretty, my dear;
+And, I hope, will deserve a reward too next year.
+But, speaking of crying, I'm sorry to say
+Your screeches and screams, so loud ev'ry day,
+Were near driving me and my goodies away.
+Good children I always give good things in plenty;
+How sad to have left your stocking quite empty:
+But you are beginning so nicely to spell,
+And, in going to bed, behave always so well,
+That, although I too oft see the tear in your eye,
+I cannot resolve to pass you quite by.
+I hope, when I come here again the next year,
+I shall not see even the sign of a tear.
+And then, if you get back your sweet pleasant looks,
+And do as you're bid, I will leave you some books,
+Some toys, or perhaps what you still may like better,
+And then too may write you a prettier letter.
+At present, my dear, I must bid you good bye;
+Now, do as you're bid; and, remember, don't cry.

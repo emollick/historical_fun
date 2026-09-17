@@ -1,0 +1,17 @@
+title: Horace, Ode I. Lib. Iii
+author: Thomas Moore
+date: c. 1813-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 8
+attribution: certain
+notes: light satirical verse (Satirical and Humorous Poems, mostly from The Times / Morning Chronicle, 1820s-30s)
+
+I hate thee, oh, Mob, as my Lady hates delf;
+To Sir Francis I'll give up thy claps and thy hisses,
+Leave old Magna Charta to shift for itself,
+And, like Godwin, write books for young masters and misses.
+Oh! it is not high rank that can make the heart merry,
+Even monarchs themselves are not free from mishap:
+Tho' the Lords of Westphalia must quake before Jerry,
+Poor Jerry himself has to quake before Nap.

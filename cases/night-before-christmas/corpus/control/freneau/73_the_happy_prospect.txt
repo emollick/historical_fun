@@ -1,0 +1,18 @@
+title: The Happy Prospect
+author: Philip Freneau
+date: c. 1780-1791
+source: https://www.gutenberg.org/ebooks/38529 (The Poems of Philip Freneau, ed. F. L. Pattee, Princeton, 1902-07, vol. 2, poems of 1780-1791)
+form: iambic mixed
+lines: 8
+attribution: certain
+notes: 
+
+Though clad in winter's gloomy dress all Nature's works appear,
+Yet other prospects rise to bless the new returning year:
+The active sail again is seen to greet our western shore,
+Gay plenty smiles with brow serene, and wars distract no more.
+
+And, if a more delightful scene attracts the mortal eye,
+Where clouds nor darkness intervene, behold, aspiring high,
+On Freedom's soil those Fabrics plann'd, on virtue's basis laid,
+That make secure our native land, and prove our toils repaid.

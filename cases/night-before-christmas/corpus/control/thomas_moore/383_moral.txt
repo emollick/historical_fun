@@ -1,0 +1,18 @@
+title: Moral
+author: Thomas Moore
+date: c. 1813-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 8
+attribution: certain
+notes: light satirical verse (Satirical and Humorous Poems, mostly from The Times / Morning Chronicle, 1820s-30s)
+
+'Tis thus,--but alas! by a marvel more true
+Than is told in this rival of Ovid's best stories,--
+Your Whigs, when in office a short year or two,
+By a lusus naturae, all turn into Tories.
+
+And thus, when I hear them "strong measures" advise,
+Ere the seats that they sit on have time to get steady,
+I say, while I listen, with tears in my eyes,
+"Good Lord! only think,--black and curly already!"

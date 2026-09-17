@@ -1,0 +1,1892 @@
+[
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 50,
+  "misattributed_other": 0.26
+ },
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 50,
+  "misattributed_other": 0.16
+ },
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 50,
+  "misattributed_other": 0.22
+ },
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 50,
+  "misattributed_other": 0.2
+ },
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 50,
+  "misattributed_other": 0.22
+ },
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 50,
+  "misattributed_other": 0.22
+ },
+ {
+  "features": "word300",
+  "A": "George Gordon, Lord Byron",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 50,
+  "misattributed_other": 0.08
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.2413793103448276
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.26436781609195403
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.12643678160919541
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Campbell",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.08045977011494253
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "word300",
+  "A": "William Cowper",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "word300",
+  "A": "Philip Freneau",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "word300",
+  "A": "Philip Freneau",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.1839080459770115
+ },
+ {
+  "features": "word300",
+  "A": "Philip Freneau",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "Philip Freneau",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.875,
+  "n_other": 87,
+  "misattributed_other": 0.19540229885057472
+ },
+ {
+  "features": "word300",
+  "A": "Philip Freneau",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.875,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "Philip Freneau",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "word300",
+  "A": "Hannah Flagg Gould",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "Hannah Flagg Gould",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "word300",
+  "A": "Hannah Flagg Gould",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "word300",
+  "A": "Hannah Flagg Gould",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "word300",
+  "A": "Hannah Flagg Gould",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.10344827586206896
+ },
+ {
+  "features": "word300",
+  "A": "Hannah Flagg Gould",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Philip Freneau",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 54,
+  "misattributed_other": 0.18518518518518517
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 54,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Thomas Hood",
+  "n_anap": 3,
+  "misattributed_anap": 0.6666666666666666,
+  "n_other": 54,
+  "misattributed_other": 0.16666666666666666
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Thomas Love Peacock",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 54,
+  "misattributed_other": 0.07407407407407407
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 3,
+  "misattributed_anap": 1.0,
+  "n_other": 54,
+  "misattributed_other": 0.16666666666666666
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Thomas Moore",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 54,
+  "misattributed_other": 0.1111111111111111
+ },
+ {
+  "features": "word300",
+  "A": "Fitz-Greene Halleck",
+  "B": "Samuel Woodworth",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 54,
+  "misattributed_other": 0.018518518518518517
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Hood",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Hood",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Hood",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Hood",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Hood",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Hood",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.034482758620689655
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Love Peacock",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Love Peacock",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Love Peacock",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Love Peacock",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Love Peacock",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.19540229885057472
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Love Peacock",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.2413793103448276
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.19540229885057472
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "word300",
+  "A": "James Gates Percival",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Philip Freneau",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 87,
+  "misattributed_other": 0.25287356321839083
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Thomas Hood",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Thomas Love Peacock",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 87,
+  "misattributed_other": 0.2988505747126437
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Thomas Moore",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "word300",
+  "A": "John Pierpont",
+  "B": "Samuel Woodworth",
+  "n_anap": 3,
+  "misattributed_anap": 0.6666666666666666,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "word300",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "word300",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "word300",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.12643678160919541
+ },
+ {
+  "features": "word300",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.10344827586206896
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Philip Freneau",
+  "n_anap": 4,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Thomas Hood",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.08045977011494253
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Thomas Love Peacock",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 4,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Thomas Moore",
+  "n_anap": 4,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "word300",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Samuel Woodworth",
+  "n_anap": 4,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Philip Freneau",
+  "n_anap": 7,
+  "misattributed_anap": 0.2857142857142857,
+  "n_other": 23,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 7,
+  "misattributed_anap": 0.0,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Thomas Hood",
+  "n_anap": 7,
+  "misattributed_anap": 0.14285714285714285,
+  "n_other": 23,
+  "misattributed_other": 0.08695652173913043
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Thomas Love Peacock",
+  "n_anap": 7,
+  "misattributed_anap": 0.0,
+  "n_other": 23,
+  "misattributed_other": 0.08695652173913043
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 7,
+  "misattributed_anap": 0.14285714285714285,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Thomas Moore",
+  "n_anap": 7,
+  "misattributed_anap": 0.14285714285714285,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "word300",
+  "A": "James Smith and Horace Smith",
+  "B": "Samuel Woodworth",
+  "n_anap": 7,
+  "misattributed_anap": 0.14285714285714285,
+  "n_other": 23,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.1839080459770115
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.28735632183908044
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.28735632183908044
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.26436781609195403
+ },
+ {
+  "features": "word300",
+  "A": "Robert Southey",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.19540229885057472
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Moore",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.2413793103448276
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Moore",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.12643678160919541
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Moore",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Moore",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Moore",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "word300",
+  "A": "Thomas Moore",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.10344827586206896
+ },
+ {
+  "features": "word300",
+  "A": "Samuel Woodworth",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 75,
+  "misattributed_other": 0.26666666666666666
+ },
+ {
+  "features": "word300",
+  "A": "Samuel Woodworth",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 75,
+  "misattributed_other": 0.13333333333333333
+ },
+ {
+  "features": "word300",
+  "A": "Samuel Woodworth",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 75,
+  "misattributed_other": 0.14666666666666667
+ },
+ {
+  "features": "word300",
+  "A": "Samuel Woodworth",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 75,
+  "misattributed_other": 0.14666666666666667
+ },
+ {
+  "features": "word300",
+  "A": "Samuel Woodworth",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 75,
+  "misattributed_other": 0.12
+ },
+ {
+  "features": "word300",
+  "A": "Samuel Woodworth",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 75,
+  "misattributed_other": 0.16
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.875,
+  "n_other": 50,
+  "misattributed_other": 0.2
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 50,
+  "misattributed_other": 0.12
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 50,
+  "misattributed_other": 0.16
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 50,
+  "misattributed_other": 0.26
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 50,
+  "misattributed_other": 0.2
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 50,
+  "misattributed_other": 0.22
+ },
+ {
+  "features": "char4",
+  "A": "George Gordon, Lord Byron",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 50,
+  "misattributed_other": 0.08
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.08045977011494253
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.25287356321839083
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Campbell",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.25287356321839083
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.1839080459770115
+ },
+ {
+  "features": "char4",
+  "A": "William Cowper",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "char4",
+  "A": "Philip Freneau",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.08045977011494253
+ },
+ {
+  "features": "char4",
+  "A": "Philip Freneau",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.875,
+  "n_other": 87,
+  "misattributed_other": 0.10344827586206896
+ },
+ {
+  "features": "char4",
+  "A": "Philip Freneau",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "char4",
+  "A": "Philip Freneau",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.12643678160919541
+ },
+ {
+  "features": "char4",
+  "A": "Philip Freneau",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "Philip Freneau",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "char4",
+  "A": "Hannah Flagg Gould",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "Hannah Flagg Gould",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "Hannah Flagg Gould",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.1839080459770115
+ },
+ {
+  "features": "char4",
+  "A": "Hannah Flagg Gould",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.14942528735632185
+ },
+ {
+  "features": "char4",
+  "A": "Hannah Flagg Gould",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "Hannah Flagg Gould",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.034482758620689655
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Philip Freneau",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 54,
+  "misattributed_other": 0.18518518518518517
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 54,
+  "misattributed_other": 0.05555555555555555
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Thomas Hood",
+  "n_anap": 3,
+  "misattributed_anap": 1.0,
+  "n_other": 54,
+  "misattributed_other": 0.12962962962962962
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Thomas Love Peacock",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 54,
+  "misattributed_other": 0.018518518518518517
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 3,
+  "misattributed_anap": 0.6666666666666666,
+  "n_other": 54,
+  "misattributed_other": 0.12962962962962962
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Thomas Moore",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 54,
+  "misattributed_other": 0.07407407407407407
+ },
+ {
+  "features": "char4",
+  "A": "Fitz-Greene Halleck",
+  "B": "Samuel Woodworth",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 54,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Hood",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Hood",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.12643678160919541
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Hood",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Hood",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Hood",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Hood",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.04597701149425287
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Love Peacock",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.875,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Love Peacock",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Love Peacock",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.2413793103448276
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Love Peacock",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.19540229885057472
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Love Peacock",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Love Peacock",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.12643678160919541
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "James Gates Percival",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.11494252873563218
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Philip Freneau",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.25287356321839083
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Thomas Hood",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.1724137931034483
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Thomas Love Peacock",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.27586206896551724
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Thomas Moore",
+  "n_anap": 3,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "char4",
+  "A": "John Pierpont",
+  "B": "Samuel Woodworth",
+  "n_anap": 3,
+  "misattributed_anap": 0.3333333333333333,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "char4",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.3333333333333333
+ },
+ {
+  "features": "char4",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "char4",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.3218390804597701
+ },
+ {
+  "features": "char4",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.375,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "char4",
+  "A": "Winthrop Mackworth Praed",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.08045977011494253
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Philip Freneau",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.034482758620689655
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 4,
+  "misattributed_anap": 1.0,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Thomas Hood",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.06896551724137931
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Thomas Love Peacock",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.09195402298850575
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.05747126436781609
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Thomas Moore",
+  "n_anap": 4,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.022988505747126436
+ },
+ {
+  "features": "char4",
+  "A": "Lydia Huntley Sigourney",
+  "B": "Samuel Woodworth",
+  "n_anap": 4,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.034482758620689655
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Philip Freneau",
+  "n_anap": 7,
+  "misattributed_anap": 0.42857142857142855,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 7,
+  "misattributed_anap": 0.0,
+  "n_other": 23,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Thomas Hood",
+  "n_anap": 7,
+  "misattributed_anap": 0.2857142857142857,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Thomas Love Peacock",
+  "n_anap": 7,
+  "misattributed_anap": 0.0,
+  "n_other": 23,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 7,
+  "misattributed_anap": 0.42857142857142855,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Thomas Moore",
+  "n_anap": 7,
+  "misattributed_anap": 0.14285714285714285,
+  "n_other": 23,
+  "misattributed_other": 0.043478260869565216
+ },
+ {
+  "features": "char4",
+  "A": "James Smith and Horace Smith",
+  "B": "Samuel Woodworth",
+  "n_anap": 7,
+  "misattributed_anap": 0.0,
+  "n_other": 23,
+  "misattributed_other": 0.0
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.1839080459770115
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.21839080459770116
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.27586206896551724
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 87,
+  "misattributed_other": 0.22988505747126436
+ },
+ {
+  "features": "char4",
+  "A": "Robert Southey",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 87,
+  "misattributed_other": 0.16091954022988506
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Moore",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.3563218390804598
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Moore",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.13793103448275862
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Moore",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.75,
+  "n_other": 87,
+  "misattributed_other": 0.25287356321839083
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Moore",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.5,
+  "n_other": 87,
+  "misattributed_other": 0.20689655172413793
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Moore",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.625,
+  "n_other": 87,
+  "misattributed_other": 0.19540229885057472
+ },
+ {
+  "features": "char4",
+  "A": "Thomas Moore",
+  "B": "Samuel Woodworth",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 87,
+  "misattributed_other": 0.05747126436781609
+ },
+ {
+  "features": "char4",
+  "A": "Samuel Woodworth",
+  "B": "Philip Freneau",
+  "n_anap": 8,
+  "misattributed_anap": 0.0,
+  "n_other": 75,
+  "misattributed_other": 0.17333333333333334
+ },
+ {
+  "features": "char4",
+  "A": "Samuel Woodworth",
+  "B": "Hannah Flagg Gould",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 75,
+  "misattributed_other": 0.12
+ },
+ {
+  "features": "char4",
+  "A": "Samuel Woodworth",
+  "B": "Thomas Hood",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 75,
+  "misattributed_other": 0.12
+ },
+ {
+  "features": "char4",
+  "A": "Samuel Woodworth",
+  "B": "Thomas Love Peacock",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 75,
+  "misattributed_other": 0.13333333333333333
+ },
+ {
+  "features": "char4",
+  "A": "Samuel Woodworth",
+  "B": "Winthrop Mackworth Praed",
+  "n_anap": 8,
+  "misattributed_anap": 0.125,
+  "n_other": 75,
+  "misattributed_other": 0.13333333333333333
+ },
+ {
+  "features": "char4",
+  "A": "Samuel Woodworth",
+  "B": "Thomas Moore",
+  "n_anap": 8,
+  "misattributed_anap": 0.25,
+  "n_other": 75,
+  "misattributed_other": 0.17333333333333334
+ }
+]

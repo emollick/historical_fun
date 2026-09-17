@@ -1,0 +1,37 @@
+title: Occasioned
+author: Philip Freneau
+date: c. 1791-1815
+source: https://www.gutenberg.org/ebooks/39909 (The Poems of Philip Freneau, ed. F. L. Pattee, Princeton, 1902-07, vol. 3, poems of 1791-1815)
+form: iambic pentameter
+lines: 26
+attribution: certain
+notes: 
+
+"'Tis time to tax the News, (Sangrado cries)
+"Subjects were never good that were too wise:
+"In every hamlet, every trifling town,
+"Some sly, designing fellow sits him down,
+"On spacious folio prints his weekly mess,
+"And spreads around the poison of his Press.
+"Hence, to the World the streams of scandal flow,
+"Disclosing secrets, that it should not know,
+"Hence courtiers strut with libels on their backs;--
+"And shall not news be humbled by a tax!
+
+"Once ('tis most true) such papers did some good,
+"When British chiefs arrived in angry mood:
+"By them enkindled, every heart grew warm,
+"By them excited, all were taught to arm,
+"When some, retiring to Britannia's clime,
+"Sat brooding o'er the vast events of time;
+"Doubtful which side to take, or what to say,
+"Or who would win, or who would lose the day.
+
+"Those times are past; (and past experience shews)
+"The well-born sort alone, should read the news,
+"No common herds should get behind the scene
+"To view the movements of the state machine:
+"One paper only, filled with courtly stuff,
+"One paper, for one country is enough,
+"Where incense offered at Pomposo's shrine
+"Shall prove his house-dog and himself divine."

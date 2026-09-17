@@ -1,0 +1,15 @@
+title: Belzebub
+author: Thomas Moore
+date: c. 1813-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: mixed
+lines: 6
+attribution: certain
+notes: light satirical verse (Satirical and Humorous Poems, mostly from The Times / Morning Chronicle, 1820s-30s)
+
+It luckily happens, the Royal Duke
+Resembles so much, in air and look,
+The head of the Belzebub family,
+That few can any difference see;
+Which makes him of course the better suit
+To serve as Lord B.'s substitute.

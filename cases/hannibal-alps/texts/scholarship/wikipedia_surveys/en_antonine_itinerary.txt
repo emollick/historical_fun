@@ -1,0 +1,443 @@
+# Antonine Itinerary - Wikipedia
+# source: wiki/en_antonine_itinerary.html fetched 2026-09-14 (Wikipedia: used only as a finding aid for references, not as evidence)
+
+Imperial Roman register of roads and stations
+
+Iter Britanniarum, displayed as a road map. The plotted routes and stations are approximations. The Antonine Wall and Hadrian's Wall are shown.
+The Antonine Itinerary (Latin: Itinerarium Antonini Augusti, "Itinerary of the Emperor Antoninus") is an itinerarium, a register of the stations and distances along various roads. Seemingly based on official documents, possibly in part from a survey carried out under Augustus, it describes the roads of the Roman Empire.[1] Owing to the scarcity of other extant records of this type, it is a valuable historical record.[2]
+
+Transmission
+[edit]
+
+Manuscripts
+[edit]
+
+RBME R II 18 f.67r The first page of the oldest manuscript preserving the Itinerarium.
+Almost nothing is known of its author or the conditions of the Itinerary's compilation. Numerous manuscripts survive, the eight oldest dating to some point between the 7th to 10th centuries AD, after the onset of the Carolingian Renaissance.[3] Despite the title seeming to ascribe the work to the patronage of the 2nd-century Antoninus Pius, all surviving editions seem to trace to an original towards the end of the reign of Diocletian in the early 4th century.[3] The most likely imperial patron—if the work had one—would have been Caracalla.[1]
+
+It appears to have been relatively well known between the 8th and 10th centuries, but to have fallen into a state of relative neglect from the 11th to 14th centuries, before being rediscovered in the 15th century by humanist scholars including Pietro Donato, Flavio Biondo and Ermolao Barbaro.[4]
+
+Manuscripts of the Antonine Itinerary[5]
+Siglum
+Library
+Shelfmark
+Date (Century)
+Folios
+Notes
+Source
+
+P
+Escorialensis
+RBME R II 18
+7th-9th
+67r-82v
+Finishes half way through Gaul on f.82v.
+[6]
+
+D
+BnF
+Latin 7230A
+10th
+87r-97v
+
+[7]
+
+L
+Vindobonensis
+Cod. 181
+8th
+26r-60v
+Earliest to contain the Iter Britanniarum. The manuscript was corrected/updated by at least three hands, occurring at different places in the stemma codicum.[8]
+[9]
+
+B
+BnF
+Latin 4807
+9th
+18-64
+British section 58-60.
+[10]
+
+β
+Vindobonensis
+Cod. 12825
+15th
+25v-76v
+
+[11]
+
+R
+Florentinus Laurentianus
+Plut.89 sup.67
+10th
+
+[12]
+
+C
+BnF
+Latin 4808
+12th
+
+[13]
+
+Stemma
+[edit]
+
+Stemma codicum of the Antonine Itinerary. 
+There are many manuscripts preserving the textual tradition of the Antonine Itinerary. For their edition of 1848 Parthey and Pinder[14] used 21 and listed a further 17 derivatives, however Cuntz (1929)[15] focused his work on the critical edition to just 7 manuscripts: P, D, L, B, β, R and C. He considered manuscripts P and D to be the most reliable and upon which was based the text of the critical edition. Manuscript L was revised on at least 3 occasions by 3 different hands with each placing differently in the stemma; this was used as the basis for the critical text for sections missing from P and D. Despite being 600 years apart, B and β are considered sister manuscripts. R and C are sisters from the most recent recension used by Cuntz. 
+
+Of Cuntz' critical edition, only manuscripts L, B, β, R and C preserve the Iter Britanniarum.[8]
+ 
+
+Iter Britanniarum
+[edit]
+
+Further information: List of Roman place names in Britain and Roman roads in Britannia
+
+Combined data from the Peutinger Table and Antonine Itinerary recording the Roman roads network. 
+The British section is known as the Iter Britanniarum, and can be described as the 'road map' of Roman Britain. There are 15 such itineraries in the document applying to different geographic areas.
+
+The itinerary measures distances in Roman miles, where 1,000 Roman paces equals one Roman mile. A Roman pace was two steps, left plus right, and was conventionally set at 5 Roman feet (0.296 m), resulting in a Roman mile of 1,479 metres (0.919 miles).
+
+Examples
+[edit]
+
+Below are the original Latin ablative forms for sites along route 13,[14] followed by a translation with a possible (but not necessarily authoritative) name for the modern sites.[16] A transcriber omitted an entry, so that the total number of paces did not equal the sum of paces between locations.
+
+Iter XIII (Itinerary 13)
+
+Latin ablative
+Translated possible site name
+Distance
+
+Romanmiles
+Metric(km)
+Englishmiles
+
+Item ab Isca Calleva mpm[17] cviiii[18] sic
+A route from Isca Silurum to Calleva Atrebatum thus
+109
+161
+100
+
+Burrio mpm viii
+Usk, Monmouthshire
+8
+12
+7.5
+
+Blestio mpm xi
+Monmouth, Monmouthshire
+11
+16
+10
+
+Ariconio mpm xi
+Bury Hill, Weston under Penyard, Herefordshire
+11
+16
+10
+
+Clevo mpm xv
+Gloucester, Gloucestershire
+15
+22
+14
+
+(no entry - mpm xx)
+perhaps Corinium Dobunnorum at modern Cirencester, Gloucestershire
+(20)
+(30)
+(18.5)
+
+Durocornovio mpm xiiii
+perhaps Wanborough, Wiltshire
+14
+21
+13
+
+Spinis mpm xv
+Speen, Berkshire
+15
+22
+14
+
+Calleva mpm xv
+Silchester, Hampshire
+15
+22
+14
+
+Below are the original Latin names for sites along route 14,[19] followed by a translation with a possible (but not necessarily authoritative) name for the modern sites.[16]
+
+Iter XIV (Itinerary 14)
+
+Latin ablative
+Translated possible site name
+Distance
+
+Romanmiles
+Metric(km)
+Englishmiles
+
+Item alio itinere ab Isca Calleva mpm ciii sic
+An alternate route from Isca Silurum to Calleva Atrebatum thus
+103
+152
+95
+
+Venta Silurum mpm viiii
+Caerwent, Monmouthshire
+9
+13
+8
+
+Abone mpm xiiii
+Sea Mills, Gloucestershire
+14
+21
+13
+
+Traiectus mpm viiii
+perhaps Bitton, near Willsbridge, Gloucestershire
+9
+13
+8
+
+Aquis Solis mpm vi
+Bath, Somerset
+6
+9
+5.5
+
+Verlucione mpm xv
+Sandy Lane, Wiltshire
+15
+22
+14
+
+Cunetione mpm xx
+Mildenhall, Wiltshire
+20
+30
+18.5
+
+Spinis mpm xv
+Speen, Berkshire
+15
+22
+14
+
+Calleva mpm xv
+Silchester, Hampshire
+15
+22
+14
+
+A confounding factor
+[edit]
+
+De Situ Britanniae (made available c. 1749, published 1757) was a forgery by Charles Bertram that provided much spurious information on Roman Britain, including "itineraries" that overlapped the legitimate Antonine Itineraries, sometimes with contradicting information. Its authenticity was not seriously challenged until 1845, and it was still cited as an authoritative source until the late nineteenth century. By then, its false data had infected almost every account of ancient British history, and had been adopted into the Ordnance Survey maps,[20] as General Roy and his successors believed it to be a legitimate source of information, on a par with the Antonine Itineraries. While the document is no longer cited since its authenticity became indefensible, its data has not been systematically removed from past and present works.
+
+Some authors, such as Thomas Reynolds, without challenging the authenticity of the forgery, took care to note its discrepancies and challenge the quality of its information.[21][22] This was not always so, even after the forgery was debunked.
+
+Gonzalo Arias (died 2008) proposed that some of the distance anomalies in the British section of the Antonine Itinerary resulted from the loss of Latin grammatical endings, as these had marked junctions heading towards places, as distinct from the places themselves.[23] However, Arias may not have taken account of earlier work indicating that distances were measured between the edges of administrative areas of named settlements as opposed to centre-to-centre, thereby explaining supposed distance shortfalls and providing additional useful data on the approximate sizes of such areas.[24]
+
+Hispania
+[edit]
+
+Main Roman roads in Hispania
+Roads listed on the Itinerary
+There are 34 routes in the itinerary for the provinces of Hispania.
+
+RouteStartEndDistance (Roman miles)
+
+1Mediolanum (Milan)Legio VII Gemina (León)1257
+
+2Arelate (Arles)Castulo898
+
+3Corduba (Córdoba)Castulo99
+
+4CordubaCastulo78
+
+5CastuloMalaca (Málaga)291
+
+6MalacaGades (Cádiz)145
+
+7GadesCorduba294
+
+8Hispalis (Seville)Corduba94
+
+9HispalisItalica6
+
+10HispalisEmerita (Mérida)162
+
+11CordubaEmerita144
+
+12Olisipo (Lisbon)Emerita161
+
+13Salacia (Alcácer)Ossonoba (Faro)16
+
+14OlisipoEmerita145
+
+15OlisipoEmerita220
+
+16OlisipoBracara (Braga)244
+
+17BracaraAsturica (Astorga)247
+
+18BracaraAsturica215
+
+19BracaraAsturica299
+
+20BracaraAsturica207
+
+21Esuris (Castro Marim)Pax Julia267
+
+22EsurisPax Julia76
+
+23Mouth of the Ana (Guadiana)Emerita313
+
+24EmeritaCaesaraugusta (Zaragoza)632
+
+25EmeritaCaesaraugusta348
+
+26AsturicaCaesaraugusta497
+
+27AsturicaCaesaraugusta301
+
+28Turiaso (Tarazona)Caesaraugusta56
+
+29EmeritaCaesaraugusta458
+
+30Laminium (Fuenllana)Toletum (Toledo)95
+
+31LaminiumToletum249
+
+32AsturicaTarraco (Tarragona)482
+
+33CaesaraugustaBenearnum (Lescar)112
+
+34AsturicaBurdigala (Bordeaux)421
+
+See also
+[edit]
+
+Roman units
+
+Laminium
+
+Via XXXI
+
+Caesaraugusta
+
+Peutinger Table
+
+Ptolemy's Geography
+
+Ravenna Cosmography
+
+References
+[edit]
+
+Citations
+[edit]
+
+1 2  One or more of the preceding sentences incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Antonini Itinerarium". Encyclopædia Britannica. Vol. 2 (11th ed.). Cambridge University Press. p. 148.
+
+↑ Rivet, A. L. F.; Jackson, Kenneth (1970). "The British Section of the Antonine Itinerary". Britannia. 1: 34–82. doi:10.2307/525833. JSTOR 525833. S2CID 162217811.
+
+1 2 Öberg (2023), p. 5.
+
+↑ Hiatt (2025).
+
+↑ Cuntz, Otto; Wirth, Gerhard, eds. (2012). Itineraria Antonini Augusti et Burdigalense: accedit tabula geographica. Sammlung wissenschaftlicher Commentare (SWC). Berlin: De Gruyter. ISBN 978-3-598-74273-6.
+
+↑ "Codex Ovetensis; De natura rerum · Real Biblioteca del Monasterio de San Lorenzo de El Escorial · Real Biblioteca Digital". rbme.patrimonionacional.es. Retrieved 2025-06-07.
+
+↑ 1.° Flavii Vegetii Renati rei militaris epitome, libris quatuor; initium primi et nonnulla passim desiderantur. — 2.° Caii Julii Solini polyhistor. — 3.° Antonini itinerarium : initium et finis desiderantur. 901–1000.
+
+1 2 Rivet, A. L. F.; Smith, Colin (1979). The place-names of Roman Britain. Princeton, N.J: Princeton University Press. ISBN 978-0-691-03953-4.
+
+↑ "Itinerarium". search.onb.ac.at. Archived from the original on 8 June 2025. Retrieved 2025-06-08.
+
+↑ 1.° Aethici cosmographia. — 2.° Antonii, Augusti, itinerarium terrestre et maritimum. 901–1000.
+
+↑ "Itinerarium". search.onb.ac.at. Archived from the original on 8 June 2025. Retrieved 2025-06-08.
+
+↑ "Color Chart". tecabml.contentdm.oclc.org. Retrieved 2025-06-08.
+
+↑ 1.° Aethici cosmographia. — 2.° Antonii, Augusti, itinerarium terrestre et maritimum. 901–1000.
+
+1 2 Parthey & Pinder 1848:232–33 in Britannia
+
+↑ Cuntz, Otto (1929). Itineraria Romana Itineraria Antonini et Burdigalense. B. G. Teubner Verlag.
+
+1 2 Codrington 1918, In Roman Roads in Britain
+
+↑ = milia plus minus
+
+↑ Roman numerals
+
+↑ Parthey & Pinder 1848:233 in Britannia
+
+↑ Redmonds, George (2004), Names and History: People, Places and Things, Hambledon & London, pp. 65–68, ISBN 978-1-85285-426-3 A Major Place-Name Ignored
+
+↑ Reynolds 1799 Iter Britanniarum
+
+↑ Dyer 1816 Vulgar Errors, Ancient and Modern
+
+↑ For most Roman roads in Hispania, see Gonzalo Arias. "El Miliario Extravagante". Archived from the original on 2011-07-25. Retrieved 2012-08-27.. Cf. also his Grammar in the Antonine Itinerary: A Challenge to British Archaeologists (available in only a few libraries).
+
+↑ Cf. Rodwell, "Milestones, Civic Territories and the Antonine Itinerary", 6 Britannia 76–101 (1975).
+
+Bibliography
+[edit]
+
+The standard modern edition of the Itinerary is in O. Cuntz, Itineraria Romana, vol. 1: Itineraria Antonini Augusti et Burdigalense (Leipzig 1929), nos, 1 – 75 (terrestrial), 76 – 85 (maritime).
+
+The first edition was by Geoffroy Troy: Torinus, Godofredus, ed. (1512), Itinerarivm prouinciarum omniu[m] Antonini Augusti : cum fragmento eiusdem necnon indice haud quaq[ue] asperna[n]do, Paris: Henricus Stephanus, OCLC 807069197
+
+Bernd Löhberg, Das 'Itinerarium provinciarum Antonini Augusti' (2006)
+
+Codrington, Thomas (1918), Roman Roads in Britain (3rd ed.), London: Society for Promoting Christian Knowledge (published 1919)
+
+Dyer, Gilbert (1816), Vulgar Errors, Ancient and Modern, Gilbert Dyer
+
+Hiatt, Alfred (2025). "The medieval and early humanist reception of the Antonine Itinerary". Journal of the Warburg and Courtauld Institutes. 88: 1–32.
+
+Öberg, Tomas (2023), The Accuracy of Road Distances in the Antonine Itinerary, Lund: Lund University.
+
+Parthey, Gustav; Pinder, Moritz, eds. (1848), Itinerarium Antonini Augusti et Hierosolymitanum, Berlin
+
+Reynolds, Thomas (1799), Iter Britanniarum, Cambridge
+
+External links
+[edit]
+
+Latin Wikisource has original text related to this article:
+Antonine Itinerary
+
+The Antonine Itinerary: Iter Britanniarum - The British Section
+
+Analysis of the Itinerary
+
+Itinerarium Antonini Augusti (the Balkanic roads) at SOLTDM.COM
+
+Roman Roads in Britain
+
+Complete map of the Antonine Itinerary
+
+Omnes Viae - data from the Peutinger Table and Antonine Itinerary with digitial path finding.
+
+Vici.org - CC ancient map wiki that shows Roman roads from the Antonine Itinerary and Peutinger table.
+
+Digital Atlas of the Roman Empire (DARE) - University of Gothenburg GIS project that shows Roman roads and other data.
+
+Authority control databases 
+
+InternationalGND
+
+OtherHistorical Dictionary of Switzerland
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Antonine_Itinerary&oldid=1363687215"

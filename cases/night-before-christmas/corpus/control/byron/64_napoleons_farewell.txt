@@ -1,0 +1,35 @@
+title: Napoleon's Farewell
+author: George Gordon, Lord Byron
+date: c. 1814-1816
+source: https://www.gutenberg.org/ebooks/21811 (The Works of Lord Byron, Poetry vol. III, ed. E. H. Coleridge, London: John Murray, 1900)
+form: anapestic tetrameter
+lines: 24
+attribution: certain
+notes: occasional piece (Poems 1814-1816)
+
+Farewell to the Land, where the gloom of my Glory
+Arose and o'ershadowed the earth with her name--
+She abandons me now--but the page of her story,
+The brightest or blackest, is filled with my fame.
+I have warred with a World which vanquished me only
+When the meteor of conquest allured me too far;
+I have coped with the nations which dread me thus lonely,
+The last single Captive to millions in war.
+
+Farewell to thee, France! when thy diadem crowned me,
+I made thee the gem and the wonder of earth,--
+But thy weakness decrees I should leave as I found thee,
+Decayed in thy glory, and sunk in thy worth.
+Oh! for the veteran hearts that were wasted
+In strife with the storm, when their battles were won--
+Then the Eagle, whose gaze in that moment was blasted
+Had still soared with eyes fixed on Victory's sun!
+
+Farewell to thee, France!--but when Liberty rallies
+Once more in thy regions, remember me then,--
+The Violet still grows in the depth of thy valleys;
+Though withered, thy tear will unfold it again--
+Yet, yet, I may baffle the hosts that surround us,
+And yet may thy heart leap awake to my voice--
+There are links which must break in the chain that has bound us,
+Then turn thee and call on the Chief of thy choice!

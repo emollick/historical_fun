@@ -1,0 +1,24 @@
+title: Gazel
+author: Thomas Moore
+date: 1813
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 14
+attribution: certain
+notes: light satirical verse (Intercepted Letters; or, the Twopenny Post-Bag, 1813)
+
+Rememberest thou the hour we past,--
+That hour the happiest and the last?
+Oh! not so sweet the Siha thorn
+To summer bees at break of morn,
+Not half so sweet, thro' dale and dell,
+To Camels' ears the tinkling bell,
+As is the soothing memory
+Of that one precious hour to me.
+
+How can we live, so far apart?
+Oh! why not rather, heart to heart,
+United live and die--
+Like those sweet birds, that fly together,
+With feather always touching feather,
+Linkt by a hook and eye!

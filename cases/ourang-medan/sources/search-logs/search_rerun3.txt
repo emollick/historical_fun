@@ -1,0 +1,38 @@
+QUERY: "ik sterf" | total 17557 | showing years 1948-1948 (capped at 3000)
+  1948/07/07 | Bredasche courant | p | MMSAB03:000069508:mpeg21:a0032 | Hartewens vervuld
+  1948/07/05 | Provinciale Drentsche en Asser courant | p | MMDA03:000128295:mpeg21:a0032 | Sigaretten van de journalist
+  1948/07/05 | Provinciale Drentsche en Asser courant | p | MMDA03:000128310:mpeg21:a0033 | Sigaretten van de journalist
+  1948/01/31 | Nieuwe Haarlemsche courant | p4 | MMNHA03:179234026:mpeg21:a00080 | SPINNETJE SPIJKER en HOLLETJE HAAIEWIET
+  1948/08/07 | Limburgsch dagblad | p3 | ddd:011026894:mpeg21:a0121 | Leerling overwon leermeester
+  1948/08/07 | Limburgsch dagblad | p5 | ddd:010416085:mpeg21:a0120 | Leerling overwon leermeester
+  1948/01/14 | De Volkskrant | p | ABCDDD:010880640:mpeg21:a0036 | Gandhi vast om Kasjmir
+  1948/10/06 | Algemeen Dagblad | p2 | MMSARO03:259005082:mpeg21:a00043 | Europa's schoonste is in Nederland
+  1948/11/26 | Nieuwe Winterswijksche courant | p2 | MMECAL02:180035139:mpeg21:a00010 | ROB DE AVONTURIER
+  1948/02/26 | De Volkskrant | p | ABCDDD:010880674:mpeg21:a0045 | Aan den onbeken den lezer
+  1948/07/30 | Gereformeerd gezinsblad / hoofdred. P. Jongeling | p199 | ddd:010553891:mpeg21:a0009 | VOOR DE KLEINTJES Die bange kippen
+  1948/05/26 | Het vrĳe volk : democratisch-socialistisch dagblad | p3 | ddd:010949542:mpeg21:a0071 | Paulus
+  1948/01/30 | De Heerenveensche koerier : onafhankelĳk dagblad voor Midden | p1 | ddd:010536508:mpeg21:a0133 | HOTZE SJONGER
+  1948/11/13 | Nieuwsblad van het Zuiden | p3 | MMKB19:000606037:mpeg21:a00071 | De Vergissing
+  1948/12/07 | De Volkskrant | p | ABCDDD:010845054:mpeg21:a0079 | Babhelende prima-donna's „Geef me liever een glas bier dan die thee”
+  1948/02/03 | De locomotief : Samarangsch handels- en advertentie-blad | p3 | ddd:010862872:mpeg21:a0050 | Een Mysterie van de Zee Krampachtige Houding der Doden De Raadselachtige Ondergang van de 
+  1948/06/11 | Nieuw Israelietisch weekblad | p3 | ddd:010872046:mpeg21:a0046 | België
+  1948/07/02 | Nieuwsblad van Friesland : Hepkema's courant | p3 | ddd:010762044:mpeg21:a0089 | FEUILLETON HET Meisje UIT Malta Naar het Engels van Fergus W. Hume.
+  1948/03/22 | Nieuwe Haarlemsche courant | p2 | MMNHA03:179234069:mpeg21:a00046 | HAAIEN en MENSEN
+  1948/01/13 | Algemeen Dagblad | p2 | MMSARO03:259004010:mpeg21:a00039 | LEONIDAS en de MOORDENAAR
+  -> 20 in range
+QUERY: elsevier AND medan AND zee | total 32 | showing years 1947-1949
+  1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN.
+  -> 1 in range
+QUERY: elseviers AND weekblad AND mysterie | total 46 | showing years 1948-1948
+  1948/02/21 | Het Parool | p | ABCDDD:010830863:mpeg21:a0146 | Ook dit Een verloren leven?
+  1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN.
+  1948/01/16 | Amigoe di Curacao | p | KBDDD02:000210202:mpeg21:a0019 | Verkenriingstocht door het Koninkrijk Sint Maarten door de natuur gezegend, doch de vonk v
+  -> 3 in range
+QUERY: elsevier AND weekblad AND schip AND date within "1948-01-01 1948-02-29" | total 3 | showing years 1948-1948
+  1948/01/12 | Emmer courant | p1 | MMGEM01:163332005:mpeg21:a00009 | BINNENLAND
+  1948/01/24 | Leekster courant | p1 | MMRHCG04:235133008:mpeg21:a00006 | MYSTERIE, DAT DE ZEE NIMMER ZAL PRIJSGEVEN.
+  1948/01/28 | Emmer courant | p1 | MMGEM01:163332012:mpeg21:a00006 | BINNENLAND Rijksconferentie Nederland—Suriname-Curaçao geopend
+  -> 3 in range
+QUERY: sensatieverhaal AND schip AND date within "1948-01-01 1948-04-30" | total 1 | showing years 1948-1948
+  1948/03/15 | De Nederlander | p1 | MMKB19:000082063:mpeg21:a00006 | Niet op de Volendam, niet thuis maar waar is «Truus» dan wel?
+  -> 1 in range

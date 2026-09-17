@@ -1,0 +1,19 @@
+title: Yes, Yes, When the Bloom
+author: Thomas Moore
+date: c. 1800-1840
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: anapestic tetrameter
+lines: 10
+attribution: certain
+notes: song (Ballads, Songs, Miscellaneous Poems)
+
+Yes, yes, when, the bloom of Love's boyhood is o'er,
+He'll turn into friendship that feels no decay;
+And, tho' Time may take from him the wings he once wore,
+The charms that remain will be bright as before,
+And he'll lose but his young trick of flying away.
+Then let it console thee, if Love should not stay,
+That Friendship our last happy moments will crown:
+Like the shadows of morning, Love lessens away,
+While Friendship, like those at the closing of day,
+Will linger and lengthen as life's sun goes down.

@@ -1,0 +1,3 @@
+# Static site: the built pages live in site/ and need no build step.
+[build]
+  publish = "site"

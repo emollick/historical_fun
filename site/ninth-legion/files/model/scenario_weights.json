@@ -1,0 +1,108 @@
+{
+ "priors": {
+  "H1": 0.3,
+  "H2": 0.3,
+  "H3": 0.25,
+  "H4": 0.15
+ },
+ "evidence": {
+  "E1 officers: securely dated service ends c. 123-128; none secure after c. 130": {
+   "H1": 1.0,
+   "H2": 0.35,
+   "H3": 0.08,
+   "H4": 0.3,
+   "note": "silence of 6 years (H2) vs 30+ years (H3) at the attested rate of c. 1 senatorial officer per 3 years, softened for randomness; Numisius identity given 35% weight favours H3 slightly"
+  },
+  "E2 no base and no trace outside Britain after c. 122 (Nijmegen small units, abandoned c. 125/130; Rhine reduced to two legions; no eastern inscription; absent from expeditio Iudaica records)": {
+   "H1": 1.0,
+   "H2": 0.2,
+   "H3": 0.1,
+   "H4": 0.5,
+   "note": "a legion that left Britain needed a fortress for 122-133 (H2) or 122-161 (H3); none is available or attested"
+  },
+  "E3 VI Victrix arrives c. 122-124 as the only new legion; 3,000 legionaries plus a Spanish levy in 123 (expeditio Britannica)": {
+   "H1": 1.0,
+   "H2": 0.5,
+   "H3": 0.5,
+   "H4": 0.6,
+   "note": "a one-for-one replacement plus emergency reinforcement fits losses better than a routine swap"
+  },
+  "E4 heavy losses in Britain under Hadrian attested (Fronto; SHA Hadr. 5.2; RIB 3364; hoard horizon 118-123; halted Wall building c. 123)": {
+   "H1": 1.0,
+   "H2": 0.7,
+   "H3": 0.7,
+   "H4": 0.7,
+   "note": "a British war is attested whatever became of the Ninth; it merely supplies the occasion for H1"
+  },
+  "E5 Dio 71.2 records a legion annihilated at Elegeia in 161": {
+   "H1": 1.0,
+   "H2": 1.0,
+   "H3": 2.0,
+   "H4": 1.0,
+   "note": "the record exists under every hypothesis; it mildly favours H3 because some legion must fit it, and only IX and XXII vanish"
+  },
+  "E6 no centurial stone of the Ninth on Hadrian's Wall": {
+   "H1": 0.5,
+   "H2": 1.0,
+   "H3": 1.0,
+   "H4": 1.0,
+   "note": "expected if the legion left before 122; under H1 the Ninth would have worked one season at most, and the third legion of the earliest sector is unnamed anyway"
+  }
+ },
+ "posterior": {
+  "H1": 0.892,
+  "H2": 0.044,
+  "H3": 0.008,
+  "H4": 0.056
+ },
+ "sensitivity": {
+  "without E1": {
+   "H1": 0.682,
+   "H2": 0.095,
+   "H3": 0.08,
+   "H4": 0.143
+  },
+  "without E2": {
+   "H1": 0.683,
+   "H2": 0.167,
+   "H3": 0.064,
+   "H4": 0.086
+  },
+  "without E3": {
+   "H1": 0.819,
+   "H2": 0.08,
+   "H3": 0.015,
+   "H4": 0.086
+  },
+  "without E4": {
+   "H1": 0.852,
+   "H2": 0.06,
+   "H3": 0.011,
+   "H4": 0.077
+  },
+  "without E5": {
+   "H1": 0.896,
+   "H2": 0.044,
+   "H3": 0.004,
+   "H4": 0.056
+  },
+  "without E6": {
+   "H1": 0.943,
+   "H2": 0.023,
+   "H3": 0.004,
+   "H4": 0.03
+  },
+  "sceptic: H2-H4 likelihoods doubled": {
+   "H1": 0.441,
+   "H2": 0.247,
+   "H3": 0.047,
+   "H4": 0.265
+  },
+  "sceptic prior (H1 15%) and doubled": {
+   "H1": 0.263,
+   "H2": 0.343,
+   "H3": 0.078,
+   "H4": 0.315
+  }
+ }
+}

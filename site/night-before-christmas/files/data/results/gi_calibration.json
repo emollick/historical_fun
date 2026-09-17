@@ -1,0 +1,5446 @@
+{
+ "mfw200": [
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#1"
+   ],
+   "form": "other",
+   "score": 0.31333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#2"
+   ],
+   "form": "other",
+   "score": 0.58,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#3"
+   ],
+   "form": "other",
+   "score": 0.32666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#4"
+   ],
+   "form": "other",
+   "score": 0.14666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#5"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#6"
+   ],
+   "form": "other",
+   "score": 0.8466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#7"
+   ],
+   "form": "other",
+   "score": 0.7066666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#8"
+   ],
+   "form": "other",
+   "score": 0.66,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#9"
+   ],
+   "form": "other",
+   "score": 0.16,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#10"
+   ],
+   "form": "other",
+   "score": 0.14666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#11"
+   ],
+   "form": "other",
+   "score": 0.4866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#12"
+   ],
+   "form": "other",
+   "score": 0.36,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#13"
+   ],
+   "form": "other",
+   "score": 0.38,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#14"
+   ],
+   "form": "other",
+   "score": 0.76,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#15"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#16"
+   ],
+   "form": "other",
+   "score": 0.3933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_to_my_children_with_my_portrait#1"
+   ],
+   "form": "other",
+   "score": 0.7466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "03_to_the_fashionable_part_of_my_young_countrywomen#1"
+   ],
+   "form": "other",
+   "score": 0.9,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_to_young_ladies_who_attended_philosophical_lectures#1"
+   ],
+   "form": "other",
+   "score": 0.8466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "13_apology_for_not_accepting_an_invitation_to_a_ball#1"
+   ],
+   "form": "other",
+   "score": 0.7733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_lines_accompanying_some_balls_sent_to_a_fragment_fair#1"
+   ],
+   "form": "other",
+   "score": 0.6866666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#1"
+   ],
+   "form": "other",
+   "score": 0.7133333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#2"
+   ],
+   "form": "other",
+   "score": 0.32666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "19_from_a_husband_to_his_wife#1"
+   ],
+   "form": "other",
+   "score": 0.8,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#1"
+   ],
+   "form": "other",
+   "score": 0.7733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#2"
+   ],
+   "form": "other",
+   "score": 0.3466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#3"
+   ],
+   "form": "other",
+   "score": 0.6733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#1"
+   ],
+   "form": "other",
+   "score": 0.4533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#2"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#1"
+   ],
+   "form": "other",
+   "score": 0.54,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#2"
+   ],
+   "form": "other",
+   "score": 0.74,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#1"
+   ],
+   "form": "anapestic",
+   "score": 0.6266666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#2"
+   ],
+   "form": "anapestic",
+   "score": 0.29333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "29_lines_for_valentines_day#1"
+   ],
+   "form": "other",
+   "score": 0.8866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.5866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.7866666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.6533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.6066666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.5266666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.49333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "33_farewell#1"
+   ],
+   "form": "other",
+   "score": 0.78,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "34_lines_on_the_sisters_of_charity#1"
+   ],
+   "form": "other",
+   "score": 0.8133333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "35_to_my_daughter_on_her_marriage#1"
+   ],
+   "form": "other",
+   "score": 0.7533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#1"
+   ],
+   "form": "other",
+   "score": 0.7266666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#2"
+   ],
+   "form": "other",
+   "score": 0.7133333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#1"
+   ],
+   "form": "other",
+   "score": 0.2733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#2"
+   ],
+   "form": "other",
+   "score": 0.92,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#3"
+   ],
+   "form": "other",
+   "score": 0.9333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "04_a_valentine_1843#1"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_irish_valentine#1"
+   ],
+   "form": "anapestic",
+   "score": 0.29333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "07_west_point#1"
+   ],
+   "form": "other",
+   "score": 0.54,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_jeannettes_new_years_poem#1"
+   ],
+   "form": "other",
+   "score": 0.72,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "12_to_eliza_in_england#1"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#1"
+   ],
+   "form": "other",
+   "score": 0.37333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#2"
+   ],
+   "form": "other",
+   "score": 0.1,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#3"
+   ],
+   "form": "other",
+   "score": 0.12666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#4"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#5"
+   ],
+   "form": "other",
+   "score": 0.06666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#6"
+   ],
+   "form": "other",
+   "score": 0.22666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#7"
+   ],
+   "form": "other",
+   "score": 0.6133333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#8"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#9"
+   ],
+   "form": "other",
+   "score": 0.4533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#10"
+   ],
+   "form": "other",
+   "score": 0.44,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#11"
+   ],
+   "form": "other",
+   "score": 0.74,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#12"
+   ],
+   "form": "other",
+   "score": 0.2866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#13"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#14"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#15"
+   ],
+   "form": "other",
+   "score": 0.18,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#16"
+   ],
+   "form": "other",
+   "score": 0.19333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#17"
+   ],
+   "form": "other",
+   "score": 0.02666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#18"
+   ],
+   "form": "other",
+   "score": 0.6466666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#19"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#20"
+   ],
+   "form": "other",
+   "score": 0.34,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#21"
+   ],
+   "form": "other",
+   "score": 0.22666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#22"
+   ],
+   "form": "other",
+   "score": 0.76,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#23"
+   ],
+   "form": "other",
+   "score": 0.44,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#24"
+   ],
+   "form": "other",
+   "score": 0.4,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#25"
+   ],
+   "form": "other",
+   "score": 0.5266666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#26"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#27"
+   ],
+   "form": "other",
+   "score": 0.4666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#28"
+   ],
+   "form": "other",
+   "score": 0.49333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#29"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#30"
+   ],
+   "form": "other",
+   "score": 0.18,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#31"
+   ],
+   "form": "other",
+   "score": 0.20666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#32"
+   ],
+   "form": "other",
+   "score": 0.64,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_the_beach_at_newport#1"
+   ],
+   "form": "other",
+   "score": 0.2733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_lines_written_after_a_snow_storm",
+    "07_on_seeing_my_name_written_in_the_sand"
+   ],
+   "form": "other",
+   "score": 0.52,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "08_on_cowper_the_poet",
+    "09_to_petrosa"
+   ],
+   "form": "other",
+   "score": 0.7733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_a_song",
+    "12_old_dobbin"
+   ],
+   "form": "other",
+   "score": 0.74,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "21_lines_accompanying_a_bunch_of_flowers",
+    "25_to_a_young_lady_on_her_birth_day"
+   ],
+   "form": "other",
+   "score": 0.8866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "26_on_receiving_a_caricature_cast_of_paganini",
+    "32_lines_sent_to_a_young_lady_with_a_pair_of_gloves"
+   ],
+   "form": "other",
+   "score": 0.74,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_for_catharines_album",
+    "08_for_carolines_album"
+   ],
+   "form": "other",
+   "score": 0.6533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "10_theresas_flower",
+    "13_margaret"
+   ],
+   "form": "other",
+   "score": 0.98,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "14_for_a_basket_of_flowers",
+    "17_valentine_for_fanny_french"
+   ],
+   "form": "other",
+   "score": 0.6533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_from_saint_nicholas",
+    "09_for_a_kiss"
+   ],
+   "form": "anapestic",
+   "score": 0.32,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "007_invitation_to_the_country#1"
+   ],
+   "form": "anapestic",
+   "score": 0.12,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "020_to_a_gentleman_on_his_leaving_pakepsy#1"
+   ],
+   "form": "anapestic",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "022_letter_to_my_brother_beekman#1"
+   ],
+   "form": "anapestic",
+   "score": 0.29333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "023_the_vine_and_oak#1"
+   ],
+   "form": "other",
+   "score": 0.19333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "028_new_years_address_of_richard_and_george_1787#1"
+   ],
+   "form": "other",
+   "score": 0.6933333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "065_carriers_address_political_barometer_1803#1"
+   ],
+   "form": "anapestic",
+   "score": 0.7333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#1"
+   ],
+   "form": "anapestic",
+   "score": 0.11333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#2"
+   ],
+   "form": "anapestic",
+   "score": 0.23333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#1"
+   ],
+   "form": "anapestic",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#2"
+   ],
+   "form": "anapestic",
+   "score": 0.18,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "080_adventures_of_an_american_eagle#1"
+   ],
+   "form": "other",
+   "score": 0.25333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "086_the_crane_and_fox#1"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "001_on_my_little_catherine_sleeping",
+    "002_job"
+   ],
+   "form": "other",
+   "score": 0.29333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "003_memory_of_henry_welles_livingston",
+    "004_memory_of_sarah_livingston",
+    "005_easter"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "006_elegy_on_montgomery_tappen",
+    "009_habakkuk"
+   ],
+   "form": "other",
+   "score": 0.24666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "010_isaiah",
+    "011_lo_from_the_east"
+   ],
+   "form": "other",
+   "score": 0.14,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "012_queen_of_love_rebus",
+    "015_timmy"
+   ],
+   "form": "other",
+   "score": 0.14666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "016_to_my_little_niece_sally_livingston",
+    "017_frontier_settlement_invitation"
+   ],
+   "form": "other",
+   "score": 0.34,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "018_a_valentine",
+    "024_to_spadille"
+   ],
+   "form": "other",
+   "score": 0.3933333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "027_on_my_sister_joannas_33rd_year",
+    "030_on_the_late_mr_gilbert_cortlandt",
+    "031_to_my_little_niece_anne_duyckinck"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "036_the_fly",
+    "040_the_writing_of_hezekiah"
+   ],
+   "form": "other",
+   "score": 0.16666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "043_a_procession",
+    "044_to_miss_sweet_as_opning_roses"
+   ],
+   "form": "other",
+   "score": 0.16,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "047_frontier_song",
+    "048_song_tune_german_spa"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "051_to_arabella",
+    "053_apostrophe_of_rispah",
+    "054_past_is_the_hour"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "055_acrostic_on_maria_martin",
+    "060_acrostic_on_eliza_hughes",
+    "071_on_catharine_livingston_breese",
+    "073_dialogue_between_madame_j_l_and_her_children"
+   ],
+   "form": "other",
+   "score": 0.2,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "075_on_catharine_breese_livingston_tombstone",
+    "084_the_frog_king"
+   ],
+   "form": "other",
+   "score": 0.31333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "085_original_poems_fragment",
+    "087_a_fable_bats"
+   ],
+   "form": "other",
+   "score": 0.3,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "088_scots_wha_hae",
+    "089_midas"
+   ],
+   "form": "other",
+   "score": 0.24,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "090_god_is_love",
+    "091_without_distinction"
+   ],
+   "form": "other",
+   "score": 0.2,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "008_nine_sisters_rebus",
+    "013_deity_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "014_apollo_rebus",
+    "019_the_dance_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.07333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "021_hero_rebus",
+    "025_war_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.24666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "026_sages_rebus",
+    "032_letter_from_a_tenant_of_mrs_van_kleeck"
+   ],
+   "form": "anapestic",
+   "score": 0.08666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "033_the_acknowledgment",
+    "034_marriage_tax"
+   ],
+   "form": "anapestic",
+   "score": 0.3,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "035_parody_on_the_death_of_general_wolfe",
+    "037_careless_philosophers_soliloquy",
+    "038_belle"
+   ],
+   "form": "anapestic",
+   "score": 0.14666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "042_to_miss_on_the_commencement_of_1789",
+    "045_epithalamium"
+   ],
+   "form": "anapestic",
+   "score": 0.3,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "046_monarchs_rebus",
+    "052_alcmena_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "007_invitation_to_the_country#1"
+   ],
+   "form": "anapestic",
+   "score": 0.6133333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "020_to_a_gentleman_on_his_leaving_pakepsy#1"
+   ],
+   "form": "anapestic",
+   "score": 0.32666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "022_letter_to_my_brother_beekman#1"
+   ],
+   "form": "anapestic",
+   "score": 0.04,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "023_the_vine_and_oak#1"
+   ],
+   "form": "other",
+   "score": 0.20666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "028_new_years_address_of_richard_and_george_1787#1"
+   ],
+   "form": "other",
+   "score": 0.34,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "065_carriers_address_political_barometer_1803#1"
+   ],
+   "form": "anapestic",
+   "score": 0.2,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#1"
+   ],
+   "form": "anapestic",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#2"
+   ],
+   "form": "anapestic",
+   "score": 0.04,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#1"
+   ],
+   "form": "anapestic",
+   "score": 0.32,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#2"
+   ],
+   "form": "anapestic",
+   "score": 0.31333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "080_adventures_of_an_american_eagle#1"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "086_the_crane_and_fox#1"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "001_on_my_little_catherine_sleeping",
+    "002_job"
+   ],
+   "form": "other",
+   "score": 0.43333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "003_memory_of_henry_welles_livingston",
+    "004_memory_of_sarah_livingston",
+    "005_easter"
+   ],
+   "form": "other",
+   "score": 0.22666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "006_elegy_on_montgomery_tappen",
+    "009_habakkuk"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "010_isaiah",
+    "011_lo_from_the_east"
+   ],
+   "form": "other",
+   "score": 0.4666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "012_queen_of_love_rebus",
+    "015_timmy"
+   ],
+   "form": "other",
+   "score": 0.6133333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "016_to_my_little_niece_sally_livingston",
+    "017_frontier_settlement_invitation"
+   ],
+   "form": "other",
+   "score": 0.5466666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "018_a_valentine",
+    "024_to_spadille"
+   ],
+   "form": "other",
+   "score": 0.23333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "027_on_my_sister_joannas_33rd_year",
+    "030_on_the_late_mr_gilbert_cortlandt",
+    "031_to_my_little_niece_anne_duyckinck"
+   ],
+   "form": "other",
+   "score": 0.5066666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "036_the_fly",
+    "040_the_writing_of_hezekiah"
+   ],
+   "form": "other",
+   "score": 0.41333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "043_a_procession",
+    "044_to_miss_sweet_as_opning_roses"
+   ],
+   "form": "other",
+   "score": 0.23333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "047_frontier_song",
+    "048_song_tune_german_spa"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "051_to_arabella",
+    "053_apostrophe_of_rispah",
+    "054_past_is_the_hour"
+   ],
+   "form": "other",
+   "score": 0.20666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "055_acrostic_on_maria_martin",
+    "060_acrostic_on_eliza_hughes",
+    "071_on_catharine_livingston_breese",
+    "073_dialogue_between_madame_j_l_and_her_children"
+   ],
+   "form": "other",
+   "score": 0.36666666666666664,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "075_on_catharine_breese_livingston_tombstone",
+    "084_the_frog_king"
+   ],
+   "form": "other",
+   "score": 0.32666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "085_original_poems_fragment",
+    "087_a_fable_bats"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "088_scots_wha_hae",
+    "089_midas"
+   ],
+   "form": "other",
+   "score": 0.18666666666666668,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "090_god_is_love",
+    "091_without_distinction"
+   ],
+   "form": "other",
+   "score": 0.24666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "008_nine_sisters_rebus",
+    "013_deity_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.9933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "014_apollo_rebus",
+    "019_the_dance_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.94,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "021_hero_rebus",
+    "025_war_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.58,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "026_sages_rebus",
+    "032_letter_from_a_tenant_of_mrs_van_kleeck"
+   ],
+   "form": "anapestic",
+   "score": 0.6733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "033_the_acknowledgment",
+    "034_marriage_tax"
+   ],
+   "form": "anapestic",
+   "score": 0.14666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "035_parody_on_the_death_of_general_wolfe",
+    "037_careless_philosophers_soliloquy",
+    "038_belle"
+   ],
+   "form": "anapestic",
+   "score": 0.44666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "042_to_miss_on_the_commencement_of_1789",
+    "045_epithalamium"
+   ],
+   "form": "anapestic",
+   "score": 0.24,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "046_monarchs_rebus",
+    "052_alcmena_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.6266666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#1"
+   ],
+   "form": "other",
+   "score": 0.62,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#2"
+   ],
+   "form": "other",
+   "score": 0.30666666666666664,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#3"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#4"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#5"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#6"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#7"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#8"
+   ],
+   "form": "other",
+   "score": 0.11333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#9"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#10"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#11"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#12"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#13"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#14"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#15"
+   ],
+   "form": "other",
+   "score": 0.16,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#16"
+   ],
+   "form": "other",
+   "score": 0.16,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_to_my_children_with_my_portrait#1"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "03_to_the_fashionable_part_of_my_young_countrywomen#1"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_to_young_ladies_who_attended_philosophical_lectures#1"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "13_apology_for_not_accepting_an_invitation_to_a_ball#1"
+   ],
+   "form": "other",
+   "score": 0.16666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_lines_accompanying_some_balls_sent_to_a_fragment_fair#1"
+   ],
+   "form": "other",
+   "score": 0.22,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#1"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#2"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "19_from_a_husband_to_his_wife#1"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#1"
+   ],
+   "form": "other",
+   "score": 0.1,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#2"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#3"
+   ],
+   "form": "other",
+   "score": 0.32,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#1"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#2"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#1"
+   ],
+   "form": "other",
+   "score": 0.02,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#2"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#1"
+   ],
+   "form": "anapestic",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#2"
+   ],
+   "form": "anapestic",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "29_lines_for_valentines_day#1"
+   ],
+   "form": "other",
+   "score": 0.08666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.10666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.3933333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.38666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.3,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "33_farewell#1"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "34_lines_on_the_sisters_of_charity#1"
+   ],
+   "form": "other",
+   "score": 0.1,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "35_to_my_daughter_on_her_marriage#1"
+   ],
+   "form": "other",
+   "score": 0.13333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#1"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#2"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#1"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#2"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#3"
+   ],
+   "form": "other",
+   "score": 0.02,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "04_a_valentine_1843#1"
+   ],
+   "form": "other",
+   "score": 0.20666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_irish_valentine#1"
+   ],
+   "form": "anapestic",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "07_west_point#1"
+   ],
+   "form": "other",
+   "score": 0.14,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_jeannettes_new_years_poem#1"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "12_to_eliza_in_england#1"
+   ],
+   "form": "other",
+   "score": 0.41333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#1"
+   ],
+   "form": "other",
+   "score": 0.07333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#2"
+   ],
+   "form": "other",
+   "score": 0.19333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#3"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#4"
+   ],
+   "form": "other",
+   "score": 0.09333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#5"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#6"
+   ],
+   "form": "other",
+   "score": 0.07333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#7"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#8"
+   ],
+   "form": "other",
+   "score": 0.10666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#9"
+   ],
+   "form": "other",
+   "score": 0.09333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#10"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#11"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#12"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#13"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#14"
+   ],
+   "form": "other",
+   "score": 0.12,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#15"
+   ],
+   "form": "other",
+   "score": 0.12666666666666668,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#16"
+   ],
+   "form": "other",
+   "score": 0.22666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#17"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#18"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#19"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#20"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#21"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#22"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#23"
+   ],
+   "form": "other",
+   "score": 0.02,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#24"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#25"
+   ],
+   "form": "other",
+   "score": 0.13333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#26"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#27"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#28"
+   ],
+   "form": "other",
+   "score": 0.16,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#29"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#30"
+   ],
+   "form": "other",
+   "score": 0.06666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#31"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#32"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_the_beach_at_newport#1"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_lines_written_after_a_snow_storm",
+    "07_on_seeing_my_name_written_in_the_sand"
+   ],
+   "form": "other",
+   "score": 0.21333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "08_on_cowper_the_poet",
+    "09_to_petrosa"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_a_song",
+    "12_old_dobbin"
+   ],
+   "form": "other",
+   "score": 0.07333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "21_lines_accompanying_a_bunch_of_flowers",
+    "25_to_a_young_lady_on_her_birth_day"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "26_on_receiving_a_caricature_cast_of_paganini",
+    "32_lines_sent_to_a_young_lady_with_a_pair_of_gloves"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_for_catharines_album",
+    "08_for_carolines_album"
+   ],
+   "form": "other",
+   "score": 0.06666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "10_theresas_flower",
+    "13_margaret"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "14_for_a_basket_of_flowers",
+    "17_valentine_for_fanny_french"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_from_saint_nicholas",
+    "09_for_a_kiss"
+   ],
+   "form": "anapestic",
+   "score": 0.04666666666666667,
+   "true": false
+  }
+ ],
+ "char4": [
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#1"
+   ],
+   "form": "other",
+   "score": 0.74,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#2"
+   ],
+   "form": "other",
+   "score": 0.7533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#3"
+   ],
+   "form": "other",
+   "score": 0.5866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#4"
+   ],
+   "form": "other",
+   "score": 0.10666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#5"
+   ],
+   "form": "other",
+   "score": 0.52,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#6"
+   ],
+   "form": "other",
+   "score": 0.9866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#7"
+   ],
+   "form": "other",
+   "score": 0.9,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#8"
+   ],
+   "form": "other",
+   "score": 0.9733333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#9"
+   ],
+   "form": "other",
+   "score": 0.37333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#10"
+   ],
+   "form": "other",
+   "score": 0.06666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#11"
+   ],
+   "form": "other",
+   "score": 0.58,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#12"
+   ],
+   "form": "other",
+   "score": 0.9333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#13"
+   ],
+   "form": "other",
+   "score": 0.6133333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#14"
+   ],
+   "form": "other",
+   "score": 0.9866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#15"
+   ],
+   "form": "other",
+   "score": 0.8,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#16"
+   ],
+   "form": "other",
+   "score": 0.38,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_to_my_children_with_my_portrait#1"
+   ],
+   "form": "other",
+   "score": 0.9733333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "03_to_the_fashionable_part_of_my_young_countrywomen#1"
+   ],
+   "form": "other",
+   "score": 0.9466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_to_young_ladies_who_attended_philosophical_lectures#1"
+   ],
+   "form": "other",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "13_apology_for_not_accepting_an_invitation_to_a_ball#1"
+   ],
+   "form": "other",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_lines_accompanying_some_balls_sent_to_a_fragment_fair#1"
+   ],
+   "form": "other",
+   "score": 0.9266666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#1"
+   ],
+   "form": "other",
+   "score": 0.9666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#2"
+   ],
+   "form": "other",
+   "score": 0.9866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "19_from_a_husband_to_his_wife#1"
+   ],
+   "form": "other",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#1"
+   ],
+   "form": "other",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#2"
+   ],
+   "form": "other",
+   "score": 0.9933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#3"
+   ],
+   "form": "other",
+   "score": 0.9666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#1"
+   ],
+   "form": "other",
+   "score": 0.5466666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#2"
+   ],
+   "form": "other",
+   "score": 0.36,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#1"
+   ],
+   "form": "other",
+   "score": 0.8333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#2"
+   ],
+   "form": "other",
+   "score": 0.35333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#1"
+   ],
+   "form": "anapestic",
+   "score": 0.96,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#2"
+   ],
+   "form": "anapestic",
+   "score": 0.32666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "29_lines_for_valentines_day#1"
+   ],
+   "form": "other",
+   "score": 0.9733333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.5666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.64,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.8666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.7466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.7733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.6733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "33_farewell#1"
+   ],
+   "form": "other",
+   "score": 0.94,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "34_lines_on_the_sisters_of_charity#1"
+   ],
+   "form": "other",
+   "score": 0.94,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "35_to_my_daughter_on_her_marriage#1"
+   ],
+   "form": "other",
+   "score": 0.98,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#1"
+   ],
+   "form": "other",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#2"
+   ],
+   "form": "other",
+   "score": 0.6666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#1"
+   ],
+   "form": "other",
+   "score": 0.8066666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#2"
+   ],
+   "form": "other",
+   "score": 0.9466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#3"
+   ],
+   "form": "other",
+   "score": 0.9666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "04_a_valentine_1843#1"
+   ],
+   "form": "other",
+   "score": 0.43333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_irish_valentine#1"
+   ],
+   "form": "anapestic",
+   "score": 0.62,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "07_west_point#1"
+   ],
+   "form": "other",
+   "score": 0.7266666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_jeannettes_new_years_poem#1"
+   ],
+   "form": "other",
+   "score": 0.8733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "12_to_eliza_in_england#1"
+   ],
+   "form": "other",
+   "score": 0.2866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#1"
+   ],
+   "form": "other",
+   "score": 0.8333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#2"
+   ],
+   "form": "other",
+   "score": 0.24666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#3"
+   ],
+   "form": "other",
+   "score": 0.11333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#4"
+   ],
+   "form": "other",
+   "score": 0.7466666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#5"
+   ],
+   "form": "other",
+   "score": 0.6333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#6"
+   ],
+   "form": "other",
+   "score": 0.7533333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#7"
+   ],
+   "form": "other",
+   "score": 0.9866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#8"
+   ],
+   "form": "other",
+   "score": 0.3,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#9"
+   ],
+   "form": "other",
+   "score": 0.9933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#10"
+   ],
+   "form": "other",
+   "score": 0.44666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#11"
+   ],
+   "form": "other",
+   "score": 0.8,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#12"
+   ],
+   "form": "other",
+   "score": 0.84,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#13"
+   ],
+   "form": "other",
+   "score": 0.8933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#14"
+   ],
+   "form": "other",
+   "score": 0.38666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#15"
+   ],
+   "form": "other",
+   "score": 0.44666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#16"
+   ],
+   "form": "other",
+   "score": 0.58,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#17"
+   ],
+   "form": "other",
+   "score": 0.3933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#18"
+   ],
+   "form": "other",
+   "score": 0.58,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#19"
+   ],
+   "form": "other",
+   "score": 0.52,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#20"
+   ],
+   "form": "other",
+   "score": 0.78,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#21"
+   ],
+   "form": "other",
+   "score": 0.86,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#22"
+   ],
+   "form": "other",
+   "score": 0.92,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#23"
+   ],
+   "form": "other",
+   "score": 0.7733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#24"
+   ],
+   "form": "other",
+   "score": 0.92,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#25"
+   ],
+   "form": "other",
+   "score": 0.58,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#26"
+   ],
+   "form": "other",
+   "score": 0.7933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#27"
+   ],
+   "form": "other",
+   "score": 0.76,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#28"
+   ],
+   "form": "other",
+   "score": 0.46,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#29"
+   ],
+   "form": "other",
+   "score": 0.62,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#30"
+   ],
+   "form": "other",
+   "score": 0.5333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#31"
+   ],
+   "form": "other",
+   "score": 0.7133333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#32"
+   ],
+   "form": "other",
+   "score": 0.92,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_the_beach_at_newport#1"
+   ],
+   "form": "other",
+   "score": 0.78,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_lines_written_after_a_snow_storm",
+    "07_on_seeing_my_name_written_in_the_sand"
+   ],
+   "form": "other",
+   "score": 0.5466666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "08_on_cowper_the_poet",
+    "09_to_petrosa"
+   ],
+   "form": "other",
+   "score": 0.9666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_a_song",
+    "12_old_dobbin"
+   ],
+   "form": "other",
+   "score": 0.7333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "21_lines_accompanying_a_bunch_of_flowers",
+    "25_to_a_young_lady_on_her_birth_day"
+   ],
+   "form": "other",
+   "score": 0.9933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "26_on_receiving_a_caricature_cast_of_paganini",
+    "32_lines_sent_to_a_young_lady_with_a_pair_of_gloves"
+   ],
+   "form": "other",
+   "score": 0.8666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_for_catharines_album",
+    "08_for_carolines_album"
+   ],
+   "form": "other",
+   "score": 0.8933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "10_theresas_flower",
+    "13_margaret"
+   ],
+   "form": "other",
+   "score": 0.9933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "14_for_a_basket_of_flowers",
+    "17_valentine_for_fanny_french"
+   ],
+   "form": "other",
+   "score": 0.6066666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_from_saint_nicholas",
+    "09_for_a_kiss"
+   ],
+   "form": "anapestic",
+   "score": 0.6866666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "007_invitation_to_the_country#1"
+   ],
+   "form": "anapestic",
+   "score": 0.02,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "020_to_a_gentleman_on_his_leaving_pakepsy#1"
+   ],
+   "form": "anapestic",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "022_letter_to_my_brother_beekman#1"
+   ],
+   "form": "anapestic",
+   "score": 0.5666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "023_the_vine_and_oak#1"
+   ],
+   "form": "other",
+   "score": 0.28,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "028_new_years_address_of_richard_and_george_1787#1"
+   ],
+   "form": "other",
+   "score": 0.38,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "065_carriers_address_political_barometer_1803#1"
+   ],
+   "form": "anapestic",
+   "score": 0.5266666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#1"
+   ],
+   "form": "anapestic",
+   "score": 0.06666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#2"
+   ],
+   "form": "anapestic",
+   "score": 0.02666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#1"
+   ],
+   "form": "anapestic",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#2"
+   ],
+   "form": "anapestic",
+   "score": 0.22666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "080_adventures_of_an_american_eagle#1"
+   ],
+   "form": "other",
+   "score": 0.49333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "086_the_crane_and_fox#1"
+   ],
+   "form": "other",
+   "score": 0.07333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "001_on_my_little_catherine_sleeping",
+    "002_job"
+   ],
+   "form": "other",
+   "score": 0.09333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "003_memory_of_henry_welles_livingston",
+    "004_memory_of_sarah_livingston",
+    "005_easter"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "006_elegy_on_montgomery_tappen",
+    "009_habakkuk"
+   ],
+   "form": "other",
+   "score": 0.64,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "010_isaiah",
+    "011_lo_from_the_east"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "012_queen_of_love_rebus",
+    "015_timmy"
+   ],
+   "form": "other",
+   "score": 0.08666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "016_to_my_little_niece_sally_livingston",
+    "017_frontier_settlement_invitation"
+   ],
+   "form": "other",
+   "score": 0.25333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "018_a_valentine",
+    "024_to_spadille"
+   ],
+   "form": "other",
+   "score": 0.41333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "027_on_my_sister_joannas_33rd_year",
+    "030_on_the_late_mr_gilbert_cortlandt",
+    "031_to_my_little_niece_anne_duyckinck"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "036_the_fly",
+    "040_the_writing_of_hezekiah"
+   ],
+   "form": "other",
+   "score": 0.37333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "043_a_procession",
+    "044_to_miss_sweet_as_opning_roses"
+   ],
+   "form": "other",
+   "score": 0.08666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "047_frontier_song",
+    "048_song_tune_german_spa"
+   ],
+   "form": "other",
+   "score": 0.42,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "051_to_arabella",
+    "053_apostrophe_of_rispah",
+    "054_past_is_the_hour"
+   ],
+   "form": "other",
+   "score": 0.8466666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "055_acrostic_on_maria_martin",
+    "060_acrostic_on_eliza_hughes",
+    "071_on_catharine_livingston_breese",
+    "073_dialogue_between_madame_j_l_and_her_children"
+   ],
+   "form": "other",
+   "score": 0.16,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "075_on_catharine_breese_livingston_tombstone",
+    "084_the_frog_king"
+   ],
+   "form": "other",
+   "score": 0.32666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "085_original_poems_fragment",
+    "087_a_fable_bats"
+   ],
+   "form": "other",
+   "score": 0.22666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "088_scots_wha_hae",
+    "089_midas"
+   ],
+   "form": "other",
+   "score": 0.14666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "090_god_is_love",
+    "091_without_distinction"
+   ],
+   "form": "other",
+   "score": 0.38666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "008_nine_sisters_rebus",
+    "013_deity_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.09333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "014_apollo_rebus",
+    "019_the_dance_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "021_hero_rebus",
+    "025_war_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.12,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "026_sages_rebus",
+    "032_letter_from_a_tenant_of_mrs_van_kleeck"
+   ],
+   "form": "anapestic",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "033_the_acknowledgment",
+    "034_marriage_tax"
+   ],
+   "form": "anapestic",
+   "score": 0.19333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "035_parody_on_the_death_of_general_wolfe",
+    "037_careless_philosophers_soliloquy",
+    "038_belle"
+   ],
+   "form": "anapestic",
+   "score": 0.32666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "042_to_miss_on_the_commencement_of_1789",
+    "045_epithalamium"
+   ],
+   "form": "anapestic",
+   "score": 0.24666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Clement Clarke Moore",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "046_monarchs_rebus",
+    "052_alcmena_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "007_invitation_to_the_country#1"
+   ],
+   "form": "anapestic",
+   "score": 0.66,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "020_to_a_gentleman_on_his_leaving_pakepsy#1"
+   ],
+   "form": "anapestic",
+   "score": 0.22666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "022_letter_to_my_brother_beekman#1"
+   ],
+   "form": "anapestic",
+   "score": 0.16,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "023_the_vine_and_oak#1"
+   ],
+   "form": "other",
+   "score": 0.21333333333333335,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "028_new_years_address_of_richard_and_george_1787#1"
+   ],
+   "form": "other",
+   "score": 0.54,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "065_carriers_address_political_barometer_1803#1"
+   ],
+   "form": "anapestic",
+   "score": 0.7866666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#1"
+   ],
+   "form": "anapestic",
+   "score": 0.36666666666666664,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "072_news_boys_address_poughkeepsie_journal_1809#2"
+   ],
+   "form": "anapestic",
+   "score": 0.15333333333333332,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#1"
+   ],
+   "form": "anapestic",
+   "score": 0.22,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "079_carriers_address_poughkeepsie_journal_1819#2"
+   ],
+   "form": "anapestic",
+   "score": 0.14,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "080_adventures_of_an_american_eagle#1"
+   ],
+   "form": "other",
+   "score": 0.06,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "086_the_crane_and_fox#1"
+   ],
+   "form": "other",
+   "score": 0.02,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "001_on_my_little_catherine_sleeping",
+    "002_job"
+   ],
+   "form": "other",
+   "score": 0.18,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "003_memory_of_henry_welles_livingston",
+    "004_memory_of_sarah_livingston",
+    "005_easter"
+   ],
+   "form": "other",
+   "score": 0.66,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "006_elegy_on_montgomery_tappen",
+    "009_habakkuk"
+   ],
+   "form": "other",
+   "score": 0.24,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "010_isaiah",
+    "011_lo_from_the_east"
+   ],
+   "form": "other",
+   "score": 0.16666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "012_queen_of_love_rebus",
+    "015_timmy"
+   ],
+   "form": "other",
+   "score": 0.9066666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "016_to_my_little_niece_sally_livingston",
+    "017_frontier_settlement_invitation"
+   ],
+   "form": "other",
+   "score": 0.23333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "018_a_valentine",
+    "024_to_spadille"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "027_on_my_sister_joannas_33rd_year",
+    "030_on_the_late_mr_gilbert_cortlandt",
+    "031_to_my_little_niece_anne_duyckinck"
+   ],
+   "form": "other",
+   "score": 0.9266666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "036_the_fly",
+    "040_the_writing_of_hezekiah"
+   ],
+   "form": "other",
+   "score": 0.09333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "043_a_procession",
+    "044_to_miss_sweet_as_opning_roses"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "047_frontier_song",
+    "048_song_tune_german_spa"
+   ],
+   "form": "other",
+   "score": 0.32666666666666666,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "051_to_arabella",
+    "053_apostrophe_of_rispah",
+    "054_past_is_the_hour"
+   ],
+   "form": "other",
+   "score": 0.17333333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "055_acrostic_on_maria_martin",
+    "060_acrostic_on_eliza_hughes",
+    "071_on_catharine_livingston_breese",
+    "073_dialogue_between_madame_j_l_and_her_children"
+   ],
+   "form": "other",
+   "score": 0.9733333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "075_on_catharine_breese_livingston_tombstone",
+    "084_the_frog_king"
+   ],
+   "form": "other",
+   "score": 0.14666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "085_original_poems_fragment",
+    "087_a_fable_bats"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "088_scots_wha_hae",
+    "089_midas"
+   ],
+   "form": "other",
+   "score": 0.8733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "090_god_is_love",
+    "091_without_distinction"
+   ],
+   "form": "other",
+   "score": 0.2733333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "008_nine_sisters_rebus",
+    "013_deity_rebus"
+   ],
+   "form": "anapestic",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "014_apollo_rebus",
+    "019_the_dance_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.9866666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "021_hero_rebus",
+    "025_war_rebus"
+   ],
+   "form": "anapestic",
+   "score": 0.8533333333333334,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "026_sages_rebus",
+    "032_letter_from_a_tenant_of_mrs_van_kleeck"
+   ],
+   "form": "anapestic",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "033_the_acknowledgment",
+    "034_marriage_tax"
+   ],
+   "form": "anapestic",
+   "score": 0.7933333333333333,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "035_parody_on_the_death_of_general_wolfe",
+    "037_careless_philosophers_soliloquy",
+    "038_belle"
+   ],
+   "form": "anapestic",
+   "score": 0.16,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "042_to_miss_on_the_commencement_of_1789",
+    "045_epithalamium"
+   ],
+   "form": "anapestic",
+   "score": 0.5066666666666667,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Henry Livingston Jr.",
+   "ids": [
+    "046_monarchs_rebus",
+    "052_alcmena_rebus"
+   ],
+   "form": "anapestic",
+   "score": 1.0,
+   "true": true
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#1"
+   ],
+   "form": "other",
+   "score": 0.42,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#2"
+   ],
+   "form": "other",
+   "score": 0.4533333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#3"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#4"
+   ],
+   "form": "other",
+   "score": 0.02,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#5"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#6"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#7"
+   ],
+   "form": "other",
+   "score": 0.10666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#8"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#9"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#10"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#11"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#12"
+   ],
+   "form": "other",
+   "score": 0.2,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#13"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#14"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#15"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_a_trip_to_saratoga#16"
+   ],
+   "form": "other",
+   "score": 0.34,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_to_my_children_with_my_portrait#1"
+   ],
+   "form": "other",
+   "score": 0.12666666666666668,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "03_to_the_fashionable_part_of_my_young_countrywomen#1"
+   ],
+   "form": "other",
+   "score": 0.11333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_to_young_ladies_who_attended_philosophical_lectures#1"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "13_apology_for_not_accepting_an_invitation_to_a_ball#1"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_lines_accompanying_some_balls_sent_to_a_fragment_fair#1"
+   ],
+   "form": "other",
+   "score": 0.3,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#1"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "17_to_a_lady#2"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "19_from_a_husband_to_his_wife#1"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#1"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#2"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "23_lines_written_after_a_season_of_yellow_fever#3"
+   ],
+   "form": "other",
+   "score": 0.2,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#1"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "24_to_the_nymphs_of_mount_harmony#2"
+   ],
+   "form": "other",
+   "score": 0.02666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#1"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "27_the_organist#2"
+   ],
+   "form": "other",
+   "score": 0.12666666666666668,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#1"
+   ],
+   "form": "anapestic",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "28_the_pig_and_the_rooster#2"
+   ],
+   "form": "anapestic",
+   "score": 0.4066666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "29_lines_for_valentines_day#1"
+   ],
+   "form": "other",
+   "score": 0.13333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.72,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.5866666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "30_the_wine_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.44,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#1"
+   ],
+   "form": "other",
+   "score": 0.26666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#2"
+   ],
+   "form": "other",
+   "score": 0.3,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "31_the_water_drinker#3"
+   ],
+   "form": "other",
+   "score": 0.14666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "33_farewell#1"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "34_lines_on_the_sisters_of_charity#1"
+   ],
+   "form": "other",
+   "score": 0.02666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "35_to_my_daughter_on_her_marriage#1"
+   ],
+   "form": "other",
+   "score": 0.12666666666666668,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#1"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "37_to_southey#2"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#1"
+   ],
+   "form": "other",
+   "score": 0.14,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#2"
+   ],
+   "form": "other",
+   "score": 0.07333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "01_biography_of_the_heart#3"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "04_a_valentine_1843#1"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "06_irish_valentine#1"
+   ],
+   "form": "anapestic",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "07_west_point#1"
+   ],
+   "form": "other",
+   "score": 0.11333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_jeannettes_new_years_poem#1"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "12_to_eliza_in_england#1"
+   ],
+   "form": "other",
+   "score": 0.2866666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#1"
+   ],
+   "form": "other",
+   "score": 0.04,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#2"
+   ],
+   "form": "other",
+   "score": 0.49333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#3"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#4"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#5"
+   ],
+   "form": "other",
+   "score": 0.02666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#6"
+   ],
+   "form": "other",
+   "score": 0.46,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#7"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#8"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#9"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#10"
+   ],
+   "form": "other",
+   "score": 0.02666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#11"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#12"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#13"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#14"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#15"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#16"
+   ],
+   "form": "other",
+   "score": 0.2,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#17"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#18"
+   ],
+   "form": "other",
+   "score": 0.04666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#19"
+   ],
+   "form": "other",
+   "score": 0.19333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#20"
+   ],
+   "form": "other",
+   "score": 0.16666666666666666,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#21"
+   ],
+   "form": "other",
+   "score": 0.12666666666666668,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#22"
+   ],
+   "form": "other",
+   "score": 0.32,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#23"
+   ],
+   "form": "other",
+   "score": 0.05333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#24"
+   ],
+   "form": "other",
+   "score": 0.03333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#25"
+   ],
+   "form": "other",
+   "score": 0.3333333333333333,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#26"
+   ],
+   "form": "other",
+   "score": 0.1,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#27"
+   ],
+   "form": "other",
+   "score": 0.08666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#28"
+   ],
+   "form": "other",
+   "score": 0.37333333333333335,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#29"
+   ],
+   "form": "other",
+   "score": 0.08666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#30"
+   ],
+   "form": "other",
+   "score": 0.15333333333333332,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#31"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "15_charles_elphinstone#32"
+   ],
+   "form": "other",
+   "score": 0.013333333333333334,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "16_the_beach_at_newport#1"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_lines_written_after_a_snow_storm",
+    "07_on_seeing_my_name_written_in_the_sand"
+   ],
+   "form": "other",
+   "score": 0.2866666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "08_on_cowper_the_poet",
+    "09_to_petrosa"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "11_a_song",
+    "12_old_dobbin"
+   ],
+   "form": "other",
+   "score": 0.08,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "21_lines_accompanying_a_bunch_of_flowers",
+    "25_to_a_young_lady_on_her_birth_day"
+   ],
+   "form": "other",
+   "score": 0.06666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "26_on_receiving_a_caricature_cast_of_paganini",
+    "32_lines_sent_to_a_young_lady_with_a_pair_of_gloves"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "05_for_catharines_album",
+    "08_for_carolines_album"
+   ],
+   "form": "other",
+   "score": 0.0,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "10_theresas_flower",
+    "13_margaret"
+   ],
+   "form": "other",
+   "score": 0.006666666666666667,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "14_for_a_basket_of_flowers",
+    "17_valentine_for_fanny_french"
+   ],
+   "form": "other",
+   "score": 0.02,
+   "true": false
+  },
+  {
+   "candidate": "Henry Livingston Jr.",
+   "truth": "Clement Clarke Moore",
+   "ids": [
+    "02_from_saint_nicholas",
+    "09_for_a_kiss"
+   ],
+   "form": "anapestic",
+   "score": 0.16,
+   "true": false
+  }
+ ]
+}

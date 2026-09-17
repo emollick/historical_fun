@@ -1,0 +1,27 @@
+{
+ "stats": {
+  "noise": 53,
+  "pagenum": 12,
+  "sig": 4,
+  "hyphen_join": 1,
+  "override": 3,
+  "words_out": 1090,
+  "lines_out": 237
+ },
+ "top_replacements": [
+  [
+   "flow>slow",
+   1
+  ],
+  [
+   "fee>see",
+   1
+  ],
+  [
+   "fo>so",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

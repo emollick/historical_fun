@@ -1,0 +1,11 @@
+op,decoded_message,printed_plaintext,preceding_words
+replace,bufords,buford s,miles from
+replace,three,3,in number
+replace,ten hundred,one thousand,consisted of
+replace,thirty,three thousand,gold and
+replace,nov eighteen nineteen,november 1819,silver deposited
+replace,dec eighteen twenty one,december 1821,was made
+insert,,pounds,eighty eight
+insert,,for silver,in exchange
+replace,thirteen thousand dollars,$13000,valued at
+replace,one,1,paper number

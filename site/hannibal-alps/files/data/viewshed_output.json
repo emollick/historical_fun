@@ -1,0 +1,2497 @@
+{
+ "method": "Viewshed test of Polybius 3.54.2 and Livy 21.35.8 for each candidate col.\n\nPolybius 3.54.2: from the summit of the pass Hannibal \"pointed out to them the\nplains of the Po\" (ta peri ton Padon pedia) and the direction of Rome; Livy\n21.35.8: \"in promunturio quodam, unde longe ac late prospectus erat,\nconsistere iussis militibus Italiam ostentat subiectosque Alpinis montibus\nCircumpadanos campos\".\n\nTest: from the col itself, from points along the descent (every 250 m for the\nfirst 3 km, then every 1 km to 10 km), and from the nearest ground 100 m and\n300 m higher than the col within 2.5 km (a knoll a general could climb), and\nfrom every DEM cell within 1.5 km of the col that is 0-300 m above it\n(vantage scan, 3-cell stride), is any terrain of the Po plain in line of sight?\n\n  * DEM: Copernicus GLO-90 (surface model; 90 x 65 m cells at 45 N; modern\n    tree cover and buildings are in the surface, which can only hide plain\n    that would otherwise be visible, never create visibility).\n  * Rays: 0.25 deg azimuth steps (1440 rays), samples every 90 m to 120 km,\n    positions by the spherical direct geodesic, elevation by bilinear\n    interpolation.\n  * Earth curvature and standard refraction: effective height\n        z_eff = z - (1 - k) d^2 / (2 R),  k = 0.13, R = 6371.0088 km.\n  * Observer height 2 m above the DEM surface.\n  * \"Po plain\" target = DEM cells below 400 m, east of 7.3 E and north of\n    44.4 N (the Piedmont plain from Cuneo/Saluzzo to Ivrea and Vercelli; the\n    Ligurian hills and the upper Cuneo plateau, which lie above 400 m, are\n    excluded by the height rule).\n  * A ray sample is visible when its elevation angle from the observer is\n    >= the maximum elevation angle of all nearer samples on that ray.\n\nOutputs: data/viewshed_output.json, data/viewshed_output.md, and\ndata/viewshed_cells.json (coarse grid of visible-plain cells per col, for the\nfigure).  Usage: python3 viewshed.py\n",
+ "params": {
+  "az_step_deg": 0.25,
+  "max_km": 120.0,
+  "sample_m": 90.0,
+  "k": 0.13,
+  "observer_h_m": 2.0,
+  "plain": {
+   "z_below": 400.0,
+   "lon_east_of": 7.3,
+   "lat_north_of": 44.4
+  }
+ },
+ "cols": {
+  "Col du Mont-Cenis": {
+   "geocoded": {
+    "lat": 45.2598281,
+    "lon": 6.9008841,
+    "z_dem": 2087.6797203433,
+    "source": "Nominatim/OSM node/2178653980 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    45.259166666666665,
+    6.901666666666667,
+    2081.017578125
+   ],
+   "used": {
+    "lat": 45.2598281,
+    "lon": 6.9008841,
+    "z_dem": 2087.6797203433
+   },
+   "col": {
+    "z_obs": 2087.6797203433,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [
+    {
+     "z_obs": 2068.6182285702857,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 45.25832,
+     "lon": 6.90251
+    },
+    {
+     "z_obs": 2055.022631132855,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 45.25648,
+     "lon": 6.90435
+    },
+    {
+     "z_obs": 2052.86219132031,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 45.25464,
+     "lon": 6.90619
+    },
+    {
+     "z_obs": 2038.2749802734663,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.0,
+     "lat": 45.2528,
+     "lon": 6.90803
+    },
+    {
+     "z_obs": 1986.461637132792,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.25,
+     "lat": 45.25096,
+     "lon": 6.90987
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 45.24927,
+     "lon": 6.91194
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 45.24772,
+     "lon": 6.91425
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 45.24617,
+     "lon": 6.91657
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 45.24463,
+     "lon": 6.91889
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 45.24308,
+     "lon": 6.92121
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 45.24154,
+     "lon": 6.92353
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 45.23999,
+     "lon": 6.92585
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 45.23381,
+     "lon": 6.93512
+    },
+    {
+     "z_obs": 1971.8881262811979,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 45.22706,
+     "lon": 6.94352
+    },
+    {
+     "z_obs": 1913.3797092656503,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 6.0,
+     "lat": 45.21924,
+     "lon": 6.94968
+    },
+    {
+     "z_obs": 1867.0082496386508,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 7.0,
+     "lat": 45.21063,
+     "lon": 6.95135
+    },
+    {
+     "z_obs": 1855.560124023316,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 8.0,
+     "lat": 45.2045,
+     "lon": 6.96054
+    },
+    {
+     "z_obs": 1826.8551410956625,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 45.19843,
+     "lon": 6.96991
+    },
+    {
+     "z_obs": 1578.3226462343332,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 45.19108,
+     "lon": 6.97726
+    }
+   ],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 2196.7224121093964,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.25833333333333,
+    "lon": 6.8966666666666665,
+    "z": 2196.722412109375,
+    "dist_m": 369.8689669276304,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2393.5290527343145,
+    "plain_visible": true,
+    "frac_azimuths_plain_visible": 0.0020833333333333333,
+    "n_visible_plain_samples": 25,
+    "nearest_plain": {
+     "km": 111.51,
+     "azimuth": 124.75,
+     "lat": 44.67998992008674,
+     "lon": 8.05050747754231,
+     "z": 272.5770117932061
+    },
+    "farthest_plain": {
+     "km": 115.38,
+     "azimuth": 124.5,
+     "lat": 44.66342524961832,
+     "lon": 8.094001821114155,
+     "z": 398.2396889719123
+    },
+    "azimuth_range_with_plain": [
+     124.5,
+     125.0
+    ],
+    "lat": 45.2575,
+    "lon": 6.8916666666666675,
+    "z": 2393.529052734375,
+    "dist_m": 767.1960520367536,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 61,
+    "n_with_plain_visible": 3,
+    "best": {
+     "z_obs": 2382.5275878906614,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.004861111111111111,
+     "n_visible_plain_samples": 134,
+     "nearest_plain": {
+      "km": 93.06,
+      "azimuth": 123.75,
+      "lat": 44.78165566065628,
+      "lon": 7.877049896868486,
+      "z": 332.13179510592005
+     },
+     "farthest_plain": {
+      "km": 114.48,
+      "azimuth": 124.25,
+      "lat": 44.665112212998324,
+      "lon": 8.093224330760105,
+      "z": 387.69800814597215
+     },
+     "azimuth_range_with_plain": [
+      123.0,
+      124.5
+     ],
+     "lat": 45.25083333333333,
+     "lon": 6.8966666666666665,
+     "z": 2382.527587890625,
+     "dist_m": 1052.8159215192752
+    }
+   }
+  },
+  "Col Clapier": {
+   "geocoded": {
+    "lat": 45.1681847,
+    "lon": 6.9231775,
+    "z_dem": 2478.5847341504273,
+    "source": "Nominatim/OSM node/1409452160 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    45.163333333333334,
+    6.925000000000001,
+    2366.88037109375
+   ],
+   "used": {
+    "lat": 45.1681847,
+    "lon": 6.9231775,
+    "z_dem": 2478.5847341504273
+   },
+   "col": {
+    "z_obs": 2478.5847341504273,
+    "plain_visible": true,
+    "frac_azimuths_plain_visible": 0.00625,
+    "n_visible_plain_samples": 557,
+    "nearest_plain": {
+     "km": 79.56,
+     "azimuth": 112.0,
+     "lat": 44.89631494934795,
+     "lon": 7.859690072823379,
+     "z": 261.0068485169746
+    },
+    "farthest_plain": {
+     "km": 119.97,
+     "azimuth": 111.75,
+     "lat": 44.759652234586866,
+     "lon": 8.334521325357851,
+     "z": 208.65582738342488
+    },
+    "azimuth_range_with_plain": [
+     111.25,
+     113.25
+    ]
+   },
+   "descent_points": [
+    {
+     "z_obs": 2448.210952050841,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 45.16729,
+     "lon": 6.92605
+    },
+    {
+     "z_obs": 2400.483515839831,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 45.16621,
+     "lon": 6.92885
+    },
+    {
+     "z_obs": 2393.648804453194,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 45.16514,
+     "lon": 6.93165
+    },
+    {
+     "z_obs": 2337.581409394504,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.04861111111111111,
+     "n_visible_plain_samples": 12820,
+     "nearest_plain": {
+      "km": 29.52,
+      "azimuth": 102.75,
+      "lat": 45.104971738633814,
+      "lon": 7.301350870566005,
+      "z": 370.59315008375495
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 103.0,
+      "lat": 44.91180305407049,
+      "lon": 8.418994261702153,
+      "z": 127.57607836253204
+     },
+     "azimuth_range_with_plain": [
+      95.25,
+      112.5
+     ],
+     "km_from_col": 1.0,
+     "lat": 45.16415,
+     "lon": 6.93449
+    },
+    {
+     "z_obs": 2201.7873401405573,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.02013888888888889,
+     "n_visible_plain_samples": 3775,
+     "nearest_plain": {
+      "km": 61.29,
+      "azimuth": 106.25,
+      "lat": 45.00728126734521,
+      "lon": 7.686138769922544,
+      "z": 239.07547843861502
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 105.25,
+      "lat": 44.870735621879795,
+      "lon": 8.406521796415483,
+      "z": 108.9178360454657
+     },
+     "azimuth_range_with_plain": [
+      104.0,
+      111.0
+     ],
+     "km_from_col": 1.25,
+     "lat": 45.16397,
+     "lon": 6.93767
+    },
+    {
+     "z_obs": 2087.3640162502334,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 45.1638,
+     "lon": 6.94084
+    },
+    {
+     "z_obs": 2002.4493202267413,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 45.16362,
+     "lon": 6.94402
+    },
+    {
+     "z_obs": 1948.2316424220849,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 45.16344,
+     "lon": 6.9472
+    },
+    {
+     "z_obs": 1894.458947000067,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 45.16279,
+     "lon": 6.95011
+    },
+    {
+     "z_obs": 1758.150534261851,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 45.16138,
+     "lon": 6.95259
+    },
+    {
+     "z_obs": 1751.3910063748015,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 45.15996,
+     "lon": 6.95507
+    },
+    {
+     "z_obs": 1647.188569193158,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 45.15857,
+     "lon": 6.95757
+    },
+    {
+     "z_obs": 1675.3960384375014,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 45.15166,
+     "lon": 6.96515
+    },
+    {
+     "z_obs": 1513.1121722658404,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 45.1454,
+     "lon": 6.97298
+    },
+    {
+     "z_obs": 1415.1655680664248,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.013194444444444444,
+     "n_visible_plain_samples": 2787,
+     "nearest_plain": {
+      "km": 25.02,
+      "azimuth": 98.5,
+      "lat": 45.11129738449231,
+      "lon": 7.3006407506662345,
+      "z": 375.72216085354376
+     },
+     "farthest_plain": {
+      "km": 104.31,
+      "azimuth": 100.0,
+      "lat": 44.97463728330423,
+      "lon": 8.291279011164772,
+      "z": 248.97553385402784
+     },
+     "azimuth_range_with_plain": [
+      96.5,
+      101.0
+     ],
+     "km_from_col": 6.0,
+     "lat": 45.14499,
+     "lon": 6.98531
+    },
+    {
+     "z_obs": 1138.9656865234608,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.0125,
+     "n_visible_plain_samples": 1889,
+     "nearest_plain": {
+      "km": 24.03,
+      "azimuth": 99.0,
+      "lat": 45.11029419374055,
+      "lon": 7.300491746400463,
+      "z": 373.1060791783693
+     },
+     "farthest_plain": {
+      "km": 60.75,
+      "azimuth": 97.5,
+      "lat": 45.07061971126892,
+      "lon": 7.765034542790334,
+      "z": 389.0112600038051
+     },
+     "azimuth_range_with_plain": [
+      96.75,
+      101.0
+     ],
+     "km_from_col": 7.0,
+     "lat": 45.1445,
+     "lon": 6.99805
+    },
+    {
+     "z_obs": 811.3216420820783,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.009027777777777777,
+     "n_visible_plain_samples": 671,
+     "nearest_plain": {
+      "km": 23.13,
+      "azimuth": 99.25,
+      "lat": 45.10868410473048,
+      "lon": 7.300922128996226,
+      "z": 369.80501556137875
+     },
+     "farthest_plain": {
+      "km": 59.67,
+      "azimuth": 97.5,
+      "lat": 45.06996809547183,
+      "lon": 7.763360282217981,
+      "z": 390.68828806104017
+     },
+     "azimuth_range_with_plain": [
+      97.0,
+      100.0
+     ],
+     "km_from_col": 8.0,
+     "lat": 45.14249,
+     "lon": 7.01002
+    },
+    {
+     "z_obs": 666.4677258300956,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.003472222222222222,
+     "n_visible_plain_samples": 48,
+     "nearest_plain": {
+      "km": 36.99,
+      "azimuth": 98.25,
+      "lat": 45.091316557284486,
+      "lon": 7.487978137479533,
+      "z": 329.4677628284046
+     },
+     "farthest_plain": {
+      "km": 58.14,
+      "azimuth": 98.75,
+      "lat": 45.05812246424003,
+      "lon": 7.753238816945743,
+      "z": 388.46617833870357
+     },
+     "azimuth_range_with_plain": [
+      98.0,
+      99.0
+     ],
+     "km_from_col": 9.0,
+     "lat": 45.14,
+     "lon": 7.02165
+    },
+    {
+     "z_obs": 620.3223046874937,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.0020833333333333333,
+     "n_visible_plain_samples": 18,
+     "nearest_plain": {
+      "km": 37.8,
+      "azimuth": 98.75,
+      "lat": 45.08729795785649,
+      "lon": 7.510285213929316,
+      "z": 351.5578695547484
+     },
+     "farthest_plain": {
+      "km": 57.24,
+      "azimuth": 99.0,
+      "lat": 45.05720946055531,
+      "lon": 7.754161530285275,
+      "z": 394.12637224033733
+     },
+     "azimuth_range_with_plain": [
+      98.5,
+      99.0
+     ],
+     "km_from_col": 10.0,
+     "lat": 45.14,
+     "lon": 7.0344
+    }
+   ],
+   "first_descent_point_with_plain": {
+    "z_obs": 2337.581409394504,
+    "plain_visible": true,
+    "frac_azimuths_plain_visible": 0.04861111111111111,
+    "n_visible_plain_samples": 12820,
+    "nearest_plain": {
+     "km": 29.52,
+     "azimuth": 102.75,
+     "lat": 45.104971738633814,
+     "lon": 7.301350870566005,
+     "z": 370.59315008375495
+    },
+    "farthest_plain": {
+     "km": 119.97,
+     "azimuth": 103.0,
+     "lat": 44.91180305407049,
+     "lon": 8.418994261702153,
+     "z": 127.57607836253204
+    },
+    "azimuth_range_with_plain": [
+     95.25,
+     112.5
+    ],
+    "km_from_col": 1.0,
+    "lat": 45.16415,
+    "lon": 6.93449
+   },
+   "knoll_+100": {
+    "z_obs": 2580.425048828124,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.17,
+    "lon": 6.925833333333333,
+    "z": 2580.425048828125,
+    "dist_m": 290.0780909295581,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2795.4528808593545,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.17166666666667,
+    "lon": 6.93,
+    "z": 2795.452880859375,
+    "dist_m": 660.642680039811,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 56,
+    "n_with_plain_visible": 29,
+    "best": {
+     "z_obs": 2711.524902343907,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.08125,
+     "n_visible_plain_samples": 26244,
+     "nearest_plain": {
+      "km": 28.89,
+      "azimuth": 102.25,
+      "lat": 45.11430817051252,
+      "lon": 7.30061894173188,
+      "z": 384.40179133442894
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 91.0,
+      "lat": 45.140960387523776,
+      "lon": 8.470275077593206,
+      "z": 108.77143295633948
+     },
+     "azimuth_range_with_plain": [
+      90.0,
+      119.25
+     ],
+     "lat": 45.17,
+     "lon": 6.940833333333334,
+     "z": 2711.52490234375,
+     "dist_m": 1400.3037589505996
+    }
+   }
+  },
+  "Col du Petit Mont-Cenis": {
+   "geocoded": {
+    "lat": 45.2108326,
+    "lon": 6.8661704,
+    "z_dem": 2180.870625043674,
+    "source": "Nominatim/OSM node/6712847446 (saddle)"
+   },
+   "saddle_dem_diagnostic": [
+    45.20666666666666,
+    6.8533333333333335,
+    1788.2344970703125
+   ],
+   "used": {
+    "lat": 45.2108326,
+    "lon": 6.8661704,
+    "z_dem": 2180.870625043674
+   },
+   "col": {
+    "z_obs": 2180.870625043674,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [
+    {
+     "z_obs": 2176.412562218759,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 45.21268,
+     "lon": 6.86878
+    },
+    {
+     "z_obs": 2158.041571171898,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 45.21417,
+     "lon": 6.87117
+    },
+    {
+     "z_obs": 2144.267615546873,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 45.21566,
+     "lon": 6.87356
+    },
+    {
+     "z_obs": 2142.330979589806,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.0,
+     "lat": 45.21715,
+     "lon": 6.87595
+    },
+    {
+     "z_obs": 2136.7041610350916,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.25,
+     "lat": 45.21865,
+     "lon": 6.87833
+    },
+    {
+     "z_obs": 2130.2520516796594,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 45.21995,
+     "lon": 6.88092
+    },
+    {
+     "z_obs": 2137.366471546846,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 45.22116,
+     "lon": 6.88361
+    },
+    {
+     "z_obs": 2120.088005312508,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 45.22238,
+     "lon": 6.8863
+    },
+    {
+     "z_obs": 2089.4720662734653,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 45.22359,
+     "lon": 6.88899
+    },
+    {
+     "z_obs": 2066.8204414062466,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 45.2248,
+     "lon": 6.89168
+    },
+    {
+     "z_obs": 2044.2609496269217,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 45.22601,
+     "lon": 6.89437
+    },
+    {
+     "z_obs": 2042.446022460954,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 45.2275,
+     "lon": 6.89667
+    },
+    {
+     "z_obs": 2012.4829204492805,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 45.23392,
+     "lon": 6.90535
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 45.235,
+     "lon": 6.91763
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 6.0,
+     "lat": 45.23401,
+     "lon": 6.93013
+    },
+    {
+     "z_obs": 1959.0,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 7.0,
+     "lat": 45.2295,
+     "lon": 6.94077
+    },
+    {
+     "z_obs": 1917.5878953632687,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 8.0,
+     "lat": 45.22206,
+     "lon": 6.94779
+    },
+    {
+     "z_obs": 1898.464033516171,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 45.21359,
+     "lon": 6.95005
+    },
+    {
+     "z_obs": 1884.3376811484113,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 45.20656,
+     "lon": 6.95722
+    }
+   ],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 2296.0913085936822,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.2125,
+    "lon": 6.860833333333334,
+    "z": 2296.09130859375,
+    "dist_m": 457.74273764448793,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2567.054443359497,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.215,
+    "lon": 6.858333333333333,
+    "z": 2567.054443359375,
+    "dist_m": 769.5780640252177,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 57,
+    "n_with_plain_visible": 0,
+    "best": {
+     "z_obs": 2455.788085937461,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "lat": 45.2225,
+     "lon": 6.856666666666667,
+     "z": 2455.7880859375,
+     "dist_m": 1495.5747254909659
+    }
+   }
+  },
+  "Col du Petit-Saint-Bernard": {
+   "geocoded": {
+    "lat": 45.6792488,
+    "lon": 6.8829399,
+    "z_dem": 2189.310533764771,
+    "source": "Nominatim/OSM node/6126335144 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    45.6875,
+    6.8825,
+    2088.975341796875
+   ],
+   "used": {
+    "lat": 45.6792488,
+    "lon": 6.8829399,
+    "z_dem": 2189.310533764771
+   },
+   "col": {
+    "z_obs": 2189.310533764771,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [
+    {
+     "z_obs": 2184.6099376953102,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 45.68278,
+     "lon": 6.88563
+    },
+    {
+     "z_obs": 2174.6506571406503,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 45.68483,
+     "lon": 6.88694
+    },
+    {
+     "z_obs": 2153.1156863281585,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 45.68689,
+     "lon": 6.88825
+    },
+    {
+     "z_obs": 2155.0225695195722,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.0,
+     "lat": 45.68881,
+     "lon": 6.88983
+    },
+    {
+     "z_obs": 2140.3949401249274,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.25,
+     "lat": 45.69042,
+     "lon": 6.89208
+    },
+    {
+     "z_obs": 2123.4509784922107,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 45.69202,
+     "lon": 6.89433
+    },
+    {
+     "z_obs": 2108.2034169921144,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 45.69346,
+     "lon": 6.89679
+    },
+    {
+     "z_obs": 2075.4878504531507,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 45.69484,
+     "lon": 6.89934
+    },
+    {
+     "z_obs": 2063.182384373007,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 45.69621,
+     "lon": 6.90189
+    },
+    {
+     "z_obs": 2036.4475317186884,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 45.69758,
+     "lon": 6.90444
+    },
+    {
+     "z_obs": 2015.149035125019,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 45.69896,
+     "lon": 6.90699
+    },
+    {
+     "z_obs": 1998.7704893280816,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 45.70033,
+     "lon": 6.90954
+    },
+    {
+     "z_obs": 1901.879397539202,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 45.70437,
+     "lon": 6.92046
+    },
+    {
+     "z_obs": 1679.9112519433459,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 45.70917,
+     "lon": 6.93135
+    },
+    {
+     "z_obs": 1496.7743986875057,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 6.0,
+     "lat": 45.71398,
+     "lon": 6.94224
+    },
+    {
+     "z_obs": 1444.1226713476779,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 7.0,
+     "lat": 45.72055,
+     "lon": 6.94722
+    },
+    {
+     "z_obs": 1401.26547560544,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 8.0,
+     "lat": 45.72815,
+     "lon": 6.95241
+    },
+    {
+     "z_obs": 1310.715294003915,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 45.73541,
+     "lon": 6.95992
+    },
+    {
+     "z_obs": 1281.7625021483896,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 45.743,
+     "lon": 6.96682
+    }
+   ],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 2302.8234863280795,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.6775,
+    "lon": 6.8875,
+    "z": 2302.823486328125,
+    "dist_m": 404.4263075198805,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2511.6306152342486,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.6825,
+    "lon": 6.870833333333334,
+    "z": 2511.630615234375,
+    "dist_m": 1008.5473804600593,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 89,
+    "n_with_plain_visible": 0,
+    "best": {
+     "z_obs": 2288.4667968749554,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "lat": 45.69083333333333,
+     "lon": 6.873333333333333,
+     "z": 2288.466796875,
+     "dist_m": 1488.51786889962
+    }
+   }
+  },
+  "Col de Montgenevre": {
+   "geocoded": {
+    "lat": 44.9312741,
+    "lon": 6.7257053,
+    "z_dem": 1852.7416894138037,
+    "source": "Nominatim/OSM node/442880977 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    44.93333333333333,
+    6.738333333333333,
+    1817.0657958984375
+   ],
+   "used": {
+    "lat": 44.9312741,
+    "lon": 6.7257053,
+    "z_dem": 1852.7416894138037
+   },
+   "col": {
+    "z_obs": 1852.7416894138037,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [
+    {
+     "z_obs": 1850.806878457049,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 44.93171,
+     "lon": 6.72626
+    },
+    {
+     "z_obs": 1841.8344582031248,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 44.93206,
+     "lon": 6.7294
+    },
+    {
+     "z_obs": 1837.3759880273678,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 44.93241,
+     "lon": 6.73254
+    },
+    {
+     "z_obs": 1826.4393158281666,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.0,
+     "lat": 44.93276,
+     "lon": 6.73567
+    },
+    {
+     "z_obs": 1810.7544071874956,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.25,
+     "lat": 44.93311,
+     "lon": 6.73881
+    },
+    {
+     "z_obs": 1803.5559242558436,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 44.93387,
+     "lon": 6.74167
+    },
+    {
+     "z_obs": 1789.3917635585808,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 44.93537,
+     "lon": 6.74403
+    },
+    {
+     "z_obs": 1783.1913464062432,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 44.93687,
+     "lon": 6.7464
+    },
+    {
+     "z_obs": 1777.987856382873,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 44.93838,
+     "lon": 6.74876
+    },
+    {
+     "z_obs": 1757.1704501347374,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 44.93917,
+     "lon": 6.75151
+    },
+    {
+     "z_obs": 1746.0977979297481,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 44.93937,
+     "lon": 6.7546
+    },
+    {
+     "z_obs": 1744.6894619843788,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 44.94061,
+     "lon": 6.75724
+    },
+    {
+     "z_obs": 1595.3594528396602,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 44.94559,
+     "lon": 6.76782
+    },
+    {
+     "z_obs": 1509.6706981874572,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 44.94798,
+     "lon": 6.77984
+    },
+    {
+     "z_obs": 1351.1533994140646,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 6.0,
+     "lat": 44.9525,
+     "lon": 6.79083
+    },
+    {
+     "z_obs": 1327.4204406738281,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 7.0,
+     "lat": 44.96125,
+     "lon": 6.79375
+    },
+    {
+     "z_obs": 1276.207599121101,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 8.0,
+     "lat": 44.97,
+     "lon": 6.79667
+    },
+    {
+     "z_obs": 1247.8501159375112,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 44.97815,
+     "lon": 6.80148
+    },
+    {
+     "z_obs": 1214.6786817968687,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 44.9863,
+     "lon": 6.80598
+    }
+   ],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 1955.999877929644,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 44.928333333333335,
+    "lon": 6.7283333333333335,
+    "z": 1955.9998779296875,
+    "dist_m": 386.9148670356217,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2156.350830078027,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 44.939166666666665,
+    "lon": 6.7175,
+    "z": 2156.350830078125,
+    "dist_m": 1089.7233909713577,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 91,
+    "n_with_plain_visible": 0,
+    "best": {
+     "z_obs": 2142.0930175781905,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "lat": 44.9425,
+     "lon": 6.724166666666667,
+     "z": 2142.093017578125,
+     "dist_m": 1253.435873470363
+    }
+   }
+  },
+  "Col de la Traversette": {
+   "geocoded": {
+    "lat": 44.7108916,
+    "lon": 7.0663531,
+    "z_dem": 2911.908847533127,
+    "source": "Nominatim/OSM node/293467280 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    44.7075,
+    7.07,
+    2699.96142578125
+   ],
+   "used": {
+    "lat": 44.7108916,
+    "lon": 7.0663531,
+    "z_dem": 2911.908847533127
+   },
+   "col": {
+    "z_obs": 2911.908847533127,
+    "plain_visible": true,
+    "frac_azimuths_plain_visible": 0.17291666666666666,
+    "n_visible_plain_samples": 76303,
+    "nearest_plain": {
+     "km": 25.56,
+     "azimuth": 107.75,
+     "lat": 44.640400201643175,
+     "lon": 7.374033608902576,
+     "z": 388.3969024970632
+    },
+    "farthest_plain": {
+     "km": 119.97,
+     "azimuth": 59.75,
+     "lat": 45.24682169032419,
+     "lon": 8.390161301650696,
+     "z": 125.24376672723075
+    },
+    "azimuth_range_with_plain": [
+     59.75,
+     122.75
+    ]
+   },
+   "descent_points": [
+    {
+     "z_obs": 2734.9417390078256,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.11527777777777778,
+     "n_visible_plain_samples": 42570,
+     "nearest_plain": {
+      "km": 26.46,
+      "azimuth": 107.0,
+      "lat": 44.63941055587161,
+      "lon": 7.388356227861835,
+      "z": 367.63228841229636
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 81.25,
+      "lat": 44.86369872333727,
+      "lon": 8.57310676385775,
+      "z": 98.78153441127813
+     },
+     "azimuth_range_with_plain": [
+      81.25,
+      122.5
+     ],
+     "km_from_col": 0.25,
+     "lat": 44.70943,
+     "lon": 7.06854
+    },
+    {
+     "z_obs": 2661.1870393437507,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.13472222222222222,
+     "n_visible_plain_samples": 43982,
+     "nearest_plain": {
+      "km": 26.91,
+      "azimuth": 106.5,
+      "lat": 44.638821903711,
+      "lon": 7.397047392488342,
+      "z": 357.16430298294625
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 74.25,
+      "lat": 44.99150410812618,
+      "lon": 8.539325580688441,
+      "z": 187.9947614958902
+     },
+     "azimuth_range_with_plain": [
+      74.25,
+      122.5
+     ],
+     "km_from_col": 0.5,
+     "lat": 44.70802,
+     "lon": 7.07094
+    },
+    {
+     "z_obs": 2539.3824151171684,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.1076388888888889,
+     "n_visible_plain_samples": 37158,
+     "nearest_plain": {
+      "km": 27.27,
+      "azimuth": 106.25,
+      "lat": 44.637955347108296,
+      "lon": 7.4046990948766,
+      "z": 347.2416758783985
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 81.75,
+      "lat": 44.851994073717236,
+      "lon": 8.580034496912047,
+      "z": 101.25396706701163
+     },
+     "azimuth_range_with_plain": [
+      81.75,
+      121.25
+     ],
+     "km_from_col": 0.75,
+     "lat": 44.70706,
+     "lon": 7.07381
+    },
+    {
+     "z_obs": 2406.1983040234572,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.06458333333333334,
+     "n_visible_plain_samples": 21162,
+     "nearest_plain": {
+      "km": 27.45,
+      "azimuth": 106.25,
+      "lat": 44.637106046007176,
+      "lon": 7.409918317242323,
+      "z": 343.7616114084793
+     },
+     "farthest_plain": {
+      "km": 119.88,
+      "azimuth": 92.75,
+      "lat": 44.64494103004235,
+      "lon": 8.590501624651372,
+      "z": 392.7861147340121
+     },
+     "azimuth_range_with_plain": [
+      92.5,
+      115.5
+     ],
+     "km_from_col": 1.0,
+     "lat": 44.70667,
+     "lon": 7.07685
+    },
+    {
+     "z_obs": 2358.9662840039773,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.043055555555555555,
+     "n_visible_plain_samples": 14712,
+     "nearest_plain": {
+      "km": 27.45,
+      "azimuth": 106.5,
+      "lat": 44.63607384609295,
+      "lon": 7.412645632253181,
+      "z": 340.3854299388593
+     },
+     "farthest_plain": {
+      "km": 81.09,
+      "azimuth": 114.25,
+      "lat": 44.40335730551194,
+      "lon": 8.010710408918973,
+      "z": 393.56454818411294
+     },
+     "azimuth_range_with_plain": [
+      100.25,
+      115.5
+     ],
+     "km_from_col": 1.25,
+     "lat": 44.70667,
+     "lon": 7.08001
+    },
+    {
+     "z_obs": 2332.016868367244,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.03125,
+     "n_visible_plain_samples": 8755,
+     "nearest_plain": {
+      "km": 34.74,
+      "azimuth": 108.75,
+      "lat": 44.605240392313554,
+      "lon": 7.498604536742707,
+      "z": 398.52560125352585
+     },
+     "farthest_plain": {
+      "km": 80.37,
+      "azimuth": 114.75,
+      "lat": 44.40012405959328,
+      "lon": 8.001794091013956,
+      "z": 398.8976632015191
+     },
+     "azimuth_range_with_plain": [
+      105.0,
+      116.0
+     ],
+     "km_from_col": 1.5,
+     "lat": 44.70642,
+     "lon": 7.08307
+    },
+    {
+     "z_obs": 2287.5437311642254,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.04027777777777778,
+     "n_visible_plain_samples": 13515,
+     "nearest_plain": {
+      "km": 27.09,
+      "azimuth": 106.25,
+      "lat": 44.63659464322383,
+      "lon": 7.414467289495119,
+      "z": 338.48791534200194
+     },
+     "farthest_plain": {
+      "km": 80.19,
+      "azimuth": 114.5,
+      "lat": 44.402483913653356,
+      "lon": 8.004308780877661,
+      "z": 394.61679404900696
+     },
+     "azimuth_range_with_plain": [
+      100.75,
+      115.0
+     ],
+     "km_from_col": 1.75,
+     "lat": 44.70524,
+     "lon": 7.08577
+    },
+    {
+     "z_obs": 2214.674872999938,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.0006944444444444445,
+     "n_visible_plain_samples": 7,
+     "nearest_plain": {
+      "km": 69.48,
+      "azimuth": 112.5,
+      "lat": 44.46207872383741,
+      "lon": 7.897315733439178,
+      "z": 338.0578724610473
+     },
+     "farthest_plain": {
+      "km": 70.29,
+      "azimuth": 112.5,
+      "lat": 44.45922413026743,
+      "lon": 7.906705645770723,
+      "z": 390.8459824529741
+     },
+     "azimuth_range_with_plain": [
+      112.5,
+      112.5
+     ],
+     "km_from_col": 2.0,
+     "lat": 44.70406,
+     "lon": 7.08846
+    },
+    {
+     "z_obs": 2140.7774238672323,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.021527777777777778,
+     "n_visible_plain_samples": 5585,
+     "nearest_plain": {
+      "km": 35.1,
+      "azimuth": 105.0,
+      "lat": 44.620379406397646,
+      "lon": 7.519524564709793,
+      "z": 372.5103098137689
+     },
+     "farthest_plain": {
+      "km": 73.44,
+      "azimuth": 105.25,
+      "lat": 44.52566565116152,
+      "lon": 7.98494081758813,
+      "z": 393.32960013310833
+     },
+     "azimuth_range_with_plain": [
+      102.75,
+      110.25
+     ],
+     "km_from_col": 2.25,
+     "lat": 44.70288,
+     "lon": 7.09115
+    },
+    {
+     "z_obs": 2042.1858757814168,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 44.7017,
+     "lon": 7.09385
+    },
+    {
+     "z_obs": 2013.2202250390444,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 44.7007,
+     "lon": 7.09664
+    },
+    {
+     "z_obs": 2023.3578341288335,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 44.70019,
+     "lon": 7.09972
+    },
+    {
+     "z_obs": 1976.8122768594772,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.00625,
+     "n_visible_plain_samples": 439,
+     "nearest_plain": {
+      "km": 57.06,
+      "azimuth": 117.75,
+      "lat": 44.46475737570855,
+      "lon": 7.7457395858527835,
+      "z": 396.97785168312345
+     },
+     "farthest_plain": {
+      "km": 68.4,
+      "azimuth": 118.5,
+      "lat": 44.409435822747845,
+      "lon": 7.866169258386727,
+      "z": 389.45882416881966
+     },
+     "azimuth_range_with_plain": [
+      117.5,
+      119.5
+     ],
+     "km_from_col": 4.0,
+     "lat": 44.70546,
+     "lon": 7.10941
+    },
+    {
+     "z_obs": 1835.4812275390093,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.059027777777777776,
+     "n_visible_plain_samples": 13094,
+     "nearest_plain": {
+      "km": 25.74,
+      "azimuth": 107.5,
+      "lat": 44.63327082517963,
+      "lon": 7.431078982884224,
+      "z": 352.43962704906585
+     },
+     "farthest_plain": {
+      "km": 117.0,
+      "azimuth": 92.25,
+      "lat": 44.65245351824874,
+      "lon": 8.598878167195783,
+      "z": 381.6199949730101
+     },
+     "azimuth_range_with_plain": [
+      92.25,
+      113.25
+     ],
+     "km_from_col": 5.0,
+     "lat": 44.7033,
+     "lon": 7.12084
+    },
+    {
+     "z_obs": 1622.0490382383098,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.03125,
+     "n_visible_plain_samples": 7753,
+     "nearest_plain": {
+      "km": 25.11,
+      "azimuth": 108.0,
+      "lat": 44.63261026888599,
+      "lon": 7.435268003235495,
+      "z": 390.6343150999505
+     },
+     "farthest_plain": {
+      "km": 70.2,
+      "azimuth": 106.0,
+      "lat": 44.52560596964134,
+      "lon": 7.984704326350604,
+      "z": 393.1249973976671
+     },
+     "azimuth_range_with_plain": [
+      100.75,
+      111.75
+     ],
+     "km_from_col": 6.0,
+     "lat": 44.70279,
+     "lon": 7.13347
+    },
+    {
+     "z_obs": 1456.3625941642151,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.017361111111111112,
+     "n_visible_plain_samples": 3591,
+     "nearest_plain": {
+      "km": 31.41,
+      "azimuth": 109.0,
+      "lat": 44.60889988691358,
+      "lon": 7.521086824842949,
+      "z": 382.9721953049676
+     },
+     "farthest_plain": {
+      "km": 69.03,
+      "azimuth": 106.25,
+      "lat": 44.52470660236647,
+      "lon": 7.98189840068514,
+      "z": 379.5861908416128
+     },
+     "azimuth_range_with_plain": [
+      105.5,
+      111.5
+     ],
+     "km_from_col": 7.0,
+     "lat": 44.70148,
+     "lon": 7.14592
+    },
+    {
+     "z_obs": 1346.960526703098,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.007638888888888889,
+     "n_visible_plain_samples": 925,
+     "nearest_plain": {
+      "km": 33.39,
+      "azimuth": 108.25,
+      "lat": 44.603241474905076,
+      "lon": 7.5579208216051805,
+      "z": 366.972194999154
+     },
+     "farthest_plain": {
+      "km": 65.7,
+      "azimuth": 107.0,
+      "lat": 44.52248533234734,
+      "lon": 7.949895495773529,
+      "z": 397.3181924541878
+     },
+     "azimuth_range_with_plain": [
+      107.0,
+      109.5
+     ],
+     "km_from_col": 8.0,
+     "lat": 44.69798,
+     "lon": 7.15738
+    },
+    {
+     "z_obs": 1238.1800818474917,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 44.69613,
+     "lon": 7.16954
+    },
+    {
+     "z_obs": 1111.9499287892015,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 44.69136,
+     "lon": 7.18026
+    }
+   ],
+   "first_descent_point_with_plain": {
+    "z_obs": 2734.9417390078256,
+    "plain_visible": true,
+    "frac_azimuths_plain_visible": 0.11527777777777778,
+    "n_visible_plain_samples": 42570,
+    "nearest_plain": {
+     "km": 26.46,
+     "azimuth": 107.0,
+     "lat": 44.63941055587161,
+     "lon": 7.388356227861835,
+     "z": 367.63228841229636
+    },
+    "farthest_plain": {
+     "km": 119.97,
+     "azimuth": 81.25,
+     "lat": 44.86369872333727,
+     "lon": 8.57310676385775,
+     "z": 98.78153441127813
+    },
+    "azimuth_range_with_plain": [
+     81.25,
+     122.5
+    ],
+    "km_from_col": 0.25,
+    "lat": 44.70943,
+    "lon": 7.06854
+   },
+   "knoll_+100": {
+    "z_obs": 3048.2597656248186,
+    "plain_visible": true,
+    "frac_azimuths_plain_visible": 0.21736111111111112,
+    "n_visible_plain_samples": 135632,
+    "nearest_plain": {
+     "km": 24.84,
+     "azimuth": 50.25,
+     "lat": 44.851756027736734,
+     "lon": 7.307268777598437,
+     "z": 369.99256013161573
+    },
+    "farthest_plain": {
+     "km": 119.97,
+     "azimuth": 45.5,
+     "lat": 45.46018158681652,
+     "lon": 8.162138095036463,
+     "z": 217.06993107780778
+    },
+    "azimuth_range_with_plain": [
+     44.5,
+     122.5
+    ],
+    "lat": 44.70916666666667,
+    "lon": 7.065,
+    "z": 3048.259765625,
+    "dist_m": 219.55825424306025,
+    "dz_target": 100
+   },
+   "knoll_+300": null,
+   "vantage_scan": {
+    "n_points": 18,
+    "n_with_plain_visible": 14,
+    "best": {
+     "z_obs": 3001.163085937402,
+     "plain_visible": true,
+     "frac_azimuths_plain_visible": 0.25555555555555554,
+     "n_visible_plain_samples": 163106,
+     "nearest_plain": {
+      "km": 22.68,
+      "azimuth": 52.0,
+      "lat": 44.84285004547327,
+      "lon": 7.300848606525238,
+      "z": 395.78888106700714
+     },
+     "farthest_plain": {
+      "km": 119.97,
+      "azimuth": 45.5,
+      "lat": 45.4685133921722,
+      "lon": 8.171466943707992,
+      "z": 216.35317660749294
+     },
+     "azimuth_range_with_plain": [
+      32.0,
+      123.75
+     ],
+     "lat": 44.7175,
+     "lon": 7.074166666666667,
+     "z": 3001.1630859375,
+     "dist_m": 959.9214530516788
+    }
+   }
+  },
+  "Col de Larche": {
+   "geocoded": {
+    "lat": 44.4218328,
+    "lon": 6.8984272,
+    "z_dem": 1996.2608982748795,
+    "source": "Nominatim/OSM node/928715494 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    44.41916666666667,
+    6.885833333333334,
+    1907.56591796875
+   ],
+   "used": {
+    "lat": 44.4218328,
+    "lon": 6.8984272,
+    "z_dem": 1996.2608982748795
+   },
+   "col": {
+    "z_obs": 1996.2608982748795,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [
+    {
+     "z_obs": 1999.4016555742407,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 44.42149,
+     "lon": 6.89858
+    },
+    {
+     "z_obs": 1989.2660578125017,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 44.4199,
+     "lon": 6.90081
+    },
+    {
+     "z_obs": 1971.8540739238358,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 44.41831,
+     "lon": 6.90303
+    },
+    {
+     "z_obs": 1971.8382096328116,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.0,
+     "lat": 44.41672,
+     "lon": 6.90526
+    },
+    {
+     "z_obs": 1973.0247307304544,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.25,
+     "lat": 44.41513,
+     "lon": 6.90748
+    },
+    {
+     "z_obs": 1979.2252747148736,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 44.41354,
+     "lon": 6.90971
+    },
+    {
+     "z_obs": 1977.9002730078616,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 44.41195,
+     "lon": 6.91194
+    },
+    {
+     "z_obs": 1981.0952462032492,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 44.41036,
+     "lon": 6.91416
+    },
+    {
+     "z_obs": 1958.5185785390943,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 44.40883,
+     "lon": 6.91646
+    },
+    {
+     "z_obs": 1933.9630368476542,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 44.40748,
+     "lon": 6.91897
+    },
+    {
+     "z_obs": 1915.4768818047314,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 44.40612,
+     "lon": 6.92148
+    },
+    {
+     "z_obs": 1908.2989080077916,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 44.40477,
+     "lon": 6.924
+    },
+    {
+     "z_obs": 1810.1254765821095,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 44.39936,
+     "lon": 6.93405
+    },
+    {
+     "z_obs": 1684.081744824224,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 44.39387,
+     "lon": 6.942
+    },
+    {
+     "z_obs": 1651.5339978711072,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 6.0,
+     "lat": 44.39253,
+     "lon": 6.9541
+    },
+    {
+     "z_obs": 1642.6307000097859,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 7.0,
+     "lat": 44.38603,
+     "lon": 6.96235
+    },
+    {
+     "z_obs": 1619.7867818358986,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 8.0,
+     "lat": 44.3792,
+     "lon": 6.97019
+    },
+    {
+     "z_obs": 1573.4164198203903,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 44.37362,
+     "lon": 6.98006
+    },
+    {
+     "z_obs": 1492.5196393944482,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 44.36718,
+     "lon": 6.98865
+    }
+   ],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 2097.8027343749695,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 44.420833333333334,
+    "lon": 6.8933333333333335,
+    "z": 2097.802734375,
+    "dist_m": 419.9452743172615,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2298.3171386719405,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 44.42666666666667,
+    "lon": 6.906666666666666,
+    "z": 2298.317138671875,
+    "dist_m": 847.1797958274921,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 68,
+    "n_with_plain_visible": 0,
+    "best": {
+     "z_obs": 2131.957519531096,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "lat": 44.43333333333333,
+     "lon": 6.889166666666666,
+     "z": 2131.95751953125,
+     "dist_m": 1474.979332360782
+    }
+   }
+  },
+  "Col du Grand-Saint-Bernard": {
+   "geocoded": {
+    "lat": 45.8690526,
+    "lon": 7.1704088,
+    "z_dem": 2471.8487426395295,
+    "source": "Nominatim/OSM node/2001818936 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    45.8775,
+    7.184166666666667,
+    2251.37353515625
+   ],
+   "used": {
+    "lat": 45.8690526,
+    "lon": 7.1704088,
+    "z_dem": 2471.8487426395295
+   },
+   "col": {
+    "z_obs": 2471.8487426395295,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [
+    {
+     "z_obs": 2473.66642020301,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.25,
+     "lat": 45.86924,
+     "lon": 7.17031
+    },
+    {
+     "z_obs": 2446.568791093709,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.5,
+     "lat": 45.86829,
+     "lon": 7.16738
+    },
+    {
+     "z_obs": 2448.0191523437534,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 0.75,
+     "lat": 45.8671,
+     "lon": 7.1649
+    },
+    {
+     "z_obs": 2436.350043124961,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.0,
+     "lat": 45.86488,
+     "lon": 7.16435
+    },
+    {
+     "z_obs": 2445.0294110310856,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.25,
+     "lat": 45.86279,
+     "lon": 7.16509
+    },
+    {
+     "z_obs": 2442.3092504882607,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.5,
+     "lat": 45.86075,
+     "lon": 7.16645
+    },
+    {
+     "z_obs": 2436.7601307461928,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 1.75,
+     "lat": 45.85871,
+     "lon": 7.16781
+    },
+    {
+     "z_obs": 2280.7121339297896,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.0,
+     "lat": 45.85667,
+     "lon": 7.16916
+    },
+    {
+     "z_obs": 2168.230521937499,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.25,
+     "lat": 45.85463,
+     "lon": 7.17052
+    },
+    {
+     "z_obs": 2065.3792886483707,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.5,
+     "lat": 45.85259,
+     "lon": 7.17188
+    },
+    {
+     "z_obs": 1946.664039160015,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 2.75,
+     "lat": 45.85055,
+     "lon": 7.17324
+    },
+    {
+     "z_obs": 1832.9398910545428,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 3.0,
+     "lat": 45.84851,
+     "lon": 7.1746
+    },
+    {
+     "z_obs": 1718.550366375082,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 4.0,
+     "lat": 45.84036,
+     "lon": 7.18004
+    },
+    {
+     "z_obs": 1643.4744847617462,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 5.0,
+     "lat": 45.83191,
+     "lon": 7.18406
+    },
+    {
+     "z_obs": 1523.7450966093472,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 6.0,
+     "lat": 45.82333,
+     "lon": 7.18301
+    },
+    {
+     "z_obs": 1366.854341699218,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 7.0,
+     "lat": 45.82055,
+     "lon": 7.19501
+    },
+    {
+     "z_obs": 1312.3692249121145,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 8.0,
+     "lat": 45.82155,
+     "lon": 7.20751
+    },
+    {
+     "z_obs": 1284.718467511663,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 9.0,
+     "lat": 45.82153,
+     "lon": 7.22034
+    },
+    {
+     "z_obs": 1271.96153803907,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "km_from_col": 10.0,
+     "lat": 45.82009,
+     "lon": 7.23219
+    }
+   ],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 2576.1489257810235,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.87083333333333,
+    "lon": 7.170833333333333,
+    "z": 2576.14892578125,
+    "dist_m": 200.61367262302755,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 2780.4526367184803,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 45.86333333333333,
+    "lon": 7.171666666666667,
+    "z": 2780.45263671875,
+    "dist_m": 643.0283040760389,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 57,
+    "n_with_plain_visible": 0,
+    "best": {
+     "z_obs": 2752.9912109373654,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "lat": 45.880833333333335,
+     "lon": 7.163333333333334,
+     "z": 2752.9912109375,
+     "dist_m": 1419.446552309011
+    }
+   }
+  },
+  "Col Agnel": {
+   "geocoded": {
+    "lat": 44.6838851,
+    "lon": 6.9795875,
+    "z_dem": 2731.3067304753145,
+    "source": "Nominatim/OSM node/412129180 (yes)"
+   },
+   "saddle_dem_diagnostic": [
+    44.68833333333333,
+    6.966666666666667,
+    2497.931884765625
+   ],
+   "used": {
+    "lat": 44.6838851,
+    "lon": 6.9795875,
+    "z_dem": 2731.3067304753145
+   },
+   "col": {
+    "z_obs": 2731.3067304753145,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0
+   },
+   "descent_points": [],
+   "first_descent_point_with_plain": null,
+   "knoll_+100": {
+    "z_obs": 2833.0688476562646,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 44.68,
+    "lon": 6.975,
+    "z": 2833.06884765625,
+    "dist_m": 564.1381936252981,
+    "dz_target": 100
+   },
+   "knoll_+300": {
+    "z_obs": 3055.660644531043,
+    "plain_visible": false,
+    "frac_azimuths_plain_visible": 0.0,
+    "n_visible_plain_samples": 0,
+    "lat": 44.69,
+    "lon": 6.993333333333334,
+    "z": 3055.66064453125,
+    "dist_m": 1282.753404837482,
+    "dz_target": 300
+   },
+   "vantage_scan": {
+    "n_points": 47,
+    "n_with_plain_visible": 0,
+    "best": {
+     "z_obs": 2736.4404296875277,
+     "plain_visible": false,
+     "frac_azimuths_plain_visible": 0.0,
+     "n_visible_plain_samples": 0,
+     "lat": 44.695,
+     "lon": 6.9775,
+     "z": 2736.4404296875,
+     "dist_m": 1246.2220353251157
+    }
+   }
+  }
+ }
+}

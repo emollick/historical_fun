@@ -1,0 +1,31 @@
+SH,FL,THEO,R18   theo_happy_captive             n= 6 delta={np.str_('THEO'): 6} svm={np.str_('THEO'): 2, np.str_('R18'): 4} meanP=SH=0.10 FL=0.02 THEO=0.38 R18=0.51
+SH,FL,THEO,R18   theo_orestes                   n=18 delta={np.str_('THEO'): 18} svm={np.str_('SH'): 3, np.str_('R18'): 14, np.str_('THEO'): 1} meanP=SH=0.20 FL=0.03 THEO=0.16 R18=0.61
+SH,FL,THEO,R18   theo_perfidious_brother        n=12 delta={np.str_('R18'): 4, np.str_('THEO'): 8} svm={np.str_('R18'): 12} meanP=SH=0.02 FL=0.05 THEO=0.07 R18=0.85
+SH,FL,THEO,R18   theo_persian_princess          n=11 delta={np.str_('THEO'): 11} svm={np.str_('R18'): 5, np.str_('THEO'): 6} meanP=SH=0.09 FL=0.05 THEO=0.46 R18=0.40
+SH,FL,THEO,R18   r18_rowe_fair_penitent         n= 6 delta={np.str_('R18'): 5, np.str_('THEO'): 1} svm={np.str_('R18'): 6} meanP=SH=0.02 FL=0.01 THEO=0.02 R18=0.95
+SH,FL,THEO,R18   r18_rowe_lady_jane_gray        n= 5 delta={np.str_('R18'): 2, np.str_('THEO'): 3} svm={np.str_('R18'): 5} meanP=SH=0.02 FL=0.00 THEO=0.01 R18=0.97
+SH,FL,THEO,R18   r18_hill_athelwold             n= 7 delta={np.str_('THEO'): 1, np.str_('R18'): 6} svm={np.str_('THEO'): 1, np.str_('R18'): 6} meanP=SH=0.06 FL=0.01 THEO=0.06 R18=0.87
+SH,FL,THEO,R18   r18_thomson_sophonisba         n=18 delta={np.str_('THEO'): 7, np.str_('R18'): 11} svm={np.str_('R18'): 18} meanP=SH=0.00 FL=0.03 THEO=0.03 R18=0.93
+SH,FL,THEO,R18   r18_savage_overbury            n= 5 delta={np.str_('R18'): 4, np.str_('THEO'): 1} svm={np.str_('R18'): 5} meanP=SH=0.00 FL=0.01 THEO=0.02 R18=0.97
+SH,FL,THEO,R18   r18_dennis_liberty_asserted    n=19 delta={np.str_('R18'): 15, np.str_('SH'): 1, np.str_('THEO'): 3} svm={np.str_('R18'): 17, np.str_('SH'): 1, np.str_('FL'): 1} meanP=SH=0.07 FL=0.07 THEO=0.03 R18=0.83
+SH,FL,THEO,R18   r18_manley_lucius              n= 5 delta={np.str_('THEO'): 1, np.str_('R18'): 4} svm={np.str_('R18'): 5} meanP=SH=0.01 FL=0.00 THEO=0.01 R18=0.98
+SH,FL,THEO,R18   r18_philips_briton             n=17 delta={np.str_('THEO'): 9, np.str_('R18'): 7, np.str_('SH'): 1} svm={np.str_('R18'): 13, np.str_('SH'): 4} meanP=SH=0.19 FL=0.01 THEO=0.06 R18=0.74
+SH,FL,THEO,R18   mestayer_perfidious_brother    n=16 delta={np.str_('THEO'): 10, np.str_('R18'): 6} svm={np.str_('R18'): 14, np.str_('FL'): 2} meanP=SH=0.01 FL=0.16 THEO=0.07 R18=0.76
+SH,FL,THEO,R18   dfocr_double_falsehood         n=18 delta={np.str_('THEO'): 8, np.str_('R18'): 3, np.str_('SH'): 1, np.str_('FL'): 6} svm={np.str_('SH'): 7, np.str_('R18'): 7, np.str_('FL'): 4} meanP=SH=0.30 FL=0.22 THEO=0.05 R18=0.42
+SH,FL,THEO,R18   df_double_falsehood            n=14 delta={np.str_('THEO'): 3, np.str_('R18'): 5, np.str_('FL'): 6} svm={np.str_('R18'): 6, np.str_('SH'): 5, np.str_('FL'): 3} meanP=SH=0.36 FL=0.21 THEO=0.03 R18=0.40
+SH,FL,THEO       theo_happy_captive             n= 6 delta={np.str_('THEO'): 6} svm={np.str_('THEO'): 5, np.str_('SH'): 1} meanP=SH=0.22 FL=0.07 THEO=0.71
+SH,FL,THEO       theo_orestes                   n=18 delta={np.str_('THEO'): 18} svm={np.str_('SH'): 7, np.str_('THEO'): 11} meanP=SH=0.48 FL=0.03 THEO=0.50
+SH,FL,THEO       theo_perfidious_brother        n=12 delta={np.str_('THEO'): 12} svm={np.str_('THEO'): 9, np.str_('FL'): 2, np.str_('SH'): 1} meanP=SH=0.15 FL=0.39 THEO=0.46
+SH,FL,THEO       theo_persian_princess          n=11 delta={np.str_('THEO'): 11} svm={np.str_('THEO'): 10, np.str_('SH'): 1} meanP=SH=0.19 FL=0.06 THEO=0.75
+SH,FL,THEO       r18_rowe_fair_penitent         n= 6 delta={np.str_('THEO'): 6} svm={np.str_('SH'): 4, np.str_('FL'): 1, np.str_('THEO'): 1} meanP=SH=0.51 FL=0.18 THEO=0.31
+SH,FL,THEO       r18_rowe_lady_jane_gray        n= 5 delta={np.str_('THEO'): 5} svm={np.str_('FL'): 1, np.str_('SH'): 3, np.str_('THEO'): 1} meanP=SH=0.65 FL=0.14 THEO=0.21
+SH,FL,THEO       r18_hill_athelwold             n= 7 delta={np.str_('THEO'): 7} svm={np.str_('THEO'): 6, np.str_('SH'): 1} meanP=SH=0.26 FL=0.15 THEO=0.59
+SH,FL,THEO       r18_thomson_sophonisba         n=18 delta={np.str_('THEO'): 18} svm={np.str_('THEO'): 14, np.str_('SH'): 3, np.str_('FL'): 1} meanP=SH=0.26 FL=0.17 THEO=0.57
+SH,FL,THEO       r18_savage_overbury            n= 5 delta={np.str_('THEO'): 5} svm={np.str_('THEO'): 5} meanP=SH=0.17 FL=0.15 THEO=0.67
+SH,FL,THEO       r18_dennis_liberty_asserted    n=19 delta={np.str_('THEO'): 17, np.str_('SH'): 2} svm={np.str_('SH'): 12, np.str_('THEO'): 1, np.str_('FL'): 6} meanP=SH=0.55 FL=0.29 THEO=0.16
+SH,FL,THEO       r18_manley_lucius              n= 5 delta={np.str_('THEO'): 5} svm={np.str_('THEO'): 2, np.str_('SH'): 3} meanP=SH=0.42 FL=0.03 THEO=0.55
+SH,FL,THEO       r18_philips_briton             n=17 delta={np.str_('THEO'): 15, np.str_('SH'): 1, np.str_('FL'): 1} svm={np.str_('THEO'): 8, np.str_('SH'): 7, np.str_('FL'): 2} meanP=SH=0.44 FL=0.15 THEO=0.41
+SH,FL,THEO       mestayer_perfidious_brother    n=16 delta={np.str_('THEO'): 16} svm={np.str_('THEO'): 12, np.str_('FL'): 4} meanP=SH=0.10 FL=0.37 THEO=0.53
+SH,FL,THEO       dfocr_double_falsehood         n=18 delta={np.str_('THEO'): 11, np.str_('SH'): 1, np.str_('FL'): 6} svm={np.str_('SH'): 11, np.str_('FL'): 7} meanP=SH=0.55 FL=0.36 THEO=0.09
+SH,FL,THEO       df_double_falsehood            n=14 delta={np.str_('THEO'): 7, np.str_('SH'): 1, np.str_('FL'): 6} svm={np.str_('SH'): 11, np.str_('FL'): 3} meanP=SH=0.60 FL=0.33 THEO=0.07
+done 30

@@ -1,0 +1,75 @@
+TEXT: 'The third voyage made by a ship sent in the yeere 1586, to the reliefe of the Colony planted in Virginia at the sole charges of Sir Walter Ralegh' (Hakluyt 1600, vol. III, p. 265)
+GOLDSMID SECTION: XXVIII (Gutenberg #25645 file lines 11953-12023)
+SOURCE EDITION: Richard Hakluyt, The Principal Navigations, Voyages, Traffiques and Discoveries of the English Nation, ed. Edmund Goldsmid, vol. XIII 'America, Part II' (Edinburgh: E. & G. Goldsmid, 1889), text as transcribed by Project Gutenberg eBook #25645 (release 2008-05-29, updated 2020-06-20). Goldsmid reprints the text of the 1600 edition (vol. III) with original spelling (u/v, i/j as printed); Hakluyt's marginal notes are given as bracketed (Mnnn) references and Goldsmid's footnotes as (nnn) numbers.
+URL FETCHED: https://www.gutenberg.org/cache/epub/25645/pg25645.txt  (also https://www.gutenberg.org/files/25645/25645-8.txt)
+DATE FETCHED: 2026-09-14
+1600-EDITION PAGE NUMBERS: taken from the '[III. nnn.]' markers in the MacLehose edition (Glasgow 1904, vol. VIII), archive.org id principalnavigat08hakl, which reproduces the 1600 pagination; see maclehose1904_vol8_virginia_section.txt in this folder.
+==============================================================================
+
+XXVIII. The third voyage made by a ship sent in the yeere 1586, to the
+reliefe of the Colony planted in Virginia at the sole charges of Sir
+Walter Ralegh.
+
+
+In the yeere of our Lord 1586 Sir Walter Ralegh at his owne charge
+prepared a ship of an hundred tunne, fraighted with all maner of things in
+most plentifull maner, for the supply and reliefe of his Colony then
+remaining in Virginia: but before they set saile from England it was after
+Easter, so that our Colony halfe despaired of the comming of any supply:
+wherefore euery man prepared for himselfe, determining resolutely to spend
+the residue of their life time in that countrey. And for the better
+performance of this their determination, they sowed, planted, and set such
+things as were necessary for their reliefe in so plentifull a maner as
+might haue sufficed them two yeeres without any further labour. Thus
+trusting to their owne haruest, they passed the Summer till the tenth of
+Iune: at which time their corne which they had sowed was within one
+fortnight of reaping: but then it happened that Sir Francis Drake in his
+prosperous returne from the sacking of Sant Domingo, Cartagena, and Saint
+Augustine, determined in his way homeward to visit his countreymen the
+English Colony then remaining in Virginia. So passing along the coasts of
+Florida, he fell with the parts where our English Colony inhabited: and
+hauing espied some of that company, there be ankered and went aland, where
+he conferred with them of their state and welfare, and how things had
+passed with them. They answered him that they liued all; but hitherto in
+some scarsity: and as yet could heare of no supply out of England:
+therefore they requested him that hee would leaue with them some two or
+three ships, that if in some reasonable time they heard not out of
+England, they might then returne themselues. Which hee agreed to. Whilest
+some were then writing their letters to send into England, and some others
+making reports of the accidents of their trauels to ech other, some on
+land, some on boord, a great storme arose, and droue the most of their
+fleet from their ankers to Sea, in which ships at that instant were the
+chiefest of the English Colony: the rest on land perceiuing this, hasted
+to those three sailes which were appointed to be left there; and for feare
+they should be left behinde they left all things confusedly, as if they
+had bene chased from thence by a mighty army: and no doubt so they were;
+for the hand of God came vpon them for the cruelty and outrages committed
+by some of them against the natiue inhabitants of that countrey.
+
+(M301) Immediatly after the departing of our English Colony out of this
+paradise of the world, the ship abouementioned sent and set forth at the
+charges of Sir Walter Ralegh and his direction, arriued at Hatorask; who
+after some time spent in seeking our Colony vp in the countrey, and not
+finding them, returned with all the aforesayd prouision into England.
+
+(M302) About foureteene or fifteene dayes after the departure of the
+aforesayd shippe, Sir Richard Grinuile Generall of Virginia, accompanied
+with three shippes well appointed for the same voyage, arriued there; who
+not finding the aforesaid shippe according to his expectation, nor hearing
+any newes of our English Colony there seated, and left by him anno 1585,
+himselfe travelling vp into diuers places of the countrey, aswell to see
+if he could heare any newes of the Colony left there by him the yeere
+before, vnder the charge of Master Lane his deputy, as also to discouer
+some places of the countrey; but after some time spent therein, not
+hearing any of them, and finding the places which they inhabited(96)
+(M303) desolate, yet vnwilling to loose the possesion of the countrey
+which Englishmen had so long held: after good deliberation, hee determined
+to leaue some men behinde to reteine possession of the Countrey: whereupon
+he landed fifteene men in the Isle of Roanoak, furnished plentifully with
+all maner of prouisions for two yeeres, and so departed for England.
+
+Not long after he fell with the Isles of Açores, on some of which Islands
+he landed, and spoiled the townes of all such thinges as were woorth
+cariage, where also he tooke diuers Spanyards. With these and many other
+exploits done him in this voyadge, aswell outward as homeward, he returned
+into England.

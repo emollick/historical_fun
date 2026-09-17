@@ -1,0 +1,39 @@
+{
+ "stats": {
+  "noise": 282,
+  "sig": 15,
+  "pagenum": 33,
+  "hyphen_join": 11,
+  "auto": 6,
+  "words_out": 1696,
+  "lines_out": 541
+ },
+ "top_replacements": [
+  [
+   "fue>sue",
+   1
+  ],
+  [
+   "ftriking>striking",
+   1
+  ],
+  [
+   "feft>fest",
+   1
+  ],
+  [
+   "treafure>treasure",
+   1
+  ],
+  [
+   "fq>sq",
+   1
+  ],
+  [
+   "fing>sing",
+   1
+  ]
+ ],
+ "start": null,
+ "end": null
+}

@@ -1,0 +1,26 @@
+title: Whene'er I See Those Smiling Eyes
+author: Thomas Moore
+date: c. 1808-1834
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 16
+attribution: certain
+notes: song (Irish Melodies, 1808-1834)
+
+Whene'er I see those smiling eyes,
+So full of hope, and joy, and light,
+As if no cloud could ever rise,
+To dim a heaven so purely bright--
+I sigh to think how soon that brow
+In grief may lose its every ray,
+And that light heart, so joyous now,
+Almost forget it once was gay.
+
+For time will come with all its blights,
+The ruined hope, the friend unkind,
+And love, that leaves, where'er it lights,
+A chilled or burning heart behind:--
+While youth, that now like snow appears,
+Ere sullied by the darkening rain,
+When once 'tis touched by sorrow's tears
+Can ever shine so bright again.

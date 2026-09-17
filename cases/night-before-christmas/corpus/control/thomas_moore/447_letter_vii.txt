@@ -1,0 +1,19 @@
+title: Letter Vii
+author: Thomas Moore
+date: 1835
+source: https://www.gutenberg.org/ebooks/8187 (The Complete Poems of Sir Thomas Moore, collected by himself, ed. W. M. Rossetti)
+form: iambic tetrameter
+lines: 9
+attribution: certain
+notes: light satirical verse epistle (The Fudge Family in Paris, 1818 / The Fudges in England, 1835)
+
+Bring me the slumbering souls of flowers,
+While yet, beneath some northern sky,
+Ungilt by beams, ungemmed by showers,
+They wait the breath of summer hours,
+To wake to light each diamond eye,
+And let loose every florid sigh!
+
+Bring me the first-born ocean waves,
+From out those deep primeval caves,
+Where from the dawn of Time they've lain--

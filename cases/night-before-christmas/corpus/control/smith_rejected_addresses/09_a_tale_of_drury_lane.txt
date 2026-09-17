@@ -1,0 +1,24 @@
+title: A Tale of Drury Lane
+author: James Smith and Horace Smith
+date: 1812
+source: https://www.gutenberg.org/ebooks/3769 (Rejected Addresses; or, The New Theatrum Poetarum, 1812; 22nd ed.)
+form: iambic tetrameter
+lines: 15
+attribution: certain
+notes: parody (Rejected Addresses, 1812) of Walter Scott; signed "BY W. S. {42}"
+
+SURVEY this shield, all bossy bright—
+These cuisses twain behold!
+Look on my form in armour dight
+Of steel inlaid with gold;
+My knees are stiff in iron buckles,
+Stiff spikes of steel protect my knuckles.
+These once belong’d to sable prince,
+Who never did in battle wince;
+With valour tart as pungent quince,
+He slew the vaunting Gaul.
+Rest there awhile, my bearded lance,
+While from green curtain I advance
+To yon foot-lights—no trivial dance,
+And tell the town what sad mischance
+Did Drury Lane befall.

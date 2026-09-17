@@ -1,0 +1,5 @@
+loaded: moore 46 poems, livingston 66, controls 2756
+mfw200 cand=Clement Clarke Moore: true mean=0.49 (n=95), false mean=0.22 (n=37)
+mfw200 cand=Henry Livingston Jr.: true mean=0.35 (n=37), false mean=0.09 (n=95)
+char4 cand=Clement Clarke Moore: true mean=0.73 (n=95), false mean=0.22 (n=37)
+char4 cand=Henry Livingston Jr.: true mean=0.44 (n=37), false mean=0.12 (n=95)

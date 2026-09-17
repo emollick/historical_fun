@@ -1,0 +1,28 @@
+mode,route,km,nmi,days_slow,days_mid,days_fast
+sea,Dublin -> Mersey/Dee (direct Irish Sea crossing),200,108,2.7,1.5,0.9
+sea,Dublin -> Ribble mouth,213,115,2.9,1.6,1.0
+sea,Dublin -> Solway (Annan) via Isle of Man,265,143,3.6,2.0,1.2
+sea,"Dublin -> Humber, NORTH-ABOUT (Minch, Cape Wrath, Pentland Firth, east coast)",1474,796,19.9,11.4,6.6
+sea,"Dublin -> Humber, SOUTH-ABOUT (Land's End, Channel, Dover, East Anglia)",1306,705,17.6,10.1,5.9
+sea,"Dublin -> Tyne mouth, NORTH-ABOUT",1282,692,17.3,9.9,5.8
+sea,"Humber mouth -> Airmyn (head of Humber, Ouse/Aire junction), river leg",69,37,0.9,0.5,0.3
+land,"Alba (Scone) -> Bromborough, west road via Carlisle, Lancaster, Chester",428,,28.5,21.4,17.1
+land,"Alba (Scone) -> Burnswark, via Clydesdale/Annandale",168,,11.2,8.4,6.7
+land,"Alba (Scone) -> Lanchester, Dere Street",260,,17.3,13.0,10.4
+land,"Alba (Scone) -> Wentbridge, Dere Street via York",414,,27.6,20.7,16.6
+land,"Alba (Scone) -> Brinsworth, Dere Street via York and Doncaster",451,,30.1,22.6,18.0
+land,"Alba (Scone) -> Burnley, west road via Carlisle, Ribchester",350,,23.3,17.5,14.0
+land,"Strathclyde (Govan) -> Bromborough via Carlisle, Lancaster, Chester",390,,26.0,19.5,15.6
+land,Strathclyde (Govan) -> Burnswark,131,,8.7,6.5,5.2
+land,"Strathclyde (Govan) -> Brinsworth via Carlisle, Stainmore, Catterick, York",406,,27.0,20.3,16.2
+land,Winchester -> Bromborough via Watling Street and Chester,331,,22.1,16.6,13.2
+land,Winchester -> Brinsworth via Fosse Way / Ryknild Street,277,,18.4,13.8,11.1
+land,Winchester -> Wentbridge via Ermine Street and Lincoln,358,,23.9,17.9,14.3
+land,Winchester -> Lanchester via York and Dere Street,502,,33.5,25.1,20.1
+land,"Winchester -> Burnswark via Chester, Lancaster, Carlisle",554,,37.0,27.7,22.2
+land,Dee estuary landing -> Bromborough,16,,1.1,0.8,0.6
+land,Airmyn (Humber head) -> Wentbridge,26,,1.7,1.3,1.0
+land,Airmyn (Humber head) -> Brinsworth,48,,3.2,2.4,1.9
+land,Annan mouth -> Burnswark,15,,1.0,0.8,0.6
+land,Tyne mouth -> Lanchester,33,,2.2,1.6,1.3
+land,Ribble mouth -> Burnley,54,,3.6,2.7,2.2
